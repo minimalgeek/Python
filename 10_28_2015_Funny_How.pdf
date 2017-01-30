@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<!--[if IE 8]> 		<html class="no-js ie ie8"> 	<![endif]-->
+<!--[if IE]> 		<html class="no-js ie"> 		<![endif]-->
+<!--[if !IE]><!--> 	<html class="no-js"> 			<!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>Page not found - Salient</title>
+		
+<!-- This site is optimized with the Yoast SEO plugin v4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found - Salient" />
+<meta property="og:site_name" content="Salient" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Page not found - Salient" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.salientpartners.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.salientpartners.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.salientpartners.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.salientpartners.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.salientpartners.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.salientpartners.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.2" />
+
+		<!--[if lt IE 9]>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+		<![endif]-->
+		<script type="text/javascript" src="/wp-content/themes/salient/lib/modernizr.min.js"></script>
+
+		<link rel="stylesheet" href="/wp-content/themes/salient/css/salient.css?v=20170119">
+		<link rel="stylesheet" href="/wp-content/themes/salient/css/highcharts.css?v=20170122">
+        
+		
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+		<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+		<link rel="manifest" href="/manifest.json">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#25BBB8">
+		<meta name="msapplication-TileColor" content="#25BBB8">
+		<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+        
+        <meta name="google-site-verification" content="Cg7JQz2Cy8CF2L55esZp1mberm99uZ-ytq1xBVB6-0g" />
+        
+        <meta name="google-site-verification" content="0CBjZ5bWs6MaxA7LEl-TVS_WwjRrsTyvlTKq3HcHweQ" />
+        
+        <!-- start munchkin --> 
+        <script type="text/javascript">
+        (function() {
+          var didInit = false;
+          function initMunchkin() {
+            if(didInit === false) {
+              didInit = true;
+              Munchkin.init('012-LNP-863');
+            }
+          }
+          var s = document.createElement('script');
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = '//munchkin.marketo.net/munchkin.js';
+          s.onreadystatechange = function() {
+            if (this.readyState == 'complete' || this.readyState == 'loaded') {
+              initMunchkin();
+            }
+          };
+          s.onload = initMunchkin;
+          document.getElementsByTagName('head')[0].appendChild(s);
+        })();
+        </script>
+
+        <!-- end munchkin -->  
+        
+        <!-- Google Analytics -->
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-29088223-1', 'auto');
+        ga('send', 'pageview');
+        </script>  
+	</head>
+	<body class="">
+		<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KTWJM5"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-KTWJM5');</script>
+		<!-- End Google Tag Manager -->
+		<div id="header">
+			<div class="within">
+				<div class="logo">
+					<a href="/">
+						<!--[if gte IE 9]><!-->
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+							 viewBox="920.7 -98.1 591.5 206.2" enable-background="new 920.7 -98.1 591.5 206.2" xml:space="preserve">
+							<g>
+								<path fill="#25BBB8" d="M1027.5-61.4v-33.2c0-0.2,0-0.5-0.1-0.7c0-0.1-0.1-0.2-0.1-0.3c0-0.1-0.1-0.2-0.1-0.4
+									c0-0.1-0.1-0.2-0.2-0.3c-0.1-0.1-0.1-0.2-0.2-0.3c-0.1-0.2-0.3-0.3-0.4-0.5l0,0l0,0c-0.2-0.2-0.3-0.3-0.5-0.4
+									c-0.1-0.1-0.2-0.1-0.3-0.1c-0.1-0.1-0.2-0.1-0.3-0.2c-0.1,0-0.2-0.1-0.4-0.1c-0.1,0-0.2-0.1-0.3-0.1c-0.2,0-0.5-0.1-0.7-0.1h-33.2
+									c-0.7,0-1.5,0.2-2.1,0.7l-66.4,49.8c-0.1,0.1-0.2,0.2-0.3,0.3c0,0,0,0-0.1,0.1s-0.2,0.3-0.4,0.4c0,0,0,0,0,0.1
+									c-0.1,0.2-0.2,0.3-0.3,0.5c0,0,0,0.1-0.1,0.1c-0.1,0.2-0.1,0.4-0.2,0.6v0.1c0,0.2-0.1,0.4-0.1,0.6V5c0,1.9,1.5,3.5,3.5,3.5h42.9
+									l-45.7,60.8c-0.5,0.6-0.7,1.3-0.7,2.1v33.2c0,0.2,0,0.5,0.1,0.7c0,0.1,0.1,0.2,0.1,0.3c0,0.1,0.1,0.2,0.1,0.4
+									c0,0.1,0.1,0.2,0.2,0.3c0.1,0.1,0.1,0.2,0.2,0.3c0.1,0.2,0.3,0.3,0.4,0.5l0,0l0,0c0.2,0.2,0.3,0.3,0.5,0.4c0.1,0.1,0.2,0.1,0.3,0.1
+									c0.1,0.1,0.2,0.1,0.3,0.2c0.1,0,0.2,0.1,0.4,0.1c0.1,0,0.2,0.1,0.3,0.1c0.2,0,0.5,0.1,0.7,0.1h33.2c0.7,0,1.5-0.2,2.1-0.7
+									l66.4-49.8c0.1-0.1,0.2-0.2,0.3-0.3c0,0,0,0,0.1-0.1c0.1-0.1,0.2-0.3,0.3-0.4c0,0,0,0,0-0.1c0.1-0.2,0.2-0.3,0.3-0.5
+									c0,0,0-0.1,0.1-0.1c0.1-0.2,0.1-0.4,0.2-0.5v-0.1c0-0.2,0.1-0.4,0.1-0.6V5c0-1.9-1.5-3.5-3.5-3.5H981l45.7-60.8
+									C1027.3-59.9,1027.5-60.6,1027.5-61.4z M992-91.1h23.7l-42.9,42.9h-38L992-91.1z M927.9-41.3h42.9V1.6h-42.9V-41.3z M970.8,15.4v38
+									l-42.9,42.9V72.6L970.8,15.4z M956.5,101.1h-23.7l42.9-42.9h38L956.5,101.1z M1020.6,51.3h-42.9V8.4h42.9V51.3z M977.7-5.4v-38
+									l42.9-42.9v23.7L977.7-5.4z"/>
+								<g>
+									<g>
+										<path fill="#3C2E48" d="M1290.7-30.2c0,0.8-0.6,1.4-1.4,1.4h-12.4c-0.8,0-1.4-0.6-1.4-1.4v-12.4c0-0.8,0.6-1.4,1.4-1.4h12.4
+											c0.8,0,1.4,0.6,1.4,1.4V-30.2z"/>
+										<path fill="#3C2E48" d="M1291.2-16.5C1291.2-16.5,1291.2-16.6,1291.2-16.5L1291.2-16.5L1291.2-16.5z"/>
+										<path fill="#3C2E48" d="M1291.2,51.7L1291.2,51.7L1291.2,51.7z"/>
+										<path fill="#3C2E48" d="M1291.2-16.5L1291.2-16.5c0-0.8-0.6-1.4-1.4-1.4h-21.5c-0.8,0-1.4,0.6-1.4,1.4v9.7c0,0.8,0.6,1.4,1.4,1.4
+											h6.6v57.1c0,0.8,0.6,1.4,1.4,1.4h13.5c0.8,0,1.4-0.6,1.4-1.4l0,0V-16.5z"/>
+										<path fill="#3C2E48" d="M1258.5,39.2h-1.4c-5.6,0-6.5-2.6-6.5-6.5l0,0l0,0v-75.3c0-0.8-0.6-1.4-1.4-1.4H1228
+											c-0.8,0-1.4,0.6-1.4,1.4v9.7c0,0.8,0.6,1.4,1.4,1.4h6.2v64.2l0,0v2.7c0,12.9,7.4,18.3,18.5,18.3h5.8c0.8,0,1.4-0.6,1.4-1.4V40.6
+											C1259.9,39.9,1259.3,39.2,1258.5,39.2z"/>
+										<path fill="#3C2E48" d="M1221.9,39.2c0-0.8-0.6-1.4-1.4-1.4h-1l0,0c-3.2,0-4.4-1.4-4.4-5V6.5c0-19.9-12.3-25.9-28.1-25.9
+											c-15.3,0-28,6.2-29.9,22.1l0,0c0,0.8,0.6,1.4,1.4,1.4h13c0.7,0,1.2-0.5,1.3-1.1l0,0c1.2-6.7,5.3-10.1,13.1-10.1
+											c9.1,0,12.8,4.2,12.8,14.2v3.7h-8.7c-20.1,0-36,5.7-36,22.5c0,14.8,10.4,21,23.3,21c10.7,0,17.2-4.1,21.6-10.9
+											c0.6,6,5.2,10.2,13.4,10.2h8.1l0,0c0.8,0,1.4-0.6,1.4-1.4l0,0v-13H1221.9L1221.9,39.2z M1198.8,28.2c0,9.1-7.5,14.2-17.4,14.2
+											c-8,0-11-4.5-11-9.8c0-8.4,7.9-11.5,20.1-11.5h8.3L1198.8,28.2L1198.8,28.2z"/>
+										<path fill="#3C2E48" d="M1141.9-18.5L1141.9-18.5L1141.9-18.5z"/>
+										<path fill="#3C2E48" d="M1087.7,23.9C1087.7,24,1087.7,24,1087.7,23.9C1087.7,24,1087.7,24,1087.7,23.9z"/>
+										<path fill="#3C2E48" d="M1070.3,24.2L1070.3,24.2L1070.3,24.2z"/>
+										<path fill="#3C2E48" d="M1110.2-4.7c-16.8-2.4-20.1-6.4-20.1-14.2c0-7.5,5.7-12.8,16.7-12.8c10.8,0,16.6,4.1,18.5,13.6
+											c0.2,0.5,0.7,0.9,1.3,0.9h13.9c0.8,0,1.4-0.6,1.4-1.4l0,0c-2.4-17.7-14.7-26.7-35.1-26.7c-20.2,0-33.8,11.9-33.8,27.8
+											c0,18.2,11,25.2,34.2,28.3c15.7,2.6,20.2,6,20.2,14.9c0,9-7.6,14.9-18.3,14.9c-15.7,0-20-7.5-21.4-16.7v-0.1
+											c-0.1-0.6-0.7-1.1-1.3-1.1h-14.7c-0.8,0-1.4,0.6-1.4,1.4l0,0c1.8,17.6,13,30.1,38.8,30.1c21.4,0,35.7-13.2,35.7-30
+											C1144.8,5,1133-1.5,1110.2-4.7z"/>
+										<path fill="#3C2E48" d="M1370.8,31.3h-13c-0.6,0-1.1,0.4-1.3,1c-1.5,6.3-6.6,9.9-16.1,9.9c-12.2,0-19-7.2-19.5-20.9h50.6
+											c0.8,0,1.4-0.6,1.4-1.4v-3.5c0-25.4-16-35.8-33.5-35.8c-20.2,0-35.3,14.7-35.3,36.6v1.1c0,22.4,15.1,36.1,36,36.1
+											c17.6,0,29.4-7.7,32.2-21.7C1372.2,31.9,1371.6,31.3,1370.8,31.3z M1339.3-7.5c10.2,0,16.4,5.6,17.2,17.5h-35.4
+											C1322.8-0.7,1329.4-7.5,1339.3-7.5z"/>
+										<path fill="#3C2E48" d="M1450.5,51.7L1450.5,51.7V8c0-19.5-10.2-27.4-24-27.4c-11.4,0-19,6.5-22.4,13.4l-0.6-10.6l0,0
+											c0-0.8-0.6-1.4-1.4-1.4h-21c-0.8,0-1.4,0.6-1.4,1.4v9.7c0,0.8,0.6,1.4,1.4,1.4h6.6v57.1c0,0.8,0.6,1.4,1.4,1.4h13.6
+											c0.8,0,1.4-0.6,1.4-1.4V11c0-11,7.5-16.7,16.1-16.7c9.2,0,13.8,4.9,13.8,15.1v42.3c0,0.8,0.6,1.4,1.4,1.4h13.7
+											C1449.9,53,1450.5,52.4,1450.5,51.7z"/>
+										<path fill="#3C2E48" d="M1495.6-5.4c0.8,0,1.4-0.6,1.4-1.4v-9.7c0-0.8-0.6-1.4-1.4-1.4h-15.4V-34c0-0.8-0.5-1-1.1-0.6l-14.8,10.9
+											c-0.3,0.3-0.5,0.6-0.5,1v55.4c0,13.4,7.2,21,22.4,21h9.5c0.8,0,1.4-0.6,1.4-1.4V42c0-0.8-0.6-1.4-1.4-1.4h-6.3
+											c-6.2,0-9.1-3-9.1-9.2V-5.5h15.3V-5.4z"/>
+									</g>
+									<g>
+										<path fill="#3C2E48" d="M1497-36.3c0-4.9,3.9-7.6,7.6-7.6c3.7,0,7.6,2.7,7.6,7.6s-3.9,7.6-7.6,7.6
+											C1500.9-28.7,1497-31.4,1497-36.3z M1511.2-36.3c0-4.5-3.3-6.8-6.6-6.8c-3.3,0-6.6,2.3-6.6,6.8s3.3,6.8,6.6,6.8
+											C1507.9-29.5,1511.2-31.8,1511.2-36.3z M1501.6-41c0-0.2,0.1-0.2,0.2-0.2h3c2.1,0,3.2,1.1,3.2,2.7c0,1.3-0.8,2.3-2,2.6l2.2,4.2
+											c0,0.1,0,0.1,0,0.1c0,0.1-0.1,0.1-0.1,0.1h-0.6c-0.2,0-0.3-0.1-0.4-0.2l-2.2-4.1h-2.3v4.1c0,0.2-0.1,0.2-0.2,0.2h-0.6
+											c-0.2,0-0.2-0.1-0.2-0.2L1501.6-41L1501.6-41z M1502.7-36.6h2.3c1.4,0,2-0.7,2-1.8c0-1.1-0.5-1.8-2-1.8h-2.3V-36.6z"/>
+									</g>
+								</g>
+							</g>
+						</svg>
+						<!--<![endif]-->
+						<span class="svg-alt">Salient</span>
+					</a>
+				</div>
+				<div id="header_nav_toggle">
+					<a>
+						<!--[if gte IE 9]><!-->
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30" height="24"
+							 viewBox="0 0 30 24" enable-background="new 0 0 30 24" xml:space="preserve">
+							<path d="M30,13.8c0,0.7-0.5,1.2-1.2,1.2H1.2C0.5,15,0,14.5,0,13.8v-3.6C0,9.5,0.5,9,1.2,9h27.6 c0.7,0,1.2,0.5,1.2,1.2V13.8z"/>
+							<path d="M30,4.8C30,5.5,29.5,6,28.8,6H1.2C0.5,6,0,5.5,0,4.8V1.2C0,0.5,0.5,0,1.2,0h27.6C29.5,0,30,0.5,30,1.2V4.8z"/>
+							<path d="M30,22.8c0,0.7-0.5,1.2-1.2,1.2H1.2C0.5,24,0,23.5,0,22.8v-3.6C0,18.5,0.5,18,1.2,18h27.6 c0.7,0,1.2,0.5,1.2,1.2V22.8z"/>
+						</svg>
+						<!--<![endif]-->
+						<span class="svg-alt">Menu</span>
+					</a>
+				</div>
+				<div id="header_nav">
+					<div id="header_search" class="search-form">
+						<form method="get" action="/">
+							<input type="text" name="s" value="" required placeholder="Search Salient" class="text">
+							<input type="submit" value=" " class="submit">
+						</form>
+					</div>
+					<ul id="menu-primary-menu" class="primary-menu"><li id="menu-item-818" class="menu-item menu-item-type-post_type_archive menu-item-object-person menu-item-has-children menu-item-818"><a href="http://www.salientpartners.com/people/">People</a>
+<ul class="sub-menu">
+	<li id="menu-item-4458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4458"><a href="http://www.salientpartners.com/mission-values/">Salient&#8217;s Mission &#038; Values</a></li>
+	<li id="menu-item-584" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-584"><a href="/people/">Portfolio Management Teams</a></li>
+	<li id="menu-item-585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-585"><a href="/people/#leadership">Leadership Team</a></li>
+	<li id="menu-item-4329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4329"><a href="/in-the-news">Salient In the News</a></li>
+	<li id="menu-item-236" class="menu-item menu-item-type-post_type_archive menu-item-object-events menu-item-236"><a href="http://www.salientpartners.com/events/">Events</a></li>
+	<li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="http://www.salientpartners.com/careers/">Careers</a></li>
+</ul>
+</li>
+<li id="menu-item-198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-198"><a href="http://www.salientpartners.com/perspectives/">Perspectives</a>
+<ul class="sub-menu">
+	<li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="http://www.salientpartners.com/perspectives/">Perspectives</a></li>
+	<li id="menu-item-228" class="menu-item menu-item-type-post_type_archive menu-item-object-epsilon-theory menu-item-228"><a href="http://www.salientpartners.com/epsilon-theory/">Epsilon Theory</a></li>
+	<li id="menu-item-758" class="menu-item menu-item-type-post_type_archive menu-item-object-whitepaper menu-item-758"><a href="http://www.salientpartners.com/whitepapers/">White Papers</a></li>
+	<li id="menu-item-591" class="menu-item menu-item-type-post_type_archive menu-item-object-video menu-item-591"><a href="http://www.salientpartners.com/videos/">Videos</a></li>
+	<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-419"><a href="http://www.salientpartners.com/blog/">Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-819" class="menu-item menu-item-type-post_type_archive menu-item-object-fund menu-item-has-children menu-item-819"><a href="http://www.salientpartners.com/strategies/">Strategies</a>
+<ul class="sub-menu">
+	<li id="menu-item-820" class="menu-item menu-item-type-post_type_archive menu-item-object-fund menu-item-820"><a href="http://www.salientpartners.com/strategies/">Strategies</a></li>
+	<li id="menu-item-3354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3354"><a href="/fund-documents/">Fund Documents</a></li>
+	<li id="menu-item-4064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4064"><a href="http://www.salientpartners.com/tax-information-forms/">Tax Information &#038; Forms</a></li>
+	<li id="menu-item-136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="http://www.salientpartners.com/investment-philosophy/">Investment Philosophy</a></li>
+</ul>
+</li>
+<li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="http://www.salientpartners.com/community/">Community</a></li>
+<li id="menu-item-216" class="menu-item menu-item-type-post_type_archive menu-item-object-epsilon-theory menu-item-has-children menu-item-216"><a href="http://www.salientpartners.com/epsilon-theory/">Epsilon Theory</a>
+<ul class="sub-menu">
+	<li id="menu-item-217" class="menu-item menu-item-type-post_type_archive menu-item-object-epsilon-theory menu-item-217"><a href="http://www.salientpartners.com/epsilon-theory/">Epsilon Theory</a></li>
+	<li id="menu-item-3581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3581"><a href="http://www.salientpartners.com/epsilon-theory-newsletter-signup/">Subscribe</a></li>
+	<li id="menu-item-3812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3812"><a href="/podcasts">Podcasts</a></li>
+	<li id="menu-item-193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a href="http://www.salientpartners.com/epsilon-theory-author/">About the Author</a></li>
+	<li id="menu-item-4304" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4304"><a href="/in-the-media">In the Media</a></li>
+	<li id="menu-item-195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="http://www.salientpartners.com/epsilon-theory-manifesto/">Manifesto</a></li>
+	<li id="menu-item-557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-557"><a href="/epsilon-theory/?archive">Archive</a></li>
+</ul>
+</li>
+</ul>					<ul id="menu-additional-menu" class="top-menu"><li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a href="http://www.salientpartners.com/contact/">Contact</a></li>
+<li id="menu-item-96" class="login-link menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="http://www.salientpartners.com/account-login/">Account Login</a></li>
+</ul>				</div>
+			</div>
+			<div id="mega-menu">
+				<div class="within">
+					<div id="close-mega-menu"></div>
+												<div id="mega-menu-818" class="menu">
+								<ul>
+									<!--<li class='hdr'><h2>People</h2></li>-->
+																		<li><a href="http://www.salientpartners.com/mission-values/" id="mega-menu-preview-link-4458" class="previewable">Salient's Mission & Values</a></li>
+																		<li><a href="/people/" id="mega-menu-preview-link-584" class="previewable">Portfolio Management Teams</a></li>
+																		<li><a href="/people/#leadership" id="mega-menu-preview-link-585" class="previewable">Leadership Team</a></li>
+																		<li><a href="/in-the-news" id="mega-menu-preview-link-4329" class="previewable">Salient In the News</a></li>
+																		<li><a href="http://www.salientpartners.com/events/" id="mega-menu-preview-link-236" class="previewable">Events</a></li>
+																		<li><a href="http://www.salientpartners.com/careers/" id="mega-menu-preview-link-133" class="previewable">Careers</a></li>
+																	</ul>
+								<div class="previews">
+																	<div id="mega-menu-preview-4458" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Salient&#8217;s Mission &amp; Values</h1>
+<p>Our mission and values are at the heart of everything we do as a business and as individuals. This is who we are at our core.</p>
+</div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-584" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Portfolio Management Teams</h1>
+<p>Salient’s investment teams have extensive track records and skill sets that allow us to adapt to evolving opportunities and market cycles.</p>
+</div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-585" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Leadership Team</h1>
+<p>The core of Salient&#8217;s management team has worked together in a variety of capacities for nearly 20 years. We formalized our working relationships by banding together in 2002 to form Salient.</p>
+</div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-4329" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"></div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-236" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Events</h1>
+<p>Salient attends, hosts and sponsors events and conferences throughout the year to bring our investment solutions and insights to the marketplace.</p>
+</div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-133" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Careers</h1>
+<p>Financial Services companies do not have factories, equipment or inventories. People are the product. As such, we are constantly seeking talented professionals who share our core values to enhance our firm&#8217;s solutions and services.</p>
+</div>
+																					</div>
+									</div>
+																</div>
+							</div>
+														<div id="mega-menu-198" class="menu">
+								<ul>
+									<!--<li class='hdr'><h2>Perspectives</h2></li>-->
+																		<li><a href="http://www.salientpartners.com/perspectives/" id="mega-menu-preview-link-199" class="previewable">Perspectives</a></li>
+																		<li><a href="http://www.salientpartners.com/epsilon-theory/" id="mega-menu-preview-link-228" class="previewable">Epsilon Theory</a></li>
+																		<li><a href="http://www.salientpartners.com/whitepapers/" id="mega-menu-preview-link-758" class="previewable">White Papers</a></li>
+																		<li><a href="http://www.salientpartners.com/videos/" id="mega-menu-preview-link-591" class="previewable">Videos</a></li>
+																		<li><a href="http://www.salientpartners.com/blog/" id="mega-menu-preview-link-419" class="previewable">Blog</a></li>
+																	</ul>
+								<div class="previews">
+																	<div id="mega-menu-preview-199" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Perspectives</h1>
+<p>The Salient logo – a transparent, three-dimensional stylized “S” – symbolizes our commitment to analyze and interpret multiple scenarios simultaneously from a variety of angles.</p>
+</div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-228" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Epsilon Theory</h1>
+<p>Today’s markets require an investment approach viewed through the lenses of history, game theory and market structure, detailed in Salient chief investment strategist Ben Hunt’s acclaimed <em>Epsilon Theory</em> newsletter.</p>
+</div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-758" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"></div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-591" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"></div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-419" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"></div>
+																					</div>
+									</div>
+																</div>
+							</div>
+														<div id="mega-menu-819" class="menu">
+								<ul>
+									<!--<li class='hdr'><h2>Strategies</h2></li>-->
+																		<li><a href="http://www.salientpartners.com/strategies/" id="mega-menu-preview-link-820" class="previewable">Strategies</a></li>
+																		<li><a href="/fund-documents/" id="mega-menu-preview-link-3354" class="previewable">Fund Documents</a></li>
+																		<li><a href="http://www.salientpartners.com/tax-information-forms/" id="mega-menu-preview-link-4064" class="previewable">Tax Information & Forms</a></li>
+																		<li><a href="http://www.salientpartners.com/investment-philosophy/" id="mega-menu-preview-link-136" class="previewable">Investment Philosophy</a></li>
+																	</ul>
+								<div class="previews">
+																	<div id="mega-menu-preview-820" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Strategies</h1>
+<p>Salient’s mission is to provide our clients with clearly defined and explained investment solutions in a variety of formats that help enable them to diversify away from the core risk factors that dominate conventional portfolios.</p>
+</div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-3354" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Fund Documents</h1>
+<p>Here you can find Salient mutual fund regulatory documents including: prospectuses, summary prospectuses, statements of additional information, annual and semi-annual reports, quarterly commentaries and fact sheets. Certain materials are also available in a machine-readable XBRL format.</p>
+</div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-4064" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Tax Information &amp; Forms</h1>
+<p>Find relevant tax information documents and investment forms in PDF format here.</p>
+</div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-136" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Investment Philosophy</h1>
+<p>Salient’s single- and multi-asset alternative and real asset investment strategies serve as powerful building blocks for efficient portfolios.</p>
+</div>
+																					</div>
+									</div>
+																</div>
+							</div>
+														<div id="mega-menu-216" class="menu">
+								<ul>
+									<!--<li class='hdr'><h2>Epsilon Theory</h2></li>-->
+																		<li><a href="http://www.salientpartners.com/epsilon-theory/" id="mega-menu-preview-link-217" class="previewable">Epsilon Theory</a></li>
+																		<li><a href="http://www.salientpartners.com/epsilon-theory-newsletter-signup/" id="mega-menu-preview-link-3581" class="previewable">Subscribe</a></li>
+																		<li><a href="/podcasts" id="mega-menu-preview-link-3812" class="previewable">Podcasts</a></li>
+																		<li><a href="http://www.salientpartners.com/epsilon-theory-author/" id="mega-menu-preview-link-193" class="previewable">About the Author</a></li>
+																		<li><a href="/in-the-media" id="mega-menu-preview-link-4304" class="previewable">In the Media</a></li>
+																		<li><a href="http://www.salientpartners.com/epsilon-theory-manifesto/" id="mega-menu-preview-link-195" class="previewable">Manifesto</a></li>
+																		<li><a href="/epsilon-theory/?archive" id="mega-menu-preview-link-557" class="previewable">Archive</a></li>
+																	</ul>
+								<div class="previews">
+																	<div id="mega-menu-preview-217" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Epsilon Theory</h1>
+<p>Today’s markets require an investment approach viewed through the lenses of history, game theory and market structure, detailed in Salient chief investment strategist Ben Hunt’s acclaimed <em>Epsilon Theory</em> newsletter.</p>
+</div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-3581" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Newsletter Subscription</h1>
+<p>Sign up to receive <em>Epsilon Theory</em> delivered directly to your email inbox as soon as it’s published.</p>
+</div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-3812" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Podcasts</h1>
+<p>Join the discussion with host and <em>Epsilon Theory</em> author, Dr. Ben Hunt, and Salient&#8217;s president and chief strategy officer, Jeremy Radcliffe.</p>
+</div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-193" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>About the Author</h1>
+<p>Dr. Ben Hunt, chief investment strategist, is the author of <em>Epsilon Theory</em>, a weekly newsletter and website that examines markets through the lenses of game theory and history, currently with more than 100,000 professional investor and allocator readers.</p>
+</div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-4304" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"></div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-195" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Manifesto</h1>
+<p>Our times require an investment and risk management perspective that is fluent in econometrics but is equally grounded in game theory, history, and behavioral analysis. <em>Epsilon Theory</em> is chief investment strategist Ben Hunt&#8217;s attempt to lay the foundation for such a perspective.</p>
+</div>
+																					</div>
+									</div>
+																	<div id="mega-menu-preview-557" class="mega-menu-preview">
+										<div class="grid">
+											<div class="col-2-3"><h1>Archive</h1>
+<p>Access all <em>Epsilon Theory</em> notes organized by month and year.</p>
+</div>
+																					</div>
+									</div>
+																</div>
+							</div>
+											</div>
+			</div>
+		</div>
+	<div class="section">
+		<div class="wrap">
+			<h1>File not found</h1>
+		</div>
+	</div>
+	
+
+
+		<div id="footer">
+			<div class="wrap">
+				<div class="menu"><ul id="menu-footer-menu" class=""><li id="menu-item-825" class="menu-item menu-item-type-post_type_archive menu-item-object-person menu-item-825"><a href="http://www.salientpartners.com/people/">People</a></li>
+<li id="menu-item-218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218"><a href="http://www.salientpartners.com/perspectives/">Perspectives</a></li>
+<li id="menu-item-823" class="menu-item menu-item-type-post_type_archive menu-item-object-fund menu-item-823"><a href="http://www.salientpartners.com/strategies/">Strategies</a></li>
+<li id="menu-item-3283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3283"><a href="http://www.salientpartners.com/community/">Community</a></li>
+<li id="menu-item-4196" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196"><a href="/epsilon-theory/">Epsilon Theory</a></li>
+<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="http://www.salientpartners.com/contact/">Contact</a></li>
+</ul></div>				<div class="social_menu"><ul id="menu-social-menu" class="social"><li id="menu-item-16" class="icon-twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a target="_blank" href="https://twitter.com/SalientPartners">Twitter</a></li>
+<li id="menu-item-17" class="icon-linkedin menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a target="_blank" href="https://www.linkedin.com/company/salientpartners">LinkedIn</a></li>
+<li id="menu-item-19" class="icon-blog menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a target="_blank" href="/blog/">Blog</a></li>
+</ul></div>				<div class="disclosure">
+				<table>
+<tbody>
+<tr>
+<td style="vertical-align: top;"><a href="http://brokercheck.finra.org"><img class="aligncenter wp-image-3774 size-medium" src="/wp-content/uploads/finra-brokercheck-logo.svg" alt="finra-brokercheck-logo" width="102px" height="24px" /></a></td>
+<td><span style="font-size: 11pt;"><strong>Check the background of Salient Capital, L.P. or an investment professional on FINRA’s <a href="http://brokercheck.finra.org/">BrokerCheck</a>.</strong></span></td>
+</tr>
+</tbody>
+</table>
+<p>Salient is the trade name for Salient Partners, L.P., which together with its subsidiaries provides asset management and advisory services. Insurance products offered through Salient Insurance Agency, LLC (Texas license #1736192). Trust services provided by Salient Trust Co., LTA. Securities offered through Salient Capital, L.P., a registered broker-dealer and Member <a href="http://www.finra.org/" target="_blank">FINRA</a>, <a href="http://sipc.com/" target="_blank">SIPC</a>. Each of Salient Insurance Agency, LLC, Salient Trust Co., LTA, and Salient Capital, L.P., is a subsidiary of Salient Partners, L.P.</p>
+<p>Not FDIC Insured | No Bank Guarantee | May Lose Value</p>
+				</div>
+				<div class="menu2"><ul id="menu-disclosure-menu" class=""><li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="http://www.salientpartners.com/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="http://www.salientpartners.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="http://www.salientpartners.com/business-continuity-plan/">Business Continuity Plan</a></li>
+<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="http://www.salientpartners.com/social-media-guidelines/">Social Media Guidelines</a></li>
+</ul></div>				<div class="copyright">
+					<p>&#169; 2017 Salient Partners, L.P. All Rights Reserved.</p>
+				</div>
+			</div>
+		</div>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+		<script src="/wp-content/themes/salient/lib/jquery.flexslider-min.js"></script>
+		<script src="/wp-content/themes/salient/lib/fancybox/jquery.fancybox.pack.js"></script>
+		<script src="/wp-content/themes/salient/lib/fancybox/helpers/jquery.fancybox-media.js"></script>
+		<script src="/wp-content/themes/salient/js/salient.js?v=20160725"></script>
+		<script src="/wp-content/themes/salient/js/nano.js"></script>
+				<!--[if lt IE 9]>
+		<script src="/wp-content/themes/salient/lib/respond.min.js"></script>
+		<![endif]-->
+
+		<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://www.salientpartners.com/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+        
+	</body>
+</html>
