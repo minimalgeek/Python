@@ -1,0 +1,1 @@
+scrapy runspider spider01.py -o quotes.json
