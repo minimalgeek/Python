@@ -7,3 +7,5 @@ scrapy shell 'http://quotes.toscrape.com/page/1/'
 scrapy crawl quotes -o quotes.json
     Run the 'quotes' spider and exports the data to the quotes.json file
 
+scrapy startproject SeekingAlphaScrapy
+	Start project :)
