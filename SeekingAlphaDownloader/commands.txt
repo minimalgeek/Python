@@ -1,4 +1,8 @@
 scrapy shell -s USER_AGENT='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36' 'http://seekingalpha.com/symbol/AAPL/earnings/more_transcripts?page=1'
 
+scrapy shell -s USER_AGENT='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36' 'http://seekingalpha.com/article/4041266-apple-aapl-q1-2017-results-earnings-call-transcript'
+
 scrapy crawl Nasdaq -t json -o - > tickers.json
 scrapy crawl EarningsTranscript -t json -o - > transcripts.json
+	VAGY
+scrapy crawl EarningsTranscript -t json
