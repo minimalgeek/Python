@@ -7,9 +7,7 @@ class ZacksSpider(scrapy.Spider):
     allowed_domains = ["zacks.com"]
 
     def start_requests(self):
-        tickers = []
-        with open('tickers.json', encoding='utf16') as data_file:
-            tickers = json.loads(data_file.read())
+        tickers = json.loads(open('tickers.json', encoding='utf16').read())
         for ticker in tickers:
             yield scrapy.Request('https://www.zacks.com/stock/quote/' + ticker['Symbol'],
                                  meta={'ticker':ticker['Symbol']})

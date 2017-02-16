@@ -11,6 +11,4 @@ class NasdaqSpider(CSVFeedSpider):
 
     def parse_row(self, response, row):
         if row['Symbol'] != 'Symbol':
-            i = {}
-            i['Symbol'] = row['Symbol'].strip()
-            return i
+            return {'Symbol': row['Symbol'].strip()}

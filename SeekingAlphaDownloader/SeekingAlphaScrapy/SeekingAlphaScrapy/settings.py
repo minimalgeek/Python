@@ -14,7 +14,7 @@ BOT_NAME = 'SeekingAlphaScrapy'
 SPIDER_MODULES = ['SeekingAlphaScrapy.spiders']
 NEWSPIDER_MODULE = 'SeekingAlphaScrapy.spiders'
 
-LOG_FILE='scrapy.log'
+LOG_FILE = 'scrapy.log'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -66,9 +66,9 @@ COOKIES_ENABLED = False
 
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-    'SeekingAlphaScrapy.pipelines.MongoPipeline': 100,
-}
+#ITEM_PIPELINES = {
+#   'SeekingAlphaScrapy.pipelines.Whatever': 800
+#}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
@@ -93,4 +93,4 @@ ITEM_PIPELINES = {
 
 MONGO_URI = 'mongodb://localhost:27017'
 MONGO_DATABASE = 'python_import'
-MONGO_COLLECTION = 'scrapy_transcripts'
+MONGO_COLLECTION = 'scrapy_items'

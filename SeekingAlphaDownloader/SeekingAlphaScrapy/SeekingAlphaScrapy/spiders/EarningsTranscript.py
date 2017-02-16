@@ -5,14 +5,16 @@ class EarningstranscriptSpider(scrapy.Spider):
     name = "EarningsTranscript"
     allowed_domains = ["seekingalpha.com"]
     article_url_base = 'http://seekingalpha.com'
-    pipelines = set([
-        'MongoPipeline'
-    ])
+    custom_settings = {
+        'ITEM_PIPELINES' : {
+            'SeekingAlphaScrapy.pipelines.MongoPipeline': 100,
+        },
+        'MONGO_COLLECTION' : 'earnings_transcript',
+        'DOWNLOAD_DELAY' : 5
+    }
 
     def start_requests(self):
-        tickers = []
-        with open('tickers.json', encoding='utf16') as data_file:
-            tickers = json.loads(data_file.read())
+        tickers = json.loads(open('tickers.json', encoding='utf16').read())
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \
                 ticker['Symbol'] + '/earnings/more_transcripts?page='
