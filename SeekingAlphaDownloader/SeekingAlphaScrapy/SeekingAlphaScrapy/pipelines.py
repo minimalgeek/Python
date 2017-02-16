@@ -35,5 +35,7 @@ class MongoPipeline(object):
         self.client.close()
 
     def process_item(self, item, spider):
+        if self.__class__.__name__ not in getattr(spider, 'pipelines',[]):
+            return item
         self.db[self.collection].insert(dict(item))
         return item

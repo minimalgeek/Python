@@ -9,3 +9,6 @@ scrapy crawl quotes -o quotes.json
 
 scrapy startproject SeekingAlphaScrapy
 	Start project :)
+	
+scrapy genspider SpiderName url.com
+	Generates a spider

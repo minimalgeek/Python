@@ -5,6 +5,9 @@ class EarningstranscriptSpider(scrapy.Spider):
     name = "EarningsTranscript"
     allowed_domains = ["seekingalpha.com"]
     article_url_base = 'http://seekingalpha.com'
+    pipelines = set([
+        'MongoPipeline'
+    ])
 
     def start_requests(self):
         tickers = []
