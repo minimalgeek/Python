@@ -4,7 +4,6 @@ import scrapy
 class EarningstranscriptSpider(scrapy.Spider):
     name = "EarningsTranscript"
     allowed_domains = ["seekingalpha.com"]
-    start_urls = ['http://seekingalpha.com/']
     article_url_base = 'http://seekingalpha.com'
 
     def start_requests(self):
@@ -16,7 +15,7 @@ class EarningstranscriptSpider(scrapy.Spider):
                 ticker['Symbol'] + '/earnings/more_transcripts?page='
             yield scrapy.Request(urlroot + '1',
                                  self.parse,
-                                 meta={'page': 1, 'urlroot': urlroot, 'ticker': ticker})
+                                 meta={'page': 1, 'urlroot': urlroot, 'ticker': ticker['Symbol']})
 
     def parse(self, response):
         jsonresp = json.loads(response.text)
