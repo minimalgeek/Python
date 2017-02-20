@@ -18,16 +18,14 @@ class EarningstranscriptSpider(scrapy.Spider):
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \
                 ticker['Symbol'] + '/earnings/more_transcripts?page='
-            yield scrapy.Request(urlroot + '1',
-                                 self.parse,
+            yield scrapy.Request(urlroot + '1', self.parse,
                                  meta={'page': 1, 'urlroot': urlroot, 'ticker': ticker['Symbol']})
 
     def parse(self, response):
         jsonresp = json.loads(response.text)
         if jsonresp['count'] > 0:
             newpage = (response.meta['page'] + 1)
-            yield scrapy.Request(response.meta['urlroot'] + str(newpage),
-                                 self.parse,
+            yield scrapy.Request(response.meta['urlroot'] + str(newpage), self.parse,
                                  meta={'page': newpage,
                                        'urlroot': response.meta['urlroot']})
 
@@ -37,6 +35,8 @@ class EarningstranscriptSpider(scrapy.Spider):
 
     def parse_article(self, response):
         yield {'url': response.url,
-               'ticker': response.meta['ticker'],
-               'datePublished':response.xpath('//time[@content]/@content').extract_first(),
-               'transcript': ' '.join(map(str, response.css('div.sa-art p::text').extract()))}
+               'tradingSymbol': response.meta['ticker'],
+               'publishDate':response.xpath('//time[@content]/@content').extract_first(),
+               'rawText': ' '.join(map(str, response.css('div.sa-art p *::text').extract())),
+               'qAndAText': ' '.join(map(str, response.css('div.sa-art #question-answer-session~ p *::text').extract()))
+              }
