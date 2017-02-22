@@ -6,4 +6,5 @@ scrapy crawl Nasdaq -t json -o - > tickers.json
 scrapy crawl EarningsTranscript -t json -o - > transcripts.json
 	VAGY
 scrapy crawl EarningsTranscript -t json
-scrapy crawl Zacks -o - > zacks.json
+scrapy crawl Zacks -o - > zacks.json -t json
+scrapy crawl ZacksByPortfolio -o - > zacks2.json -t json

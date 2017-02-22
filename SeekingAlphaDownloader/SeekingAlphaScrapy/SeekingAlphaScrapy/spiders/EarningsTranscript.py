@@ -14,7 +14,7 @@ class EarningstranscriptSpider(scrapy.Spider):
     }
 
     def start_requests(self):
-        tickers = json.loads(open('tickers.json', encoding='utf16').read())
+        tickers = json.loads(open('tickers.json', encoding='utf-8').read())
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \
                 ticker['Symbol'] + '/earnings/more_transcripts?page='
