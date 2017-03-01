@@ -7,7 +7,6 @@ from datetime import datetime
 
 class FomcdownloaderSpider(scrapy.Spider):
     name = "FOMCDownloader"
-    #allowed_domains = ["*"]
     headers_map = {
         'Accept': '*/*',
         'Accept-Encoding': 'gzip, deflate, br',
