@@ -88,3 +88,7 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+MONGO_URI = 'mongodb://localhost:27017'
+MONGO_DATABASE = 'python_import'
+MONGO_COLLECTION = 'scrapy_items'
