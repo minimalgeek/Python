@@ -66,5 +66,5 @@ class FomcdownloaderSpider(scrapy.Spider):
         yield {
             'date' : datetime_object,
             'url' : response.url,
-            'content' : ' '.join(response.css('p::text').extract())
+            'content' : ' '.join(response.css('p *::text').extract())
         }
