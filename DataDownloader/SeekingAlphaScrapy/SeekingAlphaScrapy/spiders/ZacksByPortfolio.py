@@ -6,6 +6,15 @@ from scrapy.selector import Selector
 class ZacksbyportfolioSpider(scrapy.Spider):
     name = "ZacksByPortfolio"
     allowed_domains = ["zacks.com"]
+    custom_settings = {
+		'ITEM_PIPELINES' : {
+			'SeekingAlphaScrapy.pipelines.MongoPipeline': 100,
+		},
+        'MONGO_COLLECTION' : 'zacks_test',
+		'MONGO_URI' : 'mongodb://192.168.137.62:27017',
+		'MONGO_DATABASE' : 'python_import'
+    }
+	
     start_urls = [
         'https://www.zacks.com/portfolios/my-stock-portfolio/myportfoliofunction.php?portfolios_id=1110794&enc_cust_id==AFVxIlVGpVYWZlWWN2R1IlVwA3VV5GaWZlRkNzUUZUV&tab_name=growth&port_name=SPX_AB&call_counter=2&_=1452764694756',
         'https://www.zacks.com/portfolios/my-stock-portfolio/myportfoliofunction.php?portfolios_id=1110799&enc_cust_id==AFVxIlVGpVYWZlWWN2R1IlVwA3VV5GaWZlRkNzUUZUV&tab_name=growth&port_name=SPX_CD&call_counter=2&_=1452764694758',
