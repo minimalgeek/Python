@@ -11,9 +11,12 @@ class SeekingalphascrapyPipeline(object):
         return item
 
 import pymongo
+from datetime import datetime
 
 class MongoPipeline(object):
-
+    '''
+    For everything
+    '''
     def __init__(self, mongo_uri, mongo_db, collection):
         self.mongo_uri = mongo_uri
         self.mongo_db = mongo_db
@@ -35,5 +38,34 @@ class MongoPipeline(object):
         self.client.close()
 
     def process_item(self, item, spider):
+        if 'compareId' in item:
+            old = self.db[self.collection].find_one({'compareId' : item['compareId']})
+            if old is None:
+                self.save_item(item)
+                spider.log("new inserted")
+            else:
+                spider.log("old exists")
+        else:
+            self.save_item(item)
+        return item
+
+    def save_item(self, item):
         self.db[self.collection].insert(dict(item))
+
+class ZacksMongoPipeline(MongoPipeline):
+    '''
+    Only for Zacks
+    '''
+    def __init__(self, mongo_uri, mongo_db, collection):
+        super().__init__(mongo_uri, mongo_db, collection)
+
+    def process_item(self, item, spider):
+        all_for_ticker = self.db[self.collection].find({'ticker' : item['ticker']})
+        if all_for_ticker and (all_for_ticker.count() > 0):
+            latest = max(all_for_ticker, key=lambda old_item: old_item['nextReportDate'])
+            if latest and (datetime.now() < latest['nextReportDate']):
+                spider.log("remove old entry: " + str(latest))
+                self.db[self.collection].delete_one(latest)
+        spider.log("insert new entry: " + str(item))
+        self.save_item(item)
         return item
