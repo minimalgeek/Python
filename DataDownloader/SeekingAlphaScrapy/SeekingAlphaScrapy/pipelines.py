@@ -11,7 +11,7 @@ class SeekingalphascrapyPipeline(object):
         return item
 
 import pymongo
-from datetime import datetime
+from datetime import datetime, timedelta
 
 class MongoPipeline(object):
     '''
@@ -63,9 +63,11 @@ class ZacksMongoPipeline(MongoPipeline):
         all_for_ticker = self.db[self.collection].find({'ticker' : item['ticker']})
         if all_for_ticker and (all_for_ticker.count() > 0):
             latest = max(all_for_ticker, key=lambda old_item: old_item['nextReportDate'])
-            if latest and (datetime.now() < latest['nextReportDate']):
+            if latest and ((datetime.now()-timedelta(days=1)) < latest['nextReportDate']):
                 spider.log("remove old entry: " + str(latest))
                 self.db[self.collection].delete_one(latest)
+            elif latest:
+                item['previousReportDate'] = latest['nextReportDate']
         spider.log("insert new entry: " + str(item))
         self.save_item(item)
         return item

@@ -7,11 +7,11 @@ class ZacksSpider(scrapy.Spider):
     name = "Zacks"
     allowed_domains = ["zacks.com"]
     custom_settings = {
-        'ITEM_PIPELINES' : {
+        'ITEM_PIPELINES': {
             'SeekingAlphaScrapy.pipelines.ZacksMongoPipeline': 100,
         },
-        'MONGO_COLLECTION' : 'zacks_earning_call_dates',
-        'DOWNLOAD_DELAY' : 1
+        'MONGO_COLLECTION': 'zacks_earning_call_dates',
+        'DOWNLOAD_DELAY': 1
     }
 
     def start_requests(self):
@@ -25,11 +25,14 @@ class ZacksSpider(scrapy.Spider):
         if anchor is not None:
             date_str_array = anchor.split('/')
             ticker = response.meta['ticker']
-            nextReportDate = datetime(int('20' + date_str_array[2]),
-                                      int(date_str_array[0]),
-                                      int(date_str_array[1]))
+            next_report_date = datetime(int('20' + date_str_array[2]),
+                                        int(date_str_array[0]),
+                                        int(date_str_array[1]))
+            ami_report_date = (next_report_date.year - 1900) * 10000 + \
+                next_report_date.month * 100 + next_report_date.day
 
             yield {
                 'ticker': ticker,
-                'nextReportDate': nextReportDate
+                'nextReportDate': next_report_date,
+                'amiNextReportDate': ami_report_date
             }
