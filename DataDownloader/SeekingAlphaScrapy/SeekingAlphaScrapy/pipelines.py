@@ -65,6 +65,7 @@ class ZacksMongoPipeline(MongoPipeline):
             latest = max(all_for_ticker, key=lambda old_item: old_item['nextReportDate'])
             if latest and ((datetime.now()-timedelta(days=1)) < latest['nextReportDate']):
                 spider.log("remove old entry: " + str(latest))
+                item['previousReportDate'] = latest['previousReportDate']
                 self.db[self.collection].delete_one(latest)
             elif latest:
                 item['previousReportDate'] = latest['nextReportDate']
