@@ -19,8 +19,7 @@ class FomcdownloaderSpider(scrapy.Spider):
         'ITEM_PIPELINES': {
             'FOMCSpeak.pipelines.MongoPipeline': 100,
         },
-        'MONGO_COLLECTION': 'fomc_articles',
-        'DOWNLOAD_DELAY': 1
+        'MONGO_COLLECTION': 'fomc_articles_new'
     }
 
     def start_requests(self):
@@ -42,22 +41,27 @@ class FomcdownloaderSpider(scrapy.Spider):
                                      body=str(body_map))
 
     def parse(self, response):
+        
+        '''from scrapy.shell import inspect_response
+        inspect_response(response, self)'''
+
         json_response = json.loads(response.body_as_unicode(), encoding="utf-8")
         results = json_response['Results']
         if len(results) > 0:
             for result in results:
                 yield scrapy.Request(url=result['RemarkLink'],
                                      callback=self.article_parse,
-                                     meta={'date': result['RemarkDate']})
+                                     meta={'result': result})
 
     def article_parse(self, response):
+        result = response.meta['result']
         # Jan. 09, 2017 (12:45 PM ET)
         datetime_object = None
         try:
-            datetime_object = datetime.strptime(response.meta['date'], '%b. %d, %Y (%H:%M %p ET)')
+            datetime_object = datetime.strptime(result['RemarkDate'], '%b. %d, %Y (%H:%M %p ET)')
         except ValueError:
             try:
-                datetime_object = datetime.strptime(response.meta['date'], '%b. %d, %Y')
+                datetime_object = datetime.strptime(result['RemarkDate'], '%b. %d, %Y')
             except ValueError as err2:
                 self.log(err2, level=logging.ERROR)
         except Exception as ex:
@@ -66,5 +70,14 @@ class FomcdownloaderSpider(scrapy.Spider):
         yield {
             'date' : datetime_object,
             'url' : response.url,
-            'content' : ' '.join(response.css('p *::text').extract())
+            'content' : ' '.join(response.css('p *::text').extract()),
+
+            'ParticipantJobTitle': result['ParticipantJobTitle'],
+            'ParticipantLocation': result['ParticipantLocation'],
+            'ParticipantName': result['ParticipantName'],
+            'ParticipantTitleLastName': result['ParticipantTitleLastName'],
+            'ParticipantUrl': result['ParticipantUrl'],
+            'RemarkDate': result['RemarkDate'],
+            'RemarkDescription': result['RemarkDescription'],
+            'RemarkType': result['RemarkType']
         }
