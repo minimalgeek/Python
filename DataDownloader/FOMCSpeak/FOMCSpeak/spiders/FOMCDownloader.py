@@ -20,54 +20,42 @@ class FomcdownloaderSpider(scrapy.Spider):
         'ITEM_PIPELINES': {
             'FOMCSpeak.pipelines.MongoPipeline': 100,
         },
-        'MONGO_COLLECTION': 'fomc_articles_new'
+        'MONGO_COLLECTION': 'fomc_articles'
     }
     url_to_selector = {
-        'www.richmondfed.org': 'p',
+        'www.richmondfed.org': '.pi_footnote p , .pi_speech_content p',
         'www.federalreserve.gov': 'p',
-        'www.bloomberg.com': 'p',
-        'www.dallasfed.org': 'p',
-        'www.chicagofed.org': 'p',
-        'www.minneapolisfed.org': 'p',
-        'video.cnbc.com': 'p',
-        'www.frbatlanta.org': 'p',
-        'www.bostonfed.org': 'p',
-        'www.frbsf.org': 'p',
-        'www.clevelandfed.org': 'p',
-        'www.philadelphiafed.org': 'p',
-        'www.stlouisfed.org': 'p',
-        'www.c-span.org': 'p',
-        'www.newyorkfed.org': 'p',
-        'www.reuters.com': 'p',
-        'video.foxbusiness.com': 'p',
-        'www.wsj.com': 'p',
-        'www.cnbc.com': 'p',
-        'economix.blogs.nytimes.com': 'p',
-        'www.bnn.ca': 'p',
-        'nbr.com': 'p',
-        'link.brightcove.com': 'p',
-        'www.washingtonpost.com': 'p',
-        'www.phil.frb.org': 'p',
-        'comments.cftc.gov': 'p',
-        'www.econtalk.org': 'p',
-        'clevelandfed.org': 'p',
-        'www.foxbusiness.com': 'p',
-        'www.marketplace.org': 'p',
-        'www.eastbaytimes.com': 'p',
-        'www.marketwatch.com': 'p',
-        'www.sacbee.com': 'p',
-        'video.foxnews.com': 'p',
-        'www.nytimes.com': 'p',
-        'blogs.wsj.com': 'p',
-        'www.mprnews.org': 'p',
-        'www.americanbanker.com': 'p',
-        'www.ft.com': 'p',
-        'www.bizjournals.com': 'p',
-        'www.cfr.org': 'p',
-        'www.dallasnews.com': 'p',
-        'www.npr.org': 'p',
-        'charlierose.com': 'p',
-        'asia.nikkei.com': 'p',
+        'www.dallasfed.org': 'p+ p , .separator-red+ p , h1',
+        'www.chicagofed.org': 'h1 , p+ p , h3 , h3+ .cfedContent__text p',
+        'www.minneapolisfed.org': 'section > p , section div h2 , section h2 , section div p',  # this is shit :(
+        'video.cnbc.com': '#video-title , #video-desc', # it contains some information
+        'www.frbatlanta.org': 'p , .listBulleted li , strong',
+        'www.bostonfed.org': '.clearfix p , .speeches_subtitle , .title',
+        'www.frbsf.org': '.clear-both~ p , h1',
+        'clevelandfed.org': 'h2+ p , p+ h2 , p+ p , hr+ p , .articletext',
+        'www.philadelphiafed.org': 'h3~ p , h3 , h2',
+        'www.c-span.org': 'p , .video-page-title',
+        'www.newyorkfed.org': '.ts-article-title , .ts-article-subhead , p',
+        'www.stlouisfed.org': '.wrapper p , #pageTitleHeader',
+        #'www.wsj.com': 'p', # registration needed
+        'economix.blogs.nytimes.com': '.story-body-text , .entry-title',
+        #'link.brightcove.com': 'p', # only one article, irrelevant content
+        'www.washingtonpost.com': 'h1 , article > p',
+        'www.phil.frb.org': 'p+ ul li , p+ h3 , h3~ p , blockquote , h3+ p , blockquote+ h3 , h2',
+        #'www.bloomberg.com': 'p', # only video
+        #'comments.cftc.gov': 'p', # only one article, irrelevant content
+        'www.eastbaytimes.com': '.body-copy p , .headlines',
+        'www.marketwatch.com': '#article-body p , #article-subhead p , #article-headline',
+        'www.sacbee.com': '.story div div p , p+ h1',
+        'www.nytimes.com': '.story-body-text , #headline',
+        # 'blogs.wsj.com': 'p', # registration needed
+        # 'www.mprnews.org': 'p', # only radio interviews
+        'www.cnbc.com': 'p , .title',
+        #'www.americanbanker.com': 'p', # registration needed
+        #'www.ft.com': 'p', # registration needed
+        'www.cfr.org': '#transcript p , #description h5 , #description p , .title',
+        'www.dallasnews.com': '#art-title , .art-story__text p',
+        'asia.nikkei.com': '.article-box .title , .selection p',
     }
 
     def start_requests(self):
@@ -97,11 +85,9 @@ class FomcdownloaderSpider(scrapy.Spider):
         results = json_response['Results']
         if len(results) > 0:
             for result in results:
-                url_to_open = result['RemarkLink']
-                if "richmondfed.org" in url_to_open:
-                    yield scrapy.Request(url=result['RemarkLink'],
-                                         callback=self.article_parse,
-                                         meta={'result': result})
+                yield scrapy.Request(url=result['RemarkLink'],
+                                     callback=self.article_parse,
+                                     meta={'result': result})
 
     def article_parse(self, response):
         result = response.meta['result']
@@ -119,17 +105,36 @@ class FomcdownloaderSpider(scrapy.Spider):
         except Exception as ex:
             self.log(ex, level=logging.ERROR)
 
-        yield {
-            'date': datetime_object,
-            'url': response.url,
-            'content': ' '.join(response.css('p *::text').extract()),
+        url = response.url
+        url_root = self.find_between(url, '://', '/')
 
-            'ParticipantJobTitle': result['ParticipantJobTitle'],
-            'ParticipantLocation': result['ParticipantLocation'],
-            'ParticipantName': result['ParticipantName'],
-            'ParticipantTitleLastName': result['ParticipantTitleLastName'],
-            'ParticipantUrl': result['ParticipantUrl'],
-            'RemarkDate': result['RemarkDate'],
-            'RemarkDescription': result['RemarkDescription'],
-            'RemarkType': result['RemarkType']
-        }
+        if url_root in self.url_to_selector:
+            extractor = self.url_to_selector[url_root]
+            real_extractor = '::text, '.join(extractor.split(' , ')) + '::text'
+            extracted_content = '\n '.join(response.css(real_extractor).extract())
+            
+            self.log("Real extractor: " + real_extractor)
+            self.log("Extracted content: " + extracted_content)
+
+            yield {
+                'date': datetime_object,
+                'url': url,
+                'content': extracted_content,
+
+                'ParticipantJobTitle': result['ParticipantJobTitle'],
+                'ParticipantLocation': result['ParticipantLocation'],
+                'ParticipantName': result['ParticipantName'],
+                'ParticipantTitleLastName': result['ParticipantTitleLastName'],
+                'ParticipantUrl': result['ParticipantUrl'],
+                'RemarkDate': result['RemarkDate'],
+                'RemarkDescription': result['RemarkDescription'],
+                'RemarkType': result['RemarkType']
+            }
+
+    def find_between(self, string, first, last):
+        try:
+            start = string.index(first) + len(first)
+            end = string.index(last, start)
+            return string[start:end]
+        except ValueError:
+            return ""
