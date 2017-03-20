@@ -67,13 +67,18 @@ class ZacksMongoPipeline(MongoPipeline):
                 spider.log("remove old entry: " + str(latest))
                 if 'previousReportDate' in latest:
                     item['previousReportDate'] = latest['previousReportDate']
-                else:
-                    item['previousReportDate'] = datetime(1980, 1, 3)
                 self.db[self.collection].delete_one(latest)
             elif latest:
                 item['previousReportDate'] = latest['nextReportDate']
-        else:
+
+        if 'previousReportDate' not in item:
             item['previousReportDate'] = datetime(1980, 1, 3)
+
         spider.log("insert new entry: " + str(item))
         self.save_item(item)
         return item
+
+import unittest
+
+class ZacksMongoPipelineTest(unittest.TestCase):
+    
