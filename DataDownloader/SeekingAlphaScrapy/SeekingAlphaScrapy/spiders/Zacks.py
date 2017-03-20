@@ -10,7 +10,7 @@ class ZacksSpider(scrapy.Spider):
         'ITEM_PIPELINES': {
             'SeekingAlphaScrapy.pipelines.ZacksMongoPipeline': 100,
         },
-        'MONGO_COLLECTION': 'zacks_earnings_call_dates',
+        'MONGO_COLLECTION': 'zacks_earning_call_dates',
         'DOWNLOAD_DELAY': 1
     }
 
