@@ -11,7 +11,7 @@ class EarningstranscriptSpider(scrapy.Spider):
             'SeekingAlphaScrapy.pipelines.MongoPipeline': 100,
         },
         'MONGO_COLLECTION': 'earnings_transcript',
-        'DOWNLOAD_DELAY': 20,
+        'DOWNLOAD_DELAY': 10,
         'CONCURRENT_REQUESTS': 1,
     }
 
@@ -30,7 +30,8 @@ class EarningstranscriptSpider(scrapy.Spider):
             newpage = (response.meta['page'] + 1)
             yield scrapy.Request(response.meta['urlroot'] + str(newpage), self.parse,
                                  meta={'page': newpage,
-                                       'urlroot': response.meta['urlroot']})
+                                       'urlroot': response.meta['urlroot'],
+                                       'ticker': response.meta['ticker']})
 
         for resp in response.xpath("//a[@sasource]/@href").extract():
             yield scrapy.Request(self.article_url_base + resp[2:-2], self.parse_article,
