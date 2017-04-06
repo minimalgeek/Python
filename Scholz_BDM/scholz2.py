@@ -154,7 +154,8 @@ class Game(object):
                 offers[i].append(i_moves)
             else:
                 print(i,j,eui,euj,'nothing')
-
+                
+        print('----------------------- OFFERS ---------------------------------')
         print(offers)
         #df_new['offer'] = map(lambda x: 0 if len(x)==0 else x[np.argmin(np.abs(x))],offers)
         df_new['offer'] = [self.calc_offer(x) for x in offers]
