@@ -25,9 +25,12 @@ results = pd.DataFrame(index=df.index)
 for i in range(10):
     results[i] = df.Position
     df = game.do_round(df)
+    print('----------------------- ROUND:',i,'----------------------------------')
     print(df)
+    print('---------------------------------------------------------------------')    
     print('weighted_median', game.weighted_median(), 'mean', game.mean())
-
+    print('---------------------------------------------------------------------')
+    
 results =  results.T
 results.columns = df.Actor
 print(results)
