@@ -5,10 +5,9 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
-import pymongo
-import unittest
 import scrapy
 from datetime import datetime, timedelta
+import pymongo
 from pprint import pprint
 
 
@@ -43,9 +42,9 @@ class MongoPipeline(object):
         self.client.close()
 
     def process_item(self, item, spider):
-        if 'compareId' in item:
+        if 'url' in item:
             old = self.db[self.collection].find_one(
-                {'compareId': item['compareId']})
+                {'url': item['url']})
             if old is None:
                 self.save_item(item)
                 spider.log("new inserted")
@@ -99,49 +98,3 @@ class ZacksMongoPipeline(MongoPipeline):
         spider.log("insert new entry: " + str(item))
         self.save_item(item)
         return item
-
-
-class ZacksMongoPipelineTest(unittest.TestCase):
-
-    pipeline = ZacksMongoPipeline(
-        'mongodb://localhost:27017', 'python_import', 'zacks_earning_call_dates_test')
-
-    now = datetime.now()
-    start_time = datetime(year=now.year,
-                          month=now.month,
-                          day=now.day,
-                          hour=0,
-                          minute=0,
-                          second=0)
-
-    sample_item = {
-        'ticker': 'AAA_TEST',
-        'nextReportDate': start_time + timedelta(days=2),
-        'amiNextReportDate': '1170112'
-    }
-
-    sample_item_updated = {
-        'ticker': 'AAA_TEST',
-        'nextReportDate': start_time + timedelta(days=5),
-        'amiNextReportDate': '1170112'
-    }
-
-    def setUp(self):
-        self.spider = scrapy.Spider('Test')
-        self.pipeline.open_spider(self.spider)
-        self.coll = self.pipeline.db[self.pipeline.collection]
-
-    def tearDown(self):
-        self.coll.drop()
-
-    def test_process_item(self):
-        self.pipeline.process_item(self.sample_item, self.spider)
-        self.pipeline.process_item(self.sample_item_updated, self.spider)
-        self.pipeline.process_item(self.sample_item_updated, self.spider)
-        items = self.coll.find({'ticker': 'AAA_TEST'})
-        pprint(list(items))
-        self.assertEqual(items.count(), 1)
-
-
-if __name__ == "__main__":
-    unittest.main()

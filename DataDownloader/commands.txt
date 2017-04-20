@@ -8,3 +8,5 @@ scrapy crawl EarningsTranscript -t json -o - > transcripts.json
 scrapy crawl EarningsTranscript -t json
 scrapy crawl Zacks -o - > zacks.json -t json
 scrapy crawl ZacksByPortfolio -o - > zacks2.json -t json
+
+scrapy list

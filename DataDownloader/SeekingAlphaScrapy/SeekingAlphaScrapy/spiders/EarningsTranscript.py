@@ -2,7 +2,8 @@ import json
 import scrapy
 
 
-class EarningstranscriptSpider(scrapy.Spider):
+class EarningsTranscriptSpider(scrapy.Spider):
+    
     name = "EarningsTranscript"
     allowed_domains = ["seekingalpha.com"]
     article_url_base = 'http://seekingalpha.com'
@@ -17,7 +18,6 @@ class EarningstranscriptSpider(scrapy.Spider):
 
     def start_requests(self):
         tickers = json.loads(open('US.json', encoding='utf-8').read())
-        #tickers = [{'Symbol': 'AAPL'},{'Symbol': 'ADBE'},{'Symbol': 'AMD'},{'Symbol': 'GOOG'},{'Symbol': 'BLDP'},{'Symbol': 'VRML'}]
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \
                 ticker['Symbol'] + '/earnings/more_transcripts?page='
