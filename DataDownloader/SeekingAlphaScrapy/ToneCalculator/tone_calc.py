@@ -10,7 +10,7 @@ class ToneCalc(object):
     def __init__(self):
         self.client = pymongo.MongoClient('mongodb://localhost:27017')
         self.db = self.client['python_import']
-        self.collection = self.db['earnings_transcript']
+        self.collection = self.db['earnings_call']
         self.initialize_positive_negative_words()
         
     def initialize_positive_negative_words(self):
@@ -21,7 +21,10 @@ class ToneCalc(object):
         self.negative = henry_words[henry_words['Negative tone'] == 1]['Word'].str.lower()
 
     def get_words(self, transcript, prop):
-        return word_tokenize(transcript[prop])
+        if prop in transcript:
+            return word_tokenize(transcript[prop])
+        else:
+            return []
 
     def process_words(self, words):
         pos_count, neg_count = 0, 0
