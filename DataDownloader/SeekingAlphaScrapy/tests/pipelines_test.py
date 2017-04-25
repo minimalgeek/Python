@@ -3,7 +3,7 @@ import unittest
 import scrapy
 from datetime import datetime, timedelta
 from pprint import pprint
-from pipelines import ZacksMongoPipeline
+from SeekingAlphaScrapy.pipelines import ZacksMongoPipeline
 
 class ZacksMongoPipelineTest(unittest.TestCase):
 
@@ -45,3 +45,6 @@ class ZacksMongoPipelineTest(unittest.TestCase):
         items = self.coll.find({'ticker': 'AAA_TEST'})
         pprint(list(items))
         self.assertEqual(items.count(), 1)
+
+if __name__ == '__main__':
+    unittest.main()
