@@ -26,10 +26,13 @@ class EarningsTranscriptSpiderTop(scrapy.Spider):
 
     def parse(self, response):
         jsonresp = json.loads(response.text)
+        count = 0
         for resp in response.xpath("//a[@sasource]/@href").extract():
             yield scrapy.Request(self.article_url_base + resp[2:-2], self.parse_article,
                                  meta=response.meta)
-            break # process only the first
+            if count > 1:
+                break
+            count += 1
 
     def parse_article(self, response):
         yield {
