@@ -47,7 +47,10 @@ class ToneCalc(object):
                 logging.info(transcript['url'] + ' already calculated')
                 continue
             h_tone, q_and_a_h_tone, wordSize, qAndAWordSize = self.process_tone(transcript)
-            dt = datetime.strptime(transcript['publishDate'], '%Y-%m-%dT%H:%M:%SZ')
+            if isinstance(transcript['publishDate'], str):
+                dt = datetime.strptime(transcript['publishDate'], '%Y-%m-%dT%H:%M:%SZ')
+            else:
+                dt = transcript['publishDate']
             date_number = (dt.year - 1900)*10000 + (dt.month)*100 + (dt.day)
             time_number = (dt.hour)*10000 + (dt.minute)*100 + (dt.second)
             self.collection.update_one(
