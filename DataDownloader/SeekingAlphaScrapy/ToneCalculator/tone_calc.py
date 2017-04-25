@@ -23,7 +23,7 @@ class ToneCalc(object):
 
     def get_words(self, transcript, prop):
         doc = self.nlp(transcript[prop])
-        return [str(word) for word in doc]
+        return [str(word.lemma_) for word in doc]
 
     def process_words(self, words):
         pos_count, neg_count = 0, 0
