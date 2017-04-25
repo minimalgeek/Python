@@ -2,7 +2,7 @@ from datetime import datetime, timedelta
 import pymongo
 import pandas as pd
 import os.path
-import spacy
+from nltk import word_tokenize
 import logging
 
 class ToneCalc(object):
@@ -11,7 +11,6 @@ class ToneCalc(object):
         self.client = pymongo.MongoClient('mongodb://localhost:27017')
         self.db = self.client['python_import']
         self.collection = self.db['earnings_transcript']
-        self.nlp = spacy.load('en')
         self.initialize_positive_negative_words()
         
     def initialize_positive_negative_words(self):
@@ -22,8 +21,7 @@ class ToneCalc(object):
         self.negative = henry_words[henry_words['Negative tone'] == 1]['Word'].str.lower()
 
     def get_words(self, transcript, prop):
-        doc = self.nlp(transcript[prop])
-        return [str(word.lemma_) for word in doc]
+        return word_tokenize(transcript[prop])
 
     def process_words(self, words):
         pos_count, neg_count = 0, 0
