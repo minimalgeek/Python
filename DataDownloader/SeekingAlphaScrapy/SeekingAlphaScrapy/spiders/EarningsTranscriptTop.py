@@ -10,14 +10,18 @@ class EarningsTranscriptSpiderTop(scrapy.Spider):
         'ITEM_PIPELINES': {
             'SeekingAlphaScrapy.pipelines.MongoPipeline': 100,
         },
-        'MONGO_COLLECTION': 'earnings_transcript',
+        'MONGO_URI' : 'mongodb://192.168.137.62:27017',
+        'MONGO_DATABASE': 'insider',
+        #'MONGO_COLLECTION': 'earnings_transcript',
+        'MONGO_COLLECTION': 'earnings_call_Dow30_Broad',
         'DOWNLOAD_DELAY': 10,
         'CONCURRENT_REQUESTS': 1,
     }
 
     def start_requests(self):
         #tickers = json.loads(open('US.json', encoding='utf-8').read())
-        tickers = [{'Symbol':'LAD'}]
+		#tickers = json.loads(open('DOW30.json', encoding='utf-8').read())
+        tickers = [{'Symbol':'JNJ'}]
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \
                 ticker['Symbol'] + '/earnings/more_transcripts?page=1'
