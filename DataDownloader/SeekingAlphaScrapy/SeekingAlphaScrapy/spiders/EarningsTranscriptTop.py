@@ -1,5 +1,6 @@
 import json
 import scrapy
+from datetime import datetime
 
 class EarningsTranscriptSpiderTop(scrapy.Spider):
 
@@ -32,17 +33,20 @@ class EarningsTranscriptSpiderTop(scrapy.Spider):
         jsonresp = json.loads(response.text)
         count = 0
         for resp in response.xpath("//a[@sasource]/@href").extract():
-            yield scrapy.Request(self.article_url_base + resp[2:-2], self.parse_article,
-                                 meta=response.meta)
             if count > 1:
                 break
+            yield scrapy.Request(self.article_url_base + resp[2:-2], self.parse_article,
+                                 meta=response.meta)
             count += 1
 
     def parse_article(self, response):
         yield {
             'url': response.url,
             'tradingSymbol': response.meta['ticker'],
-            'publishDate': response.xpath('//time[@content]/@content').extract_first(),
+            'publishDate': datetime.strptime(
+                response.xpath('//time[@content]/@content').extract_first(),
+                '%Y-%m-%dT%H:%M:%SZ'),
             'rawText': ' '.join(map(str, response.css('div.sa-art p *::text').extract())),
-            'qAndAText': ' '.join(map(str, response.css('div.sa-art #question-answer-session~ p *::text').extract()))
+            'qAndAText': ' '.join(
+                map(str, response.css('div.sa-art #question-answer-session~ p *::text').extract()))
             }
