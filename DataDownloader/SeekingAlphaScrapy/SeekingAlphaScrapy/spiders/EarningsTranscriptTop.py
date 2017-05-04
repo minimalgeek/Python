@@ -15,14 +15,14 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
         'MONGO_URI' : 'mongodb://192.168.137.62:27017',
         'MONGO_DATABASE': 'insider',
         #'MONGO_COLLECTION': 'earnings_transcript',
-        'MONGO_COLLECTION': 'earnings_call_Dow30_Broad',
+        'MONGO_COLLECTION': 'earnings_call_Nas100_Broad',
         'DOWNLOAD_DELAY': 10,
         'CONCURRENT_REQUESTS': 1,
     }
 
     def start_requests(self):
         #tickers = json.loads(open('US.json', encoding='utf-8').read())
-        tickers = json.loads(open('DOW30.json', encoding='utf-8').read())
+        tickers = json.loads(open('NAS100.json', encoding='utf-8').read())
         #tickers = [{'Symbol':'JNJ'}]
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \
