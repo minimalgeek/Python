@@ -14,7 +14,7 @@ BOT_NAME = 'SeekingAlphaScrapy'
 SPIDER_MODULES = ['SeekingAlphaScrapy.spiders']
 NEWSPIDER_MODULE = 'SeekingAlphaScrapy.spiders'
 
-LOG_FILE = 'scrapy.log'
+#LOG_FILE = 'scrapy.log'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent

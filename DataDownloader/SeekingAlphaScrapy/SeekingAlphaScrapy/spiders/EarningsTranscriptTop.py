@@ -1,8 +1,9 @@
 import json
 import scrapy
 from datetime import datetime
+from .AdvancedSpider import AdvancedSpider
 
-class EarningsTranscriptSpiderTop(scrapy.Spider):
+class EarningsTranscriptSpiderTop(AdvancedSpider):
 
     name = "EarningsTranscript_top"
     allowed_domains = ["seekingalpha.com"]

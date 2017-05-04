@@ -1,9 +1,10 @@
+from datetime import datetime
 import json
 import scrapy
-from datetime import datetime
+from .AdvancedSpider import AdvancedSpider
 
-class EarningsTranscriptSpider(scrapy.Spider):
-    
+class EarningsTranscriptSpider(AdvancedSpider):
+
     name = "EarningsTranscript"
     allowed_domains = ["seekingalpha.com"]
     article_url_base = 'http://seekingalpha.com'
