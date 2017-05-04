@@ -42,17 +42,18 @@ class MongoPipeline(object):
         self.client.close()
 
     def process_item(self, item, spider):
-        if len(item['rawText']) < 5000:
-			if 'url' in item:
-				old = self.db[self.collection].find_one(
-					{'url': item['url']})
-				if old is None:
-					self.save_item(item)
-					spider.log("new inserted")
-				else:
-					spider.log("old exists")
-			else:
-				self.save_item(item)
+        if len(item['rawText']) > 5000:
+            if 'url' in item:
+                old = self.db[self.collection].find_one({'url': item['url']})
+                if old is None:
+                    self.save_item(item)
+                    spider.log("new inserted")
+                else:
+                    spider.log("old exists")
+            else:
+                self.save_item(item)
+        else:
+            spider.log('item is too small: ' + item['rawText'])
         return item
 
     def save_item(self, item):
