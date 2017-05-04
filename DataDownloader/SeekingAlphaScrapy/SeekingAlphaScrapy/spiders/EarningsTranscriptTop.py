@@ -22,8 +22,8 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
 
     def start_requests(self):
         #tickers = json.loads(open('US.json', encoding='utf-8').read())
-		#tickers = json.loads(open('DOW30.json', encoding='utf-8').read())
-        tickers = [{'Symbol':'JNJ'}]
+        tickers = json.loads(open('DOW30.json', encoding='utf-8').read())
+        #tickers = [{'Symbol':'JNJ'}]
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \
                 ticker['Symbol'] + '/earnings/more_transcripts?page=1'
