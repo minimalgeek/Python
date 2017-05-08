@@ -44,7 +44,7 @@ class ToneCalc(object):
         return (h_tone, q_and_a_h_tone, len(words), len(q_and_a_words))
 
     def process_all_and_save(self):
-        transcripts = self.collection.find()
+        transcripts = self.collection.find({'publishDate':{'$gte':datetime(2017,3,31)}})
         for transcript in transcripts:
             if 'h_tone' in transcript:
                 logging.info(transcript['url'] + ' already calculated')
