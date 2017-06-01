@@ -22,7 +22,7 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
 
     def start_requests(self):
         #tickers = json.loads(open('US.json', encoding='utf-8').read())
-        tickers = json.loads(open('NAS100.json', encoding='utf-8').read())
+        tickers = json.loads(open('tickers_lists/NAS100.json', encoding='utf-8').read())
         #tickers = [{'Symbol':'JNJ'}]
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \
