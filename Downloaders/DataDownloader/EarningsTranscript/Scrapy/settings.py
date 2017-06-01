@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for SeekingAlphaScrapy project
+# Scrapy settings for Scrapy project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,16 +9,16 @@
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'SeekingAlphaScrapy'
+BOT_NAME = 'Scrapy'
 
-SPIDER_MODULES = ['SeekingAlphaScrapy.spiders']
-NEWSPIDER_MODULE = 'SeekingAlphaScrapy.spiders'
+SPIDER_MODULES = ['Scrapy.spiders']
+NEWSPIDER_MODULE = 'Scrapy.spiders'
 
 #LOG_FILE = 'scrapy.log'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'SeekingAlphaScrapy (+http://www.yourdomain.com)'
+#USER_AGENT = 'Scrapy (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -49,13 +49,13 @@ COOKIES_ENABLED = False
 # Enable or disable spider middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'SeekingAlphaScrapy.middlewares.SeekingalphascrapySpiderMiddleware': 543,
+#    'Scrapy.middlewares.ScrapySpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'SeekingAlphaScrapy.middlewares.MyCustomDownloaderMiddleware': 543,
+#    'Scrapy.middlewares.MyCustomDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -67,7 +67,7 @@ COOKIES_ENABLED = False
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#   'SeekingAlphaScrapy.pipelines.Whatever': 800
+#   'Scrapy.pipelines.Whatever': 800
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)

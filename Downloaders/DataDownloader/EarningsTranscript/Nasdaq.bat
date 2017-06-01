@@ -1,0 +1,1 @@
+scrapy crawl Nasdaq -t json -o - > ./tickers_lists/tickers.json

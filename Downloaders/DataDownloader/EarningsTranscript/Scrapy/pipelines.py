@@ -11,7 +11,7 @@ import pymongo
 from pprint import pprint
 
 
-class SeekingalphascrapyPipeline(object):
+class ScrapyPipeline(object):
     def process_item(self, item, spider):
         return item
 
