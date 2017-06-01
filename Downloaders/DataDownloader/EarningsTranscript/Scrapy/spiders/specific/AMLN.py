@@ -3,6 +3,7 @@ import json
 import scrapy
 from spiders.AdvancedSpider import AdvancedSpider
 
+# .state~ .sub
 class AMLN_ET_Spider(AdvancedSpider):
 
     name = "AMLN"

@@ -15,8 +15,7 @@ SPIDER_MODULES = ['Scrapy.spiders']
 NEWSPIDER_MODULE = 'Scrapy.spiders'
 
 #LOG_FILE = 'scrapy.log'
-#USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
-USER_AGENT_LIST = "useragents.txt"
+USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'Scrapy (+http://www.yourdomain.com)'
@@ -47,10 +46,17 @@ COOKIES_ENABLED = False
 #   'Accept-Language': 'en',
 #}
 
-DOWNLOADER_MIDDLEWARES = {
-    'scrapy.contrib.downloadermiddleware.useragent.UserAgentMiddleware': None,
-    'random_useragent.RandomUserAgentMiddleware': 400
-}
+# Enable or disable spider middlewares
+# See http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
+#SPIDER_MIDDLEWARES = {
+#    'Scrapy.middlewares.ScrapySpiderMiddleware': 543,
+#}
+
+# Enable or disable downloader middlewares
+# See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
+#DOWNLOADER_MIDDLEWARES = {
+#    'Scrapy.middlewares.MyCustomDownloaderMiddleware': 543,
+#}
 
 # Enable or disable extensions
 # See http://scrapy.readthedocs.org/en/latest/topics/extensions.html
@@ -85,6 +91,6 @@ AUTOTHROTTLE_DEBUG = False
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-MONGO_URI = 'mongodb://localhost:27017'
-MONGO_DATABASE = 'python_import'
+MONGO_URI = 'mongodb://192.168.137.62:27017'
+MONGO_DATABASE = 'insider'
 MONGO_COLLECTION = 'scrapy_items'

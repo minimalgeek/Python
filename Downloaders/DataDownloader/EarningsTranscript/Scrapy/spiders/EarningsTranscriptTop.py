@@ -12,17 +12,14 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
         'ITEM_PIPELINES': {
             'Scrapy.pipelines.MongoPipeline': 100,
         },
-        'MONGO_URI' : 'mongodb://192.168.137.62:27017',
-        'MONGO_DATABASE': 'insider',
-        #'MONGO_COLLECTION': 'earnings_transcript',
-        'MONGO_COLLECTION': 'earnings_call_Nas100_Broad',
+        'MONGO_COLLECTION': 'earnings_call_NAS_ALL',
         'DOWNLOAD_DELAY': 10,
-        'CONCURRENT_REQUESTS': 1,
+        'CONCURRENT_REQUESTS': 2,
     }
 
     def start_requests(self):
         #tickers = json.loads(open('US.json', encoding='utf-8').read())
-        tickers = json.loads(open('tickers_lists/NAS100.json', encoding='utf-8').read())
+        tickers = json.loads(open('tickers_lists/NAS_ALL.json', encoding='utf-8').read())
         #tickers = [{'Symbol':'JNJ'}]
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \
@@ -34,7 +31,7 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
         jsonresp = json.loads(response.text)
         count = 0
         for resp in response.xpath("//a[@sasource]/@href").extract():
-            if count > 1:
+            if count > 0:
                 break
             yield scrapy.Request(self.article_url_base + resp[2:-2], self.parse_article,
                                  meta=response.meta)
