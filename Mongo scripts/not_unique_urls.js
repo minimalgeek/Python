@@ -13,7 +13,7 @@ db.earnings_transcript.aggregate(
 		// Stage 2
 		{
 			$match: {
-			count: { $gt: 1 }
+				count: { $gt: 1 }
 			}
 		},
 
