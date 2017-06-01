@@ -8,7 +8,7 @@
 import scrapy
 
 
-class SeekingalphascrapyItem(scrapy.Item):
+class ScrapyItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass

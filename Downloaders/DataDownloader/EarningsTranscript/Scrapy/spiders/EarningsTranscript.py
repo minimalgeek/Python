@@ -10,7 +10,7 @@ class EarningsTranscriptSpider(AdvancedSpider):
     article_url_base = 'http://seekingalpha.com'
     custom_settings = {
         'ITEM_PIPELINES': {
-            'SeekingAlphaScrapy.pipelines.MongoPipeline': 100,
+            'Scrapy.pipelines.MongoPipeline': 100,
         },
         'MONGO_COLLECTION': 'earnings_transcript',
         'DOWNLOAD_DELAY': 10,
@@ -18,7 +18,7 @@ class EarningsTranscriptSpider(AdvancedSpider):
     }
 
     def start_requests(self):
-        tickers = json.loads(open('US.json', encoding='utf-8').read())
+        tickers = json.loads(open('tickers_lists/NAS100.json', encoding='utf-8').read())
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \
                 ticker['Symbol'] + '/earnings/more_transcripts?page='

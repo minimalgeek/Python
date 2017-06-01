@@ -10,7 +10,7 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
     article_url_base = 'http://seekingalpha.com'
     custom_settings = {
         'ITEM_PIPELINES': {
-            'SeekingAlphaScrapy.pipelines.MongoPipeline': 100,
+            'Scrapy.pipelines.MongoPipeline': 100,
         },
         'MONGO_URI' : 'mongodb://192.168.137.62:27017',
         'MONGO_DATABASE': 'insider',
