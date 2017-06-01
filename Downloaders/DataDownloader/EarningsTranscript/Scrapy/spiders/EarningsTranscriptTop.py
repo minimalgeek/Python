@@ -13,8 +13,8 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
             'Scrapy.pipelines.MongoPipeline': 100,
         },
         'MONGO_COLLECTION': 'earnings_call_NAS_ALL',
-        'DOWNLOAD_DELAY': 10,
-        'CONCURRENT_REQUESTS': 2,
+        'DOWNLOAD_DELAY': 5,
+        'CONCURRENT_REQUESTS': 5,
     }
 
     def start_requests(self):
