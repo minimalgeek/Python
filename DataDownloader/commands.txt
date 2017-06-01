@@ -10,3 +10,5 @@ scrapy crawl Zacks -o - > zacks.json -t json
 scrapy crawl ZacksByPortfolio -o - > zacks2.json -t json
 
 scrapy list
+
+scrapy genspider -t crawl AAL https://www.aa.com/
