@@ -16,10 +16,11 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
         'DOWNLOAD_DELAY': 5,
         'CONCURRENT_REQUESTS': 5,
     }
+    top_elements = 4
 
     def start_requests(self):
         #tickers = json.loads(open('US.json', encoding='utf-8').read())
-        tickers = json.loads(open('tickers_lists/NAS_ALL.json', encoding='utf-8').read())
+        tickers = json.loads(open('tickers_lists/NAS_Missing.json', encoding='utf-8').read())
         #tickers = [{'Symbol':'JNJ'}]
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \
@@ -31,7 +32,7 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
         jsonresp = json.loads(response.text)
         count = 0
         for resp in response.xpath("//a[@sasource]/@href").extract():
-            if count > 0:
+            if count >= EarningsTranscriptSpiderTop.top_elements:
                 break
             yield scrapy.Request(self.article_url_base + resp[2:-2], self.parse_article,
                                  meta=response.meta)
