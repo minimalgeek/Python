@@ -34,9 +34,10 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
         for resp in response.xpath("//a[@sasource]/@href").extract():
             if count >= EarningsTranscriptSpiderTop.top_elements:
                 break
-            yield scrapy.Request(self.article_url_base + resp[2:-2], self.parse_article,
-                                 meta=response.meta)
-            count += 1
+            if 'call transcript' in resp.lower():
+                yield scrapy.Request(self.article_url_base + resp[2:-2], self.parse_article,
+                                     meta=response.meta)
+                count += 1
 
     def parse_article(self, response):
         yield {
