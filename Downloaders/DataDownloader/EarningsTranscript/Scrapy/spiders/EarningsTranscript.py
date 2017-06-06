@@ -34,9 +34,11 @@ class EarningsTranscriptSpider(AdvancedSpider):
                                        'urlroot': response.meta['urlroot'],
                                        'ticker': response.meta['ticker']})
 
-        for resp in response.xpath("//a[@sasource]/@href").extract():
-            if 'call transcript' in resp.lower():
-                yield scrapy.Request(self.article_url_base + resp[2:-2], self.parse_article,
+        for resp in response.xpath("//a[@sasource]"):
+            url_to_load = resp.xpath("@href").extract()[0][2:-2]
+            transcript_title = resp.xpath("text()").extract()[0]
+            if 'call transcript' in transcript_title.lower():
+                yield scrapy.Request(self.article_url_base + url_to_load, self.parse_article,
                                      meta=response.meta)
 
     def parse_article(self, response):

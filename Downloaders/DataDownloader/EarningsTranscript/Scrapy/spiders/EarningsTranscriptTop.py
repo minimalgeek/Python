@@ -31,11 +31,13 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
     def parse(self, response):
         jsonresp = json.loads(response.text)
         count = 0
-        for resp in response.xpath("//a[@sasource]/@href").extract():
+        for resp in response.xpath("//a[@sasource]"):
             if count >= EarningsTranscriptSpiderTop.top_elements:
                 break
-            if 'call transcript' in resp.lower():
-                yield scrapy.Request(self.article_url_base + resp[2:-2], self.parse_article,
+            url_to_load = resp.xpath("@href").extract()[0][2:-2]
+            transcript_title = resp.xpath("text()").extract()[0]
+            if 'call transcript' in transcript_title.lower():
+                yield scrapy.Request(self.article_url_base + url_to_load, self.parse_article,
                                      meta=response.meta)
                 count += 1
 
