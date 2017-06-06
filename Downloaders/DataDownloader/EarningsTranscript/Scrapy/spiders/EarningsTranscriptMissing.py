@@ -29,10 +29,8 @@ class EarningsTranscriptMissing(AdvancedSpider):
 
     def parse(self, response):
         if response.status == 200:
-            from scrapy.shell import inspect_response
-            inspect_response(response, self)
             for resp in response.css('.state+ h3'):
-                refs = resp.xpath('./a[@style="display: none;"]/@href').extract()
+                refs = resp.xpath('./a/@href').extract()
                 if len(refs) > 0:
                     url_to_open = refs[0]
                     self.log('>>>>>> url to open: ' + url_to_open, level=logging.INFO)
@@ -44,8 +42,8 @@ class EarningsTranscriptMissing(AdvancedSpider):
         #from scrapy.shell import inspect_response
         #inspect_response(response, self)
         url_to_open = response.css('div.review > div.options a:nth-child(3)').xpath('@href').extract_first()
+        self.log('>>>>>> seekingalpha url to open: ' + url_to_open, level=logging.INFO)
         if url_to_open is not None and len(url_to_open) > 3:
-            self.log('>>>>>> seekingalpha url to open: ' + url_to_open, level=logging.INFO)
             yield scrapy.Request(url_to_open,
                                  self.parse_article,
                                  meta=response.meta)
