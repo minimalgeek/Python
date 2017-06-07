@@ -5,14 +5,14 @@ from .AdvancedSpider import AdvancedSpider
 
 class EarningsTranscriptSpiderTop(AdvancedSpider):
 
-    name = "EarningsTranscript_top"
+    name = "EarningsTranscriptTop"
     allowed_domains = ["seekingalpha.com"]
     article_url_base = 'http://seekingalpha.com'
     custom_settings = {
         'ITEM_PIPELINES': {
             'Scrapy.pipelines.MongoPipeline': 100,
         },
-        'MONGO_COLLECTION': 'earnings_call_NAS_ALL',
+        'MONGO_COLLECTION': 'earnings_transcript',
         'DOWNLOAD_DELAY': 5,
         'CONCURRENT_REQUESTS': 5,
     }
@@ -20,7 +20,7 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
 
     def start_requests(self):
         #tickers = json.loads(open('US.json', encoding='utf-8').read())
-        tickers = json.loads(open('tickers_lists/NAS_Missing.json', encoding='utf-8').read())
+        tickers = json.loads(open('tickers_lists/NAS_ALL.json', encoding='utf-8').read())
         #tickers = [{'Symbol':'JNJ'}]
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \

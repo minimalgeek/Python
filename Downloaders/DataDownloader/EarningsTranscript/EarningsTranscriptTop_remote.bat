@@ -1,0 +1,1 @@
+scrapy crawl EarningsTranscriptTop -s MONGO_URI=mongodb://192.168.137.62:27017 -s MONGO_DATABASE=insider

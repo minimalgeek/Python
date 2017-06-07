@@ -13,12 +13,12 @@ class EarningsTranscriptSpider(AdvancedSpider):
             'Scrapy.pipelines.MongoPipeline': 100,
         },
         'MONGO_COLLECTION': 'earnings_transcript',
-        'DOWNLOAD_DELAY': 10,
-        'CONCURRENT_REQUESTS': 1,
+        'DOWNLOAD_DELAY': 5,
+        'CONCURRENT_REQUESTS': 5,
     }
 
     def start_requests(self):
-        tickers = json.loads(open('tickers_lists/NAS100.json', encoding='utf-8').read())
+        tickers = json.loads(open('tickers_lists/NAS_ALL.json', encoding='utf-8').read())
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \
                 ticker['Symbol'] + '/earnings/more_transcripts?page='
