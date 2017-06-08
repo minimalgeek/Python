@@ -8,15 +8,14 @@ class ZacksSpider(scrapy.Spider):
     allowed_domains = ["zacks.com"]
     custom_settings = {
         'ITEM_PIPELINES': {
-            'SeekingAlphaScrapy.pipelines.ZacksMongoPipeline': 100,
+            'Scrapy.pipelines.ZacksMongoPipeline': 100,
         },
         'MONGO_COLLECTION': 'zacks_earnings_call_dates',
         'DOWNLOAD_DELAY': 1
     }
 
     def start_requests(self):
-        #tickers = json.loads(open('tickers.json', encoding='utf-8').read())
-        tickers = json.loads(open('US.json', encoding='utf-8').read())
+        tickers = json.loads(open('tickers_lists/NAS_ALL.json', encoding='utf-8').read())
         for ticker in tickers:
             yield scrapy.Request('https://www.zacks.com/stock/quote/' + ticker['Symbol'],
                                  meta={'ticker': ticker['Symbol']})

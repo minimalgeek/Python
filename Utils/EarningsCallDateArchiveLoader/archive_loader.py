@@ -21,7 +21,7 @@ def read_files():
 
 def get_collection():
     db = MongoClient('localhost', 27017).python_import
-    return db.zacks_earnings_call_dates_archive
+    return db.zacks_earnings_call_dates
 
 if __name__ == "__main__":
     report_date_dict = read_files()
