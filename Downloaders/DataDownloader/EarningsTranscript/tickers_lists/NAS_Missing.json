@@ -1,32 +1,56 @@
 [
   {
-    "Symbol": "LEAP"
+    "Symbol": "DELL"
   },
   {
-    "Symbol": "EXPD"
+    "Symbol": "QGEN"
   },
   {
-    "Symbol": "MERQ"
-  },
-  {
-    "Symbol": "MCIP"
-  },
-  {
-    "Symbol": "SEBL"
-  },
-  {
-    "Symbol": "JBHT"
-  },
-  {
-    "Symbol": "APCC"
-  },
-  {
-    "Symbol": "PIXR"
+    "Symbol": "AMLN"
   },
   {
     "Symbol": "LIFE"
   },
   {
+    "Symbol": "MCIP"
+  },
+  {
+    "Symbol": "LMCA"
+  },
+  {
+    "Symbol": "BRCM"
+  },
+  {
+    "Symbol": "EXPD"
+  },
+  {
+    "Symbol": "LEAP"
+  },
+  {
+    "Symbol": "PIXR"
+  },
+  {
+    "Symbol": "SEBL"
+  },
+  {
+    "Symbol": "APCC"
+  },
+  {
+    "Symbol": "LLTC"
+  },
+  {
+    "Symbol": "WDC"
+  },
+  {
+    "Symbol": "MERQ"
+  },
+  {
     "Symbol": "LNCR"
+  },
+  {
+    "Symbol": "JBHT"
+  },
+  {
+    "Symbol": "XMSR"
   }
 ]

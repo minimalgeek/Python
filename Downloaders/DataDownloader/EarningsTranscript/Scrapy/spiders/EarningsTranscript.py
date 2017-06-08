@@ -18,7 +18,7 @@ class EarningsTranscriptSpider(AdvancedSpider):
     }
 
     def start_requests(self):
-        tickers = json.loads(open('tickers_lists/NAS_ALL.json', encoding='utf-8').read())
+        tickers = json.loads(open('tickers_lists/NAS_Missing.json', encoding='utf-8').read())
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \
                 ticker['Symbol'] + '/earnings/more_transcripts?page='

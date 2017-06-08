@@ -1,2 +1,3 @@
-db.earnings_call_NAS_ALL.aggregate( 
-   {$group : {_id : "$tradingSymbol"} });
+db.earnings_transcript.aggregate( 
+   {$group : {_id : "$tradingSymbol"} },
+   {$project: {'Symbol': '$_id', '_id':0}});
