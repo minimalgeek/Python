@@ -26,7 +26,7 @@ if __name__ == "__main__":
         for date_for_ticker in list(dates_for_ticker):
 
             start = date_for_ticker['nextReportDate']
-            end = date_for_ticker['nextReportDate'] + timedelta(days=2)
+            end = date_for_ticker['nextReportDate'] + timedelta(days=4)
 
             transcript = collection_transcripts.find_one(
                 {'tradingSymbol': symbol,
