@@ -40,5 +40,6 @@ if __name__ == "__main__":
                 found_transcripts.append(transcript_blueprint)
     print('Missing transcripts > ', len(missing_transcripts))
     pprint(missing_transcripts)
+    print('\n\n\n')
     print('Found transcripts > ', len(found_transcripts))
     pprint(found_transcripts)

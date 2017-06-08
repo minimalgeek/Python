@@ -8,6 +8,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Downloaders/DataDownloader/EarningsTranscript/logs/spider.log.4" afterPath="$PROJECT_DIR$/Downloaders/DataDownloader/EarningsTranscript/logs/spider.log.4" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Downloaders/DataDownloader/EarningsTranscript/logs/spider.log.5" afterPath="$PROJECT_DIR$/Downloaders/DataDownloader/EarningsTranscript/logs/spider.log.5" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Downloaders/DataDownloader/EarningsTranscript/logs/spider.log.6" afterPath="$PROJECT_DIR$/Downloaders/DataDownloader/EarningsTranscript/logs/spider.log.6" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Utils/MissingTranscripts/checker.py" afterPath="$PROJECT_DIR$/Utils/MissingTranscripts/checker.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="checker.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="checker.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Utils/MissingTranscripts/checker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            <state relative-caret-position="192">
+              <caret line="8" column="73" lean-forward="false" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="73" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -46,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="missing_tickers.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="missing_tickers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Utils/MissingTickers/missing_tickers.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -73,11 +74,11 @@
         <option value="$PROJECT_DIR$/Utils/EarningsCallDateArchiveLoader/archive_loader.py" />
         <option value="$PROJECT_DIR$/Downloaders/DataDownloader/EarningsTranscript/Scrapy/spiders/Zacks.py" />
         <option value="$PROJECT_DIR$/Downloaders/DataDownloader/EarningsTranscript/Scrapy/pipelines.py" />
-        <option value="$PROJECT_DIR$/Utils/MissingTranscripts/checker.py" />
         <option value="$PROJECT_DIR$/Utils/MissingTickers/tickers_A.csv" />
         <option value="$PROJECT_DIR$/Utils/MissingTickers/tickers_B.csv" />
         <option value="$PROJECT_DIR$/Downloaders/DataDownloader/EarningsTranscript/tickers_lists/NAS_Missing.json" />
         <option value="$PROJECT_DIR$/Downloaders/DataDownloader/EarningsTranscript/Scrapy/spiders/EarningsTranscript.py" />
+        <option value="$PROJECT_DIR$/Utils/MissingTranscripts/checker.py" />
       </list>
     </option>
   </component>
@@ -351,7 +352,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.missing_tickers">
+  <component name="RunManager" selected="Python.checker">
     <configuration default="false" name="checker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -509,8 +510,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.missing_tickers" />
-        <item index="1" class="java.lang.String" itemvalue="Python.checker" />
+        <item index="0" class="java.lang.String" itemvalue="Python.checker" />
+        <item index="1" class="java.lang.String" itemvalue="Python.missing_tickers" />
         <item index="2" class="java.lang.String" itemvalue="Python.archive_loader" />
       </list>
     </recent_temporary>
@@ -547,7 +548,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-1088" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49434572" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -556,7 +556,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26435536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5287107" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39940536" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5056543" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -648,7 +648,7 @@
         <state relative-caret-position="731">
           <caret line="43" column="33" lean-forward="true" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -685,16 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Utils/MissingTranscripts/checker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Utils/MissingTickers/diff.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -724,7 +714,7 @@
         <state relative-caret-position="-255">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -742,7 +732,7 @@
         <state relative-caret-position="212">
           <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="29" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -760,7 +750,7 @@
         <state relative-caret-position="35">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -770,6 +760,16 @@
         <state relative-caret-position="255">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/MissingTranscripts/checker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="73" lean-forward="false" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
