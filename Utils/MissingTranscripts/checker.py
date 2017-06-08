@@ -15,8 +15,14 @@ if __name__ == "__main__":
     tickers = json.loads(open('NAS_ALL.json', encoding='utf-8').read())
     for ticker in tickers:
         symbol = ticker['Symbol']
-        dates_for_ticker = collection_dates.find({'ticker': symbol},
-                                                 projection={'nextReportDate': True})
+        dates_for_ticker = collection_dates.find(
+            {
+                'ticker': symbol,
+                'nextReportDate': {'$gte': datetime(2006, 1, 1)}
+            },
+            projection={'nextReportDate': True}
+        )
+
         for date_for_ticker in list(dates_for_ticker):
 
             start = date_for_ticker['nextReportDate']

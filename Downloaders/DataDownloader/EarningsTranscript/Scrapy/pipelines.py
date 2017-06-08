@@ -78,17 +78,24 @@ class ZacksMongoPipeline(MongoPipeline):
             latest = max(all_for_ticker,
                          key=lambda old_item: old_item['nextReportDate'])
             if latest and ((datetime.now() - timedelta(days=1)) < latest['nextReportDate']):
+                # always remove future report dates,
+                # but copy the 'previousReportDate' field to the current item
                 spider.log("remove old entry: " + str(latest))
                 if 'previousReportDate' in latest:
                     item['previousReportDate'] = latest['previousReportDate']
                 self.db[self.collection].delete_one(latest)
             elif latest:
+                # set the 'previousReportDate' field to the current item
+                # from the latest's nextReportDate
                 item['previousReportDate'] = latest['nextReportDate']
 
         # handling additional fields
         if 'previousReportDate' not in item:
+            # if we haven't found latest item in the previous block, the 'previousReportDate'
+            # field doesn't exists. Let's create a default one
             item['previousReportDate'] = datetime(1980, 1, 3)
         if latest:
+            # nextReportDatePrevious stores only a log information
             if latest['nextReportDate'] != item['nextReportDate']:
                 spider.log("updated 'nextReportDate' from " + str(latest['nextReportDate']) +
                            ' to ' + str(item['nextReportDate']))
