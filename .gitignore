@@ -89,3 +89,4 @@ ENV/
 .ropeproject
 *.pkl
 spider.log.*
+.idea/workspace.xml
