@@ -9,8 +9,10 @@ class ToneCalc(object):
 
     def __init__(self):
         self.client = pymongo.MongoClient('mongodb://192.168.137.62:27017')
-        self.db = self.client['insider']
-        self.collection = self.db['earnings_call_Nas100_Broad']
+        #self.db = self.client['insider']
+        #self.collection = self.db['earnings_call_Nas100_Broad']
+        self.db = self.client['python_import']
+        self.collection = self.db['earnings_transcript']
         self.initialize_positive_negative_words()
         
     def initialize_positive_negative_words(self):
