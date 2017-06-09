@@ -26,7 +26,7 @@ if __name__ == "__main__":
         for date_for_ticker in list(dates_for_ticker):
 
             start = date_for_ticker['nextReportDate']
-            end = date_for_ticker['nextReportDate'] + timedelta(days=4)
+            end = date_for_ticker['nextReportDate'] + timedelta(days=5)
 
             transcript = collection_transcripts.find_one(
                 {'tradingSymbol': symbol,
@@ -43,3 +43,12 @@ if __name__ == "__main__":
     print('\n\n\n')
     print('Found transcripts > ', len(found_transcripts))
     pprint(found_transcripts)
+
+    import csv
+
+    with open('MissingTranscripts.csv', 'w', newline='') as csvfile:
+        fieldnames = ['ticker', 'date']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+
+        writer.writeheader()
+        writer.writerows(missing_transcripts)
