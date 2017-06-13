@@ -27,6 +27,7 @@ from ibapi.ticktype import *
 
 from ibapi.account_summary_tags import *
 
+
 def SetupLogger():
     if not os.path.exists("log"):
         os.makedirs("log")
@@ -49,6 +50,7 @@ def SetupLogger():
 
     logging.getLogger().addHandler(console)
 
+
 def printWhenExecuting(fn):
     def fn2(self):
         logging.getLogger().info("   doing " + fn.__name__)
@@ -57,24 +59,28 @@ def printWhenExecuting(fn):
 
     return fn2
 
+
 class Contracts:
     @staticmethod
-    def USStockAtSmart():
+    def USStockAtSmart(ticker='AAPL'):
         contract = Contract()
-        contract.symbol = "IBKR"
+        contract.symbol = ticker
         contract.secType = "STK"
         contract.currency = "USD"
         contract.exchange = "SMART"
         return contract
 
+
 # mechanism through which the TWS delivers information to the API client application
 class TestWrapper(EWrapper):
     pass
 
+
 # used to send requests to the the TWS
 class TestClient(EClient):
-     def __init__(self, wrapper):
-         EClient.__init__(self, wrapper)
+    def __init__(self, wrapper):
+        EClient.__init__(self, wrapper)
+
 
 class TestApp(TestWrapper, TestClient):
     def __init__(self):
@@ -90,15 +96,18 @@ class TestApp(TestWrapper, TestClient):
         if self.async:
             self.startApi()
 
-    def nextValidId(self, orderId:int):
+    def nextValidId(self, orderId: int):
         super().nextValidId(orderId)
 
         logging.debug("setting nextValidOrderId: %d", orderId)
         self.nextValidOrderId = orderId
-        # ! [nextvalidid]
-
-        # we can start now
         self.start()
+
+    def historicalData(self, reqId:TickerId , date:str, open:float, high:float,
+                       low:float, close:float, volume:int, barCount:int,
+                        WAP:float, hasGaps:int):
+        logging.info(">>> Hello tick: reqID - {}, date - {}, {}, {}, {}, {}"
+                     .format(reqId, date, open, high, low, close))
 
     def start(self):
         if self.started:
@@ -106,15 +115,11 @@ class TestApp(TestWrapper, TestClient):
         self.started = True
 
         self.reqGlobalCancel()
-        self.reqMarketDataType(MarketDataTypeEnum.DELAYED)
-        self.tickDataOperations_req()
+        queryTime = (datetime.datetime(2017, 6, 12, 15, 33)).strftime("%Y%m%d %H:%M:%S")
 
-    @printWhenExecuting
-    def tickDataOperations_req(self):
-        # Requesting real time market data
-
-        # ! [reqmktdata]
-        self.reqMktData(1101, Contracts.USStockAtSmart(), "", False, False, [])
+        for i, tick in enumerate(['AAPL', 'NXPI']):
+            self.reqHistoricalData(4100 + i, Contracts.USStockAtSmart(tick), queryTime,
+                                   "180 S", "1 min", "TRADES", 1, 1, [])
 
 if __name__ == '__main__':
     SetupLogger()
