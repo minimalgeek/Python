@@ -2,7 +2,6 @@ from datetime import datetime
 import json
 import scrapy
 from .AdvancedSpider import AdvancedSpider
-import pymongo
 import logging
 
 class EarningsTranscriptSpider(AdvancedSpider):

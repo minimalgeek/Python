@@ -2,42 +2,63 @@ import json
 import scrapy
 from datetime import datetime
 from .AdvancedSpider import AdvancedSpider
+from datetime import timedelta, datetime
 
 class EarningsTranscriptSpiderTop(AdvancedSpider):
 
     name = "EarningsTranscriptTop"
     allowed_domains = ["seekingalpha.com"]
-    article_url_base = 'http://seekingalpha.com'
+    article_url_base = 'https://seekingalpha.com'
     custom_settings = {
         'ITEM_PIPELINES': {
             'Scrapy.pipelines.MongoPipeline': 100,
         },
         'MONGO_COLLECTION': 'earnings_transcript',
-        'DOWNLOAD_DELAY': 5,
+        'DOWNLOAD_DELAY': 3,
         'CONCURRENT_REQUESTS': 5,
+        'ZACKS_ONLY': True,
+        'ZACKS_MONGO_COLLECTION': 'zacks_earnings_call_dates',
+        'ZACKS_DAY_LOOKBACK': 5
     }
-    top_elements = 4
+    top_elements = 2
 
     def start_requests(self):
-        #tickers = json.loads(open('US.json', encoding='utf-8').read())
-        tickers = json.loads(open('tickers_lists/NAS_ALL.json', encoding='utf-8').read())
-        #tickers = [{'Symbol':'JNJ'}]
+        tickers = self.load_tickers()
+
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \
                 ticker['Symbol'] + '/earnings/more_transcripts?page=1'
             yield scrapy.Request(urlroot, self.parse,
                                  meta={'urlroot': urlroot, 'ticker': ticker['Symbol']})
 
+    def load_tickers(self):
+        self.connect_to_db()
+        zacks_only = self.settings.getbool('ZACKS_ONLY')
+        if zacks_only == 1:
+            self.log('Open tickers from zacks database')
+            zacks_collection = self.db.get_collection(self.settings.get('ZACKS_MONGO_COLLECTION'))
+            today = datetime.now()
+            today_minus_x = today - timedelta(days=self.settings.getint('ZACKS_DAY_LOOKBACK'))
+            dates = zacks_collection.find({'nextReportDate': {'$lte': today, '$gte': today_minus_x}})
+            dates = list(dates)
+            tickers = [{'Symbol':data['ticker']} for data in dates]
+        else:
+            self.log('Open tickers from JSON file')
+            tickers = json.loads(open('tickers_lists/NAS_ALL.json', encoding='utf-8').read())
+
+        self.log('Tickers to crawl:\n' + str(tickers))
+        return tickers
+
     def parse(self, response):
-        jsonresp = json.loads(response.text)
         count = 0
         for resp in response.xpath("//a[@sasource]"):
             if count >= EarningsTranscriptSpiderTop.top_elements:
                 break
             url_to_load = resp.xpath("@href").extract()[0][2:-2]
             transcript_title = resp.xpath("text()").extract()[0]
+            transcript_url = self.article_url_base + url_to_load
             if 'call transcript' in transcript_title.lower():
-                yield scrapy.Request(self.article_url_base + url_to_load, self.parse_article,
+                yield scrapy.Request(transcript_url, self.parse_article,
                                      meta=response.meta)
                 count += 1
 
