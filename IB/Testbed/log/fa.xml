@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListOfAllocationProfiles>
+	<AllocationProfile>
+		<name>Proba01</name>
+		<type>1</type>
+		<ListOfAllocations varName="listOfAllocations">
+			<Allocation>
+				<acct>DU496705</acct>
+				<amount>100.0</amount>
+			</Allocation>
+		</ListOfAllocations>
+	</AllocationProfile>
+</ListOfAllocationProfiles>
