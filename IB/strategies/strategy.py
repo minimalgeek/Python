@@ -1,9 +1,13 @@
 import logging
+from queue import Queue
+
 
 class Strategy:
-    def __init__(self, logger=None):
+    def __init__(self, logger=None, data=None, portfolio={}):
         self._name = self.__class__.__name__
-        self._data = None
+        self.data = data
+        self.signals = Queue()
+        self.portfolio = portfolio
         self.logger = logger or logging.getLogger(self._name)
 
     @property
@@ -28,3 +32,6 @@ class Strategy:
 
     def info(self, msg, *args):
         self.logger.info(msg, *args)
+
+    def warning(self, msg, *args):
+        self.logger.warning(msg, *args)

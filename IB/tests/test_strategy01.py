@@ -1,5 +1,9 @@
 from IB.strategies.strategy_01 import Strategy01
 import pytest
+from IB.strategies import dataloader
+from datetime import datetime, timedelta
+
+from IB.strategies.trade_signal import *
 
 
 @pytest.fixture
@@ -26,8 +30,19 @@ def test_set_data(strategy: Strategy01):
 
 
 def test_run_smoke(strategy: Strategy01):
+    strategy.data = []
     strategy.run()
 
 
 def test_run(strategy: Strategy01):
-    pass
+    to_date = datetime(2016, 4, 10)
+    from_date = to_date - timedelta(days=10)
+    ret = dataloader.load_transcripts_between(from_date, to_date)
+    strategy.data = ret
+    strategy.run()
+
+    assert strategy.signals.qsize() == 2
+    aal_signal = strategy.signals.get()
+    assert isinstance(aal_signal, Sell)
+    ibm_signal = strategy.signals.get()
+    assert isinstance(ibm_signal, Buy)

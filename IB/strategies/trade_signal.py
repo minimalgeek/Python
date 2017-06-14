@@ -1,8 +1,9 @@
 class Signal:
     direction = None
 
-    def __init__(self, ticker):
+    def __init__(self, ticker, value=None):
         self.ticker = ticker
+        self.value = value
 
 
 class Buy(Signal):
@@ -18,3 +19,9 @@ class Sell(Signal):
     def __init__(self, *args, **kwargs):
         super(Sell, self).__init__(*args, **kwargs)
 
+
+class Close(Signal):
+    direction = 'CLOSE'
+
+    def __init__(self, *args, **kwargs):
+        super(Sell, self).__init__(*args, **kwargs)
