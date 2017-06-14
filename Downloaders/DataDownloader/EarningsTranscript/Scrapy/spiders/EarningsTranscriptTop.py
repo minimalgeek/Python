@@ -13,12 +13,13 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
         'ITEM_PIPELINES': {
             'Scrapy.pipelines.MongoPipeline': 100,
         },
+        'MODE': 'ZACKS', # ZACKS, SINGLE, FILE
         'MONGO_COLLECTION': 'earnings_transcript',
         'DOWNLOAD_DELAY': 3,
         'CONCURRENT_REQUESTS': 5,
-        'ZACKS_ONLY': True,
         'ZACKS_MONGO_COLLECTION': 'zacks_earnings_call_dates',
-        'ZACKS_DAY_LOOKBACK': 5
+        'ZACKS_DAY_LOOKBACK': 5,
+        'TICKER': 'ADI'
     }
     top_elements = 2
 
@@ -33,8 +34,8 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
 
     def load_tickers(self):
         self.connect_to_db()
-        zacks_only = self.settings.getbool('ZACKS_ONLY')
-        if zacks_only == 1:
+        mode = self.settings.get('MODE')
+        if mode == 'ZACKS':
             self.log('Open tickers from zacks database')
             zacks_collection = self.db.get_collection(self.settings.get('ZACKS_MONGO_COLLECTION'))
             today = datetime.now()
@@ -42,9 +43,13 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
             dates = zacks_collection.find({'nextReportDate': {'$lte': today, '$gte': today_minus_x}})
             dates = list(dates)
             tickers = [{'Symbol':data['ticker']} for data in dates]
-        else:
+        elif mode == 'FILE':
             self.log('Open tickers from JSON file')
             tickers = json.loads(open('tickers_lists/NAS_ALL.json', encoding='utf-8').read())
+        elif mode == 'SINGLE':
+            tickers = [{'Symbol': self.settings.get('TICKER')}]
+        else:
+            raise TypeError('Not valid mode: ' + mode)
 
         self.log('Tickers to crawl:\n' + str(tickers))
         return tickers
