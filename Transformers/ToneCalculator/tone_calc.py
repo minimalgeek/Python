@@ -50,7 +50,7 @@ class ToneCalc(object):
     def process_all_and_save(self):
 
         #transcripts = self.collection.find({'publishDate':{'$gte':datetime(2017,3,31)}})
-        transcripts = self.collection.find({}, no_cursor_timeout=True).batch_size(30)
+        transcripts = self.collection.find({'tradingSymbol':'ADI'}, no_cursor_timeout=True).batch_size(30)
 
         for transcript in transcripts:
             if 'h_tone' in transcript:
