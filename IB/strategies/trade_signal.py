@@ -5,6 +5,9 @@ class Signal:
         self.ticker = ticker
         self.value = value
 
+    def __str__(self):
+        return "{} - [{}, {}]".format(self.direction, self.ticker, self.value)
+
 
 class Buy(Signal):
     direction = 'BUY'

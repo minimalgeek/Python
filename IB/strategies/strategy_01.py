@@ -18,13 +18,14 @@ class Strategy01(Strategy):
         self.info('Run %s', self.name)
         for transcript in self.data:
             symbol = transcript['tradingSymbol']
+            self.info('Check %s signal', symbol)
             prev_transcript = transcript['previous']
             if prev_transcript is None:
                 self.warning('Previous transcript does not exist for %s', symbol)
                 continue
 
             prev_ratio, ratio = self.calc_ratios(prev_transcript, transcript)
-            self.info('%s - Ratio (%f), previous ratio(%f)', symbol, ratio, prev_ratio)
+            self.info('%s[Ratio (%f), previous ratio(%f)]', symbol, ratio, prev_ratio)
 
             if ratio > prev_ratio:
                 signal = Buy(ticker=symbol)
@@ -36,10 +37,13 @@ class Strategy01(Strategy):
                 self.info('%s exist in portfolio', symbol)
                 prev_signal = in_portfolio.get('signal')
                 if prev_signal.direction != signal.direction:
+                    self.info('Adding signal to queue: %s', str(signal))
                     self.signals.put(Close(ticker=symbol))
                 else:
                     signal = None
+
             if signal is not None:
+                self.info('Adding signal to queue: %s', str(signal))
                 self.signals.put(signal)
 
 
