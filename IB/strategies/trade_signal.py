@@ -1,3 +1,19 @@
+import collections
+
+from ibapi.contract import Contract
+from ibapi.order import Order
+
+
+class SignalFactory:
+    @staticmethod
+    def get_signal(order: Order, contract: Contract):
+        action = order.action
+        if action == 'BUY':
+            return Buy(contract.symbol, order.totalQuantity)
+        elif action == 'SELL':
+            return Sell(contract.symbol, order.totalQuantity)
+
+
 class Signal:
     direction = None
 

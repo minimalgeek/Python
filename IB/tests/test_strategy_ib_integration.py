@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from IB.strategies.trade_signal import *
 import pytest, time
 from IB.strategies.ib_manager import IBManager
-import logging
+import logging, sys
 
 logger = logging.getLogger(__name__)
 
@@ -29,6 +29,7 @@ def strategy():
     return Strategy01()
 
 
+@pytest.mark.integration
 def test_integration(strategy: Strategy01):
     # fire some orders...
     manager.place_test_order('AAL')
@@ -47,11 +48,13 @@ def test_integration(strategy: Strategy01):
         for val in orders:
             contract = val[0]
             order = val[1]
-            # TODO continue
-            #strategy.portfolio[contract.symbol] =
+            portfolio_item = {
+                'signal': SignalFactory.get_signal(order, contract)
+            }
+            strategy.portfolio[contract.symbol] = portfolio_item
+        strategy.data = ret
+        strategy.run()
+        manager.process_signals(strategy.signals)
 
     manager.load_portfolio(callback=cb)
     time.sleep(2)
-
-    strategy.data = ret
-    strategy.run()

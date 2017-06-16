@@ -93,11 +93,16 @@ class IBManager(TestWrapper, TestClient):
 
     @callback_deco
     def load_portfolio(self, callback):
+        self.id_to_order = {}
         self.reqAllOpenOrders()
 
     @callback_deco
     def place_test_order(self, ticker):
         self.placeOrder(self.next_order_id(), USStock(ticker), MarketOrder("BUY", 100))
+
+    @callback_deco
+    def process_signals(self, signals, callback):
+        pass
 
     ############################
     # All the overridden stuff #
@@ -112,9 +117,9 @@ class IBManager(TestWrapper, TestClient):
         self.logger.info('Open order end')
         callback = self.callback_holder['load_portfolio']
         callback(self.id_to_order)
-        self.id_to_order = {}
 
     def nextValidId(self, orderId: int):
         self.logger.info("Setting next valid order id: %d", orderId)
         self._next_valid_order_id = orderId
         self._started = True
+
