@@ -32,11 +32,11 @@ from ibapi.ticktype import *
 
 from ibapi.account_summary_tags import *
 
-from ContractSamples import ContractSamples
-from OrderSamples import OrderSamples
-from AvailableAlgoParams import AvailableAlgoParams
-from ScannerSubscriptionSamples import ScannerSubscriptionSamples
-from FaAllocationSamples import FaAllocationSamples
+from .ContractSamples import ContractSamples
+from .OrderSamples import OrderSamples
+from .AvailableAlgoParams import AvailableAlgoParams
+from .ScannerSubscriptionSamples import ScannerSubscriptionSamples
+from .FaAllocationSamples import FaAllocationSamples
 
 
 def SetupLogger():

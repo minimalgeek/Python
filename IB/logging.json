@@ -3,7 +3,7 @@
     "disable_existing_loggers": false,
     "formatters": {
         "simple": {
-            "format": "(%(threadName)s) - %(asctime)s - %(name)s - %(levelname)s - %(message)s"
+            "format": "[(%(threadName)s) - %(asctime)s - %(name)s - %(levelname)s] %(message)s"
         }
     },
 
@@ -37,7 +37,7 @@
     },
 
     "root": {
-        "level": "INFO",
+        "level": "DEBUG",
         "handlers": ["console", "info_file_handler", "error_file_handler"]
     }
 }
