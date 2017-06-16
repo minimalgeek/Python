@@ -42,5 +42,6 @@ class Sell(Signal):
 class Close(Signal):
     direction = 'CLOSE'
 
-    def __init__(self, *args, **kwargs):
-        super(Sell, self).__init__(*args, **kwargs)
+    def __init__(self, order_id, *args, **kwargs):
+        super(Close, self).__init__(*args, **kwargs)
+        self.order_id = order_id

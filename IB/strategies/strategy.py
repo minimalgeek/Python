@@ -3,12 +3,12 @@ from queue import Queue
 
 
 class Strategy:
-    def __init__(self, logger=None, data=None, portfolio={}):
+    def __init__(self):
         self._name = self.__class__.__name__
-        self.data = data
+        self._data = None
         self.signals = Queue()
-        self.portfolio = portfolio
-        self.logger = logger or logging.getLogger(self._name)
+        self.portfolio = {}
+        self.logger = logging.getLogger(self._name)
 
     @property
     def name(self):
@@ -20,8 +20,6 @@ class Strategy:
 
     @data.setter
     def data(self, value):
-        if value is None:
-            return
         if isinstance(value, list):
             self._data = value
         else:

@@ -28,24 +28,23 @@ class Strategy01(Strategy):
             self.info('%s[Ratio (%f), previous ratio(%f)]', symbol, ratio, prev_ratio)
 
             if ratio > prev_ratio:
-                signal = Buy(ticker=symbol)
+                signal = Buy(ticker=symbol, value=self.calc_value())
             else:
-                signal = Sell(ticker=symbol)
+                signal = Sell(ticker=symbol, value=self.calc_value())
 
             in_portfolio = self.portfolio.get(symbol)
             if in_portfolio is not None:
                 self.info('%s exist in portfolio', symbol)
                 prev_signal = in_portfolio.get('signal')
+                order_id = in_portfolio.get('order_id')
                 if prev_signal.direction != signal.direction:
-                    self.info('Adding signal to queue: %s', str(signal))
-                    self.signals.put(Close(ticker=symbol))
+                    close_signal = Close(ticker=symbol, order_id=order_id)
+                    self.add_and_log(close_signal)
                 else:
                     signal = None
 
             if signal is not None:
-                self.info('Adding signal to queue: %s', str(signal))
-                self.signals.put(signal)
-
+                self.add_and_log(signal)
 
     def calc_ratios(self, prev_transcript, transcript):
         tone = transcript['h_tone']
@@ -55,4 +54,9 @@ class Strategy01(Strategy):
         return prev_ratio, ratio
 
     def calc_value(self):
-        return 0
+        # TODO: what should it be
+        return 100
+
+    def add_and_log(self, signal):
+        self.info('Adding signal to queue: %s', str(signal))
+        self.signals.put(signal)
