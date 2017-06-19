@@ -1,4 +1,4 @@
-import config as cfg
+from strategies import config as cfg
 from datetime import datetime
 import pymongo
 import logging
