@@ -1,5 +1,5 @@
 from pytest import fixture
-from IB.strategies import dataloader
+from ..strategies import dataloader
 from datetime import datetime, timedelta
 import pytest
 

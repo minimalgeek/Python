@@ -1,11 +1,10 @@
-from IB.strategies.strategy_01 import Strategy01
-import pytest
-from IB.strategies import dataloader
+from ..strategies.strategy_01 import Strategy01
+from ..strategies import dataloader
 from datetime import datetime, timedelta
-from IB.strategies.trade_signal import *
-import pytest, time
-from IB.strategies.ib_manager import IBManager
-import logging, sys
+from ..strategies.trade_signal import *
+import pytest
+from ..strategies.ib_manager import IBManager
+import logging
 
 logger = logging.getLogger(__name__)
 manager = None
