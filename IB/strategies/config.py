@@ -1,8 +1,7 @@
-from .my_logger import MyLogger
 from pymongo import MongoClient
 import logging
 import logging.config
-import os, sys, time, json
+import os, json
 
 mongo = {
     'host': 'localhost',

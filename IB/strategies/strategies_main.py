@@ -1,11 +1,7 @@
-import os
-import sys
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
-from strategies import dataloader
-from strategies.strategy_01 import Strategy01
-from strategies.trade_signal import *
-from strategies.ib_manager import IBManager
+import dataloader
+from strategy_01 import Strategy01
+from trade_signal import *
+from ib_manager import IBManager
 from datetime import datetime, timedelta
 import logging
 

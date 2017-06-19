@@ -2,25 +2,15 @@ import logging
 import queue
 from threading import Thread
 
-import collections
 from ibapi import wrapper
 from ibapi.wrapper import EWrapper
 from ibapi.client import EClient
-from ibapi.utils import iswrapper
 
 from ibapi.common import *
-from ibapi.order_condition import *
 from ibapi.contract import *
 from ibapi.order import *
 from ibapi.order_state import *
-from ibapi.execution import Execution
-from ibapi.execution import ExecutionFilter
-from ibapi.commission_report import CommissionReport
-from ibapi.scanner import ScannerSubscription
-from ibapi.ticktype import *
-
-from ibapi.account_summary_tags import *
-from .trade_signal import *
+from trade_signal import *
 
 
 def USStock(ticker: str):

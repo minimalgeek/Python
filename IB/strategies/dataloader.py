@@ -1,4 +1,4 @@
-from . import config as cfg
+import config as cfg
 from datetime import datetime
 import pymongo
 import logging
