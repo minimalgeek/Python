@@ -15,7 +15,7 @@ class ZacksSpider(scrapy.Spider):
     }
 
     def start_requests(self):
-        tickers = json.loads(open('tickers_lists/NAS_ALL.json', encoding='utf-8').read())
+        tickers = json.loads(open('tickers_lists/US.json', encoding='utf-8').read())
         for ticker in tickers:
             yield scrapy.Request('https://www.zacks.com/stock/quote/' + ticker['Symbol'],
                                  meta={'ticker': ticker['Symbol']})
