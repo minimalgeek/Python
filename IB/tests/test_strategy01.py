@@ -1,9 +1,9 @@
-from IB.strategies.strategy_01 import Strategy01
+from ..strategies.strategy_01 import Strategy01
 import pytest
-from IB.strategies import dataloader
+from ..strategies import dataloader
 from datetime import datetime, timedelta
 
-from IB.strategies.trade_signal import *
+from ..strategies.trade_signal import *
 
 
 @pytest.fixture

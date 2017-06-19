@@ -1,8 +1,9 @@
-import pytest, time
-from IB.strategies.ib_manager import IBManager
-import logging
+import queue
 
-from IB.strategies.trade_signal import Buy, Sell
+import pytest
+from ..strategies.ib_manager import IBManager
+import logging
+from ..strategies.trade_signal import Buy, Sell
 
 logger = logging.getLogger(__name__)
 manager = None
@@ -24,7 +25,7 @@ def teardown():
 def test_load_portfolio():
     manager.reqGlobalCancel()
     manager.place_test_order('AAL')
-    manager.place_test_order('IBKR')
+    manager.place_test_order('AAPL')
 
     ret = manager.load_portfolio()
     assert len(ret) == 2
@@ -33,5 +34,7 @@ def test_load_portfolio():
 
 def test_process_signals():
     manager.reqGlobalCancel()
-    signals = [Buy('AAPL', 150), Sell('IBM', 40)]
+    signals = queue.Queue()
+    signals.put(Buy('AAPL', 150))
+    signals.put(Sell('IBM', 40))
     manager.process_signals(signals)

@@ -20,10 +20,7 @@ from ibapi.scanner import ScannerSubscription
 from ibapi.ticktype import *
 
 from ibapi.account_summary_tags import *
-
-from IB.Testbed.ContractSamples import ContractSamples
-from IB.Testbed.OrderSamples import OrderSamples
-from IB.strategies.trade_signal import Signal, Buy, Sell, Close
+from .trade_signal import *
 
 
 def USStock(ticker: str):
