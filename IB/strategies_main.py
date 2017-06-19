@@ -1,49 +1,50 @@
-from IB.strategies.strategy_01 import Strategy01
-import pytest
 from IB.strategies import dataloader
 from datetime import datetime, timedelta
+from IB.strategies.strategy_01 import Strategy01
 from IB.strategies.trade_signal import *
-import pytest, time
 from IB.strategies.ib_manager import IBManager
-import logging, sys
+import logging
 
 logger = logging.getLogger(__name__)
-manager = None
 
 
-@pytest.mark.integration
-@pytest.fixture(scope="module", autouse=True)
-def teardown():
-    global manager
+def main():
     logger.info("Connecting to IB...")
     manager = IBManager("127.0.0.1", 7497, 0)
     logger.info("Server version: %s, connection time: %s",
                 manager.serverVersion(),
                 manager.twsConnectionTime())
-    yield teardown
-    logger.debug('Trying to close IB connection')
+
+    strategy = Strategy01()
+
+    load_transcripts(strategy)
+    load_portfolio(manager, strategy)
+    run_strategy_and_process_signals(manager, strategy)
+
+    logger.info('Trying to close IB connection')
     manager.disconnect()
 
 
-@pytest.fixture
-def strategy():
-    return Strategy01()
+def run_strategy_and_process_signals(manager, strategy):
+    logger.info('Run strategy and process signals')
+    strategy.run()
+    manager.process_signals(strategy.signals)
+    strategy.reset()
 
 
-@pytest.mark.integration
-def test_integration(strategy: Strategy01):
-    manager.reqGlobalCancel()
-    # fire some orders...
-    manager.place_test_order('AAL')
-    manager.place_test_order('IBKR')
-
-    # query the database for candidates
+def load_transcripts(strategy):
     to_date = datetime(2016, 4, 10)
     from_date = to_date - timedelta(days=10)
+    # to_date = datetime.now()
+    # from_date = to_date - timedelta(days=10)
+
+    logger.info('Load transcripts from the last 10 days')
     ret = dataloader.load_transcripts_between(from_date, to_date)
     strategy.data = ret
 
-    # query portfolio
+
+def load_portfolio(manager, strategy):
+    logger.info('Load portfolio from IB')
     for portfolio_item in manager.load_portfolio():
         contract = portfolio_item[0]
         order = portfolio_item[1]
@@ -52,6 +53,6 @@ def test_integration(strategy: Strategy01):
             'order_id': order.orderId
         }
 
-    strategy.run()
-    manager.process_signals(strategy.signals)
-    strategy.reset()
+
+if __name__ == '__main__':
+    main()

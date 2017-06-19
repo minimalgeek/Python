@@ -1,5 +1,5 @@
+from .my_logger import MyLogger
 from pymongo import MongoClient
-from pymongo.collection import Collection
 import logging
 import logging.config
 import os, sys, time, json
@@ -23,10 +23,12 @@ def init_database():
 
 
 def init_logging(default_path='../logging.json', default_level=logging.INFO, env_key='LOG_CFG'):
-    path = default_path
+    directory = os.path.dirname(__file__)
+    path = os.path.join(directory, default_path)
     value = os.getenv(env_key, None)
     if value:
         path = value
+
     if os.path.exists(path):
         with open(path, 'rt') as f:
             config = json.load(f)

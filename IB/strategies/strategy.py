@@ -5,10 +5,8 @@ from queue import Queue
 class Strategy:
     def __init__(self):
         self._name = self.__class__.__name__
-        self._data = None
-        self.signals = Queue()
-        self.portfolio = {}
         self.logger = logging.getLogger(self._name)
+        self.reset()
 
     @property
     def name(self):
@@ -27,6 +25,11 @@ class Strategy:
 
     def run(self):
         raise NotImplementedError()
+
+    def reset(self):
+        self.signals = Queue()
+        self.portfolio = {}
+        self._data = None
 
     def info(self, msg, *args):
         self.logger.info(msg, *args)
