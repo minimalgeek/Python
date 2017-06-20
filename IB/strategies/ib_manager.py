@@ -10,7 +10,7 @@ from ibapi.common import *
 from ibapi.contract import *
 from ibapi.order import *
 from ibapi.order_state import *
-from trade_signal import *
+from strategies.trade_signal import *
 
 
 def USStock(ticker: str):

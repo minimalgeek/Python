@@ -1,7 +1,5 @@
-from pytest import fixture
 from strategies import dataloader
 from datetime import datetime, timedelta
-import pytest
 
 
 def test_load_transcripts_between():
