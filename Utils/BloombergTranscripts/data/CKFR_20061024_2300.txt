@@ -1,0 +1,927 @@
+Q1 2007 Earnings Call 
+
+
+Participants 
+
+• David Mangum, Executive Vice President & Chief Financial Officer 
+• Pete Kight, Chairman & Chief Executive Officer 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon ladies and gentlemen, and welcome to the CheckFree Sponsored First Quarter Earnings Release 
+Conference Call. [Operator instructions.] It is now my pleasure to turn the floor over to your host, Mr. David Mangum. 
+Sir, the floor is yours. 
+
+David Mangum, Executive Vice President & Chief Financial Officer 
+
+Thank you. Good afternoon and thanks for joining us. With me today on the call is our Chairman and Chief Executive 
+Officer, Pete Kight. Before we start, please note that some of the statements we will make today will not be historical, 
+but rather forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. 
+These statements reflect management's intentions, plans, beliefs, expectations, or projections of the future. However 
+CheckFree's actual results may differ from these current expectations. 
+
+Forward-looking statements involve various risks and uncertainties including those inherent in our business and others 
+that we detail from time to time in our publicly filed reports and press releases, including the press release issued earlier 
+today, and filed on Form 10-K – Form 8-K excuse me, and our Form 10-K for the fiscal year ended June 30, 2006, filed 
+September 8, 2006, particularly the section titled Business – Business Risk Factors. 
+
+Please also note that in accordance with the Sarbanes-Oxley act of 2002 and Securities and Exchange Commission 
+requirements, CheckFree publicly discloses all financial results using Generally Accepted Accounting Principles or 
+GAAP. However, in today's call, we will also discuss our non-GAAP performance measures of underlying net income, 
+underlying earnings per share, and free cash flow. 
+
+Our underlying numbers and free cash flow are reconciled to their appropriate GAAP equivalents in our press release 
+and the accompanying attachments, which were distributed at 4 PM today. The materials are also available in the 
+'Investor Center' section of our website at www.checkfreecorp.com. 
+
+For the first quarter CheckFree's consolidated revenue was $228.6 million, reflecting 7% growth over the first quarter 
+of last year. GAAP net income for the quarter was $31.4 million or $0.34 per share and underlying net income was 
+$38.6 million or $0.42 per share. Free cash flow for the quarter was $37.1 million. 
+
+Now I would like to turn the call over to Pete Kight. Pete? 
+
+Pete Kight, Chairman & Chief Executive Officer 
+
+Thanks Dave. Q1 represents a good start to our fiscal year and as you are about to hear in greater depth, consumer 
+service provider transaction growth was in fact on-track for Q1. Investment services also executed well. Software did 
+even a bit better than expected and that provided us with, what I would describe as a well balanced first quarter. 
+
+
+So first things first; last quarter I promised an analysis of transaction growth in the EC business. As you, I am sure, will 
+recall; we resisted the temptation to provide early opinions on the slower than expected Q4 transaction growth because 
+we wanted to do enough core research to be confident we understood the underlying causes. 
+
+We have been able to complete a significant amount of historical data analysis in payment transaction research since 
+that time. We are also able to complete the first stage of what I expect to be a very significant and ongoing consumer 
+behavioral research process here at CheckFree. We received excellent support from a number of our larger bank clients, 
+which gave us unexpectedly broad access to online billing and payment consumers. While this first stage is not large 
+enough to be statistically as precise as we'll require going forward, the sampling was large enough to provide what we 
+believe to be a sound analysis of the transaction patterns and causes. 
+
+So I will summarize the general findings coming out of the analysis of the fiscal 2006 Q4 transactions and the 2007 Q1 
+transactions. I will then provide you with a deeper review of the specific factors that additionally affected Q4. I will 
+then move on to discuss the trends in CSPs, the Consumer Service Providers --the consumers and transaction growth 
+going forward to give you a greater view into our approach on how we are using the consumer insight to drive deeper 
+adoption into the mainstream and increase transaction usage among active users as they mature. 
+
+When Dave reviews the financial outlook later in the call, he will describe our overall view on 2007 transaction growth 
+which you will find to be in line with our expectations. 
+
+So to start I will report that we found no change in consumer preference. We found no change in consumer choice of 
+payment types and no change in consumer behavior related to CSP or bank-based online billing and payment. The 
+consumer looks sound and looks fine. 
+
+We did find that calendar based cyclicality in consumer billing and payment patterns that has a much greater effect on 
+the balance of quarterly volume than we previously understood. We previously recognized the monthly calendar 
+patterns but did not realize that as the active consumer base grew significantly to outstrip the impact of new CSPs 
+added to the system and new consumer additions, that a strong quarter-based cyclicality emerged. Under regression 
+analysis we identified that a combination of the sequence of payment processing days relative to month-end, week-end 
+and holiday non-processing days, and the sequence of the months within a given quarter have a material impact on the 
+number of transactions processed for the quarter. Examples of sequencing calendar day effects are: quarter-end months 
+that have a longer – quarter-end months that are longer leading into quarters that start with months that are shorter and 
+months that begin on weekend days. Because our due date processing does not count transactions based on the credit 
+date but rather it counts transactions on the date that our system processes, these calendar effects are accentuated. 
+
+Our regression analysis of the core growth in consumers and consumer transaction activities then back over the last 
+four years, along with an analysis of processing day patterns, reveals that consistently calendar Q2 and Q3, which are 
+our Q4 and Q1, are consistently low quarters for transaction volume and hence will show lower sequential transaction 
+growth. This pattern has previously been matched by earlier higher percentage new user volumes, relative to the 
+smaller active consumer base combined and mixed in with market share wins and the pace and timing of large 
+marketing campaigns by our CSPs. But in short what we are seeing is simply uneven transaction spread between 
+quarters that has nothing to do with overall annual transaction growth. 
+
+In Q4, we had several anomalies so now I will go back to adding in specifics on the fact that Q4 actually had several 
+additional factors that affected it. Q4 we had several anomalies that magnified the cyclically slower transaction 
+calendar. March 2006 ended on processing days whereas April which begins Q4, began on two non-processing days. 
+This is one of the patterns that results in actually shifting transactions out of Q4 April and pulling them back into Q3 
+March. 
+
+We also had a change in the processing model of our largest client bank, which you will recall has been moved to the 
+higher consumer valued payment date or risk model. This processing change involved a different handling of payment 
+scheduling than was in place in January at the beginning of Q3. And this change pulled an even higher number of 
+payments from Q4 April back into Q3 March, for the reasons I just outlined. So the result, if you look at that, Q3 
+artificially benefited from volumes at Q4's expense. We actually shifted transactions out of Q4 and back into Q3. 
+
+
+That set of factors that created the Q4 sequential transaction results, a processing model change for the major client 
+banks, was a one-time event. The calendar events are now in our model and can be reflected in future forecasts, and 
+that's the reason why I point out that this quarter's transaction growth is actually exactly on the projections that this 
+model shows should be for Q1, with Q2 and Q3 being larger transaction volume quarters. 
+
+Last quarter we compounded the issue by reporting overall transaction growth as a combined number, adding to our 
+CSP transaction growth. The number is from the non-bank based payment services and the low cost, low growth 
+biller-direct transactions. These non-bank transaction volumes represent a slower growth side of the business and 
+combining those two together with the core CSP transaction number simply comes out on average to look like a lower 
+number. 
+
+For our most recent quarter, fiscal '07 Q1, we reported 4% growth in the CSP channel, which based on analysis, 
+represents growth exactly consistent with previous first quarters. Adding in the 2% growth we experienced in non-bank 
+channels brought the average down to 3% and thus going forward we will report the CSP number separately since that's 
+actually the underlying driver of the EC business. 
+
+The second tier of this research was on consumer behavior, and research has confirmed that there were no material 
+shifts in the way electronic billing and payment is being adopted or utilized by end users. Consumer attention to CSP 
+was consolidated, sometimes referred to electronic billing and payment, appears to be in line with our previous 
+analysis. We found no migration to other payment format nor do we find any new payment shifting or consumer driven 
+change in patterns. The patterns are purely cyclical in the calendar. Consumers appear to stay consistently committed to 
+EVP once they have engaged. 
+
+We found a number of areas in our behavioral research that we think provide opportunity for us. One is both an 
+opportunity and a necessity that we are tracking. We found that as we penetrate deeper into what is now the mainstream 
+consumer market, new users are averaging a slightly lower number of transactions per month when they come onto the 
+system. As we refer to consumer usage comparing behavior between high volume users and low volume users, and 
+faster growing users comparing to slower uptake new users, we think we have got a number of significant opportunities 
+to increase organic transaction growth. 
+
+We want to increase both new user uptake and raise the total transaction average among the core active base. 
+Obviously, it's particularly important as this core active base gets so large. We think we are finding opportunities in 
+both technical design and information and marketing communications that can have an impact here. As market 
+penetration continues and CheckFree's overall base continues to grow, the law of large numbers, obviously, 
+increasingly applies. Gaining greater transaction share from the existing consumers is going to be an important 
+requirement to make these increasing numbers work to our benefit. You will see us driving hard in this area through the 
+rest of fiscal 2007 and on. 
+
+Another issue and opportunity is the recent reduction in large CSP marketing programs, and this is another issue where 
+over the last several quarters – it's the first time in quite a while that the CSP marketing programs among the big CSPs 
+have been below normal. So we have actually had a pure organic to transaction growth model to see for the first time in 
+a while. But it's important for us to – obviously as we recognize this – to understand why are the CSP marketing 
+programs over the last two quarters below previous levels. Obviously we need to determine if this is a long-term cost 
+saving or a strategic shift decision within the larger CSPs. 
+
+We spent a lot of focus on that and the feedback we have received in the case of strategic position of online transaction 
+services and specifically electronic billing and payment has not lessened in the market. CSPs expressed a consistent 
+position that online transactors were the most profitable and highly valued consumers and the importance of gaining 
+consumer market share has actually increased in proceeds' strategic value and thus they are focused on online 
+transactors, is, if anything, up. 
+
+Our expectation, based on our conversations with the CSPs, is that marketing is going to return to its recent historical 
+norm over the next 12 months. We will continue to work to gain better visibility into the major CSP marketing efforts, 
+but obviously we can't control when the marketing takes place. It's important for us, though, to be able to track that it is 
+
+
+going to get back to norms over the next 12 months. 
+
+As part of this CSP research, we do believe there is heightened interest in making sure among the banks, that electronic 
+billing and payment costs continue to decline on a per user basis as the penetration in the banks increases. This is very 
+consistent with their desire to increase their penetration of transactors and obviously to make sure the costs are 
+continuing to be cost-efficient to them. 
+
+Providing greater user interface and information control flexibility that we recognized on the user value side, and 
+projectable long term cost efficiency models to the financial institutions have been our two highest priorities. Our view 
+is, this confirms we are focused on the right things. Obviously as we continue to grow this is going to only increase in 
+importance as we increase penetration in the banks. We know how to get there but we will need to work hard to make 
+sure that we stay ahead of expectations in this area. 
+
+Final area of our research just to make sure we had covered all the bases, was at the macro level. Are there any 
+macroeconomic or consumer trends that might have an underlying effect in terms of transaction growth? Other than a 
+unconfirmed view that more consumer debt might be getting paid off currently and thus potentially eliminating a 
+consumer debt bill, we found no macro issues whatsoever. 
+
+In summary, we think the annual growth patterns for electronic bill and the payment are consistent with its historic 
+trends. Consumer preference for CSP based consolidated electronic transaction management appears to be consistent 
+and unwavering. That said, we believe continuing to understand consumer behavior at a much deeper level, both in 
+terms of adopting new services and utilizing services more completely, represents significant untapped opportunity for 
+CheckFree and our CSP partners. This analysis is only in its earliest stages and I expect we will gain a great deal of 
+additional insight over the coming quarters. 
+
+While we are encouraged by the strength of our CSPs convictions on the value of electronic transaction services and 
+their consumer strategy, we are acutely aware that we need to remain aggressive in our innovation and ongoing 
+development to stay ahead of costs and service expectations in the U.S. banking market. 
+
+Now I'll share quarterly results of our other two divisions. In Investment Services we reported more than 2.3 million 
+accounts on the system and interestingly we saw continued traction with our APL platform, with our pipeline 
+continuing to increase. We continue to ramp-up our next generation infrastructure EPL. We continue to see strong 
+interest in the traditional APL platform services. And as I noted last quarter we are strengthening the APL 
+infrastructure as a result. We continue on pace for the first page client migration to the EPL platforms in the second half 
+of this fiscal year. 
+
+As I noted earlier in the Software division we reported license sales that exceeded our expectations for the quarter. For 
+the first quarter, which is traditionally a slower one for us, we capitalized on several sales opportunities in both 
+securities and global treasury software channels. We continue to see success from this unit based on the combination of 
+improved processes and improved execution strategy. We are very encouraged by the results of marrying our Applied 
+Operational Intelligence approach with the needs of the businesses in these target markets. 
+
+I have indicated previously that we want to see this division increase its growth as our execution model is strengthened. 
+I think there is opportunity to grow here. Applied Operational Intelligence isn't just a boast phrase for this division. Our 
+solutions in treasury transaction processing and back-office risk management are right at the core of high value 
+opportunity IN financial services. I think there is lot of opportunity to increase profits, cut costs and effectively manage 
+large areas of risk in this expanding global financial services market. 
+
+I am going to now hand it back over to Dave, who will give overall view on expected 2007 transaction growth, some 
+color on Q1 financial results and a look ahead to Q2. 
+
+David Mangum, Executive Vice President & Chief Financial Officer 
+
+
+Thanks Pete. To better align with the transaction impact Pete has shared with you and to make our key product lines 
+and trends as directly transparent to investors as possible, we are updating our reporting metrics. Please note that this 
+quarter we have begun reporting our payment transactions and associated revenue in two categories: Consumer Service 
+Provider or CSP transactions, which represent our traditional online payment transaction delivered through our 
+financial services channel; and non-CSP transactions, which reports our – which reports transactions for the other bill 
+payment channels we serve, such as walk-in, telephone and biller-direct. We believe these two categories will facilitate 
+your modeling and ongoing analysis of our business. We will continue to report electronic bills and other EC revenues 
+separately from these two categories. 
+
+Given the quarterly transaction fluctuations that Pete just described, I would like to focus for a moment on annual 
+transaction growth, to provide you some insight into the longer-term business trends, we are tracking and analyzing. 
+For our CSP channel for 2007, we are anticipating nearly 25% annual transaction growth overall, resulting from 
+traditional transaction growth of almost 30% from our CSP channel in general, and a lower transaction growth rate at 
+our largest, and the industry's most penetrated consumer service providers. 
+
+Through our non-CSP bill payment channels, we are projecting single-digit percentage growth for fiscal 2007. This 
+includes strong growth at phone charge and essentially flat performance at check prepay, and through the biller-direct 
+channel. We are thus expecting total transaction growth to be a little below 20% for the year. We do expect to be able 
+to substantially improve these metrics in the future with more sophisticated consumer research, improved and more 
+targeted marketing and better overall execution. 
+
+Now I will review some highlights from our performance in the first quarter and our expectations for the second quarter 
+and the rest of the year. Our software business posted a strong start to the year driven by better than expected license 
+sales in both our Securities and Global Treasury product lines. Our Investment Services, steady portfolio growth 
+resulted in 12% revenue growth in the first quarter. 
+
+We generated $37.1 million of free cash flow in the quarter and we utilized the full $100 million approved by our 
+Board of Directors to purchase more than 2.6 million shares at an average price of $37.91 per share. 
+
+As to our long-term data center strategy that we shared with you in detail last quarter, we purchased land for $7 million 
+and equipment, and other services of about $500,000 during the quarter. The other services and equipment are labeled 
+Data Center Reimbursements on our free cash flow statement with the corresponding reimbursement amount from our 
+bank Syndicates in the Financing section of the cash flow statement. 
+
+Our bank syndicates purchased a land on our behalf and hence the land purchase itself is not reflected in those two 
+categories. However, all of the land and equipment has been recorded on our balance sheet as property, plant and 
+equipment, with offsetting long term debt. For the remainder of the fiscal year we now expect to spend as much as $40 
+million of additional capital on this strategy for an initial data center. The capital will be reflected as capital 
+expenditures offset by financing cash reimbursements in our free cash flow calculations. 
+
+Turning now to the second quarter, we anticipate total company revenue in the range of 230 to $235 million, and 
+earnings per share of 33 to 35 cents on a GAAP basis and 40 to 42 cents on an underlying basis. We are projecting 
+sequential transaction growth from the CSP channel of 5 to 7%, and flat to a modest sequential decline in our non-CSP 
+transactions, where one customer is taking 3 million low priced and low revenue biller-direct transactions in-house. 
+
+You will recall we reported a similar loss of low value transactions in Q2 of last year. The two combined to hamper the 
+annual growth rates in non-CSP transactions that I described earlier. We expect the two categories to net to about 3 to 
+5% sequential transaction growth overall for the quarter. We do expect transaction growth to be up from these levels in 
+the third quarter with more modest growth in the fourth quarter, consistent with our historical performance. We also 
+plan to substantially increase marketing spending in EC in Q2, to test some of the concepts we identified in our 
+research. 
+
+In Investment Services we expect portfolio-based revenue to continue to grow at about its current pace. In Software, 
+due to the strong start in Q1, we expect flat to modest sequential revenue growth in the second quarter. We do not 
+expect greater revenue performance for the year than originally planned from that division. 
+
+
+With this start we continue to expect full year earnings per share of $1.58 to $1.62 on a GAAP basis, and of $1.90 to 
+$1.94 on an underlying basis, with free cash flow in the range of 190 to $195 million. 
+
+Now I will turn it back to Pete for some closing comments. Pete? 
+
+Pete Kight, Chairman & Chief Executive Officer 
+
+So again in summary, I would say the first quarter was a good well-rounded performance. Our Investment Services 
+Division continues to see very good strength in the pipeline for the traditional APL services platform. That platform has 
+solid performance in its core services, and even some of its greater innovations, like multiple strategy portfolio, that 
+have been a tremendous success and are in fact still being innovated. But it still is a bit surprising to me that even in the 
+face of the pending new platform introduction, we continue to gain ground in this area. Obviously, that's a net positive 
+for the business, it's great for the growth but it does add complexity to managing both the growth and the development 
+simultaneously. 
+
+Our new leader in CIS Mike Gianoni is already deeply engaged in the markets, evaluating our clients' appetite for 
+incremental innovations in APL necessary for serving their immediate needs. Obviously, it's a little higher than we 
+originally thought, but in fact it's being balanced with more growth in APL than we thought. At the same time we are 
+assuring that we keep EPL on track. I am personally a big believer in separate accounts and as the marketplace 
+continues to innovate in this space, I continue to see greater opportunity ahead. 
+
+The fact that the Software Division is slightly ahead in performance is also a good indicator of the core strength of that 
+business. As our management of that business has improved over the past two years and performance has gained 
+consistency, our focus has been in two areas; increasing our global presence as financial services has become a global 
+industry. And we have also been looking for opportunities to grow that business, because I believe its position in the 
+high-value backend infrastructure of the dynamic financial services market, makes it very well positioned in what I 
+think is a long term strong market. 
+
+Our research in the Electronic Commerce division's transaction flow, uncovered a lot of opportunity. While it's 
+important to note the quarter's cyclicality doesn't reflect the negative trend and annual growth looks on track, there are a 
+number of areas we have uncovered that we think we need to focus on. We need to understand why some consumers 
+automate all their payments and some are selective. Why some consumers receive all available e-bills and some don't. 
+Why new users put fewer initial bills on the system. There are innumerable areas for our ongoing research that could 
+result in important improvement. 
+
+And while the key driver of the business, the CSP transaction growth appears solid and consistent, I am not at all 
+satisfied with the growth of the non-CSP transaction business. It's not the core driver that drives the biggest values over 
+the long term in the business. But it is an area I think that should be growing better than it is. 
+
+The biller market has shifted away in our walk-in bill pay business. It shifted away from utilities paying the walk-in bill 
+payments fee to where the consumer now has to pay the walk-in fee, and that's clearly been a challenge to the unit. We 
+are growing the consumer-fee side of this business very rapidly, but it's not fast enough. 
+
+I care much less about commodity biller direct payment. Although I don't want to lose any market share. Loosing 2- or 
+3-cent transactions isn't nearly as important. But walk-in and phone-based transactions are service areas that we should 
+be growing in. We will be focusing on growing those lines faster. 
+
+In relation to the remainder of the year, I characterize the first quarter as a good start with opportunities for continued 
+improvements. And I can assure you we will focus hard on making those opportunities work for us. 
+
+That concludes the prepared remarks, operator we can open up for question. 
+
+Q&A 
+
+
+Operator 
+
+[Operator instructions]. And we will take the first question from Liz Grausam [Goldman, Sachs]. Your line is live. 
+
+<Q - Elizabeth Grausam>: Hi, looking at your transaction trends in the CSP channel. Actually looks like they 
+decelerated again sequentially. We had expected some rebound at your largest customer given the platform transition. 
+Can you help us understand what's going on at that account. Is the platform transition fully through and you are seeing 
+an uptick back to normalized levels at the account? 
+
+<A - Pete Kight>: I am not going to carve out an individual financial institution, but I can tell you our analysis of Q1 is 
+that transaction volume is – absent the fact that there were no significant marketing programs in place in any of the 
+major CSPs, the Q1 transaction volume is underlying that, exactly where it's been for the last four years. 
+
+<Q - Elizabeth Grausam>: And in terms of the timing on those marketing programs coming back, can you give us 
+some insight on sort of the course of the next 12 months. Do they start coming back on line in the current quarter and 
+how we can get some insight into that? 
+
+<A - Pete Kight>: So again there is a limit to how much the – especially the big financial institutions are willing to tell 
+us in advance about what it is they are going to do and then there is obviously some limitation on when they do tell us, 
+whether we are allowed pass that along or not. So I can tell you that we expect more of the Tier I banks to be layering 
+in marketing programs over the next 12 months. 
+
+There is a number of different reasons we came across for why the last 2+ quarters didn't have much marketing in them 
+at all. Some were simply the fact that there was internal integration going on and the bank didn't market for a specific 
+reason. There was, at least, some cases where they actually wanted to see what the organic uptake was of electronic 
+transaction services without marketing supporting them. Per feedback we got from that was they weren't satisfied with 
+that uptake, so they intend to return back to marketing to drive what they consider to be a important strategic initiative 
+to gaining consumer market share. It's just really across the board, but at the end of the day, the thing most important to 
+us here is is it something that's going to last a long time based on a shift, or is marketing going to return. And across the 
+board, the feedback we got was they expect to market on more historical levels over the next 12 months. 
+
+<A - David Mangum>: And Liz, this is David, I might add a little bit of color to part of how you phrased your first 
+question, as you are looking at what I think you described as a deceleration in Q1 in the CSP channels, do remember 
+that we brought over the Wachovia volume in a migration in Q4, which helped Q4's OpEx a little bit and of course that 
+kind of migration did not repeat itself in Q1. 
+
+<Q - Elizabeth Grausam>: All right, thanks. And then, on your marketing spending, I think David you said your 
+marketing spending was going to uptick in Q2. Can you help quantify what that might be and what programs you might 
+be supporting? 
+
+<A - David Mangum>: Yes. I would be happy to help to quantify. I think we are not going to go into the programs too 
+much, frankly for competitive purposes. But, I can tell you that we are going to test some marketing in the CSP channel 
+alone. It's going to be more than a penny's worth of earnings per share in terms of the actual spend in Q2. 
+
+<Q - Elizabeth Grausam>: And do you expect that to carry forward or just in the quarter? 
+
+<A - David Mangum>: No, we actually expect to run these test programs and then evaluate them and think about that 
+more from sort of a campaign management perspective over the long-term. 
+
+<Q - Elizabeth Grausam>: Okay. Thank you 
+
+<A - David Mangum>: Thank you. 
+
+Operator 
+
+
+Thank you. We will take the next question from Craig Peckham [Jefferies & Co]. Sir your line is live. 
+
+<Q - Craig Peckham>: Hi, I wanted to drill down a little bit more on some of these historical CSP growth trends. 
+Could you just elaborate a bit on what was behind the 9% increase in the March quarter of 2006 and then also 11% in 
+last year's September quarter? 
+
+<A - David Mangum>: Yeah, Craig this is David, actually maybe I will take it in reverse order, Pete. You can talk 
+about the March quarter, I will talk a little bit about September. 11% last September, Craig, is fueled by the Fleet 
+migration to our platform. And if you back that down you will find yourself at about let's say 5% sequential growth, 
+without that single event. And then Pete, you want to talk some more about April and March and the March quarter 
+being at 9% versus the -
+
+
+<A - Pete Kight>: So what we had when I tried to describe in the anomaly on Q4 it is that the Q3, or the March 
+quarter, besides being a naturally strong transaction quarter --because of these cyclical reasons of the calendar based on 
+the way the quarter is flanked by long months – with high value transaction days inside the month. It's complicated but 
+we got there. It is naturally a strong calendar quarter, based on the cyclical nature of calendar Q1 and Q4 being the 
+strong transaction quarters and actually stealing transactions from the two middle quarters. But the issue with the 
+March quarter having even a stronger is the fact that they were two anomalies that actually pulled a significant volume 
+of transactions out of Q4 into Q3 to create that 9%. One was the fact that April started on two non-processing days, and 
+the way our processing systems works, it will essentially pre-process those transactions and count them in March. So it 
+counts two full days of Q4 into Q3. Added to the fact that the processing change with our major, major financial 
+institution client was a processing change that left at the beginning of that quarter in January, all the transaction volume 
+in the quarter that processing change went into place and that processing change actually pulled additional transactions 
+out of those first two days of April and pulled them into March. So we ended up with both the calendar and a 
+processing anomaly on top of what is, as I am describing, a natural calendar cyclicality that makes the last calendar 
+quarter of the year and the first calendar quarter of the year the strongest transaction quarters. And we end up with a big 
+quarter that makes the April or Q4 quarter look even lower. 
+
+<Q - Craig Peckham>: Okay. Sorry to make you go through that again. We will look forward to some quarters that 
+end mid-week. 
+
+<A - Pete Kight>: We are coming on two now. 
+
+<Q - Craig Peckham>: The second question: could you talk to a little bit about what is happening on the enrollment 
+side, it looks like you made one revision to the number of active subscribers at the end of last quarter, but net-net about 
+
+0.5 million new subscribers. Did the analysis you did on the customer base produce any new learnings on enrollments? 
+<A - David Mangum>: So, again maybe we will split those, and you can talk about the new learnings on consumer 
+enrolments. In last quarter's count of consumers we actually had a double calendar of some of the Wachovia 
+consumers. And so we actually posted about 3% consumer growth last quarter and that was actually a double count of 
+Wachovia consumers who were already on our system for First Union, so then switch to a Wachovia customer ID and 
+weren't cleaned out of our database. So a fairly simple change to get those out and then as a result then in Q1 you see a 
+very nice return to 5% consumer growth. So that's really the Q4 and the Q1 you see noted in the back page of the 
+earnings release. In terms of sort of consumer learning and new consumer behavior insights, I'll turn it back to Pete for 
+that. 
+
+<A - Pete Kight>: So again, in the absence of consumer marketing by the major CSPs, I am actually a little bit 
+surprised with the new user growth is as consistent and positive as it has been. There is a stronger straight organic 
+growth underlying that than I would have thought, but the fact is we want the CSPs back in the market marketing and 
+it's obviously very important that we are able to track and have confirmed it. The banks view and value it the same way 
+and intend to return to marketing and in fact we have alluded to it last quarter but I can definitively confirm this quarter 
+we have a much better marketing relationship with an increased number of Tier I banks coming out of what's really 
+been a lot of analysis in the industry on just how valuable are these transactors. The fact is in this current marketplace 
+in U.S. financial services, consumer deposits – the consumer accounts are very highly valued. That is where the battle 
+
+
+is taking place and the transactors are the highest valued consumer accounts. So again, the analysis is telling us we are 
+in at least a strong position in terms of consumer adds, in terms of CSP value, in terms of annual transaction growth. I 
+like everything about it. 
+
+What we did find in the research that are the two issues that I consider the most important to track in terms of our need 
+to turn those into positives, otherwise they could become challenges. But one is the fact that new users coming onto the 
+system right now are coming on, on average, with a slightly lower overall average number of bills to pay than 
+historically users have come on and loaded in initially. That's an issue we want to track, understand, then do something 
+about. And we think we can – and we have today much better insights, both on our own system as well as with 
+financial partners on why consumers are doing what they are doing, what they're doing, and getting access to putting in 
+tests on fixing it so that we can increase the number of transactions, we can increase the uptick of e-bills and all that 
+sort of thing. So that's clearly what – again I alluded to last quarter; I thought we had uncovered as much opportunity as 
+anyone else with this consumer research. I frankly – I think we are behind on the consumer research. If we hadn't had 
+this transaction anomaly, we would have needed to invent a reason to go understand how important this consumer 
+research is. We are in a business today where the consumer research is as important as the CSP relationship to us 
+because we need to help the CSPs drive this transaction utilization. They want it and we want it, so it's very important 
+to us. 
+
+Then the other piece we uncovered is that there is no question that we want to specifically track and make sure we both 
+set the right expectation and track ahead of that expectation on providing the kind of control value that financial 
+institutions want, so that they can get what they want out of the consumer relationship in terms of being able to control 
+the user's information flow, and even how they use the bank services. And then obviously, the – always an underlying 
+part of doing business in U.S. financial services, we need to keep the cost efficiency driving so that we stay ahead of 
+their expectation that these transaction users are significantly more profitable than they are costly to support. And that 
+again is a clear underlying result of the research. 
+
+<Q - Craig Peckham>: Thank you. 
+
+Operator 
+
+Thank you. We will take the next question from Tony Wible [Smith Barney Citigroup]. Sir your line is live. 
+
+<Q - Tony Wible>: Good morning. I was wondering – sorry, good afternoon. I was wondering if we could comment 
+on Wells Fargo and any traction that you guys may have seen with, I guess, trying to wean more volume away from 
+Metavante? 
+
+<A - Pete Kight>: Again, we are just very cautious about carving out individual banks – I would tell you we have a 
+healthy relationship with Wells Fargo, I like its direction but wouldn't call out any fundamental change in our 
+relationship. 
+
+<Q - Tony Wible>: Can you just remind us how that relationship is structured today? 
+
+<A - David Magnum>: How it's structured? 
+
+<Q - Tony Wible>: Yes, exactly how do you get the splits in incremental transactions between you and Wells and 
+Metavante? 
+
+<A - David Magnum>: Quiet honestly I am not sure we know. We receive transactions for a number of merchants out 
+of the Wells Fargo payment warehouse, I don't know how many go to Metavante versus CheckFree, and as Pete 
+described, I don't think there is much difference or change in direction in terms of the relationship or the trajectory of 
+growth in terms of the volume CheckFree is getting from Wells Fargo. 
+
+<A - Pete Kight>: I think the only thing we have called out before is we do drive electronic delivery of bills primarily 
+for Wells, so if a customer is receiving bills electronically it's likely that a majority of that customer's transactions come 
+to us. I think that's the only fundamental piece of it that we've called out. 
+
+
+<Q - Tony Wible>: I am sorry if I missed it earlier, but did you guys provide any sequential kind of pricing guidance 
+in the EC side on both the CSP and non-CSP? 
+
+<A - David Magnum>: Actually we did not in the formal part of the call. So please let me address that now. I'd look 
+for maybe a penny reduction in the CSP pricing going into Q2, and actually flat to maybe an increase on the non-CSP 
+transactions. And I don't think those trends are going to fundamentally change as you go through the course of the year 
+from there, Tony. 
+
+<Q - Tony Wible>: Okay. And within the next nine months are there any renewals that we should keep in mind for 
+modeling purposes? 
+
+<A - David Magnum>: You know, I think consistently given our market share, there are renewals going on in this 
+space literally all the time. So most of our transaction end are – are then price conversations that help you model, 
+incorporate all of those. 
+
+<Q - Tony Wible>: Okay, great. Thank you, guys. 
+
+<A - David Magnum>: Thank you. 
+
+Operator 
+
+Thank you. We will take the next question from Andrew Jeffrey [SunTrust Robinson Humphrey]. Sir your line is live. 
+
+<Q - Andrew Jeffrey>: Hi, good afternoon. In sticking with your full year guidance, obviously, you've wound up sort 
+of backend loading the year here, aside from the apparently conservative second quarter sequential earnings guidance. 
+Can you talk, David, a little bit about where you plan to get the operating leverage that gets you up a pretty steep ramp 
+in 3Q and 4Q? 
+
+<A - David Magnum>: Yeah, I would be happy to Andrew. I mean I think it's not fundamentally different than when 
+we talked a couple of months ago as we were going into Q1. Yes, it is a backend loaded year. A couple of things work 
+into the mix for the calendarization of the year. The first is continuing to sort of catch ourselves up on an expense base 
+that was frankly too high as we exited Q4. And we actually are investing a little bit back into it to test some of these 
+marketing concepts in Q2, as you can tell from our outlook for Q2. That's a conscious choice. In Q3 and Q4 we will be 
+back in terms of focusing on expense management, investment management. As you might imagine, we have gone 
+through a thorough investment reviews all across the company, trying to make sure we are balancing risk and return in 
+the near-term and long-term. So, you will see that contributing to earnings or operating leverage in the back half of the 
+year. 
+
+<Q - Andrew Jeffrey>: Okay. 
+
+<A - David Magnum>: In addition, quite honestly, Software drives an awful lot of that leverage. When you look at the 
+software business and what we think it's going to drive this year, it is multiple cents of incremental earnings in Q3 and 
+again in Q4, and that's an awful lot of the leverage story in terms of the back half of the year. We also will expect to be 
+selling and earning revenue from some of the newer products in the Electronic Commerce division, really weighted 
+more towards Q4 than any other quarter. That will drive a little incremental leverage as well in Q4. But your model, I 
+mean, fundamentally you have got a 26% margin in Q1, flattish in Q2, incrementing up in Q3 and then again in Q4 to 
+pretty strong levels, and stronger maybe than we would want to see for the long-term, as you well know. But a pretty 
+strong backend loading of the year, as we sit here today. Again, a lot of that coming from the software ramp. 
+
+<Q - Andrew Jeffrey>: Okay. Any appreciable leverage filtering down to the gross margin in the bill pay business 
+specifically, or is the increment more going to wind-up on SG&A on the consolidated P&L? 
+
+<A - David Magnum>: I think the software increment really is an SG&A and a gross margin kind of conversation. 
+That's the software piece that is you are applying. The EC leverage you will see, I think will really show itself in Q4, as 
+
+
+we sell the additional products, and the additional products don't come – actually let me rephrase it, let me say that 
+more positively: the additional products come with pretty strong incremental margins. Again, we are bringing more 
+value to the bank customer, more value to the CSP customer, packaging products based on some things we are frankly 
+already pretty good at. 
+
+<Q - Andrew Jeffrey>: Okay. Thanks a lot. 
+
+<A - David Magnum>: Thank you. 
+
+Operator 
+
+Thank you. We will take the next question from Greg Smith [Merrill Lynch]. Your line is live. 
+
+<Q - Greg Smith>: Yeah, hi good afternoon. Looking at some of the CSP data for the first time, if you just take the 
+September quarter a year ago versus this September quarter and adjust for TransPoint, if my math is right, it looks like 
+we have 24% transaction growth and then just 3% revenue growth, so pricing down about 17%. If that math is right and 
+this is sort of symbolic of where the business is right now, how do we get confidence that that revenue growth rate can 
+actually accelerate from here, or is there something I am missing in my math? 
+
+<A - David Magnum>: No I think your math may be directionally correct, Greg, I mean, remember what you are 
+washing into that math though, is TransPoint and then this pretty substantial float impact from two quarters ago. That 
+would be fully in your first quarter of last year. 
+
+<Q - Greg Smith>: Okay -
+
+
+<A - David Magnum>: Not in your first quarter of this year at all, now, at the end of the day Q1 is our lightest total 
+revenue growth quarter. No question about it. This plays into the leverage question and answer that Andrew was asking 
+just a moment ago. I do think you are missing float, but you will see pretty solid revenue growth from this channel in 
+Q2 and Q3 as we drive higher volumes, and then some incremental impact from the new products I am describing in 
+Q4 above and beyond purely transaction-driven revenue growth that you will see in Q4 this year. 
+
+<Q - Greg Smith>: Okay. That's helpful. And then in the walk-in bill payment business, it sounds like there is sort of 
+this market structure change going on where consumers have to pay versus the billers, and is that something that you 
+were well aware of going in with the APS acquisition, or is this something that sort of happened suddenly and maybe 
+caught you and other providers by surprise? 
+
+<A - Pete Kight>: So this is Pete. I would love to say that we knew all about it but the fact is while we knew that there 
+was some movement in that space, we flat underestimated both the speed and the ubiquity of the change. We did not 
+think – we made a conscious analysis that we did not think the Public Utility Commission the structure around the 
+states that are the biggest drivers of that business – we just didn't think they'd fold their hand as fast as they did, and 
+that the market would change as fast as it did. So we underestimated the shift and we're caught behind and we are 
+having to adjust to it. And so, it is very frustrating because the consumer fee paid business, they are doing what I would 
+have previously thought as a very good job growing that business, the consumer fee paid side is growing ahead of 
+expectation but it is not growing fast enough to make up for the fact that these consumers leave in the first round of no 
+longer having a free payment service. And we have to go back and capture them someplace else or get them to come 
+back again and agree to start paying, and that takes time. So I would have to admit we got caught behind in our analysis 
+on that. 
+
+<Q - Greg Smith>: Okay and then just lastly, how is your appetite and pipeline for acquisitions at this point? 
+
+<A - Pete Kight>: I would say it's as healthy as it's been. I like the strength of our underlying business, I feel confident 
+in the free cash flow and the strength of the business on its ongoing basis, and based on the fact that you want to feel 
+confident, if you are going to spend money in acquisitions, and you think there's opportunity to grow in some of the 
+areas in acquisitions, I'd say to answer to both those questions is, yes. 
+
+
+<Q - Greg Smith>: Okay. Thank you. 
+
+Operator 
+
+Thank you. We'll take the next question from Tien-tsin Huang [JP Morgan]. Your line is live. 
+
+<Q - Tien-tsin Huang>: Hi, thanks. Just a quick question, I guess, on 3Q guidance again, the revenue range that you 
+gave was actually right in line with my number but the EPS was lower. And you talked about margins being flat, could 
+be potentially down if my math is right sequentially. Anything beyond that penny in the EC marketing that we should 
+think about in 2Q. I know – obviously you talked about software in the second half of the fiscal year but anything else 
+that's unusual that we should consider? 
+
+<A - David Magnum>: Yeah, the software margin actually should go down in Q2, Tien-tsin, that is really more of a 
+timing of investments kind of thing than it is anything conscious or a big program, it's timing of some R&D 
+investments and some consulting investments. That margin will actually go down a few points which does play into 
+your view of the earnings itself. CIS margins are probably flat, there are a couple of other investments you know – the 
+DR stuff continues to sort of ramp more moderately but it does continue to ramp and I guess, I would say all those 
+things sort of figure into what looks like sequentially flat earnings. 
+
+<Q - Tien-tsin Huang>: Okay. And then can you characterize the trends again for us in the different non-CSP 
+channels, I think missed some of that, between biller-direct, walk-in and phone? 
+
+<A - David Magnum>: Yeah, I would be happy to. I mean the phone pay is growing quite well as you might expect. 
+Now some of that is off of a comparable from last year that was a partial year but it's growing quite well on a 
+year-over-year basis. On a sequential basis, it's growing roughly single digits. On a year-over-year basis, though the 
+biller-direct channel on an annual basis is single-digit growth. Now that's harmed by losing a couple of biller-direct 
+customers who are processing the 2 and 3-cent transactions Pete was mentioning earlier, one last year and one this year. 
+Without that that channel would be growing mid-single digits, that kind of number. And then check prepay is growing 
+single-digits as well. So all in you have low single-digits for the year, it's a mix of those three lines. No one of them 
+other than phone charge is growing obviously a great deal north of that single-digit and there simply aren't a lot of those 
+phone based transactions relative to the rest of the base. 
+
+<Q - Tien-tsin Huang>: Got you. Anything that you can do on the – you talked about the structural performance 
+around walk-in bill pay, is there anything that you can do to reverse that trend at this point or are there actually market 
+share losses here that we need to think about? 
+
+<A - Pete Kight>: No, not losing market share, it's just, what we need to do is continue to build a business that's based 
+
+– the business we acquired was primarily, I mean, vastly designed for the utility biller fee-paid business. It was built by 
+a utility, so it was clearly designed to service utility fee paid bill pay business. And that business is in our basic 
+assumption now going away. And so we are in the process of building out faster than we originally had intended, 
+consumer fee paid business. And we absolutely are doing that. And that business is growing very rapidly, it's growing 
+faster than the fee paid business is going away, but the fee paid business has a higher transaction dollar amount linked 
+to it, actually doesn't have quite the same margin, the margin is perfectly good in the business. We simply have to grow 
+the business. 
+Ironically the reason we bought it was we – we bring the consumer fee paid approach to it and we obviously worked 
+previously in the biller fee paid business and we knew that was what we brought to the business, we just didn't expect 
+the other side to move away as fast as it is doing. So we have accelerated the growth in the consumer fee paid side, we 
+are adding lots of new retail outlets. To some degree, we are not moving quite as fast as we were originally because the 
+new retail outlets we're adding, primarily are big chains. And big chains take longer to implement than lots of small 
+outlets where you implement pretty rapidly because you have to get data process interfaces into the existing register 
+systems and things like that. But in the long run the big chains are where the volume we think is going to come from 
+and we have got some big names in those chains that will be coming on through the rest of this year. So I like the trend 
+
+
+in the business. I am just frustrated at the fact that we got caught behind and we simply need to keep accelerating to 
+catch up and get ahead. 
+
+<Q - Tien-tsin Huang>: If I could just ask one more question on the buyback front. Now that you are done with the 
+prior authorization, given your free cash flow would you consider initiating another buyback program here? Thanks. 
+
+<A - David Magnum>: Tien-tsin, we continue to believe we should be routinely buying back stock. We don't have an 
+authorization right now but we will be looking to that in the coming couple of weeks. 
+
+<Q - Tien-tsin Huang>: Thank you. 
+
+<A - David Magnum>: Thank you. 
+
+Operator 
+
+Thank you. We will take the next question from John Kraft [D.A. Davidson]. Your line is live. 
+
+<Q - John Kraft>: Good afternoon, gentlemen. Pete, just to clarify that last discussion about the walk-in and the 
+consumer pay market, is that new – the bill pay offering to retailers, I think it's called Link Pay, is that in response to 
+trying to more aggressively target that or am I – is it a different product? 
+
+<A - Pete Kight>: Different product I think, we are – primarily our business is billed under the CheckFreePay logo. 
+And our focus is on signing up significant large retail chains. We are actually not trying to sign up – the way the 
+business had previously been built, we are not trying to sign up individual retail outlets, we think the future of that 
+business is in large chains that can cover a lot of ground rapidly and where the transaction process can be more 
+automated by integrating in with existing at point of sale technology. And again, I like the trend, I like where it is that 
+we are. But fundamentally we are starting out behind, because the original fee paid business went away faster than we 
+thought. So, we simply had to keep accelerating, that's what we are doing and I believe by the end of this year, that we 
+will catch up. But again right now, I am just admitting that we started out behind. 
+
+<Q - John Kraft>: Okay, well let me change gears. You also said that the large CSPs recently have been reducing their 
+marketing programs. But about the smaller CSPs and maybe some of your resellers, have you seen any sort of an uptick 
+there? 
+
+<A - Pete Kight>: Well so yeah, we actually have a very good marketing program where we work with, what I'd say, 
+the mid-tier CSPs, Tier II, and have a very good building pipeline of marketing services that, where we track exactly 
+what is spent, what the return is on it. We know based on certain types of automated email enrollments, automated 
+electronic bill enrollments, so a number of different programs that we rolled out, we track on a per click per transaction 
+basis, exactly what the response is, what the uptake is, based on the dollars spent. We've spent most of that time with 
+the Tier II because historically the big financial institutions don't want our help. That's just kind of the way the system 
+works, and what appears to be changing is we are getting much more involved – getting offered to get much more 
+involved with bigger CSPs. So, we are getting a better seat at the table to help them. And I think that is a reflection of 
+their – they have learned a lot, they've – not appeared, they have recognized that if they are not in the market 
+marketing, they are not happy with the uptakes, so again that's why we reported the confirmation we expect their 
+marketing to return in the next 12 months. But again I can't tell you one bank versus another, exactly what quarter they 
+are going to do, simply that I do believe we'll see a return to historic – what I would call natural marketing trends in but 
+
+– they are targeting of – trying to acquire online transactors. 
+<Q - John Kraft>: Okay, fair enough. And just one last question, in the research, the analysis that you all did, at least 
+last quarter one of the possibilities or the most suggested reasons for the slowdown was that there was some payment 
+skippers in April around tax time. Is that something that turned out to be legitimate, I didn't hear you discuss that and 
+was you theoretically I guess see some sort of a catch up, did you see any of that? 
+
+<A - Pete Kight>: So, literally which is why we resisted, I guess, it's the one credit I get for making you all mad by not 
+guessing earlier that there's absolutely no consumer result of the Q4 anomaly. The consumers didn't do anything 
+
+
+differently. If you look at anything, you look a little bit more on historic trends than in previous quarters. This literally 
+we didn't find any consumer change whatsoever. We didn't have an increase in skippers, we didn't have an increase in 
+people who recalendarized – I mean the consumer didn't do anything, Consumers paid their bills on the days they 
+normally pay bills and the calendar causes those transactions to fall to an increasing degree in Q4, out of Q4. It's the 
+way the calendar works. 
+
+I realize it's complex to go through this. I am – now I am not going to admit how many times I had these people taken 
+me through the regression, testing in the math models to prove the calendar sequelization of it fits. But when you really 
+get down to the issue of quarters that start on short months in the way our processing works and tracks the transaction 
+on the day that it's processing as opposed to the day that it actually posts the transaction. It comes right out. There are 
+two quarters that are always going to be lighter based on the calendar. There are two quarters that are always going to 
+be higher. It does, in fact, average out over the year exactly as you'd think. I thought previously it averaged out over the 
+month in a quarter, and it turns out that it doesn't because of the way quarters are calendared. 
+
+<Q - John Kraft>: Okay. I appreciate that help. Thanks guys. 
+
+<A>: Thanks John. 
+
+Operator 
+
+Thank you. We'll take the next question from Wayne Johnson [Raymond James & Associates]. Your line is live. 
+
+<Q - Wayne Johnson>: Hi yes, good afternoon. Could you remind us which quarter, in which year was the pricing 
+change at APS? 
+
+<A - David Magnum>: The fee changes have been steady – excuse me – steady is the wrong word. The fee changes 
+have happened fairly routinely in the APS transaction. They have accelerated in the last three quarters. But this change 
+from what's essentially a biller paid model to consumer fee-paid model. 
+
+<Q - Wayne Johnson>: Right. That's what I was referring to. 
+
+<A - David Magnum>: Yeah, it has been an ongoing change but it has absolutely accelerated it, I think Pete was 
+describing earlier in the last three quarters and that's the trend but, that we are behind on. 
+
+<Q - Wayne Johnson>: Okay. And then could you talk a little about what the additional products are that the 
+E-commerce division is going to be offering in the Q4? 
+
+<A - Pete Kight>: No, that will be a short conversation. But what – we will be happy to talk about them in Q4 as they 
+come out. But we just don't have any desire to advertise them ahead of time. 
+
+<Q - Wayne Johnson>: Okay. Will we expect ranges .. 
+
+<A - David Magnum>: Okay – a little bit more in that. We'll be announcing several of them at BAI in the next couple 
+of weeks, and that's really will bring a little resistance to pre-launching in front of that, if you know what I mean. 
+
+<Q - Wayne Johnson>: Uh-huh. That's fine. And just so I am understanding, so the CSP is essentially if we go to the 
+where the old model works, is the full service plus the bill, electronic bill paid financial institutions, payment services 
+together. Is that right? 
+
+<A - Pete Kight>: Yes, so this – that's how we got caught into lumping them all together because we moved away 
+from full service versus transaction fees because full service fees we have been – as we moved away from subscription 
+based to transaction based, but those different definitions ended up being counterproductive. And we took two big a 
+shortcut last quarter for which I apologize. But the CSP-based transactions, the CSP transaction number that we will 
+report are the CSP driven transactions that we provide to the financial institutions, financial service companies; we 
+supply bill pay services to. And non-CSP is everything else from biller direct to walk-in bill payment to a home-based 
+bill payment. And we are going to separate them that way because the obviously, the U.S. financial services industry 
+
+
+drives the bulk of EC business, that's the number you want to track to track the health of the growth – of the consumer 
+business in the U.S. that we serve in the non-bank transactions. We've invested in them; they are important; they add 
+value to the bottom line. You should track them and hold us accountable to them but their growth has nothing to do 
+with bank transaction growth in the U.S. 
+
+<Q - Wayne Johnson>: Right. I got that. And just thank you very much. That was a helpful explanation. And if I 
+could just have one quick follow-up, some of the financial institution customers whom you guys serve were some of 
+the fastest growing in terms of adding new checking accounts per quarter. And so, are you seeing, are you saying that 
+for some reason there is a slower adoption among those new checking account users, or is there something else that's 
+going on there? 
+
+<A - Pete Kight>: No. I mean if I can figure out how to align with it I suspect I'm in there somewhere. I think we are 
+helpful causation factor to the fact that our financial institutions are opening up more DDAs than people who were 
+trying to provide just a low-cost down and dirty yeah, we do bill pay too. I think you are going to see a continuing 
+differentiation between people who have fully capable online banking and electronic bill payment integrated services 
+versus people who have yeah, I check the box and offer bill pay also. I've mentioned for a year now we are picking up 
+market share because of that differential. And so I think the only thing that we've seen over the last two quarters is we 
+saw some testing from those CSPs on, do they need to keep spending marketing money to keep acquiring online 
+customers? How fast they have been acquiring them or is that organic growth high enough, can they spend some of that 
+money someplace else with the return? And all right, I am telling you that the information we got back is that they 
+value the marketing dollars they spend on transactors higher than what they have spent them on in the recent past and 
+that's why they will return marketing dollars to marketing to online transactors. I think the two are tied. We don't think 
+it's a mystery that the fastest DDA growers are our customers. 
+
+<Q - Wayne Johnson>: Thank you so much. 
+
+Operator 
+
+Thank you. We'll take the next question from Nik Fisken. [Stephens Inc.] Sir, your line is live. 
+
+<Q - Nik Fisken>: Good afternoon. I've got a couple left. David, are we going do a second disaster recovery center? 
+
+<A - David Mangum>: Not in the near term. We are going to continue to assess when we need the second site, and 
+right now we are focused on the one – you recall last quarter we talked about the most this strategy could be in this 
+year. We have now resized that to the 40 million plus ongoing that I talked about earlier, and that is focused on just one 
+site for now. 
+
+<Q - Nik Fisken>: And so the CapEx guidance of 55 to 60 is still the same? 
+
+<A - David Mangum>: That's correct 
+
+<Q - Nik Fisken>: Okay. 
+
+<A - David Mangum>: And that's just to be clear Nik, that's the CapEx without the data center strategy. 
+
+<Q - Nik Fisken>: Right. Okay. What do we assume in the share count for the 1.90 to 1.94? 
+
+<A - David Mangum>: What do we assume in the share count? 
+
+<Q - Nik Fisken>: Yeah, what share count are we assuming? 
+
+<A - David Mangum>: On a full year basis? 
+
+<Q - Nik Fisken>: Yeah 
+
+<A - David Mangum>: At its simplest level. If you'll hang on just one second ... 
+
+
+<Q - Nik Fisken>: If you want to give me the December quarter, I'll take that as well. 
+
+<A - David Mangum>: I don't doubt it. So the December quarter is going to be closer to 92 million. 
+
+<Q - Nik Fisken>: Okay. 
+
+<A - David Mangum>: And the full year number is going to be back to approaching 93 million, so about maybe 92.7, 
+
+92.8. 
+
+<Q - Nik Fisken>: Okay. And any changes competitively, now that Princeton is owned by a new owner, Metavante 
+has been pretty quite. 
+
+<A - Pete Kight>: The only thing I will tell you is I'll reiterate what I said last quarter and that is I expect to gain 
+market share this year. 
+
+<Q - Nik Fisken>: Well said. Good enough. Thanks. 
+
+<A - David Mangum>: Operator, we have time for one more question. 
+
+Operator 
+
+Thank you. We'll take the last question from David Koning. [Robert W. Baird]. Your line is live. 
+
+<Q - David Koning>: Yeah, hi. Just a couple of quick ones, e-bills continue to ramp nicely. I am wondering what your 
+full year expectations for growth there is and maybe outline a little bit of the seasonality to growth? And then secondly, 
+corporate expense is a little bit higher this quarter. I am wondering maybe what happened there and if it's coming 
+down? 
+
+<A - David Mangum>: Yeah, a couple of things. On the e-bill I can not think we are going to break that one out and 
+talk about the annualized growth, and I wanted to make sure you had a shape for how particularly the CSP transactions 
+are growing in much the traditional fashion you've come to expect but I don't think we'll do that with e-bill on this 
+particular call. In terms of the corporate expenses, a couple of things at work here as the pieces kind of come together. 
+Q4 of last year included a tax credit from Georgia, which did hold down Q4 a little bit. We also, as we went into a 
+negative Q4, as you might imagine had quite simply some accruals reversed given that the year didn't turn out as well 
+as we might have thought going into Q4. We also had a bad debt credit on a formula based reserve in Q4. All of these 
+things which sort of flipped as you head back into Q1 and we get back onto sort of more normalized run rate. 
+
+<Q - David Koning>: Great. Thank you. 
+
+<A - David Mangum>: Thank you David. 
+
+Pete Kight, Chairman & Chief Executive Officer 
+
+So, in closing, I will express a – I guess what I really had to express is just an appreciation for your willingness to await 
+and to understand the calendar cyclical process that's taking place here. We did not give you the prior to what it is that 
+when it hit us last quarter, any real expectation that there was some kind of cyclical nature to a quarter-by-quarter basis. 
+We had talked openly about monthly cycles but quite frankly, we did not see the quarterly cycle until we had this 
+quarter and caused us to go back and do the stripped out regression testing that we did which was very deep, it was 
+clearly for me a very complex process as I – I've got to appreciate how much work is involved and really stripping out 
+of all the other new adds to transaction data to really look at the underlying calendar. And the fact is, I will tell you I 
+was surprised to see the effect of the balance of transactions that shift between the – what is in essence the quarters that 
+start with long months versus the quarters that start with short months, and then how much effect it has based on where 
+our people called the value of the opening days are relative to whether they are holidays or weekends, if it is the 
+underlying effect. 
+
+
+I'll reiterate one more time. There isn't any consumer change at all, and the CSP change that we saw which is reduction 
+in marketing over the past two quarters, doesn't appear to be anything, other than bad luck and timing and we expect to 
+have been told that that marketing money will return to the market. That's a difficult situation for us to have been in and 
+as shareholders and analysts who follow us, the difficult situation we ended up putting you in because we didn't 
+understand this prior to this. We've done a lot of work, had a lot of people putting in a lot of hours to strip this out. I can 
+tell you, I am confident we understand what the calendar cyclicality is and that is in, will be in our projections going 
+forward. 
+
+Again, I think we will do a better service to you by simply reporting the CSP growth and understanding that's the 
+underlying driver of the business. We will certainly report the non-CSP growth and invite you to hold us accountable to 
+fix in the growth of those businesses. So we get them up to where they should be. Again, there is a lot of work and I 
+appreciate the work people did here, but of course it was obviously very frustrating to sit and having to wait for it. I 
+appreciate your doing so. Again thanks for your time. I'll look forward to talking to you. Thanks. 
+
+Operator 
+
+Thank you very much ladies and gentlemen. This does conclude your conference call. You may disconnect your lines 
+and have a wonderful day. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2008, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

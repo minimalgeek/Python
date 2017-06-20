@@ -1,0 +1,766 @@
+Q2 2011 Earnings Call 
+
+
+Company Participants 
+
+• Derrick Vializ, Vice President, Investor Relations 
+• Robert E. Beauchamp, Chairman and Chief Executive Officer 
+• Stephen B. Solcher, Chief Financial Officer and Senior Vice President 
+Other Participants 
+
+• Walter Pritchard 
+• Matt Hedberg 
+• Derek Bingham 
+• Kevin Buttigieg 
+• Israel Hernandez 
+• Michael Turits 
+• Yun Kim 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good day, everyone and welcome to today's BMC Software Second Quarter Fiscal Year 2011 Earnings Results 
+Conference Call. Today's program is being recorded. At this time for opening remarks, I'd like to turn things over to 
+Mr. Derrick Vializ. Please go ahead, Derrick. 
+
+Derrick Vializ, Vice President, Investor Relations 
+
+Good afternoon everyone. I'm Derrick Vializ, Vice President of Investor Relations and I would like to thank you for 
+joining us today. During our call, Bob Beauchamp, our Chairman and CEO, will provide an overview of the second 
+quarter performance of our company and business units and update you on recent initiatives. After that, Steve Solcher, 
+our CFO, will provide additional financial and operational details. Bob will then provide an update on our expectations 
+for fiscal 2011 before we open the call to questions. 
+
+These prepared comments were previously recorded. This call is being webcast and a complete record of the call will 
+be made and posted to our website. In addition to today's earnings press release, we have posted a presentation, which 
+we will refer to at various times during the call. Both of these documents are available on our Investor Relations 
+website at investors.bmc.com. 
+
+Before we continue, I would like to remind you that statements in this discussion including statements made during the 
+question-and-answer session regarding BMC's future financial and operational results, the development of and demand 
+for BMC's products, BMC's operating strategies, acquisitions and other statements that are not statements of historical 
+fact are considered forward-looking statements. 
+
+These statements are subject to numerous important factors, risks and uncertainties, which could cause actual results to 
+differ from the results implied by these or any other forward-looking statements. Cautionary statements relative to these 
+forward-looking statements and BMC's operating results are described in today's earnings press release and in our 
+annual report on form 10-K. All of these documents are available on our website. These forward-looking statements are 
+
+
+made as of today, based on certain expectations, and we undertake no obligation to update these forward-looking 
+statements. 
+
+I would also like to point out that the Company's use of non-GAAP financial measures is explained in today's earnings 
+press release, and a full reconciliation between non-GAAP measures and the corresponding GAAP measure is provided 
+in the tables accompanying the press release and in our GAAP to non-GAAP reconciliations found on our website at 
+investors.bmc.com. 
+
+At this time, I'll turn the call over to Bob. 
+
+Robert E. Beauchamp, Chairman and Chief Executive Officer 
+
+Thanks, Derrick. Good afternoon and thank you for joining us on today's call. BMC performed very well during the 
+second quarter and we're seeing strength across many areas of our business. A few highlights for the quarter. 
+
+Total bookings grew 5% to 453 million. License bookings grew 23% to 221 million. Revenue was up 9% to 502 
+million. Cash flow from operations increased 36% to 127 million. Non-GAAP diluted EPS increased 24% to $0.82 per 
+share and our balance sheet remains strong with approximately $1.5 billion in cash and investments and 1.8 billion in 
+deferred revenue. That's a snapshot of our overall financial performance. 
+
+Let me turn next to provide a brief overview of our ESM and MSM business units' performance during the second 
+quarter. Our ESM business had another strong quarter with robust year-over-year growth in ESM booking across most 
+geographic areas and all product disciplines. 
+
+ESM license bookings increased 32% from the year ago quarter. We had 31 ESM transactions over $1 million in 
+license bookings, up over 50% from a year ago. Over half of these largest transactions were multi-disciplined licensed 
+transactions. Major ESM wins during the second quarter included Adobe, Hospital Corporation of America, Carus 
+Corporation, and Swisscom IT Services. 
+
+We're also encouraged to see continued strong growth in our mid size transactions. The number of ESM licensed 
+transactions between 500,000 and $1 million increased by 22% compared to last year. This is the fifth straight quarter 
+in which we've seen deals in this range grow by double-digits. 
+
+Looking at our mainframe business, MSM bookings on a trailing 12-month basis were up 2%. MSM bookings on a 
+trailing 12-month basis after normalizing for contract length were up 3%. 
+
+During the first half of the year, capacity upgrade volume was slightly below its usual pace. We may have been 
+affected in the first half by customer anticipation of IBM's new zEnterprise mainframes, which began shipping in 
+September. We expect availability of this powerful platform certainly to help our performance as we enter the second 
+half of the year. We hope to capture this momentum and any pent-up demand. As you may know; we announced our 
+support for the new IBM system last quarter. 
+
+During the quarter, we added 18 new customers to the MSM install base and expanded our relationship with 58 existing 
+customers by adding new products to their portfolios. Some wins include the Internal Revenue Service, Korea 
+Exchange Bank, sanofi aventis, Thomson Reuters and the United States Postal Service. That provides an overview of 
+our financial and business unit performance during the quarter. 
+
+I also want to highlight a few of the key trends that are driving our results. One of the major factors is customer 
+adoption of cloud computing. There is no question that the interest around cloud computing is very high. The fact is 
+cloud computing is real, it's here and it's a very attractive proposition for enterprises today. That's because it can help 
+them be more agile and flexible in managing and growing their businesses with reduced costs and improved efficiency. 
+It does so by enabling IT departments to provide and deliver services and to quickly scale those services with more 
+automation and without worrying about adding more to their IT infrastructures. 
+
+
+While customers are excited about the benefits of cloud computing, they are not about to get rid of the investments 
+they've already made. They need a practical solution that extends and builds upon their existing infrastructures, IT 
+processes and service offerings. That's where we come in. We help enterprises and service providers more effectively 
+plan, build, and manage cloud computing as an integral part of their IT infrastructure. 
+
+Unlike other key technology trends where IT management lags market development, our cloud solutions are one of the 
+drivers of this trend. That's important because both cloud computing and virtualization are complex and can drive up 
+operating costs even as they drive down capital expenditures. A case in point is BMC's Cloud Life Cycle Management, 
+our single integrated solution that allows service providers and enterprise IT customers to deliver superior services 
+through public, private, and hybrid clouds. BMC cloud life cycle management helps customers establish their cloud 
+environment by providing a catalog that presents service offerings, a self service portal for procuring resources, a 
+comprehensive provisioning engine to dynamically build the cloud and management capabilities to control the cloud. 
+
+Unlike products from other IT vendors, our solutions managed the broadest range of computing, storage, network, 
+virtualization and software solutions, automatically provisioning the full stack of cloud services is not just for one 
+technology. We offer a truly vendor neutral platform. This commitment to heterogeneity combined with our BSM best 
+practices is a very attractive value proposition for customers migrating to the cloud. 
+
+BMC's cloud strategy allows customers to achieve the benefits of cloud computing without introducing new silos, 
+disrupting IT operations, or forcing a vendor lock-in for hardware, services or the virtualization platform itself. 
+
+During the second quarter, we won a total of 14 cloud deals, including CGI and Adobe, which was our first joint cloud 
+win with Dell. Once more, we have a long list of cloud related opportunities that positions us well for the second half. 
+
+In addition to winning new business from customers, we're also winning mind share among industry thought leaders 
+regarding cloud management. A recent Forrester report entitled, "You're Not Ready for Internal Cloud," makes this 
+clear. The report states, "BMC's solutions are cloud ready today." 
+
+We've standardized management on the most commonly repeated operating procedures, we fully automated 
+deployment and we're providing self-service access for cloud users. We think there is a significant potential for us in 
+cloud management and we're continuing to invest in our capabilities both through internal development and 
+acquisitions. 
+
+During the quarter we announced BMC's Control-M 7, a new version of the industry leading solution that automates 
+the management of dynamic and static workloads across applications, as well as physical, virtual and cloud platforms. 
+It includes dynamic workload management, a capability that automatically maps workloads to IT priorities using 
+policies that react to real time business needs. 
+
+In addition, BMC's Control-M 7 helps harness cloud environments, providing the elasticity needed to cost effectively 
+support fluctuating workloads. In October, BMC acquired the software business of Neptuny, a leading provider of 
+capacity management in IT performance optimization solutions. 
+
+The addition of Neptuny's technology extends BMC's existing leadership in capacity management and enhances BMC's 
+dynamic BSM portfolio in cloud management offerings. With Neptuny, our capacity management solutions allow our 
+customers to correlate changes in business requirements with changes in their IT infrastructure. 
+
+As customers anticipate business changes, they can test scenarios for optimizing their infrastructure and make those 
+changes, allocating capacity across physical to physical, physical to virtual, virtual to virtual, virtual to cloud and cloud 
+to cloud environments, essentially every combination of physical, virtual and cloud resources to simultaneously 
+improve their service levels and reduce capital expenditures. Our cloud strategy and solutions underscore the leadership 
+and vision we are bringing across the board in helping enterprises improve how they manage IT. 
+
+This is also demonstrated by the recognition we continue to win among industry analysts. Gartner's recent report 
+entitled "BMC Software IT Operations Management: Vision, Strategy, Strengths and Challenges" evaluates BMC's 
+enterprise IT management product offerings and BMC's strategic position in the global marketplace. In its report, 
+Gartner concluded that BMC has a consistent, strong BSM vision that simultaneously addresses the need for IT 
+
+
+alignment and efficiency. 
+
+In addition to our cloud offerings, I would like to provide some perspective on three other initiatives that are driving 
+our leadership in BSM; our ITSM offerings, our software-as-a-service solutions and Cisco's UCS. 
+
+First, ITSM. The new era of IT service management is about having a full menu of flexible options to meet the needs of 
+the enterprise, whether large or small, expanding or contracting, on-premise or on-demand, physical or virtual. To 
+address these needs, we launched product enhancements during the quarter that enabled greater flexibility in choice for 
+our customers when it comes to tailoring an ITSM option for their particular situation. These enhancements offer 
+standardized processes, such as embedded ITIL-based best practices, full platform integration and enhanced web 
+reporting. 
+
+One of the ways we are working to broaden and leverage our ITSM leadership is through our SaaS offerings. These 
+solutions which include a full suite remedy on-demand and a streamlined powerful ServiceDesk on Force.com are 
+beginning to gain serious traction. Though they are still in a relatively early stage, we like what we see. We're very 
+encouraged that we've had 18 wins for our SaaS offerings in the quarter and expect demand for these solutions to 
+further ramp up in the second half. We took steps to further enhance our SaaS offerings by integrating Salesforce.com's 
+Chatter 2 environment into the ServiceDesk on Force.com solutions. It enables collaboration and mobility across the IT 
+department, resulting in higher productivity. 
+
+Let me move next to discuss Cisco and their UCS solution. As you know, BMC's management tools help to provision, 
+configure and manage Cisco's unified computing system. We're now beginning to see some enterprise deployments and 
+are happy to report to you on a couple of the larger deals that closed this quarter. The Department of Defense's Defense 
+Media Activity selected a comprehensive solution incorporating BMC, Cisco, and VMware Technologies for the 
+consolidated data center. 
+
+The win comes to us through Force 3, a trusted provider in federal security, unified communications and data center 
+solutions. In addition, we recently announced a win with Monsanto Company, a leading global provider of agriculture 
+products, who selected BMC for a large scale BSM deployment to reduce system down time by improving the way IT 
+manages changes to the network. The company is working with BMC and the Cisco UCS system to achieve its goal of 
+70% server virtualization. 
+
+So to summarize the second quarter of fiscal 2011, we had another strong quarter of business and financial 
+performance. This solid performance was driven by our leadership in providing solutions that customers need, whether 
+it's managing the data center, improving IT operations, utilizing a SaaS solution for IT service management, or 
+implementing virtualization in cloud computing. Based on our performance so far and our expectations for the next two 
+quarters, we will raise our full year expectation for fiscal 2011. I'll talk more about our current outlook for fiscal '11 
+later in the call. 
+
+But first, Steve Solcher will provide more insight into our financial results. Steve? 
+
+Stephen B. Solcher, Chief Financial Officer and Senior Vice President 
+
+Thank you, Bob and good afternoon to everyone. I'm very pleased with our company's business and financial results in 
+the second quarter and in the first half of fiscal 2011. We generated solid broad-based top line growth in a seasonally 
+tough quarter. We're investing in those areas of our business was strong growth potential while remaining disciplined 
+with regards to our expense structure, resulting in strong growth in earnings and cash-flow from operations. 
+
+Giver our strong first half performance and outlook for the remainder of the year, our full year expectations have 
+improved. A key driver of this strong first half performance is bookings growth, in particular, ESM license bookings 
+growth which has been strong both geographically, as well as across all product disciplines. 
+
+This quarter, for example, was the second quarter in a row in which license bookings in each ESM product discipline 
+grew by double-digit percentages. We remain focused on accelerating top line growth and converting those incremental 
+
+
+bookings in revenues into increased earnings and cash-flow. 
+
+Non-GAAP net earnings and cash-flow operations grew by 12% and 18% respectively in the first half. Our 
+performance is indicative of the operating leverage we have in our business, which should enable us to drive further 
+improvement in operating income and margin in the second half of this fiscal year, while at the same time enabling us 
+to increase our investment in future growth initiatives. This broad-based growth, coupled with our operating leverage, 
+is providing us the opportunity to plan for sound and consistent growth, both short- and long-term. With that, let me 
+turn to our results for operating income and EPS. 
+
+In the second quarter, non-GAAP operating income increased by 9%, to 191 million from 175 million in the second 
+quarter of last year. Non-GAAP operating margin remained flat at 38%. For the first half of fiscal 2011, non-GAAP 
+operating income increased 8%, from 323 million to 348 million. Non-GAAP operating margin for the first half was 
+36%, up one percentage point. 
+
+Please refer to slide five for highlights of our ESM and MSM business unit operating results. ESM's non-GAAP 
+operating income for the second quarter increased 9% to 76 million. ESM's operating margin was 25%, a slight 
+decrease compared to the year-ago quarter, largely due to a year-over-year decline in net capitalized software 
+development cost. 
+
+For the first half, ESM's non-GAAP operating income increased 26% and ESM's operating margin was up 3 percentage 
+points to 24%. We expect continued year-over-year improvements in ESM's profitability in the second half of the fiscal 
+year. 
+
+MSM's non-GAAP operating income in the second quarter increased by 10% to 115 million. MSM's non-GAAP 
+operating margin was 60%, up 4 percentage points compared to the year ago quarter. Non-GAAP net earnings for the 
+second quarter were 148 million, an increase of 20% from the second quarter of fiscal 2010. Non-GAAP diluted EPS 
+for the quarter was $0.82, up 24% from the year ago quarter. This reflects a non-GAAP effective tax rate of 23% for 
+the quarter. For the first half, non-GAAP net earnings increased 12% to 262 million and non-GAAP diluted EPS 
+increased 15% to $1.44. 
+
+GAAP operating income in the second quarter of fiscal 2011 was 144 million, compared to 135 million in the year ago 
+quarter. GAAP net earnings and diluted EPS were 132 million and $0.73 compared to 94 million and $0.50 in the 
+second quarter of fiscal 2010. These results reflect diluted shares outstanding in the second quarter of 181 million, 
+compared to 187 million in the year ago quarter. 
+
+Turning now to bookings, in the second quarter total bookings of 453 million were up 5% on both a reported and 
+constant currency basis compared to the year ago quarter. Total bookings for the first half were up 9% to 896 million. 
+Total license bookings for the quarter increased 23% year-over-year, on both a reported and constant currency basis, to 
+221 million. For the first half, license bookings rose 24% to 356 million. Total bookings on a trailing 12-month basis 
+were 2 billion, up 11% compared to the year ago quarter. 
+
+The weighted average contract length for total bookings on a trailing 12-month basis was 2.18 years up from 2.09 years 
+in the year ago quarter. After normalizing for contract length, trailing 12-month annualized bookings for the second 
+quarter were 928 million, up 7% from the year ago quarter and up 2 percentage points from the first quarter. Please see 
+slide seven in our presentation. 
+
+Now let me turn to the bookings performance of each of our business units. For our ESM business unit, license 
+bookings are the best measure of performance. We generated strong growth in our ESM business. With ESM license 
+bookings at 144 million in the second quarter, up 32% from the year ago quarter. 
+
+For the first half of fiscal 2011, ESM license bookings were up 35% to 246 million. I'm pleased to highlight the strong 
+performance we're seeing in the U.S. in our ESM business and the broad-based double-digit growth across all ESM 
+product disciplines. 
+
+Turning to the MSM business unit. We believe MSM is best evaluated on the basis of total and annualized bookings 
+over the trailing 12 months. In the second quarter, total MSM bookings on a trailing 12-month basis increased 2% to 
+
+
+754 million and had an average contract length of 2.93 years. After normalizing for contract length, total annualized 
+MSM bookings for the trailing 12 months were 257 million, up 3% from 249 million in the year-ago quarter. We 
+expect total MSM bookings to be up in the low single digits for the full fiscal year. 
+
+Turning to revenue, total revenue for the quarter was 502 million, up 9% on both a reported and constant currency basis 
+from 462 million in the second quarter of fiscal 2010. ESM's total revenue was up 13% to 309 million and MSM's total 
+revenue was up 3% to 193 million. License revenue in the second quarter was 208 million, an increase of 20% from the 
+year-ago quarter. ESM license revenue was 131 million, up 24% from the year ago quarter. MSM license revenue 
+increased by 13% to 77 million. During the second quarter, the percentage of license bookings that was deferred was 
+49%, down from 56% in the year-ago quarter. 
+
+For the second quarter, maintenance revenue was 253 million, a decrease of 2% from the year-ago quarter and 
+relatively flat compared to the first quarter. The slight decline in maintenance revenue during the second quarter is 
+largely due to the lagging impact of license bookings only growing 1% in fiscal 2010. 
+
+The additional maintenance revenue related to these new license bookings was not enough to offset the decline from 
+our normal level of renewals. Our maintenance renewal rates and attach rates in both our MSM and ESM businesses 
+have been relatively stable over the past several years. Given our strong license bookings performance in the first half 
+of fiscal 2011, we expect gradual sequential improvements in maintenance revenue in the second half of fiscal 2011. 
+ESM maintenance revenue was 136, million down 1% compared to the year ago quarter. MSM maintenance revenue 
+was 116 million, down 3% from the second quarter of fiscal 2010. 
+
+For the first half of fiscal 2011, maintenance revenue for both units was roughly flat compared to the year ago period. 
+During the second quarter we continued to see improvements in our professional services organization. Professional 
+services revenue, which is included in the ESM business unit, increased by 37% to 42 million from the year ago 
+quarter. Our professional services business was profitable in the second quarter with a non-GAAP operating margin of 
+3 million compared to a slight loss a year ago. 
+
+Moving next to operating expenses. During the second quarter, non-GAAP operating expenses were 311 million up 8% 
+from 287 million in the year ago quarter. This increase reflects the focused investments we made in ESMs sales, R&D 
+and professional services organizations. Looking at our business units, ESM's non-GAAP operating expenses were 233 
+million, an increase of 14% compared to the year ago quarter. MSM's non-GAAP operating expenses were 78 million, 
+down 6% from the year ago quarter. Other income in the second quarter was slightly positive compared to a 2 million 
+loss a year ago. 
+
+Turning to the balance sheet. Total deferred license revenue at the end of the second quarter was 601 million, up 13 
+million sequentially from 588 million. During the second quarter we deferred 107 million of license revenue, or 49% of 
+license bookings and recognized 96 million of deferred license revenue from the balance sheet. 
+
+Given normal seasonality, total deferred revenue decreased by 50 million sequentially to 1.8 billion. The current 
+portion of deferred revenue now stands at 54% of total deferred revenue. Software development costs on the balance 
+sheet were 171 million, as we capitalized 29 million and amortized 18 million during the quarter. Capitalized software 
+development costs declined 3 million sequentially compared to the first quarter and we expect continued declines for 
+the remainder of the fiscal year. 
+
+Cash and investments at the end of the quarter total 1.5 billion, up 50 million from the previous quarter. Our net cash 
+position is 1.2 billion. For the quarter, cash flow from operations was 127 million, up 36% from 93 million in the year 
+ago quarter. For the first half of fiscal 2011 cash flow from operations increased by 18% to 295 million. 
+
+During the quarter we remained committed to share repurchases. We repurchased 2 million shares for a total of 75 
+million. At the end of the second quarter we had 846 million remaining in our current share repurchase program. 
+
+So let me briefly sum up the quarter. BMC's strong top and bottom line performance across our key financial metrics in 
+the second quarter and the first half positions us well as we enter the second half. We are generating broad-based 
+growth across our business and our cost discipline and operating leverage positions us well for continued improvement 
+
+
+in our operating margins and operating income, while at the same time enabling us to increase our investment in our 
+future growth initiatives. 
+
+Our solid results in the first half and our outlook for the remainder of the year puts us on track to exceed our 
+previously-stated financial goals for the year. It is also providing us the opportunity to plan for sound and consistent 
+growth, both short and long term. 
+
+With that, I'll turn the call back over to Bob to discuss our revised expectations for the year and for his concluding 
+remarks. 
+
+Robert E. Beauchamp, Chairman and Chief Executive Officer 
+
+Thanks, Steve. As I mentioned, given our financial results in the first half of the year and our expectations for the next 
+two quarters, we are raising our expectations for fiscal 2011. We now expect non-GAAP diluted earnings per share in 
+the range of $2.92 to $3.02. At the midpoint this would represent a 12% increase over last year compared to the 9% 
+increase in our original guidance. 
+
+Our non-GAAP diluted EPS estimate excludes an estimated range of $0.58 to $0.63 per diluted share for non-GAAP 
+adjustments, including share-based compensation, the amortization of intangible assets, severance, exit costs and 
+related charges as well as the related tax impacts of these items and certain discrete tax items. The assumptions 
+underlying this full year fiscal 2011 estimate include, bookings growth in the mid to high single digits, compared to our 
+original expectation of mid single digits bookings growth. ESM license bookings growth in the high teens. Total 
+revenue growth in the mid single digits. At current rates we do not expect currency to materially impact full year 
+bookings or revenue growth rates. 
+
+Continued improvements in non-GAAP operating margin, a license bookings ratable rate in the low 50% range, other 
+income estimated to be $10 million lower than a year ago, reflecting current market conditions. Weighted shares 
+outstanding slightly down compared to the prior year and a non-GAAP tax rate of 25%. We now expect full year fiscal 
+2011 cash flows from operations to be between 675 million and 725 million compared to our original expectation of 
+660 to 710 million. 
+
+At the midpoint this would represent a 10% increase over last year. We also now expect by the third quarter to achieve 
+close to 60% of our fiscal year cash flow from operations goal, which is higher than the 52% achieved to the third 
+quarter of fiscal 2010. We will provide more detailed overview of the company strategy, financial performance and 
+business initiatives at our Investor Day Conference on December the 14th in New York City. We hope to see you all 
+there. 
+
+With that we will now turn the call over to questions. Operator? 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions] We'll go first to Walter Pritchard with Citi. 
+
+<Q - Walter Pritchard>: Hi, guys. Wondering if you could just – on the ESM side of the business, I know one thing 
+coming into the year that you were looking forward to was you had put all the sales capacity in place and you were 
+hoping to drive some productivity out of that, which it looks like, just based on the numbers, is coming through. But 
+I'm wondering if you could at all quantify for us sort of what you've seen in that end and what your expectations are as 
+we look into the second half of the year? 
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: Yeah, sure. So we're on track with that. In 
+fact, we're a little ahead of plan. Through the first half, sales productivity is up 24%. We're probably still coming in 
+
+
+close to around 20 is where we're still – was our original goal. So in terms of productive head count, we're on plan. In 
+terms of attrition, it's down significantly from year ago and basically in line with our plan. 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: Hey, Walter, real quick. When Bob 
+said that, he's talking about capacity is up 24%. Productivity, actually, for the first half is up roughly around 9%. 
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: Yeah. 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: So we have actually both levers for 
+us are working positively. So we have more feet on the street and then what we're getting out of each productive rep is 
+higher. 
+
+<Q - Walter Pritchard>: Got it. And then, Steve, it looks like you guys did capitalize more than you released out of 
+cap R&D and I guess the question is – I think you had some major ESM product releases and we may be expected to 
+see sort of the reverse there. I'm wondering what the impact was in the product releases on that line and what should we 
+expect going forward? 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: We did. And last quarter I signaled 
+that we had some major releases, especially on the ESM side. So every product discipline had a major release in the 
+September quarter and maybe even into the October period of time. So we had a higher capitalization and as I said in 
+the prepared remarks, we sequentially were down roughly 3 million. I would expect every quarter going forward to be 
+down sequentially on capitalization which gives us more of what I would say an expense impact in the latter half. 
+
+<Q - Walter Pritchard>: Got it. Makes sense. Thanks a lot, guys. 
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: Okay. 
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: Yes. 
+
+Operator 
+
+We'll hear next from Matt Hedberg with RBC. 
+
+<Q - Matt Hedberg>: Thank you, and guys congratulations on a great quarter. Very impressive results, especially the 
+ESM business showing great strength, license booking up, I believe 32%. I guess, Bob, at a high level, as you speak 
+with clients and really as they are trying to decide between bigger stack providers and heterogeneous vendors like 
+yourself, what's their feedback been at this point? Why are you winning and how much of it is BMC specific versus 
+just an overall better environment right now? 
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: Yes. You know I haven't had to have – as 
+you know, Matt, I make a lot of customer visits, a lot of sales calls in the briefing center. I have not yet participated in a 
+single conversation with a customer who is enamored with buying a full stack from a single vendor that is going to give 
+them hardware, software, services and management, whether that's from the virtual machine side or whether that is 
+from kind of the large mega vendors. What they really want is the ability to have flexibility to be able to bring online 
+physical, virtual environments, to bring on HP hardware or IBM or Oracle software, SAP software and writing 
+applications and have a single management platform. So the single management platform story is really all we run into. 
+It is what we compete against, but it's where we're winning because we have the best products and the best story and 
+we're farthest along in that strategy. 
+
+<Q - Matt Hedberg>: That's great. And then I guess on the cross-sell opportunity out of your top say 2,000 customers. 
+Can you give us an update on how penetrated you are within that base in terms of customers buying the entire stack and 
+essentially, looking forward several years, how far can that go? How deeply penetrated can you get? 
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: Well, I think that there's a couple of ways to 
+look at it. One is that most of the largest customers, particularly the service providers and the global outsourcers and 
+
+
+systems integrators are developing new cloud environments because they want to deploy new offerings. They have new 
+revenue engines they're trying to develop around a self-service cloud for application stacks that they want to offer. And 
+that's almost virgin territory for us. We're able to go into those. And there is some massive build out; you've probably 
+read stories about some of the huge investments that some of the service providers are making in data centers. 
+
+And we're talking to different people even there. In one case we're talking to the Chief Marketing Officer of a Fortune 
+10 Company who is a telco that's moving in that direction. So I think there's lots of room around cloud. I think that our 
+success across our product lines this quarter – I really think we're still just scratching the surface in terms of most of the 
+product sets. Even Remedy which is arguably one of our most widely adopted products, we saw a 27% growth in the 
+service support business, which includes Atrium and Remedy, in the first half in license bookings. And the pipeline is 
+building very nicely. There's still plenty of opportunity to grow that business. 
+
+Automation is really still nascent even though we are growing that business much faster than support. We're growing 
+that business almost 50% in the first half of the year. We're still just scratching the surface there and the use cases are 
+still very early use cases. So lots of – by the way, I'll just go ahead and complete the puzzle, Assurance. So those of you 
+who followed us for years, you know the Patrol business, and we told you how that business was going to be 
+reinvigorated with things like Proactive Net, etcetera. That business is up 45% license bookings in the first half. And so 
+there's plenty of room to grow this. I'm not worried about hitting our head on the market saturation. 
+
+<Q - Matt Hedberg>: That's great. And one more for Steve. Obviously, nice to see the full year guidance going 
+higher. What are your expectations at this point for a December budget flush? And how do your close rate assumptions 
+look on a over-year-over year basis? Thanks. 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: I'm not sure I'm the right one to ask 
+so I'm going to look to Bob to answer. 
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: Sorry, the question was on budget flush? 
+
+<Q - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: Yeah, just at the end of the year. just 
+quickly, I don't think there's anything unusual, that we're expecting either more budget flush or less budget flush from 
+last year. But I'm not close enough to what the customers are saying every day. 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: Yeah, I would guess – having done 
+this for a while, that with the economy the way it is, we'll probably look at a little less of kind of that year end budget 
+flush, because my guess is the CFO's are still going to be fairly cautious about, if you've got extra money, don't just go 
+spend it, give it back to me. So I don't think it will be like it was in the hey-days before this economic environment that 
+we're in now. 
+
+But to the same point, we'll definitely have some. We'll definitely have some transactions that aren't even in the 
+forecast that will come in at the end of the year. That always happens and I'm sure it will happen again. It will probably 
+be more muted than in the best of times. And therefore, we're probably looking at Q4 being a little better than Q3 in 
+terms of that. 
+
+<Q - Matt Hedberg>: Great color. Congratulations again, guys. 
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: Thank you. 
+
+Operator 
+
+Derek Bingham with Goldman Sachs has our next question. 
+
+<Q - Derek Bingham>: Hi, gentlemen. A question first – just trying to drill down a little bit on the MSM bookings. 
+Just wanted to make sure I was clear. It sounded like you had a really big distributor bookings quarter, relative to your 
+expectations. How did you feel about how the MSM bookings came in relative to what you were expecting? 
+
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: It was a little less than we had wanted, but at 
+the same point it's also very much in line with pattern recognition of lumpiness. We saw this business – it's also what 
+we've seen out there with some of the other people who play in the mainframe space with the zSeries platform shipping 
+and with that and the economy being the way it is, I think we saw a – it was a little less capacity upgrades than its usual 
+pace. But I think those are both tied to – what I just said, tied to the fact there's a new box that just started shipping in 
+September, tied to the fact the economy is tight and nobody is going to overbuy. 
+
+So any weakness we saw was really around capacity upgrades, not about losing business, not about price atrophy. It 
+was about that and also a little bit on – we've got a very aggressive effort to do competitive replacements and new 
+product sales and that grew very nicely but it's still a little behind where we wanted it to be. But other than that, it was 
+basically in line with what we thought it will be. And we expect the lumpiness to return to the positive in the second 
+half. 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: Yes, Derek, our biggest quarters last 
+year for MSM were Q2 and Q3. In Q2 MSM grew by 29% and in Q3 it grew by 41%. So a little bit of it is a tough 
+compare and that's why we're – when we get the outside to start thinking about our business, we get you to think about 
+it on a TTM basis. 
+
+<Q - Derek Bingham>: On the kind of mid to high single-digit guidance outlook for bookings, could you update us on 
+kind of roughly how that stacks out between MSM and distributed? 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: Yeah, what I've said in my prepared 
+remarks was is that MSM was going to be in the low single digits and you can back in to what the ESM side would be 
+with that color. 
+
+<Q - Derek Bingham>: Sorry, I missed that. Just one more, if I could, on the maintenance that you talked about in 
+terms of kind of the lag effect from what was happening with your license bookings last year, your license growth has 
+kind of reaccelerated – over the last four quarters has been pretty good growth. When do you think that starts flowing 
+through and the maintenance line should start to kind of pick up? 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: Well, my estimate now is December 
+you should see sequential improvement as well as the March quarter. So the next two quarters we should continue to 
+see sequential and I expect into all of fiscal '12 you would see that same pick up. Again, some of the license bookings 
+even this quarter, it's important to point out that even though we had 32% growth in ESM that's on the last day of the 
+quarter primarily. And so we don't get the full attach rate of maintenance until the following quarter. So just 
+
+
+<Q - Derek Bingham>: Okay. 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: So we got a little bit of lag. That's 
+why in our commentary we were just trying to point out it was last year's growth rate of being roughly 1%. 
+
+<Q - Derek Bingham>: Okay. Thanks very much. 
+
+Operator 
+
+And Hapoalim Securities, Kevin Buttigieg has our next question 
+
+<Q - Kevin Buttigieg>: Thank you. Good afternoon. Just back to one of the earlier questions with regards to the ESM 
+productivity. You talked about a 24% year-over-year increase in the number of feet on the street and a year-over-year 
+increase of about 9% in terms of sales productivity per rep. I was wondering if you can talk – first of all, do I have 
+those right? And I was wondering if you could talk a little bit about what your goals might be for each of those 
+categories or where you are right now vis-à-vis your expectations if you don't want to state your expectations? 
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: Yeah. So we had set an expectation for about 
+20% for the year. I think that's probably about where we'll come in, plus or minus 2 points. And that's not feet on the 
+
+
+street, that's productive feet on the street, which means we're not counting the brand new people that are in the 
+classrooms. It's people that have been out in the patch for several quarters, who are trained up. And so we're in line with 
+that. 
+
+We will always push for sales productivity enhancements. I think there's really some good room for sales productivity 
+growth for some time as we're still experiencing a little bit, although it's not unusual, but a little bit of a bi-modal 
+productivity model within the company where you've got a solid group of people that are doing very well and then 
+some of the new ones who are doing less well and as that moves after a little more of a bell curve then that should 
+really help deliver some better productivity across the board. 
+
+<Q - Kevin Buttigieg>: Okay. Thank you. That's helpful. And then just on the MSM side, I was wondering if you 
+could discuss where you are in terms of the big cycle for your renewal portfolio as well as how you did in terms of the 
+top 15 transactions, the revenue yield year-over-year? 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: I'll take the first piece of that, so 
+where we are in the cycle, is the second half that it's going to look much better than the first half. So we just had more 
+renewal opportunity in the second half and I think you're going to see year-over-year growth in the second half be 
+much better than in the first half. 
+
+And then on the run rate comment on the top, we had a very large – I would say one large transaction this quarter drove 
+that to be slightly down for the quarter. But that's just an anomaly. When you take the rest of, what I would say the top 
+14, we actually had decent growth, low single-digit growth in run rate. 
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: And just to comment, the one transaction he's 
+referring to was a company that doesn't like buying software from BMC, because they compete with us. 
+
+<Q - Kevin Buttigieg>: Okay. And then just finally, a mechanical question, Steve. You had obviously the fantastic 
+quarter on the ESM side, a little bit soft on the MSM side. But on a sequential basis you had a sort of a downtick in 
+upfront revenue recognition. I guess I would have expected to see the opposite with more ESM than MSM? Could you 
+talk a little bit about that dynamic? 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: I guess I lost you there. We actually 
+sequentially had an increase in upfront revenue, and when I looked at it, I think probably the biggest thing Q1 to Q2 is 
+going to be the deferral rate. So for ESM our deferral rate went from 32% to 41%. That 41 is roughly consistent 
+year-over-year. So when I look at the ESM side, what came off the balance sheet helped a little bit, but it was really all 
+the license performance that we did with a very similar deferral rate. 
+
+<Q - Kevin Buttigieg>: Right. Okay. I must have the wrong number. I had a 56% recognized upfront in the first 
+quarter and 56% first quarter, 51% second quarter, but maybe my first quarter number is wrong. 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: Yes, if you want to take that up with 
+me offline, I can help you with that. I'm not sure what you 
+
+
+<Q - Kevin Buttigieg>: Thanks very much. 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: Okay. 
+
+Operator 
+
+Israel Hernandez with Barclays Capital has our next question. 
+
+<Q - Israel Hernandez>: Good afternoon, everyone. Bob, can you elaborate a bit on your comments around what 
+you're seeing with UCS just in terms of attach rates, market momentum, you know, competitively, Cisco does have an 
+open architecture, so just kind of curious as to what you're seeing with UCS and how we should be thinking about that 
+business going forward? 
+
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: Well, first the OEM aspect of it continues to 
+improve. It's still not material to the whole company, but it is certainly something that's becoming larger in quantity. 
+But the real beauty of it is that it is engaging us with customers and with Cisco together where we're selling much 
+larger portfolio. We're selling the whole portfolio. We mentioned that in the Defense Department example where UCS 
+code, where the software that manages UCS was part of that proposal – the software that's in the OEM agreement – the 
+same software that's in that agreement. But yet, in this you really saw the full BSM suite as part of it with Atrium 
+technologies, with automation technologies, run book automation with Remedy Technologies and service support in 
+there. So you're starting to see a lot of traction on the seeding aspect of it. 
+
+We've always viewed the UCS relationship as more – and I think we've always been consistent with this – as more than 
+the direct revenue associated with that but rather as a seeding mechanism to bring us into other transactions. And we're 
+clearly seeing that. We're clearly seeing it with some of their largest customers in the world where we're jointly talking 
+with those customers about the full breadth of the product. And they are actively recommending us to many of their 
+largest customers in the world very directly for the full broad portfolio. 
+
+<Q - Israel Hernandez>: Okay. Thank you. 
+
+Operator 
+
+[Operator Instructions] We'll go next to Michael Turits with Raymond James. 
+
+<Q - Michael Turits>: Hey, guys. Good evening. Back on mainframe. First of all, am I right that your guidance for the 
+year on MSM bookings was low to mid single digits, now it's down to low? And if so, what's actually changed in terms 
+of your expectations, why have they decreased? 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: Michael, you're right. It was initially 
+low to mid and we've taken it to low. I think it goes back to Bob's earlier comments about capacity. So we are seeing 
+people when they do renew, they have not renewed at the same expectation of capacity that we had when we set that 
+initial guidance. 
+
+And probably the other piece of that would is, the comment that he made around new product. We had a pretty 
+aggressive new product goal and we're slightly behind that and it's still above where it was last year. But I think those 
+are really the two key drivers into why we took that expectation down. 
+
+<Q - Michael Turits>: Any thoughts on why capacities renewals are staying depressed? You knew about the Z series, 
+you knew about the recession, to an extent. One question, is it a function – is there any impact from the shift to more 
+specialty engines where – I could be wrong but I think you guys don't get full credit on the licensing side and on the 
+renewals there. Is that an issue or -what could it be? 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: No 
+
+
+<Q - Michael Turits>: I just want to make sure it's not a long term secular issue, I guess. 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: Sure. Right now the best is – we've 
+spent a lot of time looking at this, Michael. And best as we can tell, it appears to be simply a matter of the customers 
+buying new boxes or about to buy new boxes or about to take delivery on new boxes. And there is a certain degree of 
+either waiting to upgrade or when they do upgrade, they're upgrading with less capacity, waiting for the new box to 
+come in. So with the economy the way it is with that, with the new box shipping. That's as best as our crystal ball can 
+determine. We've looked hard to see if there's any other trends underneath it. If it is, we haven't detected it yet. 
+
+<Q - Michael Turits>: Okay, great. Thanks very much. 
+
+<A - Stephen B. Solcher, Chief Financial Officer and Senior Vice President>: Thanks, Michael. 
+
+
+Operator 
+
+We'll go on to Yun Kim with Gleacher & Company. 
+
+<Q - Yun Kim>: Thank you. Congratulations on a strong quarter, especially in your ESM business. Looks like, just 
+from a pure numbers point of view, much of that is driven by large deals, which is obviously part of your growth 
+strategy for that group. Is it fair to say that you're fairly comfortable with the quality of your ESM sales force who can 
+go out there and basically close large strategic deals given the performance over the past few quarters? And along with 
+that, how do you manage risk associated with business that is becoming more large deal driven? Thanks. 
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: Sure. Well, thank you for the 
+congratulations. I would tell you that it is large deal but – there is more large deals but it's also the 500,000 to 1 million 
+has been improving now for a long time and that's really kind of right down the middle of the fairway. 
+
+Our sales force is very well trained in how to sell these broad ranging solutions. I think it's eight out of the top ten were 
+multiple product lines. The, I think larger transactions – again, long-term does, of course, add a little more excitement, 
+potentially, to the business. But right now, I think it's still a game of a lot of medium sized fish and not whale hunting. 
+And we don't need whales to make the business work like MSM certainly does. And the sales force is, I think, brilliant. 
+I think we have a brilliant sales force. 
+
+To give you a case in point if you remember over the past several earnings calls we talked about how Europe came on 
+and was doing such a great job but that North America was lagging. This quarter we didn't see that at all. We saw North 
+America had a really solid quarter. So we've seen now worldwide solid performance across the geographies for several 
+quarters. We've seen the entire product portfolio, all the major product lines delivering strong double-digit growth. 
+You're seeing the deal count from 500,000 to 1 million growing nicely, from a million and above growing nicely. And 
+you're not seeing the whales making all the difference to the deals. It's all of those things happening together. So 
+geographic balance, product line balance and you've got SaaS in there – by the way, as an example, the deal at Adobe 
+by was our Remedy OnDemand, our SaaS offering for Remedy. But it was an entire BSM story with the CMDB, with 
+the entire product line basically integrated into our Remedy product line. So there's an example of the flexibility that 
+we have in our sales force. 
+
+This was a company that really did almost no business with BMC was a very small if at all. We're trying to find if they 
+did any business with us up to this point. And now they basically are standardizing on almost our entire portfolio across 
+the board and our sales team just did a fantastic job of that and there's plenty of stories like that. So I'm very, very – feel 
+very good about our sales force ability to sell our products. 
+
+<Q - Yun Kim>: Also along that line, obviously you guys have done very well targeting your installed base in growing 
+your ESM business. How aggressive do you plan to go after new customers who may not have any of your product in 
+their ESM line? 
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: Sure. By the way, the Adobe, like I said, was 
+a new customer. So this wasn't an installed base and this is one of our largest orders of the quarter, was new. The way 
+that we're scaling up the sales force and the way we've been adding productive heads essentially requires and the way 
+we're giving the salespeople territories, where there's lots of new customers out there that they need to go call on and 
+that's one of the most exciting areas that we see, is new customers that we weren't doing much business with coming 
+online with certainly these SaaS offerings, the vast majority of these SaaS deals, and we had some great SaaS wins with 
+customers we've never done any business with before, very competitive by the way. But we won often times with our 
+competitors, both large and small dropping price to try to win the deal and we will beat them on functionality, we beat 
+them on capability, we beat them on our ability to integrate with a more complex – with a more complete product line 
+attached to it in the future and we did about 50% of the deals we did with Remedy and 50% we did on ServiceDesk on 
+Force.com. And so we're out there selling to new customers as well as existing customers. We'll always do more 
+business with existing, because we're an enterprise company and we know who they are. But we are doing very nicely 
+in new. 
+
+
+<Q - Yun Kim>: Last question from me. So given the success with the Force.com, Remedy product on the 
+salesforce.com platform, do you plan to maintain your cash product on that platform or do you have a plan maybe, 
+perhaps, because of the success may be migrating in-house? 
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: Well, the sales force is product is specifically 
+on the Force.com and we're investing in that. We're adding new functionality to it, we're adding change management, 
+asset management, we're adding really a full product suite, ITSM product suite on top of it. And that's on top of the 
+Force.com. The Remedy is not. Remedy is something that we're hosting to our customers and that is on our own 
+environment. 
+
+<Q - Yun Kim>: Okay, great. Thank you very much. 
+
+<A - Robert E. Beauchamp, Chairman and Chief Executive Officer>: Okay. 
+
+Robert E. Beauchamp, Chairman and Chief Executive Officer 
+
+All right. With that, thank you all for joining us. I want to thank the BMC people, particularly, that are on this call and 
+those around the world that have helped make for a great quarter. Look forward to the second half of the year and we 
+will be talking to you I'm sure throughout the days ahead. 
+
+Thanks very much. 
+
+Operator 
+
+That concludes this BMC Software teleconference. Thank you for joining us. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

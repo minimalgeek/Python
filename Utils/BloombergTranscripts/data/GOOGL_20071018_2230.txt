@@ -1,0 +1,823 @@
+Q3 2007 Earnings Call 
+
+
+Company Participants 
+
+• Krista Bessinger 
+• Dr. Eric Schmidt, Chairman and Chief Executive Officer 
+• George Reyes, Senior Vice President and Chief Financial Officer 
+• Larry Page, Co-Founder and President, Products 
+• Sergey Brin, Co-Founder and President of Technology 
+Other Participants 
+
+• Imran Khan 
+• Omid Kordestani 
+• Anthony Noto 
+• Jonathan Rosenberg 
+• Benjamin Schachter 
+• Robert Peck 
+• Christa Quarles 
+• Mark Mahaney 
+• Douglas Anmuth 
+• Justin Post 
+• Brian Pitz 
+• Jeffrey Lindsay 
+• Youssef Squali 
+• Heath Terry 
+• James Friedland 
+• Sandeep Aggarwal 
+• Mark May 
+• Jason Helfstein 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good day and welcome everyone to the Google Inc. conference call. This call is being recorded. At this time, I would 
+like to turn the call over to Ms. Krista Bessinger. Please go ahead. 
+
+Krista Bessinger 
+
+Good afternoon everyone and welcome to today's third quarter 2007 earnings call. With me today are Eric Schmidt, 
+Chief Executive Officer; George Reyes, Chief Financial Officer; Larry Page, Founder and President of Products; 
+Sergey Brin, Founder and President of Technology; Jonathan Rosenberg, Senior Vice President of Product 
+Management, and Omid Kordestani, Senior Vice President of Global Sales and Operations. Eric, George, Larry, and 
+Sergey will provide some thoughts on the quarter, and then we will have Jonathan and Omid join us for Q&A. 
+
+
+This call is being webcast from our Investor Relations website and our press release, issued a few minutes ago, is now 
+also posted on our website, as well as the slides that will accompany today's prepared remarks. Please note that a replay 
+of this call will be available on our Investor Relations website in just a few hours. 
+
+Now let me quickly cover the Safe Harbor statement. Some of the statements we make today may be considered 
+forward looking, including statements regarding our investments; seasonality; traffic acquisition costs [TAC]; increase 
+in the cost of sales; plans to continue to invest in personalization; international growth; growth in head count; and our 
+expected level of capital expenditures. These statements involve a number of risks and uncertainties that could cause 
+actual results to differ materially. 
+
+Please note that these forward-looking statements reflect our opinions only as of the date of this presentation and we 
+undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements in 
+light of new information or future events. Please refer to our SEC filings, including our quarterly report on Form 10-Q 
+for the quarter ended June 30, 2007, as well as our earnings release posted a few minutes ago for a more detailed 
+description of the risk factors that may affect our results. Copies of these documents can be obtained from the SEC or 
+by visiting the Investor Relations section of our website. 
+
+Also, please note that certain financial measures we will use on this call such as EPS, net income, operating margin, 
+and operating income are expressed on a non-GAAP basis and have been adjusted to exclude charges relating to 
+stock-based compensation. We have also adjusted our net cash provided by operating activities to remove capital 
+expenditures, which we refer to as free cash flow. We report our GAAP results as well as provide a GAAP to 
+non-GAAP reconciliation in our earnings press release. 
+
+With that, it's my pleasure to turn the call over to Eric. 
+
+Dr. Eric Schmidt, Chairman and Chief Executive Officer 
+
+Thank you very much, Krista, and thank you all again for joining us. We are very pleased with such strong results in 
+what is seasonally one of our weaker quarters. When we look at it, revenue growth was very healthy both in 
+google.com and also in our AdSense businesses. And the seasonal weakness in traffic was milder than we expected on 
+google.com, which was a very pleasant surprise from our perspective. It's obvious to us that the search quality 
+investments that we are making are paying off, particularly internationally, as we do better and better in almost every 
+country. 
+
+Along with that, of course, we are working on expanding our breadth of ads offering with all sorts of new types of ads, 
+Gadget ads, video ads, others coming. And each of these initiatives gives advertisers new and interesting ways to build 
+relationships with their customers. So by building these deeper ad solutions, we really can deliver more value, 
+especially in markets and industries where they have not really had these kinds of tools before. These are highly 
+measurable and ROI driven campaigns and Sergey is going to talk a little bit more about this in terms of the steps that 
+we are taking in Ads. 
+
+Looking at it as a Search, Ads, and Apps, on the Apps side, we are now seeing a massive transition to web-based cloud 
+computing at a consumer and enterprise level. We have talked about this for a while, and we now see not only the 
+progress but also the future products both from Google and from the other folks in the industry to make this really 
+happen. In our case of course, we launched the Presentation product as well as closing Postini, which is central to our 
+enterprise push. We are really on the cusp of a world where everyone can create, share, collaborate, and find their 
+content in the cloud anytime and anywhere. 
+
+Before I turn it over to George for all I think the good news, let me say something about George. George announced his 
+retirement. I have had the privilege of working with him for almost 20 years. I am embarrassing him now. Everything 
+that I can think of financially that has happened at Google has really had George in the middle, whether it's going 
+public, building the infrastructure of a multibillion dollar corporation, our large cash position, the secondaries, the 
+financing; very, very good investor relationships; the openness that we are now seeking; the financial and discipline 
+
+
+that fits in the company; and also amazingly our ability to deal with Section 404 and Sarbanes-Oxley, all driven not just 
+by George but by people that he brought into the company. 
+
+So with that, George, and hopefully an even better introduction to come, go ahead, George. 
+
+George Reyes, Senior Vice President and Chief Financial Officer 
+
+Thanks, Eric, and good afternoon everyone. We had a very strong quarter across the board with continued impressive 
+growth in our business. Gross revenue increased 57% over last year to 4.2 billion. Our Google.com performance was 
+strong at 2.7 billion, representing year over year revenue growth of 68% and a 10% increase over last quarter. 
+
+As was the case in Q2, Google.com traffic was stronger than expected, reflecting a milder seasonal effect than we have 
+experienced historically. Consistent with past summers, we also saw strong growth in monetization, supported in part 
+by a healthy pipeline of ads quality improvements. We are particularly pleased with our AdSense performance, which 
+grew 8% over the second quarter and 40% over last year to $1.5 billion. Both the AdSense for Content and AdSense for 
+Search businesses were strong as we experienced continued increases in traffic and improved our ability to monetize 
+our newer partner relationships. 
+
+Let's now take a look at aggregate paid clicks growth. Aggregate paid clicks include clicks related to ads served on 
+Google properties as well as ads served on our partner sites. Aggregate paid clicks grew approximately 45% over Q3 of 
+last year and increased approximately 5% over Q2. 
+
+Let me now discuss our international performance. International revenue grew to just over 2 billion or 48% of revenue. 
+The UK reported revenues of 661 million and 10% sequential growth, led by the strength in the finance vertical. The 
+region consisting of Belgium, the Netherlands, and Luxembourg also experienced notable growth in Q3. The travel 
+vertical was a contributor of growth across France, Italy, Spain, and Portugal and helped drive monetization growth. 
+And in Asia and Latin America, where we are still building our presence and investing heavily, we continue to 
+experience strong growth rates in countries such as Brazil, China, and Korea. 
+
+Let's now turn to operating expenses. Traffic acquisition costs were 1.2 billion and 29% of total advertising revenue, 
+down from 30% in Q2. AdSense TAC was 1.1 billion while TAC related to distribution partners and others who direct 
+traffic to our websites totaled 105 million in the quarter. As we have discussed previously, as we grow our AdSense 
+partner network and embark upon new initiatives, we may see pressure on TAC rates going forward. 
+
+Turning to other cost of revenue, other cost of revenue increased 29 million over the prior quarter, primarily as a result 
+of increases in costs related to our data centers, including depreciation, equipment, operations, content acquisition 
+costs, data licensing fees, and amortization. We anticipate that our cost of sales will continue to increase going forward. 
+
+Let's now turn to operating expenses. Operating expenses in Q3 other than cost of revenue included approximately 
+$200 million in stock-based compensation and totaled 1.3 billion. Expenses related to payroll and facilities increased 34 
+million to 659 million. 
+
+During the quarter, we added 2,130 employees, the majority in engineering and sales and marketing. At the end of the 
+quarter, we had a full time employee base of 15,916. Consistent with previous years, a large portion of our starts in the 
+third quarter were related to university hires; approximately 1,000 employees that had accepted offers earlier in the year 
+but started in Q3, after the end of the academic year. Included also are approximately 300 employees from the Postini 
+acquisition, which closed in September. As we have previously discussed, we are continuing to take a careful look at 
+how we can more efficiently allocate resources across functions and globally. 
+
+Let's now turn to non-GAAP operating profit, which excludes stock-based compensation. This was $1.5 billion with 
+non-GAAP operating margins of 36%, up from 35% in Q2. As we have stated previously, margins may decline as we 
+continue to make investments in our business. 
+
+Now turning to cash, operating cash flow was 1.6 billion and CapEx for the quarter declined to 553 million. The 
+majority of our CapEx was again related to IT infrastructure investments, including data center, construction, 
+
+
+production of servers, and networking equipment. We intend to make similar investments going forward as we continue 
+to build the global infrastructure and resources necessary to serve and improve our products for our users and our 
+advertisers. And lastly, free cash flow, a non-GAAP measure, which we define as cash flow from operations less 
+CapEx, increased to $1.1 billion. 
+
+And now, I will turn it over to Larry for more comments on the quarter. 
+
+Larry Page, Co-Founder and President, Products 
+
+Well thank you, George. I'm really excited to talk to you a little bit about Search and our improving search quality this 
+quarter. We had a lot of improvements we made to search quality for users in markets outside of North America. I'm 
+very excited about that; it is a big part of our traffic. We launched several dozen search quality improvements specific 
+to particular international markets. We are especially happy with the results that we had in Russia, Thailand, Japan, and 
+Arabic speaking markets. 
+
+Now in Mobile Search, our search traffic there increased both domestically and internationally and the Mobile apps 
+traffic is growing well, particularly in Maps. YouTube also launched a public site that streams selected YouTube 
+content to mobile devices; of course, all supporting the iPhone edition, which we launched last quarter. And mobile ads 
+are really doing well, especially in Japan, where we had strong revenue growth. We also launched mobile ads in Korea. 
+
+Let me tell you a little bit about our user experience worldwide, especially about personalization and some new 
+features. iGoogle, which has just been growing tremendously, expanded up to 43 domains now. We are really excited 
+about that. We also made it easier for users to set up their home page on iGoogle and that increased retention and 
+usage. And I love looking at some of these gadgets, the weather, even though in California it isn't such an issue for us, 
+it's still good to know what is happening, and I can very easily get that on my homepage now. We have a number of 
+available gadgets and are increasing significantly and a developer ecosystem that is really growing. 
+
+Now, in Book Search, we really increased funding on relevant book results lots this quarter and we think that's a 
+significant perspective on improving quality. And our Book Search index is also huge now. It's over 1 million books. 
+You think about trying to stack those up on your desk, it would take quite a bit of space. We also added several new 
+partners there with a total of 27 partners now involved in that product, and we introduced a number of new features. 
+
+Now let me switch gears and talk to you a little bit about Maps and Earth, our geographic products. In Maps, we really 
+opened up the map with API. That makes Maps a development platform, and it makes it easy for people to put their 
+own functionality into Maps. So for example, we have – you can get real estate listings when you are looking at Maps 
+or real-time updates to gas prices or ski and snow reports right on your Google Maps provided by third parties. 
+
+In Street View, which is a feature that lets you see a view of a particular street or house or business, we added five 
+cities in Q3 and six more just in the last week, so we're very excited about that. There are a total of now 15 major cities, 
+where you can see street-level views of almost anywhere in those cities. 
+
+In Earth, last week we actually launched a YouTube video layer on Earth. You can go to different areas and see videos 
+users have posted about that area. I looked at a few from Brazil. They are very interesting. And companies like the 
+Hidden Bay Lodge in Ontario have posted a fishing video about going fishing there. So we're very excited about that 
+too. 
+
+So I'll turn it over to Sergey now to talk to us about the progress in Apps. 
+
+Sergey Brin, Co-Founder and President of Technology 
+
+Thanks, Larry. I am really excited to tell you today what we've done over the past quarter in Ads and Apps. As you all 
+know, for advertising our real philosophy is to create a win-win between advertisers and customers by presenting users 
+with really relevant information which is interesting to them that's likely to cause this transaction to commence. We are 
+
+
+really helping out both. But it's also important that it's not just what we say, but we can actually prove it. And so, 
+measurement of our return on investment and the ability to optimize the investment is really important for advertisers. 
+We have a lot of tools now available for advertisers to do that, but I want to highlight a couple new ones and a couple 
+updates for this quarter. 
+
+In beta testing right now, we have the Conversion Optimizer, and this lets advertisers adopt an ROI driven financial 
+model even more easily than just going straight with cost-per-click type bidding. What basically clients specify, what 
+advertisers specify, is how much they want to pay for a customer. And then, we automatically optimize for them, in 
+each auction how much they ought to be bidding in order to accomplish that goal. 
+
+We have also launched a new release of our Website Optimizer. This is where advertisers can run and create these A-B 
+kind of split experiments. They can change their website layouts. They can rearrange their content. This is very 
+important because there is tremendous variance even once you get a user on your website, how likely they are to really 
+understand with they are seeing, how likely are – how easy is it for them to use; and ultimately, what percentage of 
+those users do actually perform a transaction. And this is a really great way to optimize that. It can make a really big 
+difference in the business. 
+
+Next, I want to talk about some new Ads formats that I am quite excited about. And this does not mean that really 
+flashy, in your face stuff. For example, we launched our Gadget Ads, and this is the global data that we are running 
+now. And for Gadget Ads, you can actually put functionality into the advertisement. So it is more than just something 
+to look at and click, but something you can really interact with. We have a Nissan Gadget Ad running right now that 
+lets you punch in your Zip Code, and you get local traffic, it is fun for users. It helps Nissan build brands. We also have 
+Gadgets that are actually really functional to what the company does. For example, if you're trying to book a flight or 
+whatnot, you can punch where you are flying from and to directly into the ad. Anyway, we really are excited about 
+these. 
+
+Of course, you have probably heard about our in-video ads as well as the AdSense video units. So basically, instead of 
+trying to do something, say a pre-rollout for video where you have to watch a commercial before watching your video; 
+that would really not make sense, especially in kind of several minutes type videos we typically show on a property 
+such as YouTube. It would be very distracting. Instead, we have a really nice ad that shows up in the bottom 20 % of 
+the video that just overlays for a few seconds after the video starts playing. And in fact the initial user response rates – 
+the user responses and feedback have been positive. And we have had better click-through rates than we anticipated. So 
+I am very optimistic about this ad format. This is the kind of thing that we have to do when we develop new ad 
+programs. You have to experiment with different kinds of things until you can actually find formats that really work for 
+users and for advertisers. 
+
+The AdSense video units of course – or the YouTube videos can be embedded on sites in the AdSense network. This 
+certainly provides more distribution for the videos. They allow us to have contextually targeted ads in the video player. 
+And this creates this three-way revenue share, which is really a win-win-win between the publisher, the video's 
+producer, and Google. 
+
+I also want to just, while we're on the subject of video ads, just mention TV ads, which we of course have been running 
+now for a while. We really have been getting a lot of interest and bookings from advertisers. And the remarkable thing 
+about television is it's surprising, but it is a fact that of the offline advertising, it is one that is closest to Internet level 
+accountability. And we feel we can bring much greater ROI type accountability to television advertising, much as 
+we've done online. 
+
+Let me take a moment to talk about Apps and what we have been doing there. We have been growing. We have been 
+seeing a lot of adoption of certain Apps for your domain, Apps for your university. The University of Phoenix, which is 
+up to about 250,000 accounts now, students, faculty, employees, and so forth. Northwestern is now offering it to all 
+students. That's on the educational front. For companies, we have a partnership now with Capgemini, which integrates 
+Google Apps into their suite of offerings. And then Capgemini provides the systems integration support. And we are 
+really excited about working with third parties like this because there are just so many great companies in the enterprise 
+space that really know how to work with the customers and can plug our technologies in where it makes the most sense. 
+
+
+We also closed the Postini acquisition, and not only because we closed it, but we already have deployed some of the 
+Postini functionality on the Google Apps domain and it is just an automatic upgrade for our Apps customers. 
+
+Now in the Apps suite, we now have rounded it out a bit. For example, we launched Presentations, so you can create a 
+presentation. You can import one, edit them, and share them. And what this basically means now for my usage, 
+whenever I got e-mails or need to work with somebody on something, I don't really have to leave the web browser. And 
+then for presentations, it's great because you want to collaborate on a presentation if there is something you are 
+presenting and you want to get it ready ahead of time. 
+
+You can also – even watching a presentation, you can make comments on it and whatnot. You can even just go to the 
+URL of the presentation as you're being presented to and page through it, forward or backward without having to 
+receive a large attachment or having to print out or something like that. It's really convenient and I think it has the 
+potential to change how people really work together. Now these Apps support a total of 27 languages now. We added 
+six more this quarter, so it's a very international product and we're getting adoption worldwide. 
+
+An important piece that we are working on has to do with offline functionality because of course you don't want to just 
+have access to these things when you are on earth. You want them on an airplane, you want it somewhere where you 
+don't have the Internet or your Internet connection goes down or is flaky. 
+
+And the Google Gears was launched in Q2 to address that. Our Reader, as you all know, is our first Geared application 
+as we call it, and the fact that it's very nice. I encourage all of you to try this product. It's very fast; it obviously 
+downloads all of the items, so it's pre-fetched. They show up quickly. But you can expect more and more of Google's 
+applications to show up in Geared versions, so that you can work untethered. Anyhow, I'm very excited about the 
+progress we have made on both fronts. 
+
+Thanks for your time, and now back to Eric. 
+
+Dr. Eric Schmidt, Chairman and Chief Executive Officer 
+
+Thanks a lot, Sergey. Looking back at the quarter, it's obvious to us that our model continues to work very well; that the 
+systematic approach that we have to innovation and the way in which the company is executing speaks for itself. The 
+strategy of Search, Ads, and Apps seems to resonate perfectly with this worldwide transition, if you will, to the use of 
+the Internet on many, many different devices; so all very exciting from a Google perspective. And again, thank you for 
+listening so long to us. 
+
+Why don't we go ahead and get your questions and see what people think? Krista? 
+
+Krista Bessinger 
+
+Hi, operator, we would like to go ahead and poll for questions. 
+
+Q&A 
+
+Operator 
+
+Thank you. [Operator Instructions] And we will take our first question from Imran Khan from JPMorgan. 
+
+<Q - Imran Khan>: Yes, hi; thank you for taking my questions. I have two questions. Number one, if I look at our 
+network revenue, Google network website revenue, that improved significantly in Q3 after being roughly flat in Q2. 
+I'm trying to better understand what is driving that growth. And secondly, you have been working with MySpace for a 
+while and I want to get a better sense of what you have learned and how monetizable are the social networking sites 
+that are out there and as these social networking sites' engagements are growing so quickly, are you concerned that that 
+
+
+could be a point of entry on the web? Thank you? 
+
+<A - Eric Schmidt>: Imran, thank you very much for your question. When we look at the network revenue, a lot of the 
+benefit we think is simply coming from greater traffic to our partners and then also strong monetization gains, the way 
+ad networks work. Omid, can you give us some color on how the partners view this? 
+
+<A - Omid Kordestani>: Sure, Eric. We look at basically both seasonality of the partners and their distribution 
+strategy. Some of our partners benefited last quarter from having greater distribution of their services through their own 
+efforts of syndicating their search and advertising or using our services. We have been ramping up our partnerships in 
+the UGC space, we have seen nice growth in that space from partners like MySpace. I'll let maybe Sergey maybe add to 
+the monetization angle here. 
+
+<A - Sergey Brin>: This is Sergey. We have been very pleased with our partnership with MySpace so we've been 
+pleased with the advertising performance. It has been a lot of work and innovation actually. I know you might not see it 
+from the user interface on it that you see, but we are developing really new technologies and I think these social 
+networks are going to require different kinds of targeting technologies, different concepts of advertising. We have 
+already made big strides. It's obviously a challenge because there's so much inventory, people can be distracted by very 
+many different things and it's very personal. So there are a lot of things that make it hard but our technology, our 
+targeting, all those things are actually coming along very well and we view it as a great opportunity. I mean it's just so 
+much more inventory that if done correctly can create that win-win I was talking about between advertisers and users. 
+
+<Q - Imran Khan>: Thank you. 
+
+Operator 
+
+And now are we ready for the next question? 
+
+<A>: We are. 
+
+Operator 
+
+And then we will go next to Anthony Noto from Goldman Sachs. 
+
+<Q - Anthony Noto>: Thank you very much. You talked in the call about iGoogle and the positive feedback you got 
+from user metrics. I was wondering if you would comment a little bit about improving that product even further. It is a 
+great application to allow me to more efficiently use Google. I don't have to enter in searches for all the information I 
+want to have on a daily basis. 
+
+And there are two things that I think that could make it a lot better and the real root of my question is, is there a 
+technology limitation to doing the following two things or a legal limitation? The first is pulling out other applications 
+that are popular on the Internet, specifically those that have been written into Facebook and others. And the second, you 
+have often talked about advertising being a form of content and in many the verticals that I have on iGoogle and 
+MyTAP such as movies would really benefit from display advertising as an additional form of information. So is there 
+a technology and/or legal or other considerations that have limited you putting display ads on a page or pulling in other 
+applications? Thank you. 
+
+<A - Eric Schmidt>: This is Eric. Thanks very much, Anthony, for your good product suggestions. There are some 
+legal limits as to what we can do. We obviously have to get permission of the partner and content and so forth and so 
+on. There is no intrinsic reason why the vision that you painted can't occur, and in fact, part of our developer strategy is 
+to get people to build what are called iGoogle Gadgets. We encourage the sites that you named and others to make 
+them available. We need to work with them. We obviously can't do it without their permission. Jon, do you want to talk 
+a little bit about display ads? 
+
+
+<A - Jonathan Rosenberg>: In particular with respect to Gadgets, Anthony, we will certainly be offering a lot more 
+functionality through the Gadgets. The current focus with them really is the user experience. We have done some things 
+with themes, which we think have been a pretty big success. But really, what we're trying to do is figure out how to 
+integrate much of what we're doing with iGoogle and also the concept of these Gadget ads, which Sergey mentioned. 
+What is so powerful there is that the Gadgets ads just don't serve up your simple brand impression. What they do is 
+they get people to engage with the brand and then we can actually empirically measure the level of engagement, which 
+is much more powerful than the things people have traditionally done with display. One of the things I would suggest 
+you do – Sergey mentioned one of the Gadget ads, the Nissan ad. I think if you type into Google either 'Honda Gadget 
+ad campaign' or the 'Six Flags Gadget ad campaign', you will get some examples of some campaigns that have 
+leveraged this technology to really deliver. 
+
+<A - Eric Schmidt>: Our next question? 
+
+Operator 
+
+And we will go next to Ben Schachter from UBS. 
+
+<Q - Benjamin Schachter>: If I'm reading the TAC rates right, it looks like the partner TAC went down pretty 
+meaningfully, and then the TAC associated with Google.com went up as a percentage of revenue. I am wondering if 
+you could comment on those trends. And then also you mentioned in the prepared comments about the level of 
+accountability on TV ads. At a high level, can you talk about the learnings that you're getting from targeting ads on the 
+search side, how those will work with both video and display, possibly offer an add-on? Thanks. 
+
+<A - Eric Schmidt>: Jonathan, do you want to talk about TV ads first? 
+
+<A - Jonathan Rosenberg>: Sure, I think TV ads have actually been really underappreciated for the reason that you 
+mentioned in terms of our offline efforts. This is really one of the few places where you can bring the same type of 
+Internet level accountability to offline advertising. So with search advertising, obviously our customers see real-time 
+how their ads performed. The same thing is really true with the feedback mechanism that we get with set-top boxes. 
+We're bringing the same level of granularity to the offline TV format. The trials that we have right now are with 
+EchoStar and Astound Cable. What we're able to do there is we're able to show the advertisers when their spot is 
+playing and look at the viewing levels of users actually during the course of the spot. So we're very excited about how 
+that is playing out. And we think it bodes very, very well for our progress in TV. 
+
+<A - Eric Schmidt>: How about we talk about TAC rates? George, do you want to start that? 
+
+<A - George Reyes>: Yes, so our AdSense TAC went down slightly. But on the other hand, Google.com TAC went 
+up, and primarily driven by the partner mix. 
+
+<A - Eric Schmidt>: Our next question? 
+
+Operator 
+
+And we will go next to Robert Peck from Bear Stearns. 
+
+<Q - Robert Peck>: Eric, I had a question on future use of capital here as I think of any large expenditures going 
+forward. First of all, I was wondering if maybe you could comment on Google's desire to maybe put a large investment 
+in Facebook or a large social network. And then I was wondering if maybe Larry can talk about the importance of 
+700-megahertz going forward? I mean it doesn't look like Kevin Martin will probably codify what Google wants for 
+700-megahertz. So does it come to a point where Google has no choice, not only put a token bid in, but to also bid to 
+win, whether it be with a consortium or whatnot? 
+
+<A - Eric Schmidt>: On the question about on a specific investment, as you know, I can't really comment on any 
+specific investments. I want to assure you all that the cash is not burning a hole in our pockets. We don't feel some 
+
+
+great need to spend it right now for any particular reason. We would do an investment that is capital if we thought it 
+was incredibly strategic. Many of the partners we have been able to work with, we have not needed to do such an 
+investment. They are happy partnering with us simply because of our technology and our ability to monetize. Larry, do 
+want to comment about 700-megahertz? 
+
+<A - Larry Page>: Sure, I guess I think we have been actually quite happy with the openness provisions that have 
+been put into those 700-megahertz auction. So I guess I disagree with your assertion there. I think we have many, many 
+different options available to us as a company in terms of spectrum and connectivity for people in wireless and so forth. 
+So I don't think we feel like there is any desperate need for us to have to bid to win or anything like that. And again, the 
+money is not burning a hole in our pockets. 
+
+<A - Eric Schmidt>: Next question? 
+
+Operator 
+
+And we will go next to Christa Quarles from Thomas Weisel. 
+
+<Q - Christa Quarles>: Hi, first question is just around in the mobile side, we're starting to see a convergence among 
+hardware, software, and services, à la Nokia's bid for NAVTEQ. I was just wondering; do you feel comfortable with 
+your current position on just having applications and the ubiquity that you can achieve in the distribution of those 
+applications? And then secondly, I was just wondering if you could give us an update on when you think DoubleClick 
+might get some clarification on when that might close? I guess the EU decision begins next week, but just an update 
+there would be great, thanks. 
+
+<A - Eric Schmidt>: On the DoubleClick side, we are following all of the appropriate steps that are needed to get 
+worldwide approval. And we're certainly optimistic. It would be I think premature for me to suggest any particular 
+timing. I could tell you we have a pretty close working relationship with all the people, who I think in my view, 
+responsibly are checking on does this make sense and so forth. But we believe it will ultimately result in a very good 
+outcome for us. 
+
+On the mobile side, we have talked at some length about our mobile application strategy. We're very happy with it. 
+Mobile applications, there is some evidence that we're becoming the leading mobile applications provider, at least in 
+certain segments. And the mobile story is a very strong one for Google. It is also a great one for the world. You see 
+over and over again one company after another announcing a new interesting mobile platform. We want to make sure 
+that Google and its technology is a part of each and every one of those platforms. Our next question? 
+
+Operator 
+
+We will go next to Mark Mahaney from Citi Investment Research. 
+
+<Q - Mark Mahaney>: Great, thanks. First, congratulations to George for a job extremely well done. Just to keep 
+going on mobile, what we are trying to figure out is how much of a future investment requirements success for Google 
+in mobile could entail? And the setup here is, you obviously achieved the leading position as a PC search service 
+without the need to develop a Google PC or a PC operating system or an Internet access service with all the 
+infrastructure requirements that that would entail. Is there any reason that your success in the mobile Internet world 
+would require any similar type developments: a Google phone, mobile phone operating system, or a wireless access 
+infrastructure with all of the requirements that that would entail? 
+
+<A - Larry Page>: I don't think that again, there is a requirement to do any things like that. I think Google – obviously 
+we have grown a lot since we entered the search business. And the opportunities that are available to us are different. 
+And there are opportunities for us available in those kind of spaces. And we would also love to get even greater 
+numbers of people and wider access to our applications that we provide. So I think it is more of an opportunity for us 
+than a cost. We have tremendous usage of our current mobile applications and we have deals with very, very many 
+
+
+different wireless carriers and so on, and many other types of carriers, and I think those things will all continue. 
+
+<A - Eric Schmidt>: Our next question? 
+
+Operator 
+
+And we will go next for Doug Anmuth from Lehman Brothers. 
+
+<Q - Douglas Anmuth>: Thank you. It looks like you added more than 2,100 net head count adds in the quarter, which 
+is significantly more than you added in Q2, despite being more focused on head count. But even ex-Postini, it looks 
+like it is more than 1,800. Can you give us some color on the timing of your hires during 3Q, and then also how we 
+should think about this in relation to margins going forward? Thanks. 
+
+<A - George Reyes>: Obviously, I can't talk about margins going forward. What we said last quarter, as you know, is 
+that this is in an area where we needed to spend some more time and focus more on what is the appropriate rate. And 
+the good news we have done that. The numbers that you're seeing are essentially an overhang and they are an overhang 
+from hiring that had been agreed to many, many months earlier. June of course is a major college hiring – university 
+hiring, professor hiring cycle. So I don't know that that will be repeated. The important thing here is that we did in fact 
+correct, and I think going forward you should be comfortable that we're paying a lot of attention to head count. 
+
+<Q - Douglas Anmuth>: Thank you. 
+
+Operator 
+
+Are you ready for your next question? 
+
+<A>: Yes, we are; thank you. 
+
+Operator 
+
+Then we will go next with Justin Post from Merrill Lynch. 
+
+<Q - Justin Post>: Thank you. The gap between your revenue growth, 57%, and your sponsored click growth has been 
+maintained around 12%. Could you talk about the drivers there, where you are in your monetization cycle? Do you 
+have a pretty good pipeline of things coming forward? And do you think things like YouTube and AdSense for Content 
+could actually grow that gap as you look out to next year? 
+
+<A - Jonathan Rosenberg>: Hi, this is Jonathan. I can maybe cover some of the monetization issues. We're certainly 
+very happy with the product upside that we achieved this quarter. It was really – it really came out of over 20 quality 
+and UI improvements that we launched. There were two very big things that we have talked about publicly. The first 
+was the reserve based promotion. And actually we only launched that in late August, so it only had part of the quarter 
+to manifest itself in terms of improvements. And that was basically the change to the formula which determines which 
+ads are shown above the search results in yellow on Google.com. So that was certainly significant. 
+
+We have also been doing some things like previous query based ad targeting, which is pretty significant. We're looking 
+at the previous query to try to figure out what to do on the next query. So we're pretty confident that we've got many, 
+many more ads quality improvements like these. We are also launching them internationally pretty expeditiously. So 
+from that standpoint, we think there is a very healthy pipeline in ads improvements. 
+
+<A - Eric Schmidt>: Our next question? 
+
+Operator 
+
+
+And we will go next to Brian Pitz from Banc of America. 
+
+<Q - Brian Pitz>: Great, thanks. Your CPC growth rate accelerated from 7% last quarter to 8% this quarter. Can you 
+provide any commentary on this including is this driven by your recent algorithm change? And then secondly with 
+respect to your ability to monetize significantly better than competitors, is there a possibility for TAC rates to continue 
+to come down, especially with respect to the upcoming renewal of Ask.com? Thanks. 
+
+<A - Eric Schmidt>: Jonathan and Omid? 
+
+<A - Jonathan Rosenberg>: I'll let Omid handle the Ask.com comment. Basically, you are talking about a 1% 
+difference on CPC as we have talked about in the past is largely driven by mix. So, I think if you look at the 
+monetization improvements that I mentioned, that's certainly a component of it, but a large part of it is also a mix issue. 
+Summer does tend to be modestly higher from a CPC perspective. One of the things that we see is that there is a lot less 
+academic traffic, which Google has disproportionate to most of the other players in the market. So, with less 
+non-monetizable traffic and modestly more monetizable traffic, that is a mix that actually does play a role. 
+
+<A - Omid Kordestani>: Hi, this is Omid. We are going to I think enter a period where you will see a lot of these 
+fluctuations, so it will be hard to predict. One is driven by partner renewals, like the ones you mentioned where we are 
+obviously focused on preserving our relationships with as many of our partners as possible, including Ask. But the 
+other thing that is going in parallel with that obviously is increasing the quality of our network and our partners are also 
+actively involved with the distribution strategy of their services like we are. So, I think the mix of those effects is really 
+hard to predict. We are trying to improve the quality overall, which will I think actually eliminate some growth in terms 
+of distribution in a network that's unhealthy in our opinion for the network. On the other hand, the renewal and 
+improvements in monetization really drive up the monetization efforts. So, that mix is hard to predict at this point. 
+
+<A - Jonathan Rosenberg>: Yes, this is Jonathan. The one other thing I would add is that all of the ads quality efforts 
+are very, very focused on eliminating a lot of the bad ads. In particular, it's a lot of the very bad ads which are low CPC. 
+So one of the things you will see is that as we improve ad quality, reducing coverage, which in general is what we are 
+doing, you will see the CPC increase because those lousy ads are generally the nickel or thereabouts types of ads. 
+
+<Q - Brian Pitz>: Thank you. 
+
+<A - Eric Schmidt>: Our next question? 
+
+Operator 
+
+And we will go next to Jeffrey Lindsay from Sanford Bernstein. 
+
+<Q - Jeffrey Lindsay>: Hello; we would like to ask a little bit more about the 2,100 new hires, or the 1,800 after 
+Postini. We noticed that a high proportion came in sales. Could you possibly give us an indication of a geographic split 
+for these new hires, overseas versus domestic? And then can you give us an indication of the rationale for the 
+expansion of the sales force? Given that a lot of your sales are automated, wouldn't expansion of the sales force be 
+taking your cost structure in the wrong direction? 
+
+<A - Omid Kordestani>: Hi, this is Omid. There are a couple of important factors and some of them you mentioned. 
+First, we have been very focused on having the proper level of presence in every country that makes sense for us to 
+have both our partnership teams as well as advertising sales teams that directly work with customers. And as you can 
+imagine, in some of the emerging markets for example, both in Asia and in Europe, we have had actually early success 
+with advertisers working directly with our systems through our online channel. 
+
+However, you reach a point where local education, helping the efforts of monetization with the clients, requires the 
+presence. And what our focus has been is to really push our field sales forces, our direct sales forces, to really spend 
+their time on named accounts and also to present the full suite of products that we have. So one of the things we are 
+trying to avoid is having multiple sales forces for the different products and services we have, for example, the 
+YouTube activity. So, one of the great efforts we have done both in North America and in other regions is to actually 
+
+
+train the sales force and combine efforts so that our customers receive one voice and one representation from the 
+company covering the majority of the products. 
+
+At the same time, what we're doing is paying actually a lot of attention to cost per revenue dollar metrics and sales 
+force productivity and putting the right customers in the right channels, and mapping that with our sales organization 
+where again, we balance the direct sales force that is in the field versus the operations team and sales efforts that go on 
+in our big operations centers in Dublin and in Argentina and local countries in Asia and in India, which we have a 
+major presence in. 
+
+<A - Eric Schmidt>: Our next question? 
+
+Operator 
+
+And we will go next to Youssef Squali from Jefferies. 
+
+<Q - Youssef Squali>: Thank you very much. Can you talk about monetization on the video side and YouTube in 
+particular? You have started syndicating that content across the ad network. When do you turn up the monetization dial 
+on that? Is it an '08 event? What is preventing you from doing it now? And secondly, I guess for Sergey, is it fair to 
+assume that you have decided to go with ad overlays over a pre-roll and potentially post-rolls? Thanks. 
+
+<A - Sergey Brin>: Yes, let me just take both of those. We are certainly progressing on monetization for YouTube and 
+whatnot, but that is not the number one priority for that property right now. We continue to grow the traffic and 
+improve the user experience. We continue to improve the publisher experience. And also we're working on things like 
+the fingerprinting, which we announced recently, which we have just really fantastic technology for. 
+
+On the advertising UI, we're very pleased with the overlay. But I don't think we are ever going to say like, oh this is it 
+from now on. We're going to continue to test a variety of different formats. When we started in UIs for advertising on 
+Search, where by the way the little text ads were considered really crazy, I mean it took a long time to really perfect 
+that to get advertisers to really understand it, learn it, and ramp the monetization. Here also, I think we are in for a long 
+term investment. 
+
+<Q - Youssef Squali>: Thanks. 
+
+<A - Eric Schmidt>: Next question? 
+
+Operator 
+
+And we will go next to Heath Terry from Credit Suisse. 
+
+<Q - Heath Terry>: Great, thank you. As you start broadening out your advertising formats with your television 
+relationships, dMarc, YouTube, to what degree are your search advertisers starting to manage these mediums from a 
+single point of contact for you? And how far along are the more traditional branded advertisers in beginning to look at 
+their Internet and traditional forms of advertising alongside of each other when they're trying to evaluate the 
+effectiveness of that advertising? 
+
+<A - Omid Kordestani>: This is Omid. We are actually spending a lot of time – that is a very good question – in terms 
+of how we should focus on the core business and help all advertisers, including the major Fortune companies and FTSE 
+companies across the world really take advantage of Search. That is a proven model for us. We really understand a lot 
+about it. And that is something the sales force spends the majority of their time doing at this point. 
+
+In these other areas, as Sergey mentioned for example, we are really prioritizing in the case of YouTube the user 
+experience. But at the same time, we're having great demand and interest in advertisers trying these new formats and 
+working with us. So in the case of radio, TV, print, all of these new initiatives, we are seeing a lot of interest. We're 
+spending time on it and really trying to balance, not losing focus on the core business that we really understand well, 
+
+
+and it clearly works for the advertisers as well as getting interesting trials going, trying different formats. So I think we 
+seem pretty – we are very confident in terms of the future of these formats and especially the video, which is a great 
+area of focus for us as well as TV. I would say in those two areas, you will see a lot of progress from us in the coming 
+quarters and Search will continue to remain a very, very strong focus. 
+
+<Q - Heath Terry>: Thank you. 
+
+<A - Eric Schmidt>: Well thanks. Next question? 
+
+Operator 
+
+We will move next to Jim Friedland from Cowen and Company. 
+
+<Q - James Friedland>: Thanks, I didn't hear any comments on the call about Google Checkout. And now that we are 
+heading into the holiday season, I just wanted to see if we get some commentary on what you're seeing in terms of 
+adoption, especially in the UK, where you just launched. And secondly CapEx, while we expect it to continue to grow 
+quickly, has gone down sequentially, and I was just wondering if you can comment on how it has been trending in the 
+core Search business in terms of ROIC on that incremental dollar spend? Are you getting better returns on your Search 
+CapEx today than you were say 12 months ago? Thanks. 
+
+<A - Sergey Brin>: Yes, this is Sergey. On Google Checkout, Google Checkout is continuing to grow. We're very 
+excited about it. I personally use it all the time. We've been adding a number of great merchants. Most recently, we 
+added B&H, which happens to be my favorite camera equipment store, but we are adding many others as well. And we 
+are excited going into Q4 because we know we have – it is a fairly young product and this time we get to develop it 
+further into the holiday season. So, we are really excited about that one. On your other question, I am going to turn it 
+over to... 
+
+<A - Jonathan Rosenberg>: This is Jonathan. I caught the Checkout part of the question; maybe we can follow-up and 
+get the second half. I just wanted to mention Sergey's shopping experiences are too limited. We've got a big chunk of 
+Top 500 merchants in Q3. We launched PetSmart, Drugstore.com, ShoeBuy.com, and the NHL Store. I think the real 
+story that is important there is that many of the advertisers that we are working with such as Jockey are reporting much, 
+much higher click through rates. They achieved as much as 60% higher with Checkout and they decreased the 
+cost-per-click by over 31% with Google AdWords and Google Checkout. So we're seeing much more significant 
+volumes in terms of some of these advertisers and the performance with the advertisers. Specifically, I'm not sure I got 
+the other half of your question. 
+
+<Q - James Friedland>: The other half was on the returns on invested capital on Search CapEx because CapEx has 
+been trending down a little bit. It's still expected to grow quickly but for that dollar spend on Search CapEx a year ago 
+versus today, are you seeing improved returns on your business? 
+
+<A - Eric Schmidt>: We don't actually use that. It's a good question. We don't actually use that metric in the way you 
+phrase it. What we are really trying to do is to invest the capital of our shareholders as wisely as possible. So as you 
+know, we have built large and very powerful data centers that are largely custom designed. Those data centers do more 
+than just Search. They do advertising. They host Apps, they do Google Earth and Maps and so forth and so on. We're 
+quite comfortable that that investment which we monitor incredibly closely because there are millions of dollars 
+involved, really does translate into superior financial returns. One way to think about this is that a year ago, people 
+would ask us about capital, why we are spending all this money in capital. And we would say we will get it, we will get 
+it back in scale and in systems and so forth. And you are seeing the benefit of the investment a year ago. Hopefully 
+you'll see the same investment return in a year for what we are doing today. 
+
+<Q - James Friedland>: Great, thank you. 
+
+<A - Eric Schmidt>: Thank you. Next question? 
+
+
+Operator 
+
+And we will go next to Sandeep Aggarwal from Oppenheimer & Company. 
+
+<Q - Sandeep Aggarwal>: Thank you. Two questions, and I am sorry, again asking a question on mobile. I wanted to 
+know if you can share what kind of mix are you seeing in terms of a search query initiated by mobile phone versus PC. 
+And is there basically a trend you can share versus last year? Secondly, you have completed one quarter with Universal 
+Search. If you can make any comment in terms of what kind of improvement end user has seen, and what kind of 
+benefits advertisers have realized? Thank you. 
+
+<A - Eric Schmidt>: On the Mobile Search side, our mobile searches are increasing rapidly compared to a year ago. 
+They are growing more quickly than non-mobile searches. They are still a very small percentage of total searches, 
+which is something which is of great frustration to us. And we're working very, very hard with the mobile operators to 
+get Google Search to be as standard as possible on every phone. It is very quick and very responsive because we think 
+the people using phones really want to use Google to solve interesting information problems. Jonathan, do you want to 
+handle the second question? 
+
+<A - Jonathan Rosenberg>: The second question specifically on Universal Search; yes, I think as you know, we 
+launched it at the Searchology event back around the middle of May. We are very pleased with the increases in traffic 
+which we saw this summer relative to the traditional seasonality. I'm not sure that I can statistically attribute the 
+causality to Universal Search, but certainly what we are seeing is very, very favorable feedback from users. We are 
+seeing good click-through rates, particularly as Larry mentioned, with the better integration of pieces from different 
+data sets like Book Search. So as we add more books into the index and make it blend better, we certainly see higher 
+click-throughs. So in terms of revealed user activity, what we are seeing is very strong. Whether or not that is actually 
+what drove growth is unclear. I think it is certainly a component. 
+
+<A - Eric Schmidt>: And our next question? 
+
+Operator 
+
+And we will go next to Mark May from Needham. 
+
+<Q - Mark May>: Thanks for taking my question. It is increasingly clear then in order to succeed long term in the 
+online marketing services space, it is best to have a broad set of ad format capabilities. The question is can you provide 
+us with some data points that illustrate Google's current position in what I think is the largest of those, which is – or one 
+of the largest – which is brand or display ads, and what are you doing to better your position there? 
+
+<A - Omid Kordestani>: Hi, this is Omid. I think at this point it is still early for us to be able to really put any 
+markers. What we're very busy with is just engaging the customers, training the sales force, trying these new formats, 
+understanding which ones work best. It is clear that the engagement model is of great interest, things like the Gadget 
+ads that we mentioned. The accountability and the measurements, the kinds of things we're doing in TV that we 
+discussed earlier, all of those are very meaningful to the advertiser. There's great interest from them to participate in 
+these trials we're doing and these tests we're doing. I think we should be in a position to share more information with 
+you in 2008 as we get more of these services out of beta as well as sign up more partners, more inventory, and get the 
+advertisers to have more spending in these. But I think, as I mentioned earlier, I think you'll see that primarily happen 
+initially in both TV and the video space for us. 
+
+<A>: I think we have time for just one more question, please. 
+
+Operator 
+
+And we will go next to Jason Helfstein from CIBC World Markets. 
+
+
+<Q - Jason Helfstein>: Hi, thanks; two questions, one quick one and then fairly longer. Are there any market share 
+numbers or growth rates you can provide for China and India? And then my second question relates to the 
+consolidation we are seeing of network buys by AOL and Yahoo. It seems to us that that is kind of a planned 
+behavioral marketing. And do you have any concerns if they are not careful they might trigger a privacy concern for the 
+industry and legislation or something we obviously don't want to happen? And are there any discussions that are going 
+on perhaps at the industry or IAB level, so everyone is careful in that regard? Thanks. 
+
+<A - Eric Schmidt>: On the growth rates in China and India, we are starting from a relatively smaller base than in a 
+number of other countries, and so the growth rates are quite significant. And we would expect that to continue until 
+they get to some reasonably stable growth pattern. Both markets are growing quickly. Both markets are 
+underpenetrated in the Internet as a whole. In China, as you know, we have a local competitor who has majority share. 
+In India, it appears as though we have majority share. But in both cases, it is essentially an open field for all the players. 
+
+On the question of consolidation and some of the privacy concerns, this is something that we spend a lot of time on. 
+And we're very concerned that the actions of the industry as a whole, people who are concerned about what happens on 
+the Internet, could somehow affect us or really hurt consumers. From a Google perspective, we have done a number of 
+things to that respect. We have announced a whole bunch of policies around cookies and log retention, which are 
+innovative in the industry. As best we can tell, we have the most aggressive privacy policy of any of the key players in 
+the industry today. But we're also working very hard with government relations teams all around the world to try to get 
+people to understand what it really means to have people using the Internet all day and the various conflicts that are 
+inherent there. 
+
+From a Google perspective, our ultimate success is based on the happiness, satisfaction, and excitement of end users. I 
+can tell you that an end user is not going to come to Google if they don't trust us. So the ultimate check, if you will, on 
+a company like Google is the fact that we are a consumer company primarily. And the consumers are free to choose, 
+and if they believe that Google is a poor quality company with respect to their privacy, they're not going to use Google. 
+They're going to use somebody else. So it is very much a fundamental part of our business strategy not only to promote 
+privacy, but also to encourage everyone to take it very seriously. 
+
+Dr. Eric Schmidt, Chairman and Chief Executive Officer 
+
+So with that, it looks like we have run out of time. I want to make sure that everybody knew that we are having our 
+financial analyst meeting next week. And we're looking forward to all of you who can attend in person coming. And of 
+course, you are invited. And those of you who cannot attend in person, of course there will be a full webcast and 
+everything will be available online, as you would expect. So with that, thank you very much, Krista. Thank you 
+everyone for joining us. 
+
+Krista Bessinger 
+
+Thank you all for joining. 
+
+Operator 
+
+And this concludes today's conference. We thank you for your participation. You may now disconnect. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+
+
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2015, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

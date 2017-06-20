@@ -1,0 +1,616 @@
+Q3 2014 Earnings Call 
+
+
+Company Participants 
+
+• Ashish Saran 
+• Hock E. Tan 
+• Anthony E. Maslowski 
+Other Participants 
+
+• John W. Pitzer 
+• Vivek Arya 
+• Ross C. Seymore 
+• Matt Diamond 
+• Blayne Curtis 
+• James Covello 
+• Harlan L. Sur 
+• Craig M. Hettenbach 
+• JoAnne Feeney 
+• Ian L. Ing 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Welcome to the Avago Technologies Limited Third Quarter Fiscal Year 2014 Financial Results Conference Call. At 
+this time for opening remarks and introductions I would like to turn the call over to Ashish Saran, Director of Investor 
+Relations. Please go ahead, sir. 
+
+Ashish Saran 
+
+Thank you, operator, and good afternoon everyone. Joining me today are Hock Tan, President and CEO; and Tony 
+Maslowski, Chief Financial Officer of Avago Technologies. 
+
+After the market closed today Avago distributed a press release and financial tables describing our financial 
+performance for the third quarter fiscal year 2014. If you did not receive a copy you may obtain the information from 
+the Investors section of Avago's website at www.avagotech.com. 
+
+This conference call is being webcast live and a recording will be available via telephone playback for one week. It will 
+also be archived in the Investors section of our website at avagotech.com. 
+
+During the prepared comments section of this call Hock and Tony will be providing details of our third fiscal quarter 
+results, background to our fourth quarter outlook and some commentary regarding the business environment. We will 
+take questions after the end of our prepared comments. 
+
+In addition to U.S. GAAP reporting, Avago reports certain financial measures on a non-GAAP basis. A reconciliation 
+between GAAP and non-GAAP measures in included in the tables attached to today's press release. Comments made 
+during today's call will primarily refer to our non-GAAP financial results. Please refer to our press release today and 
+
+
+our recent filings with the SEC for information on the specific risk factors that could cause our actual results to differ 
+materially from the forward-looking statements made on this call. 
+
+At this time I would like to turn the call over to Hock Tan. Hock? 
+
+Hock E. Tan 
+
+Thank you, Ashish. Good afternoon, everyone. We're going to start today by reviewing recent business highlights in 
+our end markets and I'm going to give you an update on progress of our integration and then Tony will provide a 
+summary of our third quarter fiscal 2014 financial results. 
+
+So during our first quarter as a combined company we have made great progress in integrating the Avago and LSI 
+businesses. As you all are aware, in early May this year, as part of our cost reduction program associated with the 
+acquisition of LSI, we announced our intent to eliminate approximately 1,100 positions from our workforce, and which 
+would generate most of the forecasted annual cost synergies of $200 million. This is still in progress very much, but we 
+believe we are well on our way to achieving this before the end of fiscal 2015. 
+
+On top of integrating the two companies and their workforce, we have also taken decisive steps to reshape our business 
+to make our product portfolio more consistent with our business model. As you know because of this we have agreed to 
+sell two noncore businesses, the LSI's Flash and Axxia businesses. Now revenue associated with these two businesses 
+was a little over $100 million in Q3 fiscal 2014 while the annualized operating expenses for these two businesses 
+exceeded $200 million. So reflecting this, these two businesses will be reported as discontinued operations with 
+revenues and costs taken out of P&L going forward. 
+
+However, please note that the guidance we have provided for the third quarter still includes expected contributions 
+from both the Flash and Axxia businesses. And relative to this revenue guidance range of $1.3 billion to $1.4 billion we 
+provided in May, our Q3 revenues reported were $1.394 billion, which is at a high end of guidance, reflecting strong 
+demand for our ASIC networking products and seasonal uptick in hard disk drives. 
+
+Without revenue contribution from the Flash and Axxia businesses, Q3 revenues from continuing operations would be 
+$1.287 billion. So starting with Q3, our reported consolidated financial results will be shown in this manner. 
+
+So turning now to a discussion of our end markets. As I mentioned in prior quarter's earnings call, with the combination 
+of LSI, our mix of revenue now includes revenues from a new end market, enterprise storage in addition to the 
+previously defined wireless, wired infrastructure and industrial. 
+
+Starting with wireless which, as you know, is pretty much classic Avago, not impacted by the LSI acquisition. For 
+fiscal Q3, revenue from our wireless end market met expectation, moderately growing by 5% sequentially. Wireless 
+represented 28% of our total revenue from continuing operations and on a year-to-year basis wireless revenue grew 
+26%. 
+
+Within the quarter we observed continuing demand increases for our FBAR, and FBAR related products and seen 
+increased content from Chinese LTE smartphones, offset partially by softer demand from Korea. 
+
+However, looking at Q4 fiscal 2014, we expect quite a different picture. We anticipate very strong sequential wireless 
+revenue growth in excess of 60%. We expect this growth to largely result from the ramp of a new phone model and a 
+North American smartphone customer. Compounding this ramp is a significant increase in content driven by the 
+increasing proliferation of wireless bands within LTE smartphones. 
+
+Moving onto wired, our wired infrastructure end market includes our ASIC business and our fiber optics business, 
+which is a combination in fiber optics of optical, interconnects, module that is, and components. For fiscal Q3, our 
+wired end market performed as expected. Wired revenue represented 27% of our total revenues. Our ASIC business 
+experienced significant strength from the prior quarter driven by strong demand from enterprise networking switches as 
+well as service provider routers. Driven by similar trends, our fiber optics business experienced a moderate recovery 
+from the prior quarter. In particular, we saw a strong sequential increase in BiDi fiber shipments used for 40G. 
+
+
+We also saw sustained demand for optical components from fiber to the home deployments in China, but we were 
+capacity constrained within the quarter. Looking forward to Q4, we expect low single-digit sequential growth, revenue 
+growth, from this end market. We expect growth in our ASIC business from sustained demand in the enterprise 
+switching and routing. Our leading IP in particular in high speed SerDes with 25G and 50G offerings continues to 
+position us extremely well at many customers. And in Q4 we expect several design wins in high-performance 
+computing platforms and software-defined networking switches. 
+
+For fiber, however, we expect that to be flattish in Q4. We expect growth in our BiDi products, we expect continued 
+growth, I should say, in our BiDi products, offset however by a slowdown in 4G LTE wireless backhaul applications. 
+
+Moving on to enterprise storage, and as I mentioned, this was a new end market for Avago in Q3, addressed by LSI's 
+hard disk drive and service storage connectivity product lines. Starting in Q4, this end market will also include 
+contributions from the recent PLX acquisition. 
+
+For fiscal Q3, enterprise storage revenue came in also as expected and represented 32% of our total revenues. Hard disk 
+drive was strong as we benefited from seasonal strength in this end market, as well as certain design wins for custom 
+solid-state drive controllers within the quarter. Our RAID channel in hard drives grew both in near-line as well as 
+enterprise platforms and we saw strength in 3.5 inch desktops. 
+
+Demand also for our preamp products was strong as customers built into expected seasonal strength in the quarter. Our 
+server storage connectivity business, which include our SAS, RAID silicon adapter and software solutions continue to 
+be very stable in Q3. Looking forward to Q4, our enterprise storage end market expects mid-single digit sequential 
+revenue growth for the core business without contribution from the PLX business. Including PLX contribution, we 
+expect sequential revenue growth for this end market to be a little higher than 10%. 
+
+In Q4, we expect server and storage connectivity to grow significantly as our server OEM customers start launching 
+new Grantley-based platforms using our 12G SAS solutions. And we expect our HDD business, hard disk drive 
+business, to grow more directly, reflecting usual seasonality in the second half of the year. 
+
+Finally, moving on to our industrial and our smallest end market, this does also include LSI's IP licensing business, and 
+in fiscal Q3 this end market saw strength compared to the prior quarter and represented 13% of our total revenues. 
+Industrial resales in particular were even stronger, especially in Asia and Japan. And overall distributor inventory 
+continued to decline within the quarter. Looking into Q4, we expect our industrial to continue to grow with mid-single 
+digit sequential growth rate, however, after such a strong Q3 we expect industrial resales to moderate and we're closely 
+watching Europe for weaker demand trends. However, we continue to see strength in Japan and China. 
+
+So in summary for Q4 we expect revenue to grow – consolidated revenue to grow sequentially in all our end markets; 
+very strong 60% plus in wireless, low-single-digits sequential growth in wired, a little higher than 10% growth in 
+enterprise storage and mid-single digit growth in industrial. This leads to our overall expectation that revenue from 
+continuing operations for fourth quarter fiscal 2014 to sequentially increase around 20%. Similar to what we 
+experienced last year, we currently expect the increase in wireless demand to sustain into the first quarter of our fiscal 
+2015. 
+
+With that let me now turn the call over to Tony for a more detailed review of third quarter fiscal 2014 financials. Tony? 
+
+Anthony E. Maslowski 
+
+Thank you, Hock and good afternoon, everyone. As we've previously announced, we have definitively agreed to sell 
+our Flash and Axxia networking businesses, and we currently expect both of these transactions to close in Q4 fiscal 
+2014. Accordingly, the financial results and tables included in our third quarter fiscal year 2014 earnings press release 
+classify these businesses as discontinued operations. As a reminder, we acquired both of these businesses in the LSI 
+transaction. 
+
+
+Before reviewing the third quarter fiscal 2014 financial results, I want to remind you that my comments today will 
+focus primarily on our non-GAAP results from continuing operations unless otherwise specifically noted. A 
+reconciliation of our GAAP and non-GAAP data is included with the earnings release issued today and is also available 
+on our website at www.avagotech.com. 
+
+Since the guidance we provided for the third quarter included expected contributions from both Flash and Axxia 
+businesses, I will provide Q3 revenues on a basis comparable to guidance, followed by detailed financial results for 
+continuing operations only. Please also note that Q3 results include contributions from continuing operations of 
+acquired LSI businesses while prior periods mentioned do not, as the LSI acquisition was completed at the beginning of 
+Q3 2014. In addition, the Q3 financial results do not include any contributions from PLX, which closed in Q4. 
+
+Now on to our Q3 results, relative to the guidance we provided in May, our Q3 non-GAAP revenues including 
+contributions from Flash and Axxia businesses now classified as discontinued operations were $1.394 billion, coming 
+in at the high end of our guidance. 
+
+Now turning to a more detailed discussion on financial results for continuing operations for the third quarter, Q3 
+revenues were $1.287 billion and all our end markets performed as expected. Foxconn was a greater than 10% 
+customer in fiscal Q3. Our Q3 growth margin from continuing operations was 57%, which is above our guidance range 
+of 54% to 56%. Please remember that our guidance range included expected contributions from Flash and Axxia 
+businesses, both of which typically run at a lower average gross margin than the rest of the business. Flash and Axxia 
+are now classified as discontinued operations and are not included in gross margin for the quarter. This combined with 
+our revenues coming in at the high end of guidance resulted in gross margins above our original guidance. 
+
+Turning to operating expenses, R&D expenses were $219 million and SG&A expenses were $88 million, driving total 
+operating expenses for Q3 to $307 million. As a percentage of sales, R&D was 17%, SG&A was 7% of net revenue. 
+The guidance we had provided in May for Q3 operating expenses was $386 million, which included the Flash and 
+Axxia businesses. After adjusting for the impact from discontinued operations, our Q3 operating expenses were 
+approximately $20 million better than our expectations in May, primarily due to progress in our cost reduction program 
+associated with the LSI acquisition. 
+
+Income from operations for the quarter was $428 million and represented 33% of net revenue. Taxes came in at $24 
+million for Q3, $4 million above our guidance; this was primarily due to higher income than forecast. Q3 net income 
+was $347 million and Q3 earnings per diluted share were $1.26. 
+
+Q3 interest expense and other was $57 million, specifically interest expense related to our debt was $55 million. Our 
+share-based compensation in Q3 was $50 million. The breakdown of the expense for Q3 includes $6 million in cost of 
+goods sold, $20 million in R&D, $24 million in SG&A. 
+
+In Q4 2014 we anticipate share-based compensation will be approximately $52 million and this includes the estimated 
+impact of the PLX acquisition. Just as a reminder, our definition of non-GAAP net income excludes share-based 
+compensation expense. 
+
+Moving to the balance sheet, our days sales outstanding were 39 days, an improvement from the prior quarter's 42 days. 
+Our inventory ended at $482 million and days on hand were 79 days, which decreased seven days from Q2. We ended 
+the quarter with a cash balance of $1.277 billion and generated $314 million in operational cash flow. As a reminder, 
+the PLX acquisition which consumed approximately $310 million in cash closed after the quarter ended. 
+
+We spent $95 million on capital expenditures. For Q4, we expect CapEx to be approximately $220 million which 
+primarily relates to spending to support our continued build-out of FBAR capacity as well as Avago LSI integration 
+activities supporting IT and a campus rationalization. 
+
+During the quarter we did not purchase any shares. We currently expect to use some of the anticipated net proceeds 
+from the sale of the Flash and Axxia businesses less the payment for the PLX acquisition towards paying down a 
+portion of our outstanding term loan before the end of this calendar year. On June 30, 2014 we paid a quarterly cash 
+dividend of $0.29 per ordinary share, which consumed $73 million of cash. This dividend was raised by $0.02 from the 
+
+
+prior quarter. Since the inception of our dividend program in Q2 of 2011 to-date our financial performance has allowed 
+us to increase our dividend each quarter. As a reminder, our board reviews and determines our dividend policy on a 
+quarterly basis based on our financial performance and other factors deemed relevant by our board. 
+
+Now, let me turn to our non-GAAP guidance for fourth quarter of fiscal 2014. This guidance reflects our current 
+assessment of business conditions. We do not intend to update this guidance. Our Q4 guidance includes the estimated 
+effect of the PLX acquisition which closed on August 12, about a week-and-a-half into our quarter. This guidance is for 
+results from continuing operations only and does not include any contribution from the Flash or Axxia businesses. 
+
+Net revenue is expected to grow in the range of 18% to 22% from Q3. Gross margin is expected to be 56%, plus or 
+minus one percentage point. Operating expenses are estimated to be approximately $307 million. Taxes are forecasted 
+to be approximately $38 million. Net interest expense and other expected to be approximately $53 million. And finally, 
+the diluted share count forecast is for 279 million shares. 
+
+I'm very pleased with the speed of our business' evolution as in a very short period we have significantly transformed 
+Avago, increasing our scale considerably with the LSI acquisition while also selling product lines that do not 
+strategically fit with our long-term business model. This combined with our progress on restructuring cost synergies is 
+driving our non-GAAP operating margins for continuing operations over 30%. 
+
+That concludes my prepared remarks. Operator, please open up the call for questions. 
+
+Q&A 
+
+Operator 
+
+Certainly. [Operator Instructions] We would just ask that you keep your questions to a minimum of one and one 
+follow-up question. [Operator Instructions] And our first question comes from John Pitzer from Credit Suisse. 
+
+<Q - John W. Pitzer>: Yeah, good afternoon, guys. Thanks for letting me ask the question. Hock, Tony 
+congratulations on a strong quarter. Hock, my first question is just on the wireless build business. I'm wondering in the 
+October guidance if you can help us better understand, up 60% sequentially. How much of that is unit versus content 
+and in addition to that, if you think about the content trends in the LTE market in China, where are we today and where 
+can you expect that to go over time? 
+
+<A - Hock E. Tan>: Wow, those are lot of questions. But let me take the broader question, which is what is content 
+versus unit. I would say probably one-third unit, two-third content. It's probably roughly what our overall wireless 
+revenue represents. It's hard to really measure because it's more than just content. It's the mix of products that also starts 
+to shift through it all. But for purpose of your addressing it in a fairly simple, direct manner, probably one-third due to 
+unit growth and two-thirds due to content is what's driving the overall expansion of the revenues. 
+
+And to answer your question, yeah it's all LTE phones. As you know, LTE phones has not only to factor in more and 
+more LTE bands, roaming bands in multiple continents through multiple carriers, it's also related to the fact that it has 
+to be backward compatible if you have a bunch of 3Gs and 2Gs including CDMAs. So the number of bands in every 
+LTE smartphone increases more than linearly. I hate to use the word exponentially, but it almost feels that way. And 
+really, the more bands they use in LTE, the more chances there are that FBAR and FBAR related content is required. 
+Not every LTE band needs an FBAR, but the more bands there are, the more coexistence issues exist, especially like in 
+China, China Mobile, where Wi-Fi exists and the TD-LTE bands 39,40,41 has issues operating with Wi-Fi. That tends 
+to bring in increased instances of usage of FBAR. 
+
+So our content in China content-wise has gone up quite significantly, as I indicated in my remarks. And the trend, my 
+view is there to stay. Now, there is also going on the possibility that there are clever ways to do it when you find ways 
+to reduce the band by keeping the phone usage within narrower regions. And so that does eliminate – there's a counter 
+trend to reduce in some of these phones the expansion of content. But if you look at it broad based, longer term trend, it 
+is a trend towards increasing content. 
+
+
+<Q - John W. Pitzer>: Hock, that's really helpful. Then as my follow-up, I believe in your prepared comments you 
+said there were some capacity constraints in your wired business. I wondered if you can just talk more specifically 
+exactly where those constraints were? How much did it limit revenue in the just reported quarter? And does the 
+guidance for October assume those capacity constraints have gone away? 
+
+<A - Hock E. Tan>: Well, it's really related to our fab on edge-emitting lasers. A lot of edge-emitting lasers that came 
+with our CyOptics acquisition a year-and-a-half ago, and a large part of it goes into the same fab, the same product 
+process line, goes into what I call metro networks, single-mode fiber optics as well as that same production line goes to 
+produce lasers, components for fiber-to-the-home deployment. And as both strengthened last six months, our 
+occupancy just jammed. 
+
+As I mentioned, 4G LTE backhaul seems to have slowed down somewhat, so that enables us to push more into 
+fiber-to-home deployments, which is very helpful. But we feel capacity constraint even as we expand our capacity 
+gradually this quarter, Q4 will still capacity constraint. 
+
+<Q - John W. Pitzer>: Okay. Thanks again. 
+
+<A - Hock E. Tan>: As far as how much revenues, I don't want to be speculative. We don't sell it. We don't tell it. 
+
+<Q - John W. Pitzer>: Great. Thanks, Hock. Congratulations again. 
+
+<A - Hock E. Tan>: Thank you. 
+
+Operator 
+
+Our next question comes from Vivek Arya from Bank of America Merrill Lynch. 
+
+<Q - Vivek Arya>: Thank you for taking my question. Hock, maybe another one on wireless; when I look at the last 
+few years, you've always had very strong seasonal Q4s, and then we have seen some modest seasonal declines in Q1, 
+flat to down 2%, 3% or so. Now, given the very sharp 60% plus growth that you are expecting in Q4, how should we 
+think about the potential seasonal correction in Q1? Or do you think that there's a possibility that growth in China could 
+perhaps correct for any moderation at your North American customer? 
+
+<A - Hock E. Tan>: Well, Vivek, if I could correct that image, that picture's perception slightly, you're right. 
+Historically Q3, Q4 were our seasonally up quarters and Q1 rollover. But then what happened the last couple years was 
+that has changed. The seasonally strong quarter is Q4 and Q1 maintaining before it rolls over in Q2. And given that 
+with more recent trends and given what were behind the reasons behind those recent trends, compounded with 
+continuing strength in China LTE phones, I would say I would expect, as I mentioned in my opening remarks, that our 
+wireless strength this Q4 will likely sustain in Q1 before rolling over in Q2. 
+
+<Q - Vivek Arya>: Got it. Then maybe as a follow-up, as I look at the trajectory of operating expenses, obviously very 
+strong performance in controlling OpEx and with all the divestitures that we have done. When I look back prior to the 
+LSI acquisition, I think your OpEx to sales was around 20%, 21-ish% and your Q4 guidance suggest that you're already 
+at those levels. So I'm trying to put the OpEx to sales as you have had historically in the context of more room that you 
+have in the $200 million or so that you had outlined in terms of the cost synergies. So the other way of asking the 
+question is how should we think about OpEx trajectory over the next few quarters? Thank you. 
+
+<A - Anthony E. Maslowski>: Okay. So, Vivek, obviously we're very pleased with the progress. But in that first 
+bucket of what we call real savings, we still have a lot to do. There's stuff to do for the next four quarters. As I 
+mentioned, those 1,100 people are identified. They're rolling off into these next four quarters. So there's room. So I 
+think the other way to look at it is if you look at the number of the $307 million that we guided to, that includes 
+approximately $10 million from PLX. So you can see we're continuing to do things quarter-over-quarter. Now, as I've 
+always said, for the six quarters of OpEx reduction, we're going to get some quick reductions in the first couple of 
+quarters like you saw. We kind of flatten out here for the next couple of quarters, and then you'll see it reaccelerate into 
+
+
+Q3 and Q4. Again, offset against any standard merits or bonus increases we do in the coming year. 
+
+<Q - Vivek Arya>: Is there a certain ratio, Tony, that we can target? Or certain absolute level as we think about, let's 
+say. The back half of fiscal 2015 in terms of the OpEx run rate? 
+
+<A - Anthony E. Maslowski>: No. Because, again, then I have to make some guesses on revenue out there for us. So I 
+can't really do that. But, again, I think you can see that we're making good progress, and I'd definitely not make a 
+headline that we're done somehow. That's the key point we want to get across. 
+
+<Q - Vivek Arya>: Thank you. 
+
+Operator 
+
+Our next question comes from Ross Seymore from Deutsche Bank. 
+
+<Q - Ross C. Seymore>: Hi, guys. Congrats on the strong results. Just had a question outside of wireless, specifically 
+on your wired infrastructure as well as your industrial businesses. There's been a number of companies that have 
+pointed to a little bit of a slowing there and investors have been a little bit of concerned about a peaking in the cycle. So 
+Hock, I guess my question is what are you seeing as far as the balance between supply and demand in those segments 
+and how are you feeling cyclically? 
+
+<A - Hock E. Tan>: Well, they are both very different markets, by the way, of course. So if I address industrial, you're 
+right, there is a slowing down in the growth of industrial. And I would say industrial, as I mentioned, last quarter, Q3, 
+was industrial resale [indiscernible] (32:08). Our revenue ship rate, which goes through largely industrial to 
+distributors, but really resale, what our distributors sell out there which we [ph] trade (32:18), it was high single-digits 
+last quarter sequential growth, industrial. And I think this quarter it will slow down to probably mid-single digit is what 
+I'm indicating. So there is a slowdown, but it depends on the geography that we are looking at. 
+
+I see China and Japan continuing to still be okay, but I see Europe as definitely flattening and starting to slow down ,I 
+mean more than flatten, starting to slow down. North America has been flat the last three quarters, maybe there's been a 
+slight increase now to sort of make it up. So you have a mix set of circumstances and I suspect it also depends on 
+products one sells. Like, we serve two, three industrial end markets and I'd tell you they behave very differently. In 
+servo drives, which is one big area in industrial consumption where we sell a lot of our products into, it's still good. 
+And servo drives are used in motors and all that, still good. Inverters continues to be weak. Factory automation, up 
+sometimes, down sometimes, mixed habit, and we continue to see this mixed bag. And part of servo being strong is 
+related obviously to the ramp-up of capacity for some of these product ramps that we are talking about in China. 
+
+<Q - Matt Diamond>: Okay, great. Hock, I'm sorry, this is actually Matt Diamond, I'm calling on behalf of Ross who 
+just got disconnected. I want to ask you about the pace of debt repo going forward. Could you shed a little more light 
+on that? 
+
+<A - Anthony E. Maslowski>: Yeah, so as we mentioned, definitely through the sales and also the purchase of PLX 
+we'll be making some debt pay-down and then also from free cash flow going forward. We haven't really said – we said 
+it's going to be kind of in chunks, something in the $0.5 billion range when we do these payoffs and we're not 
+committing to a quarter-over-quarter type steady pay down. I think you can see what the free cash flow the company 
+generates and you can model a modest amount of that going toward the debt pay down over time. 
+
+<Q - Matt Diamond>: Understood. Thanks so much. 
+
+<A - Anthony E. Maslowski>: All right. 
+
+<A - Ashish Saran>: Can we have the next question, please? 
+
+Operator 
+
+
+Yup. Our next question comes from Blayne Curtis from Barclays. 
+
+<Q - Blayne Curtis>: Hey, good afternoon guys and a great quarter. I was wondering if you could just go back to 
+wireless, Hock, obviously a large North American ramp. Can you just talk about what you're seeing in the China LTE 
+market? It was strong for you last quarter, are you seeing that continuing? There has been some indications of some 
+inventory moderation, what do you think? 
+
+<A - Hock E. Tan>: No, we continued to see strength. What may be our benefit is most of our demand are very, very 
+much in LTE folks. And that's a niche part of the overall China market, as you well know, even though it's a 
+fast-growing niche. And that strength, that demand has been holding up very nicely. We have not seen any significant 
+hiccups and I think it's not just units that's driving us, it's content in those phones that is also helping our volume. 
+
+<Q - Blayne Curtis>: Okay. Thanks. And then for Tony, on the CapEx, is this – this build, is this a one-time in 
+October and you go back to that more $100 million a quarter run-rate? And with that addition, how much was FBAR 
+capacity in October? 
+
+<A - Anthony E. Maslowski>: Yeah, I'd say that well over half has to do with FBAR, first off. And as we've always 
+said, whenever we add FBAR capacity this capacity pays itself off fairly quickly. So you can see that the couple 
+hundred million quarter-over-quarter in wireless revenue, that's FBAR related. And if you put in any reasonable gross 
+margin you can see that we're going to pay for this CapEx pretty quickly. 
+
+Now, whether or not this continues on this trend forever, it's doubtful. We have to get some of this FBAR capacity in 
+place. We also had a building that we bought that was supposed to happen at the end of Q3 that pushed into Q4, it was 
+a little under $20 million. So I think that had impact as well. But we're not giving any long-term CapEx as of yet. You'll 
+see us do it in a smart fashion as soon as we have line of sight for opportunities. 
+
+<Q - Blayne Curtis>: Okay. Thanks, guys. 
+
+Operator 
+
+Okay. Our next question comes from James Covello from Goldman Sachs. 
+
+<Q - James Covello>: Great, guys. Good afternoon. Thanks so much for taking the question. Terrific results, 
+congratulations. First, I guess, a high level question, I think immediately after the LSI acquisition you guys had talked 
+about kind of on a go-forward basis you seeing this being a 6% to 8% long-term growth business, if I remember that 
+correctly? Is there any update to that number, given the puts and takes to the product portfolio since then? 
+
+<A - Hock E. Tan>: Good question, James. Yes. We did say 6% to 8%, because we're doing the math and that may 
+still be right. But in the short-term if someone said before me long time, all our four cylinders are firing, and one is 
+probably on turbo charge. So it's probably the wrong time to ask that question, but we probably still believe it's a 
+long-term model that is probably maybe high single digits sustainable growth. 
+
+<Q - James Covello>: Terrific. That's very helpful perspective. For a follow-up, relative to the commentary on Europe 
+industrial in particular, do you think it's a situation where customers are just kind of seeing the headlines about slower 
+growth? Or some issues in some of the European areas and they're taking a more conservative approach on the 
+inventory side? Or do you think that there's actual inflections in demand in some of those areas? Thank you. 
+
+<A - Hock E. Tan>: Thank you. Well, there are multiple reasons. In Europe there is this Russian situation that's not 
+helping in many ways in particular to Europe. Then there has been, and we've noticed that now for a while, more 
+recently last couple of quarters, is exchange rate. And European – industrial OEMs comes from two locations in the 
+world, Japan, Germany. And the German OEMs operating with the euros have an issue on exchange rate compared to 
+the Japanese. That's why we're seeing Japanese demand from industrial OEMs product sustaining whereas Europeans 
+are flattening. I suspect both have something to do with it. One is domestic demand for us in Europe, but two is also 
+exports related to competitiveness. 
+
+
+<Q - James Covello>: Very helpful. Thank you so much. 
+
+Operator 
+
+Our next question comes from Harlan Sur from JPMorgan. 
+
+<Q - Harlan L. Sur>: Thank you for taking my question and solid job on the quarterly execution. Following on the 
+prior question on the OpEx reductions, of the $80 million of lower OpEx that you delivered in Q3 relative to your prior 
+guidance, I estimate that about $55 million of that benefit coming from the SSD and networking standard products 
+businesses, which are now lumped into discontinued ops, which means that you guys probably captured about $20 
+million to $25 million of true OpEx synergies. And more importantly implies that you still have another roughly $25 
+million of synergies to capture per quarter on a go-forward basis. Is that kind of how we should think about it? 
+
+<A - Anthony E. Maslowski>: Again, as we mentioned earlier, that you're correct on the first point. The reshaping of 
+the business, that second bucket we've kind of filled up nicely on an annualized basis north of $200 million. On that 
+first one you got to remember that the $200 million commitment included both OpEx and some above the line as well. 
+So you have to take that $50 million per quarter and say some of it goes above the line. So yes, we made great progress 
+in this first quarter. You can see another, like I said, implied progress of another $10 million approximately in Q4, and 
+then we'll get the rest of it through the next four quarters. 
+
+<Q - Harlan L. Sur>: Got it. Great. And then good to see the growth in your enterprise storage business; as you think 
+about your HDD segment more from a longer-term perspective and given what you've observed thus far from the LSI 
+team's roadmaps and discussions with your HDD customers, what's the opportunity for you guys to actually gain some 
+market share on the HDD controller side, just given that your other competitor has close to 70% market share and 
+there's probably a bias for your customers to drive a more balanced supplier mix? 
+
+<A - Hock E. Tan>: You know it's still early in the game, but also one thing I noticed about this business, it's very, 
+very stable. And there are no room for heroes and we're not into heroics. My best answer to what you said is, no, I think 
+I see this business as continuing to be single-digit growth and very stable, is one of the operating words. This is more a 
+business of maximizing operating return from a very stable top line. 
+
+<Q - Harlan L. Sur>: Got it. Thank you. 
+
+<A - Hock E. Tan>: Thank you. 
+
+Operator 
+
+Okay. Our next question comes from Craig Hettenbach from Morgan Stanley. 
+
+<Q - Craig M. Hettenbach>: Yes. Thank you. Given the strong 60% growth expected in wireless, are you seeing 
+anything in terms of the order environment or visibility in terms of how customers are placing orders? 
+
+<A - Hock E. Tan>: In wireless? 
+
+<Q - Craig M. Hettenbach>: Yes. 
+
+<A - Hock E. Tan>: Oh, yeah, lead times have stretched out and it's – in our wireless business we pretty much have 
+our entire quarter's backlog on the books already. So lead time has definitely stretched out and our fab, as we have said 
+before and continue to say, is running full. And so it's – we have a very well-managed environment currently. 
+
+<Q - Craig M. Hettenbach>: Got it. Okay. Thanks for that. If I could follow-up on the margin front, Tony, just 
+looking at you printed over 33% margins this quarter, the model prior to LSI was 29% to 32% and I know you were 
+kind of on the path of exceeding that, but given the very firm margins here, how are you thinking about over the 
+intermediate to longer term in terms of the potential op margins you can put up? 
+
+
+<A - Anthony E. Maslowski>: Well, again, give us a little more time. We want to get a couple quarters under our belt 
+of the two significant businesses. We'll probably do some update to our long-term model both on OpEx, operating 
+margin sometime in the next couple of quarters. But you can see that we accomplished the north of $30 million. But 
+again, we don't want to give you any implication that we're done with anything. There's a lot left to do here. There's a 
+lot left to drive out of the cost structure of the combined company. So again, you have to be a little patient on a 
+long-term model update. 
+
+<Q - Craig M. Hettenbach>: Okay. Thanks. 
+
+Operator 
+
+Thanks. Our next question comes from JoAnne Feeney from ABR Investment Strategy. 
+
+<Q - JoAnne Feeney>: Thank you. And congrats on the quarter and the outlook. I would like to ask a longer-term 
+question on the wireless front, obviously benefiting pretty strongly this year from content gains as well as unit growth. 
+I'm wondering what you see in two years, three years? Is this sort of a last hurrah for significant content gains? Or do 
+you have visibility towards further gains? And what sort of magnitude do you anticipate? And would those be in 
+flagship models or just really from the spread of 4G to emerging markets? 
+
+<A - Hock E. Tan>: Okay. I can address it very, very simply, JoAnne. We have visibility to the next couple 
+generations somewhat, as we engage in looking through architectures, our RF architectures on high end LTE 
+smartphones. And the number of bands and by extension one-for-one the number of filters that goes into the next 
+generation and one and plus two after that, the increased bands is exponential. It is even been getting more and more 
+bands into each phone. And our sense of it is we think that kind of horizon that we have some, obviously some sense, 
+some visibility of, not perfect visibility but definitely some, especially as it relates to RF architectures for smartphone 
+LTE handsets be it a 4G, 4.5G and obviously potentially beyond that. There's just more and more bands and we see that 
+linear expansion of demand for filters. 
+
+We also see miniaturization, which actually requires then all those bands to be squeezed into tighter and tighter spaces, 
+which then promotes the use more and more of creative architectures, that relates to PADs, especially PADs. Also the 
+requirement for not just envelope tracking which we already know is happening, but carrier aggregation, which 
+therefore pushes in more bands per phone as carriers seek to multiple bands in the same region that they have. What all 
+we have seen so far, and this is not just sticking a finger in the air and hoping for the best, what we've seen in what 
+engagements we are working with on phone OEMs is that future phones, future generation phones are going to require 
+a substantial increase in number of bands per phone and with increased amount of content. 
+
+From our perspective as we see this current quarter, this current generation, as illustrated by this current generation, 
+content is the biggest driver of growth for us. And with content, as you are seeing here, what Tony said, it drives better 
+and better product margin. 
+
+<Q - JoAnne Feeney>: Great. That's really helpful, Hock. Thank you. And then as a follow-up question on the 
+capacity side of FBAR and FBAR-related products and your competitor's BAW product line. You both now are adding 
+capacity for next year. It sounds like you both are fairly constrained to meet demand this year. Have you looked at the 
+total markets? Are you seeing any third-party providers of FBAR/BAW-type filters that could compress pricing in the 
+future? And do you see the current capacity additions as in any way threatening the stability of the pricing environment 
+for those products? 
+
+<A - Hock E. Tan>: You know our filters, and with 4G and co-existent issues and more and more bands per phone in 
+each region and carrier aggregation driving into the mix, it's not been a commodity in our filters, whether they be SAW 
+
+– well, SAW filters maybe still is, but I can assure you a lot of these FBAR filters, BAW filters are not commodities 
+because it is RF architectures that matter as much. And it's whether you put in switching, whether you put in 
+multiplexes as we call it, multiplexes is a component that puts, aggregates, I won't use the word integrates, but 
+aggregates multiple FBAR filters into one chip. It's coming into play more and more; and how you architect this whole 
+
+thing is just as important as the very existence of just FBAR filtered fundamental performance. 
+
+So no more tricks here now, and those tricks are getting harder and harder. So we're not unduly concerned, though we 
+are paranoid about the existence of future players into this marketplace, because it's more than just being able to 
+produce an FBAR filter, it's also being able to design them together in a phone. 
+
+<Q - JoAnne Feeney>: Okay. Great. Thank you very much. That's very helpful. 
+
+Operator 
+
+Great. And our last question comes from Ian Ing from MKM Partners. 
+
+<Q - Ian L. Ing>: Yes. Thanks and congrats on the strong execution. First, in wired infrastructure, how should we 
+think of bidirectional optics from here? Are you going to expand more products beyond Nexus 9000 at your existing 
+OEM? Or get into new OEMs? And what about the competitive landscape of new entrants possibly? 
+
+<A - Hock E. Tan>: Well, yeah, to answer that question bidirectional, yeah, bidirectional is an exciting thing for us. 
+We put it out in – it's not new concept, though execution of it is one of the first. So we're doing it for 40G, and 
+obviously we're working on doing it for 100G. It's just an expanding – well, it's a step up, but it's the same concept. 
+And that's going on. And we're very excited about that. But there are multiple other proprietary solutions too in this 
+marketplace that we're also working on, but this is the kind of thing that we love to do in fiber optics. 
+
+<Q - Ian L. Ing>: Thanks. And then what are your thoughts on the changing RF landscape? You've got venders 
+consolidating, there's more rational pricing possibly with just three players. You've got content increases. Any thoughts 
+on perhaps more meaningfully going after more of the RF TAM? Perhaps more sockets that you otherwise wouldn't go 
+after, things like SAW and TC-SAW, et cetera? 
+
+<A - Hock E. Tan>: No, we're very good in certain specific areas. And as I mentioned many times before, the business 
+model of this company is one of being very, very differentiated with technology and basically sticking to what we're 
+very good at. We're very good at filtering. We're very good at combining power amplifier with FBAR filters, and 
+making interesting results out of it, be it envelope tracking, carrier aggregation or a combination of both. We're sticking 
+to that. And I think there's enough opportunities for us, especially the point I made earlier to a question from JoAnne, is 
+that we see the content for filters is just continuing to increase pretty dramatically. And unlike our amplifiers, while you 
+can integrate multiple bands to be supported by one single multi-mode multi-band power amplifier, you need one filter 
+for each band. So that increase, that demand, that volume increase is going to be very exciting for us over the 
+foreseeable future. 
+
+<Q - Ian L. Ing>: Okay. Thanks. So ample runway on the existing FBAR strategy, thank you. 
+
+<A - Hock E. Tan>: There is. 
+
+Ashish Saran 
+
+Thank you, operator. Thank you for participating in today's earnings call. We look forward to talking to you again 
+when we report our fourth quarter fiscal year 2014 financial results. 
+
+Operator 
+
+Ladies and gentlemen, that concludes Avago's conference call for today. You may now disconnect and have a great 
+day. 
+
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2016, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

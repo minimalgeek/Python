@@ -1,0 +1,929 @@
+Q4 2014 Earnings Call 
+
+
+Company Participants 
+
+• Mike Saviage 
+• Shantanu Narayen 
+• Mark S. Garrett 
+Other Participants 
+
+• Brad Zelnick 
+• Brent Thill 
+• Walter H. Pritchard 
+• Mark L. Moerdler 
+• Kash Gopalan Rangan 
+• Ross MacMillan 
+• S. Kirk Materne 
+• Brendan J. Barnicle 
+• Steven M. Ashley 
+• Shateel T. Alam 
+• Robert Breza 
+• Jay Vleeschhouwer 
+• Samad S. Samana 
+• Philip Alan Winslow 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon, ladies and gentlemen. I would like to welcome you to the Adobe Systems Fourth Quarter Fiscal Year 
+2014 Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the 
+speakers' remarks, there will be a question-and-answer session. [Operator Instructions] Thank you. 
+
+I would like to now turn the call over to Mr. Mike Savage, Vice President of Investor Relations. Please go ahead, sir. 
+
+Mike Saviage 
+
+Good afternoon. Thank you for joining us today. Joining me on the call are Adobe's President and CEO, Shantanu 
+Narayen, as well as Mark Garrett, Executive Vice President and CFO. 
+
+In the call today, we'll discuss Adobe's fourth quarter and fiscal year 2014 financial results. By now, you should have a 
+copy of our earnings press release, which crossed the wire approximately one hour ago. We've also posted PDFs of our 
+earnings call prepared remarks and slides, our financial targets and an updated investor datasheet on adobe.com. If 
+you'd like a copy of these documents, you can go to the Investor Relations page and find them listed under Quick 
+Links. 
+
+Before we get started, we want to emphasize that some of the information discussed in this call, particularly our 
+revenue, subscription, and operating model targets, and our forward-looking product plans is based on information as 
+
+
+of today, December 11, 2014, and contains forward-looking statements that involve risk and uncertainty. 
+
+Actual results may differ materially from those set forth in such statements. For a discussion of these risks and 
+uncertainties, you should review the forward-looking statements disclosure in the earnings press release we issued 
+today, as well as Adobe's SEC filings. 
+
+During this call, we will discuss GAAP and non-GAAP financial measures. A reconciliation between the two is 
+available in our financial targets document and in our updated investor datasheet on Adobe's Investor Relations 
+website. 
+
+Call participants are advised that the audio of this conference call is being webcast live in Adobe Connect and is also 
+being recorded for playback purposes. An archive of the webcast will be made available on Adobe's Investor Relations 
+website for approximately 45 days and is the property of Adobe. The call audio and the webcast archive may not be 
+re-recorded or otherwise reproduced or distributed without prior written permission from Adobe. 
+
+I'll now turn the call over to Shantanu. 
+
+Shantanu Narayen 
+
+FY 2014 was an outstanding year. Our achievements included better-than-expected Digital Media ARR and 
+subscriptions, strong bookings growth for Adobe Marketing Cloud, broad industry recognition of our product 
+leadership, and great progress in growing and deepening our customer relationships. 
+
+In Q4, we delivered revenue of $1.07 billion, contributing to total revenue of $4.15 billion in FY 2014. 
+
+In Digital Media, Creative Cloud continued its strong performance. As of the end of Q4, Creative Cloud adoption grew 
+by more than 644,000 to over 3.45 million subscriptions, significantly exceeding our annual target. Subscription growth 
+was fueled by continued movement of the Creative Suite installed base to Creative Cloud, as well as the addition of 
+customers that are new to Adobe Creative products. 
+
+We saw strength across all our offerings. Creative Cloud Complete, Creative Cloud for teams in the channel and on 
+Adobe.com, Creative Cloud Single App and the Creative Cloud Photography bundle. 
+
+Creative Cloud innovation continues to accelerate. At MAX, we unveiled another major update to Creative Cloud, 
+which includes significant new versions of CC desktop tools, a new family of complementary mobile apps, touch 
+support for Microsoft Windows 8 and Surface Pro 3, and the new Creative Profile, which connects Creatives to their 
+work, assets, and communities. 
+
+We made significant strides in realizing our vision for Creative Cloud as much more than desktop tools. The Behance 
+Creative community continues to thrive, growing to over 4 million members. We launched a public beta of a Creative 
+SDK that enables the delivery of third-party mobile apps that connect to Creative Cloud. This move comes on the heels 
+of our September announcement when we acquired Aviary, a developer of mobile SDKs for the delivery of Creative 
+apps. 
+
+At MAX, we launched Creative Talent Search, a service that connects Creatives around the world with job 
+opportunities. This was the first step in making Creative Cloud a true marketplace for the Creative community. 
+
+Today, we took another major step in expanding the marketplace with the announcement of our intention to acquire 
+privately-held Fotolia, a leading service for Creatives to buy and sell photos, graphics, and video. Stock content is 
+critical for Creatives and is a large and fast growing multi-billion dollar market. 
+
+Once closed, we intend to integrate Fotolia into Creative Cloud, resulting in higher ARPU and increased revenue. We 
+also plan to continue to operate Fotolia as a standalone stock content service. Creative Cloud has become the 
+preeminent destination for Creatives, transforming how they find inspiration and deliver their best work. 
+
+
+The Document Services business continues to grow. PDF and Acrobat remain the de facto standards for document 
+creation and collaboration. In fact, we have more than 1 billion cumulative downloads of Reader on desktop and 
+mobile. In FY 2014, we drove strong year-over-year and sequential growth in Document Services ARR, primarily due 
+to strength in the adoption of Acrobat ETLAs and subscriptions. 
+
+We have introduced new mobile and cloud capabilities to increase usage of our document creation, sharing, and 
+EchoSign electronic signature services. We have permission to expand our footprint and extend our brand in these areas 
+and are excited about a major update in the first half of FY 2015. 
+
+Across our Creative and Document Services businesses, total Digital Media ARR grew to $1.95 billion at the end of 
+FY 2014. 
+
+In Digital Marketing, we achieved record Adobe Marketing Cloud bookings in Q4 and we were well ahead of our 30% 
+annual growth target. Reported revenue for Adobe Marketing Cloud in Q4 was $330 million. We continued to deliver 
+significant innovation in Adobe Marketing Cloud during Q4. 
+
+Mobile is a key focus area for us, and we launched new mobile functionality across Adobe Marketing Cloud in 2014. 
+Last month, we introduced new intelligent location marketing features, allowing companies to reach their customers 
+with targeted content based on a user's proximity to iBeacons. In October, we released cross-device targeting and 
+personalization capabilities via Adobe AudienceManager. With these capabilities, marketers now have the tools to 
+profile which individuals in a household are consuming content on a connected device at any given moment. 
+
+In the video space, we announced the availability of Adobe Primetime digital rights management across mobile apps on 
+connective devices and via HTML5 on major web browsers. We continue to drive large-scale engagements with Adobe 
+Marketing Cloud customers. Big deals in Q4 included Ford, FedEx, MasterCard, Morgan Stanley, QVC, 
+Commonwealth of Pennsylvania, and U.S. Department of Veterans Affairs. 
+
+Adobe Experience Manager and Adobe Analytics are our unique differentiators and continue to be the foundation of 
+our growth. Adobe Target and Adobe Media Optimizer solutions had strong results in Q4. One of the best performing 
+solutions in Q4 was Adobe Campaign, which came from our acquisition of Neolane last year. This is another proof 
+point of our success in integrating acquisitions to effectively expand our offerings to customers. 
+
+Adobe Primetime, which brings TV to every IP-connected screen, is gaining traction among both programmers and 
+operators in the fast-growing online video market. In October, we announced an alliance with Nielsen to deliver the 
+industry's first comprehensive, cross-platform system for measuring online TV, video and other digital content across 
+the web and apps. 
+
+Both companies will jointly market Nielsen's digital content ratings, powered by Adobe, which will give customers 
+comparable metrics to measure audiences accurately and consistently across every major IP device, including desktops, 
+smartphones, tablets, game consoles and over-the-top boxes. The Nielsen alliance builds on other Adobe Marketing 
+Cloud strategic partnerships announced earlier this year, including our relationship with advertising giant, Publicis. 
+
+With over 30 trillion data transactions measured annually by Adobe Marketing Cloud, we're in a unique position to 
+predict and report on major retail and consumer trends. Through our Adobe Digital Index Report, we recently tracked 
+Black Friday and Cyber Monday online sales. Our prediction came within 1% of the nearly $6.4 billion spent online 
+and 22% year-over-year growth versus 2013. 
+
+Another interesting statistic was that over one-fourth of Thanksgiving Day and Black Friday online sales were 
+transacted on a mobile device. Press coverage of our holiday reports was extensive across online, print and broadcast 
+channels. 
+
+Adobe Marketing Cloud continued to be recognized as the leader in numerous industry analyst reports. This quarter, 
+new recognition includes: we were named the leader in the first-ever Forrester Wave report evaluating the most 
+significant marketing cloud vendors. Adobe Marketing Cloud was positioned highest in current offering, strategy and 
+market presence. And Adobe Experience Manager was recognized as a Leader in the 2014 Gartner Magic Quadrant for 
+Web Content Management report. Adobe was positioned highest in ability to execute and placed strongly in 
+
+
+completeness of vision. 
+
+Our strong results in 2014 represent the collective efforts of our employees around the world. Creative Cloud has 
+become the preeminent destination for millions of Creatives and we're delivering more value every day. The Fotolia 
+acquisition gives us yet another opportunity to grow Creative Cloud revenue and tighten our bond with the Creative 
+community. 
+
+Adobe Marketing Cloud continues to lead in the fast-growing digital marketing category and we're seeing strong 
+partner and customer momentum. And we're shaping new opportunities for our Document Services business. All of this 
+positions us well for another strong year in 2015. 
+
+Mark? 
+
+Mark S. Garrett 
+
+Our earnings report today covers both Q4 and fiscal year 2014 results. In FY 2014, Adobe achieved annual revenue of 
+$4.147 billion. GAAP EPS was $0.50 and non-GAAP EPS was $1.29. All of these results were well ahead of the 
+annual targets we provided entering the year. 
+
+These numbers are a result of strong execution against our strategy and from some noteworthy achievements during the 
+year, in FY 2014, we reported Digital Media segment revenue of $2.6 billion, ahead of our target of $2.5 billion that we 
+communicated last December. More importantly, we built Digital Media ARR to a total of $1.95 billion exiting the 
+year, which was nearly $100 million higher than the annual target we provided last year. Helping to drive this was 3.45 
+million Creative Cloud subscriptions exiting the year, more than 400,000 higher than the target we provided a year ago. 
+
+In Digital Marketing, we drove record Adobe Marketing Cloud bookings well above our target of 30% growth for the 
+year. As we outlined in September, reported revenue for Adobe Marketing Cloud was impacted by the 
+faster-than-anticipated transition of Adobe Experience Manager and Adobe Campaign to a subscription-based revenue 
+model this year. Were it not for the quicker shift to ratable revenue, Adobe Marketing Cloud revenue would have 
+grown 21%, above our original target of 20% annual revenue growth in the year. 
+
+Other financial highlights during the year include growing deferred revenue to a record $1.16 billion, and increasing 
+our unbilled backlog to approximately $1.74 billion exiting the year. Together, this represents nearly $3 billion of 
+contracted revenue that will be recognized over time. And returning nearly $700 million in cash to stockholders 
+through our stock repurchase program. 
+
+In the fourth quarter of FY 2014, Adobe achieved revenue of $1.73 billion, at the high end of our targeted range. 
+GAAP diluted earnings per share in Q4 were $0.14 and non-GAAP diluted earnings per share were $0.36. Highlights in 
+our fourth quarter include driving strong adoption of Creative Cloud across all offerings, individual, team, and 
+enterprise; growing Adobe Marketing Cloud bookings well ahead of our target; managing expenses to deliver upside on 
+earnings per share; achieving $400 million in operating cash flow; and exiting Q4 with 66% recurring revenue. In Q4 
+of last year, the percentage was 44% and in Q4 of fiscal 2012, it was 27%. 
+
+In Digital Media, we achieved revenue of $649 million. This segment has two major components of revenue: our 
+Creative family of products and our Document Services products. In our Creative business, adoption of Creative Cloud 
+accelerated significantly quarter-over-quarter. We exited Q4 with 3.454 million Creative Cloud subscriptions. Adoption 
+across all Creative Cloud offerings grew quarter-on-quarter. Retention of Creative Cloud subscriptions including 
+renewals after promotional pricing expiration continues to track ahead of our initial projections. 
+
+Average revenue per user or ARPU within each of our Creative Cloud offerings maintained steady levels consistent 
+with results over the past year. Blended ARPU across all Creative Cloud offerings declined slightly as a result of the 
+significant increase in new Single App subscriptions. It is important to note that the unit mix between Creative Suites 
+and individual point products in our perpetual offering was approximately 50/50. We are excited that adoption of 
+Single Apps and the Creative Cloud Photography plan is expanding our market opportunity. During this growth phase, 
+
+
+we fully anticipate the percentage of Single App subscriptions will continue to grow. This strategy is driving higher 
+ARR and revenue and creates the opportunity to drive even higher revenue through ARPU-enhancing services. 
+
+Adoption of Creative Cloud for teams accelerated in Q4 with momentum in both the channel as well as on Adobe.com. 
+Our success with individual and team subscriptions and Enterprise Term License Agreements, or ETLAs, helped to 
+drive Creative ARR to a total of $1.68 billion exiting Q4 at constant currency from December of 2013, an increase of 
+$272 million quarter-over-quarter. 
+
+In Document Services, we achieved revenue of $197 million in Q4. Revenue declined slightly quarter-over-quarter, 
+offset by strong growth in ARR. Strong adoption of Acrobat ETLAs, subscriptions, and cloud services including 
+EchoSign, helped to grow Document Services ARR to $271 million exiting Q4 at constant currency rates, a $54 million 
+sequential increase over Q3. 
+
+In our Digital Marketing segment, there are two components. The first is revenue from our Adobe Marketing Cloud 
+offering and our momentum as the leader in this market continued. We achieved revenue of $330 million in Q4. More 
+importantly, we drove record bookings that put us ahead of our goal of 30% bookings growth for the year. 
+
+Our Adobe Marketing Cloud success is being driven by an increase in the size of transactions, number of solutions per 
+customer, international expansion, and growth in partner-driven business. Adobe Analytics, Experience Manager, 
+Campaign, Target, and Media Optimizer all had strong bookings, which sets us up nicely for FY 2015. 
+
+The mix of Adobe Experience Manager and Campaign that was ratable versus perpetual revenue grew to approximately 
+75% for the year. As you recall, we explained in September, our target for that mix entering the year was 
+approximately 60%. Were it not for this incremental shift of approximately $60 million of revenue to ratable with these 
+two solutions, we would have achieved 21% Marketing Cloud revenue growth for the year. The growth rate would 
+have been greater than 25% for the year, if no shift at all had occurred and we are reiterating our 25% Marketing Cloud 
+revenue CAGR. 
+
+The second component of our Digital Marketing segment is revenue from the LiveCycle and Connect businesses, 
+which contributed $44 million in Q4 revenue, consistent with our expectations. Print and Publishing segment revenue 
+was $50 million in Q4. 
+
+Geographically, we experienced stable demand across our major geographies, and we saw increased adoption of 
+Creative Cloud subscriptions in Japan. Asia as a percent of total revenue remains lower given Creative Cloud and 
+Marketing Cloud adoption trails other geographies. 
+
+From a quarter-over-quarter currency perspective, FX decreased revenue by $11.7 million. We had $12.2 million in 
+hedge gains in Q4 FY 2014 versus $1.1 million in hedge gains in Q3 FY 2014. Thus the net sequential currency 
+decrease to revenue considering hedging gains was $0.6 million. From a year-over-year currency perspective, FX 
+decreased revenue by $8.8 million. We had $12.2 million in hedge gains in Q4 FY 2014, versus $3.1 million in hedge 
+gains in Q4 FY 2013. Thus the net year-over-year currency increase to revenue considering hedging gains was $0.3 
+million. 
+
+In Q4, Adobe's effective tax rate was 21% on both a GAAP and non-GAAP basis. The GAAP rate was lower than 
+targeted primarily due to stronger than forecasted profits outside the U.S. 
+
+Employees at the end of Q4 totaled 12,499 versus 12,368 at the end of last quarter. Our trade DSO was 50 days, which 
+compares to 52 days in the year-ago quarter, and 48 days last quarter. 
+
+Cash flow from operations was $400 million in the quarter. Our ending cash and short-term investment position was 
+$3.74 billion compared to $3.52 billion at the end of Q3. 
+
+In Q4 FY 2014, we repurchased approximately 1.8 million shares at a total cost of $127 million. For the year, we 
+repurchased 10.9 million shares at a total cost of $689 million. 
+
+
+Now, I would like to go over the acquisition announcement we made today, as well as provide our financial outlook. 
+Today we announced a definitive agreement to acquire privately-held Fotolia in an all-cash transaction of $800 million. 
+We expect it to close in the second half of Q1, and add approximately $75 million in FY 2015 revenue, net of purchase 
+accounting adjustments. We believe this transaction will be neutral to non-GAAP earnings in FY 2015, and accretive in 
+FY 2016. At this time we cannot estimate the impact to earnings on a GAAP basis. 
+
+Fotolia is a U.S. based company so we're primarily using onshore cash for the transaction. The bulk of their operations 
+and business are in Europe, and we intend to invest in the business during the year to drive broader global adoption of 
+their services, particularly in the U.S. We see significant synergies over time with Fotolia and our Creative Cloud 
+offering, in what is a large and fast-growing market. 
+
+Turning to our financial outlook, the targets we are providing today reflect current currency rates and exclude any 
+benefit or impact from the announced acquisition of Fotolia. 
+
+We are happy to report we are either on track or are ahead of key long-term goals we set a year ago. Consistent with 
+our target of approximately 20% compound annual revenue growth between FY 2014 and FY 2016, we are targeting 
+total revenue of approximately $4.85 billion in FY 2015. We expect GAAP earnings per share of $1.20, and 
+non-GAAP earnings per share of $2.05, which is ahead of the target we provided a year ago. 
+
+As we've mentioned before, we will adjust ARR on an annual basis to reflect any material FX changes. Our FY 2014 
+exiting Digital Media ARR of $1.947 billion was based on December 2013 FX rates. We've revalued that ARR amount 
+based on December 2014 FX rates, and this has led to an updated ARR of $1.875 billion, which is approximately $72 
+million lower entering FY 2015. 
+
+In Digital Media, we remain on track to drive a revenue CAGR of 20% between FY 2014 and FY 2016, supported by 
+strong growth in ARR and the subscription adoption we've driven. In FY 2015, we expect to grow ARR by greater than 
+50% from $1.875 billion to approximately $2.9 billion by year-end. We expect to grow total subscriptions by 
+approximately 70% year-over-year and exit the year with approximately 5.9 million subscriptions. We also expect 
+continued ETLA adoption during the year. 
+
+In Digital Marketing, we have strong momentum with Adobe Marketing Cloud bookings. We expect to continue to 
+drive annual bookings growth of 30%, with annual reported revenue growth of approximately 25% in FY 2015. Both 
+are consistent with our long-term targets. During FY 2015, we anticipate revenue and earnings will grow sequentially 
+every quarter during the year. 
+
+Given strong adoption in Q4 and normal seasonality in Q1, we expect net new Creative Cloud subscriptions will 
+decline in Q1 when compared to the 644,000 we added in Q4, and then grow sequentially in the second, third and 
+fourth quarters. We expect Digital Media ARR to follow the same trend. 
+
+In Digital Media, we expect Creative revenue to grow significantly year-over-year. We are targeting 
+
+Document Services revenue to grow slightly year-over-year. We also expect annual revenue for 
+
+LiveCycle and Connect, and for Print and Publishing, to decline slightly year-over-year. 
+
+Quarterly Adobe Marketing Cloud bookings and reported revenue should also follow normal seasonality during the 
+year. In Q1 of FY 2015, we are targeting a revenue range of $1.050 billion to $1.100 billion. Again, this excludes the 
+expected benefit of adding Fotolia during the quarter. 
+
+We expect Digital Media segment revenue to grow sequentially in Q1. Within Digital Media, we expect Creative 
+revenue to grow sequentially, with Document Services revenue declining slightly. 
+
+In Digital Marketing, we are targeting Q1 Adobe Marketing Cloud revenue to decline on a sequential basis, and grow 
+on a year-over-year basis. We expect combined revenue with LiveCycle and Connect to decline sequentially. We also 
+expect Print and Publishing segment revenue to decline. 
+
+
+We are targeting our Q1 share count to be 508 million shares to 510 million shares. We are targeting net non-operating 
+expense to be between $12 million and $14 million on both a GAAP and non-GAAP basis. We are targeting a Q1 tax 
+rate of 25% to 27% on a GAAP and 21% on a non-GAAP basis. These targets yield a Q1 GAAP earnings per share 
+range of $0.14 to $0.20 per share, and a Q1 non-GAAP earnings per share range of $0.34 to $0.40. 
+
+In summary, 2014 was a great year. With multiple growth opportunities and category-leading products, we are poised 
+to see strong revenue and earnings growth in the coming years. 
+
+Mike? 
+
+Mike Saviage 
+
+Dates for our Digital Marketing Summit in Salt Lake City have been announced and registration is now open. The 
+opening day keynote will be on the morning of Tuesday, March 10, and we are once again providing special pricing for 
+financial analysts and investors to attend. We will send out a formal invitation in January, but in the meantime if you'd 
+like to register you can contact Adobe Investor Relations by emailing ir@adobe.com for registration information. 
+
+For those who wish to listen to a playback of today's conference call, a web-based archive of the call will be available 
+on our IR site later today. Alternatively, you can listen to a phone replay by calling 855-859-2056; use conference ID 
+number 39655431. Again, the number is 855-859-2056 with the ID number 39655431. International callers should dial 
+404-537-3406. 
+
+The phone playback service will be available beginning at 5 PM Pacific Time today, and ending at 10 AM Pacific Time 
+on Tuesday, December 16, 2014. 
+
+We would now be happy to take your questions. Operator? 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions] Your first question comes from the line of Brad Zelnick from Jefferies. Your line is open. 
+
+<Q - Brad Zelnick>: Thank you very much, and great quarter, guys. Can you please just talk a bit about the evidence 
+that you're seeing Digital Marketing and Digital Media categories driving demand for one another, and maybe if you 
+could share trends in the percentage of enterprise deals that includes solutions from both sides of Adobe? 
+
+<A - Shantanu Narayen>: Sure. Thanks, Brad. First on your comment on the quarter, we were certainly pleased with 
+what we accomplished in Q4. With respect to joint deals that we are seeing, that's primarily with the ETLAs as well as 
+the Digital Marketing bookings that we are seeing, and it actually is across more segments, Brad. In the publishing 
+space, for sure, people are using our digital creation tools as well as our infrastructure tools. We're seeing a fair amount 
+in retail as people are trying to create campaigns. We've talked about companies like Under Armour who are using all 
+of our products. We're seeing that in video as people are using both Primetime as well as Creative Cloud Premiere as 
+well as our Digital Marketing products like Primetime. 
+
+And so I think across the board, while we might lead with CC ETLA and then go in with Digital Marketing or might go 
+in with Digital Marketing and then come back to a CC ETLA, and at the end of the day, I mean more marketing is 
+moving online, and I think our sales force goes in with the ONE Adobe story. Clearly DPS is another area where we are 
+seeing synergy between the two businesses and now what we have with PhoneGap enterprise. 
+
+<Q - Brad Zelnick>: Definitely working. And thanks, Shantanu. Just one more follow-up, if I may? Last quarter you 
+noted about 20% of CC users were new to the franchise. Are there any directional updates on this? I know it's only one 
+quarter since when we think about the mix. And can you maybe comment on any thoughts you might have on where 
+this can go as you penetrate into new geographies and perhaps capture some of the opportunity on piracy? Thanks. 
+
+
+<A - Shantanu Narayen>: Well, two thoughts there, Brad. The first is while we don't do the surveys every quarter, 
+certainly given the strength that we saw in Q4, we are confident that we are continuing to attract new customers to the 
+platform. What was really nice about Q4 was we actually saw strength across every single offering and in all the 
+geographies. You correctly point out that we're still focused primarily on developed markets, and we continue to think 
+that emerging markets is an opportunity over time with differential pricing and products, but at this point, I would say 
+we are still just combating casual piracy in developed markets and really attracting new customers. 
+
+One thing I will mention also is that one of the offerings that we added in Q4 was the team offering on adobe.com did 
+not have the single app option. And so allowing that just enables teams to be more collaborative and so team had a 
+good showing in Q4 as well. 
+
+<Q - Brad Zelnick>: Thanks very much for taking my questions. 
+
+Operator 
+
+Your next question comes from the line of Brent Thill from UBS. Your line is open. 
+
+<Q - Brent Thill>: Good afternoon. Shantanu, just on the acquisition, I'm just curious if you could walk through the 
+revenue model. Just casually going through the site, it looks like you could pick up Stock Photos for single dollars or 
+videos for high-single digits. How does the revenue model work for Fotolia? 
+
+<A - Shantanu Narayen>: Sure. So Brent, I mean, the big picture is that with Creative Cloud continuing to become 
+the pre-eminent destination for creators, all our surveys show that our customers of our Creative tools are the primary 
+purchasers of stock content creative assets that exist. I would look at Fotolia today and really their presence is more in 
+Europe. In the U.S. they have attempted to come in with an offering that is aimed at beyond the Creative Professionals. 
+
+The sweet spot for us is with the Creative Professional community, we think all the millions of Creative Professionals 
+will be people who will acquire these products. And I think the offerings will look like an on-demand offering where 
+people who has need for a specific content can go online and find and search it. We will have subscription offerings, 
+which exist as a stand-alone service, which allow people to subscribe and get a certain number of stock content on the 
+frequency that they want. 
+
+And as you can imagine, once we are closed, I think we have opportunities to also offer our desktop products in 
+conjunction with a subscription offering for stock content. So I think we see a lot of options, and what that should result 
+in is, first, more stickiness with our Creative community because they have a one-stop shop for talent search, buying 
+stock, as well as the Creative tools, and that should hopefully result in an increased revenue and increased ARPU. 
+
+<Q - Brent Thill>: Okay. And real quickly on the Marketing Cloud, you highlighted a handful of big deals and that 
+campaign was one of the best performers inside the suite. Can you maybe just bring us up to speed in terms of what 
+you're seeing in terms of the deal sizes? Are you seeing a nice improvement as back to your original comment of 
+they're taking more of the suite? Any color to help us understand the direction of the Marketing Cloud on pricing would 
+be really helpful. 
+
+<A - Shantanu Narayen>: Yeah. We didn't update this time, Brent, the number of large deals, million-dollar deals. I 
+know we've updated that in the past, but when you drive record bookings, you're certainly driving it at a more strategic 
+level with adoption of multiple solutions. We highlighted Campaign because we've always believed that campaign 
+orchestration was important. We are winning a number of deals of what was traditionally e-mail service provider 
+accounts with Campaign. So I wanted to make sure that we highlighted that in the quarter. But it's a spectrum. I mean, 
+we have really large deals that we're seeing from customers at the CMO/CEO level. 
+
+<Q - Brent Thill>: Thank you, Shantanu. 
+
+<A - Shantanu Narayen>: Thanks, Brent. 
+
+
+Operator 
+
+Your next question comes from the line of Walter Pritchard from Citi. Your line is open. 
+
+<Q - Walter H. Pritchard>: Thanks. I'm wondering if you could, Mark, just give us a little more detail on the mix of 
+versions – or not versions, but point versus suite? You talked about in your perpetual business a 50/50 mix. Did you 
+throw that out there to sort of point us to that's where it is today? Or is that where you think it will be in 2015? I'm just 
+trying to get a sense of how we should be thinking about where it is right now since you provided at the last – I guess 
+since you've started undergoing the transition and then how we should think about that in the future. 
+
+<A - Mark S. Garrett>: Yeah, I think the most important thing to remember is that this is right on strategy, the idea of 
+selling more single apps, especially as it relates to driving a higher market opportunity and attracting new users, and 
+that's working really, really well. So what you see in subs, what you see in ARR is a result of driving new users to the 
+platform, which we would not have been able to do without these single apps. The mix was really just to show you that 
+what's happening is not terribly different from what you saw under the suite model with the perpetual offering. 
+
+We're not saying that it's ultimately going to settle in at 50/50, but it's certainly going that direction. And you can see 
+that in the mix this quarter; if you do the math on the mix this quarter, you'll see that it's roughly 50/50 in terms of the 
+net new adds this quarter. So we had really good uptick in the full units this quarter, but we also had a nice increase in 
+the single app, and that's right on strategy. 
+
+<A - Shantanu Narayen>: And, Walter, overall, we are convinced that it is increasing the total available market, and 
+we continue to see, as people adopt the individual app and they get familiar with our products, it represents an 
+opportunity for them to migrate up to Creative Cloud complete. 
+
+<Q - Walter H. Pritchard>: Got it. So just actually that was, Shantanu, the follow-up I had for you. We did some 
+survey work just a little bit ago, and the one thing we noticed is there was a high intention from point product 
+customers to upgrade to suite, some in short-term, some over time. Can you talk about – it hasn't been that long you've 
+had the point product out, but it's been some of those folks were renewing in the quarter. Can you talk about sort of any 
+color on how many of those renewed to the full suite from the point? 
+
+<A - Shantanu Narayen>: Well, what we said I think in the prepared remarks was that retention continues to be ahead 
+of our internal expectations, and while we continue to have pricing that's promotional in nature to get customers to 
+migrate from CS to Creative Cloud, when they then continue to stay on the platform, they are actually, their retention is 
+at the higher price point. So we're happy about that. 
+
+We have become really good by using our own Digital Marketing products, Walter, in terms of the pipeline. So while I 
+have numbers, everything from new trial users, how many are overlapping with Behance, how we are seeing them go 
+through the funnel in terms of usage, it was such a strong quarter across all elements, new customer acquisitions, 
+upgrades, retention, and theme, we were really pleased. 
+
+And I think if we take a step back, it just reflects, first, we're continuing to deliver significant product value for the 
+customers. They're seeing that innovation in things like Touch that we delivered in the quarter. Second, the sole focus 
+on all routes to market on the Creative Cloud is certainly helping. There isn't perpetual anymore in the channel. And I 
+think third is we're just getting better at dealing with this consumer marketing funnel in the business unit. 
+
+<Q - Walter H. Pritchard>: Great. Thank you. 
+
+Operator 
+
+Your next question comes from the line of Mark Moerdler from Sanford Bernstein. Your line is open. 
+
+<Q - Mark L. Moerdler>: Thank you very much. So two quick questions. The first one is you have subs increasing 
+next year from 3.5 million to 5.9 million, which is a 71% increase in subs year-over-year, but you have ARR Digital 
+Media increasing over 50%. Can you give us some color maybe, Mark, on what the disconnect is? Is it ETLA is 
+
+
+growing slower or Document Services they're growing slower? How should we think about that? 
+
+<A - Mark S. Garrett>: Yeah. I don't think you should think about it as ETLA growing slower. I think you should 
+think about two things, Mark. One is the $1 billion increase reflects new FX rates, right? So there is a fairly significant, 
+as you know, from every company change in FX, and that has a chunk of it in there. Plus, as we were just talking about, 
+with Walter's question, we are seeing more single app to acquire new customers and expand the market. And I think it's 
+primarily those two things. I don't think you should read anything into that in respect of anything slowing down. 
+
+<Q - Mark L. Moerdler>: Okay. And then as a second question, can you give us a sense in terms of Digital Marketing 
+whether, and you talked a little bit about it, but in terms of how much of the mix of the growth is coming from 
+expansion into the existing customers versus sales to new customers? 
+
+<A - Shantanu Narayen>: It's across the board, honestly. I mean, we're seeing new logos coming into the platform. I 
+think we highlighted some of the key customers. But without a doubt, within existing customers as well, if they were an 
+Analytics customer, they are continuously looking at the Experience Manager. If they're using both of those campaigns, 
+which was such a strong showing in the quarter, it's certainly seeing more adoption within Analytics and Experience 
+Manager. And I think what we said at our prior call is we're seeing something like 74% growth in customers with three 
+plus solution products. This was the data that we had provided at MAX. So I mean that continues to be the case and 
+we're seeing the ARR of customers with three plus solution products in the millions. 
+
+<Q - Mark L. Moerdler>: Excellent. I do appreciate it. Thanks, and congrats on the quarter. 
+
+<A - Shantanu Narayen>: Thank you. 
+
+<A - Mark S. Garrett>: Thanks. 
+
+Operator 
+
+Your next question comes from the line of Kash Rangan from Merrill Lynch. Your line is open. 
+
+<Q - Kash Gopalan Rangan>: Hi. Thank you very much. It looks like you're well on track to hit about 6 million subs 
+by the end of next year, which relative to the TAM that you laid out I think in the spring of last year, Mark and 
+Shantanu, is roughly about 50%, a little bit less than 50%. The question for you Shantanu is, are we in the second 
+innings of a cricket game or a second innings of a baseball game? And depending upon how you're going to answer the 
+question, I'd like to also find if it is indeed a baseball game, how much larger can the TAM [ph] be used (44:02), 
+especially because when I look at the upside this quarter even if you didn't have a positive deviation in the point 
+solutions you would have still had a very good quarter just with the full suite launch. So it looks like you are expanding 
+the TAM but I don't want to get too ahead of myself. If you can just put it in the context that will be very appreciated. 
+Thank you. 
+
+<A - Shantanu Narayen>: Well, first, for the sports fans on the call, you know baseball having nine innings, we 
+certainly believe that we are definitely in the second innings of a nine inning game rather than a two inning game, 
+Kash. So we continue to think there's significant upside. I think we've provided numbers on the – a number of Creative 
+Suite perpetual products and licenses that we've delivered. As you can see from our numbers there's significant 
+headroom. I think you are continuing to see, as we have said, new customers being attracted to the platform. 
+
+And if I take a step back, we're actually executing against everything we laid out three or four years ago. We're 
+continuing to migrate customers and demonstrate value and drive customer satisfaction to be higher. We are adding 
+new customers, the individual apps are certainly attracting new customers to the platform, and the ARPU enhancing 
+services, things like Fotolia, I think we're really excited about how that also not only keeps the current customers on the 
+Creative Cloud but that it also brings people who may be laggards on to the Creative Cloud, because it just 
+demonstrates more value that we're going to be providing. So I think Mark's numbers reflect why we continue to be 
+really enthusiastic about this business in 2015 and beyond. 
+
+
+<Q - Kash Gopalan Rangan>: Wonderful. On the Fotolia side, to the extent that you know this information, how 
+many subscribers do they have? How many of them are CC or CS users already? And what is the rough potential for 
+cross-selling the core Creative Cloud family to the Fotolia user base and vice-versa? Any color commentary qualitative 
+would be fine. I understand that you may not be able to share numbers because the deal is not closed yet. 
+
+<A - Shantanu Narayen>: Well, Kash, we did surveys of our Creative Professionals, and I would say the vast majority 
+of Creative Professionals that exist globally are customers of stock content. So I first want to, in terms of the available 
+market opportunity, it's important to remember that we believe that every single Creative Professional is a customer of 
+Fotolia. 
+
+The other thing we actually find is that a number of marketers are the people who actually buy this stock content to use 
+in campaigns and put on websites. So the customer base for Fotolia actually extends beyond the Creative Professional 
+as well as the marketer to also consumer hobbyists. As we look at the numbers right now, and it's really early with 
+Fotolia, we certainly think that getting access to Fotolia content to every one of our Creative Professionals is the 
+opportunity that we have. There is a high overlap, clearly, of the Fotolia customers who are already Creative Suite or 
+Creative Cloud customers, but we can package it and provide a lot more value as we move down this path. 
+
+<Q - Kash Gopalan Rangan>: Thank you. Happy holidays. 
+
+<A - Shantanu Narayen>: Thanks, Kash. 
+
+Operator 
+
+Your next question comes from the line of Ross MacMillan from RBC Capital Markets. Your line is open. 
+
+<Q - Ross MacMillan>: Thanks so much, and congratulations from me as well. Two questions, if I could. Just first on 
+operating expense growth, that's been really impressive this year in the sense that it's been very low, I think 3% for the 
+year, 1% in the quarter. And if I looked on a sort of trailing three-year basis, I think OpEx grew something more like 
+8% on average over the last three years. So I'm just curious, either, Shantanu or Mark, is this sort of lower trajectory of 
+operating growth sustainable? Could you maybe just provide some color? Thanks. 
+
+<A - Mark S. Garrett>: Hey, Ross. It's Mark. Yeah, I mean, I think the bottom line is we really felt it was important to 
+drive earnings leverage back into the model as revenue starts to come back since we're through this transition now, and 
+that's what you're seeing both in FY 2014 and especially in FY 2015 as we move from $1.29 to $2.05 and then to over 
+$3. So earnings starts to come back into the model in a big way. 
+
+OpEx will increase probably a little bit more than what you've seen recently, and that's obvious for you guys to figure 
+out as you do your revenue model and figure out what the OpEx is that'll drive that EPS. So the short answer is we've 
+done a great job this year of containing cost and still hitting all of our targets. As we build out more and more of an 
+enterprise sales force, you're going to see us invest more and more in sales and marketing, but it's all embedded in that 
+$2.05 and over $3 in 2016. 
+
+<Q - Ross MacMillan>: That's great. And then just a clarification from me. Mark, you commented that the unit mix 
+between suites and point products in your perpetual offering was 50/50. I think my reference was going back to the 
+Analyst Day in 2013 when you described that install base of suites versus point products of 12.8 million, and I think it 
+was more like two-thirds suites versus one-third point products. Is there some kind of bridge there that I'm not seeing to 
+connect the 50/50 with that sort of two-third/one-third mix? 
+
+<A - Shantanu Narayen>: Again, we'll go back and look at those numbers, Ross. I think from a revenue point of view 
+versus units' point of view, there is a difference clearly, and revenue was more towards suites than it was towards point 
+products, but we we'll get back to you on that one. 
+
+<Q - Ross MacMillan>: Thanks so much, and congrats again. 
+
+<A - Shantanu Narayen>: Thank you. 
+
+
+<A - Mark S. Garrett>: Thank you. 
+
+Operator 
+
+Your next question comes from the line of Kirk Materne from Evercore ISI. Your line is open. 
+
+<Q - S. Kirk Materne>: Thank you, and congrats on the quarter, guys. I guess maybe just first, Shantanu, you 
+mentioned that when customers have come back to renew, they're renewing at a higher price than the promotional price 
+they might have signed up on. I guess I just want to clarify that that's correct. 
+
+And I guess, have you had any pushback from clients that maybe signed up on promotional? And I guess how are you 
+dealing with that in terms of making sure that they obviously still feel like they're getting the value? I guess can you 
+just give us some color on how that's been going, because you obviously have a much bigger cohort renewing at this 
+point this year versus, say, last year. 
+
+<A - Shantanu Narayen>: Sure. Well, just to clarify, the promotional pricing tends to be more on the CC Complete 
+than it is on the CC Photography. 
+
+<Q - S. Kirk Materne>: Right. 
+
+<A - Shantanu Narayen>: So the CC Photography, you know the pricing is now the permanent pricing. And what we 
+were trying to do was reflect that long-term customers of CS, if they had just bought CS6, they were entitled to 
+promotional pricing for a year. And yes, I was saying that as they then retain or renew after a year, they are renewing. 
+
+And I think the big reason for the renewal is they're seeing the amount of innovation that we're delivering. I mean we've 
+delivered over 1,000 features. We now have mobile apps that we've delivered. They're looking at the services like share 
+and sync, what we're delivering with fonts. So again, continues to be incumbent on us to demonstrate the value of a 
+cloud service by constantly providing new value to them. 
+
+<Q - S. Kirk Materne>: Great. And then just one for Mark. Mark, on the Digital Marketing side, obviously, in the 
+back half of the year, you had a lot of sort of mix of Experience Manager and Campaign going more ratable. I guess 
+will that cause the actual revenue growth of Digital Marketing in 2015 to be a little bit more back-end loaded? 
+Meaning, you'll still be going up against those sort of headwinds in the first half of the year? Or am I sort of 
+over-thinking that? Is the growth in bookings going to overcome that, so it's perhaps not as much of a step function in 
+the back half of the year than I might be sort of assuming? 
+
+<A - Mark S. Garrett>: You're right. It is going to be a little bit more back-end loaded. You also have seasonality 
+going from Q4 to Q1, as I said, in Digital Marketing. So you're going to have a lower Q1 than you did in Q4, but up 
+year-over-year. But you're right. It's going to be a little bit more back-end loaded because of that mix shift that you saw 
+from 2014. 
+
+<Q - S. Kirk Materne>: Okay. Great. I'll leave it there. I'll leave it to others. Thanks, guys. 
+
+Operator 
+
+Your next question comes from the line of Brendan Barnicle from Pacific Crest Securities. Your line is open. 
+
+<Q - Brendan J. Barnicle>: Thanks so much for taking my questions. Shantanu, I wanted to follow-up on the 
+Marketing Cloud. Some of our industry contacts have been suggesting that customers are starting to want to see more 
+commerce apps and functionality tied more directly into their marketing platforms. Are you seeing that trend? And how 
+do you see tying more commerce into the Marketing Cloud potentially? 
+
+<A - Shantanu Narayen>: I think at the end of the day, Brendan, when people are re-platforming their website, 
+commerce is definitely one of the key reasons why they're doing that. We have partnerships with virtually all of the key 
+
+
+commerce providers, including hybris that's available through SAP. And so, I think what we find is whether it's an 
+Adobe installation or whether it's one of the numerous partners that we have that's built digital transformation practices 
+on our solution. They have all the tools that are required to take Adobe Experience Manager and tie into whatever 
+commerce engine exists. So we view that as a partnership opportunity. 
+
+<Q - Brendan J. Barnicle>: So you haven't seen it as a disadvantage that you don't have it natively? 
+
+<A - Shantanu Narayen>: No, we don't. I think the big thing that CMOs really are focused on is how do they deliver 
+really great rich interactive experience on mobile devices and tablets. And I think every report that you read out there 
+demonstrates that we have the best technology in that space. 
+
+<Q - Brendan J. Barnicle>: Terrific. And just a quick one. Mark, you mentioned in your prepared comments the slight 
+dip in overall ARPU because of the Single App subscriptions. I was also wondering if there's any seasonality that you 
+ever see in ARPU. I just didn't recall. Thanks. 
+
+<A - Mark S. Garrett>: I don't think you should think about ARPU as seasonal. It's really driven by that blended rate, 
+which I would encourage you guys not to focus on, is really driven by mix. Like we said, the ARPU across each 
+offering through the year has either been consistent or, frankly, up throughout the entire year. 
+
+<A - Shantanu Narayen>: The two things you might think of in that particular space, the first is education, and when 
+there's an education season, there's a high potential for a lot more edu units during that season. 
+
+The second thing I would say is that as we are seeing former Premiere Elements of PhotoShop Elements customers 
+think about what a holiday purchase might be, the Creative Cloud Photography bundle is certainly, hopefully, high on 
+their list of things that they want to get their kids and family. And so, I would say you'll see that a little bit seasonally in 
+the holiday season. 
+
+<Q - Brendan J. Barnicle>: Great. Thanks for the questions. 
+
+<A - Shantanu Narayen>: Thank you. 
+
+Operator 
+
+Your next question comes from the line of Steve Ashley from Robert W. Baird. Your line is open. 
+
+<Q - Steven M. Ashley>: Great. I'd just like to start and ask about ETLA activity. Maybe you could give us a little bit 
+more color on how that performed in the period. And if there are any renewing ETLA agreements from a year ago, how 
+that might have gone? 
+
+<A - Shantanu Narayen>: So Steve, when you think about enterprise agreements, in the ETLAs for the Creative 
+business or the Acrobat business, they tend to be three-year agreements. The vast majority tends to be three-year 
+agreements. And so, they're not up for renewal really yet. 
+
+Clearly, in the Digital Marketing business, we have renewals happening all the time and that continues to perform well. 
+In fact, I would say that the organization has done a really good job this year of making sure that we drive new 
+bookings growth over and above renewals at the existing levels. So I think the team's done a good job there. 
+
+And with respect to color overall in that business, the enterprise business did really well in Q4 and I think that's why 
+you see the strength. It's become a traditional Q4 seasonally strong quarter and I think that's just true of all enterprise 
+companies. Europe did well. North America did well. Australia continues to be strong performance for us as well from 
+a geo perspective. 
+
+<Q - Steven M. Ashley>: Great. And just one follow-up. I'd like to ask about the Single App business, which has 
+really been strong here and I think aided by the PhotoShop Lightroom which really helped you tap into a whole new 
+vein of customers. Are there other opportunities similar to that to introduce single apps that might be more segmented 
+and tap other new user groups? 
+
+
+<A - Shantanu Narayen>: Well, I think with our mobile apps, Steve, we certainly believe that everybody is 
+want-to-be creative and our job is to continue to make the power of our Creative tools available to everybody. So as our 
+mobile apps, we've seen millions of downloads of the mobile apps that we've deployed at MAX, I think we definitely 
+have opportunities to provide a different kind of a subscription service for the vast non-photographer Creative 
+community, but at this point, we're still pretty [ph] – we're firstly (57:46) focused on the Creative and Photography 
+segments, because those are the largest and those are the ones that are really where we need to focus. 
+
+<Q - Steven M. Ashley>: Perfect. Thanks. 
+
+Operator 
+
+Your next question comes from the line of Heather Bellini from Goldman Sachs. Your line is open. 
+
+<Q - Shateel T. Alam>: Hi. This is Shateel Alam filling in for Heather. Thanks for taking my question. So you said 
+your blended ARPU declined again this quarter. I understand now Single App subs are bringing this down, but you 
+should have some positive factors offsetting this like promo pricing from Creative Cloud anniversarying. Just want to 
+know when should we expect your blended ARPU to trough and begin increasing again? Should we expect that 
+sometime in fiscal 2015? 
+
+<A - Mark S. Garrett>: Well, again, we pointed out that 50/50 mix, because we want you to understand that there's a 
+good chance that Single App will just keep growing and may grow faster than the fall for the reasons we mentioned and 
+it does expand the market opportunity for us. So we view that as strategic and very positive. I don't think you should 
+expect that ARPU number even though, again, I encourage you not to look at a blended ARPU number. I don't think 
+you should expect that blended ARPU number to go up soon. We also have down the road other opportunities like 
+Fotolia to help bring ARPU up. 
+
+<A - Shantanu Narayen>: Hey, Walter, I just wanted to go back to your question as well, because I just looked at the 
+data and what we said was right. The unit mix in the historical perpetual business was 50/50, which was inclusive of 
+commercial, enterprise, education, upgrades, et cetera. And as I mentioned, the revenue mix was closer to 70/30. And I 
+think the data that we presented in May 2013 was showing the installed base and not the annual unit mix of perpetual 
+users and point product users. And so, if customers had multiple point products and as they migrate to suites, we do 
+normalize that for – in our installed base data. So hopefully, that provides that, or Ross. 
+
+<Q - Shateel T. Alam>: Just one follow-up. On Adobe Marketing Cloud that grew 15% this year, what drives that to 
+25% growth for 2015? And is there any assumption of acquisitions in there? 
+
+<A - Shantanu Narayen>: There's no assumptions of acquisition. 
+
+<A - Mark S. Garrett>: Yeah, I was just going to say that. We don't assume acquisitions in our guidance. The growth 
+really comes from the fact that, obviously, you're bringing more and more revenue in from bookings and you also don't 
+have the big shift from perpetual to hosted like we had in 2014. The shift is for the most part going to stabilize now. 
+
+<Q - Shateel T. Alam>: Okay. Great. Thank you. 
+
+Operator 
+
+Your next question comes from the line of Robert Breza from Stern, Agee. Your line is open. 
+
+<Q - Robert Breza>: Hi. Thanks for taking my questions, first of all. I was wondering if you could comment 
+geographically whether you're seeing the Single App uptake, are you seeing it more here in North America, or 
+geographically, just curious to understand kind of the geographical mix. Thanks. 
+
+
+<A - Shantanu Narayen>: I think it's fairly consistent across all geographies. I won't point to any real difference in 
+adoption right now between geographies. 
+
+<Q - Robert Breza>: As you look at bringing in Fotolia into the group, I think in your prepared comments, you said it 
+was mostly dominated in Europe today. How do you think or how do you plan to bring that more back towards the 
+North American market? Just curious to understand the geographic. Thanks. 
+
+<A - Shantanu Narayen>: Well, I think the first thing that we hopefully have is affinity with our customers and the 
+brand that Adobe has in the U.S. market continues to be strong. I think they have really good technology, and that 
+coupled with our brand and our ability to deliver that to our customers, we're confident. The surveys that we've done, 
+again, as we said earlier, was that the Creative professionals continue to look for stock photography as a mechanism to 
+start a particular creation, and over time, we can also provide value-add by helping integrate that within our products as 
+well. 
+
+<Q - Robert Breza>: Thank you. 
+
+Operator 
+
+Your next question comes from the line of Jay Vleeschhouwer from Griffin Securities. Your line is open. 
+
+<Q - Jay Vleeschhouwer>: Thanks. Good evening. Shantanu, I'd like to ask first for you about the product and 
+services game plan for 2015 and beyond, based on some of the strategies that you and David laid out, for example, and 
+Brad at the Summit back in March and at MAX just a couple of months ago. 
+
+So at the Digital Marketing Summit, for example, you spoke very broadly about enabling what you called the real-time 
+enterprise, and then spoke specifically about some core services that you need to deliver to enable that and also alluded 
+to the possibility of Marketing Cloud turnkey solutions for the SMB market. So I'd like to ask if that's something that 
+you're still looking to do? 
+
+And similarly, at MAX, you talked about increasingly tiering or segmenting Creative Cloud. And so, is that, too, 
+something that you're expecting to rollout in 2015 and beyond? And then I've got a follow-up for Mark. 
+
+<A - Shantanu Narayen>: So Jay, first, with respect to the announcements that we made about the Marketing Cloud 
+and as you pointed out, core services, clearly, we're hearing from our customers as they adopt multiple solutions that 
+they want to continue to see things work more consistently across our solutions and the value-add that we can provide. 
+
+So for example, the product that we have, Adobe Audience Manager, that's perceived to be a really key enabling glue 
+between all of our products in order to enable people to use the same segmentation of users across Media Optimization 
+or across Targeting or across Analytics. That's a great example of a core service. The visualization, the ability to, again, 
+run a campaign across all of these different products is another one of the core services that I think the team continues 
+to perform. 
+
+And we've also always talked about the fact that we have all of these data transactions and the ability to derive insight 
+from what's happening on those for our customers continues to be an area of value-add. 
+
+And in SaaS-based businesses, unlike the perpetual product, we're constantly delivering that value-add to our customers 
+right through the year. So yes, in 2015, we will continue to deliver more core services, and I would highlight Audience 
+Manager as one of the key areas. The other one I think we've talked about also is media mix. All CMOs are trying to 
+understand how they do media mix across each of their different channels. And I think that's another area that we have 
+some unique technology. 
+
+With respect to the Creative Cloud and the Creative business, we're excited about Fotolia. I think it represents a great 
+opportunity in the sharing economy and the entire community can now participate, whether it's finding talent or 
+whether it's being able to acquire stock. And so yes, expect to continue to see new services that are being added, and 
+Talent Search and Fotolia are just the two most recent ones. 
+
+
+<Q - Jay Vleeschhouwer>: Okay. And for Mark, in your prepared remarks, you suggested that in fiscal 2015, Doc 
+Services revenue would be up only slightly, and that would be so in spite of your expectation, or I assume it's still your 
+expectation of an Acrobat release next year? 
+
+<A - Mark S. Garrett>: Yeah, yeah, Shantanu talked about a release in the first half of the year. And the only reason 
+I'd say it's up slightly, Jay, is because we are driving more and more toward ETLAs in the enterprise. And you're seeing 
+that in the ARR. 
+
+<Q - Jay Vleeschhouwer>: Thank you. 
+
+<A - Mike Saviage>: Thanks, Jay. We'll have time for two more questions. We're running past time already. Thank 
+you. 
+
+Operator 
+
+Your next question comes from the line of Samad Samana from FBR Capital Markets. Your line is open. 
+
+<Q - Samad S. Samana>: Hi. Thanks for taking my question, and nice quarter. I would like to ask you on Fotolia. So 
+Shutterstock would be a natural competitor, and it looks like they're growing around a 40% level. I was wondering if 
+you could just give us an idea of how fast Fotolia was growing and how you're sizing that market? 
+
+<A - Shantanu Narayen>: Well, in terms of the sizing of the market, I think we definitely view it as a multi-billion 
+dollar market. You're right in that the other players in that space are growing very rapidly. We're not providing 
+historical information on Fotolia today, but we certainly have high aspirations for the growth in that market for Adobe, 
+as well as for the entire market. 
+
+<Q - Samad S. Samana>: And then one follow-up to that. They offer both annual and monthly subscription plans. I 
+know you're not disclosing the size of their subscriber base, but could you give us an idea of the mix between annual 
+and monthly subscribers to see what their pricing model looks like? 
+
+<A - Shantanu Narayen>: I think it's all a little early. We haven't even closed the deal. We've just announced the 
+definitive. And I think as the business gets integrated into Adobe, we'll definitely, as we do with all of our other 
+businesses, provide more color. 
+
+<Q - Samad S. Samana>: All right. Great. Thanks for answering my questions. 
+
+Operator 
+
+Your next question comes from the line of Philip Winslow of Credit Suisse. Your line is open. 
+
+<Q - Philip Alan Winslow>: Hi. Thanks, guys, for taking my question, and congrats on the continued growth here. I 
+wanted to focus in on part of the Digital Marketing business. Mark had mentioned obviously, over the past couple of 
+years, we've seen a lot of consolidation in this space, including you guys. Was wondering if we can get an update of 
+what you're seeing sort of post-acquisition. Any change in sort of the competitive dynamics or how you're positioning 
+the product, et cetera? 
+
+<A - Shantanu Narayen>: Well, first, thanks on your comments on the quarter. I think with respect to Digital 
+Marketing, there's no question that everybody views this as the most explosive enterprise category that exists. I think 
+our unique differentiation continues to be the fact that we've targeted marketers. And when we talk about the fact that 
+it's becoming the real-time enterprise, I think the tentacles of the Marketing Cloud are certainly spreading into the rest 
+of the organization and needs to be integrated with that. 
+
+I think in that context, we continue to see real great traction for our particular solutions, but the standard players, 
+whether it's Oracle or IBM or Salesforce, I think they also see the opportunities that exist. We continue to do really well 
+
+
+against each one of those competitors in the marketplace. 
+
+Shantanu Narayen 
+
+Given that's the last question, I just wanted to say that I'm really proud of what Adobe and our employees accomplished 
+in both Q4 as well as FY 2014. We really continued to focus on delivering value and innovating in these large growing 
+markets where we both have a license to play, as well as we believe we have tremendous customer affinity and a strong 
+brand. 
+
+We executed against our goals of adding ARR, migrating existing CS customers, as well as attracting new customers. 
+And we continue to be really excited about the opportunity that we see ahead of us in Digital Marketing. More 
+importantly, with the initiatives that we just announced, delivering a marketplace, integrating our marketing solutions, 
+and re-imagining our Document Services, we believe we are positioning the company for even better things in the 
+future. 
+
+So thank you for joining us today, and happy holidays. 
+
+Mike Saviage 
+
+And this concludes our call. Thank you. 
+
+Operator 
+
+This concludes today's conference call. You may now disconnect. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2014, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

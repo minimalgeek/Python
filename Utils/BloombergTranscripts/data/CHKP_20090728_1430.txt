@@ -1,0 +1,700 @@
+Q2 2009 Earnings Call 
+
+
+Company Participants 
+
+• Kip E. Meintzer, Director, Investor Relations 
+• Tal Payne, Chief Financial Officer 
+• Gil Shwed, Founder, Chairman and Chief Executive Officer 
+Other Participants 
+
+• Katherine Egbert 
+• Gregg Moscowitz 
+• Philip Winslow 
+• Daniel Ives 
+• Shaul Eyal 
+• Michael Turits 
+• Walter Pritchard 
+• Sarah Friar 
+• Todd Raker 
+• Rob Breza 
+• Sterling Auty 
+• Israel Hernandez 
+• Scott Zeller 
+• Ziv Tal 
+• Rob Owens 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Greetings and welcome to the Check Point Software Second Quarter 2009 Financial Results. At this time all 
+participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. [Operator 
+Instructions] As a reminder, this conference is being recorded. 
+
+It is now my pleasure to introduce your host, Kip Meintzer, Director, Investor Relations for Check Point Software 
+Technologies. Thank you, Mr. Meintzer, you may begin. 
+
+Kip E. Meintzer, Director, Investor Relations 
+
+Thank you, Claudia . Welcome to all of you joining us today. This is Kip Meintzer, Director of Investor Relations for 
+Check Point Software. On the call with me today are Gil Shwed, Chairman and CEO, along with Tal Payne, Chief 
+Financial Officer. We'd like to thank all of you for joining us today for a review of Check Point's second quarter 2009 
+results. 
+
+As a reminder, this call is being webcast live on our website and is being recorded for replay. To access the live 
+webcast and replay information, please visit the company's website at checkpoint.com. For your convenience the 
+conference call replay will be available through August 12. If you'd like to reach us after the call, please contact 
+
+
+Investor Relations at +1-650-628-2040. 
+
+Now before we begin with management's presentation, I'd like to bring the following to your attention. During the 
+course of this call, Check Point representatives will make certain forward-looking statements. These forward-looking 
+statements may include: our beliefs regarding projections related to the acquisition of the Security Appliance business 
+of Nokia; our expectations regarding our sales pipeline; our expectations regarding the performance and customer 
+acceptance and adoption of our products; our expectations regarding the potential impact of market conditions on our 
+business as we move forward; and our expectations regarding our business outlook and results for the third quarter and 
+full year of 2009. 
+
+Other statements which may be made in response to questions, which refer to our beliefs, plans, expectations, or 
+intentions, are also forward-looking statements for the purposes of the Safe Harbor provided by the Private Securities 
+Litigation Reform Act. Because these statements pertain to future events, they are subject to various risks and 
+uncertainties and actual results could differ materially from Check Point's current expectations and beliefs. 
+
+Factors that could cause or contribute to such differences include, but are not limited to, the risks outlined in the press 
+release that was issued today and the risks discussed in Check Point's Annual Report on Form 20-F for the year ended 
+December 31, 2008, which is on file with the Securities and Exchange Commission. I would also like to point out that 
+these forward looking statements are based on Check Point's expectations and beliefs as of the date hereof and that 
+Check Point assumes no obligation to update its forward-looking statements. 
+
+Additionally during the course of this call, Check Point management will discuss non-GAAP financial measures. 
+Check Point's management believes the non-GAAP financial information provided during this call is useful to investors 
+in understanding and assessing Check Point's ongoing core operations and prospects for the future. The presentation of 
+this non-GAAP financial information is not intended to be considered in isolation or as a substitute for results prepared 
+in accordance with GAAP. 
+
+Management uses both GAAP and non-GAAP information in evaluating and operating businesses internally and as 
+such has determined that it is important to provide this information to investors. In our press release which has been 
+posted on our website, we present GAAP and non-GAAP results along with reconciliation tables which highlights this 
+data. 
+
+Now I would like to turn the call over to Tal Payne, Check Point's Chief Financial Officer. 
+
+Tal Payne, Chief Financial Officer 
+
+Thank you, Kip. Good morning and good afternoon to everyone joining us on the call today. I'm happy to begin the 
+review of an excellent quarter for Check Point. Our quarterly results came in at the high end of our projections with 
+12% year-over-year growth in revenues and non-GAAP earnings per share. 
+
+Before I begin providing you with further details on the quarter let me remind you that our second quarter GAAP 
+financial results include equity-based compensation expenses according to FAS 123R, expenses relating to our 
+acquisition, including amortization of intangibles and restructuring costs and the related tax effects for such items. 
+
+This quarter we consolidated Nokia's Security Appliance business for the first time in our results. GAAP results for the 
+quarter include the effect of certain charges relating to the acquisition. These charges include the amortization of 
+intangible assets in the amount of $4.6 million and restructuring charges of $9 million. Net of taxes these charges 
+totaled $11.9 million. Keep in mind that non-GAAP information is presented excluding these items. Now let's take a 
+look at the financial highlights for the quarter. 
+
+Second quarter revenues were $224 million, an increase of 12% compared to $200 million in the second quarter of 
+2008, and 15% sequential increase over the previous quarter. Our revenue growth was evident in all regions and led to 
+our highest quarterly revenues to date. 
+
+
+Revenue geographical distribution for the quarter was as follows: Americas contributed 44% of the revenues; Europe, 
+Middle East and Africa was 44% as well; and the Asia Pacific and Japan region contributed the remaining 12%. 
+
+From a deal-size perspective and quantity, this quarter we saw an increasing number of large deals. Transactions 
+greater than $50,000 accounted for 51% of the total order value, compared to 41% in the same period a year ago. We 
+had 21 customers that each had transactions with a value greater than $1 million, compared to 14 in the same period 
+last year. 
+
+Looking at revenues by type, our software updates, maintenance and service revenues were $141 million in the second 
+quarter of 2009 representing a 23% growth over the second quarter of 2008 and 14% growth sequentially. Our products 
+and license revenues also showed sequential growth of 15% from $72 million in the previous quarter to $83 million this 
+quarter with a healthy growth in all regions. 
+
+This was accomplished while we began shifting in the last year more towards subscription-based technology programs 
+that deliver recurring revenue. These programs includes our Software Blade offering, SmartDefense Services and our 
+Total Security subscription packages. This shift, in addition to the foreseen new product cycle of our Endpoint product, 
+which expect to be released later this year, both explain the change from last year product revenue. 
+
+In our core Network Security Appliance business, we saw significant growth year-over-year. The growth is mainly 
+attributed to IP Series and Power-1 appliances. The growth in non-GAAP operating expenses this quarter relates 
+mainly to the increasing cost of revenues, which was driven by our growing revenues and by the increase in 
+compensation expenses. 
+
+With the Nokia acquisition we added over 300 new employees to Check Point mainly in sales, product development 
+and technical services. Following the completion of this acquisition, we now have approximately 2,100 employees. 
+
+From an operating profit perspective, we posted an exceptional result. Our non-GAAP operating income was $116 
+million in the second quarter of 2009, an increase of 15% compared to the same period in 2008. 
+
+The synergy associated with the successful acquisition of Nokia's Security Appliance business contributed to these 
+record results and enabled us to achieve a non-GAAP operating margin of 52% for the quarter, up from 51% in the 
+comparable quarter last year. This is a great accomplishment, taking into account the higher cost structure for the 
+acquired business. 
+
+GAAP net income for the second quarter was $75.6 million, compared to $79.2 million in the second quarter of 2008. 
+EPS was $0.36 for both periods. 
+
+The GAAP net income in the second quarter of 2009 includes an increase in amortization of intangible assets of $4.6 
+million and restructuring charges of $9 million relating to the Nokia Security business acquisition. Net of taxes, these 
+charges totaled $11.9 million, or $0.06 per diluted share. 
+
+Non-GAAP net income for the quarter increased to $101 million, or $0.48 per diluted share, up from $92.7 million, or 
+$0.43 per diluted share, in the second quarter last year. Earnings per share came in at the high end of our guidance, 
+representing 12% growth compared to the year-ago quarter. 
+
+Our effective GAAP and non-GAAP income tax rate for the second quarter was 20% and 19% respectively, and 
+consistent with our guidance. 
+
+Deferred revenues as of June 30, 2009, were $362 million, an increase of 83 million, or 30%, over the deferred revenue 
+balance as of June 30, 2008. The growth came both from the acquired deferred revenues as well as from organic 
+growth. Our customer-renewal rates continued to maintain industry-high levels. 
+
+For the second quarter of 2009, our DSO, day sales outstanding, reduced to 79 days, comparing to 81 days in the first 
+quarter of 2009. While we saw a decrease in the DSO this quarter, our business remains backend-loaded. 
+
+Our cash flow from operations increased to $113 million, an increase of 37% compared to Q2 last year. This was 
+mainly as a result of strong cash collection – strong collection from customers. We ended the quarter with 
+
+
+approximately $1.63 billion in cash and investments. 
+
+The credit quality of our portfolio remains high and consistent with our conservative investment policy. During the 
+quarter, we purchased 2.2 million shares for a total cost of $50 million as part of our share repurchase program. Moving 
+forward, we have $131 million remaining from the $400 million share repurchasing program approved by the Board in 
+2008. 
+
+With that, I'll turn the call over to Gil. 
+
+Gil Shwed, Founder, Chairman and Chief Executive Officer 
+
+Thank you, Tal. I would also like to thank all of you for joining us today. The second quarter was a standout quarter for 
+us from several perspective, including our record financial performance, which Tal has just covered. From a product 
+and strategy perspective, we continue to be excited about opportunities that our new Software Blade architecture 
+presents. 
+
+Over the last quarter, we extended our portfolio of appliances with the addition of the Power-1 11000 Series and IP 
+Series. We also introduced our new Smart-1 line of management appliances, delivering on our vision of unified 
+network IPS and Endpoint Security policy management, based on our Software Blade architecture and delivered as an 
+appliance. In addition, we introduced our latest management blade SmartWorkflow, which enable customers to take 
+advantage of security policy change management and enhanced compliance. 
+
+One of the most exciting aspects of our blade architecture is our ability to deliver a new application in the form of 
+software blade, enabling customers to implement this additional technology, immediately utilizing their current security 
+infrastructure and without the need to add complicated and expensive new system. This reduces both direct cost and 
+total cost of ownership. 
+
+We believe our Software Blade architecture and comprehensive security product portfolio can help customers make 
+their enterprises more secured while making their security infrastructure simpler to manage. Check Point accomplishes 
+this by streamlining their security infrastructure and allowing them to reduce the number of security vendors they 
+utilize. 
+
+We're also working with the next-generation of our Endpoint suite. Over the past few months we've made many 
+improvement to our Endpoint strategy. We now have dedicated overlay sales force for Endpoint. 
+
+And we've just released two major innovative technologies for Endpoint Security: WebCheck for addressing one of 
+today's most challenging areas of security, preventing malware from attacking a personal computer while surfing; the 
+second technology is called OneCheck and provides a single unlock and security control point for all security 
+subsystems, from the disk encryption to the Windows logon. Overall we're making a lot of progress on the Endpoint 
+side and it can be a good source for upside in 2010. 
+
+During the quarter, we closed the Nokia acquisition and achieved early success with our integration efforts to date as 
+our quarterly results indicate. From day one, all operational aspects of the Nokia acquisition were integrated into Check 
+Point and we now operate as a single organization. 
+
+The success to date of the integration efforts is complemented by the enthusiasm we've experienced from our customers 
+and partners. I just returned last week from our Check Point Experience Asia Pacific event in Thailand where 
+experienced this enthusiasm first hand. In fact we even saw an increase in attendance at the event despite the current 
+macroeconomic condition, which I believe speaks to the dedication of our customers and partners. 
+
+Now I would like to address our financial projections for the rest of the year. Keep in mind that while our result so far 
+has been very good, the softness in the economy is not behind us. My projections are going to raise the ranges we 
+provided before, but the level of uncertainty in the market is still high. 
+
+
+For the third quarter of 2009, we expect revenues in the range of 220 to $236 million. Non-GAAP EPS is expected to 
+be between 0.42 and $0.51 a share. GAAP-based EPS is expected to be approximately $0.10 less than this. 
+
+For the full year of 2009, we expect revenues in the range of 870 to $920 million and non-GAAP earnings per share 
+between $1.88 to $2. GAAP-based EPS is expected to be approximately $0.40 less than that. 
+
+Thank you for being with us on the call today, and now we'd like to open the call for your questions. 
+
+Q&A 
+
+Operator 
+
+Thank you. [Operator Instructions] Our first question is coming from Katherine Egbert with Jefferies. Please state your 
+question. 
+
+<Q - Katherine Egbert>: Hi, good morning, good afternoon. Congratulations on a good quarter. You signed an 
+unusual number of larger size deals in this quarter, which flies in the face of all the uncertainty we've seen in the 
+economy. Can you give us a little color on that? Was that attributable to Nokia? Or what's going on there? Thanks. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: Hi. I believe the big deals are two indications. 
+One indication, we're seeing the number of large deals growing for the last two years, based on our efforts to work 
+closer with customers, to work on larger projects and overall doing, I think, a better job in our accounts management. 
+Nokia and the other in the rest of the Appliance strategy is also helpful because we're becoming bigger and bigger 
+partners for our customers. And with the consolidation of purchases, now not only the software but also the appliance 
+that it runs on, and with Nokia even more of that is getting the deal sizes even higher. 
+
+<Q - Katherine Egbert>: Okay. And then I know you probably won't give us a number, but can you just characterize 
+how Nokia contributed for the quarter? Was it better than expectations or worse? And also was it accretive? Or how 
+dilutive was it? Thanks. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: It was accretive and it was, I think, better than 
+we expected. We always look at acquisitions very, very carefully and we saw very good performance. What is 
+important to understand that it's almost impossible for us to break down these two numbers separately because before 
+we had the clear cut between the customer buying a Power-1 and contributing revenue to Check Point for example, or 
+buying IP appliance from Nokia and not contributing revenue to Check Point. Now customers have a much better 
+choice. We now are very neutral if we choose to buy Power-1 or IP Series appliance or UTM-1 for a certain model or 
+IP model that corresponds to that. So the shift in that business and the mix of that business is now changing very, very 
+quickly based on that integration. And I think customers are very happy about that, and we are very happy about that. 
+
+<Q - Katherine Egbert>: Okay. Congratulations Gil. 
+
+Operator 
+
+The next question is coming from Gregg Moscowitz with Auriga. Please state your question. 
+
+<Q - Gregg Moscowitz>: Thanks very much. And I'd like to add my congratulations as well. I just have a couple of 
+questions around Nokia. Just one, Tal, how much of the deferred revenue balance in Q2 comes from the transaction? 
+And then just secondly, I noticed on the cash flow statement you only had a $57 million cash outlay for the transaction, 
+which is less than I expected. Just wondering if you could talk about if there are any future obligations relating to that? 
+Thank you. 
+
+<A - Tal Payne, Chief Financial Officer>: I think with the transaction costs, you see the amount in the cash flow as 
+you stated, we can not relate to it because we are committed to keep it confidential. What we disclose is what we have 
+to according to GAAP numbers. So you can see the numbers in the cash flow by yourself, that's one. Bear in mind that 
+
+
+the restructuring cost is not included in this line item, it's part of the operating cash flow. So that is one comment. So 
+the nine million restructuring cost is appearing as a deduction in the operating cash flow, which mean operating cash 
+flow was nine million higher than the 113 million that you actually see. So that's one comment. The second regarding 
+Nokia and deferred revenue, in the acquisition date, net of what we already recognized as a – we didn't disclose the 
+numbers but I can tell you it was in the low tens of millions of dollars. 
+
+<Q - Gregg Moscowitz>: Okay. Thank you. 
+
+Operator 
+
+Our next question is coming from Phil Winslow with Credit Suisse. Please state your question. 
+
+<Q - Philip Winslow>: Hi, guys good quarter. Gil, just wondered if you give a sense what you're seeing by geography 
+here in the Americas versus Europe? If you could just maybe categorize the selling environment between those two? 
+And if you've seen any changes? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: I haven't seen a big change in the environment. 
+I think overall we're seeing good demand and good willingness to do deals in all regions. This quarter in particular 
+Europe was actually performing a little bit better and provided a very good growth rate, more than the Americas. Asia 
+based on both on our efforts and both on other factors is showing very nice growth. We have a renewed effort in Latin 
+America, which is still very small for us but consistently over the past few quarters it's shown high growth rate. So 
+overall, we've seen healthy growth all over beyond Asia, which is still small, and Latin America, which is small too. 
+Europe was the good – was the highest growth in this quarter than – between the Americas and Europe. 
+
+<Q - Philip Winslow>: I've got it. And then also I'm wondering if you can give us a sense of the contribution of 
+hardware in this quarter as a net percentage of total product revenue, given the Nokia acquisition? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: Now the shift towards – it's not hardware it's 
+integrated appliances, which includes software and the hardware, but appliances now are more than 50% of our product 
+sales. 
+
+<Q - Philip Winslow>: Great, thanks. 
+
+Operator 
+
+Our next question is coming from Daniel Ives with FBR Capital Markets. Please state your question. 
+
+<Q - Daniel Ives>: Yeah. Could you just talk, you know, if you think about the progression of the quarter, was there 
+any change that you saw with customers willing to do bigger deals? Especially in the last few weeks of June, maybe 
+comment on July, or just trends that you've seen? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: Not very big changes. I think that one thing 
+that I'm positively impressed by our sales management and sales force in recent quarter is that they are making their 
+forecasts pretty accurately. So we haven't seen too many surprises. The trend the quarter has been more backend-loaded 
+continues, even though this quarter was less backend-loaded than Q1. So when compared to last year it was more 
+backend-loaded but compared to Q1 it was a little bit less backend-loaded. And overall I haven't seen customers pulling 
+back on large deals. I mean, I'm sure that there are examples of that but from my memory recollection I don't think that 
+we have any examples of bad surprises like that, of customers that are committing on a deal and backing off for any 
+reason in the recent quarter. 
+
+<Q - Daniel Ives>: Thanks. Congrats. 
+
+
+Operator 
+
+Our next question is coming from Shaul Eyal with Oppenheimer. Please state your question. 
+
+<Q - Shaul Eyal>: Thank you. Hi, good afternoon. Congratulations of mine as well. Two quick questions. Gil, how's 
+the response to the newly-introduced Software Blade architecture so far? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: The response is very positive. I look at it both 
+coming from service that we're doing, the acceptance level is very high compared to the time which we have it in 
+market. Many, many people recognize that and relate to the idea. From meetings that I have with customers, it's equally 
+positive. I mean, customers like the concept. We're showing them a lot of examples of what we can do with it. For 
+example, we have a big push into IPS space by simply activating the IPS blade. And again, there is a lot of enthusiasm 
+about that. I mean, the reduction in complexity, the reduction in cost, the increased level of security the customer can 
+get, because today almost nobody active at IPS in a blocking mode or active mode but more in passive mode and we 
+encourage people to put it in active mode. 
+
+Our great – there's a lot of things that customers can do. But the overall response today is very good. Again if you 
+would – just one example for one blade, it will still take time, because let's remember, with our large customer and 
+large install base, for them to upgrade to a new version it takes a lot of time and I don't expect that to finish any time 
+soon. However the interest level is high, the enthusiasm is high, and that means that we can – if everything continues to 
+work well then we should expect to see some nice upside from that later this year and even more so in 2010. 
+
+<Q - Shaul Eyal>: Thank you. And would you characterize the current performance as you guys taking share from 
+competitors? Maybe what about the competitive landscape? Thank you. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: I don't have any good tools to estimate 
+percentages or to quantify that. My feeling is that we're doing a quite well and are taking market share. We haven't seen 
+too many changes in the landscape. I mean, Cisco remains an important player, Juniper remains a competitive 
+company. Beyond that we hardly hear about other companies in the market place. And I haven't seen any new names 
+pop up recently in the network security space. 
+
+<Q - Shaul Eyal>: Got it. Thank you very much and good luck. 
+
+Operator 
+
+Our next question is coming from Michael Turits with Raymond James. Please state your question. 
+
+<Q - Michael Turits>: Hi, guys, Michael Turits. Questions on margins, good margins this quarter. On the G&A line, I 
+noticed that they actually went down sequentially. What were you able to do in order to accomplish that, given that it 
+was an expense quarter from the acquisitions? And then secondly, on the gross margin line, you saw the license gross 
+margins go down. Is that about the level that we should expect in that? I would imagine service to pick up as you work 
+through the purchase accounting but is this about what we should see on license gross margins going forward? 
+
+<A - Tal Payne, Chief Financial Officer>: I think I'll start with the gross margin. It's already integrating the majority 
+of the IP Series effect in Q2. So I would say it's a good range, the number that you see right now there. The more 
+appliance you will have, the slightly more it will go down. But I think right now, as Gil said, we passed the 50%. So I 
+think it's a good rate for a longer period. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: And with more cost reductions or optimization 
+we can do. But I won't build on that. I mean it's not a – don't build any assumptions like that into your model but it's 
+some challenges for us. 
+
+<A - Tal Payne, Chief Financial Officer>: Yeah. But I think 88 is a great result taking into account it's over 50% of 
+our revenues is coming from Appliance – of our product revenues is coming from Appliance. So that's one comment. 
+And the second regarding the expenses, bear in mind this quarter is already fully integrated, all the head count increase 
+
+
+and the added expenses that we had in the integration of Nokia. Having said that, you can see 52% operating margin, 
+which is quite high, even compared to Q2 last year, which was 51%. Between the lines like G&A, you look 
+specifically, you see last year it was eight and this quarter it's around eight million as well. Q1 it was more – bear in 
+mind, it can slightly fluctuate a million or two between quarters, depends on certain provisions for one-time items, 
+which you have in any quarter. It can be legal, it can be finance, it can be rent, it can be other items that can add slight 
+fluctuation. So I will say pretty stable levels, nothing material there. 
+
+<Q - Michael Turits>: Okay. Thank you. 
+
+Operator 
+
+Our next question is coming from Walter Pritchard with Cowen and Company. Please state your question. 
+
+<Q - Walter Pritchard>: Hi. Tal, you had mentioned that it looked like year-over-year that the business is more 
+backend-loaded. But I noticed that DSOs were down year-over-year and even that would bring in over some of the 
+receivables balance I assume you have from Nokia. Just wondering how to reconcile those two things? 
+
+<A - Tal Payne, Chief Financial Officer>: Sure. I think Gil has actually completed the answer when he said 
+comparing to Q1 2009 it was slightly less backend-loaded. But comparing to last year, or Q2 2008, then it was higher. 
+So I would say the phenomenon of backend-loaded quarter is here. It didn't go away but it was slightly less 
+backend-loaded comparing to Q1 2009. And that can be a slight explanation for the fact that we reduced the DSO in 
+two days from 81 to 79. 
+
+<Q - Walter Pritchard>: Great. And then, Gil, I'm wondering, now that you've owned the Nokia business here for, 
+three months or so and you have a better view into their pipeline and the refresh prospects and so forth, I'm wondering 
+if you could just give us a sense of how much either – is there pent-up demand in the base? Are we at a state where 
+they're refreshing now with regularity? And I guess I'd be surprised if that were the case because of the economy, but 
+just want to get your comments on, from a refresh perspective, what you see in the Nokia base? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: Impressions I got so far is that the behavior of 
+the Nokia business is, there's a lot of stability in that because of the refresh cycle. We're not talking about the refresh 
+cycle which is like done once every five years or – it's much less cyclical than you can expect. On the same time, in the 
+software business we had very little refresh because the license used to be perpetual, so that part of business actually 
+provides more product annuity – it's not annuity, but more renewal or refresh of product on an ongoing basis. And so 
+far again, three months may be too little to say, but so far we see, surprisingly, in that business a little bit more stability 
+than the software product licenses that we have in our original business. 
+
+<Q - Walter Pritchard>: And then just lastly on the M&A front, I'm wondering if you could just give us a sense of 
+where you stand now that you have the Nokia business, at least the first few steps here integrated? How you're looking 
+at the M&A landscape and potentially participating in that? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: We're looking very actively on more 
+opportunities to acquire companies. Having said that, it's not easy to find very good companies that would fit our vision 
+and would fit our architecture. But in terms of our willingness to acquire more companies, we want to do that. We feel 
+that Nokia is behind us, so we are – our resources are available to do more deals and we're actively looking to see what 
+can make sense and fit our vision and strategy. 
+
+<Q - Walter Pritchard>: Great. Thanks a lot. 
+
+Operator 
+
+Our next question is coming from Sarah Friar with Goldman Sachs. 
+
+
+<Q - Sarah Friar>: Good morning, good afternoon. Thanks for taking my question. Just coming back to the license 
+revenue, we can see the sequential growth in the quarter, but clearly now we've had two quarters in a row of 
+year-over-year declines. Now, Tal, I know in your prepared remarks you talked about the shift to subscription-based 
+technology programs, et cetera. Could you talk a little bit about when we can get back to product and license revenue 
+year-over-year increases? And is there any catch-up that happens? Or is it more annualizing through the comps of the 
+subscription revenue shift? 
+
+<A - Tal Payne, Chief Financial Officer>: You're right, Sarah. We talked about the shift that we've seen in a few 
+programs that we had. And I think I talked about it also the quarter before, about the shift we see with the 
+SmartDefense services and the security subscription packages, which pretty much allow a customer not to purchase the 
+license but to pay a monthly fee or an annual fee, which allows him to have an operating expense in a sense. It's good 
+for us because in the long term it can increase our revenues, and you can see a significant increase in our service 
+revenues. So that's one factor. 
+
+Taking into account the Software Blade offering that started a quarter and a half ago, the same many blades there are 
+offered as a service, or as an annual fee, which will have the same phenomenon. So the more people will move into 
+these packages, it will – we will see a shift from product revenues to service revenues. In the long term, you will see the 
+increase even more significantly in the services. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: And I would also add, and Tal also touched on 
+that, but again we are offering more and more customers the ability to buy the entire deal on a monthly payment, like 
+an ISP model when they pay every month instead of purchasing. So it's not a big number in the overall financial result, 
+but for example if you would take these deals and account them in the one-time, then you would see even this quarter 
+an increase in product sales. Overall from our business year-over-year performance, we are selling more products and 
+more licenses this year, or this quarter, than we sold in Q2 last year. 
+
+<Q - Sarah Friar>: Got it. And just so then, do we get back to a point where product and license actually grows 
+year-over-year? Or do you guys just say – because I would presume you annualize that all through because you're right, 
+it's better for the long term of your business, but I think investors always end up focusing on that product and license 
+revenue line? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: I think it will happen in between one to three 
+quarters from now. I think if everything works well, Q3 should show that. But I would be a little bit more careful and 
+expect that at the beginning of 2010. But between now and the first quarter in 2010, we should be – we should see that 
+happen. 
+
+<Q - Sarah Friar>: Okay, great. Thanks for the clarity there. 
+
+Operator 
+
+Our next question's coming from Todd Raker with Deutsche Bank. Please state your question. 
+
+<Q - Todd Raker>: Hi, guys. Two questions for you. First, if I think of the Nokia business coming on stream here, can 
+you give me some sense for how it will impact product revenue versus software updates and maintenance? Are you 
+seeing any Nokia revenue on the product side? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: I think it's all one business. We're addressing 
+the same customers, the same structure, the same accounts, and while there's still work to uniform that and do that, 
+we're already operating as one organization. I was surprised how quickly it happened in our organization. Usually in 
+previous acquisitions – firstly, in previous acquisitions we have different product and different and slightly different 
+customer bases. Here, exactly the same customer base, it's exactly the same kind of programs and the unification is 
+happening much, much faster than we expected. So I don't think it should have too many changes. 
+
+
+<Q - Todd Raker>: Okay. And then can you guys give us some sense on Pointsec, what you're seeing in the market 
+there? And what the growth profile of the Pointsec portfolio looks like? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: I think, first we've unified the power Endpoint 
+offering as one umbrella of Endpoint and we're trying to move away from selling just one component like Pointsec or 
+disk encryption. We are now in the middle of a new product cycle, when we're bringing the new latest release of that, 
+and there's a lot of pent-up demand and some even deals that are waiting for the new version. And my expectation, 
+when all of that finishes, we'll start to see better results in that business in the beginning of 2010. 
+
+<Q - Todd Raker>: Okay. Thanks, guys. 
+
+Operator 
+
+Our next question is coming from Robert Breza with Check Point Software. Please state your question. 
+
+<Q - Rob Breza>: Hi, Tal, Rob Breza from RBC actually. Didn't know I got a new job. But wondered if you'd 
+comment a little bit more on the deferred revenue? It was up very nicely sequentially. Seasonally, it normally doesn't 
+go up. Is there anything from an integration perspective where maybe more of the maintenance contracts are deferred, 
+or from Nokia? Or there's a higher deferral rate? Anything to give us more insights on the increase in deferred would be 
+great. Thanks. 
+
+<A - Tal Payne, Chief Financial Officer>: Sure. I would say that probably – of course, we had the consolidation of 
+Nokia opening a balance of deferred revenue discounted according to accounting rules. So that's one effect which is the 
+major one. In terms of the movement between Q1 to Q2 balance at the end of the quarter, we see some contracts which 
+are longer period and therefore can increase the deferred revenue. But we already talked about it from a year-ago 
+phenomenon, so that's something that actually stabilized in the last few quarters. So that will not be another reason for 
+growth. And we just – the truth is we have good bookings, the bookings were good this quarter in Nokia and in our 
+product as well. So all in all, I will say it was just a good result which drove the deferred revenues up. 
+
+<Q - Rob Breza>: Great. Thank you very much. 
+
+Operator 
+
+Our next question is coming from Sterling Auty with J. P. Morgan. Please state your question. 
+
+<Q - Sterling Auty>: Thanks, hi. Two questions. First, back to the Nokia, can you describe whether the Nokia 
+contribution to the quarter, or the benefit in the quarter, was disproportionate to any one geography? Or was it evenly 
+spread similar to the rest of the core business? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: It was evenly spread. Nokia was slightly 
+stronger in Europe and the U.S. this quarter. But again, it splits pretty much consistently with the rest of the Check 
+Point business. 
+
+<A - Tal Payne, Chief Financial Officer>: I think you can see it also in the – I alluded to the geographical distribution 
+of our revenues. And with 44% in the Americas and 44% in EMEA and 12% in Asia – in Asia Pacific and Japan, well 
+you can see it's very similar to our historical rates which we have between the quarters. So no major shift there. 
+
+<Q - Sterling Auty>: Okay. And any FX impacts in the quarter to revenue and expenses, obviously more to expenses? 
+
+<A - Tal Payne, Chief Financial Officer>: Yeah. I just remind you the basic thing in our P&L structure. Majority, or 
+potentially all of our revenues are coming in dollars. In the expenses, we have a certain portion of approximately 60%, 
+slightly more, in local currencies. Therefore, whenever the dollar is weakening, it effectively increase our expenses. 
+And if the dollar is getting stronger, then it reduces our expenses. This quarter effect was a net $2 million effect. 
+
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: Negative. 
+
+<A - Tal Payne, Chief Financial Officer>: Negative, which means if the dollar would have not moved, our EPS 
+would have been even $0.01 higher. 
+
+<Q - Sterling Auty>: Okay. And just one clarification, Gil, just want to go back to the Endpoint Security. You 
+mentioned some of the new products, some of the pent-up demand. When – are the new products available right now? 
+Or how do they roll out over the next couple of quarters to give you the visibility into improvement in 2010? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: It does takes time. There are certain 
+technologies like the OneCheck and WebCheck that are now already available in a release called R72. There is a bigger 
+release that's coming later in the year that's more evolutionary in terms of the underlying architecture. That will come 
+hopefully later this year, and maybe the beginning of 2010. So this takes time. We are trying to move in that space in a 
+better way than we've done before. So we're not saying to customers wait for six months or a year until you get an 
+improvement, we're actually coming every quarter with an Endpoint release. But as I said, I think we'll start to see 
+results from what we're doing, both from a technology and from a sales standpoint the beginning of 2010. 
+
+<Q - Sterling Auty>: All right. Thank you. 
+
+Operator 
+
+Our next question is coming from Israel Hernandez with Barclays Capital. 
+
+<Q - Israel Hernandez>: Hi, guys, good quarter. It's just a quick question, Tal, on the cash. Cash balance continues to 
+grow. Any thoughts here about increasing your potential buybacks going forward? It's getting kind of ridiculous at 
+about 1.6 billion, given the size of your company. So I just want to get your thought process here as we move forward? 
+Thanks. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: I think the answer here is pretty standard. We 
+continue to look about the use. I've already mentioned that we are looking to more acquisition opportunities but in the 
+same time it is hard to find the right one. I think we'll also look at buyback again, but keep in mind we gave that 
+explanation before. We're limited on the amount of buyback we can do, based on the taxation of the amount. So we 
+cannot drastically increase the buyback without taxation effect. And so overall we keep looking at all options. I think 
+over the last few years we've shown that we are utilizing our cash in all these ways, both in acquisitions and in 
+buyback. And we're doing it fairly consistently and we'll keep doing so and maybe we'll find even better usages of the 
+cash. 
+
+<Q - Israel Hernandez>: Thank you. 
+
+Operator 
+
+Our next question is coming from Kash Rangan with Merrill Lynch. Please state your question. Mr. Rangan, your line 
+is live for questions. Okay, then our next question is coming from Scott Zeller with Needham & Company. 
+
+<Q - Scott Zeller>: Thank you. I know there were a couple of questions earlier on Endpoint. Could you tell us still 
+what the approximate product license breakout was between Endpoint and core Security? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: No, we don't break that. Once again core 
+security did very well, Endpoint not that well. 
+
+<Q - Scott Zeller>: Okay. And also for the Nokia business, could you tell us gross margin-wise roughly if things came 
+in better than expected on gross margins versus the core Check Point appliances? 
+
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: The gross margin on the core Check Point 
+products are better than the Nokia appliances. I mean I'm comparing appliance to appliance, not appliance to software. 
+And that's one of the long-term options for us improving, by streamlining operation, by integrating product lines and by 
+getting somewhere in the middle. At any rate, both product line are very profitable so we are not trying to do any 
+shake-up because both of them are good business and both of them provide good value for the customer and good value 
+for us. But just generally speaking that's the two kinds of things. 
+
+<A - Tal Payne, Chief Financial Officer>: Yeah, I think we can see, we consider the fact with our gross margin 
+reduced from 92% to 88%, which is a great result. There's always potential for some more savings but there's always 
+other factors that work both ways. So I will say I think 88% gross margin is a good result for a company that has such a 
+significant revenue coming from Appliance nowadays. 
+
+<Q - Scott Zeller>: Thank you. 
+
+Operator 
+
+Our next question is coming from Ziv Tal with Oscar Gruss. Please state your question. 
+
+<Q - Ziv Tal>: Hi. Congratulations on a good quarter. How would you characterize the current competitive landscape 
+in the Endpoint security? Is there something that is missing in your portfolio that's required by clients? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: I think overall the Endpoint security market is 
+very competitive. There are a bunch of very large companies that are very competitive and there is also a few number 
+of mid-size companies that are finding their way up. And there's another tier of small companies, which we see less that 
+are also there. So I would characterize that as very competitive right now. I think we have a lot of value proposition that 
+we can say. And I must say that as much as I think we can do much better, we grow much more in the Endpoint, the 
+level of interest with customers that I find is very, very high. I just returned from our Check Point Experience 
+Conference for Asia. There's so many deals and meetings that people that wanted to know about the Endpoint was from 
+that I can be positive or optimistic about the prospect. 
+
+The main thing is not about competing on the same thing but the main thing with our product, which is really, really 
+differentiated at the Endpoint. And given that we're a very, very small player there we need to find a good way to 
+explain the differentiation and to show customers that they can take three or more different products and consolidate 
+them into a single Endpoint agent. And that by the way holds true even after some of the consolidation we've already 
+seen in the market. So I think it's not – I'm not just speaking on what was the situation a year ago, but what the situation 
+should be now based on the differentiation now. And now that we've even come up with OneCheck and WebCheck I 
+think it even increases that differentiation, but it is very competitive. 
+
+<Q - Ziv Tal>: Thanks for taking my question. 
+
+Operator 
+
+Our next question is coming from Rob Owens with Pacific Crest. Please state your question. 
+
+<Q - Rob Owens>: Great. Thank you. Most of my questions have been answered at this point but I did want to drill 
+into long-term deferred revenue and the sequential change you're seeing there? I think it was down nine, $10 million 
+sequentially? Thanks. 
+
+<A - Tal Payne, Chief Financial Officer>: I think we related to that, if you look at the total deferred revenues, you 
+can see the increase is just the shift between the long term and the short term. And as I said, we stopped seeing the 
+increase in the long term, we see more increase in the short term. So all in all the deferred revenue did increase. 
+
+<Q - Rob Owens>: No, I see that, Tal. But I'm curious why the long term went down by 10 million? Is that a function 
+of duration? Were there some significant contracts that were one time in nature before? 
+
+
+<A - Tal Payne, Chief Financial Officer>: Probably the second, the latter, yes. 
+
+<Q - Rob Owens>: Okay, great. Thank you. 
+
+Operator 
+
+Our next question is coming from Katherine Egbert with Jefferies and Company. 
+
+<Q - Katherine Egbert>: Hi. I just wanted to do a quick follow-up. We've all alluded to it but can you just address it 
+outright? What are you seeing out of McAfee as a competitor on Network Security since they bought Secure? Thanks. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: Short answer is we don't. Appreciation for 
+McAfee, they're doing very well on Endpoint and they are a very good company. But I'll repeat the short answer, we 
+haven't seen any presence on the Network Security front. 
+
+<Q - Katherine Egbert>: Okay. Thank you. 
+
+Operator 
+
+We have no further questions at this time. I'd like to turn the floor back over to management for any closing comments. 
+
+Kip E. Meintzer, Director, Investor Relations 
+
+Once again we'd like to thank all you guys for participating today. And if any of you would like to speak with 
+management after, please send me an email or get on the call list or ring me directly. So thank you once again and have 
+a great day. Bye, bye. 
+
+Operator 
+
+Ladies and gentlemen, this does conclude today's teleconference. You may disconnect your lines at this time, and we 
+thank you for your participation. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2009, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

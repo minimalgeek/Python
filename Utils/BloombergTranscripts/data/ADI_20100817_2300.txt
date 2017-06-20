@@ -1,0 +1,912 @@
+Q3 2010 Earnings Call 
+
+
+Company Participants 
+
+• Mindy Kohl, Director of Investor Relations 
+• Jerald G. Fishman, President and Chief Executive Officer 
+• David A. Zinsner, Vice President, Finance and Chief Financial Officer 
+• Vincent Roche 
+• Robert McAdam 
+Other Participants 
+
+• Jim Covello 
+• Craig Ellis 
+• Ross Seymore 
+• Uche Orji 
+• Terence Whalen 
+• Steve Smigie 
+• Shawn Webster 
+• David Wong 
+• Christopher Danely 
+• Stacy Rasgon 
+• Mark Lipacis 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon. My name is Courtney, and I will be your conference facilitator. At this time, I would like to welcome 
+everyone to the Analog Devices fiscal third quarter 2010 earnings conference call. 
+
+All lines have been placed on mute to prevent any background noise. After the opening remarks, there will be a 
+question-and-answer period with our analyst participants. [Operator instructions]. Thank you. Ms. Kohl, you may begin 
+your conference. 
+
+Mindy Kohl, Director of Investor Relations 
+
+Thanks, Courtney and good afternoon, everyone. 
+
+This is Mindy Kohl, Director of Investor Relations. We appreciate you joining us for today's call. If you haven't yet 
+seen our third quarter fiscal 2010 release, you can access it by visiting our website at www.analog.com and clicking on 
+the headline on the home page. This conference call is also being webcast live from analog.com, select investor 
+relations and follow the instructions shown next to the microphone icon. 
+
+A recording of this conference call will be available today within about two hours of this call's completion, and will 
+remain available via telephone playback for one week. This webcast will also be archived on our IR website. 
+
+
+Participating in today's call are Jerry Fishman, President and CEO; Dave Zinsner, Vice President, Finance and CFO; 
+Robbie McAdam, Vice President of Core Products and Technologies and Vincent Roche, Vice President of Strategic 
+Market Segments and Worldwide Sales. We've invited Robbie and Vince who happened to be in the Boston area today 
+to join the call to answer any questions you might have on their specific areas of focus. 
+
+During the first part of today's call, Jerry and Dave will present our third quarter results, as well as our short-term 
+outlook. The remainder of the time will be devoted to answering questions from our analyst participants. 
+
+We have updated the schedules on our IR website which includes the historical quarterly and annual summary P&Ls 
+for continuing operations, as well as historical quarterly and annual information for product revenue from continuing 
+operations by end market and product type. 
+
+Next, I would ask you to please note that the information we are about to discuss includes forward-looking statements, 
+which include risks and uncertainties. Our actual results could differ materially from those we will be discussing. 
+Factors that could contribute to such differences include, but are not limited to those described in our SEC filings, 
+including our most recently quarterly report on Form 10-Q. The forward-looking information that's provided in this call 
+represents our outlook as of today, and we do not undertake any obligation to update the forward-looking statements 
+made by us. 
+
+Subsequent events and developments may cause our outlook to change, therefore, this conference call will include 
+time-sensitive information that may be accurate only as of the date of the live broadcast which is August 17, 2010. 
+
+With that, let's begin with opening remarks from our CEO, Jerry Fishman. 
+
+Jerald G. Fishman, President and Chief Executive Officer 
+
+Thanks, Mindy and thanks, everybody, for joining us today on the third quarter results call. 
+
+Business conditions at ADI continued to strengthen during the third quarter. Revenues for the third quarter grew 8% 
+sequentially and 46% year-over-year to approximately $720 million as we experienced strong demand across virtually 
+every market we serve and also every geography. 
+
+Gross margins and operating margins were both at record levels and were well above the levels that we planned for the 
+quarter, primarily as a result of strong growth, favorable product mix, lower manufacturing costs, and continuing very 
+tight operating expense control. Overall, we are making very good progress on continuing to focus ADI and in 
+fundamentally improving our business model. 
+
+Given the strength of current demand, we are planning for Q4 to be another quarter of growth, of increasing profits and 
+a very strong cash flow. 
+
+Clearly, we continue to closely monitor and closely analyze our customers' demand patterns to better understand the 
+current order rates. Overall, our sense is that some product shortages from some of our competitors are causing some 
+customers to boost their orders on ADI to some degree, but for the most part, our customers are reporting that their 
+inventories are being well controlled relative to the demand they are experiencing from their end customers. 
+
+In addition, there are very important macro trends in the industrial markets, the communications markets, the 
+automotive markets, the healthcare markets, that are generating very strong growth opportunities for ADI, which are 
+currently boosting our revenues. I will comment a little bit in more detail about some of these trends right after Dave 
+reviews the financials for the quarter. 
+
+In the short term, we're planning to build what our customers are telling us they need. We are planning to keep our lead 
+times short. We are planning to keep tight control of our costs and to carefully monitor order rates for any inflection 
+points in the future. 
+
+
+It's important to note, as we look at it, that our current revenue levels are right on the curve of our long-term growth 
+rate, if you eliminate the volatility of 2009 and 2010. We have also significantly increased the percentage of our 
+operating expenses that are variable with sales and profits, which affords us considerable downside protection if the 
+market does turn negative. 
+
+So now let me turn the call over to Dave Zinsner, who will provide a little bit more details about our financial results. 
+
+David A. Zinsner, Vice President, Finance and Chief Financial Officer 
+
+Thanks, Jerry. 
+
+As Jerry mentioned, third quarter revenues were $720 million, growing 8% sequentially and 46% from last year. Gross 
+margins for the third quarter were 66.7%, and that's a 170 basis point improvement from the prior quarter. The increase 
+was driven by slightly better utilization on higher sales, a slightly better mix, and lower spending resulting from the 
+closure of our Cambridge manufacturing facility. 
+
+Operating expenses for the third quarter were $229 million, a $9 million or 4% increase from the prior quarter, well 
+above our sales growth – well below our sales growth. Sorry. Most of the increase was related to variable compensation 
+expense, due to increased sales and improving operating margins. We are now approaching maximum variable 
+compensation levels, which under our current plan, max out at current profit margins. 
+
+Operating profits for the third quarter were $251 million, or 34.9% of sales, up 290 basis points from 32% of sales in 
+the prior quarter. This was the fifth consecutive quarter that we expanded operating margins, which are now more than 
+1,000 basis points above the prior peak, clearly demonstrating that we are, in fact, continuing to focus ADI and 
+fundamentally improving our business model. 
+
+Other income was approximately $200,000. 
+
+Our tax rate was 20.6%, as we adjusted our annual rate from 21.3% to 21%, excluding the effect of restructuring 
+expenses. And so our fourth quarter tax rate should be approximately 21%. 
+
+Weighted average share count was flat at 306 million shares. 
+
+As a result, earnings were $0.65 per diluted share, which is an 18% sequential increase from the prior quarter and an 
+almost threefold increase from the prior year. As you know, our goal is to grow earnings at a faster rate than revenue, 
+and this is the sixth consecutive quarter we were able to achieve that goal. 
+
+Cash flow from operations was $225 million, or 31% of sales, and we closed the quarter with $2.5 billion in cash, or 
+
+2.1 billion in cash, net of debt. Our accounts receivable balance increased approximately 8%, which was in line with 
+sales, and our days sales outstanding remained flat at about 45 days. 
+Inventories increased by 7%, which was slightly below our revenue growth this quarter and in line with our 
+expectations for continuing growth in the fourth quarter. Our days of inventory increased slightly to just over 100 days. 
+
+Although we feel that it is prudent to run at a slightly higher level of inventory to meet any upside in demand and keep 
+our lead times short, our plan is for inventory to be below 100 days at the end of the fourth quarter, when you assume 
+the midpoint of the revenue expectations. And this is in line with our model of 90 to 100 days. 
+
+In dollar terms, inventory at distributors increased in line with increasing revenues but days of inventory remained flat. 
+Distributors had approximately 57 days of inventory in the third quarter, and that's flat with the prior quarter. Our 
+manufacturing team pays close attention to the inventory at distributors and works hard to keep the inventory at a 
+healthy level, which we target to be approximately eight weeks. 
+
+Likewise, the manufacturing team pays close attention to lead times to our direct OEM customers. This quarter, our 
+lead times increased very slightly but, again, remained in good control, with 96% of our shipments to OEMs occurring 
+within six weeks and 98% within eight weeks. 
+
+
+By all accounts, we once again executed well, and as a result, we are running the business at a significantly higher 
+profitability level versus prior peaks. 
+
+Now, I will turn the call back over to Jerry who will discuss the results from each of our end markets and provide a 
+short-term outlook. 
+
+Jerald G. Fishman, President and Chief Executive Officer 
+
+Okay. Well, with regard to our market performance, each of the market segments in the third quarter. First, I will just 
+give you some comments on the industrial market. 
+
+For the fourth consecutive quarter, we have seen strong sequential growth from the broad and diversified industrial 
+market. In the third quarter, industrial revenues grew 8% sequentially to $341 million, which followed some very 
+strong industrial quarters in the preceding two or three quarters. Our strong results were primarily driven by growth in 
+the industrial automation and instrumentation markets, but virtually every application area within the industrial 
+category showed sequentially improvement. 
+
+In aggregate, industrial revenues represented 47% of our revenues during Q3. 
+
+Activity in the industrial market continues to accelerate as manufacturers increase their capital spending, rather than 
+their labor costs to increase productivity, reduce costs and meet demand. In addition, the drive towards energy 
+efficiency across a broad range of industrial applications requires increased use of high performance signal processing 
+technology from ADI. 
+
+Interestingly, in the past few weeks we have heard commentary from our industrial customers that gives us confidence 
+that they are ordering products from ADI in line with the demand that they are seeing from their customers. For 
+example, ABB CEO's Joe Hogan said recently in his quarterly report, and I quote this, that, "...after a severe industrial 
+recession over the last two years, customers have started again to invest in technologies for energy efficiency and 
+productivity." 
+
+And Emerson Electric, another one of our large customers said in their most recent filing, "Order growth for industrial 
+automation remains very high across all businesses, with particular strength in the power generating, alternator, 
+electrical drives, power transmission, and fluid automation businesses." These are all areas where ADI's technology is 
+highly relevant. 
+
+ADI supplies these and thousands of small customers, developing all kinds of measurement, test, and data acquisition 
+products. Other of ADI's large industrial customers, such as Rockwell, Agilent, National Instruments and Danaher, just 
+to mention a few, have also offered very similar commentary about the trends they are seeing in their business and at 
+ADI specifically, we are benefiting from increased industrial sales in Asia, including China, as we replicate our very 
+strong industrial position that we enjoy in the United States and Europe in what now is the fastest growing economies 
+in the world. 
+
+In the automotive business revenues were approximately $84 million, which is similar consistent with the prior quarter 
+after a few quarters of hyper growth of automotive sales. Our sales to automotive customers represented 12% our total 
+sales in the quarter. 
+
+Again here, feedback from many of our automotive customers indicates that they believe that unit volumes have 
+stabilized and that demand remains strong for high-end vehicles which is where ADI's technology is the most relevant. 
+In addition, the macro trends within the automotive space, including safety, fuel efficiency and convenience are all 
+continuing to drive higher electronics content and consequently much higher dollar content available for ADI. 
+
+In summary, automotive has become a very attractive market for ADI, where we have the momentum from both 
+increasing the available market for vehicles and increasing market share at ADI. 
+
+
+In the communications market, our revenues were about $154 million in the third quarter, or up 14% sequentially 
+versus the second quarter level. In aggregate, sales to our communications customers accounted for 21% of our sales 
+during the quarter. 
+
+The major focus for mobile operators remains servicing the mobile data demand and improving operating efficiency. 
+So there's a mix of new deployments and upgrades to address the mobile data needs along with the refurbishment of the 
+millions of existing sites with modern, multi-standard equipment to gain operational efficiency to the operator. 
+
+You know, just recently one of our key customers, Ericsson, described mobile subscriber growth as a key driver for 
+infrastructure capital spending, but also the ever-increasing need for higher bandwidth to support the dramatic increases 
+in video demand pushes this need even further. 
+
+ADI's position in this market continues to strengthen, as we hold major market share for our converters, our amplifiers 
+and our RF radio frequency products on the radio cards of the largest and most successful infrastructure equipment 
+companies in the United States, in Europe and also in China. 
+
+We are equally optimistic about wireline communications, which had its fifth consecutive quarter of sequential 
+improvement, delivering very good returns on the very significant investments we've made over the past few years in 
+new applications for ADI such as optical and cable. 
+
+Here, again, the need to drive voice, data, and video through the same network drives more sophisticated analog 
+content within these applications. In the wired infrastructure communications business, we are very well positioned 
+with products that deliver the performance required to advance network applications. 
+
+Finally, in communications, our revenues from handset customers also increased in the third quarter. Although handsets 
+represent a relatively small percentage of ADI's total revenues, we focused our new products on solving the most 
+difficult multimedia and human interface challenges within smartphones which creates a richer user experience. Given 
+the relative success these applications are having versus the broader handset market, we believe this segment has solid 
+growth potential in the future for ADI. 
+
+Revenues from the consumer end market were about $129 million, a 7% increase from the prior quarter. Our sales to 
+consumer customers accounted for a total of about 18% of our sales, and were driven by strength in portable media 
+devices, digital cameras, as well as several other consumer entertainment products. In aggregate, for most consumer 
+products demand has been tepid as consumers endure a very tough external environment. However, in the electronics 
+segment of the consumer market, growth has been reasonably strong. 
+
+As a result, we have seen this market continue to recover as we enter what is usually a strong seasonal quarter for our 
+consumer business in our fourth fiscal quarter. 
+
+Finally, in the computing area, our computer revenues were flat sequentially but represented only 2% of our revenue. 
+As we have mentioned in prior calls, and I think you are aware that the computing market is not a space where ADI is 
+applying any significant R&D resources. 
+
+So our new orders in aggregate were very strong in the third quarter. Our book-to-bill ratio in the third quarter as 
+measured by end customer bookings, which we think is the more important measurement, was above one and our 
+fourth quarter opening backlog is up from last quarter. 
+
+So given these factors, we expect our revenues will grow to somewhere in the range of 740 to $770 million for the 
+fourth quarter and once again we expect that growth will be broad-based across virtually all the end markets and all the 
+geographies we serve. 
+
+In Q4, we are planning for gross margins to again be in the range of 66 to 67% of sales. We expect that operating 
+expenses will grow, but consistent with our model and our prior recent history, we expect the operating expenses to 
+grow well below our revenue growth. As a result, we expect that our operating margin will improve to 35 to 36% of 
+sales and earnings will grow to a range between $0.68 and $0.72. 
+
+
+Obviously there continues to be a lot of uncertainty in the economies around the world and we will continue to closely 
+manage our operating expenses corporate-wide. Notably today, approximately 17% of our operating expenses are 
+variable, up from 9% when the cycle began, providing us the flexibility to rapidly modulate spending in response to 
+changing market dynamics. Nevertheless, as I mentioned earlier, we are planning to build what our customers have 
+asked, but we will continue to monitor order activity for any changes in demand pattern. 
+
+Today, we continue to be one of the industry's most reliable suppliers and that gives us important competitive 
+advantages not only in the short term, but I think more importantly in the long term as our customers decide who their 
+long-term vendors are going to be. 
+
+So in summary, we run our business according to a consistent set of priorities regardless of whether we are operating in 
+an up cycle or a down cycle. We believe in our actions to strategically invest in innovative products that give our 
+customers a competitive advantage, make fundamental improvements to our cost structure and deliver superior quality 
+and superior reliability, which continue to provide very sustainable benefits for ADI going forward. 
+
+Mindy Kohl, Director of Investor Relations 
+
+Thank you, Jerry. 
+
+During today's Q&A period, please limit yourself to one primary question and no more than one follow-up question. 
+We will give you an opportunity to ask additional questions if we have time on the end. Operator, we are now ready for 
+questions from our analyst participants. 
+
+Q&A 
+
+Operator 
+
+[Operator instructions]. Your first question comes from the line of Jim Covello with Goldman Sachs. 
+
+<Q - Jim Covello>: Great. Thank you guys so much for taking my question. I appreciate it. Congratulations on the 
+good results. 
+
+A couple of questions. If we look at the – the communications segment, do you perceive any significant difference in 
+wireline versus wireless as we go through the rest of the year in terms of strength of opportunity there? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: I think it – you know, the market – obviously the 
+markets move in different directions quarter to quarter. I think that our penetration in the wireless infrastructure market 
+has always been very, very strong and our content has been increasing, which gives us good opportunity there. And 
+then the wired, most of what we are seeing is increases in share in that business with some new product offerings and 
+some new product categories for us. So I think the – you know, each of them for at least ADI, has very different 
+drivers. 
+
+Just reiterating in the wireless side, it's mostly more content in every base station. In the wireline side, it's just brand 
+new functionality that we are offering into those markets that we never offered before. So I think it has more to do with 
+our penetration of those markets than what – you know, how many routers some of the guys sell or how many pieces of 
+equipment they sell. Ours is – in that regard, is mostly about new functions penetrating new applications for us in the 
+wireline side. 
+
+<Q - Jim Covello>: When you mention that – because that was going to be my next question relative to automotive. 
+How much of the strength in automotive for ADI is the market versus content per box growth of ADI within the 
+automotive segment now? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: I will make some introductory comments and 
+then I will ask Vince, who runs the automotive segment for us, to talk a bit about it, but generally, it's mostly about 
+
+
+penetration. It's new functions that are required on cars and some of those are in safety. I mean, you know, we have 
+been supplying accelerometers in airbags for many, many years, but we are now supplying gyroscopes that go into 
+stability and control. We're now doing a lot of sensors that manage engine characteristics and many other things and we 
+are doing a lot of new functions that are going into the entertainment systems. So just in aggregate, I think for ADI, it's 
+mostly about there are new functions that are penetrating new applications, not so much about the unit growth of the 
+automotive market, but Vince...? 
+
+<A - Vincent Roche>: No, I think that's well stated, Jerry. You know, we clearly see an increasing sum for the spaces 
+that we provide technology and, you know, I think not only is the dollar content per car growing for us in terms of 
+opportunity, but also we're increasing our market share, particularly in the safety area, and as Jerry pointed out, the 
+gyroscope, which is a critical component that requires tremendous precision is – you know, is a technology that's being 
+adopted in the – the active safety area. We are very well positioned there in the mid to high end. 
+
+<Q - Jim Covello>: Is it possible...? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: It's always, Jim, somewhat dependent on the unit 
+growth out there. 
+
+<Q - Jim Covello>: Sure. 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: I think a larger part of our – the reason why 
+automotive is now 12% of our sales and it used to be 6% is mostly because of penetration of new functions in cars that 
+our technology is very well suited for. 
+
+<Q - Jim Covello>: Could we quantify the SAM today, versus what it was a couple of years ago? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: SAM that's available to analog? 
+
+<Q - Jim Covello>: Yeah. 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: I think it's hard to do that. We certainly don't have 
+those numbers here, but it's quite a bit larger based on the new technology that we are bringing to cars but I couldn't 
+quantify that. 
+
+<Q - Jim Covello>: Okay. Thank you so much. 
+
+Operator 
+
+Your next question comes from the line of Craig Ellis with Caris & Company. 
+
+<Q - Craig Ellis>: Thanks for taking the question and very nice job on the revenues and margins, guys. Jerry, you 
+mentioned that you expected broad-based strength in the outlook. Does that mean you expect about equal growth from 
+each of the end markets or do you expect particular end markets to be noticeably stronger than others? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: Well, we don't – we have our backlog and we 
+look at that very carefully, but backlogs are not usually very representative of what you ship in the next quarter it turns 
+out because they are so volatile. 
+
+But I think conceptually, we generally see a stronger consumer quarter in the fourth quarter. That's in line with 
+historical trends. So I think the only real anomalous thing in the fourth quarter is going to be we will probably get more 
+than historical – previous historical quarterly increases in the consumer business which is very typical for our fourth 
+quarter. I think other than that, we expect the automotive market to be up somewhat, the industrial market to be up 
+somewhat, and the communications market to be up somewhat too. 
+
+<Q - Craig Ellis>: Okay. That's helpful. And then the follow-up is for Dave. Dave, you have done a very good job 
+really moving above both your target gross and operating margins. When does it make sense to revisit the target model 
+
+
+and then you set forth an 8 to 12% revenue growth target for the company longer term at the analyst day. Has there – 
+has there been anything that you have seen, either internally to ADI or externally that causes you to think any 
+differently about long term revenue growth potential of the company? 
+
+<A - David A. Zinsner, Vice President, Finance and Chief Financial Officer>: I'll answer the second one first. No, 
+there's no changes in our outlook to what we think we can execute to on a long-term basis. 
+
+As to the model, there's no update to the model at the moment. We are actually in the process of going through our 
+2011 plan, and I suspect, you know, in the next few months we will have a lot more granularity as to what you can 
+expect, but as we kind of looked through the P&L, as good as everything was, we saw opportunities to improve in 
+several different areas. So I think the expectation is that, you know, we can continue to do better over time. 
+
+<Q - Craig Ellis>: Thanks very much, guys. 
+
+Operator 
+
+Your next question comes from the line of Ross Seymore with Deutsche Bank. 
+
+<Q - Ross Seymore>: Hi, guys. Congrats from me as well. Dave, just a couple questions on gross margin. Within the 
+July quarter, how much did the fab closure help? And last quarter you kind of talked about one-third of the cost savings 
+already being felt and two-thirds remaining. How should we think about the gross margin benefit going forward from 
+those cost savings? 
+
+<A - David A. Zinsner, Vice President, Finance and Chief Financial Officer>: Well, as I said we had a 170 basis 
+point sequential improvement in the gross margins and a fair amount of that came from the Cambridge – you know the 
+lower cost of manufacturing we got from the closure of Cambridge. I think most of that is behind us. There may be a 
+little bit more to go in the next quarter which will drive the gross margins up and then offsetting that, as Jerry talked 
+about, you know, the mix of consumer, although it's been dramatically improving over the last few quarters and is 
+actually getting closer and closer to our company average, still provides a little bit of headwind and so I think offsetting 
+that is what we would kind of expect – I mean, that's kind of why we are expecting flat gross margins for next quarter. 
+
+Anything else? I missed rest of your question, Ross. 
+
+<Q - Ross Seymore>: No, that was pretty much in on the gross margin one. I guess the one follow-up, Jerry, you 
+mentioned a stat about the percentage of your OpEx that's variable. I just wanted to make sure I had the timing right. 
+Right now you said it's 17%. The 9% of costs that was variable, was that at the beginning of this cycle? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: ...and it's about 17% now. 
+
+<Q - Ross Seymore>: What was it two years ago? Like, at the prior peak? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: That was two years ago. 
+
+<Q - Ross Seymore>: Oh, about 9%. 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: About 9% and now it's 17%. 
+
+<Q - Ross Seymore>: Okay, great. That was it. Thank you. 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: One follow-up to what Dave said, that I think it's 
+important to emphasize. You know, for many, many years, we got a lot of feedback and concern from our investors 
+about, you know, the only growth was going to be in consumer and the consumer margins were going to go down and 
+therefore we are either going to have to lower the margins to get growth and all of that stuff. I think the point that Dave 
+made, which I think is very, very important is that the consumer gross margins have come up quite a bit and they have 
+come up quite a bit because – for two reasons. One is we got the cost of those products down quite a bit. The other part 
+is we are now working our products that by and large we can get paid for, where some of the other products we were 
+
+
+working on, had quite a bit lower gross margins. 
+
+So, you know, the fact or the statement that Dave made that the consumer gross margins are now approaching the 
+corporate total gross margins, they are still lower but not nearly as much lower as they used to be. I think is a very, very 
+important point to point out there. 
+
+Operator 
+
+Your next question comes from the line of Uche Orji with UBS. 
+
+<Q - Uche Orji>: Can you hear me? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: Barely. 
+
+<Q - Uche Orji>: Jerry, first of all, congratulations on the numbers. Let me just ask you very quickly, utilization rate, 
+any way you can quantify what utilization rate is now, and while you are answering that, you know, how much revenue 
+can your current capacity support as unit demand continues to prove to be positive? 
+
+<A - David A. Zinsner, Vice President, Finance and Chief Financial Officer>: So utilization was right around 80% 
+this quarter, up from kind of the low 70s last quarter and we have actually been increasing the denominator. In other 
+words increasing our capacity over the last few quarters with very nominal capital spending, I would say. 
+
+So you know, as we kind of look through the next year, we are pretty optimistic, that you know, regardless of what the 
+situation looks like for next year in terms of revenue, we think with just a little bit of capital, we can meet that demand. 
+
+<Q - Uche Orji>: All right. Thanks for that. Just another question, quickly. Some other people that have reported 
+recently all mentioned, you know, some area of tightness, be it in the back end or be it in the front end with some wafer 
+capacity from the foundries. Are you noticing any of this at all? I mean, in terms of affecting any of your areas of 
+business, be it from your founding partners or any of your back end companies that you use? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: Capacity, of course, with these kind of increases 
+that semiconductor companies are reporting, is kind of tight, but in these parts of the cycle, it's the relationships that 
+you build with the purveyors of capacity, be it front end or back end, that really differentiate one company versus 
+another. And, you know, our manufacturing folks and our product folks have done a remarkable job in building 
+relationships with the foundries and the back end suppliers that have really allowed us to get through the cycle so far 
+with, you know – we reported a 46% increase year-over-year and we've kept our lead times short, which really goes to 
+the quality of the relationships and also I think the quality of the people who decide how to build our products within 
+the company. 
+
+So, you know, foundries are – they make very careful selections when they are out of capacity of who to service and, 
+you know, we have been very fortunate that we've had these relationships externally that have really helped us through 
+that period. So, you know, we could have probably shipped a little bit more this quarter if we had a little bit more 
+capacity, but I'd say by and large, the most important thing is we've had enough capacity that we have been able to 
+garner to keep our lead times short, and to keep our customers believing that we are differentiating ourselves from any 
+of our competitors. So I think we are in pretty good shape. We have been and I expect, unless something changes, we 
+will continue to be. 
+
+<Q - Uche Orji>: Great. And one last question. Communications, you know, was the best performing segment in terms 
+of sequential growth in revenues in the July quarter. As we look into your guidance, you know, 720 to 770, what will 
+be the areas of focus in terms of what could drive it, you know, towards the higher end of that and I know this is a 
+typical range you tend to guide but by segment, if I can get a sense of where the focus areas could be and where...? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: That's – if I do that, I would know a lot more than 
+I really know, but, you know, I think based on the backlogs we have, which is all we can really look for, we expect we 
+are going to get growth in each of the segments and probably the highest growth at least if history is a good indicator of 
+
+
+the future, is going to be in the consumer markets in the fourth quarter. 
+
+But, you know, we just don't know that. One of the real challenges in diverse companies like ADI is sort of trying to 
+pick where the – you know, what's going to grow in the short term more than others and what product to build and 
+where to put on capacity and where to take it off. That's a very challenging thing for to us predict a long time in 
+advance. But if there's any cyclical part of this thing or secular part of this thing, the fourth quarter is probably the 
+consumer business will grow faster than the others but I wouldn't bet a lot of money on the accuracy of that prediction 
+because we just don't know. 
+
+<Q - Uche Orji>: Okay. Thanks, Jerry. 
+
+Operator 
+
+Your next question comes from the line of Terence Whalen with Citi. 
+
+<Q - Terence Whalen>: Thanks for taking my question. This one is for Dave. Dave, I think your net cash is about $2.1 
+billion, have a significant potential to buy back stock. Ex-cash, your stock is at about 7.5 times your forward 12-month 
+earnings. Can you talk a little bit about how you evaluate the opportunity for buyback and also remind us how much of 
+your cash – how much of your gross cash is domestically versus internationally patriated? Thank you. 
+
+<A - David A. Zinsner, Vice President, Finance and Chief Financial Officer>: About 750 million or so is domestic 
+and the remainder is international. 
+
+As far as use of cash flow, you know, at this point given the uncertainty, it's good to actually have some cash on the 
+balance sheet. It was only 18 months ago where the world felt like it was coming to an end, so I think we're just trying 
+to be cautious and prudent. I would say that we are doing a buyback right now. We have bought back some stock. We 
+are also – we want to make sure that we maintain the dividend and that's very important to us and I think to our 
+shareholders but we will continue to evaluate further buybacks as time goes on and we'll update you on that when we 
+make a change. 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: I think, you know – I will add a little color to that, 
+from my perspective, that we have a lot of cash and, you know, if we look out and assume the world is not going to 
+come unglued, we have the potential to generate quite a bit of cash over the next couple of years. 
+
+So I think there's lots of ways to get financial leverage when you are generating a lot of cash and we are looking at all 
+of those. I think that's the best way to describe it. 
+
+<Q - Terence Whalen>: Great and then as my follow-up question. This one is on simple gross margin mechanics. You 
+guys are outperforming your target model right now, sort of at a record level of gross margins. How are we to think 
+about – it seems that a lot of the one off improvements in gross margin related to manufacturing footprint, etcetera, 
+have been realized. How should we think about gross margin, say, if you have a January quarter that's a seasonal 
+quarter, down several percent, will we expect gross margin to decline half a point or a point? Can you give us some 
+understanding of how we should think about that in the out quarters under a normal seasonal situation? Thank you. 
+
+<A - David A. Zinsner, Vice President, Finance and Chief Financial Officer>: I think it would be difficult for to us 
+tell – I mean, it's somewhat dependent on what the mix might look like, consumer, you know, if things were to fall off, 
+consumer might fall off more and mix would be beneficial. It's tough to call, particularly two quarters out. Probably the 
+best I could say is we could give you an update next quarter when we are closer to the first quarter. 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: I think the take away comment is probably that 
+our stated goal and what we have been able to do so far is, you know, when these cycles get higher highs and higher 
+lows. I think we are pretty confident that we can do that given the margin structure of the company. 
+
+<Q - Terence Whalen>: Great and congratulations. 
+
+
+Operator 
+
+Your next question comes from the line of Steve Smigie with Raymond James. 
+
+<Q - Steve Smigie>: Great. Thanks and also my congratulations on the great numbers. 
+
+I was hoping you could talk a little bit about turns in the quarter and turns in the guidance. 
+
+<A - David A. Zinsner, Vice President, Finance and Chief Financial Officer>: Yeah, this one, as we looked at these 
+numbers we decided they were almost irrelevant, if not completely irrelevant. The backlog that gets placed on us from 
+the distis is almost an irrelevant number, given the fact that we recognize all of our revenue once the distis ship out. So 
+it's relatively low because the distis – the turns requirement, that is, is relatively low, given that distis are placing a fair 
+amount of backlog on us, but, you know, I think it would be almost worthless to give you any kind of number. 
+
+<Q - Steve Smigie>: Okay. A separate question. I was hoping could you clarify. You made a comment earlier on your 
+prepared remarks that you maxed out the compensation or something like that? I was just hoping could you discuss a 
+little bit more. Does that mean that you will get more operating leverage going forward or less and just so – if you 
+could just give a general discussion of what R&D and SG&A look like given what you said? 
+
+<A - David A. Zinsner, Vice President, Finance and Chief Financial Officer>: That's a good question, Steve. As we 
+kind of ramped our operating margins, one of the – you might call headwinds to the operating margin level has been the 
+fact that variable comp has increased as operating margins have been increasing. There's a cap to that and we are really 
+approaching that cap and so once we get beyond, I think, 36% or so of operating profit, as a percentage of sales, really 
+there isn't any incremental variable comp or not very much, at least, variable comp that increases as operating margins 
+and sales go up beyond that. 
+
+So the leverage going beyond this if revenue were to ramp, or continue to ramp is actually – will start to accelerate. 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: You know, I think as David said in previous 
+quarters, the largest ingredient in the OpEx increases that we've had over the last couple of quarters is variable comp 
+because our goal in analog has always been over the last several years is to get more and more of the expenses being 
+variable given the volatility out there in the industry. 
+
+So you know, in some ways we've had a very aggressive plan at Analog to get our operating margins up. And we have 
+accomplished many of those goals and as a result, the variable comp has moved up very quickly as the operating 
+margins moved up by, as Dave mentioned earlier, ten points. And, you know, we always believed that was a very 
+valuable way for us to run the business. It was valuable to investors and it gave us more variability in the fixed costs of 
+the company. 
+
+But, you know, like most plans, there's a cap on it and you get up to a certain level, it doesn't go down from there, but it 
+
+– it doesn't go up from there like it's been going up at a pretty good rate. You know when you are putting up two or 
+three points of operating margin improvement in a quarter, that variable comp formula is very reactive to that. 
+So I think what Dave's basically saying is that, you know, it's going to sort of peak out around here a little bit higher, 
+and any improvements above that are not going to raise the OpEx at the rate it's been raising it over the last couple of 
+quarters, as we went from 25 to 35% operating margins. 
+
+<Q - Steve Smigie>: Great. Thanks a lot, guys. 
+
+Operator 
+
+Your next question comes from the line of Shawn Webster with Macquarie. 
+
+<Q - Shawn Webster>: Yeah, thank you. Maybe circling back up to the utilization rate question, it sounds like you 
+expect it to tick up a little bit. I guess I was wondering, historically Jerry, in the past, what has been the highest 
+
+
+utilization rate you have observed in the past for your business? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: We've had a period where utilization was 110%. 
+Of course, we didn't get much out, and the lead time stretched out. 
+
+But we can easily run our fabs up to 90 without any real problems. When you get above 90, you start to – you'd better 
+be right on the mix, which is always hard to do. 
+
+But I think the important point is that – and we said this I think in previous calls -- that the way the internal capacity is 
+right now, we can incrementally add capacity with very low risk, very quickly, with very low capital. 
+
+So I think what we are doing right now is we are making sure, with relatively small, incremental capital investments, 
+that we can have whatever capacity in place that the customers need from us. 
+
+We have a very strong fixation around analog about keeping the lead time short, because when the lead time starts 
+extending, you get very confused about what real demand is. So for us, the sort of independent variable is the lead 
+times. Everything else is dependent on keeping those lead times short. 
+
+So as you can see in the capital spending for the quarter, we raised the capital spending a little last quarter. I think that's 
+mostly to make sure that whatever the customers tell us they want, we can ship to them pretty responsibly. 
+
+<Q - Shawn Webster>: And do you expect your lead times to tick out a little bit more during this quarter before they 
+stabilize? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: Depends on our plants. 
+
+Like I said, the independent variable for us is lead times. Everything else comes from that determination. And our goal 
+for lead times is to keep them about where they are going forward, because we really think both in the short and the 
+long term, it gives us a great competitive advantage. 
+
+<Q - Shawn Webster>: And on that thread, how much would you say of your business, in terms of percent of revenue 
+or however you think about it, is business which is second sourced, where near term, you have a chance to gain share 
+from competitors who may have tighter supply conditions than you have? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: I think it's relatively small. 
+
+As we think about the lead time question, you know, it's much more important in the long term than it is in the short 
+term of how much you can pick up a few more percent short-term revenue, which I think we have probably picked up. 
+
+But the most important thing about lead times now is, you know, the large customers just get absolutely infuriated 
+when -- because semiconductor vendors can't ship product for whatever reason, they can't ship their products, and it 
+costs them market share. 
+
+So I think all the feedback we are getting from our large customers right now is that we have distinguished ourselves on 
+the lead time question, and that's going to really influence their long-term decisions, where they have a couple of 
+choices, as they always do, of who are going to be the critical strategic vendors for these customers. 
+
+So I think the effect of lead times is much more long term in nature than the short-term advantage you get on relatively 
+few parts that they use second sources for that we get orders for, if one of our competitors can't deliver. I think it's 
+much, much more important in the long term than it is in the short term. 
+
+<Q - Shawn Webster>: Okay, thanks a lot. 
+
+Operator 
+
+Your next question comes from the line of David Wong, Wells Fargo. 
+
+
+<Q - David Wong>: Thanks very much. The percentage of your revenues that come from products made at foundries, 
+has this – roughly what is this? And has this percentage been rising or falling in recent quarters? Do you expect it to go 
+up or fall in coming quarters? 
+
+<A - David A. Zinsner, Vice President, Finance and Chief Financial Officer>: It's been relatively flat over the last 
+few quarters. We are roughly running about 50/50. And I don't see any reason why it would change, although we are 
+not really trying to manage that number. It's really a function of mix, based on where -- the products we have designed, 
+and where they are manufactured and how well they do. 
+
+<Q - David Wong>: Right. And at current levels of utilization, is your blended gross margin from products made at 
+foundries above or below the products made internally? 
+
+<A - David A. Zinsner, Vice President, Finance and Chief Financial Officer>: Usually, products manufactured 
+internally carry a better margin. 
+
+<Q - David Wong>: Great. Thanks. 
+
+Operator 
+
+Your next question comes from the line of Chris Danely with JPMorgan. 
+
+<Q - Christopher Danely>: Thanks, guys. First of all, congrats on some outstanding margin expansion, getting above 
+the previous peak. 
+
+My first question is on the end markets. Now that things seem to be, you know, settling down a little bit, is it your 
+impression that we are going to get back into a more normalized revenue growth/end market scenario from here on out? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: Well, that's certainly the hope. I mean, you know, 
+there's a lot of different scenarios that could play out here. One is that the whole increase of what everyone has seen in 
+the last 12 months is just an anomalous bubble, and the whole world is going to collapse and go back to where it was in 
+2009 again. 
+
+But, you know, if you – I mean, that's why the comments I was making earlier about when we look at – if you draw the 
+line between where the world was before the disaster and the recovery this year, that growth line is pretty consistent 
+with where we are now, which would at least lead some credence to the fact that what we will see is a return to more 
+normal long-term growth rates in these markets. And there won't be a huge correction from these kind of numbers that 
+we are seeing right now. 
+
+But, you know, there are a lot of different people that have a lot of different opinions about that and we don't know 
+much more than they do about that, but certainly there's quantitative rationale for that belief, that things will, you know, 
+get back to more normal patterns and there won't be a huge collapse. 
+
+You know, of course, like I said, there's different opinions on that and at these kind of valuations, I think there's a lot of 
+people who believe the world is going to come unglued and, you know, that happens to be their opinion. You know, we 
+don't know more than you do about that. So it's hard to predict. 
+
+<Q - Christopher Danely>: Yeah, I know less than nothing. But most importantly, you are not seeing any concern on 
+your end customers, right? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: No. 
+
+<Q - Christopher Danely>: Great. And then on the second question, in terms of the going forward gross and operating 
+margin drivers from here, you know, could you just maybe comment on those and are there any further step functions 
+in improvement we could see in either? 
+
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: I don't relax on these margins either. Yeah, I 
+mean, we are constantly looking to get the mix better. We are constantly looking to – for ways to improve our costs. 
+You know, we still have some product areas that are not earning the right returns that we are trying to make better. So 
+there's always opportunity for continuing improvement and, you know, we are – we have been very aggressive at 
+reaching into those and I think we will continue to be aggressive on that. 
+
+<Q - Christopher Danely>: Great. Thanks. 
+
+Operator 
+
+Your next question comes from the line of Stacy Rasgon with Sanford Bernstein. 
+
+<Q - Stacy Rasgon>: Hi guys, thanks for taking my question. I was wondering if we could drill a little bit into the 
+industrial business. So right now, you've had four quarters or so of very good growth in that business. I was wondering 
+if you could go maybe a little bit more granular into the drivers or what has been driving that business well above 
+previous peaks? Maybe if you could give a little bit of comparison to the prior peak, say in 2008 and versus, say, the 
+trough that we saw in 2009. Any color on new markets that you are in that you weren't in back then? Any color on 
+market recoveries? Any color on share gains? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: I will make one introductory comment and then 
+turn it over to Vince. I think if you really look at the industrial revenues we are not running significantly higher on a 
+running rate basis than we were in 2008. So, you know, it's a little bit higher, but, you know, in general, if you just 
+project normal growth from 2008 to 2010, where we are, you would be about where the industrial revenues are, which 
+at least gives some credence to the fact that maybe we are just going to start growing at more normal rates going 
+forward and not that there's a cliff. 
+
+I mean, it's important to remember that in 2009 our industrial revenues were down 25%, which is a staggering number 
+in a market that's relatively stable. So I think you have really got to draw the long-term lines rather than look at any 
+quarterly peak or valley to try to see where we are. And when you draw that line in the industrial market you conclude 
+that if the world hadn't had the peaks and valleys, these are about the rates that we would be at if things had been 
+normal over the last two years. But with that, in terms of some of the segments, I will turn it over to Vince. 
+
+<A - Vincent Roche>: Thanks, Jerry. Yeah, the industrial sector for ADI is really dominated by the industrial 
+automation and the instrumentation sectors. Both of those have been tremendously strong over the last four or five 
+quarters, and I would say in terms of, you know, getting a boost from a new growth area, I would say the energy sector 
+is beginning to emerge as a significant piece of the industrial business now as well. 
+
+I would also say from a geographic perspective, that's what very encouraging to ADI is that our business in Asia, 
+particularly in China and the Asia Pacific region, showed the highest growth very, very high growth in the last couple 
+of quarters when compared to the more developed markets which means we are, I think, gaining share and getting good 
+traction with the emerging customers with the broad base of products that ADI has got. 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: You know, historically, we've always, as Vince 
+said, been extremely strong in the industrial market in the U.S. and Europe. And what we have been working hard on 
+for the last four or five years is developing the same relative strength in China and the rest of Asia, as we have in the 
+
+U.S. and Europe. But, you know, that's been a real slow process. It takes forever to get at a lot of those small accounts 
+and, they are all over weird geographies and so on. But we are getting some real traction on that and that is really 
+helping us in the industrial product area. 
+You know, I don't know for many of you who went to – attended our analyst meeting six months ago or so in Boston, I 
+
+– you might remember that Mike Britchfield, who runs our industrial business, got up and said that his goal is to not 
+only be the most profitable business in Analog, which he is today, but also be amongst the highest growth if not highest 
+growth in Analog and he went into a fair amount of detail on each of these sub segments, some of which you 
+mentioned, some of which you didn't, of why he believed that, you know, the industrial business can grow at or above 
+
+the average rate for Analog. I think in the summary comments I said, you know, Mike is a serious guy. I wouldn't bet a 
+lot of money against Mike, who is an expert and has been around the industrial customers for years and scoping out 
+these opportunities. 
+
+And, you know, I think we are seeing some of the benefits of that. 
+
+<Q - Stacy Rasgon>: Got it, thank you. And for my follow-up, just one quick question. You said that you are doing a 
+buyback. I noticed you bought back a little bit this last quarter, about $4 million. Does that imply that that's the 
+beginning of a buyback that's continuing into Q4? 
+
+<A - David A. Zinsner, Vice President, Finance and Chief Financial Officer>: Well, we have, I think it's 
+somewhere in the range of $90 million of approved buyback and so at the moment, we are just – we have been buying 
+back kind of the dilution associated with the options, so assuming that there's dilution next quarter, that program would 
+be set up to do that and we are evaluating, you know, broader buybacks and what – and trying to balance that with the 
+other uses of cash that we might have. 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: I think, you know, conceptually we have just 
+been nibbling at it a little bit. We haven't been inspired recently and we are evaluating exactly what we want to do 
+about the financial structure of the company going forward. 
+
+<Q - Stacy Rasgon>: Got it. Thank you, guys, congratulations. 
+
+Operator 
+
+Your next question comes from the line of Mark Lipacis of Morgan Stanley. 
+
+<Q - Mark Lipacis>: Thanks for taking my question. You talked about the variable comp maxing out at 36%. Does 
+that reset? Do you guys reset that next year? Thanks. 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: Yeah, we – next year we're – we haven't yet 
+determined the bonus plan, the variable comp plan, but it's – I expect when we do, we are going to have both a margin 
+component and a sales growth component, because, you know, for the last couple of years, it's mostly about getting the 
+margins up. For the next couple of years, you know, sales growth is equally important to margin growth. So I expect 
+that when we look at, that we are going to reset the targets and decide the various – at what level we want to pay what 
+bonus. But I think it's probably fair to say no matter how well we do next year, it's unlikely that the variable comps are 
+going to be higher than they were this year. 
+
+<Q - Mark Lipacis>: Okay. Thanks. That's helpful. The other question, Dave, you mentioned the – pretty good 
+visibility into distributor inventories. For the products you ship directly, could you just qualify or provide color like 
+how do you think about inventories at customers you are shipping direct to? What do you think about the kind of 
+visibility you have there and how they are tracking and behaving? Thanks 
+
+<A - David A. Zinsner, Vice President, Finance and Chief Financial Officer>: Well, we utilize their bookings. 
+Most of them provide some level of forecast and then Vince and his team have a fair amount of dialogue with them 
+directly to understand what their needs are. You know, we are not obviously getting automated reports from them every 
+week on their inventory levels like we get at the distis, but we get a lot of – I guess what you'd call more qualitative 
+understanding and I would say probably it affords us almost as much visibility as the distis, really, at the end of the day. 
+
+<Q - Mark Lipacis>: Thank you. 
+
+Operator 
+
+Your last question comes from the line of Steve Smigie with Raymond James. 
+
+
+<Q - Steve Smigie>: Great. Thanks. Sorry to squeeze in a last one. On the auto business, I noticed it was flat 
+sequentially. Obviously you've had some great quarters in a row and huge year-over-year growth. Now that we have 
+sort of, you know, come up from some pretty low levels, how should we think about that progressing over coming 
+quarters? Is that going to be a sequential grower given the dollar content gains, new features, etcetera? Maybe a secular 
+type sequential pattern if you could? 
+
+<A - Jerald G. Fishman, President and Chief Executive Officer>: So quarter to quarter, it's very hard to predict any 
+sectors and segments and what's going to happen, but, you know, I'd say if we assume a relatively stable economy out 
+there, you know, I would say that the auto business will grow sequentially year to year, and -- and that's about all we 
+can predict right now. I mean, it's -- it's very challenging to predict any quarter what any of the segments will grow. 
+
+I mean, Vince said earlier that his expectations were Q4, that based on the backlog and what we have seen, we're going 
+to get some more growth in the automotive business. That's our plan right now. We will see how that turns out. 
+
+<Q - Steve Smigie>: Okay. And just on the converter business, can you talk a little bit about how you are thinking 
+about that and how you are managing that? Are you managing that business at this point for share gain? Are you 
+managing it just for overall general growth? And if you could talk a little bit, just generally about maybe product 
+introduction, I'm just trying to understand how you are thinking about the growth opportunity in that – the next year, 
+roughly? 
+
+<A - Robert McAdam>: First of all, the converter business is we have thousands of customers across all segments and 
+thousands of products. So it's a very fragmented business and I don't think – you know, it's not a business where you 
+tweak a price and you change your growth curve. We look at this as long term. We have a market share of 46% in 
+converters which is unique in the industry to have that kind of share leadership. And, you know, it's obviously job one 
+for this company to maintain our share, both in terms of technology and in terms of market in this space. I think as we 
+look at each segment differently, Jerry and Vince mentioned what we are trying to do to increase our industrial 
+business. 
+
+So I think it's not -- we don't look at it as a tradeoff between growth and share necessarily. We say how do we 
+maximize and maintain our leadership position across all dimensions of this converter business over a long period of 
+time, as we have over the last 20 – or 40 years, in fact, and consistently through the last ten years. 
+
+So I think it's more – it's a great franchise. We have a fabulous position with our market share and maintaining our 
+position, our leadership is the way we look at it without being too numerical about it. 
+
+<Q - Steve Smigie>: Okay. Is it – is it a certain number of product introductions you are trying to hit every quarter to 
+maintain that leadership position or is that just the wrong way to think about it? 
+
+<A - Robert McAdam>: Again, it's fragmented. We have a range of products for industrial, for consumer, and 
+products for automotive. So it's very application specific and so we have a strategy for each market and submarket 
+segment, and we have core technologies that we, you know -- certain products are introduced to push the core 
+technology further, even before the anticipated demand. 
+
+So you know, we are investing a lot of R&D in the converter space and more than anybody else, and that's something 
+that – you know, that's – we feel we are investing the right amount to really maintain leadership in that space. 
+
+<Q - Steve Smigie>: Great. Thanks a lot. 
+
+<A - Robert McAdam>: Thank you. 
+
+Mindy Kohl, Director of Investor Relations 
+
+Okay. That concludes our Q&A session for today. We appreciate your participation and look forward to talking with all 
+of you again during our fourth quarter 2010 conference call scheduled for November 22, 2010, beginning at 5:00 PM 
+Eastern. Thanks very much. 
+
+
+Operator 
+
+This concludes today's conference call. You may now disconnect. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2010, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

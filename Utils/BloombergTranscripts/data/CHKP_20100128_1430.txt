@@ -1,0 +1,742 @@
+Q4 2009 Earnings Call 
+
+
+Company Participants 
+
+• Kip E. Meintzer, Investor Relations 
+• Tal Payne, Chief Financial Officer 
+• Gil Shwed, Founder, Chairman and Chief Executive Officer 
+Other Participants 
+
+• Brad Zelnick 
+• Daniel Ives 
+• Katherine Egbert 
+• Shaul Eyal 
+• Jeff Evenson 
+• Philip Winslow 
+• Todd Raker 
+• Brian Freed 
+• Rob Breza 
+• Sterling Auty 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Greetings, and welcome to the Check Point Software Fourth Quarter and Full Year 2009 Financial Results. At this time 
+all participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. 
+[Operator Instructions]. As a reminder, this conference is being recorded. 
+
+It is now my pleasure to introduce your host, Mr. Kip Meintzer, Head of Investor Relations for Check Point Software 
+Technologies. Thank you, Mr. Meintzer. You may now begin. 
+
+Kip E. Meintzer, Investor Relations 
+
+Thank you. Welcome to all of you joining us today. This is Kip E. Meintzer, Head of Global Investor Relations for 
+Check Point Software. On the call with me today are Gil Shwed, Founder, Chairman and CEO, Tal Payne, Chief 
+Financial Officer. We would like to thank all of you for joining us to discuss Check Point's fourth quarter and fiscal 
+year 2009 results. As a reminder, this call is being webcast live on our website and is being recorded for replay. To 
+access the live webcast and replay information, please visit the Company's website at checkpoint.com. For your 
+convenience, the conference call replay will be available through February 4. If you'd like to reach us after the call, 
+please contact Investor Relations at +1-650-628-2050. 
+
+Now, before we begin with management's presentation, I'd like to bring the following to your attention. During the 
+course of this call, Check Point representatives will make certain forward-looking statements. These forward-looking 
+statements may include our expectations regarding the amount of available for – amount of ordinary shares available 
+for repurchase, our expectations regarding demand for our security products, our expectations regarding the 
+introduction of new products and the success of those products, our expectations for the continued and additional 
+
+
+adoption of our current products and new products, our expectations regarding the potential impact of market 
+conditions on our business as we move forward, and our expectations regarding our business outlook for the first 
+quarter and full year of 2010. 
+
+Other statements, which may be made in response to questions, which refer to our beliefs, plans, expectations or 
+intentions, are also forward-looking statements for the purposes of the Safe Harbor provided by the Private Securities 
+Litigation Reform Act. Because these statements pertain to future events, they are subject to various risks and 
+uncertainties and actual results could differ materially from Check Point's current expectations and beliefs. 
+
+Factors that could cause or contribute to such differences include, but are not limited to, the risks outlined in the press 
+release that we issued today and the risks discussed in Check Point's Annual Report on Form 20-F for the year ended 
+December 31, 2008, which is on file with the Securities and Exchange Commission. Check Point assumes no obligation 
+to update its forward-looking statements. 
+
+Now, it's my pleasure to turn the call over to Tal Payne, Check Point's Chief Financial Officer. 
+
+Tal Payne, Chief Financial Officer 
+
+Thank you, Kip. Good morning and good afternoon to everyone joining us on the call today. I am happy once again to 
+begin the review of an excellent quarter and what turned out to be an exceptional year for Check Point. This quarter we 
+achieved record results across all our key metrics. Our results, both quarterly and for the full year, exceeded the 
+high-end of our projections as we continued to demonstrate solid growth across all regions. Our revenues for the fourth 
+quarter increased by 25% over the same period in 2008, while our non-GAAP EPS was $0.61, representing 22% 
+growth year-over-year. 
+
+Before I delve further into the numbers, let me remind you that our fourth quarter and fiscal year GAAP financial 
+results include equity-based compensation expenses in accordance with ASC 718, expenses relating to our acquisitions 
+including amortization of intangibles, impairment to marketable securities in accordance with ASC 320, and the tax 
+effect of such items. 
+
+Keep in mind that the non-GAAP information is presented including these items. In our press release, which has been 
+posted on our website, we present GAAP and non-GAAP results along with reconciliation tables, which highlight these 
+data as well as the reasons for our presentation of the non-GAAP information. 
+
+Now let's take a look at the financial highlights for the quarter. In the fourth quarter, our revenues exceeded the 
+high-end of our projections. Revenue reached $272.1 million, representing an increase of 25% compared to $217.6 
+million in the fourth quarter of 2008, and a 16% sequential increase over the third quarter of 2009. 
+
+Our revenue growth was evident across all regions with Asia-Pacific being particularly strong. Revenue distribution by 
+geography for the quarter was as follows: America contributed 42% of the revenues, Europe, Middle East and Africa 
+was 45%, and Asia-Pacific and Japan region contributed the remaining 13%. 
+
+Looking at revenues by type, our product and license revenues were $120.2 million, representing 28% growth over the 
+same quarter a year ago and 38% growth sequentially. This was accomplished even with the shift from product 
+revenues to subscription revenues as a result of the Software Blade architecture. 
+
+As a reminder, earlier this year, we launched our Software Blade architecture. As a result, almost all of our new 
+products have a recurring blade that is included in the basic product price. This portion is recognized as subscription 
+revenue over a year, resulting in a shift of revenues from products to subscription. 
+
+Our software updates, maintenance and service revenues increased by 23% year-over-year to $151.9 million in the 
+fourth quarter of 2009. The growth in deferred revenues was also significant this quarter. Deferred revenues as of 
+December 31, 2009 was $425.3 million, an increase of $94.5 million or 29% over December 31, 2008, and an increase 
+of 61 million – $65 million over the deferred revenue balance as of September 30, 2009. 
+
+
+From a deal-size and quantity perspective, this quarter we saw an increasing number of larger deals. Transactions 
+greater than $50,000, accounted for 60% of the total order value compared to 53% in the same period a year ago. We 
+had 29 customers that each had transactions with a value greater than $1 million compared to 22 in the same period last 
+year. 
+
+From an operating perspective, we posted great results. Our non-GAAP operating income was $152.7 million in the 
+fourth quarter of 2009, an increase of 27% compared to the same period in 2008. This also reflects the highest 
+non-GAAP operating income in the history of the Company. 
+
+GAAP net income for the fourth quarter of 2009 was $109.5 million or $0.51 per diluted share. The GAAP net income 
+in the fourth quarter of 2009 includes additional amortization of intangible asset expenses in the amount of $4.9 million 
+relating to the acquisition of Nokia Security Appliance business. Net of taxes, this charge totaled $4.5 million or $0.02 
+per diluted share. 
+
+Non-GAAP net income for the quarter was $129.5 million, or $0.61 per diluted share, up from $105.6 million, or $0.50 
+per diluted share a year ago. Earnings per share exceeded the high-end of our guidance, representing 22% growth 
+year-over-year, primarily as a result of our top line growth and expense management. 
+
+I would like to draw your attention to the fact that this quarter, the number of shares used in the computation of diluted 
+earnings per share increased to 213.5 million shares, mainly as a result of the increase in Check Point share price. 
+Going forward, the number of shares will continue to be affected by a movement in the share price. 
+
+For the fourth quarter, DSO, days sales outstanding, was 76 days compared to 82 days last year, a reduction of six days. 
+Our cash flow operation was very strong this quarter, increased by 54% to $138.1 million from 89.4 million in the 
+fourth quarter a year ago. During the quarter, we purchased approximately 1.5 million shares for the total cost of $50 
+million as part of our share repurchase program. 
+
+Moving forward, we have $31 million remaining from the 400 million plan approved by the Board in 2008. In addition, 
+we announced today an expansion of the share buyback program with a new program authorized by the Board enabling 
+to repurchase our shares in an amount of up to $250 million for the year. 
+
+Now let's take a look at 2009 physical year highlights. For the year ended December 31, 2009, revenues were $924.4 
+million, an increase of 14% compared to $809 million in the year-ended December 31, 2008. Non-GAAP net income 
+was $435 million, an increase of 13% compared to $386 million in 2008. Non-GAAP EPS for 2009 was $2.05, an 
+increase of 15% compared to $1.78 in 2008. 
+
+On the operating side, we achieved a non-GAAP operating margin of 55% for the year, up from 53% in 2008 and 51% 
+in 2007. This was as a result of our focus on efficiencies and productivity, but also driven by the higher revenues that 
+we achieved during the year. 
+
+The synergies associated with the successful acquisition of Nokia Security Appliance business contributed to this 
+record result. This is a great accomplishment, taking into account the higher cost structure of the acquired business. 
+
+For the year, cash flow from operations has reached a record $549 million, bringing our cash marketable security 
+balance in the year-end to $1,846,999,332 and a great way to finish the year. 
+
+Now, let me turn the call over to Gil and for his thought on the fourth quarter and the full year. 
+
+Gil Shwed, Founder, Chairman and Chief Executive Officer 
+
+Thank you, Tal, and good morning and thank you all for joining us today. The fourth quarter completed a very good 
+year and produced exceptional results. We were ahead of our expectation and plans for the quarter. I hope it is a good 
+sign for the global economy, but I can also see in our business result, how key initiatives contributed to the success. All 
+of our product lines produced amazing growth from the third quarter, which as you recall, was a great quarter as well. 
+
+
+If you look at the growth of our product and license revenues, we grew sequentially by 38%. The highest 
+quarter-over-quarter growth that I could find in our history. This is attributed to the execution of our team as well as the 
+acceptance of our new product, which addressed customer needs. The two main contributors and initiatives that help us 
+achieve these results in 2009 were our appliance strategy and our Software Blade architecture. 
+
+We've expanded the UTM-1 and Power-1 appliance families. We have introduced new appliances for security 
+management, the SMART-1 series and in the second quarter, we've added the IP series of appliances that we've 
+acquired from Nokia. 
+
+The Software Blade architecture, which is part of our R70 release, which was introduced in 2009 is now the de facto 
+standard for all new products. 
+
+If you recall in the previous quarter, I mentioned that almost 50% of our new product sales are based on the Software 
+Blade architecture. This quarter, this number reached 80% of new product. 
+
+For comparison, our previous version, NGX R65, which had very good acceptance, only reached about 50% of new 
+sales after three quarters. I hope this is a continued indication that there is a good fit of the architecture to our 
+customers' security requirements. 
+
+It is also good to see that the previous trends we reported continued in the fourth quarter. All regions of the world 
+contributed nicely to the growth this quarter and Asia led the pack with over 40% growth this quarter compared to a 
+year ago, and close to 80% product growth between this quarter and the previous quarter, and the previous Q4 in last 
+year. 
+
+On almost every possible business and financial metric, the fourth quarter was a great record quarter from the number 
+of gateways we shipped to the cash balance we accumulated. But with that in mind, our main focus is investing in the 
+future of IT security. 
+
+One of the key attributes of Check Point is our security architecture, which is demonstrated best with our Software 
+Blade architecture. We're going to continue and expand it with enhanced network security solution, endpoint 
+technology and then expanding portfolio of data security technology. With these investments and extension, we expect 
+2010 to be an exciting year. 
+
+Our focus is to help our customers solve today's security maze, one which consists of too many security products from 
+too many vendors resulting in increased complexity with reduced security. We're building solutions that help our 
+customers reduce the number of security vendors they need, simplify the deployment and management of security 
+while simultaneously reducing the cost of ownership and, most importantly, elevating the level of IT security. 
+
+While there are other good companies in the security space, we believe that we are uniquely positioned to deliver on 
+these attributes with the industry's only security architecture that ties all the security components together. 
+
+So in 2010, you can expect us to make the Firewall an even more important aspect of the security infrastructure and 
+introduce more complementary security products in additional categories from mobility to data security. 
+
+As for financial projection, the fourth quarter gave us some good reason to increase our goals and plan. However, it 
+will take few more quarters to know if what we have seen in the past few months is a year-end flash or indication that 
+the economy is stabilizing and improving. So we're entering 2010 optimistic but cautious. 
+
+For the year, we expect revenues in the range of $990 million to $1.40 billion, and non-GAAP earnings per share 
+between $2.20 to $2.30. GAAP based EPS is expected to be approximately $0.30 less than that. 
+
+Beyond the obvious business drivers, there are two factors that impact our projections that are somewhat beyond our 
+control. Our non-U.S. dollar expenses are expected to grow due to the dollar's weakness, while our revenues are almost 
+exclusively in dollars. And lastly, our diluted share count has grown recently with the increased share price. 
+
+Like this year, I expect to see a healthy year-over-year growth rate with a strong fourth quarter. The first quarter is 
+actually expected to show growth rate above the annual rate. For the first quarter, we expect revenues in the range of 
+
+
+$232 million to $245 million, and non-GAAP earnings per share of 0.48 to $0.55, GAAP-based earnings per share is 
+expected to be approximately $0.09 less than that. 
+
+Thank you for being with us in the call today. And now let's open the call for your questions. Thank you very much. 
+
+Q&A 
+
+Operator 
+
+Thank you. [Operator Instructions]. Thank you. Our first question is coming from Brad Zelnick of Macquarie. 
+
+<Q - Brad Zelnick>: Thanks guys. Good morning, and thanks for taking my questions. Great quarter. Great margins. I 
+was hoping you can just share with us what the mix of appliances were in the quarter? And with that, where do you see 
+them going, and when you go to market and then we think about customer preference, does this business eventually go 
+to 80, 90, maybe even completely appliances? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: I don't know what you mean by mix of 
+appliances, but all of our product lines and all of our appliances grew nicely this quarter. We had very nice, both 
+revenue and unit growth from all product lines. We've seen great success from the low end of appliances like UTM-1 
+130 that were introduced earlier in the year. They contributed greatly to the number of units and to the revenues. We've 
+seen good acceptance of some new appliances like SMART-1 Management Appliances. It contributed a few million 
+dollars. The IP Series appliances produced good results, but the Power-1, UTM-1, and other appliances that we have 
+also produced excellent results. So I think overall, the mix was very positive, very good. 
+
+And if you recall whether how – what percentage of sales will be appliances? First it's very high – first it's very high 
+today. But let's remember the appliance is the delivering mechanism. The appliance is not the value. The value is in the 
+software which runs on top of it. And I mean I'm very glad that we can combine in Check Point a unique business 
+model that both has the elements of software annuities that softer companies enjoy and have the new model, and new – 
+and new products, that in some cases, appliance or hardware companies enjoy. So now I can say after three, four years 
+of trying to build this model, I don't know if you reached a stable state, but we reached a very good state of business 
+mixing the two business model and seeing the stability that the software annuity model provides and the new product 
+sales that the appliance upgrade cycles and the new appliances provide. 
+
+<Q - Brad Zelnick>: Thank you, Gil. And if I could just ask one follow-up, software updates and services came in a 
+little less than we had modeled as we've taken your prior commentary around Software Blade architecture to heart. 
+Maybe we got a little overexcited about what it could deliver at least in the near-term. But can you maybe just comment 
+about the drivers to that revenue line even on renewal rates on support? Are customers maybe opting for lower-end 
+support offerings? And is opportunity for support maybe going more to partners? Thank you very much. Again, great 
+quarter. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: I don't know. Again, I haven't seen the model. 
+So it's hard to comment on that on this call. But we are very pleased with the subscription and the support results that 
+we have. By the way, the appliance model also allows us to give customers much more attractive support rates, because 
+the mix of support revenues on hardware and software, we can give much lower rates, yet increase revenues in a very 
+nice way. So we think in the past customers were comparing our software support rates to hardware support rates and 
+we're in some cases seeing high support rates, even by the way for software companies, I think, our rates are very, very 
+
+– are very good in the marketplace. I think now we have a new mix. And overall, I must say that we are very pleased 
+with the renewal rate. You can also see that on the deferred revenue growth, which is the best indicator, and the 
+deferred revenue grew very, very well this year. So I mean, all – from my perspective the [inaudible]. 
+<Q - Brad Zelnick>: Thanks again. Great job. 
+
+
+Operator 
+
+Thank you. Our next question is coming from Daniel Ives of FBR Capital Markets. 
+
+<Q - Daniel Ives>: Thanks. Great quarter again. What are you seeing from customers when they are talking about IT 
+spending growth? I mean you're a veteran of the industry, what's your sense in going to these customers and just what 
+you're seeing in terms of buying behavior, changes and their thoughts on 2010? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: I mean, I haven't spent – I mean, the last few 
+months, I have been a lot in Asia. So I mean, I'm not sure if it is indicative to what you're seeing in the U.S. But overall, 
+my sense, the customers are relatively optimistic. I mean, if in the past we heard a lot about pressures to cut budgets 
+and it seems like that eased a little bit and we are seeing more interest in new projects. By the way, when I said in my 
+script what we've seen in the last few months a very positive trend, last few months is almost since August. And if you 
+remember, the Q3 I said that I'm very encouraged by the result and since pretty much August, I've seen an increase in 
+the level of demand and increase in new project. Sales people are giving more upside and raising their forecasts. So, I 
+think for the last four, five months, I've seen an increased demand. So I hope it's not just year-end budget flush, but a 
+little more than that. 
+
+By the way, that's very much in contrast to what we've seen in the first half of the year. The first half of the year there 
+was a very big pressure, the low side and the second half of the year the pressure went to the higher side. So generally, 
+I'm saying customers are more – a little bit more optimistic. There is no one driver is what we think. Some customers 
+would like to drive more expenses to operating expenses and less to capital, other customers it is the opposite. So there 
+is no one are trying pick up all the feedback that I have, it's not one trend that I can see worldwide. 
+
+<Q - Daniel Ives>: Okay. Thanks. 
+
+Operator 
+
+Thank you. Our next question is coming from Katherine Egbert of Jefferies. 
+
+<Q - Katherine Egbert>: Hi, good morning, everyone. Congratulations. Gil, you mentioned that the renewal rates on 
+the updates show up in deferred revenue. But I noticed the increase in long-term deferred revenue is not as great as the 
+overall increase in deferred revenue. I mean, are people just still buying sort of shorter maintenance contracts or what's 
+going on? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: Our maintenance contracts are pretty much one 
+year. So I mean, it's almost exclusively one year that we have. We had some unique cases when customer wanted to 
+secure a free/three year deal or a free year – and to pay for three years and in 2007 and '08 we also introduced few 
+product model that included three year subscription in them, specifically the Software Blade subscription. Back then it 
+wasn't called Software Blade, but security services what we called subscription. We're selling, I mean we're pushing 
+less of that, because we've simplified the model. It's not from a perspective of customer demand or no demand, it's just 
+a simplification, and so I mean there is no major change in that. I think if you looked a year ago and now, the percent of 
+long-term deferred revenue was very low, it remains very low and generally speaking, our contracts are almost 
+exclusively one-year contracts. I mean, there's almost no contracts that are shorter than one year and there's, very few 
+contracts that are longer than one year, exactly one year. 
+
+<Q - Katherine Egbert>: Okay, got it. And then just a quick one. It looks like at the midpoint, you're calling for 22% 
+year-on-year revenue growth for this year, which is quite an acceleration, and you only have rough, just over a quarter 
+of contribution from an acquisition. Where is that strength coming from? And can you talk about the endpoint 
+products? Thanks. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: First, I think it's less than 22%. And let's check 
+that data, but overall, what we're seeing is, I think is a continued trend, I think we're building our model from a 
+bottom-up about how the business is growing. There is nothing, I must tell you, there's nothing too dramatic I think in 
+
+
+my forecast, I'm trying to balance between sort of – I'm trying to balance between seeing all the good trends and being 
+for all the – and product and initiatives that we have to being a little bit conservative. I think if everything goes well and 
+all our new products are successful as we want them to be and the economy continues in the rate it's been in the last 
+four months, I think we have a – I think we'll see even better results. 
+
+Now as for the guidance, I just want to repeat the annual numbers. The annual numbers for revenue is between 990 
+million to $1 million – to a $1.40 billion, and that growth rate at the midpoint, again, I don't know what it will be, 
+because this year for example, we've passed the high-end of guidance. So I don't know what will be the actual growth 
+and I hope that I'm conservative here, but at the midpoint that still represents about 11% growth. 
+
+<Q - Katherine Egbert>: Okay. Thank you. 
+
+Operator 
+
+Thank you. Our next question 
+
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: And I was very, very happy to see 22, so it's 
+not, I think 
+
+
+Operator 
+
+Thank you. Our next question is coming from Shaul Eyal of Oppenheimer & Company. 
+
+<Q - Shaul Eyal>: Thank you. Hi, good afternoon guys . Good quarter, congrats. Two quick questions in mind. The 
+data security segment, how did that perform during the quarter? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: So comparing to the third quarter, it was great. 
+Again, it grew very nicely. I think most of our data security offerings this year were part of the endpoint business. And 
+while I think we've seen some success in the fourth quarter, I don't think it performed, it was the growth engine or it 
+was the – or it showed the growth rate that we expected it to be. I do see some signs for change for next year. I think 
+we're doing a lot of things from product now. Our latest release for example, that we are releasing for the endpoint is 
+really the best suite I ever seen in terms of performance, size, functionality. The R73 release of endpoint is going to be 
+great, both in terms of data security and the endpoint capabilities. I believe that in 2010, we'll see renewed and 
+accelerated growth from the endpoint. But you asked about data security, I think in 2010, we also want to go to take the 
+data security beyond just the endpoint and come up with new data security solutions that will combine the network, the 
+endpoint and will be beyond that. And when I – we are speaking about new areas of security, data security on the 
+network can be one of them. Is one of them. 
+
+<Q - Shaul Eyal>: Got it. And with respect, Gil, to the product mix as it relates to large enterprises versus SMBs, how 
+did that perform during the quarter with respect to your expectation? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: I think the same. I haven't seen any major 
+changes or any significant things. We're continuing to look at the data, analyze the data. We had some initiatives for 
+more small business initiatives that I think will work well. I mentioned earlier that the UTM-1 130 for example, 
+product that we launched at the beginning of the year is a great success. And like it caused our low to mid end products 
+and unit number to grow very, very significantly. So that means that there was an important need for products at this 
+price range. And I think that's great that we were able to really see doubling the units in the, let's say, sub $7,000 
+appliances based on that product alone. So, nothing major but a lot of small good indication. 
+
+<Q - Shaul Eyal>: Got it. Thank you, and good luck. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: Thanks. 
+
+<A - Kip E. Meintzer, Investor Relations>: Thank you. 
+
+
+Operator 
+
+Thank you. Our next question is coming from Jeff Evenson of Sanford C. Bernstein. 
+
+<Q - Jeff Evenson>: Thanks. Wondering if you could give us a little bit of color on how you guys evaluate the pipeline 
+and the close rates, and then formulate your quarterly guidance? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: There's many different internal processes to 
+evaluate that. It starts from collecting the sales pipeline from every region. It goes through multiple levels of checks 
+and estimates by the regional VPs, by the financial group and so on. Keep in mind that our business is very, very 
+distributed. I mean, unlike major enterprise companies that have small number of very large deals, we don't have any 
+deals that's, I mean, if you look at the quarter, I don't know if we have a single deal that's more than 1% of the quarter, 
+and the number of orders we take for the quarter is north of 20,000. So I mean it's very, very distributed. That, by the 
+way, also is good in many cases, because that means that the run rate and the diversification of the business provides a 
+lot of stability. We did see, and I think Tal indicated that for example, this quarter we had 29% of deals over $1 million. 
+
+<A - Tal Payne, Chief Financial Officer>: 29 deals. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: Yeah, 29 deals over $1 million compared to 22 
+a year ago, so that always provides some good upside. But it's clearly not the majority of the business. I mean, the 
+majority of the business is, let's say, deals of $50,000 roughly, not hundreds of thousands and not millions of dollars. A 
+fairly good process for that, we are doing it multiple times a quarter, and still at the end, I want to be clear, I think we're 
+finishing two years of outperforming in every quarter. Of seeing the sales team really living up to their numbers and 
+doing great job. But still predicting the future is not something that's highly reliable or that I can sit here and say that 
+this number is locked in and – I mean, I'm entering the year optimistic, so I hope I'm wrong, that the numbers will be 
+higher than what I'm predicting, but the other direction is also a possibility. 
+
+<Q - Jeff Evenson>: Are the parameters you're using to translate the sales force in regional comments on pipeline into 
+a forecast different than you were using a year ago given that maybe the economy is a little bit more certain now? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: No, I mean, it's not – there is no big change to 
+that. Keep in mind by the way that big part of the business is annuity software contracts. So we know what they are and 
+we know what we're averaging. We're double-checking ourselves, so we have the exact analytical model, we have the 
+exact list of all the contracts and what the historical renewal rate on one hand and then we have the sales forecast that 
+they give their perspective. If they're seeing any trends effects, we compare the two and that represents more than 60% 
+of the business and then we have new deals that are coming and again there was a mix between sort of run rate business 
+coming from the channel to major deals that are more focused and more, like you were saying, specific types, and more 
+specific deal and there is a good mix of that. But I don't know that we are – that we've changed the methodology in the 
+last few years. I mean, we are improving it, we are making it more accurate. We're seeing changes like the move to 
+appliances changes the renewal rate because customers would buy a new product instead of renewing an old contract, 
+so. But the methodology in general is the same. 
+
+<Q - Jeff Evenson>: Tal, you mentioned that at your diluted share count is up as the share price goes up. Could you 
+give us any rules of thumb on how to think about the increase in diluted shares with the change in the share price? 
+
+<A - Tal Payne, Chief Financial Officer>: I think we're seeing a significant change in the share price. Also this is a 
+type of a good problem in a sense and you've seen that its moved up from a average of $212.5 million to 213.5, so that 
+was approximately 1 million shares increase on average for an increase in the share – in the share price that you've 
+seen. So I think looking forward, this depends what your expectation is. But you can assume an increase of a few 
+hundreds of thousands each 10%. 
+
+<Q - Jeff Evenson>: So it's fairly linear in the range that we're in right now? 
+
+
+<A - Tal Payne, Chief Financial Officer>: It should be. When you think of the calculation, it's basically the effect of 
+all the outstanding options in our shoes. So there should be some linearity there. 
+
+<Q - Jeff Evenson>: Thank you. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: It checks out I think. By the way, keep in mind 
+that if you look at the last five years in Check Point, that the number of shares has decreased dramatically. And the 
+dilution that we have is actually in – I mean, there's no dilution. I mean, we are – every year, we're buying much more 
+shares, and we are allocating new options and new RSUs to employees. The number of shares is drastically increasing 
+our – are sort of our dilution for new options, the new shares we issue to employees is less than 1% annually. And the 
+number of shares we buy back is much, much higher than that. So keep that in mind that now because of the jump in 
+the share price, we achieved one shift up but the five-year trend is very positive, based on what we've seen so far. 
+
+Actually, not many years ago, we had more than 250 million shares, now we're talking about 213 million shares, it's a 
+pretty significant decrease in number of shares outstanding. And our practices by the way for allocating stock options 
+and RSUs have changed from the late 90s, when the dilution was pretty high to the end of 2000, when as I said, the 
+dilution is less than 1% annually. 
+
+<A - Tal Payne, Chief Financial Officer>: I will just summarize it in a way that if you're assuming in the model that 
+the share price will increase, you should assume some increase in the shares. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: Yeah. 
+
+Operator 
+
+Thank you. We will take our next question coming from Phil Winslow of Credit Suisse. 
+
+<Q - Philip Winslow>: Hi, guys. A great quarter. Gil, I was wondering if you could just give me a sense for maybe the 
+age of what used to be called the firewall hardware install bases out there for Check Point appliances. If we actually 
+saw a lengthening of that during 2009 and if you actually think we can see some increased replacement or refresh of 
+that in 2010? And then, and Tal also, what should we be thinking about that tax rate going forward? Thanks. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: The upgrade cycle, first time in this year for the 
+first time we've started to fully participate in the upgrade cycle and that's the good news on that. And I think in two 
+years, we will be fully into the upgrade cycle. I mean, three years ago, we didn't almost see the upgrade cycle in our 
+new product sales because we sold almost no appliances. 2008, it started. 2009, we were, let's say, at half of that. 
+Maybe 2010, 2011, we'll start seeing the full upgrade cycle impact our business. Whether that lengthened or shortened, 
+I don't know. I mean, I haven't measured it recently, and I think we're seeing all types of projects from all parts of the 
+world, some are growing infrastructure, some we are replacing competitors, some are just upgrades. 
+
+There's all kinds of some and just – I mean, we have thousands of new customers every year. I mean keep that in mind 
+that we're talking a lot about upgrades and selling to existing customers and that's not a surprise, because we have a 
+huge install base and I think we have a huge market share, but we have a lot of pushing to getting into new customers 
+and we are having a roughly couple of thousand new customers every single quarter. And these customers usually join 
+with small deals and a year later they start to produce larger deals. And the way we work is usually we don't – we sell 
+the customer an initial deal a few products and a year later, they come and increase that install base. So I think we're 
+seeing good mix between existing and new business in annuity and upgrades and so on. 
+
+<A - Tal Payne, Chief Financial Officer>: I will just add that as we entered into the appliance arena in 2007-08, 
+increasing the line with additional models that as we sell each year more appliance, then our opportunity in the refresh 
+cycle going forward when it will start will increase through the years. 
+
+And as to the tax rate, to your question, it was 19% this year. It's expected to be similar next year. And as I always say, 
+it can tweak 1% up or 1% down depends on the quarter and then the growth rates, but the assumption for now is in the 
+same area. 
+
+
+<Q - Philip Winslow>: Great. Thanks, guys. 
+
+Operator 
+
+Thank you. Your next question is coming from Todd Raker of Deutsche Bank. 
+
+<Q - Todd Raker>: Hey, guys. Nice quarter. 
+
+<A - Tal Payne, Chief Financial Officer>: Thanks. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: Thanks. 
+
+<Q - Todd Raker>: I have two questions for you. First of all, could you give us some sense on the Nokia side? You 
+know, what percentage of the Nokia installed base has converted to Check Point, and where you stand beyond Nokia 
+opportunity? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: I'm trying to understand what converted to 
+Check Point. All the Nokia customers were Check Point customers. 
+
+<Q - Todd Raker>: Yeah. Upgraded or – yeah, maybe converted is the wrong question, but up sold you guys have 
+commented about 60,000 kind of installed units in that base. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: I mean, I don't have the core exact unit number 
+that we sell, but this business continues to sell. I think what we are now a little bit more open is before there was a 
+question to the customer every year, I need to buy a new appliance, what do I buy? A Nokia IP appliance or Check 
+Point UTM-1 or Power-1, that's not a question anymore. I mean, today, the customers can choose whatever they want. 
+By the way, doesn't necessarily mean that they'll buy UTM-1 or Power-1, there's many customers that before got the 
+great deal from Check Point on Power-1 and UTM-1, but now they can get IP series appliance that was previously 
+Nokia from Check Point and they're happily buying that. So it doesn't increase in one or the other product. 
+
+And we did see a big increase in the ASP for the IP series, the previously Nokia appliances and that's mainly in the 
+result, but now with every new appliance, we also shift new software, a new Software Blade. So on one hand we're 
+giving customers very good trade-in deals that before they couldn't get based on their old hardware and on their old 
+software. On the other hand, with every deal, we also give them new software. But before, in many cases, we didn't see 
+because Nokia didn't have much motivation to sell them, not to sell them, Nokia didn't sell the software. So Nokia 
+didn't have any motivation to involve the software. So overall from the IP series, we've seen a very nice ASP increase 
+as a result of the shift to Check Point. 
+
+<Q - Todd Raker>: Okay. And then second question for Tal here. If I look at the interest income line, it continues to 
+decline which is clearly driven by the interest rate environment that your cash balance continues to go up. Two 
+questions, should we continue to model interest income coming down on a quarterly basis for '010? And at what point 
+in time do you guys start really step up the stock buyback program? I mean you got over 1.8 billion in cash here, you're 
+still accumulating cash on a quarterly basis. What do you guys think in terms of the appropriate cash balance to 
+continue going forward? 
+
+<A - Tal Payne, Chief Financial Officer>: I will take the first part first. What happens in that portfolio, as it's all 
+invested in a note that mature over time, some of them over a year, some of them over two years, some of them over 
+three years. Then as we saw the decline in the interest rates around the world two years ago, a year ago and so on, then 
+you see the effect actually coming into the portfolio or into the income line, the financial income line only over a period 
+of time. So it's – it can continue to reduce slightly. And if we will see toward through the year an increase in the 
+interest, then we will start to see it increasing. So I would say stable, slightly down. 
+
+<Q - Todd Raker>: Okay. And on the cash balance side, is there anything specific to your domicile in Israel that 
+prevents you guys from buying stock more aggressively? 
+
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: So in terms of the stock buyback, first we're 
+buying stock today at a pretty high rate. And as you saw in the – what we have budgeted for next year up to $250 
+million, doesn't mean that we'll use all the budget, but if we continue in the current run rate, it's approximately $50 
+million quarterly. We are, because we are enjoying some tax benefits, we are limited by the amount of stock buyback 
+that we can do before there is significant tax implication. So we are buying today at close to the maximum that we can 
+buy without triggering more tax events on that. And we are not limited by what we can buy. We are limited by the tax 
+implication that we have. So we are buying now at almost the full rate and that's right now the main limit that we 
+impose upon ourselves rather than anything else. 
+
+We are planning, and I think that the good cash balance is a very, very important asset for future M&A. And I think if 
+you heard from our strategy, we want to consolidate more security solutions, we want to be the security infrastructure 
+vendor for our customers. And I think the cash, especially given today's financial metrics on the general market and so 
+on, the cash is a huge asset from that. I am not sure when and if we'll get to a very large deal. But in the past, we've 
+shown that when the right opportunity comes, we are – we do not hesitate to do deals with hundreds of millions of 
+dollars, maybe even more. So I think that's a huge asset that will be there for us when we will find the right opportunity 
+to expand the portfolio and bring something into our architecture. And let's not forget that because that may provide us 
+with some very, very important milestones in the future. 
+
+<Q - Todd Raker>: Okay. Thanks guys. 
+
+Operator 
+
+Thank you. Our next question is coming from Brian Freed of Morgan Keegan. 
+
+<Q - Brian Freed>: Good morning, and a great quarter. Some quick questions just in product mix. As you look at your 
+Software Blade architecture, can you comment on which blades are seeing the best penetration currently and which 
+ones you're most optimistic about on a go forward basis? And then secondarily, can you give us a little bit of color in 
+terms of what sort of uptick you're seeing of your Software Blade architecture onto virtual machines? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: So, first I mean, we are bundling a bunch of 
+blades with every new system. So I mean, most of the blades are there because somebody is buying them. And every 
+new product and every new appliance come with a collection of blades. It can be three blades, five blades, seven 
+blades. We have different models, each coming with different set of blades. One of the blades which we're pushing a lot 
+is the IPS blade that was introduced in 2009. I think that has a chance to revolutionize or change, not revolutionize the 
+world, but change the industry, because IPS that will become from a auxiliary system that in many cases weren't using 
+prevent mode that were extremely expensive, and sort of a separate market in security than the gateway or the firewall 
+market, I think we stand for a very, very good chance to consolidate that and make it part of the general gateway and 
+bring IPS to every gateway. By the way, today we bundle that blade because we so much believe in that. We now have 
+blades with every new system, almost every new system. And the success will actually be determined next year when 
+we'll sell the renewal for that blade, because that's an annuity blade that the customer has to pay for every year. So I 
+think the real test for that will be 2010 when customers will actually have to renew this blade. 
+
+This blade, by the way, have a tremendous value. Maybe I'll give one example. We've seen a lot of coverage in the 
+press in the last few weeks about the attacks in China and the methods of attacks that happened. There has been very 
+serious vulnerabilities that a few infrastructure companies have fixed in the last few months. The interesting things 
+about those attacks, first they weren't simple attacks. They weren't attacks that involved a simple, like a one-step 
+operation. You go to one place, you get something and that's it. They were multi-step operations. You have to go to one 
+place, get infected with some vulnerability, go to another place and then this vulnerability starts doing the bad things 
+that happened there. They attacked a lot of companies, not just Google and not just in China. They attacked many, 
+many companies from many different industries and the reason I am putting that out, because even though the systems 
+for this – for some of this have started getting into the market in the last few weeks, customers that have used our IPS 
+blade in our recommended configuration were protected against that before these attacks started happening. 
+
+
+Our IPS has the sort of what we call Zero Day protection against that – pre-emptive protection against those attacks. 
+Even though they were multi-step, complicated and so on and customers that were using that were fully protected. And 
+again, in the Check Point Software Blade model, that's not a complicated new infrastructure. That's not investment of 
+hundreds of thousands. That's one click of activate reset of protection and all your gateways and all your infrastructure 
+would have been protected. And that's very, very important to understand. And that's why I do believe in the IPS blades 
+and of course there is many, many more blades from management blades, like workflow management, for security 
+management and many, many others that I think every customer or almost every customer would want. And because of 
+the attractiveness of the blade pricing, the blade is usually priced between 1,500 to $4,000. So it's a very easy decision 
+to do in terms of purchasing. 
+
+<Q - Brian Freed>: Great. And on the virtual machine side of things? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: I think we have a lot of solutions for 
+virtualization environments. Our virtual solutions to our VE Edition of product that run in VMware environment. The 
+VSX-1, the one with our Virtualized Firewall have shown some nice success last year, especially with VSX appliances 
+that have contributed many millions of dollars to revenue. The VE solutions that are more in VMware environment, I 
+still think that there's a high potential for that, but I haven't seen the customer. I mean every customer asks about it, 
+very few people actually buy the VMs. So I haven't seen the big take off of these solutions. Even though we are fairly 
+unique in the marketplace with that and that by the way, drastically differentiates us differently even our – most of our 
+competitors that don't have any virtual – any sort of VMware solutions, because they are hardware-based, so they 
+cannot run on the – on any software-based platform like VMware. 
+
+<Q - Brian Freed>: Great, thanks. 
+
+Operator 
+
+Thank you. Our next question is coming from Robert Breza of Royal Bank of Canada. 
+
+<Q - Rob Breza>: Hi, Gil. I was wondering if you could just talk a little bit about the competitive environment, who 
+you think you are replacing most? And just kind of how that's taking shape here as we head into 2010? And then, Tal, 
+as you look at the new products, how much are you forecasting or building into your guidance in new products? And 
+just kind of from a timing perspective any help on the new product introductions will be great? Thanks. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: I believe that overall we are gaining share, and 
+I think we are seeing a lot of deals that we're winning. But frankly, my focus was never was on beating the other 
+people. It was always selling on our merit. It was always selling because we are good, not because we want to knock 
+off the other competitor. I can give one example of deal that happened long time ago, a huge deal, one of the largest 
+deals that we had in our history. We were actually pretty late in the game. We were not the vendor there before that. I 
+mean, they had our solution but we were not the main candidates, we won deal. But I think overall, over a few years it 
+was more than $10 million deal. And one of the reasons that the customer mentioned is not only that we had the best 
+solution, but when we came into the account, we showed them what we can do for them. We worked for their needs 
+and we didn't mention the competition. They said the two vendors that we – that were here, they only spoke about each 
+other and about you, they didn't speak about what they can do for us. 
+
+And the fact that you came in and focused about our needs and about the superiority of the solutions, and not on the 
+competition was made it a very easy choice to buy Check Point, and that was a good example. So I think that's our 
+strategy overall. We're not into fighting others. Competitors we're seeing the same competitors. I must say that, well, I 
+think Cisco continues to be a major player, I don't see them that much – I'm not aggressive, but I don't see the 
+know-how in terms of winning sophisticated deals and I don't see them as competing on other deals. Juniper is a little 
+bit different. They have a new refreshed product line, and I think a refreshed view on the market. Still I don't – I mean, 
+I don't see that our success rate is changing because of that. I think we can deal with it very effectively. So I think the 
+two large competitors remain Cisco and Juniper with Juniper a little bit more focused on high-end account and Cisco, I 
+think, a little bit more scattered around and less focused on security. Again, that's a very high level view of the 
+
+
+marketplace. 
+
+<Q - Rob Breza>: And then Tal, I was just wondering how much of the new products are forecasted or put into your 
+guidance. Thanks. 
+
+<A - Tal Payne, Chief Financial Officer>: Actually, when you look at the guidance, you see we brought, there's some 
+range there in the top line and I assume you asked specifically about the top line. And there is many initiatives that we 
+have also for next year. We take some of them into account, some of them less into account. It depends on how quickly 
+we think the market will adopt certain solutions. So it's many assumptions embedded into this. So I can't give you 
+specific answer regarding the specific initiatives. 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: But overall, I think, the contribution from new 
+products we usually model it with the low side because every new product site it has the cycle of – I mean, every 
+product that we sell has a sales cycle of three to six months. If we're talking about the product that wasn't announced 
+yet, that means that we will start seeing results third and fourth quarter, so it cannot be a huge part of the forecast now. 
+When we are talking about new industries, new solutions, which I think some of the things were coming up in 2010, are 
+like that, we are even a little bit more cautious. And if we have a product that we intend to launch in June for example, 
+most of its results will come in 2011. So we are, I think, a little cautious on that. We have some expectations from 
+existing products that, I think, making big steps ahead like the endpoint. But that's not a brand new product. That's 
+maybe a new version or a new additions to things that continue to come to the market. 
+
+<Q - Rob Breza>: That's helpful. Thanks. Nice quarter. 
+
+<A - Kip E. Meintzer, Investor Relations>: Jackie, this will be our last caller or question, right now. 
+
+Operator 
+
+Thank you. We'll take the last question coming from Sterling Auty of JPMorgan Chase. 
+
+<Q - Sterling Auty>: Yeah, thanks. Hi, guys. A question for Gil. When you talk about consolidating the different 
+products and kind of expanding the portfolio, how much of that is actually going to be tightly integrated on-box? How 
+much of it do you expect to develop internally versus you've had a strategy of partnering in certain technologies? How 
+you going to balance it to? And then maybe, Tal, if you can come in on the back of that and talk about how that would 
+impact how you invest in R&D through the year? 
+
+<A - Gil Shwed, Founder, Chairman and Chief Executive Officer>: So I think a lot of it is through our R&D. But a 
+lot of that is also aided by acquisition, look about the IPS blade. So I think again, there is a huge potential. The 
+customer can buy an IPS solution for $30,000 a box and install 50 more appliances throughout the enterprise and pay 
+millions of dollars or they can just add an IPS solution for $1,500 to $3,000 without bringing new stuff, without the 
+need for new management. So we'll – actually we will see a nice upside and the customer will see a reduced cost of 80 
+to 90% compared to our IPS and will see better performance, better security, better integration and simplifying that. So 
+that's a good example of how we can, I think, can change some industry. 
+
+Now the main change is by the way is not taking sales from today's IPS vendors. The main change is instead of selling 
+IPS to 10% or 5% of the market, is selling IPS to the growth markets. So when I'm speaking about opportunity, the 
+opportunity is not beating up an IPS vendor. The opportunity is expanding the number of people around the world that 
+actually use that technology because it's became simple, affordable and secure and that's the focus of Check Point from 
+day one, was with the first Firewall, we made the Firewall widely available. That was the big change that we made to 
+the market and that's in the focus now. And again, that's based on some technology acquisition, not just internal 
+development. 
+
+In terms of our investment, if we look at our budget increases next year, the increased investment are in sales and R&D. 
+There is no other – I mean, the other things that may change as a result of sales is the cost of goods, but pretty much all 
+of the new investments are in R&D and sales, and we believe that we can invest more in sales because that produced 
+
+
+very good results and we believe that we also need to develop and shift to new products and we're doing both. So that's 
+--so that are all the things that we are doing and in the future, I think, we will do more of all of that. 
+
+Kip E. Meintzer, Investor Relations 
+
+Thank you, guys. That's it for the call. We'll be looking forward to speaking with you in the coming day regarding your 
+questions offline. Thank you and have a great day. 
+
+Operator 
+
+This concludes today's teleconference. You may disconnect your lines at this time. Thank you all for your participation. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2010, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

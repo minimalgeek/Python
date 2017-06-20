@@ -1,0 +1,607 @@
+Q1 2014 Earnings Call 
+
+
+Company Participants 
+
+• Bin Jiang 
+• Hock E. Tan 
+• Anthony E. Maslowski 
+Other Participants 
+
+• Jim E. Schneider 
+• Craig M. Hettenbach 
+• Vivek Arya 
+• Christopher Hemmelgarn 
+• Sanjay Chaurasia 
+• JoAnne Feeney 
+• Doug Freedman 
+• Vijay R. Rakesh 
+• Steven Smigie 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Welcome to the Avago Technologies Limited First Quarter Fiscal Year 2014 Financial Results Conference Call. At this 
+time, for opening remarks and introductions, I would like to turn the call over to Mr. Bin Jiang, Director of Investor 
+Relations. Please go ahead, sir. 
+
+Bin Jiang 
+
+Thank you, operator, and good afternoon, everyone. Joining me today are Hock Tan, President and CEO; and Tony 
+Maslowski, Chief Financial Officer of Avago Technologies. After the market close today, Avago distributed a press 
+release and the financial tables describing our financial performance for the first quarter of fiscal year 2014. If you did 
+not receive a copy, you can obtain the information from the Investors section of Avago's website at avagotech.com. 
+This conference call is being webcast live and a recording will be available via telephone playback for one week. It will 
+also be archived in the Investors section of our website. During the prepared comments section of this call, Hock and 
+Tony will be providing details of our first fiscal quarter results, background to our Q2 2014 outlook and some 
+commentary regarding the business environment. We will take questions after the end of our prepared comments. 
+
+In addition to U.S. GAAP reporting, Avago reports certain financial measures on a non-GAAP basis. A reconciliation 
+between GAAP and non-GAAP measures is included in the tables attached to today's press release. Comments made 
+during today's call will primarily refer to our non-GAAP financial results. Please refer to our press release today and 
+our recent filings with the SEC for information on specific risk factors that could cause our actual results to differ 
+materially from the forward-looking statements made on this call. 
+
+At this time, I would like to turn the call Hock Tan. Hock? 
+
+
+Hock E. Tan 
+
+Thank you, Bin. Good afternoon, everyone. We are going to start today by reviewing recent market business highlights 
+in our end markets, then Tony will provide a summary of the first quarter fiscal 2014 financial results. Revenue for first 
+quarter was $709 million, and represented a decrease of 4% from last quarter and an increase of 23% from the same 
+quarter a year ago. Now Q1 revenue came in slightly better than the midpoint of our initial guidance. Sequentially, 
+seasonal down trends provided some headwinds in our wired and industrial business even as strong demand from a 
+major smartphone OEM sustained our record wireless revenue through this quarter and but their historical norm of 
+revenue declined in wireless in Q1. Having said all of that, the key message I want to impart this quarter is simply, that 
+we have significant year-on-year revenue growth in wireless at 13% year-on-year and wide infrastructure at 59% 
+year-on-year and have seen a clear recovery in industrial end demand from a year ago. 
+
+Let me now provide more color on each of our end markets. Starting with wireless, revenue from wireless came in 
+slightly above our expectation, growing 1% sequentially and represented 49% of our total revenues. On a year-on-year 
+basis, as I mentioned in revenue, wireless revenue grew 13%. And as mentioned earlier, normally, our fiscal Q1 is a 
+seasonally weak quarter for wireless; however, sustained demand from large OEM customers during the quarter help us 
+achieve a second consecutive quarter of record wireless revenue. This period, I would also like to highlight an exciting 
+development and it should come as no surprise that the push into LTE among carriers in China has enabled us to now 
+design in meaningful content in the mass market China smartphones for the first time. This trend was significant 
+enough to substantially grow our mix of FBAR revenue and expand wireless gross margin during the quarter. 
+
+Looking towards Q2 of fiscal 2014, similar to last year, the annual product transition at the same large OEM I referred 
+to earlier will now be a significant headwind; however, we expect this may be partially offset by initial product ramp at 
+another large OEM customer where we have won significant RF content. Moreover, we see in this quarter the 
+proliferation by multiple white box OEMs of LTE-enabled handsets in China, which would accelerate demand for 
+FBAR filters. The expected surge of FBAR sales will, in addition to expanding our wireless gross margin by over 200 
+basis points further, partially cushion our decline in Q2 revenue from wireless to no more than mid-teens sequentially. 
+Of course, year-on-year, we still project continued growth in our Wireless business. 
+
+Moving on to wired infrastructure, wired revenue declined 7% sequentially and represented 32% of overall revenues. 
+Year-on-year, this grew 59%, but closer to 20% without adding in CyOptics. Data center-related demand continued to 
+be strong, particularly for our new generation 40 gigabit per second fiber optics. However, due to sluggish enterprise 
+demand and soft carrier routing coupled with lone inventory adjustment at our major networking OEM customer, both 
+our ASICs and fiber optics business declined sequentially compared to the preceding quarter. Now into this mix, we 
+have also aggressively transformed the CyOptics business model from low-margin module revenue in China to 
+high-end margin component sales. Despite this, strong demand by service providers, particularly for optical 100G 
+coherent transport solution has enabled us to sustain the CyOptics revenue level. 
+
+Looking forward to Q2, we believe strength in data spending will continue. In fact, we expect to see the initial ramp of 
+our proprietary bi-directional optical transceivers for simultaneous 10G and 40G transmission which have been adopted 
+by a major networking customer in the new generation data center platforms. While network switching remains muted, 
+we expect demand from edge routing as well as high performance computing will drive sequential revenue growth for 
+ASIC and as a result, we anticipate wired infrastructure revenue to grow mid-single digits on a percentage basis 
+compared with Q1. Importantly, year-on-year, we expect to sustain our revenue growth trajectory in this end market. 
+
+Finally moving on to industrial, industrial sales declined 11% sequentially, below our expectation at the beginning of 
+the quarter, but nonetheless showed a steady recovery of 6% from the relative bottom of a year ago. Industrial sales 
+represented 19% of our overall revenues. This weaker than expected sales were caused largely by our ongoing actions 
+to contract inventory in the channels, which exacerbated the single-digit seasonal decline in distribution resales in this 
+end market. But not all regional geographies behave the same way. As is normal this quarter, we experienced low 
+single digit declines in North America and Europe. However, Japan continues its industrial recovery based on domestic 
+demand and strong export performance, while Asia remained virtually stable supported largely by China's spending. 
+
+
+Looking into Q2, we expect industrial resales worldwide will rebound by mid-single digit on a percentage basis. We 
+also plan to ship more into distributor channels in anticipation of this improvement in industrial demand. Accordingly, 
+revenue for industrial end markets is forecast to grow high-single digits on a percentage basis from that to Q1. By the 
+same token year-on-year, we anticipate industrial sales will also expand high-single digits. To sum up, in second fiscal 
+quarter, should I say, we expect product transition at a major OEM in wireless which will drive consolidated sales 
+down despite sequential growth in both wired infrastructure and industrial. Accordingly, we're guiding overall revenue 
+to decline between 3% to 6% from that of Q1. Notwithstanding, we expect that the favorable growth trend year-on-year 
+experienced in our three end markets during Q1 will persist into Q2. 
+
+With that, let me now turn the call over to Tony for a more detailed review of our first quarter fiscal 2014 financials. 
+Tony? 
+
+Anthony E. Maslowski 
+
+Thank you, Hock, and good afternoon, everyone. Before reviewing the first quarter fiscal 2014 financial results, I want 
+to remind you that my comments today will focus primarily on our non-GAAP results. A reconciliation of our GAAP 
+to non-GAAP data is included with the earnings release issued today and is also available at our website at 
+www.avagotech.com. Revenue of $709 million in Q1 represents a decrease of 4% from last quarter and an increase of 
+23% compared to the same quarter a year ago. The sequential decrease was in line with our guidance for the quarter. 
+Revenue from our wireless target market came in slightly better than our expectation, though it was offset by 
+weaker-than-expected revenue from our industrial target markets. Revenue from our wired infrastructure target market 
+was roughly in line with our expectations. Foxconn continued to be a greater than 10% customer. 
+
+Our Q1 gross margin was 52%, which was above our guidance for the quarter and also higher than the prior quarter. 
+Gross margins improved in some of our product categories offsetting unfavorable product mix. I would like to highlight 
+that during the quarter, we successfully improved the gross margin of the CyOptics business to our targeted level of 
+approximately mid-40%s on a percentage basis; three quarters ahead of our original plan. We believe CyOptics gross 
+margin has reached the level to support our overall corporate target. And therefore, we will stop commenting on it 
+separately from this point forward. Turning to operating expenses, R&D expenses decreased by $2 million to $98 
+million and SG&A decreased by $1 million to $44 million, driving total operating expenses for Q1 to $142 million, $3 
+million below our guidance. The lower-than-expected operating expenses were primarily due to our curtailment and 
+settlement gain from a change to our U.S. retiree medical plan benefit in the quarter. As a percentage of sales, R&D 
+remain unchanged at 14% and SG&A remain unchanged at 6% of net revenue. 
+
+Income from operations for the quarter decreased by $5 million sequentially to $224 million and represented 32% of 
+net revenue compared to the $162 million for Q1 of last year, income from operations increased by $62 million helped 
+primarily by higher revenue. Taxes came in at $7 million for Q1, $3 million below our guidance. This was due to a 
+change in the jurisdictional mix of income and expense. Q1 net income of $217 million decreased by $10 million from 
+the prior quarter and Q1 earnings per diluted share of $0.84 was $0.05 lower than Q4. Q4 2013 net income was higher 
+primarily because of an $11 million increase in other income resulting from a gain on marketable securities. Compared 
+to Q1 of last year, net income was $54 million higher and earnings per diluted share was $0.19 higher. Our share-based 
+compensation in Q1 was $24 million. The breakdown of this expense for Q1 includes $3 million in cost of goods sold, 
+$8 million in R&D, and $13 million in SG&A. In Q2 2014, we anticipate share-based compensation will be 
+approximately $30 million. And just a reminder, the company's definition of non-GAAP net income excludes 
+share-based compensation expense. 
+
+Moving on to the balance sheet, our days sales outstanding dropped to 42 days from 52 days in the prior quarter. The 
+decrease was due primarily to the linearity of revenue throughout the quarter, timing of shipments around the holiday 
+season and our collection efforts. Our inventory ended at $286 million, a slight increase of $1 million from last quarter. 
+Our wireless inventory remained at an elevated level in anticipation of continued strong demand throughout the year, 
+particularly of our FBAR filter products. Days on hand were 76 days, which increased 5 days from Q4 given the lower 
+revenue during the quarter. We ended the quarter with a cash balance of $1.11 billion, and we generated $229 million 
+
+
+in operational cash flow. We spent $52 million on capital expenditures. This was below our guidance for the quarter, 
+mainly because of the timing of equipment delivery. For Q2, we expect CapEx to be approximately $70 million, 
+primarily to support our continued build out of FBAR capacity. 
+
+During the quarter, we repurchased approximately 270,000 shares, which consumed $12 million of cash. The buyback 
+was lower than the prior quarter due to the timing of our negotiations to acquire LSI. On December 31, 2013, we paid a 
+quarterly cash dividend of $0.25 per ordinary share, which consumed $62 million of cash. This dividend was raised by 
+$0.02 from the prior quarter. Since the inception of our dividend program in Q2 2011 to date, we have continued to 
+increase our dividend each quarter. 
+
+Now let me turn to our non-GAAP guidance for the second quarter of fiscal 2014. This guidance reflects our current 
+assessment of business conditions, and we do not intend to update this guidance. Total revenue is expected to be down 
+in the range of 3% to 6% from Q1. Gross margin is expected to be 52.5%, plus or minus 1 percentage point. Operating 
+expenses are estimated to be approximately $147 million. Taxes are forecasted to be approximately $7 million. And 
+finally, the diluted share count forecast is for 261 million shares. 
+
+That concludes my prepared remarks. Operator, please open up the call for questions. 
+
+Q&A 
+
+Operator 
+
+Thank you. [Operator Instructions] The first question comes from the line of Jim Schneider of once again from 
+Goldman Sachs. Please proceed, sir. 
+
+<Q - Jim E. Schneider>: Yes. Thanks for taking my question. Very good performance in the gross margin side. You 
+mentioned a couple of mix improvements within wireless and also within the wired business from CyOptics. Can you 
+maybe talk a little bit about how much of the relative improvement was from each of those two buckets and whether 
+we're kind of now at a level where that mix at least in the wireless is expected to kind of sustain itself in the current 
+place? 
+
+<A - Anthony E. Maslowski>: So, I think that the mix we're seeing improvement in the wireless side is sustainable. 
+It's definitely things that you can get that as the FBAR mix and so forth. And then obviously, as Hock mentioned very 
+directly, in CyOptics, we've moved several steps away from the subassembly business into more of a component 
+business which is helpful to the bottom line as well. 
+
+<Q - Jim E. Schneider>: Okay, thanks. And then as a follow-up, regarding your comments – talk around the inventory 
+levels at distributors, it sounds like there is a little bit more of a bleed off in inventories kind of across the board in the 
+January quarter, to be expecting to refill that a little bit in April, is that refill happening pretty much across the board 
+geographically or are there things going on differently in the different regions? 
+
+<A - Hock E. Tan>: Jim, there are in different regions, absolutely. If we talk industrial, as I assume you are referring 
+to in this question, well, we are seeing a refill a lot in Japan where there's a fairly strong industrial recovery. We're also 
+seeing that in Europe where after the seasonal – and the holiday season last quarter, things are picking up and resale is 
+showing very strong signs. Those are two specific areas we are talking about. Industrial, as I mentioned, in China, 
+continues to be stable, slightly up but nothing dramatic but very stable at a significant level. Having said that, for 
+channel inventory in general, we are seeing very strong resale and because of that refilling to in China particularly with 
+respect, not so much in industrial in China as much as wireless products for the white-box makers in China. 
+
+<Q - Jim E. Schneider>: That's helpful. Thank you very much. 
+
+<A - Hock E. Tan>: Operator? 
+
+
+Operator 
+
+The next question comes from the line of Craig Hettenbach from Morgan Stanley. Please proceed. 
+
+<Q - Craig M. Hettenbach>: Yes. Thank you. Hock, you guys are seeing some uplift for FBAR in terms of margin 
+mix in wireless? Outside of that, could you share any thoughts in terms of what we're seeing just yesterday in terms of 
+industry consolidation and what that might mean for pricing and margins in the broader business within RF? 
+
+<A - Hock E. Tan>: Well, there are quite a few players in RF business as you well know and I assume you are 
+referring to the announced merger of RFMD and TriQuint. We know Bob and Ralph very well, good guys, good 
+managers and very strong managers. So I think the consolidation would be positive for industry as a whole. Certainly 
+puts more, possibly more stronger competition. But we always welcome competition, as I said, because we compete 
+largely on the basis of technology more than anything else. 
+
+<Q - Craig M. Hettenbach>: Got it. And then as a follow-up, any incremental thoughts you could share on LSI 
+specifically, just confidence levels in terms of achieving the cost synergies you've first laid out? 
+
+<A - Hock E. Tan>: Really, it's too early at this point. I mean, we're still awaiting all regulatory approvals and not to 
+mention the shareholder approval of LSI which will happen sometime in April. So we really do not expect the deal to 
+close before early May, probably maybe even later. And so at this stage, it would definitely be too early for us to 
+understand and know whether our assumptions in driving this deal still holds true at all. 
+
+<Q - Craig M. Hettenbach>: Okay. Thank you. 
+
+Operator 
+
+The next question comes from the line of Vivek Arya, Bank of America. Please proceed. 
+
+<Q - Vivek Arya>: Thank you for taking my question. Hock, the question is on the wireless business. Obviously, it has 
+performed very well in the last few years. But when I look at the guidance you're giving for the April quarter, it 
+suggests sort of mid-single digit or so year-on-year growth. Now I understand the transition at your largest customer. 
+But how is it that of the need for as far as going out, yet you are seeing this deceleration in sales. Is this just sort of a 
+temporary pause when the growth driver is really your largest customer and has a mix shift towards more to China and 
+other customers or are you still comfortable with the long-term sort of double-digit growth trajectory possible in this 
+business? 
+
+<A - Hock E. Tan>: To get right to the nub of your question, yes, we are still very comfortable with double-digit 
+year-on-year growth, as I was very careful to articulate in each case. Year-on-year, we still show – which is on a 
+quarter-on-quarter basis, year-on-year, we still show double-digit growth. The interesting thing we are experiencing 
+and I mentioned that a lot in the last earnings call and it's simply that as the OEM industry consolidates, revenues 
+within each year as we go one quarter to the other within each year goes through sharp movements because of product 
+transitions of those larger OEMs now in smartphones in the marketplace. 
+
+And so we do – and by the way, our content keeps increasing in those OEMs which exacerbates it even further. But 
+what we do see is fairly sharp changes in revenues quarter-on-quarter during the year. But if you look at – trend it over 
+from one year to the other, you will see very clearly that we are able to sustain double-digit year-on-year growth, which 
+is really what matters because within each in a year, you will see the other handset OEM launch their products at 
+different times. And because of that, we go through fairly sharp upticks as well as fairly sharp declines as we move 
+from one quarter as we did from Q1 to Q2 in this current year. And we will probably see another cycle of movement as 
+we move to Q3 and Q4 this year when the large OEM launches its new generation of phones. 
+
+<Q - Vivek Arya>: Got it. That's very helpful, Hock. And as a follow-up, I think you mentioned that you're starting to 
+see the surge in your China FBAR adoption, is there a way to quantify how much that is outside of your top two sort of 
+Tier 1 customers? Is there a way to size how much that white box China market is demanding FBAR or is it too early to 
+
+
+provide that quantification? 
+
+<A - Hock E. Tan>: You hit it right on because I was going to say it is as such. And because it's not just one OEM in 
+China that's launching LTE-enabled phones, smartphones, it's multiple OEMs at the same time rushing into this market. 
+And as you all know out there, China 4G or LTE is just a big thing this year since the beginning of this year. And it's 
+not just handset that's happening; it's infrastructure, wireless infrastructure that has been built out, rolling out in China 
+on LTE and it shouldn't surprise us all that because of that, smartphones are coming out LTE-enabled, which are low 
+cost even by China's standards, but then are LTE-enabled and it really proves the point that we have been now saying 
+all the time in our FBAR thesis, which is FBAR is used based on technology requirement, not based on whether they're 
+high end or low end. 
+
+It is really based on technology requirements and there are some bands particularly in China that do require very much 
+so FBAR in order to achieve its performance. And because of that, we are seeing those designs and quite a considerable 
+amount of those designs, which are driving quite a bit of our FBAR revenue from that angle. Having said that, our more 
+traditional markets of the large branded smartphone OEMs, continue to adopt for the same reason the Chinese 
+white-box OEMs are adopting more and more designs that uses FBAR. A lot of them relate to front-end modules that 
+encompasses both the FBAR filters as well as the associated power amplifiers for not just one band; for multiple bands 
+within your phones. 
+
+<Q - Vivek Arya>: Got it. Just one last one, high CapEx could be a good news or a bad news story. The question is, it 
+was about 8% of sales for you in the last four quarters, is there a point at which it just starts to taper off or just that the 
+demand for FBAR is there so CapEx could stay at sort of these levels? Thank you. 
+
+<A - Anthony E. Maslowski>: Well, again, Vivek we talked about CapEx being somewhat of a challenge this year. 
+But again, we're only investing with line of sight capacity that we need for either, as Hock mentioned, either the large 
+OEMs or some of those other surge we are having. So, we're going to be very selective. We get a great return on the 
+CapEx in the FBAR fab and the surges, in some ways, you can have as an indication of our confidence in the future. 
+
+<A - Hock E. Tan>: In other words, we lag our investment behind demand CapEx. And it's always a challenge, 
+therefore, for us to meet those demand, I'll be honest, which also relates to why, as Tony pointed out in his remarks on 
+inventory, we run our fabs very full. 
+
+<Q - Vivek Arya>: Thank you. I appreciate it. 
+
+Operator 
+
+The next question comes from the line of Blayne Curtis, Barclays. Please proceed. 
+
+<Q - Christopher Hemmelgarn>: Thanks very much for taking the question. This is Chris Hemmelgarn on for 
+Blayne. Just a quick question first on your wireless expectations, just kind of what you're baking in, what are your Q2 
+guidance bakes in there in terms of how steep of a decline are you really seeing at the one wireless customer you 
+highlighted? What are the puts and takes there versus what your wireless infra business? 
+
+<A - Hock E. Tan>: To answer you directly, we don't make any specific remarks on any particular customer, Chris. 
+I'm sorry about that. But I prefer not to answer that. We generally don't comment on any particular customer. We love 
+them too much. 
+
+<Q - Christopher Hemmelgarn>: Not a problem. I had to try. Moving on from that, there were a couple of 
+announcements out of some BAW competitors out of Japan. I was just kind of interested in whether you guys still 
+really see that as predominantly just you and TriQuint competing for those sockets or are you really seeing any 
+progress from the rest of the competition that's largely trailed you guys to this point? 
+
+<A - Hock E. Tan>: Well, I mean, it's not new information as you know that there are SAW makers who put in 
+temperature compensation to try to improve the performance and try to achieve closer to what BAW or FBAR 
+performance achieves and we constantly see that because they constantly improve as we try to improve. So it's a typical 
+
+
+technological race in order to improve, we try to improve more and if we are already ahead of the game, it makes our 
+improvement much better, but there is still a gap. 
+
+And in terms of other players, in terms of ourselves and TriQuint trying to get into the BAW business, oh yeah, that has 
+happened. It's not the first time and that continues to happen. It's nothing new. We have not seen for the last few years. 
+But you see, a big part of where we are today is not just the technology in terms of evolution of FBAR or BAW as you 
+put it generically. We are on, as I mentioned, on our current eighth generation moving to a ninth generation. Nobody 
+comes even close at this point and as long as we keep making the investments we are making, we not only are 
+continuing to be ahead of the game technologically on our FBAR but in terms of capacity to address a very fast 
+expanding market, but we're also I believe quite well ahead of anybody else. 
+
+<Q - Christopher Hemmelgarn>: Thank you very, very much. 
+
+Operator 
+
+We have a question from the line of Romit Shah, Nomura. Please proceed. 
+
+<Q - Sanjay Chaurasia>: Hey, guys. This is Sanjay for Romit Shah. I have one question on TD-LTE ramp. I just 
+wanted to get a sense of what the content is and what are the bands FBAR is being used across the OEMs. Do you see 
+this usage fairly similar across OEMs or you see there are differences in terms of band coverage and content? 
+
+<A - Hock E. Tan>: It depends on the country. But if you are referring to China, they are multiple and not the same 
+OEMs will apply the same band. Depends on how they architect the phones particularly, but it's a whole spectrum in 
+the range of 2.3 gigahertz, 2.4 gigahertz all the way to 2.8 gigahertz, 2.7 gigahertz in that range. And within, as you 
+know, the S band 38, 40, 41; WiFi, WiMAX and these all is a combination of our ability. 
+
+<Q - Sanjay Chaurasia>: Okay. And as a follow-up, you mentioned increasing competition from the merger of 
+TriQuint and RF Micro. I was just wondering you mentioned that you're technologically much ahead moving from 
+eighth to ninth generation, what are some of the dimensions you could see competition from these guys, if not from a 
+technology point of view? 
+
+<A - Hock E. Tan>: Let me rephrase what I said earlier and I apologize if I misinformed you guys. We already have 
+competition, good and healthy competition from RFMD TriQuint as we do from Skyworks, ANADIGICS and a few 
+others. So it is still there. And if two of our competitors shows too much to represent a more united front, more power 
+to them, frankly. And we will continue to see that competition. And I don't see there'll be any abatement of that 
+competition with the merger. I think you will keep on going. And as I said, what we do is we – as I said, we compete on 
+a kind of different dimension from many of our competitors. We compete purely on products that we believe we can do 
+much better, much, much better than they can. And we do not compete on products that are commoditized. And that 
+strategy on our side still will not change. 
+
+<Q - Sanjay Chaurasia>: Okay. Thank you so much. 
+
+Operator 
+
+The next question comes from the line of JoAnne Feeney, ABR Investment Strategy. Please proceed. 
+
+<Q - JoAnne Feeney>: Yes. Thanks and congrats on the nice gross margins. Question for you, on the competition and 
+your response to really your strategy, so, TriQuint, RF Micro combined, Skyworks, Qualcomm, have all now 
+announced integrated end-to-end RF solutions, and so, I guess, I'm just wondering whether you plan to release 
+something along those lines or whether you feel like rather best strategy is not to go that route and to stick with 
+products that are more FBAR focused and take advantage perhaps of some discrete FBAR opportunities that the other 
+competitors simply cannot satisfy? 
+
+
+<A - Hock E. Tan>: Well, our strategy is probably not that distinctly different, JoAnne, in a sense that, yeah, we only 
+see FBAR as our real differentiator sustainably. We're not wrong there really and that's why we put in huge amount of 
+investments. We've also put in investment in doing power amplifiers because that's what it takes to sell FBAR many 
+times. And it changes depending on the generation. It changes depending on the architecture. So it's not one single 
+particular architecture in RF that is pretty much action concrete. It varies. 
+
+So many times we sell discrete FBAR and we love to do that. But if we have to resell those so called end-to-end 
+solutions as you pointed, we call it, front-end module, we just don't have the transceivers, I guess. But on an RF basis, 
+we do cover the full gamut between the antenna to the baseband transceiver. But if you're talking about things like 
+SkyOne or RF360 by Qualcomm, we don't specifically go into that end. It doesn't mean we will never. We keep an 
+open mind. As I said, we are very opportunistic based on the fact that our single strategy is we do products that can 
+differentiate ourselves in performance distinctly and if we can't in any software, we'll probably won't even participate in 
+this software. 
+
+<Q - JoAnne Feeney>: Okay, that's really helpful. Thanks. And as a follow-up, you mentioned that your growing 
+success with the mid-range and low-end smartphone makers particularly in China. I'm wondering if in that context, 
+number one, you could describe for us where you think your second half growth is coming from in terms of, say, 
+increase in dollar content, higher units in these mid-range phones? And perhaps, if you have any sense of this, what 
+percentage of your wireless revenue you think might shift towards these mid-range phones and away from the high-end 
+where you've done so well? 
+
+<A - Hock E. Tan>: Thanks, JoAnne. Hey, you are really reading too much on what I'm saying and maybe it's my 
+mistake. I was actually trying and doing a very unprofessional victory lap about the fact that, hey, finally, we got into 
+low-end phones in China and that's because of FBAR, because, as you know, we have not participated much in those 
+low-end phones in China because of price and because of inability to differentiate. Finally, we did and it's because of 
+FBAR which we've been talking about for years about the fact that it's technology that drives its usage more than the 
+price points of smartphones and improving it. That's all I'm saying. And unfortunately, it seems to be leading you to a 
+path that says, well, now tell me how much is it going to drive your business? 
+
+Well, a bit too early to tell to be honest, JoAnne, because it depends on how successful those LTE-enabled white-box 
+phones are going to be in China and I can't really tell but the switchover is happening, it could be the one quarter 
+wonder for all I know, I don't really know. I hope it isn't and if it can sustain, it will be great for us. But what drives our 
+business on a consistent basis I think also those branded and large OEMs out there that we continue to be very, very 
+well positioned, and we see that continuing over the foreseeable future. 
+
+<Q - JoAnne Feeney>: Okay. Fair enough. So that means that that double-digit growth you're anticipating 
+year-over-year double-digit growth for wireless, the majority of that then is being driven by content gains. 
+
+<A - Hock E. Tan>: Yes. 
+
+<Q - JoAnne Feeney>: As opposed to say unit growth. 
+
+<A - Hock E. Tan>: Correct, JoAnne. It's been content and year-on-year with the same large OEMs that we deal with, 
+because of increasing number of bands and increasing complexity of architecture in bands like carrier aggregation 
+coming in and as we mentioned a few other things before. Content keep increasing and we are able to grow our content 
+year-on-year in those generation of phones. 
+
+<Q - JoAnne Feeney>: Okay. Thank you very much. 
+
+Operator 
+
+The next question comes from the line of Doug Freedman, RBC Capital Markets. Please proceed. 
+
+<Q - Doug Freedman>: Great. Thanks so much and thanks for taking my question, Hock, Tony and Bin. If you could 
+focus a little bit on a segment you haven't talked much about yet and that would be the Industrial segment. I'm a little 
+
+
+surprised to hear about your bullishness, given we keep hearing that the China end market is seeing softening PMI 
+results, but yet I believe you're still fairly exposed to the China market on the Industrial side. Can you talk to us a little 
+bit about why you are feeling as confident about that market coming back? 
+
+<A - Hock E. Tan>: Okay. Well, I guess it's not just overnight that I am. As I mentioned, if you look at our Q1 last 
+quarter that is, and you look over the trend over last several quarters, we have seen – having said that I have to qualify, 
+it's a gradual but very, very steady uptrend of demand retail in Industrial in China, but also even in places like Europe 
+where after the meltdown in Europe over a year ago, people had given up as a lost cause. It has recovered. 
+
+And in Japan, here's the other data point that gives me a lot of encouragement, especially we have fairly low yen these 
+days. Finally, we're starting to see that the Japanese industrial OEMs, the big powerhouses that we sell many of our 
+products to are also picking up steam. And the reason they are picking up steam over the last six months or nine 
+months, six months in particular is not just strong domestic demand, but they are able to export into China, guess what, 
+and emerging countries of course China helped by their currency. And even the Europeans are able to hold their own. 
+So what that tells us is that there is an improvement in industrial demand. It may not be as strong, or as clear as the way 
+wireless moves, but it is more steady and it's definitely a trend. And that's part of the reason why I'm feeling more 
+bullish about it, as you put it, than it is. Having said that, from a year ago, we've grown 6% Industrial. It's no great 
+shakes, but mid single-digits for Industrial year-on-year isn't too bad. At least it's not going down or flat. 
+
+<Q - Doug Freedman>: Okay, great. If you could also talk a little bit maybe about the broader business, some 
+book-to-bill trends, maybe what you've seen recently in the market and whether customers are willing to lay in a little 
+bit more backlog. How would you describe your visibility overall? 
+
+<A - Hock E. Tan>: Well, it keeps – you are right in asking that question, book-to-bill unfortunately for us, it's not a 
+very clear indicator because many of our larger OEMs, and they comprise a big part of my revenues, we are on VMI as 
+they call it, which are vendor managed inventory. Basically, they ship direct – they pull it direct from hubs. So, there's 
+almost no book-to-bill ratio as it applies to a big chunk of our revenues. The part that applies are the smaller chunks 
+and the small chunk, I hate to tell you, even I give you data, might not reflect what the total business sells it. But I'll be 
+direct and say January bookings and February bookings so far has been pretty okay. 
+
+<Q - Doug Freedman>: Great. Thanks so much and congrats on the strong results. 
+
+<A - Hock E. Tan>: Thank you. 
+
+Operator 
+
+The next question comes from the line of Vijay Rakesh, Sterne, Agee. Please proceed. 
+
+<Q - Vijay R. Rakesh>: Hey, guys. Nice job on the quarter and the guide. Just a housekeeping question on the 
+wireless side. I know here you had a drag from one customer, but past the timing of all the transitions, as you look at 
+the second half, do you feel comfortable with how the wireless side is working and especially I would think in China 
+with the very high frequencies 2.3 gigahertz, 2.6 gigahertz, you continue to drive FBAR, right, versus [indiscernible] 
+SAW or any of the other options out there? 
+
+<A - Hock E. Tan>: I understand your question and, yes, it's pretty hard to provide any real forecast if that's what you 
+mean, but the way we are seeing things happening now, it's not different from what we have seen the previous year or 
+two and except hopefully, we now have larger content in those large OEM phones which we are feeling very good 
+about. So I think things are as we kind of expect them to be for this year. 
+
+<Q - Vijay R. Rakesh>: Got it. You answered my question. And as a follow-up, when you look at the LSI side, I 
+probably missed this. Can you update us on the progress on the approval side and can you frame us as you look at the 
+markets there, what are the ASIC markets that you'd be focusing on as you go through that business? 
+
+<A - Hock E. Tan>: Let's try to answer the second question first. As I mentioned earlier, we have not really taken over 
+this company yet. I mean, we have announced it, I like it about this country, but we can see, but we don't touch. So at 
+
+
+this point, we're not touching and I will be direct and say, I am in no position to know enough yet to be able to clearly 
+articulate to you what the strategy on our ASIC business is at this point. All we will say is that, hey, whatever they've 
+been doing, we like them to keep going on and doing what they've been doing. But as far as any specific strategy that 
+we may have formulated, too early to tell, seriously, Vijay. 
+
+And on the second part, we're still going through regulatory approvals and the various worldwide approval of 
+regulatory bodies that we need the approvals on and we haven't gotten all of them yet. And we're still working our way 
+through the system. We also need shareholder approval from LSI which I believe will happen sometime in April. So we 
+are hoping or we are planning, I should say, rather than hoping, to see closing of this deal sometime May. But again, it's 
+an estimate at this point, nothing guarantee. 
+
+<Q - Vijay R. Rakesh>: Got it. Thanks a lot. 
+
+<A - Bin Jiang>: Operator, we have time for one more question. 
+
+Operator 
+
+The final question comes from the line of Steve Smigie from Raymond James. Please proceed. 
+
+<Q - Steven Smigie>: Great. Thanks a lot. I was hoping you guys could talk a little bit about the optical transceiver 
+business, maybe in terms of what you see as potential growth opportunity for the market this year and then how you 
+think you might perform relative to that market? 
+
+<A - Hock E. Tan>: Okay. That's a very good question. That's a very interesting question for me. And I try to put in 
+some comments. I'll tell you what we're seeing right now. I don't know what is going to happen in the rest of the year, 
+to be honest. It's hard to figure it out. But in the enterprise, the optical transceiver business has been flattish. And no 
+surprise, some of the OEMs out there has been saying that, there may be winners and losers among the lot, but broadly, 
+I think the market is flattish. And the way we try to play in this market now is what we've always been trying to do 
+which is pick out opportunities that we can produce fairly proprietary products for and right on the coattails of those 
+customers who adopt our proprietary designs and use that to push their overall systems. 
+
+And as I point out earlier, we started last year with 40G and that's more of a standard product, but we were about the 
+only guy who could do it at that time and do it for a relatively longer distances to be applied in data centers, and we 
+have been selling it very well and we continue to sell it very well, that's one of our drivers. 
+
+The other thing that is also happening now is we just launched and are ramping up another proprietary fiber optics that 
+is bidirectional. What that really does is applicable particularly for data centers where we can leave our transceivers – 
+our customers or their customers for our OEMs can run using the same infrastructure of OM3 fiber optic cables that 
+have already been laid out in an existing legacy data center, just change the transceiver and suddenly transform the 
+transceiver from running 10 gigabit to 40 gigabit by just putting in new transceivers and boxes. 
+
+That's a new product we launched and that's one I mentioned earlier in my remarks about transceivers that can 
+simultaneously do 10 gigabit as well as 40 gigabit. That's the bidirectional product we've launched. Just depending on 
+those kind of proprietary system to give us an edge and gain us share to grow. But as far as the broader market is 
+concerned, what we're seeing now is fairly flat and sluggish, be it switching or routing market. 
+
+<Q - Steven Smigie>: Okay, great. And then sort of in the SerDes side then, can you talk about the growth opportunity 
+you're seeing for the year at this point? And in terms of when you're going for your designed competitions, what 
+innovations are you bringing that are allowing you to win at this point in time? Thanks. 
+
+<A - Hock E. Tan>: Well, our big thing in ASICs is our SerDes. We have definitely very, very good ASIC, proven 
+ASICs and there are not too many people out there who can do those kind of ASICs and run it all the way to 28-gigabit 
+per second, which is what we on our current generation of products out there in designs are doing now. And that's 
+really our differentiation in a lot of the opportunities we go against. 
+
+
+Of course, the other side to it is, we are very tested and we have very good skills in integrating not just the SerDes, but 
+the IP cost into one complex micron digital chip that we do for ASIC for our customers and we're very good at doing 
+that. So, we continue to drive in that. And frankly on our ASIC business, we're very linked to the customers we deal 
+with and we deal with only a handful of large OEM customers and as they succeed, so do we. If they don't grow as 
+much, we don't grow as much either. But that's pretty much where we stand right now. 
+
+And so we are very much focused on the enterprise networking business, though we do some of it in high performance 
+computing. And what we're seeing now is high-performance computing is doing very good, currently. So that's 
+providing the engine of growth for us. As far as ASICs in the enterprise networking largely in the switches and all that, 
+growth here is, okay. And over the last few years, we've been growing at 20% a year. We expect close to that this year 
+as well, but it's not something that ramps up fairly rapidly. 
+
+<Q - Steven Smigie>: Okay, great. If I could sneak one last one in on FBAR, obviously as the bands proliferate out 
+there because of LTE, a number of them are in certain higher frequency ranges, what I'm trying to understand is how 
+many of them might be sort of on the border there between what SAW and TC SAW can do or low-end BAW players. 
+So how much of the or how many of the bands that are going out there are really sort of right along the border where it 
+might be more competitive versus high end where you guys with your 8th or 9th generation can really differentiate and 
+be sure to capture share? 
+
+<A - Hock E. Tan>: It's a hard question to answer because, yeah, I'm sure there are bands that are on the edge as you 
+put it. But some of these bands are on the edge because of how they are architected in any phone system. If for 
+instance, they are stacked next to certain other bands and certain other functions that may interfere with their 
+performance easily, suddenly the band that is on the margin may become not on the margin any longer. 
+
+Equally, the other direction, even if we put a band that is not so on the margin, but in a very clean environment, and 
+that doesn't happen too often, we might get away with temperature-compensated SAW filters. It doesn't happen too 
+often though, but it's hard. It's not deterministic. It is very undeterministic depending on the system and the architecture 
+of each of the handset. But what the broader picture is evolving is that as you put in more bands and as phones carry 
+around more bands, and some of these bands are harder and harder and even if all bands are on the margin, when you 
+put a bunch of them together, they all become non-marginal. They become tough. And as more of that happens, the 
+trend towards the FBAR, as I've always said, will continue to move up. 
+
+<Q - Steven Smigie>: Thank you. 
+
+<A - Bin Jiang>: Thanks, Steve. 
+
+Bin Jiang 
+
+Thank you, operator. Before we close, I would like to remind everyone that Avago will be presenting at the Morgan 
+Stanley TMT Conference in San Francisco on March 5, 2014. Thank you for participating in today's earnings call. We 
+look forward to talking with you again when we report our second quarter fiscal year 2014 financial results in May 
+2014. 
+
+Operator 
+
+That concludes Avago's conference call for today. You may now disconnect. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+
+
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2016, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

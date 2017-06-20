@@ -1,0 +1,897 @@
+Q2 2009 Earnings Call 
+
+
+Company Participants 
+
+• Maria Shim, Investor Relations 
+• Patrick Pichette, Senior Vice President and Chief Financial Officer 
+• Eric Schmidt, Chairman and Chief Executive Officer 
+• Jonathan Rosenberg, Senior Vice President, Product Management 
+Other Participants 
+
+• Imran Khan 
+• Mark Mahaney 
+• Nikesh Arora 
+• Justin Post 
+• Christa Quarles 
+• Ben Schachter 
+• James Mitchell 
+• Sandeep Aggarwal 
+• Youssef Squali 
+• Douglas Anmuth 
+• Spencer Wang 
+• Jeffrey Lindsay 
+• Jeetil Patel 
+• Heath Terry 
+• Steve Weinstein 
+• James Friedland 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good day and welcome, everyone, to the Google, Inc. conference call. This call is being recorded. At this time I would 
+like to turn the conference over to Miss Maria Shim. Please go ahead, ma'am. 
+
+Maria Shim, Investor Relations 
+
+Good afternoon, everyone, and welcome to today's second quarter 2009 earnings conference call. With us are Eric 
+Schmidt, Chief Executive Officer; Patrick Pichette, Chief Financial Officer; Jonathan Rosenberg, Senior Vice President 
+of Product Management; and joining us for the first time Nikesh Arora, President of Global Sales Operations and 
+Business Development. Eric, Patrick and Jonathan will provide us with their thoughts on the quarter and then Nikesh 
+will join us for Q&A. 
+
+This call is being webcast from our Investor Relations website located at investor.google.com. Please refer to our 
+website for important information including our earnings press release issued a few minutes ago along with slides that 
+accompany today's prepared remarks. A replay of this call will also will be available on our website in a few hours. 
+Please note that we routinely post important information on our Investor Relations website located at 
+
+
+investor.google.com, and we encourage you to make use of that resource. 
+
+As a reminder we are holding two calls today. On this call we will discuss our strategic overview and Q&A with the 
+usual format followed by a second call which is effectively an extended Q&A session with Jonathan and Patrick giving 
+the opportunity for participants to ask more detailed financial and product questions in an efficient and Reg. FD 
+compliant manner. The second call will begin at 3:00 PM Pacific Time and will also be webcast from our Investor 
+Relations website. 
+
+Now let me quickly cover the Safe Harbor. Some of the statements we make today may be considered forward-looking 
+including statements regarding investments in our core business and innovation, expected performance of our business 
+and our expected level of capital expenditures. These statements involve a number of risks and uncertainties that could 
+cause actual results to differ materially. 
+
+Please note that these forward-looking statements reflect our opinions only as of the date of this presentation and we 
+undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements in 
+light of new information or future events. Please refer to our SEC filings including our annual report on Form 10-K for 
+the year ended December 31, 2008, as well as our earnings press release for a more detailed description of the risk 
+factors that may affect our results. Copies may be obtained from the SEC or by visiting the Investor Relations section 
+of our website. 
+
+Also please note that certain financial measures we use on the call such as operating profit and operating margin are 
+expressed on a non-GAAP basis and have been adjusted to exclude charges relating to stock-based compensation. We 
+have also adjusted our net cash provided by operating activities to remove capital expenditures which we refer to as 
+free cash flow. Our GAAP results and GAAP to non-GAAP reconciliation can be found in our earnings press release. 
+
+With that I will turn the call over to Patrick. 
+
+Patrick Pichette, Senior Vice President and Chief Financial Officer 
+
+Thank you, Maria. So, good afternoon or good evening, everybody. What we'll do is we'll have our regular schedule so 
+Eric will give us his comments first. I'll cover the financial portion and then Jonathan will give us a product update. As 
+Maria mentioned we also have Nikesh with us and then we'll turn it to Q&A. 
+
+So without further ado, I'll let Eric introduce. 
+
+Eric Schmidt, Chairman and Chief Executive Officer 
+
+Thank you very much, Patrick. So at Google we've had a good quarter, one that demonstrates our resilience in what 
+continues to be a very difficult environment, 3% year-over-year growth as you have seen from the press release. 
+Google as a business appears to have stabilized despite the still weak economic environment. Advertisers and 
+customers are obviously seeing the benefit of the performance-based advertising that we offer. Consumers are clearly 
+using search more than ever to find the best deals. 
+
+We've also implemented careful cost controls to help our performance. Making our business more efficient, as has been 
+our goal for the last few quarters should put us in a good position to benefit from the eventual recovery when it occurs. 
+And we're going to continue to invest in innovation. History shows that companies which invest in innovation during 
+downturns emerge stronger than the cost-cutting competitors. 
+
+It's easy for big companies – Google is now a larger company – to become conservative to take small steps when they 
+need to take really big ones. We're determined not to make that mistake. And as an example, you don't change the 
+world incrementally. You do it through big innovation and the ability to execute on your ideas. 
+
+So for example, we've just announced Chrome OS for netbooks, our effort to rethink what an operating system should 
+be based on our lightning fast browser technology Chrome, which people are already using, we need faster operating 
+
+
+systems for the same reason we need faster browsers. People are now doing everything on the web and this will be an 
+operating system built around ubiquity and the power of the Internet. 
+
+And innovation of course is not just new products like what we talked about last week, it's also the key to long-term 
+growth in our core and our new businesses. In our core business, search is still an unsolved problem. Even though 
+Google is working very, very hard on the next generation search, more social, more personal, more intelligent, we did 
+more than 100 search quality improvements in the second quarter and users are now coming to us with increasingly 
+more complex questions and queries. We're getting much better at finding the exact information and content that people 
+are looking for. We just introduced, for example, Google Squared which automatically fetches and sorts facts and data 
+from across the web on a given topic. We now actually have another feature called Search Options which Jonathan's 
+going to talk about. 
+
+In ads, strides to enhance quality on sales drove healthy revenue growth despite a tough economic environment. Our 
+ads keep getting better as we've developed new ways of identifying high-quality and relevant ads. We're experimenting 
+with innovative ad formats for search, particularly in the areas of local, products and video, which should help us a lot 
+in some of these new businesses. And on the sales side, we've been much, much more rigorous because of our 
+management, because of our measurement and focusing our resources on the highest potential areas, for example, 
+advertiser acquisition and better tools to identify the largest opportunity for individual customers. Of course Nikesh has 
+been driving that. 
+
+And in our new businesses it's also a good story. Display and particularly including YouTube performed very well this 
+quarter. YouTube is now on a trajectory that we're very pleased with. We're helping marketers and agencies create 
+great ads easily. For example, we've got something called the DoubleClick studio, tools which allow customers to build 
+end to end rich ad campaigns. 
+
+In Mobile and Android, another area of innovation in new businesses, mobile devices are becoming an extension of the 
+Internet. We all know this, and more and more Google searches are coming from mobile phones of all kinds. So we're 
+focusing to innovate in this space. So for example, we've done great news with Android with somewhere between 18 
+and 20 Android-powered phones on the market by the end of the year, which is phenomenal. 
+
+Even in the enterprise we've been able to have significant Q2 deals. The mobile handset division of Motorola has 
+moved all 15,000 users to Google, 75 new schools for apps education in the second quarter: Temple University, 
+University of Massachusetts at Amherst, University of Alabama, the list goes on. We've now deployed against for 
+example 30,000 employees at Valeo, which is an automotive company; Johnson Diversey, a cleaning products 
+manufacturer, another 10,000 employees. So the model is beginning to work. 
+
+So to put this in perspective, we're very pleased with our year-over-year performance, particularly in light of the still 
+weak economy, and the economic situation continues to be tough as we all know. We saw relative stability in our 
+business in the second quarter. It's too early for us to tell when the recovery will materialize. I wish we could just prove 
+it. We could do the analysis and figure it out, but we don't know how to do that yet. So when the recovery does come, 
+and it always eventually comes, we are very well positioned for the future given our constant and continuing 
+investment in innovation. 
+
+So with that, Patrick, thank you very much. Go ahead. 
+
+Patrick Pichette, Senior Vice President and Chief Financial Officer 
+
+Thanks, Eric. Good afternoon, everyone. So I'll take a few minutes to run through our results. 
+
+We are pleased with our performance in Q2 showing solid revenue growth and good expense management especially in 
+the kind of environment that Eric portrayed. Our gross revenue grew 3% year-over-year to $5.5 billion. We saw 
+relative strength across our business, despite a weak macroeconomic environment and a dollar that is still quite strong 
+compared to last year. In fact, if we applied last year's exchange rates to our Q2 revenue, these would have been 
+roughly $500 million higher. So fortunately we have recognized 124 million of benefits from our hedging program to 
+
+
+partially compensate. 
+
+Google.com was also strong, contributing the majority of the total year-over-year growth. It was up 3.5% 
+year-over-year to 3.7 billion, with continued healthy traffic growth and we saw signs of strength in certain consumer 
+verticals such as shopping and computer and electronics. Others, such as finance, continue to be relatively weak. 
+
+In Q2 we also benefited from a number of Ads Quality launches. AdSense was up 2% year-over-year to 1.7 billion. In 
+AdSense for content in particular, we saw solid results. Our smaller partners performed well and our display business 
+experienced strong year-over-year growth as well. And I'll let Jonathan and Nikesh talk more about these successes. 
+
+Our global aggregate paid click growth remained healthy. They were up 15% year-over-year, even if down 2% 
+quarter-over-quarter for seasonality. Aggregate cost per click growth was down 13% year-over-year, but up 5% 
+quarter-over-quarter. Again, FX clearly had a negative impact on our year-over-year growth but a positive impact 
+quarter-over-quarter due to the weakening of the U.S. dollar versus the first quarter. 
+
+Turning to our geographic performance, the U.S. had revenues up 2% year-over-year to 2.6 billion. International 
+revenue accounted for 53% of our total revenue or 2.9 billion. The U.K. was down 8% year-over-year to 715 million 
+and was clearly negatively impacted by the FX as well as ongoing macroeconomic weakness. This was partially offset 
+by revenues from our hedging program. 
+
+Let me now turn to expenses. Traffic acquisition costs were 1.5 billion or 27% of total advertising revenue. Other cost 
+of revenue was 655 million, which included 14 million in stock-based compensation. And all other operating expenses 
+totaled $1.5 billion including approximately 279 million in stock-based compensation again. 
+
+On a year-over-year basis, our OpEx was lower by nearly $120 million and flat quarter-over-quarter. So as a result, our 
+non-GAAP operating profit, which excludes the stock-based compensation, increased to $2.2 billion in Q2, compared 
+to 1.9 billion last year and a resulting non-GAAP operating margin of 39.2%. We're really pleased that we've been able 
+to manage our costs prudently while fully funding our strategic growth areas in Search, Display, Mobile and Apps. 
+Again, Jonathan's going to go into more details of our initiatives in these areas in a minute. 
+
+Turning to head count, we had approximately 20,000 full-time employees at the end of Q2, down approximately 375 
+from the end of Q1. Even though we continue to hire in many areas of our business in Q2, we ended up with a 
+decrease, primarily related to the reduction in the sales and marketing positions we had announced, you'll remember, at 
+the end of Q1. 
+
+Let me now turn to cash management. In other income and expense we had a net expense of 18 million for the quarter. 
+As I talked to many of you on the last call, we managed our cash very responsibly. For the past year and again for most 
+of Q2, we've been focused on capital preservation and we believe that this was obviously the right thing to do given the 
+recent macroeconomic environment. So in consequence, this means we realized lower yields on our investments. 
+
+Our realized gains on our marketable securities were 18 million. And once again this quarter the high volatility relative 
+to options strike prices required us to accelerate our hedging expenses as per the FAS 133 rules. Impact on OI&E on 
+our FX program was roughly equivalent from last quarter. So as I mentioned earlier, we did however continue to 
+recognize benefits from the hedging program while we also benefited from a slightly weaker U.S. dollar during Q2 
+versus Q1. Our cash flow hedging program allowed us to recognize a benefit of approximately $124 million to 
+international revenue this quarter. 
+
+Our effective tax rate was 20% for Q2. Let me remind you that any change to the mix of earning between domestic and 
+international subsidiaries as well as the effect on earnings of various hedging activities and the related hedged items do 
+have effects on our tax rate. 
+
+Operating cash flow was very strong at 1.6 billion. CapEx for Q2 was 139 million. While the recent trend in CapEx has 
+no doubt been declining, remember that we will continue to make investments and significant ones in CapEx and that it 
+is simply lumpy from quarter to quarter depending on the timing and when we are able to make these investments. 
+Finally, free cash flow was also strong at $1.5 billion. 
+
+
+So in summary, we are pleased with our Q2 results especially despite the expected seasonality, the economic situation 
+and our year-over-year FX fluctuations. It's clear we're able to be disciplined about our costs, but while staying really 
+focused on fully investing on the big, long-term opportunities that we see in our core business, Display, Mobile and 
+Apps. 
+
+Finally, and also important to note, I'd just like to remind everyone, as we do every year, that Q3 also tends to be 
+impacted by summer seasonality. With that I'd like to thank you for your time and I'll turn it over to Jonathan for his 
+thoughts on the quarter. Jonathan? 
+
+Jonathan Rosenberg, Senior Vice President, Product Management 
+
+Okay, thanks, Patrick. So I want to highlight the key launches this quarter and try to give them context with some of the 
+principles that drive our innovation efforts. 
+
+If you recall going back to the Founders' Letter from our IPO in 2004, we've always said our focus is on users. Today, 
+user interest still drives pretty much everything we do. But recently, we've become a lot more focused on what we call 
+the active power users. 
+
+What we've seen is the power users in search are getting a lot more sophisticated, so they're running more complex 
+queries. They end up typing in longer queries than they used to and their expectations today are much, much higher. If 
+you actually think about search, five years ago, people were just delighted when they Googled what they wanted and 
+they found it. But today, they actually get upset when they don't get what they want. So that's a really big difference. So 
+to better serve power users we launched our new Search Options feature, and what that does is it lets you slice and dice 
+search results in different ways like by time or type of result. If you click on the Show Options link which you'll find at 
+the top of a search result, you'll get a sense of just how that innovation drives usage. 
+
+We also have a basic user principal, that fast is better than slow. And we've told you this before and that it's critical for 
+search and our engineers continue to focus on reducing search latency throughout the world, but speed is actually also 
+key for all of our other products. We launched a number of improvements with Picasa in Q2 and one of them lets you 
+run a slide show of the pictures that you've uploaded to the web and it does it as quickly as if the pictures were stored 
+on your computer. 
+
+You can see this if you go to a large online album and you just rapidly bang on the right arrow key. That's basically 
+what I did when the team told me they were ready to launch. So try it. It's cathartic to hit your keyboard. Just go bang, 
+bang, bang, bang, bang on the arrow key and you'll watch on the screen and you'll really viscerally that apps running in 
+the cloud can actually be as rich and powerful as apps on your desktop. 
+
+We also have a policy of ship fast and iterate often. So we redesigned Google Labs and our engineers have been 
+releasing new Labs features about twice per month. Fusion Tables, Google Squared, Similar Images are a few from Q2. 
+Gmail is also another example where we're shipping and iterating. We're pushing out roughly one new feature a week. 
+Things like Automatic Message Translation, and my team gave me a long list of other features to list, but let me just 
+repeat, Automatic Message Translation. Stop, think and try that. It's actually a pretty big deal. 
+
+Also our entire suite of apps products is robust enough that we took it out of beta last week. We also run product 
+development by encouraging teams to make big product bets on key technical insights. We believe that our most 
+innovative products historically, if you consider say Search, Maps, Gmail, News and Chrome, all of them are based on 
+technical breakthroughs or bets. 
+
+Recently we've become bullish on a new emerging standard called HTML 5, and it's helping to make the web the 
+platform for very powerful and rich application. It's especially important in mobile where the high end phones with 
+very rich browsers are becoming the norm. And this quarter, we launched mobile versions of Gmail and Mobile Web 
+Maps that run in the browser using HTML 5. Their performance really is remarkable. 
+
+
+We believe that the runway to innovate due to the power of computers on these mobile devices is nearly unbounded at 
+the moment. We're also making another technical bet with Google Chrome OS, the whole new generation of web-based 
+apps demand a much better, faster user experience. And once you've got all your stuff online, you ought to be able to 
+just open up your computer and get there in a matter of seconds. 
+
+We're also innovating and driving monetization with Mobile and YouTube as well. Mobile monetization picked up a 
+good bit of momentum as search traffic grew, again driven mostly by the smart phones. And we're seeing that users on 
+these phones are active and engaged beyond search. So display advertising on those phones is actually emerging as an 
+interesting mechanism. On YouTube, monetized views have more than tripled in the past year. We're now monetizing 
+billions of views of partner videos every month and we're actively promoting featured partner videos on the Home, 
+Watch and Search pages. 
+
+Of course, one of the most innovative areas is Ads Quality and we shipped more than a dozen improvements there this 
+quarter. That's kind of a typical pace that I usually share with you, but in terms of RPM impact it was a pretty strong set 
+with a higher impact than usual. 
+
+Finally, we always want to make the web better. We believe that what's good for the web is good for Google. And 
+e-mail is obviously a web application that generates a lot of usage. So a while back we asked the question, what if 
+e-mail were invented today, and as you know the answer there was Wave which is a totally new way to communicate 
+and collaborate online. 
+
+What we did there was rather than having our Gmail team work on this, the whole product was conceived and 
+developed by a small team in Australia. They worked completely autonomously. They called the project Walkabout, 
+and the product received a standing ovation at our recent developer conference. 
+
+Android, Chrome, Wave and Chrome OS are all an open source. This kind of open innovation helps us create the next 
+generation of breakthroughs. And when I say us, I don't mean Google, I mean the larger community of creative web 
+developers. The more power and tools that we put in their hands, the more innovation we know we're going to see on 
+the web, and that benefits users around the world and we think makes the pie bigger for everyone. 
+
+So with that, back to Patrick. 
+
+Patrick Pichette, Senior Vice President and Chief Financial Officer 
+
+Thank you, Jonathan. So what we'll do now is we'll turn it over to the operator. And we'll set up the call for Q&A. 
+
+Q&A 
+
+Operator 
+
+Operator Instructions]. We'll take our first question from Imran Kahn from JPMorgan. 
+
+<Q - Imran Khan>: ...questions. Two questions. One, on the mobile application site. I think you talked about that the 
+mobile search volume has increased significantly. Could you help us understand the revenue per search difference on 
+the mobile versus the web and do you think it will cannibalize your search on the desktop? 
+
+And secondly, with, some could argue that Google solidified its search market share through some of the distribution 
+deal like Ask and AOL. Considering one of your competitors launched a new search technology, how worried are you 
+that they could be potentially aggressive to win back some of those distribution deals, and how aggressive you will be 
+to hold back those distribution deals? 
+
+<A - Eric Schmidt, Chairman and Chief Executive Officer>: Imran, on the – thanks for your questions. On the 
+mobile search side, one of the key things we've done in the last few months is we've started to show the desktop ads. It 
+turns out that the separate mobile ads of their own formats, typically there wasn't enough demand. There weren't 
+
+
+enough creatives and so forth. 
+
+So we started showing the desktop ads on the mobile browsers of high quality and these of course include the iPhone, 
+Android phone and anything that's a WebKit inspired browser. All of a sudden we started seeing a tremendous number 
+of searches and also very good click-through rates. So they monetize at a similar level if you're desktop based because 
+of course you're in the same auction. It makes sense over time that those ads should perform better than on PCs, 
+because on a mobile device, we know more about the person and we can have an even more targeted ad. But we don't 
+do that today. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: Yeah, this is Jonathan. The other thing 
+that I would say – you asked specifically about cannibalization. I don't think there really is a cannibalization dynamic. 
+We see that mobile searches tend to complement desktop volume. Mobile goes up when people are away from their 
+desks. The weekend tends to be higher for mobile traffic and of course the reverse is true for the desktop. 
+
+On the second question, I think it's kind of too early to tell from a market share perspective what's going to play out in 
+the long run. We certainly haven't seen any large shift in share to date. 
+
+<Q - Imran Khan>: Thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: We'll go to the next question, please. 
+
+Operator 
+
+And we'll take our next question from Mark Mahaney [Citigroup]. 
+
+<Q - Mark Mahaney>: Thank you. Also two questions. Eric you mentioned that you think the business is stabilizing. 
+What are one or the two most important things that you look at to make that call as to whether business is stabilizing or 
+not. 
+
+And then for Patrick, there's a lot of cost efficiencies that have been gained over the last couple of quarters. Can you 
+talk to us about what the cost structure looks like coming out of the recession, whenever that is? To what extent should 
+we believe that the cost efficiencies will stay in place post the recession or is this more temporary efficiencies? Thank 
+you. 
+
+<A - Eric Schmidt, Chairman and Chief Executive Officer>: On the stabilizing question. We, a quarter ago, we had 
+no idea where the bottom was. We started off the year, and all of a sudden our metrics were off. It became clear that 
+starting roughly Christmas, people were spending more time searching and when they purchased products, they were 
+purchasing products of less value. Furthermore, when they did so, the whole process just took more time. 
+
+It appears as though, although the RPMs have not fully recovered, the other aspects of behavior have, in fact, come 
+back. With the notable exception of the financial vertical, the other verticals in particular, shopping and travel, which 
+had been significantly affected, appear to be recovering. So the sum of those tells us to say the word stabilizing. We're 
+not, at the moment, looking at that downward spiral that we thought we might see six months ago. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: On the second question – Nikesh? 
+
+<A - Eric Schmidt, Chairman and Chief Executive Officer>: Let's ask Nikesh to offer some perspective on how this 
+is playing out. 
+
+<A - Nikesh Arora>: Yes. This just adds to what Eric has already said. If you look at it from a geographical basis as 
+well, we are seeing stabilizing in some of our key markets around the world. Also from an advertiser point of view, 
+earlier in the year, there seemed to be more uncertainty amongst advertisers who seemed to now have come back and 
+continue to go back and bid for major categories and major verticals. 
+
+The small advertisers have stayed pretty much consistent throughout this process because they are very ROI focused. 
+They understand the value of search. They understand what they're investing for. Large advertisers have sort of 
+
+
+watched and wanted to watch and wait for a while, seem to have come back to the table and that's where we're seeing 
+the stabilization from the advertiser side as well. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: So that covers the first question. Let me 
+jump on the second one. I think we can be really proud at Google about how Googlers have managed responsibly in the 
+last, two, three, four quarters if you think of everything the economy has thrown at us. We've managed to keep the right 
+balance, too, between the Google culture of being frugal but generous environment -- that's really what portrays the 
+place. We didn't lose our magic around that. 
+
+And most of all, I think that we are managing the company to best position itself for the long-term growth. So it's clear 
+we're able to be disciplined about costs, but at the same time, fully investing in our long term opportunities. So I think 
+that what we can take away from the last few quarters is, we have that ability and we continue to manage it that way. 
+So we have the flexibility we need. 
+
+<Q - Mark Mahaney>: Thanks. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: We'll go to the next question, please. 
+
+Operator 
+
+We'll take our next question from Justin Post from BOA-Merrill Lynch. 
+
+<Q - Justin Post>: Thank you. My question's on paid clicks and CPCs. First on CPCs, it looks like if we back out 
+currency at 44 million, they're up 4% quarter-over-quarter. Is there any kind of sign of stabilization in that number or is 
+that due to mix and seasonality? 
+
+The second thing is paid clicks, 15% growth. Can you talk a little bit about the mix? Are the higher value clicks in, say, 
+the U.S. and U.K. growing slower than maybe some of the lower value clicks internationally? Could that be a long term 
+CPC pressure or are paid clicks growing pretty even across your entire system? Thank you. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: This is Jonathan. Just with respect to the 
+clicks across the system. I think the growth is more seasonality and mix. One of the things that we see is that Brazil and 
+China for example are pretty significant and probably have disproportionately more clicks. I think we're seeing a mix of 
+clicks from the high CPC Western European countries and U.S. being less relative to some of the growing markets. So 
+that overall is having downward pressure on CPC. I think the bids tended to decline more, earlier this year and are no 
+longer declining now as a general rule across the board. 
+
+<Q - Justin Post>: Thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thanks. We'll go to the next question, 
+please. 
+
+Operator 
+
+We'll take our next question from Christa Quarles from Thomas Weisel Partners. 
+
+<Q - Christa Quarles>: Hi, my question is on vertical search in the context of Twitter and its real time search and 
+even Bing's attempt to carve out shopping, travel, local, et cetera. My question is, one: how do you think about the 
+concept of vertical search? Two: how strong do you believe your offerings currently are and particularly how well 
+merchandising those offerings to consumers? And three: do you still see big monetization improvements as you think 
+about vertical search and improvements in UI? 
+
+<A - Eric Schmidt, Chairman and Chief Executive Officer>: Historically we've not used the term vertical search 
+because, you know, Google attempts to sort of answer the question without categorizing it as this category or that. 
+
+
+Other people have said, we're going to offer a specialty service around this or that. So we work very hard to sort of take 
+the query without bias. This is the way it plays out. 
+
+So with respect to vertical search headroom, there's plenty of such headroom especially as our ads products get better. 
+And so the reason we mention, for example, that in travel, things have come back, but finance had not because that 
+does in fact affect the revenue. We understand that. But we try not to sort of say there's a travel site or what have you. 
+
+Longer term, you never know what kind of innovation we can do to do that. It's been observed for example that in some 
+of these verticals the ads are particularly more valuable than even some of the search results. We've not yet thought 
+through what we'll do with that observation. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: I think it is the case, this is Jonathan, on 
+the vertical side that there's a lot of opportunity to get incremental monetization gains where you can further qualify the 
+leads better for the advertisers. So for example the finance area and the travel area are areas where there's a lot of 
+opportunity that do that. So that you end up putting more information in the ad and then incrementally getting more 
+information from the customer so that you can further qualify whether or not the customer in finance area is interested 
+in a particular type of mortgage. And then you send them to an advertiser with whom they're more likely to 
+consummate a specific transaction that that advertiser is willing to pay for. There's a lot of opportunity there. 
+
+<Q - Christa Quarles>: Thanks. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thank you. We'll go to the next 
+question please. 
+
+Operator 
+
+We'll go next to Ben Schachter from Broadpoint.AmTech. 
+
+<Q - Ben Schachter>: So years ago I recall Eric discussing the idea that advertisers should be thinking about their 
+Google spend as COGS and not sales and marketing. I guess a notion you give us a dollar, we'll give us x dollars in 
+sales. So now with more video images and structured data appearing in the search, just wondering should we expect to 
+begin to see new monetization methods beyond just the traditional text based CPC actually appearing within the sort of 
+basic Google.com search. Thanks. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: I'll let Nikesh answer that. 
+
+<A - Nikesh Arora>: In fact, thank you, Patrick. In fact, we are beginning to see other forms of advertising and 
+monetization. You already have CPM based monetization on our video properties. We have based CPC based 
+monetization on our display networks. We have even CPA based monetization on certain part of our display networks. 
+So you are beginning to see different forms of monetization come forth in the online arena. 
+
+As we go forward, as more and more media shifts towards online, we are going to see different forms of monetization. 
+Most recently, we're beginning to seeing more and more branded advertising on YouTube and our various display 
+properties. So yes, the trend is in that direction. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thank you. Let's go to the next 
+question, please. 
+
+Operator 
+
+We'll take our next question from James Mitchell from Goldman Sachs. 
+
+<Q - James Mitchell>: Great. Thank you very much for taking the question. I wanted to dig a little bit into why the 
+general and admin spending was so well controlled. If memory serves you had some bursty legal costs this quarter last 
+
+
+year and some severance costs in the first quarter of 2009. But I wondered if there were any abnormalities in the second 
+quarter of 2009 and also if there is any reclassification from G&A to research and development? 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: I'll answer that. So, you know, you were 
+right that at the last quarter we talked about there were some extraordinary items here and there and you'll remember 
+legal settlements and restructuring sales and a few other items. But, otherwise, I think that, you know, what you see is 
+the result of good prudent focus on our general and admin and we're really happy with the trajectory and where we 
+landed. But there's nothing extraordinary apart from what you've just already mentioned. 
+
+<Q - James Mitchell>: Thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thank you. We'll take the next question, 
+please. 
+
+Operator 
+
+We'll take our next question from Sandeep Aggarwal from Collins Stewart. 
+
+<Q - Sandeep Aggarwal>: Thanks for taking my question. Eric, can you give us some glimpses of how the world of 
+computing will look like with the Chrome OS? And also maybe any comments on will it be a pre-installed deal with a 
+PC OEM or can it be downloaded? And if it can be downloaded will it work with existing install base versus just a new 
+PC shipment? Thank you. 
+
+<A - Eric Schmidt, Chairman and Chief Executive Officer>: Thank you. What we talked about when we did the 
+announcement a week ago, was that we were going to build an open source version of Chrome OS. It will be available 
+to the PC community a year from now. We are, in fact, talking to PC hardware manufacturers of both architectures, 
+both ARM architecture as well as the Intel architecture, to design products that are very, very exciting. That are – that 
+really fulfill the version of cloud computing. 
+
+Other aspects of our strategy are still to be worked out based on the feedback and so forth. There will be a reference 
+hardware spec, there will be appropriate features and so forth. Our primary focus for that product will be speed and in 
+particular speed of boot, speed of computation and seamless use of all the web services that are the promise of cloud 
+computing. 
+
+Will the software be generally available for download? Will it run on existing hardware? Those are things to be worked 
+out. Because it's open source, we won't have the kind of restrictions that other people have and it will be very possible 
+for people to take it and do almost anything they want to it. Which is another one of the great benefits of the Chrome 
+OS. 
+
+<Q - Sandeep Aggarwal>: Thank you very much. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thank you. Let's go to the next 
+question, please. 
+
+Operator 
+
+We'll take our next question from Youssef Squali from Jefferies & Company. 
+
+<Q - Youssef Squali>: Thank you very much. Two quick questions for Jonathan. By some accounts, June was reported 
+to have been maybe soft, or softer than April and May for online advertising. Was that true for Google as well, and was 
+there anything outside of just seasonality to account for that? 
+
+And then YouTube you talked a little about it earlier and you said that you were monetizing billions of videos per 
+month. The last time I heard you guys talk about it, you were talking about hundreds of millions of videos. So are we 
+
+
+comparing apples-to-apples? 
+
+And I guess lastly, what are the most popular ad formats right now? 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: Sure, Youssef. Let me start with the first 
+question. We generally don't parse intra-quarterly trends, so I really can't say anything with respect to how June was or 
+wasn't different. The only anomalous factor in this quarter was I think really the general timing of Easter versus in the 
+previous year. It was I believe in Q1 and this year it was in Q2. I don't really have anything else that I can offer. 
+
+I think what I said was that – or what I meant to say was that monetizable views have tripled in the last year and that 
+we're monetizing billions of views every month. Nikesh may be able to give you a sense from an advertiser perspective 
+across the Home page, the Watch page and the Search pages, where we have different ad formats, featured videos, and 
+the video promotion – promoted videos which we're doing on the results pages, which he's getting feedback from 
+customers in terms of what they're the most interested in. I have certainly seen a lot of interest in the Home page 
+mastheads which we've been introducing recently. 
+
+Nikesh, do you have any other feedback from the customers? 
+
+<A - Nikesh Arora>: No. I think, Jonathan, just to add to what you said, yes, we are beginning to see that YouTube 
+has established in the advertiser space now that the YouTube home page is of relevance and is desirable for customers. 
+So we are seeing significant sell through in most of our major markets where we have YouTube home page for sale. 
+
+In addition, we are beginning to see lots of interest in pre-roll advertising, which is what customers watch on the short 
+clips that we're beginning to acquire from our major partners like Disney and the deal we did recently with Vivo. So I 
+think the next phase of YouTube is going be towards pre-roll videos on short clips and long form video which we are in 
+the process of doing various deals with which we've announced in the past. 
+
+<Q - Youssef Squali>: That's helpful, thanks. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thank you for the questions. Let's go to 
+the next question please. 
+
+Operator 
+
+We'll take our next question from Doug Anmuth from Barclays Capital. 
+
+<Q - Douglas Anmuth>: Thanks for taking my question. Eric, you recently mentioned that Display was the next 
+billion business and I think this is sort of a change because I think you said Search basically over the last couple years. 
+Is there anything in particular that's led you to make this change or beyond what you talked about around YouTube 
+here? And how do you think you're benefiting at this point from the DoubleClick acquisition? And also curious about 
+the Google Exchange rollout and how that fits into your strategy? Thanks. 
+
+<A - Eric Schmidt, Chairman and Chief Executive Officer>: Nikesh has really been driving that area. So Nikesh, 
+why don't you summarize where we are? 
+
+<A - Nikesh Arora>: Thank you, Eric. I think the way to think about Display for us is actually in is multiple strands. 
+One is clearly on the YouTube side which you just talked about in terms of home page and pre-roll ads which we're 
+beginning to see some good trajectory in. 
+
+I think to couple that the second area of focus for us is the Google content network where we again see that the 
+revenues are doing well, it's performing well. There has been an aversion to more performance-based display 
+advertising in the last quarter because most of the advertisers have started going back to focusing on CPC and clicks. 
+Where we're bringing the metrics of search to display effectively and we're seeing shift away back from CPM to more 
+CPC on the content network because their display inventory continues to rise and people are beginning to want metrics 
+to measure that. 
+
+
+On the third end is as you asked the DoubleClick integration. We've made tremendous progress with the Ad Exchange. 
+We have now integrated that, the DoubleClick exchange with AdWords and AdSense and we're seeing traction where 
+publishers, advertisers, agencies all want to work within Exchange. That allows us to expose inventory across the board 
+to both parties in the transaction. 
+
+So I think Eric's right that, that is the next area where the online advertising is going to shift and we're going to see 
+tremendous growth in the display space. And we're excited about all three areas individually. 
+
+<Q - Douglas Anmuth>: Thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thanks, Nikesh for the answer. So we'll 
+go back to the next question, please. 
+
+Operator 
+
+And we'll take our next question from Spencer Wang from Credit Suisse. 
+
+<Q - Spencer Wang>: Thanks. Good afternoon. Just two quick questions. Was wondering if you guys could talk a 
+little bit about the new trademark policy and what the results have been since you rolled that out since mid-June? 
+
+And then just a follow-up again on the YouTube question, when you guys talk about YouTube being on a better 
+trajectory now, is it just a function of increasing the number of monetized views? Can you talk a little bit about maybe 
+some of the click through rates on the ad formats and what you're seeing now versus previously? Thank you. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: Sure. This is Jonathan. I'll handle the 
+specific question on the trademark change first. I believe we implemented that around the middle of June and basically 
+it's just an update to the trademark policy in the U.S. for Google.com AFS and AFC. Good advertisers can use 
+trademark terms in their ad creatives if they're resellers or an information site for the product with the trademark and 
+generally we're seeing significant interest in that. I don't have any specific revenue numbers to offer you but you can 
+certainly try some ads yourself and get a sense of how frequently it's being used. 
+
+On the YouTube side, Nikesh, do you have some comments? 
+
+<A - Nikesh Arora>: Yeah, YouTube trajectory has effectively been about how to build it to scale. We've introduced 
+ad formats, we have gotten into the selling process, the selling cycle of agencies and advertisers and we've been able to 
+go out and sort of train our sales force to go and make these sales happen. So the reason we're excited about it is 
+because now we've finally got all the pieces in place, the agencies are getting into the selling process and the buying 
+process and getting our teams ready. 
+
+Secondly on YouTube we're also now getting excited about the pre-roll stuff because we're bringing more content. The 
+promoted videos idea where we can promote partner content up front so we shift more and more user views to where 
+there's more premium content allows us to create more inventory. Couple that with the fact that our teams are now out 
+there selling advertising as pre-roll to various advertisers, that creates the scale and the breadth that we need to go and 
+drive this forward. 
+
+<Q - Spencer Wang>: Nikesh, what's been the impact on user experience from pre-rolls? 
+
+<A - Nikesh Arora>: Pre-rolls, if you look on the web, if you look at premium content, users are accepting that when 
+they're going to watch premium content they're going to have to see it supported either by some form of advertising 
+funding or perhaps they're going to have to pay for it at some point in time. So it is becoming accepted user behavior 
+that if they are going to watch premium content where people have invested money in creating it, they're going to 
+watch pre-rolls. So I think there seems to be a general acceptance around this area. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: Yeah, we do look – this is Jonathan, we 
+do look carefully at the drop-off rate with the pre-roll and there's very little drop off so we're generally pretty optimistic 
+
+
+there. 
+
+<Q - Spencer Wang>: Thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thank you. Let's go to the next 
+question, please. 
+
+Operator 
+
+We'll take our next question from Jeffrey Lindsay from Sanford Bernstein. 
+
+<Q - Jeffrey Lindsay>: Thank you. Can I ask, given the changes in YouTube and the increase in the amount of 
+advertising, is YouTube actually profitable on a contribution basis? Or is it a net negative? And then secondly, do you 
+intend to make any money from the operating system? Will you for example charge for it? Or will it be given free as 
+part of Google Apps? How will that work? Thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: So on the first one, we don't give the 
+economics of YouTube. What I can tell you is that we're really pleased with the trajectory of YouTube. We're really 
+pleased both in terms of its revenue growth which is really immaterial to YouTube and, you know, in the not long – too 
+long distance future, we actually see a very profitable and good business for us. From that perspective we're really 
+pleased with the trajectory. And on the second one, I'll let Eric answer. 
+
+<A - Eric Schmidt, Chairman and Chief Executive Officer>: Yes, on the Chrome OS, because it's open source, we 
+do not plan to charge for it in an open source form. There may be other ways in which we make money from it but the 
+core operating system if you go and read the blog posts you'll see we said this is an open source project which should 
+be available for anyone to use. 
+
+<Q - Jeffrey Lindsay>: So that means that even though you'll incur the cost of doing the development, there's no 
+opportunity for you to make any money with it? 
+
+<A - Eric Schmidt, Chairman and Chief Executive Officer>: Well, we – first remember we do this with a lot of 
+products, so, for example, our Android product. There are many other pieces of technology that Google builds and the 
+rough argument is that we do things that are strategic because they get people to ultimately use the internet in a clever 
+and new way more and we know that as they use the internet more, they ultimately search more or watch more on 
+YouTube and we then know that our advertising works in a particularly strong and targeted way. 
+
+So we do not require each and every project to be completely profitable or not profitable. We look at them in a strategic 
+context, are they making the web a better place. And by making the web a better place, we're getting more and more 
+people online, especially on broadband connections, we have data that says that it ultimate results in very, very strong 
+revenue growth from us because of the targeted ads that we offer. 
+
+<Q - Jeffrey Lindsay>: Thank you. 
+
+<A>: Thanks, Eric. Let's go to the next question please. 
+
+Operator 
+
+And we'll take our next question from Jeetil Patel from Deutsche Securities. 
+
+<Q - Jeetil Patel>: Great. Thank you. A couple of questions. I guess when you look at OEM licensing fees and if that 
+makes sense or not, but just broadly, what is your view on consumer paid services? Does that make sense in terms of 
+leveraging your audience and the myriad of services that you offer today to go after somewhat of a consumer pay 
+model, whether it be your own products or other products say ISVs participating in Chrome OS over time? 
+
+
+And then second, a question around budgets of late. As you talk to marketers and advertisers, are you hearing that 
+they're perhaps holding back budgets until the seasonal spend of August, September and onward, which is typical of the 
+seasonal trend that we've seen in the past? 
+
+<A - Eric Schmidt, Chairman and Chief Executive Officer>: So on the first part of the question, if our platform 
+strategy works and if there are many users of the Chrome OS, there will be many opportunities to build profitable 
+services on top of that platform. That's been true for all of the successful platform plays over the history of computing. 
+And they're likely to be large if it's successful. If it's not successful, then it doesn't really matter. So our focus right now 
+is on building a truly new experience, something very different from the existing operating systems and then see how 
+broadly that can touch people's lives on a day-to-day basis in the new model of cloud computing. 
+
+As another general statement, it is certainly my belief that you will see a duality between advertising and subscription 
+services and that eventually monetization in the web will have a very successful advertising model which of course 
+Google is the leader or one of the leaders in. And also a fair number of strong and successful subscriptions services 
+which include micro-payment systems and so forth and so on. And that infrastructure has yet to be built, in my view, 
+broadly. It makes sense that ultimately content will be either advertising supported or charged for and that content here 
+includes content as in the form of movies, video, and so forth, but also things like software and so forth and so on. So 
+with that, that ended the first half of the question. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: I think the second half was just about 
+advertiser budgets? 
+
+<Q - Jeetil Patel>: Yes. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: I guess Nikesh can maybe give you a 
+perspective from what he's actually hearing from the advertisers. The one thing I'd like to remind you there though is 
+most of our advertisers are not maxing out their daily budget. So they'll always take more clicks if we can get them to 
+them. So in many ways that's not the right question to ask, but if Nikesh has specific views of what he's hearing from 
+the advertiser community, that might be helpful. 
+
+<A - Nikesh Arora>: I think, Jonathan, you're right. Effectively, what we've been spending our time with the 
+advertisers is convincing them that search is an ROI-based media and we can't create inventory. Inventory depends on 
+consumer behavior. So they have worked with us to open their budgets and put out there. What they've set is they've set 
+very rigorous ROI benchmarks on their bidding so we understand that they will buy a click at a certain price but they 
+keep their budgets open with us for the most part which allows them to buy as much inventory as is created in that 
+particular day. 
+
+<Q - Jeetil Patel>: Eric, a quick follow-up on that ads versus subscriptions. Do you think that there's a business model 
+from a royalty standpoint as ISVs build out apps on top of Google Chrome OS? 
+
+<A - Eric Schmidt, Chairman and Chief Executive Officer>: Again, too specific a question. 
+
+<Q - Jeetil Patel>: Okay. 
+
+<A - Eric Schmidt, Chairman and Chief Executive Officer>: We don't know yet. It makes perfect sense that there 
+will be new forms of applications distribution. Exactly how they get monetized, there are probably multiple ways. 
+There are people who are experimenting with ads inside of applications. There's obviously the subscription model 
+which others are trying and we'll know. The good news is we can talk about this for a long time because we won't 
+really know for a year or two. 
+
+<Q - Jeetil Patel>: Look forward to hearing about it more. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thank you. Let's go to the next question 
+please. 
+
+
+Operator 
+
+We'll take our next question from Heath Terry from FBR Capital Markets. 
+
+<Q - Heath Terry>: Thanks. Not to over ask the YouTube question. But you mentioned that YouTube monetized 
+views have tripled year-over-year. Can you give us a sense of what portion that is currently and can you talk about the 
+challenges to monetizing the non-partner inventory that make up the rest of those views? 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: I guess I don't understand the question 
+with respect to a percentage. 
+
+<Q - Heath Terry>: Well, you mentioned that YouTube monetized views have tripled year-over-year. So I mean I'm 
+assuming there's a portion of those that are non-monetized. I'm curious if you can give us a sense as to, you know, 
+maybe not exact percentages but what that portion looks like. 
+
+<A - Eric Schmidt, Chairman and Chief Executive Officer>: In general, we don't – we haven't dissected all the 
+numbers within YouTube. The majority of YouTube views are not professional content. They are user generated 
+content because that's the majority of what people are watching. It's also the majority of what is submitted. YouTube is 
+accepting more than 15 hours of video every minute here and that's only increasing which gives you a testament of the 
+power of YouTube. 
+
+<Q - Heath Terry>: And in terms of being able to monetize the non-professional side of that inventory? 
+
+<A - Eric Schmidt, Chairman and Chief Executive Officer>: Has not been our focus. It's probably possible to do so, 
+but the fact of the matter is that the majority of the non-professional content has relatively small number of viewers. It's 
+difficult to target it accurately. There's too much variation and so forth. Whereas the professional here, remember, 
+professional here just doesn't mean big studios, it also means smaller studios, new entrants, startups who are 
+professional quality and you can tell a professional quality video from a user-generated one, it's easy enough. You can 
+tell the difference between the two. 
+
+<Q - Heath Terry>: Okay, great. Thanks. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thank you. Let's go to the next question 
+please. Probably have time for one or two more questions. 
+
+Operator 
+
+Thank you. We'll take our next question from Steve Weinstein from Pacific Crest. 
+
+<Q - Steve Weinstein>: Great. Thank you. It looks like over the last few quarters, the TAC as a percentage to the 
+network partners has been declining. I understand that there's all sorts of mix issues and seasonal issues that go into 
+that. But I'm wondering, given the momentum you're seeing behind AdSense for content and display ads, if when we 
+kind of spread that trend out, if we can continue to see a downward TAC being paid out as a percent of the network? 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: I'll answer that. I think there's a lot of 
+mix issues with TAC. So first of all, you know, when you look at it relative to last year, there isn't these massive swings 
+of TAC. There's clearly mix issues. So on the AdSense and partner networks, right, obviously, you know, if you have a 
+mix with more of your smaller partners and your larger partners it will influence the mix that way. Clearly with Google 
+TAC, it's not a big change but it reflects the fact that, you know, we have more partner deals to bring people to Chrome, 
+to bring people to Toolbar. So there's no really big tectonic shift in any way, shape or form but what you see is just the 
+effect of the mix on the quarter to quarter basis just at work. 
+
+<Q - Steve Weinstein>: Okay. Thank you. 
+
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thank you. We'll take one more 
+question, please. 
+
+Operator 
+
+We'll take our final question from Jim Friedland from Cowen and Company. 
+
+<Q - James Friedland>: Thanks. A question on Google Apps on the enterprise edition. Two parts to it: first, you 
+charge $50 per user per year. Over time is there a view not only to add services and continue to charge that level but 
+could you also offer premium features so that you generate more revenues per customer? And second, as you talk to 
+enterprises, what are the key barriers to adoption that you're hearing? Thanks. 
+
+<A - Eric Schmidt, Chairman and Chief Executive Officer>: At the moment, of course, we're very happy with the 
+$50 a year model. We obviously have the opportunity to put in additional value-added services over time. We've got 
+our hands full just sort of pursuing the current opportunity. I think over time you can expect we would broaden some o 
+those ideas on a per-product basis. 
+
+When you look at the barriers to entry in that market, they are actually pretty easy to understand. The customer has a 
+large and existing investment in infrastructure which is relatively highly specialized. It takes them some time to convert 
+or adapt systems that they have to use the new web-based computing. This of course is the fundamental narrative of 
+these product transitions. That's why it takes so many years to go through. It's not that the customers don't want to make 
+the transition, the issue is if there's some feature or some unique thing that they depend on. 
+
+Examples would be in the category of security services, often security systems are relatively highly specialized, access 
+to specific and often historically significant but currently not very significant database systems that they still need to 
+have access to, other kinds of things which are just tactical. In other words, they just require some amount of work and 
+over time we will knock down some of those issues, some of those will be conversions that people will do etcetera, 
+etcetera. 
+
+We focused, for example, on the most common ones: Outlook, we've now launched an Outlook synch product; the use 
+of BlackBerries, in particular, the BlackBerry Enterprise Server. We now have very good BlackBerry support as part of 
+our Apps. So those are two of the ones that we've been able to knock down in the last few months that have been very 
+high priority. But there's certainly more. 
+
+<Q - James Friedland>: Great. Thank you. 
+
+Patrick Pichette, Senior Vice President and Chief Financial Officer 
+
+Thank you. With this, we will close the call. Let me thank everybody for taking the time to listen to our call today. 
+
+Just to summarize, we're very pleased of a very good quarter in what is a stabilizing but a difficult economic 
+environment. I also would like to thank Googlers for their incredible contribution in Q2. What a great progress. And 
+thank you for listening. 
+
+So Jonathan and I will be able to talk to you for the people that go for the second call in about half an hour's time. 
+Thanks again and with that, I'll let the operator close the call please. 
+
+Operator 
+
+Thank you. And this concludes today's conference. We thank you for your participation. 
+
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2009, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

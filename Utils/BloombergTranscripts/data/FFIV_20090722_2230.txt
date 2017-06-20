@@ -1,0 +1,604 @@
+Q3 2009 Earnings Call 
+
+
+Company Participants 
+
+• John Eldridge, Investor Relations 
+• Andy Reinland, Senior Vice President and Chief Finance Officer 
+• John McAdam, President and Chief Executive Officer 
+Other Participants 
+
+• Jason Ader 
+• John Macadam 
+• Jason Adder 
+• Dan Matte 
+• Mark Sue 
+• Ryan Hutchinson 
+• Mark Anderson 
+• Brent Bracelin 
+• Jeff Kvaal 
+• Alex Henderson 
+• Brian Marshall 
+• Troy Jensen 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon, and welcome to the F5 Third Quarter Financial Results Conference Call. At this time, all parties will 
+be able to listen only until the question-and-answer portion. Also, today's conference is being recorded. If anyone has 
+any objections, please disconnect at this time. 
+
+I'd now like to turn the call over to Mr. John Eldridge, Director of Investor Relations. Sir, you may begin. 
+
+John Eldridge, Investor Relations 
+
+Thank you, Tamara. Welcome to our conference call for the third fiscal quarter – for the third quarter of fiscal 2009. 
+The speakers on today's call are John McAdam, President and CEO, and Andy Reinland, Senior VP and Chief Finance 
+Officer. 
+
+The other members of our executive team are also with us to answer questions following our prepared comments. If 
+you have questions following today's call, please direct them to me at 206-272-6571. 
+
+If you don't have a copy of today's press release, it is available on our website. In addition, you can access an archived 
+version of today's live webcast from the Events Calendar page of our website through October 21. From 4:30 PM today 
+until midnight Pacific Time July 23, you can also listen to a telephone replay at 866-470-8793 or 203-369-1493. 
+
+During today's call, our discussion will contain forward-looking statements, which include words, such as believe, 
+anticipate, expect and target. These forward-looking statements involve risks and uncertainties that may cause our 
+
+
+actual results to differ materially from those expressed or implied by these statements. Factors that may affect our 
+results are summarized in our quarterly release, described in detail in our SEC filings. Please note that F5 has no duty 
+to update any information presented in this call. 
+
+Now I'll turn the call over to Reinland. 
+
+Andy Reinland, Senior Vice President and Chief Finance Officer 
+
+Thank you, John. Revenue for the third quarter of fiscal 2009 was 158.2 million, above our guided range of 148 to 157 
+million. GAAP EPS of $0.29 per diluted share was above our guided range of 22 to $0.25. Excluding stock-based 
+compensation expense, non-GAAP EPS of $0.40 per diluted share was also above our guidance of 35 to $0.38. 
+
+Product revenue of 95.6 million represented 60% of total revenue. Service revenue of 62.6 million accounted for 40%. 
+Our book-to-bill for the quarter was greater than one. 
+
+On a geographic basis, the Americas represented 56% of total revenue, EMEA accounted for 23%, APAC 13% and 
+Japan 8%. Revenue from our core application delivery networking business was 147.9 million and accounted for 93% 
+of total revenue. Revenue from our ARX file virtualization products was 5 million, up sequentially from Q2 and 
+accounted for 3% of total revenue. At 5.4 million, revenue from FirePass was down from Q2 and also, represented 3% 
+of total revenue. 
+
+During Q3, telco was our strongest vertical at 25% of total revenue. The financial sector accounted for 21%, 
+technology 17% and U.S Federal 5%, total government was 10%. 
+
+During Q3, Avnet Technologies was our only greater than 10% distributor at 15.2% of total revenue. 
+
+Moving down the income statement. GAAP gross margin in Q3 was 78.7%; excluding approximately 1.2 million of 
+stock-based compensation expense, non-GAAP gross margin was 79.5%. 
+
+GAAP operating expenses of 93.3 million were within our target range of 89 to 95 million. Non-GAAP operating 
+expenses, which exclude 11.3 million of stock-based compensation expense, were 81.9 million. GAAP operating 
+margin was 19.8%; non-GAAP operating margin, which excludes stock-based compensation expense was 27.7%. Our 
+GAAP effective tax rate was 33.7%. Excluding stock-based compensation, our non-GAAP effective tax rate was 
+31.9%. On the balance sheet, we ended the quarter with 538 million in cash and investments. 
+
+Cash flow from operations was 46.2 million. Also during the quarter, we repurchased 464,000 shares of our common 
+stock for $15.9 million. Accounts receivable DSO ended the period at 52 days. Inventories at quarter-end were 13.6 
+million. Deferred revenue increase 6% from the prior quarter to 169.9 million. Capital expenditures for the quarter were 
+
+1.8 million and depreciation and amortization expense was 6.2 million. We ended the quarter with approximately 1,605 
+employees, flat with Q2. 
+Moving onto the outlook. While we continue to be cautious in analyzing and managing our business in the current 
+environment, we are encouraged by our Q3 results and the prospects for Q4. We're targeting Q4 revenue in the range of 
+160 to 164 million. We expect GAAP gross margin in the 78 to 79% range. This includes approximately $1 million of 
+stock-based compensation expense. We anticipate GAAP operating expenses in the range of 96 to 100 million. This 
+includes approximately 14.5 million of stock-based compensation expense. 
+
+Our GAAP EPS target is 26 to $0.28 per diluted share. Excluding stock compensation, our non-GAAP EPS target is 40 
+to $0.42 per diluted share. We are forecasting an effective tax rate of 35%. Excluding stock-based compensation, we 
+expect a non-GAAP effective tax rate of 33%. 
+
+We plan to increase our head count by 25 to 50 employees in the current quarter. We estimate DSOs will be in the 
+mid-50 day range, we expect inventory levels within a range of 13 to 15 million. And we believe our cash flow from 
+operations will be in excess of $50 million. 
+
+
+With that, I will turn the call over to John McAdam. 
+
+John McAdam, President and Chief Executive Officer 
+
+Thanks, Andy, and good afternoon, everyone. Overall, I was very pleased with our performance in the quarter. All our 
+key financial metrics were positive when compared to the previous two quarters. We delivered sequential quarterly 
+revenue growth, and more importantly, we saw a sequential increase in product revenue growth in both our core ADC 
+business and our ARX business. 
+
+We remain convinced that our ADC products occupy strategic real estate within the data center and offer a compelling 
+ROI for our customers. We also believe that our ARX file virtualization products offer an equally attractive ROI by 
+optimizing file-based storage environments. We continue to produce solid operating profits with a sequential increase 
+in non-GAAP operating margins to almost 28%, and generate strong cash from operations above $45 million. 
+
+From a geography perspective, our North American operations had a very good quarter, producing solid sequential 
+growth across most of the regions. Asia-Pacific operations had a solid quarter, and Japan was also slightly above our 
+expectations during the seasonally weak first fiscal quarter. 
+
+Overall, EMEA operations were flat from the previous quarter, but we did see some weakness in our U.K. operations as 
+a few relatively large transactions failed to close during the quarter. 
+
+Our services business yet again produced sequential growth with another sizable increase in deferred revenue. From a 
+product perspective, we were very satisfied with the acceptance of our new ADC product by our customers. We have 
+seen positive results across the product line from the entry-level product, up to and including our flagship VIPRION 
+products. Our new software release of TMOS version 10 has also been very well received, and we believe that v10 has 
+significantly increased our competitive leadership in our core ADC market. 
+
+Our new Data Manager solution in the file virtualization space is also proving to be very popular with our customers 
+and partners. Data Manager also discovers key attributes of a heterogeneous file storage environment, and presents a 
+comprehensive view of how files are being used, allowing our customers to quickly see how they can optimize their 
+environment. 
+
+Customers can get a detailed look into the file storage environment, including which file types are being created, who is 
+creating them, how quickly files age, and which resources the files consume. And the overall product roadmap includes 
+a number of very exciting new product in software development, many of which are specifically designed for data 
+center architectures of the future, as we see continued movement to wide scale consolidation, leveraging virtualization 
+technologies and cloud-based architectures. 
+
+Our plan includes new products leveraging our clustered multi-processing architecture, an upgrade to the VIPRION 
+blade with significantly improved performance and a host of new software functionality. As far as the current outlook 
+is concerned, Andy indicated that we expect to see continued sequential growth in fiscal Q4. Q4 tends to be seasonally 
+strong in American operations, including our federal business. We expect Japan and Asia-Pacific to produce sequential 
+growth over last quarter, and EMEA to be seasonally flat to maybe slightly down. 
+
+We expect our services business to be up against sequentially driven by the healthy gain and deferred revenue last 
+quarter. We plan to invest in the future as we see revenue growth returning, mainly in sales, services and product 
+development head count. However, we will maintain our cautious approach on investment and our plan is to invest 
+behind revenue as we have done in the past. 
+
+Given our current range of revenue guidance, we would expect operating margins to be flat to slightly up in Q4 from 
+last quarter. As we have done in the past, we will update our longer term planning assumptions on our annual call on 
+October. 
+
+As I stated earlier, we are convinced that F5 products play a strategic role in data center architectures both now and in 
+the future. We enjoy a significant market leadership position in the overall application delivery networking market. Our 
+
+
+balance sheet and cash position remains very strong. We continue to be cautious given the formidable challenges with 
+the global economy, but also believe that as the economy improves, we will experience accelerated growth in our 
+business given our significant market and technology leadership positions. 
+
+I would like to thank the entire F5 team and their partners for their efforts in Q3, and with that we'll hand the call over 
+for Q&A. 
+
+Q&A 
+
+Operator 
+
+Thank you. [Operator Instructions] Our first question comes from Jason Ader with William Blair. You may ask your 
+question. 
+
+<Q - Jason Ader>: Yes, thank you. John, given the strong results for the quarter and the guidance, is it fair to say that 
+you are kind of back on track with kind of the normal backlog in the business? 
+
+<A - John McAdam, President and Chief Executive Officer>: In terms of the – do you mean the pipeline Jason, the 
+pipeline of business? 
+
+<Q - Jason Ader>: Well, no. I mean, the actual backlog where you have bookings, but you haven't shipped it yet. And 
+I know historically – F5 historically has had some level of backlog. 
+
+<A - John McAdam, President and Chief Executive Officer>: Yeah, I understand. We don't give that specific data. 
+We obviously will do that at the end of the year. But the book-to-bill, the product book-to-bill was up last quarter. In 
+terms of the pipeline, we feel pretty good about that actually. 
+
+<Q - Jason Ader>: Okay. And then on the head count, you said you are going to add 25 to 50 people. I mean, do you 
+feel understaffed right now? How are your overall feeling about the business? And I guess, just try to get a sense, I 
+know you said you're going to invest behind revenue. But are we talking about kind of a near-term highpoint in the 
+operating margin around 28%-ish and then next year we start to dip down again as you invest? Or is it just going to be 
+dependent on revenue next year in terms of how you think about that investment? 
+
+<A - John Macadam>: Yeah, First of all, I don't think we're understaffed at all. Obviously, we expect to recruit, as 
+we've said between 25 and 50 this quarter. If you look at the productivity levels anybody can do that looking at the 
+number of people we have got in the company and the revenues, you could argue that there is definitely room for 
+productivity increases and that's what we expect. But having said that, we still see opportunities in places like the 
+emerging markets, some of the big account areas, federal. So, we are still going to increase, but we don't think we're – 
+we've got any significant under investing going on. 
+
+<Q - Jason Adder>: Okay. So, the operating margins for next year, I guess it's too early to say, but 
+
+
+<A - John Macadam>: Yes, we will talk about that in October. But having said that, I think it's very likely that you 
+will see us in the same modus operandi, which is investing behind revenue. 
+
+<Q - Jason Adder>: Okay. Great. Thanks, thanks, guys. 
+
+Operator 
+
+Thank you. Our next question comes from Brian Modoff with Deutsche Bank. You may ask your question. 
+
+<Q>: Yeah, hi John this is Vijay Ragavan calling on behalf of Brain. 
+
+<A - John McAdam, President and Chief Executive Officer>: Hi. 
+
+
+<Q>: You know just two questions, the first is in terms of any thoughts on your partnership strategy and how you 
+would like to leverage your partners from a go-to-market perspective for both ARX and the application networking 
+portfolio? And then the next question is around the competitive outlook. How do you see kind of the relative 
+competitive position versus Cisco, Citrix, Riverbed and others. 
+
+<A - Dan Matte>: Yeah, sure Vijay. This Dan Matte speaking. 
+
+<Q>: Yes, hi Dan. 
+
+<A - Dan Matte>: As far as the partnership piece goes on the application networking delivery network in ARX, yeah, 
+really we've been pretty consistent. So, we're going to do more of what we have been doing. So, been working with 
+some large partners, the HPs and the IBMs and folks like that around the world, Dell of course, has been a very 
+consistent partner for us over the years. And then, as well as far as our reseller partners go, you may have seen we 
+revamped our partner program probably about 45 days or 60 days ago and we think that that will actually help improve 
+our position with our partners out there on the application delivery networking front. 
+
+On the ARX, the file virtualization standpoint, really what we've been doing is, actually focusing in North America, 
+especially on a smaller number of partners who are more specialists in the field and really helping to work to make 
+them the experts in North America at this technology. And so, again, that's a fairly new effort out there, and I look 
+forward to great things from them. 
+
+<A - John McAdam, President and Chief Executive Officer>: And regarding the competitive landscape, this is John, 
+I mean, first of all, in our core market, the ADC market, we believe we've got a really strong competitive position, 
+especially with the new products that we just refreshed. I mentioned the roadmap which we'll get through in October 
+and November in some more detail, but that's also pretty exciting as well, along with v10 and the software upgrades 
+that we've done there. Cisco and Citrix remain the main players. We've really haven't seen much change there. We did 
+our business review with the North American sales management on Monday. And in fact, arguably we've seen that 
+competitive side actually drop slightly. So, no major change in the competitive environment and we feel pretty good 
+about it. And I think that is reflected as well in the high margins that you're seeing and the high margins we're 
+forecasting. 
+
+<Q>: I guess if I could ask a follow-up, John? 
+
+<A - John McAdam, President and Chief Executive Officer>: Yeah. 
+
+<Q>: I think in terms of the cloud, John, I mean, do you see that kind of as a net new opportunity or it's more of an 
+extension of the data center opportunity you've been pursuing? I mean, maybe you could answer that question in the 
+context of your portfolio? 
+
+<A - John McAdam, President and Chief Executive Officer>: Yeah, I think it's both actually. So, it's certainly an 
+extension of what we're doing in the sense that tends to – the architecture look like the large data – a consolidated data 
+center and we're very strategic building blocks in there. But from a new perspective, it's definitely there, as well as a 
+host of new partners that we're working with that generate cloud solutions. So, we it see as both. 
+
+<Q>: Okay. Thanks, John. Thanks, Dan. 
+
+<A - Dan Matte>: Yes. 
+
+Operator 
+
+Thank you. Our next question comes from Mark Sue with RBC Capital Markets. You may ask your question. 
+
+<Q - Mark Sue>: Thank you. The sequential rebound in product revenue, is there any specific product line that's 
+driving that? Is it VIPRION? Is it the 8900? And are you seeing sequential product unit growth in addition to a product 
+revenue growth? 
+
+
+<A - John McAdam, President and Chief Executive Officer>: Yeah. It's been across the board, Mark. I mean, 
+frankly, it's been the economy. The combination of a product refresh, a great competitive position. But we – right 
+through the quarter, we've seen a different environment. We're obviously cautious as we move forward. But last quarter 
+was very predictable, very linear, and it was across the product range. And as I mentioned it from a geography 
+perspective, it was mainly across all the geographies as well. 
+
+<Q - Mark Sue>: Got it. And just John, with a good start in the month of July, maybe if you could just talk about the 
+sustainability of the sequential growth in product revenues going forward? 
+
+<A - John McAdam, President and Chief Executive Officer>: Yeah. Last quarter, we were specific on the months 
+and we have gone back now to our normal modus operandi, not really going to talk about that now or during the 
+quarter, now having said that. So, and the reason for that is that – the reason we did it last quarter, we missed a couple 
+of quarters, we felt that it was appropriate. We want to go back to our current modus operandi, which is really not to 
+update the quarter. Having said that, this is very important, what I'm going to say, when we do our guidance, one of the 
+major drivers of our guidance, one of the key drivers is how we're actually doing the run rate of business in the first 
+month and the forecast for the month, and we've clearly taken that into the – done the guidance. 
+
+<Q - Mark Sue>: Got it. [audio gap] quarters? Thanks, gentlemen. 
+
+<A - John McAdam, President and Chief Executive Officer>: Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from Ryan Hutchinson with Lazard Capital Markets. You may ask your question. 
+
+<Q - Ryan Hutchinson>: Great. Thanks, guys. And nice to see the product revenue growth here accelerating. I guess a 
+couple of questions, one sort of a follow-up. In terms of looking at sort of the close rates, how much did the close rates 
+improve in the quarter? And then specifically, as it relates to the guidance, has your assumptions changed materially, as 
+it relates to the guidance for the September quarter and the close rate assumptions? 
+
+<A - John McAdam, President and Chief Executive Officer>: On the close rates? 
+
+<A - Mark Anderson>: Yeah, sure. Hey, this is Mark Anderson. Ryan, how are you doing? 
+
+<Q - Ryan Hutchinson>: Great. 
+
+<A - Mark Anderson>: Good. So, in terms of the close rates, I think we saw, for the first time in several quarters an 
+increase in close rates and also, an increase in our pipeline, our gross pipeline. And that is really encouraging. And like 
+John said earlier, we saw that throughout the quarter, as we take snapshots at different points in time. So, we are very 
+happy with the metrics on close rates and very happy with the metrics on the percent of win rates against our 
+competitors, which John mentioned in North America, but across the world, they have actually gone up for each 
+competitor, our major competitors. 
+
+<Q - Ryan Hutchinson>: Have your close rate assumptions, I guess change, as it relates to how you formulate the 
+guidance? 
+
+<A - John McAdam, President and Chief Executive Officer>: So, we've used the exact same assumptions from last 
+quarter that we have done for this quarter in doing the guidance. 
+
+<Q - Ryan Hutchinson>: All right. 
+
+<A - John McAdam, President and Chief Executive Officer>: But we feel hopefully that we are being appropriately 
+cautious. 
+
+<Q - Ryan Hutchinson>: Okay. And then one more, and I will jump back in the queue. As it relates to a lot of the stuff 
+that Cisco has been doing in the marketplace with the introduction of the blade servers' et cetera, have you seen any 
+
+
+strengthening of your relationship specifically with HP and the ProCurve ONE alliance? And if you have it, provide 
+some color there if you haven't, do you expect that you will? 
+
+<A - John McAdam, President and Chief Executive Officer>: Yeah. We feel very, very good about the 
+opportunities that we have got. Really with Hewlett-Packard, with Dell, with IBM, because we can definitely add value 
+in the scenario where they are competing on the server basis. We've been working with Dell for example, for years 
+where they've been on top five, yeah, I think those dynamics are only strengthening these partnerships. 
+
+<Q - Ryan Hutchinson>: Okay. Thanks, guys. Good luck. 
+
+Operator 
+
+Thank you. Our next question comes from the Brent Bracelin with Pacific Crest. You may ask your question. 
+
+<Q - Brent Bracelin>: Thank you. John, I wanted to really follow up on kind of the drivers here. It sounds like the 
+sequential rebound that you saw you're attributing to more of an industry rebound, improving economy versus share 
+gains you know. One, at what point do you feel maybe a little bit more confident saying, when do you expect to 
+actually take some shares? Two, we're 90 days in to the version 10 release, what's the customer feedback? Was it a 
+material part of the BIG-IP revenue mix this quarter and if not, when do you expect to get to that more than half of your 
+shipments will be on version 10? 
+
+<A - John McAdam, President and Chief Executive Officer>: Yeah, obviously we can't comment on share because 
+we don't know the data for this quarter, but as you heard our competitive win rates are as high as they have been. So, 
+that would indicate there is definitely an opportunity for gaining market share. But frankly, until we see the results we 
+can't really comment on that. In terms of the products and how it's driving wins, no question the whole product refresh 
+is happening. There is a big interest building in version 10. I wouldn't say it was incredibly significant from last quarter 
+because it is a new operating system, but it is certainly going to be in the future quarters. 
+
+<Q - Brent Bracelin>: And then my last question here, as you think about kind of the environment that we are in, it 
+certainly look like a bottoming and a potential recovery here do you plan on being a little bit more offensive? 
+Obviously, you have a very strong balance sheet, how should we think about F5 and the strategy going forward? Is 
+there anything that you are looking at doing maybe perhaps a little bit more offensively through M&A or something 
+that you could help position you coming out of this downturn? 
+
+<A - John McAdam, President and Chief Executive Officer>: Yeah, I don't think so is the quick answer to that. 
+We're going to be having an analyst Investor Day in November and obviously, we will get through a lot of strategy 
+there. We have lot of organic, pretty exciting organic plans in place. We're not at a stage where we refurbish the 
+product line or refresh the product line and standing still, you're going to see a whole load of new products, both 
+software and hardware coming out. In terms of acquisition, probably not and again, we always caveat that with if 
+there's a great opportunity to make a move, but it is probably more unlikely. We feel that with ARX we still got a lot of 
+work to do obviously to get momentum in that. We think the economy will help us because from a competitor point of 
+view, we're really on our own, which is great, with a great ROI and then we've got a lot of new functionality coming 
+with the ADC business. So, I don't think so. But where you'll us being on the offensive is, as we see that revenue, we'll 
+be hiring. But we're going to be doing it cautiously behind revenue. 
+
+<Q - Brent Bracelin>: Okay. Perfect. Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from Jeff Kvaal with Barclays Capital. You may ask your question, sir. 
+
+<Q - Jeff Kvaal>: Yes. Thanks very much. I wanted to revisit the product revenue question if I could. Obviously, the 
+product revenue has turned a corner, which is great, it still seems to be below where one might like it to be or where it 
+
+
+was last year. Do you think that we have substantially turned a corner on product revenue, or should we be sort of in 
+the flattish range over the next several quarters, as far as you can see? 
+
+<A - John McAdam, President and Chief Executive Officer>: Yeah, I don't want to hide behind the economy, but I 
+think that's the major factor and the answer to that. Competitive-wise, we're in great shape. We are seeing, we did see a 
+different environment last quarter, right through the quarter. So, if that continues, you will see accelerated product 
+revenue. 
+
+<Q - Jeff Kvaal>: Okay. Should we see – I mean, we would like obviously to see the product revenue lead to service 
+revenue, now, is that something that we can look forward to in the next couple of quarters? 
+
+<A - John McAdam, President and Chief Executive Officer>: Well, that's the point I was making, it does depend in 
+the economy. It really does. I think from a – where we sit within the data center, as you hear more and more data center 
+buildouts happening, you'll see us getting a very, very strong share in that space. But we're being cautious about saying 
+that we've completely turned the corner. I don't think in this environment that would be appropriate. 
+
+<Q - Jeff Kvaal>: Okay. And then just to clarify the book-to-bill and product. Was it above one, is that right? 
+
+<A - John McAdam, President and Chief Executive Officer>: Correct. Yes. 
+
+<Q - Jeff Kvaal>: Okay. Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from Alex Henderson with Miller Tabak. You may ask your question. 
+
+<Q - Alex Henderson>: Thank you. Hey, guys, how you're doing? 
+
+<A - John McAdam, President and Chief Executive Officer>: Nice to have you back, Alex. 
+
+<Q - Alex Henderson>: It's a pleasure to be here. Thank you. I got a couple of questions for you. The first one, I was 
+wondering if we could just step through some of the metrics. You talked about closure rates already. So, I'll leave that 
+one alone. But pricing conditions, you mentioned win rates, it sounds like those are at the upper end of your band. Can 
+you talk about deal sizes, and in that context, what is the condition of the VAD, VAR channel at this point? Have those 
+guys kind of taken it on the chin a little bit in this downturn? Or are they still standing the way that you would expect 
+them to be? 
+
+<A - Andy Reinland, Senior Vice President and Chief Finance Officer>: Yeah. In terms of deal size, I think it's 
+remained pretty consistent with the last couple of quarters that we've seen. It's interesting, because I think we've been 
+fairly aggressive with our sales teams saying, go out, go – we're ready to – as we talked about with our software 
+margin, look at doing some discounting, and that's just not the environment out there, and we see that in the very strong 
+margins this quarter. So 
+
+
+<A - John McAdam, President and Chief Executive Officer>: So the pricing's been pretty stable 
+
+<A - Andy Reinland, Senior Vice President and Chief Finance Officer>: Yeah. 
+
+<A - John McAdam, President and Chief Executive Officer>: Some of the geographies have been a bit tougher, in 
+Asia for example, but not significantly. 
+
+<A - Mark Anderson>: Yeah, Alex, this is Mark Anderson. We keep a real close eye on pricing, and we're talking 
+about variances here in the 1% range, right. So, nothing significant. With regards to the health of our VAR channel, I 
+think it's just like everything else in the other companies that you might follow. There's been a real flight to quality, and 
+our customers are going to the highest quality partners that we have. And so we're seeing the stronger partners get 
+stronger, and we're seeing the weaker ones probably get weaker, maybe take it on the chin. But without question, that 
+alliance with how we're focusing our resources on the sales side, we are spending a lot more time with the high quality, 
+
+
+high value-add partners that are going to give us the partner leverage that we're looking for. 
+
+<Q - Alex Henderson>: So just to follow up that question, because I guess what I'm trying to really get at is, looking at 
+those metrics, is it reasonable to say that you're just stabilizing, and that you really haven't seen any move to growth in 
+the environment, that the conditions are not falling like they were last quarter, but they're not growing yet either? 
+
+<A - John McAdam, President and Chief Executive Officer>: Well, definitely stabilizing, I think is the key word, 
+no question about that. But having said that, our service business continues to grow, and then most importantly, the 
+product revenue, for the first time in a while actually, has grown sequentially. The guidance that we have given as well 
+would continue that process. So, stabilizing but obviously with slight upward trend. 
+
+<Q - Alex Henderson>: The seasonality would certainly suggest sequentially up in the – both of those quarters, are 
+you saying stabilization, and then just normal seasonal, or stabilization up a little? 
+
+<A - John McAdam, President and Chief Executive Officer>: The problem is with the last 12 months, it's so 
+difficult to call this. I go back to – I look at a year ago in calendar Q4, our fiscal Q1 where we were going extremely 
+well right up until the last two weeks in December, and that's when the spending just stopped. And then we had the 
+March quarter when February just stopped as well. So, it just – it's not appropriate, in my opinion yet, to make any big 
+weight calls here. 
+
+<Q - Alex Henderson>: Good. The second question on the conditions, how much of the improvement do you think is a 
+function of firing up the sales force with the v10's product or the software upgrade? Has that gotten them to go out and 
+given an excuse to go out and re-call on people who they might not have been calling on otherwise? 
+
+<A - John McAdam, President and Chief Executive Officer>: Not so much. Not last quarter. I mean, it will have an 
+effect more this quarter and the future quarters. But last quarter was really driven by the fact that our competitive 
+position with technology refresh of the systems combined with the competitive advantage. V10 is definitely, there's a 
+lot of interest in it. We're seeing a lot of downloads happening. Things like the application templates that, you know 
+working with the SharePoints, and the other solutions are there is definitely an area the sales force can go – didn't go 
+before but that's more this quarter in moving forward. 
+
+<Q - Alex Henderson>: And one last question, then I will cede, the VIPRION product, your strongest vertical was the 
+service provider, was the VIPRION part of that or was that service provider within the enterprise piece of the service 
+provider, if you will, i.e., the corporations as supposed to their network? 
+
+<A - John McAdam, President and Chief Executive Officer>: No, VIPRION has been a really strong catalyst within 
+the service provider that's – that's been what has been most popular, no question about that. Service provider, large 
+Internet company, Net enterprise in that order – what has been sitting at is our policy enforcement point within the 
+service providers is all the mobile data is coming on basically, making all the policies based on those applications. 
+That's been very popular. 
+
+<Q - Alex Henderson>: Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from Brian Marshall with Broadpoint. You may ask your question. 
+
+<Q - Brian Marshall>: Hi. Thanks, guys. A question with regards to the product revenue, I mean, looks like you saw 
+that grow almost 2% sequentially. I guess, the question is, is there some pent-up demand, if you will, with regards to 
+Park City being introduced in the quarter and would, I mean, i.e., barring any economic issues in the future. I mean, 
+wouldn't you expect that to sort of reaccelerate here a little bit more than what we're talking about given the fact that – 
+that is a pretty interesting new OS? 
+
+<A - John McAdam, President and Chief Executive Officer>: Yes. First of all, just to say a few things, just to be 
+really clear, Park City version 10 didn't have a significant impact last quarter because it is a new operating system. It's 
+
+
+been tried and downloaded a lot but that's not revenue and we do see that moving forward. No, I think, what we've seen 
+is that data center builder that paused starting to open up. Not aggressively but starting to open up and you're seeing a 
+better environment, that's been the main driver. 
+
+<A - Andy Reinland, Senior Vice President and Chief Finance Officer>: And if I can just add, what we saw last 
+quarter in Q2, customers not really knowing what budget they had to spend. In this past Q3 quarter, we saw that those 
+budgets being defined and then our sales job becomes going in there and prioritizing our project over other projects, 
+and so that's a massive improvement in terms of the visibility, that – and predictability that John mentioned earlier. 
+
+<Q - Brian Marshall>: Okay. And a question with regards to service gross margins, obviously continuing to impress 
+once again, and I think you mentioned that you're going to be adding some service heads. I was wondering if you could 
+give a little bit more granularity around there? Maybe how many service heads you have today and what you're looking 
+to add in the quarter? 
+
+<A - Andy Reinland, Senior Vice President and Chief Finance Officer>: Yeah, I don't – I don't know that the 
+current we have but what we watch mainly on that just is the customer satisfaction levels for the service that we 
+provide and they've been excellent, right. And you have to weigh wanting to give that world-class level of service 
+against the hiring. And we will add to that. Historically, it's been about a third of the hiring, and I said 25 to 50 is our 
+plan for this quarter. So, I think it will be in line with that. 
+
+<Q - Brian Marshall>: Okay. So, it sounds like service margins are here to stay? 
+
+<A - Andy Reinland, Senior Vice President and Chief Finance Officer>: Well, I think, in terms of margins, at least 
+in the short-term, they'll probably stay at this level, but we'll see over time. And next, as John mentioned, the next call, 
+we usually give some more directional guidance for the upcoming fiscal year, and we'll talk about that then. 
+
+<Q - Brian Marshall>: Okay, nice quarter. 
+
+<A - John Eldridge, Investor Relations>: Tamara, we'll take one more question, and then we'll end the call. 
+
+Operator 
+
+Thank you, sir. Our last question comes from Troy Jensen with Piper Jaffray. You may ask your question. 
+
+<Q - Troy Jensen>: All right, thanks for sneaking me in, guys. Congrats on the nice quarter. A couple of quick 
+questions. First, either for John or Dan, I guess. Microsoft has a substantial number of new products coming out in the 
+next, call it, year, year-and-a-half here. Just curious to know which Microsoft products is F5 more leveraged to? 
+
+<A - Dan Matte>: Well, I'll try, this is Dan. There really there are a lot of them. So, whether it's the new server 
+product, whether it's Wave 14, which is all sort of the Office product, SharePoint – Office communication server. The 
+virtualization piece that they've got going on, their dynamic infrastructure efforts, I don't know that I would pick one of 
+them up and over any other one to really drive us. It's going to be a pretty balanced effort, as far as we're concerned, for 
+driving our revenue, which I think is a good approach, right? Because we don't want to put all our chips in one basket. 
+
+<Q - Troy Jensen>: That's fair. And then on Microsoft guys, can you confirm whether or not you guys are designing 
+the Microsoft Bing search service? 
+
+<A - John Eldridge, Investor Relations>: We're looking just 
+
+
+<A - Dan Matte>: Yeah, we are. I mean, there's a whole broad range of elements of Microsoft's business that we're 
+designed into. Search definitely is one of them. 
+
+<Q - Troy Jensen>: Okay. It's perfect. And the last one, I'll cede the floor, John, I think you said on the call that Japan, 
+that kind of met your expectations. I guess I'm just going off of memory here. Weren't we expecting to see better 
+traction in Japan over the last few quarters given the low-end refresh? 
+
+
+<A - John McAdam, President and Chief Executive Officer>: Yeah, and we've been seeing that. So, when – the 
+whole point about the comment in Japan was that, last quarter was Japan's first fiscal quarter. 
+
+<Q - Troy Jensen>: Okay. 
+
+<A - John McAdam, President and Chief Executive Officer>: So that is typically sequentially down and it was 
+sequentially down, but it was above our forecast and our expectation slightly, not significantly. And then we would 
+expect it to be up this quarter. So, we are pretty happy with the way things have moved in Japan, both in terms of the 
+take up of the entry level, but also the fact that we're adding more modules now at the low end that are starting to 
+slowly but surely drive bigger sales. And Maxim have also added some direct touch there that's helping that as well to 
+work with the partners. 
+
+<Q - Troy Jensen>: Got it, keep up the good work, guys. 
+
+<A - John McAdam, President and Chief Executive Officer>: Okay. Thanks a lot. 
+
+John Eldridge, Investor Relations 
+
+Thank you very much for joining us, and please be sure to call in if you have any follow-up questions. Thank you. We 
+will talk to you next time. 
+
+John McAdam, President and Chief Executive Officer 
+
+Thank you. 
+
+Operator 
+
+Thank you. This does conclude today's conference. You may disconnect at this time. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2009, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

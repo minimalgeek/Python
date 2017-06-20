@@ -1,0 +1,970 @@
+Q4 2008 Earnings Call 
+
+
+Company Participants 
+
+• T. Peter Andrew, Vice President, Corporate Communications 
+• Scott A. McGregor, President and Chief Executive Officer 
+• Eric K. Brandt, Senior Vice President and Chief Financial Officer 
+Other Participants 
+
+• James Schneider 
+• Randy Abrams 
+• Ross Seymore 
+• Tim Luke 
+• Adam Benjamin 
+• Shawn Webster 
+• Quinn Bolton 
+• John Dryden 
+• Tristan Gerra 
+• David Wong 
+• Uche Orji 
+• Sumit Dhanda 
+• Daniel Amir 
+• Ruben Roy 
+• Craig Berger 
+• Aalok Shah 
+• Daniel Morris 
+• J. Steven Smigie 
+• Suji De Silva 
+• Betsy Van Hees 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Welcome to the Broadcom fourth quarter and year 2008 earnings conference call. [Operator Instructions] As a 
+reminder, this conference is being recorded Thursday, January 29, 2009. 
+
+Your speakers for today are Scott McGregor, Broadcom's President and Chief Executive Officer; Eric Brandt, 
+Broadcom's Chief Financial Officer; and Peter Andrew, Vice President of Investor Relations. I will now turn the call 
+over to Mr. Peter Andrew. Mr. Andrew, you may begin. 
+
+T. Peter Andrew, Vice President, Corporate Communications 
+Thank you very much, Martin. Before I turn the call over to Scott, I've got to make one very quick announcement. 
+During this call, we will discuss some factors that are likely to influence our business going forward. These 
+forward-looking statements include guidance we will provide on future revenue, gross margin, and operating expense 
+
+
+targets for the first quarter of 2009 and any other future periods, as well as statements about the prospects for our 
+various businesses, potential market share, and the development status and planned availability of new products. 
+
+You should note that the guidance we provide today is based upon forecasts that require us to make certain estimates, 
+judgments, and assumptions using the information that is available to us at this time. It should be clearly understood 
+that our actual performance and financial results may differ substantially from our forecasts and the other 
+forward-looking statements we make today. 
+
+Specific factors that may affect our business and future results including among other things general economic 
+conditions are discussed in the Risk Factors section of our 2007 Annual Report on Form 10-K and subsequent SEC 
+filings. A partial list of these important risk factors is set forth at the end of today's earnings press release. As always, 
+we undertake no obligation to revise or update publicly any forward-looking statement except as required by law. 
+
+Please refer to the Investor section of our website at www.broadcom.com for additional historical financial and 
+statistical information, including the information required by SEC Reg G. In addition, we've placed a slide deck which 
+is available now in the Investor Relations section of our website. That is on the right hand side of the page under Q4 
+2008 Earnings Information. In this deck, we have incorporated additional tables and information regarding our 
+historical performance and our future guidance. 
+
+With that, let me now turn the call over to Scott. 
+
+Scott A. McGregor, President and Chief Executive Officer 
+
+Good afternoon and thanks for joining us today. This earnings season, everyone is going to focus on the economic 
+downturn when discussing their results and guidance and we'll do some of that too. But Broadcom had a great 2008 
+overall, and our strategy for 2009 is to position the company to come out of the downturn in a stronger position than 
+when we entered. 
+
+Today, we'll talk about our strong 2008 financial results and how we were able to gain significant share across most of 
+our markets, our position for 2009, and what cost saving measures we're taking so we'll continue to generate strong 
+cash flow from operations in the current economic environment. 
+
+Our primary financial goal in 2008 was to profitably grow our business. We certainly achieved that goal as Broadcom 
+reached a new record level of net revenue at over $4.6 billion, an increase of $882 million, while more than doubling 
+our earnings per share excluding acquisition related and impairment charges. In addition, we generated $920 million in 
+cash flow from operations. 
+
+In 2008, Broadcom clearly gained market share. According to WSTS [World Semiconductor Trade Statistics], for the 
+first 11 months of 2008, revenue growth for the semiconductor industry was essentially flat year over year and most 
+analysts are estimating that the full year will come in essentially flat or slightly down versus 2007. Broadcom, on the 
+other hand, grew revenue by 23%, among the highest growth rates of leading semiconductor companies and was also 
+one of the few semiconductor companies to grow Q4 2008 revenue over Q4 2007 levels. 
+
+From a product perspective, our earnings per share growth, excluding one-time acquisition related and impairment 
+charges, also ranked among the highest of companies in the semiconductor industry. So I would give us solid marks in 
+2008 for achieving our profitable growth objective. 
+
+From an engineering and product perspective, we made two moves in 2008 that I believe position us very well 
+competitively for future additional market share gains. First, we made the transition over to 65 nanometer much faster 
+than many of our peers in the communications space. This was a large undertaking from both an engineering and 
+financial resource perspective, which is now largely behind us. We have already overcome many of the normal 
+engineering hurdles that accompany any process migration. Many of our peers have yet to start their migration to 65 
+nanometer and have not yet had to bear the financial cost of making this transition. In this weak economic environment 
+where spending is tight and engineering resources are limited, our peers will have to make some tough choices. 
+
+
+Second, we've become the leader in bringing combo products to market. I'll talk more about some of our milestones in 
+the combo space, but interest in our combo products, which combine multiple functions, has been well above our 
+expectations, and we're shipping a wide variety of products today. We feel that we have a significant lead on the 
+competition and look to increase that lead as we expand our combo products in the future. So while the economy 
+clearly did impact our results in the fourth quarter, the full year 2008 as a whole was a very good year. 
+
+As we look into 2009, the current state of the economy is providing a number of challenges. The main one is 
+determining the true level of demand in our end market and the timing of inventory adjustment to align with that new 
+level of demand. Therefore in this uncertain environment, as we mentioned at our Analyst Day, we're shifting our focus 
+from profitable growth to protecting our cash flow and ensuring that we're investing our research and development 
+dollars in the right areas to drive market share gains. 
+
+For a number of quarters now, we have been focused on tighter expense management, and you saw the results of our 
+efforts beginning in the third quarter 2008 results. In the fourth quarter, we accelerated those efforts. Our total spending 
+exclusive of the digital TV acquisition was down 6 million in the fourth quarter. Eric will go into more details on that 
+in a minute. 
+
+Our goal in adopting these belt tightening actions was to cut back on as many variable costs as possible without 
+impacting head count. Unfortunately, the economic outlook has not improved. So in Q1, we will drive additional 
+savings on variable costs and will implement a head count reduction of over 200 people or roughly 3% of our total head 
+count. While these reductions are spread all across business groups, we have not had to cut or deemphasize any of our 
+product lines of business. 
+
+In total, we believe that these belt tightening moves along with the head count reduction will enable us to significantly 
+lessen growth in operating expenses in 2009. We will continue to keep a tight watch on our cash flow from operations 
+and we're ready to take additional measures should we feel that our cash flow is at risk. Our goal is to keep cash flow 
+from operations above $75 million per quarter throughout 2009. 
+
+Let me now turn the call over to Eric to talk more about our fourth quarter and 2008 results along with providing 
+guidance for the first quarter. 
+
+Eric K. Brandt, Senior Vice President and Chief Financial Officer 
+
+Thanks, Scott. As Peter mentioned, please refer to the data breakout we introduced last quarter on the Investors section 
+of our website for additional financial information that will supplement my financial commentary. We have included 
+additional data to reconcile gross margin, operating expense and accounting changes in addition to the detailed 
+breakouts we provided last quarter. 
+
+Moving to the financial overview; to summarize, revenue of $1.13 billion, including $40 million in royalty revenue 
+from Verizon, was up approximately 10% from a year ago and down 13% from the prior quarter, which is above the 
+upper end of the range we provided at Analyst Day. Full-year 2008 revenue was a record $4.66 billion, growing 23% 
+over last year. 
+
+GAAP gross margin including Verizon royalties was 50.5%, down about 180 basis points from last year. The 180 basis 
+point decline is approximately 30 basis points below the updated guidance range we provided at Analyst Day, with the 
+principal difference being an additional E&O reserve on the digital TV inventory we acquired from AMD that we were 
+unaware of at the time of Analyst Day. 
+
+Excluding approximately $200 million of asset impairment charges associated with our Mobile Platforms group and an 
+in-process R&D charge for the AMD digital TV acquisition, GAAP operating expenses of $532 million increased only 
+$11 million over Q3 versus our guidance of 15 million, so you can see that we have clearly not taken our eyes off 
+tightening operating expenses. I'll talk more about this in a minute. 
+
+
+GAAP earnings per share for Q4 were a negative $0.32. This number includes approximately $0.40 per share for the 
+impairment and in-process R&D charges I just mentioned. Excluding the impairment and in-process R&D charges 
+associated with acquisitions, full-year GAAP EPS roughly doubled in 2008. 
+
+Cash flow from operations was $146 million. Our cash and marketable securities balance decreased $390 million to a 
+balance of $1.9 billion at the end of the quarter, resulted from solid operating cash flow offset by share repurchases and 
+the AMD DTV acquisition which closed in the quarter. 
+
+Moving to revenue and gross margin, in December we said we expected Q4 revenue could be approximately 1.05 
+billion to $1.1 billion as in the current global economic environment, customers were requesting adjustments to their 
+deliveries and we were seeing significant push-outs and cancellations. What occurred in Q4 was an overall revenue 
+decline slightly less than the guidance provided with revenue coming in above the high end of our guidance range. 
+
+With respect to our Broadband Communications target market, as anticipated, we saw a modest decline in revenue 
+driven by broadband modems and seasonal declines in digital TV and Blu-ray offset by revenue increases in the set-top 
+box area, principally driven by operators preparing for the analog TV cutoff. 
+
+In the Mobile and Wireless market, we experienced sequential declines in most areas, driven by seasonality and by a 
+weakening in the Mobile and Wireless end market. 
+
+Our enterprise networking target market also declined sequentially during Q4 with greater weakness in the more 
+PC-related areas versus our switching solutions. 
+
+Revenue distribution for Q4 was as follows. Broadband Communications was 39% of total revenue. Mobile and 
+Wireless, which includes Verizon royalties, was 36%. Enterprise Networking accounted for 25%. 
+
+Our GAAP gross margin decreased by 180 basis points to 50.5%, which is somewhat below the range provided at our 
+Analyst Day. In December, we guided GAAP gross margins to be down 125 to 150 basis points, which included 20 
+basis points for the AMD DTV inventory step-off/sell-through, but did not anticipate an incremental 50 basis points for 
+an AMD E&O-related reserve. When looking at the core Broadcom gross margin excluding AMD, it actually did 
+somewhat better than anticipated. Verizon royalties represented a 180 basis point positive effect to the Q4 gross 
+margin. 
+
+Moving to operating expenses, during the quarter, the company performed its annual goodwill impairment review at the 
+operating unit level. As a result of the significant economic downturn and corresponding declining growth rates of the 
+cellular market as well as nearing the end of our royalty agreement with Verizon, it was determined that the goodwill 
+and some of the tangible assets associated with our Mobile Platforms operating unit were impaired and thus written off 
+in the quarter. 
+
+In addition, the company wrote off approximately $31 million of in-process R&D associated with the AMD digital TV 
+acquisition. These two actions totaled $201 million in non-recurring charges for the quarter. Please note that you should 
+not read into the fact that we took these charges that there has been any change in the strategy or direction for either of 
+these businesses. The following commentary on operating expenses is focused on recurring costs and as such excludes 
+these amounts. 
+
+Once again, we had much better than expected performance in controlling our operating expenses. Total GAAP 
+operating expenses in Q4 were up $11 million from Q3 levels, less than the increase of $15 million we expected at our 
+Analyst Day. Standalone Broadcom operating expense excluding the digital TV business and its associated 
+amortization was down $6 million from Q3 levels, due principally to two factors: one, our ongoing efforts to control 
+the growth in head count and other operating expenses, including a reduction in our bonus accrual of roughly $3 
+million due to market and performance changes in the quarter; and two, continued favorability in tape-out expenses in 
+Q4. However, these benefits were offset in part by unfavorable legal expenses associated with the currently pending 
+options litigation. This expense is likely to continue to grow as we get closer to the trial date. 
+
+What is encouraging is that our efforts over the last year to manage controllable operating expenses are clearly paying 
+off. Net of costs related to recently completed acquisitions and previously offset options litigation costs, we made 
+
+
+excellent progress since the second quarter of 2008. 
+
+We increased total company head count in Q4 by 549 to a worldwide head count of 7,402. Excluding the employees 
+added with the digital TV acquisition, Broadcom had only about 20 net adds. 
+
+Moving to the balance sheet, as I mentioned earlier, total cash and marketable securities were $1.9 billion as we 
+generated strong positive cash flow from operations of $146 million, offset by approximately $565 million in share 
+repurchases and acquisitions in the quarter. 
+
+As we indicated at Analyst Day, we expected inventories to increase as we adjusted to the lower demand levels 
+mid-quarter, meaning that due to normal 8 to 12 lead times from our fabs, there was too little time for us to make 
+significant adjustments in the fourth quarter. We said we expect the turns to drop to roughly five times. Based on 
+revenue coming in somewhat better than expected and strong work from our operations team, we were able to do a fair 
+bit better and end the quarter at 6.1 turns. Assuming no further shocks to the industry, we anticipate turns will improve 
+next quarter. 
+
+Our accounts receivable day's sales outstanding was superb at 30 days, which is better than our normal mid-to-high 
+30s. 
+
+As we mentioned at Analyst Day, we were active repurchasing shares in the quarter. We acquired roughly 27.4 million 
+shares in the quarter at a cost of $424 million for an average price of approximately $15.50 a share. Diluted shares 
+outstanding were down another 26 million shares to 498 million diluted shares outstanding at the end of Q4 due to the 
+repurchase activity and the anti-dilutive effect of the GAAP loss. 
+
+Finally, during the quarter, the company repatriated $1.5 billion of its offshore cash. 
+
+Moving to expectations, we currently expect Q1 revenue to decline to roughly 800 to $875 million including Verizon 
+royalties, which given their payments to date, should drop to roughly $19 million. This decline should be relatively 
+consistent across our targeted end markets. 
+
+In looking at what we expect to happen in Q1, in Broadband Communications, we expect sequential revenue decline 
+driven by declining demand for broadband modems and set-top boxes, offset in part by growth in digital TV and 
+Blu-ray. In Mobile and Wireless, we anticipate a sequential decline, driven by lower consumer demand, reduced 
+Verizon royalties, and normal Q1 seasonality. Our Enterprise Networking business should decline across the board due 
+to normal seasonal weakness in controllers and our switching customers adjusting their demand levels downward due 
+to the current economic downturn. 
+
+We expect our GAAP gross margin to decline to roughly 49%, driven by three principal factors: one, the reduced 
+Verizon royalties revenue, which will have about a 75 basis points negative effect in Q1 versus Q4; two, fixed costs 
+spread over a lower revenue based, which has roughly a 50 basis point impact; and negative product mix shift of 
+roughly 25 basis points. 
+
+With respect to GAAP operating expenses in Q1, we have a number of step-ups and other factors which impact the 
+number. Please note that we have detailed all of these in the presentation on our website. 
+
+First, we will have a full quarter of the acquired AMD digital TV business plus the comparative impact of the 
+non-recurring bonus reversal from Q4, which will add about $9 million. Second, an increase to our fringe expenses to 
+match FICA et cetera timing of approximately $9 million. This is only a timing difference and does not reflect 
+increases for the total year on fringe expenses. Together, these items add to approximately $18 million. 
+
+Beyond that, we hope to offset additional tape-out/development costs and additional legal fees with the cost savings 
+measures Scott mentioned and the workforce reduction as well as anticipated D&O reimbursement. In addition, we 
+expect stock-based compensation to decline roughly 6 to $7 million. 
+
+Net-net, we anticipate total recurring operating expenses will grow approximately 9 to $14 million over Q4; again, 
+keeping in mind that almost all of this increase is either accounting-driven timing changes, AMD full quarter impact, or 
+
+
+items such as option litigation which are unrelated to the operation of our business. 
+
+We anticipate excluding the full quarter impact of the DTV acquisition, the resumption of the standard bonus pool 
+accrual and fringe items, you will see a decrease in our salary and benefits and stock-based compensation lines that we 
+will detail on our presentation on the website. 
+
+Lastly, with respect to the cost reductions Scott mentioned, the company expects to take a restructuring charge 
+associated with the reductions in staff. We estimate the restructuring cost to be between 8 and $10 million over the next 
+three quarters. 
+
+In closing, I would like to refine our comments on Analyst Day regarding managing the business to cash flow in a 
+downturn. We said that in normal times, we were managing to profitable growth and that in this downturn, we are 
+focused on expanding share at the expense of our weaker competitors. As we look back to 2008, we clearly grew share 
+in our key target markets, growing more than twice the rate of the relevant subsegments as broken out by WSTS. 
+
+As we look to 2009, based on recent commentary from a number of our competitors, we believe we are very well 
+positioned to do so again and are strategically better positioned cash flow-wise to accelerate our technology advantage. 
+As we mentioned at Analyst Day, we are targeting to managing our business to share gain and positive quarterly cash 
+flow from operations in 2009, and have aligned our incentives accordingly. Specifically, we have built our plan 
+including cost saving targets to target running the business above $75 million positive quarterly cash flow from 
+operations. We believe this will allow us to leverage our cash strength to emerge from the downturn in a much stronger 
+market position than we entered. 
+
+And now I would like to turn the call back over to Scott to talk about the state of the business. 
+
+Scott A. McGregor, President and Chief Executive Officer 
+
+Thanks, Eric. I'll start with Broadcom's Enterprise Networking end market. For 2008, we experienced solid revenue 
+growth, driven mainly by market share gains within the switching space. While Broadcom has long been recognized as 
+the leader within the switching end market, we have been able to drive additional market share gains by expanding our 
+product offering within two areas. The first is the metro switching space as Ethernet penetrates deeper into this segment 
+of the operators' network; and secondly, small and medium-sized business where we have refreshed our product line, 
+creating lower power solutions with more intelligence. 
+
+As Eric mentioned, in the fourth quarter, the Enterprise Networking end market experienced a sequential revenue 
+decline as our customers adjusted their orders and inventory levels due to the economic slowdown following a very 
+strong first three quarters of 2008. While this revenue decline was across all areas of the Enterprise Networking end 
+market, it was more pronounced in the controller area. We believe that there is more inventory in the PC and server 
+areas of the market versus the switching area. 
+
+As we look into 2009 and beyond, our investments will focus on driving 10-gigabit Ethernet deeper into servers, 
+switches, and the metro space, and on entering the embedded security and point-of-sale markets with a new family of 
+security processor products. We are already seeing 10-gigabit Ethernet designed onto the motherboard for use in blade 
+servers from Hewlett-Packard and we expect the 10-gigabit rollout to accelerate as Intel deploys its next-generation 
+Tylersburg chipset. We expect adoption of our 10-gigabit Ethernet switching to increase as 10-gigabit Ethernet is 
+incorporated more pervasively on servers. 
+
+From a competitive standpoint, our key differentiators remain our product breadth from PHY to switched fabric 
+solutions for metro, data center, enterprise, and small and medium business applications, and our ability to integrate 
+Ethernet technology into a wide variety of products, ranging from game platforms, set-top boxes, broadband modems, 
+wireless gateways, TVs, and Blu-ray players and other products. 
+
+Moving on to Broadband Communication, all major product lines experienced double digit revenue growth in 2008 
+with the consumer and set-top box areas experiencing the fastest growth. Broadcom is still a relatively new participant 
+
+
+in the consumer space, which includes our digital TV and Blu-ray products. Within the consumer space, we were able 
+to grow our revenue and gain share by leveraging the consumer preference for HD in both TVs and Blu-ray players. In 
+addition, our set-top box product demand was driven by a favorable trend in HD and PVR adoption. And cable 
+operators preparing for analog spectrum reclamation needed to expand their HD and wideband Internet access 
+offerings. 
+
+In the fourth quarter, our broadband modem and consumer businesses were down sequentially, tied to the weak 
+economic environment as our customers try to adjust their inventory levels to match declines in demand and the 
+seasonal increase for pre-holiday build cycle in Q3 for our Blu-ray business respectively. On the other hand, our set-top 
+box business remains strong, growing over 20% sequentially, driven by the same trends discussed earlier. 
+
+The two biggest opportunities for Broadcom going forward to drive growth and additional market share gains are: first, 
+the continued expansion of pay-TV and Internet access services internationally, mainly in India and Asia, and this 
+includes our set-top boxes and broadband modems; second, the convergence of communications with consumer 
+electronics to drive ubiquitous Internet and device connectivity in the home to enable operators, studios, and content 
+providers to offer additional value-added services such as the Netflix instant streaming available on the LG BD300 
+Blu-ray player. 
+
+An example of our international expansion is the recent announcement by Bharti Airtel, which is India's leading 
+integrated service provider. Bharti selected Broadcom's set-top box products for use in its first commercial satellite 
+product launch in India. According to In-Stat, India's pay-TV market potential is expected to include 90 million 
+subscribers by 2012. We are engaged with other service operators in India and Asia to drive the adoption of broadband 
+access and video services within those regions. 
+
+For a number of years, Broadcom has been on the technological forefront with regard to the convergence of 
+communications with consumer electronics. As those of you who attended CES were able to see, these are not just 
+early adopter gadgets, but these are mainstream products generating real revenue today. Broadcom not only provides 
+products for platforms within the home such as TVs, set-top boxes, and Blu-ray players, but also the connectivity to 
+enable these devices to communicate together, whether it's via Ethernet or MoCA, Bluetooth or wireless LAN. 
+
+Other key technologies and partnerships enabled by communications convergence include the integration of Adobe 
+Flash into our TV and set-top box solutions, the integration of MoCA into set-top boxes and broadband modems, and 
+support for DLNA [Digital Living Network Alliance]. We believe DLNA is the key standard supporting transparent 
+media exchange and control across consumer devices and utilizing Ethernet, MoCA, and Wi-Fi. 
+
+Moving to our Mobile and Wireless end markets, we once again experienced a very strong year of growth as revenue 
+increased 37%, driven primarily by Bluetooth, wireless LAN, and GPS. When looking at our fourth quarter 
+performance versus the third quarter, the weakness was primarily from the PC and mobile markets. 
+
+In the cellular area, our team remains focused on execution. We remain on track in achieving the various customer 
+milestones required to ramp production later this year. We remain excited about what we have to offer in the baseband 
+area in both the 2G and 3G spaces, but more importantly, on the entire cellular platform. As our customers begin 
+shipping products incorporating our silicon, we look forward to talking more about them. 
+
+Fortunately, the long overdue cellular baseband consolidation appears to be accelerating. A few of the older 
+competitors in the cellular baseband market are shedding parts of their complete cellular businesses and others are 
+experiencing intense financial pressure. These moves along with the consolidation of many of our European 
+competitors validate our platform strategy and we believe the economics for the cellular platform suppliers will 
+improve over time. Our focus right now is on bringing the Nokia EDGE and Samsung 3G products to market. 
+
+In wireless LAN, the weakness that we experienced in the quarter was mainly tied at the PC client side as we 
+experienced growth in both the embedded and networking markets. 
+
+I'll talk more about combo products in a minute, but I think it's a good time to take a look back at what Broadcom has 
+been able to accomplish in the wireless LAN market. Most market researchers point out that we are the leader in the 
+
+
+wireless LAN space, having shipped over 350 million cumulative radios. Just to put this into perspective, this is over 
+75% more than our closest independent wireless LAN competitor. We led the transition to 802.11g, led the transition to 
+802.11n, and we're leading the transition to integrating power amplifiers, leading the move down to lower power 
+65-nanometer processes, and leading the wireless combo wave. 
+
+Based on third-party estimates, Broadcom's wireless LAN business alone is larger than our closest independent peer's 
+entire business including their non-wireless LAN products. Being first to market, having scale, and a broad portfolio of 
+products are significant long-term competitive advantages, which we believe will become even more important in this 
+economic downturn. 
+
+In Bluetooth, our revenue declined in the fourth quarter, mainly due to weaknesses within the cellular handset and PCM 
+markets. We are clearly number one in the Bluetooth market, having surpassed our closest peer in this market in Q1 
+2008, and have maintained that position throughout the year based upon their most recent guidance. We have shipped 
+over 1.1 billion cumulative Bluetooth radios to date; and in 2008 alone, we grew our radio shipments by 60% over 
+2007. 
+
+Broadcom is leading the migration to lower power 65-nanometer processes and leading in combos with value-added 
+features such as Alternative MAC and PHY, which will enable Bluetooth transmission at up to 24 megabits per second. 
+
+As we announced last quarter, our plan was to announce three new wireless combo solutions between then and Mobile 
+World Congress. On our last earnings call, we announced our next-generation 65-nanometer Bluetooth-plus-FM 
+receive-and-transmit chip that also integrates audio processing capabilities to improve the voice quality, perform stereo 
+decoding, and lower system power consumption. The second combo product was our Bluetooth-plus-FM-plus-wireless 
+LAN chip that integrates 802.11m technologies. The final of the three announcements will be made at Mobile World 
+Congress in February, so please stay tuned. 
+
+Based upon our current outlook for 2009, we believe that our wireless combo solutions in total could represent around 
+10% of Broadcom's total sales. 
+
+This concludes our prepared remarks, and we are now ready for your questions. Operator, may I have the first 
+question? 
+
+Q&A 
+
+Operator 
+
+Thank you. [Operator Instructions] Our first question comes from James Schneider of Goldman Sachs. Please go 
+ahead. 
+
+<Q - James Schneider>: Good afternoon. Maybe first for Eric, could you talk a little bit about what you expect for the 
+OpEx profile as we move throughout the year? Do you expect the step up to happen in Q1 and then come back down as 
+we move throughout the year excluding legal costs or how should we think about the profile of that? And do you 
+anticipate any other minor trimming to OpEx beyond the stuff you just announced? 
+
+<A - Eric Brandt>: Jim, yes, we are actually seeing positive reactions to a number of the steps we have taken and 
+seeing good signals that we saw in Q3 and Q4. I think the employees are responding well to the things that are variable 
+costs and we should see some benefits going forward. Excluding the legal costs, excluding this fringe benefit issue, I 
+think as I mentioned in my text, I think you'll see the salary and benefits line of some of the other costs begin to drift 
+down over the course of Q1 and into Q2. Beyond that, we don't have much more guidance in terms of the OpEx. I think 
+tape-outs will be what tape-outs will be. And as I mentioned, I believe we'll be able to offset them with some additional 
+cost savings that we're expecting in the quarter. 
+
+<Q - James Schneider>: Okay, and then maybe one for Scott. Could you talk a little bit about – clearly it's likely that 
+we're going to have a down revenue year across the industry and for you guys too. Can you talk about where you think 
+
+
+you can get incremental positive revenue and what product areas? Is it going to come from share gains and in what 
+products? 
+
+<A - Scott McGregor>: We certainly see the opportunity for share gain. The combo products are really on fire. We're 
+getting those designed into a very broad swath of many areas, and so we continue to see those to ramp up significantly. 
+We think people are going to be pretty excited about this next product we're announcing too. So we think that will help 
+us drive share gain there. 
+
+Bluetooth headsets remain an opportunity for share gain. We had a relatively low market share through 2008. We're 
+now designed into pretty much all of the major players there and they're beginning to ramp and that will continue over 
+the next few quarters. So share gain coming from a low base should help us in that space. 
+
+In broadband, there is an opportunity with TV over the course of the year. And certainly a Blu-ray, I think customers 
+are very interested in some of these connected TV and connected consumer products. Netflix instant streaming looks 
+like it's going to be a hit, and I think the follow-on products with those and other customers will be an interesting 
+opportunity there. And of course I think people will continue to transition from the analog to digital, both because of 
+the FCC mandated move to shut down the analog transmission but also because a lot of the cable operators are going to 
+seek to reclaim a lot of their analog space and move to more digital channels to compete with the satellite guys and 
+some of the IPTV competitors in that space. We think those are very positive trends that will give us good growth and 
+in those areas. 
+
+And then last but not least, certainly the 10-gigabit space will continue to grow over time as people start penetrating. I 
+mentioned a couple examples. The Tylersburg chip rollout we think is going to give some impetus to that market and 
+drive increased penetration there. 
+
+<A - T. Peter Andrew>: Martin, can we have the next question please? 
+
+Operator 
+
+Our next question comes from Randy Abrams of Credit Suisse. Please go ahead. 
+
+<Q - Randy Abrams>: Yes, good afternoon. Could you talk about the impairment in the cellular platforms, just what 
+motivated the write-down? And you talked about the strategy was unchanged but just you have a lower view of the 
+expectations for that group. 
+
+<A - Eric Brandt>: Randy, every year we do this. We run an impairment analysis across the various groups, and we 
+adjust the view based on the market view of growth rates. In the case of the cellular business, the market growth rates, 
+as you know, over the second half of the year came down. And as those growth rates came down, it changes the view of 
+the terminal value and changes the view of the discount rate. 
+
+In addition, when you look at our other three core businesses of Broadband Communications, Wireless Connectivity, 
+and Enterprise Networking, they were substantially above the amount of goodwill carried and combined actually added 
+up to more than the market cap of the company. That's a signal then that you have to look more closely at the remaining 
+business which is in startup mode. And when you adjust the discount rates for the growth rate of the industry and the 
+terminal values, you come to an impairment calculation, and that's how we did it. It's very specific in terms of how it's 
+done. 
+
+<A - Scott McGregor>: And it certainly doesn't reflect Broadcom's commitment to that space nor does it change our 
+view of how that business will develop. 
+
+Operator 
+
+Our next question comes from Ross Seymore of Deutsche Bank. Please go ahead. 
+
+
+<Q - Ross Seymore>: Eric, just following up on the OpEx question, the 200 people head count, how does that get 
+reflected in? Is it this quarter or fully in the second quarter? 
+
+<A - Eric Brandt>: Most of the charge – actually of the 8 to $10 million, about half of it is cash. The other half of it 
+relates to equity and other things like that. But most of the people impact will occur this quarter. There are some 
+transitions that we need to do, projects from certain groups of people to other groups of people, which will drag into the 
+second quarter, so most of it will occur in the first quarter. A little bit will be in the second quarter. And to the extent 
+that we have any lease restructurings et cetera, that's typically the only thing that will drag into the third quarter out. 
+
+<Q - Ross Seymore>: Okay and then quickly on the inventory side, I guess a two-part question. Did I hear you right 
+when you said you could get your internal turns up in the next quarter despite where revenue is going? And then what 
+is your commentary on end market inventory, whether it's in the channel or however you want to describe it? 
+
+<A - Eric Brandt>: Yes, we believe that we will be able to improve our turns in Q1 and are planning to do so. 
+Obviously it is somewhat revenue dependent. But I do think as we looked across Q4, we were able to align our view of 
+demand in Q4 and rolling into Q1, which allowed us to adjust our order of parts. When you see our 10-K, you'll be able 
+see where that inventory is. 
+
+In terms of the channel inventory, I'll preface what I'm going to say with what we usually say, which is we are three 
+steps back, so how do we know, right? But I want to make a general comment, which is if you look at most of our 
+customers, they are reporting down high single digits, mid to high single digits. And if you look at what most of our 
+peers are reporting, they are reporting down 20 plus percent. That would indicate that the underlying demand is 
+probably closer to the high single digits down. But the reason we're seeing the significant decline in our space is the 
+channel inventory impact. Our hope is that that will clear itself out over the next quarter. It's hard to say because we 
+don't have that much visibility. But should that happen, then we will see our business begin to swing to something 
+much more closer to the end market demand we're seeing in our customers principally. 
+
+<Q - Ross Seymore>: So you think in the second quarter, you should be able to shift to consumption? 
+
+<A - Eric Brandt>: That's our hope. It's hard to say because we don't know how quickly it's draining and whether 
+underlying demand will change further. But at least based on the patterns we're seeing, that's our hope. 
+
+<Q - Ross Seymore>: Great, thank you. 
+
+Operator 
+
+Our next question comes from Tim Luke of Barclays Capital. Please go ahead. 
+
+<Q - Tim Luke>: Thanks so much. I was wondering, Scott, if you could give us any color on how you perceive the 
+linearity as you've gone through November – December and now any color on how you've seen the beginning of 
+January in terms of order patterns. And then, Eric, I was wondering if you could give some color on how you see some 
+of the puts and takes for the gross margin line and the shape of the gross margin as you move through calendar '09, 
+particularly with respect to a mix that may favor 65-nanometer. Thank you. 
+
+<A - Scott McGregor>: Tim, we can't really comment much on linearity other than to say that our revenue for Q4 
+went down and we're guiding Q1 lower. So obviously the orders are not coming in as fast as they were in the middle of 
+last year. I think it's relatively similar across all of our industries that we touch. Certainly the PC space, we do see a 
+little more impact there than some of the other businesses; mobile also significantly affected, a little less so in 
+switching, a little less so in some of the broadband areas. But again, it's a little hard because some of these customers 
+have to wrestle with their own inventory situations. But that's how we see it. 
+
+<A - Eric Brandt>: Tim, with respect to gross margin, obviously Verizon is what Verizon is and it has been a 75 basis 
+point impact and washes its way through. We do have this overhead issue as revenue comes down. And as I mentioned, 
+it's about 50 basis points in the current quarter. Actually, if you look across the two quarters from the high watermark 
+of Q3, it's actually close to 100 basis points across the two quarters in terms of its impact to our gross margin. So as 
+
+
+revenue recovers, assuming that the inventory issue washes its way through and the industry begins to pick back up to 
+more underlying demand and probably accelerates a little bit because of the bounce off the bottom on the inventory, our 
+hope is that we begin to cover some of that overhead and then you get the benefit there as well. 
+
+As it relates to mix of products and 65-nanometer, I think over time, as we mentioned earlier in the year, we think we're 
+heading closer and closer to the sweet spot of 65-nanometer and we should benefit from that. Now obviously it's hard 
+to read the overall mix of the products and what is going to be the ins and outs, but that's what we look at. And 
+hopefully by the time we get through Q2, I think it will drag into Q2, we will have washed our way through the stepped 
+up AMD inventory that we acquired, which hits us for probably 30 – 40 basis points in Q1. 
+
+<Q - Tim Luke>: Just as a framework, Scott, having been through a few downturns in the past, do you feel this is 
+something that is likely to take two to three quarters or do you feel that you're taking a step down now and then you 
+may see flat to up in the following period, any color there? 
+
+<A - Scott McGregor>: Certainly we're not economists, and so I don't think we're going to try and forecast world GDP 
+here, which certainly affects a lot of our industries. Certainly this downturn is more broad-based than 2001, so it's a 
+little hard for us to extrapolate from those. 
+
+I think as Eric pointed out, there are a couple of thing going on though. Whenever you have a sudden falloff in demand, 
+you get an inventory backup. And I think the semiconductor industry, as are many of the people in the supply chain 
+where we are facing, is that you're not only burning up inventory, but also dealing with lower demand. And the 
+inventory stuff will burn off at some point. And certainly as Eric said, we expect our turns to actually go up this 
+quarter, which shows that we did a good job shutting down our orders back in Q4, and we believe we'll make good 
+progress on that. 
+
+So from our inventory point of view, I think we'll be in fine shape going forward in Q1 – Q2. And then the question 
+really becomes where will our customers be in terms of burning off their inventories, both which they have themselves 
+and in their channels, such that we can get back to the – I'll call it the new normal demand, and that's back to probably 
+where we were the middle of last year, but certainly should be more than the inventory, combined inventory burn-off 
+and lower demand we're seeing right now. 
+
+<Q - Tim Luke>: Thanks so much. 
+
+Operator 
+
+And our next question comes from Adam Benjamin of Jefferies. Please go ahead. 
+
+<Q - Adam Benjamin>: Hey, thanks guys. First question just on the combo market, you guys are doing quite well 
+there and positioned compared to your competitors. One thing as you look out going forward, you've had a bunch of 
+single product lines, Bluetooth and Wi-Fi that are now coming together as well as GPS. I wonder how you think about 
+that going forward and how when you ramp the combo, how that nets against those single line of products going 
+forward and what we should expect in terms of what's the net add there for you. 
+
+<A - Scott McGregor>: We think combo products are definitely here to stay, and that the trend is going to be to 
+increasing conversions of functionality. So that's a real advantage for Broadcom because unlike pretty much any of our 
+competitors, we have all of the pieces of the puzzle. And so as we produce these combined solutions for our customers, 
+then we definitely pull those together. 
+
+I think the question you're trying to get at is to what extent do the combo products cannibalize some of our single 
+product lines. We don't see that much because – let me give you an example. With our 4325 product, which combines 
+wireless LAN, Bluetooth, and FM, we see that as more an increase in the penetration of wireless LAN into products 
+that didn't have wireless LAN previously. So in other words, we're getting a higher ASP penetration into the same kind 
+of product as a result of that. Likewise, when we did Bluetooth-plus-FM, the addition of the FM allowed us to offset 
+price erosion or even increase ASPs in that space. So we see it as a positive contributor. It drives the average price of 
+
+
+some of these functions down for people. 
+
+But for example in the cellular space, the cost of adding wireless LAN was slowing the penetration down. They had 
+only put it in the high-end smartphones. Because of the 4325 driving the overall affordability of wireless LAN, we're 
+seeing much higher take-up of wireless LAN such that it drives it down not just from the top end phones, but into 
+feature phones, high-end feature phones as well, greatly increasing the overall demand. So net, we see the combo 
+products being a positive trend in our revenues. 
+
+<Q - Adam Benjamin>: Got you. And then I'm sorry if I am being redundant here; I got dropped off the call. With 
+respect to inventories that you were talking about, Scott, embedded in your guidance of the 800 to 875, how much of 
+that is an imbalance of a work-down of inventory versus true consumption in the market? And then secondly, based on 
+the guidance, what's the turns rate that you need to meet to say the midpoint of the guidance versus prior quarters? 
+
+<A - Scott McGregor>: We don't what the inventory burn-down in our customers is. We don't have that visibility. So 
+our guidance is independent of knowing what that is. I think as we look forward the rest of the year... 
+
+<Q - Adam Benjamin>: I'm just looking for you to take a stab at it. 
+
+<A - Scott McGregor>: I don't have a clue. And then let's see, your second question was... 
+
+<A - Eric Brandt>: On the turns. Adam, on the turns, no different than what we've seen before; in fact, again, in light 
+of limited visibility, we're still doing what we've said before, which is we're 80 to 90% booked coming into the quarter. 
+We're not changing our view on turns. In fact if anything, we might even be a little bit more conservative in our view of 
+turns just because of the concern that customers may push things out towards the end of the quarter. So our guidance 
+reflects I think perhaps a touch more conservatism than we've had in the past because, as you recall, we beat this 
+quarter and you might say well gee, you're in December, why did you do that? We did not want to be one of those 
+companies that revise guidance more than once. 
+
+Operator 
+
+Our next question comes from Shawn Webster of JPMorgan. Please go ahead. 
+
+<Q - Shawn Webster>: Yes, thank you. For the revenue upside relative to your revised expectations in Q4, where did 
+that come from? 
+
+<A - Eric Brandt>: Shawn, as I mentioned, we were trying to be conservative. As you may recall, things were a little 
+bit hairy rolling into December and in certainly November. And so when we revised guidance, we wanted to make sure 
+that we were not revising twice. We tried to be conservative in our view and anticipate additional push-outs which 
+could occur at the end of the year. Fortunately for us, they didn't come in and we did better than we had anticipated. 
+
+Specifically in individual businesses, I don't think it's material to the results. I think you can see the results where the 
+Mobile and Wireless group and the Enterprise Networking group were down roughly the same amount and Broadband 
+was down a fair bit less. So beyond that, it was really just us being conservative in our view of revenue; and perhaps to 
+Adam's question, perhaps a little more conservative in our view of turns. 
+
+Operator 
+
+Our next question comes from Quinn Bolton of Needham & Company. Please go ahead. 
+
+<Q - Quinn Bolton>: I'm just wondering; some of the other semiconductor companies that have reported to date have 
+mentioned that they have seen some uptick in orders in January. I'm wondering if you can make any comments about 
+whether on a qualitative basis you've seen any improvement. I know it's only a few weeks here, but just curious. And 
+then second, just a comment on the set-top box; I think you had commented it was up 20% sequentially in the first – 
+sorry, in the fourth quarter but then expected to be down in Q1. Is that just the lumpy nature of the business or do you 
+
+
+see some inventory or is there something else going on in set-tops? I'm just looking for a little color on that segment. 
+
+<A - Scott McGregor>: Certainly, the set-top box business does have some variability to it. But I think it reflected 
+again the increasing penetration of broadband, the move from analog to digital. And one of the things I think 
+particularly drove it is people really like this HD capability and they like getting the PVR capability on set-top boxes, 
+and that certainly drives that growth there. So we just see that as continued adoption of a lot of products, and then the 
+Q1 decline more moving down as a result of just overall economic issues. 
+
+Operator 
+
+And our next question comes from John Dryden of Charter Equity. Please go ahead. 
+
+<Q - John Dryden>: Thanks for taking my question. Scott, now that Verizon royalties are coming to an end, can you 
+discuss new business opportunities at this customer, which was one of the benefits of the royalty discussions back in 
+late 2007? 
+
+<A - Scott McGregor>: I can't discuss obviously all of the things we're working on with Verizon; that's private 
+information for them. But for example, we cooperate very well on the FiOS rollout that they're doing. Broadcom 
+participates in that. We generally have had a great relationship with Verizon since we put that deal together, and it has 
+enabled us to have a lot of good conversations between their product planners and strategists and their CTO 
+organization and our product team. And so we're absolutely working together to do a variety of things to broaden our 
+set-top box cooperation and to look for cooperation in the mobile area and other places as well. 
+
+Operator 
+
+Our next question comes from Tristan Gerra of Robert Baird. Please go ahead. 
+
+<Q - Tristan Gerra>: Good afternoon. Given the excess inventories that you see, any deterioration in ASP trend over 
+the next few quarters and what your sense on this could impact then with margin potentially? 
+
+<A - Eric Brandt>: Do you mean our inventory or channel inventory? 
+
+<Q - Tristan Gerra>: Channel, so it could also be – well actually component inventory, so it could be people trying to 
+unload inventories and putting pricing pressures outside of your own inventories. 
+
+<A - Eric Brandt>: Not really for us. Again, we try to be conservative in what we do and hopefully by now, people 
+have picked that up generally speaking in terms of the way we think about our business. And we have been talking 
+about for a year about making sure that we ship to underlying demand. So to the extent that people are playing games at 
+the end of the quarter in terms of inventory and trying to flush through things at cheap prices, short of excess inventory 
+we have, which not very much we would do that with, we don't really play that game. If they want to push out and it's 
+true underlying demand, we let them do it, and that's the way we run our business. We try to run our business to natural 
+demand. So I think we're pretty good at not playing that game in terms of driving the gross margin down to chase that 
+sort of stuff. 
+
+Operator 
+
+Our next question comes from David Wong of Wachovia. Please go ahead. 
+
+<Q - David Wong>: Thanks very much. Could you tell us what your top priorities for your R&D dollar spend will be 
+in the current environment? 
+
+<A - Scott McGregor>: Certainly, we're looking for opportunities for revenue projects that are going to happen in 
+2009. That's certainly a priority. And in fact in some areas such as our combo chips, our primary limitation on how 
+
+
+much revenue we get and how many design wins we get is more limited on how many customers we can support rather 
+than underlying demand. That's an incredibly popular series of products right now, and we have more design wins that 
+are being offered to us than we can support. So that's a very nice situation to be in and obviously that's an area where 
+you want to maintain your R&D emphasis to help those customers get those products designed in. 
+
+Certainly the 10-gigabit space in our Enterprise Networking area and next generation 10-gigabit controllers are 
+important for us to go take share in those markets. And just broadband overall, there is some very exciting stuff going 
+on there. It's the whole notion of connected living room. All of that is something lots of companies are talking about, 
+but we're deploying products in that today. And a lot of customers who want to actually ship products rather than talk 
+about them are working with Broadcom chips. And so those are all high priorities. 
+
+And then of course I don't want to leave off the cellular area. We're making great strides with our partners, Samsung 
+and Nokia. And as we said we're on track for rolling products out with both of those companies this year, and important 
+to stay on track with that. 
+
+Operator 
+
+Our next question comes from Uche Orji of UBS. Please go ahead. 
+
+<Q - Uche Orji>: Just a couple of things. First is of the $1.5 billion repatriation, any idea how that will be used? And 
+then secondly, can you talk about what the expectations are as the new government starts to talk about spending on 
+broadband infrastructure? Is there any expectation on your side as to how you're positioned to profit from this? 
+
+<A - Eric Brandt>: Uche, it's Eric. Just on the $1.5 billion, I think that we were in a fortunate situation as a company 
+as the economic market became uncertain. I think people are worried about where the money is and where the banks 
+are et cetera. And carrying close to $5 billion of NOL has enabled us to repatriate the money at minimal cost, cash cost 
+to the company. So we took the opportunity to bring the money back because to protect the company, protect the 
+company's cash position, and be prepared for what is probably going to be a bumpy 2009 for everybody in the industry. 
+
+As far as using that cash, as we've discussed in the past, here I think we look for opportunities to enhance our 
+competitive position with companies to use our cash, to take advantage of low valuation should there be opportunities 
+to buy companies, and we do have an ongoing share repurchase program which we could use the money for as well. 
+But it really was a unique opportunity for Broadcom given our tax position and where we had our money to really – to 
+put more security around the company and make sure that we had our cash where we needed it most, in the US. 
+
+<A - Scott McGregor>: Uche, on your question on broadband infrastructure, it certainly has been an announced 
+priority by the current administration in the United States to increase broadband infrastructure. We've also seen that in 
+other countries as well. They all view that as a way that they can spend money and improve their population access to 
+the Internet economy and whatnot. And that plays actually fairly well for Broadcom. So the good news is that pretty 
+much any box that they deploy to enhance the broadband infrastructure is going to have Broadcom chips in it, so that's 
+good for us. And I'd say the problem though is we don't have real good visibility on exactly what some of these 
+programs mean yet. So we think they're all well intentioned, and to the extent they do result in deploying broadband 
+infrastructure, Broadcom would certainly be one of the beneficiaries of that. 
+
+Operator 
+
+And our next question comes from Sumit Dhanda of Merrill Lynch. Please go ahead. 
+
+<Q - Sumit Dhanda>: Yes, hi guys. Scott, you mentioned in your prepared remarks that you thought that the combo 
+chips could be as much as 10% of revenue of this year. The rough math, at least my back of the envelope suggests 
+something close to maybe 10% penetration of the top OEMs just to get to that number. Is that right? Is that too high a 
+number? And really what gives you the visibility? Is it just the pace of design wins that you're seeing, even in an 
+uncertain environment? 
+
+
+<A - Scott McGregor>: I'm not sure I can figure out your penetration number. But certainly, we have seen broad wins 
+there. I think we've won the majority of the top ten cellular platforms with our combo chips now. We've certainly seen 
+penetration into a variety of other kinds of devices, other portable devices, things like games and some computing 
+devices. So we are seeing very good penetration with those products. 
+
+And again they just really solve a nice solution. They really give the customer the ability to put a single product into 
+their product that pre-integrates all the radios. It solves all the coexistence problems. And what I like to call the "One 
+butt to kick" principle, meaning when they design these products and if they have multiple radios for multiple 
+suppliers, invariably you're going to have issues. And rather than deal with fingerpointing across different suppliers, 
+you put this part in and this one supplier that will make it all work for you, and they appreciate that. 
+
+Operator 
+
+Our next question comes from Daniel Amir of Lazard Capital Markets. Please go ahead. 
+
+<Q - Daniel Amir>: Thanks a lot. Related to your broadband consumer market, I guess you commented that the DTV 
+business and Blu-ray should be better here in the first quarter. So can you comment what's exactly going on there in 
+terms of seasonal, and also what's your visibility about some of the different end markets right now in terms of the 
+demand drivers in your business? 
+
+<A - Scott McGregor>: On visibility, certainly visibility is lower than what it would be in typical years, so that does 
+color things a little bit. But specifically to your questions about things like DTV and Blu-ray, generally those products 
+seasonally peak around Q3. Some products would seasonally peak around Q4, but the heavier they are, the more likely 
+they go by truck or rail or both rather than airplane. And so they have to be built early in the year to hit the holiday 
+shipments, and so generally you seek peaks around Q3. 
+
+Q4 generally tends to be a fall-off and certainly with some demand going down, there are some inventory issues three 
+as well. And then we see that beginning to pick a little bit over the course of this year, both for natural or seasonal 
+characteristics in the industry, but also we've got some really great product offerings. We've introduced a number of 
+new products in this space, and we've won some designs there. We're ramping with new customers. A good example of 
+that if you were at CES and you saw the saw the new VIZIO connected TV platform, a great example of really great 
+products and really leveraging the capabilities of the products that we offer. 
+
+Operator 
+
+And our next question comes from Ruben Roy of Pacific Crest Securities. Please go ahead. 
+
+<Q - Ruben Roy>: Hi, thanks. Scott, just to finish off on that connected TV comment, is their content in those TVs 
+different from traditional TVs; i.e., do you have more silicon dollar content in connected TVs like the VIZIO? 
+
+<A - Scott McGregor>: We have some. We certainly see some benefit because we've added things like Internet, 
+Ethernet capability into those boxes, and also some stronger video capability. We've upgraded some of the CPUs a little 
+bit. We believe that you need say 300 or 400 megahertz in single and dual-core CPUs to do capability like that. There 
+was one competitor who is making a lot of noise about how you have to have these very high powered, expensive chips 
+in there. And we can't quite understand that because we think you can do all this stuff like Adobe Flash and all these 
+widgets and other things on very economically priced solutions. And so I'm a little surprised by that. But yes, we do see 
+some improvement in our ASPs in the Internet connected TVs. 
+
+Operator 
+
+Our next question comes from Craig Berger of FBR Capital Markets. Please go ahead. 
+
+
+<Q - Craig Berger>: Hey guys, thanks for squeezing me in. Can you just help us understand without getting into too 
+much specifics how big is your cellular business right now, and based on what you see with design wins and platform 
+visibility, what that might be able to grow to exiting the year? 
+
+<A - Scott McGregor>: We used to forecast that kind of stuff and we got burned doing that. So I'm going to decline to 
+state that. We'll certainly talk about the business more as some of these major products begin to roll out. As we roll out 
+with Nokia for example, we'll give a little more color on that business. 
+
+<Q - Craig Berger>: When might some of those – can you tell us how big it is right now? 
+
+<A - Scott McGregor>: No, we have a low single digit market share in the market right now, so not particularly large, 
+although the number of phones we have is growing. We're shipping more 3G phones with Samsung and expect more to 
+roll out. And then as certainly some of the other designs we're working on and as Nokia begins to roll out, we would 
+expect that to move up significantly. 
+
+Operator 
+
+And our next question comes from Aalok Shah of D.A. Davidson. Please go ahead. 
+
+<Q - Aalok Shah>: Hey Eric, two questions for you. I saw that you repatriated about 1.5 billion. How much more cash 
+is left overseas and are there any tax consequence associated with that? 
+
+<A - Eric Brandt>: We repatriated most of the cash, so there's a couple hundred million left overseas. The principal 
+tax consequence is the burning of NOLs. So it burns about $1.5 billion worth of NOLs, a little less than that actually. 
+And then the cash tax implications on that are minimal. And that's the result of having the NOLs and being able to 
+bring the cash back at limited cash tax. Was there a second part to your question? 
+
+<Q - Aalok Shah>: I think you said you'd ship to Nokia in 2009. Is that still on track? 
+
+<A - Scott McGregor>: We have said that we would roll out with Nokia in 2009; and yes, that's on track. 
+
+<Q - Aalok Shah>: Okay, great. Thank you. 
+
+Operator 
+
+And our next question comes from Dan Morris of Oppenheimer. Please go ahead. 
+
+<Q - Daniel Morris>: Hi guys, just a quick question on the AMD DTV acquisition. Can you just give us an update on 
+the accretion target for that acquisition and how much it will be dilutive in Q1? 
+
+<A - Eric Brandt>: What we said was that our goal was to have it be EPS neutral by the end of next year – or end of 
+this year, December 2009. I keep forgetting we're in 2009. And then if you look at the numbers we've given you in 
+terms of the impact of that business, you can see that that business runs in the vicinity of – we said that we would – 
+we're up 11, which meant our core business was down six. So you've got 15 for two months. So you can figure out 
+you're close to a $20 million run rate on that business in terms of on a quarterly basis. So that gives you a picture on the 
+expense side. 
+
+We haven't broken out the revenue in terms of what we thought it was going to be. We said that we shipped I believe 
+between 5 and 6 million in the one month we had the business. Obviously, that was a bit of a slowdown month – 
+excuse me, the two months we had the business. But that gives you a picture of where it is. And then you'd have to net 
+out the step-up effect. 
+
+Operator 
+
+
+And our next question comes from Steve Smigie of Raymond James. Please go ahead. 
+
+<Q - J. Steven Smigie>: Great, thanks, a quick question. You mentioned the integration of the power amplifiers. My 
+understanding was a year or so ago, there were some technical struggles with getting everything to work perfectly on 
+that. I was curious if you could talk about your confidence in how well that's working now and also what customer 
+interest you've seen in that? Thanks. 
+
+<A - Scott McGregor>: When we first showed the product, we actually didn't tell people there were power amplifiers 
+integrated into the product. We kept that stealthy because we wanted to run long-term studies and make sure it was all 
+stable and so forth, but that all turned out quite well. And so in our wireless LAN and wireless LAN combo products, 
+we do include the power amplifiers. So that's all working great and our customers use it. It saves them separate discrete 
+parts on the board, pre-integrates it, and generally a very good solution. We don't see our competitors doing that 
+generally. 
+
+Operator 
+
+And our next question comes from Suji De Silva of Kaufman Bros. Please go ahead. 
+
+<Q - Suji De Silva>: Hi guys, two quick questions. First of all, you talked about the combo products being 10% by 
+year end. What's going to be the shape of that ramp up? Will it be back-end loaded? And the second question is on the 
+handset side, cellular. Is your R&D spend there stable or are you continuing to increase that? Thanks. 
+
+<A - Eric Brandt>: The R&D spend on cellular is stable right now and we believe we have the team we need to ramp 
+the products with our key customers. And so we expect that to stay stable roughly over the course of the year. Certainly 
+as we were to bring on new customers or substantially new programs with existing customers, we might have to ramp 
+for some support. But generally, we'll hold that resource steady until we start seeing some return from that investment. 
+
+In terms of the ramp of the combo products, I'll give you one example. We're now shipping more combo FM than we 
+are – I'm sorry, we expect over the course of this year to ship more combo products on FM and Bluetooth than 
+Bluetooth standalone, so that's already crossing over. And then in the 4325 space, wireless LAN, that will take a little 
+while, but that will ramp significantly over the course of the year. 
+
+Operator 
+
+And our last question comes from Betsy Van Hees of Caris & Company. Please go ahead. 
+
+<Q - Betsy Van Hees>: Thanks for fitting me in. You mentioned in the past at your Analyst Day and at some 
+conferences about taking opportunities with your cash and making some strategic acquisitions. I was wondering if you 
+can give us a little bit of color around that and if you still have plans to do that this year. Thanks. 
+
+<A - Eric Brandt>: We are always looking for additional technology to expand our business, to expand the 
+technology, to expand our market share. I don't think the criteria we have used has changed. I think we're very 
+interested in buying a business which brings a Broadcom type of team, which brings great technology et cetera. I think 
+what's unique now is that those opportunities may in fact be somewhat more accretive than they have been in the past 
+because of the value on the cash. 
+
+So to give you a sense, I mean a year ago in Q4, we generated interest income probably 4X of what we're generating 
+now. Now we do have about 20% less cash than we had then. But fundamentally, it's not generating that much interest. 
+So what we really should be thinking about are ways to expand our business using our cash in ways that are both 
+accretive to the technology, to revenue, and the bottom line of the business. And so I don't think what we do is 
+different, but I do think that the opportunities that are in front of us may be different. And I think having the cash here 
+in the US increases our flexibility to do things quickly if we want to. 
+
+
+Scott A. McGregor, President and Chief Executive Officer 
+
+Thank you, Eric, and I'd like to thank everyone for joining us on the call this afternoon. And before we finally 
+conclude, I'd like to reiterate a couple of points. One is that 2008 was a very strong year from a revenue and market 
+share perspective. We reached new record revenue levels for the year and we dramatically outgrew the semiconductor 
+market. We doubled – more than doubled EPS, excluding the one-time charges and generated about 920 million in cash 
+flow from operations. 
+
+As we look into 2009, the economy is certainly having a negative impact on our results, and we're reacting to that 
+changing environment by shifting our focus from profitable growth to protecting cash flow while we invest in the 
+product areas we think are going to gain share. We believe we are well positioned in this economic downturn with 
+really great integrated products and a scalable business model. As a result, we see this economic slowdown as a longer 
+term opportunity to emerge in an even stronger position at the end of this down cycle. 
+
+With that, thank you and good afternoon. 
+
+Operator 
+
+Ladies and gentlemen, this concludes today's conference. Thank you for participating. You may now disconnect. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

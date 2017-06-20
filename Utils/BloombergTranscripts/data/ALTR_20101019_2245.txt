@@ -1,0 +1,929 @@
+Q3 2010 Earnings Call 
+
+
+Company Participants 
+
+• Scott Wylie, Vice President, Investor Relations 
+• Ronald J. Pasek, Senior Vice President, Finance and Chief Financial Officer 
+• John P. Daane, President, Chief Executive Officer, and Chairman 
+Other Participants 
+
+• Uche Orji 
+• James Schneider 
+• Srini Pajjuri 
+• Shawn Webster 
+• Glen Yeung 
+• Christopher Danely 
+• Tristan Gerra 
+• John Pitzer 
+• Hans Mosesmann 
+• Ambrish Srivastava 
+• Mahesh Sanganeria 
+• Auguste Richard 
+• Daniel Berenbaum 
+• Apurva Patel 
+• David Wong 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good day, everyone, and welcome to the Altera Third Quarter 2010 Earnings Results Conference Call. Today's call is 
+being recorded. At this time, I would like to turn the call over to Mr. Scott Wylie, Vice President of Investor Relations 
+for Altera Corporation. Please go ahead, sir. 
+
+Scott Wylie, Vice President, Investor Relations 
+
+Good afternoon. Thank you for joining this conference call, which will be available for replay telephonically and on 
+Altera's web site shortly after we conclude this afternoon. To listen to the webcast replay, please visit Altera's Investor 
+Relations web page, where you'll find complete instructions. The telephone replay will be available at (719) 457-0820. 
+Use code 258712. 
+
+During today's prepared remarks, we will be making some forward-looking statements. In addition, management may 
+make additional forward-looking statements in response to questions. In light of the Private Securities Litigation 
+Reform Act, I would like to remind you that these statements must be considered in conjunction with the cautionary 
+warnings that appear in our SEC filings. Investors are cautioned that all forward-looking statements in this call involve 
+risks and uncertainty, and that future events may differ from the statements made. For additional information, please 
+refer to the company's Securities and Exchange Commission filings, which are posted on our web site or available from 
+
+
+the company without charge. 
+
+With me today are John Daane, our CEO, and Ron Pasek, Chief Financial Officer. Ron will open the call with a 
+financial overview before turning the call over to John. After John concludes his remarks, we will take your questions. 
+Prior to the Q&A session, the operator will be giving instructions on how you can access the conference call with your 
+questions. 
+
+I would now like to turn the call over to Ron. 
+
+Ronald J. Pasek, Senior Vice President, Finance and Chief Financial Officer 
+
+Thank you, Scott, and good afternoon, everyone. My commentary will cover our results for the third quarter as well as 
+guidance for Q4. 
+
+Revenue for the third quarter 2010 was a record $527.5 million, a sequential increase of 12% and in line with our 
+updated guidance. Similar to Q2, our Q3 results showed growth in all vertical markets in all geographies, although 
+Europe showed only a slight increase. Our large and small customer segments both grew sequentially, with the highest 
+growth coming from some of our very largest customers. On the products side, both new and mainstream categories 
+grew, while mature was essentially flat. 
+
+Q3 turns were in the mid-20s, which is slightly higher than our Q3 guidance, but is a reflection of our higher revenue 
+result for the quarter. Book-to-bill for the quarter was above 1, although not as robust as the past several quarters. 
+Through the course of Q3, foundry capacity improved, which allowed some of our lead times to shorten. As a result, 
+we are slowly catching up to demand by shipping at an accelerated rate. So although book-to-bill was greater than 1 for 
+the quarter, it was slightly less than 1 for September. Again, this is a function of record September monthly revenue 
+rather than a change in underlying demand. Our underlying bookings rate continues to be quite strong and steady, with 
+little change over the past six months. Our Q4 quarter date book-to-bill is essentially flat. We are seeing a similar 
+dynamic so far this quarter. 
+
+Keep in mind, we do not expect lead times for most products to completely return to normal until late in Q4, with the 
+exception of 40- and 65-nanometer, which should recover to normal early next year. 
+
+Gross margin for Q3 was 70.1%, 1.6 points lower than the second quarter, but consistent with our guidance. The 
+margin degradation was a combination of some unfavorable vertical mix, as well as some unfavorable large customer 
+mix. Operating expenses for the quarter were 131 million, and operating margin for the quarter was 45.2%. 
+
+Our Q3 effective tax rate was 8%, the results of some favorable discrete items. 
+
+Net income for the quarter was $219 million, or $0.69 per diluted share. 
+
+On the balance sheet, cash and investment balances increased to 2.4 billion. Cash flow from operating activities was 
+268 million for the quarter. The cash conversion cycle for Q3 was 68 days, 12 days less than Q2's 80 days. DSO and 
+inventory decreased, while payables grew slightly. Again, our accounts receivable aging continues to remain quite 
+healthy. 
+
+Altera inventory increased 8% on a dollars basis, but decreased on a months supply on hand basis. Pipeline months 
+supply on hand dropped to 2.9 months, and is comprised of 2.1 months of Altera inventory and 0.8 months of 
+distributor inventory. 
+
+Moving to guidance for the fourth quarter, we expect to see revenue growth in the range of 3% to 6% sequentially. 
+Fourth quarter turns look to be in the mid 20s. Gross margin will be roughly flat to Q3, between 70% and 71%. We 
+think R&D and SG&A spending will be slightly lower than the third quarter, as we have fully accrued the corporate 
+bonus through Q3. Q4 R&D will be 65 to 66 million, and SG&A in the range of 61 to 62 million. 
+
+
+Our core tax rate will be 11% to 13%. As always, there can be discrete items in any given quarter that add or subtract 
+from this rate. This guidance assumes there is no U.S. R&D tax credit. 
+
+With our rising share price, fully-diluted share count will be approximately 319 million shares in Q4. 
+
+With respect to inventory, we are planning to end Q4 with pipeline months supply in hand in the low to mid 3s, a slight 
+increase from Q3 FY '10. 
+
+Before turning the call over to John, let me share my thinking with you about near-term sales dynamics for Altera. In 
+conversations with many you on the line today, I know that you're all, to one degree or another, trying to figure out 
+what the transition looks like as we move from a period of hyper growth to something that is a more normal growth 
+rate. First, let me re-emphasize that our belief in Altera's ability to outgrow the semi industry has not changed, nor has 
+our belief in the increasing attractiveness of FPGAs versus ASICs. 
+
+If you think about the math behind exiting a supply-constrained world to a more normal one, metrics like book-to-bill 
+will temporarily carry less meaning as customers return to a more turns-reliance ordering pattern. Assuming a static end 
+demand picture, as we go through this transition, if customers have built unreasonable levels of inventory, they will 
+correct down to the right level. Is this going to happen to us? Inventories – history says that it may, but our customers 
+tell us repeatedly that they are not intentionally carrying unreasonable amounts of inventory. Could their view change? 
+Of course. Will it? One can't tell. Nonetheless, we continue to incorporate a view that there may have been some 
+inventory accumulation as we both plan internally and communicate our outlook to you. 
+
+Once again, given the long-term secular trends that are propelling us forward, we think Altera is well positioned to do 
+better than the semi industry during both the short and long term. 
+
+Turning to next year for a moment, we will issue 2011 guidance on November 29th at the same time we provide our 
+mid-quarter update. The relevant information will be included in the after-the-close press release. Given the amount of 
+information we will be providing in the release, we're taking the extra step to host a public conference call that same 
+afternoon. Access information for that call will be provided later in the quarter. 
+
+Now, with further comments about Q3, let me turn the call over to John. 
+
+John P. Daane, President, Chief Executive Officer, and Chairman 
+
+Thank you, Ron. We are very pleased that Altera achieved record revenue in the third quarter. We have continued to 
+outgrow the semiconductor and PLD industries as a result of product momentum across our end markets, combined 
+with growth from communications infrastructure deployments in China, India, and the U.S. 
+
+In Q3, our new products increased 24% sequentially, 211% year over year, and represented 44% of total company 
+revenue. Stratix IV was up 41% sequentially, Cyclone III 35%, Arria II 178%, and MAX II 9%. Stratix III declined 
+9%. Cyclone IV was just under $1 million in the quarter. 40-nanometer products were 13% of total revenues, up from 
+10% in the prior quarter. 
+
+Following on from our success in 40-nanometer, the 28-nanometer product development continues on schedule. We 
+broadly released Stratix V design support in Quartus II in July. In the third quarter, we demonstrated to over 200 
+customers our 28-nanometer silicon 25-gigabit per second transceiver. This has opened the eyes of many high-end 
+ASIC designers as to what can be accomplished with Altera's industry-leading FPGAs. 
+
+We also recently introduced our embedded initiative, with our Qsys system integration tool, our FPGA IP library, the 
+Altera Nios II Arm Cortex-A9 MP core, and MIPS Technologies' MIPS 32 embedded processor offerings, and also 
+supporting the recently announced configurable Intel Atom processor that includes an Altera FPGA in a multi-chip 
+package. The importance of this announcement is that we have two markets for Altera to continue to expand. 
+
+First, customers can utilize the FPGA fabric to instantiate peripherals and accelerators to design custom microprocessor 
+solutions in an era where there are fewer standard product options due to the increasing design costs in advanced 
+
+
+process nodes. Second, with the density of our 40-nanometer and 28-nanometer high-end FPGAs, this initiative opens 
+the system-on-a-chip ASIC market where customers routinely integrate microprocessors as a block in their system. 
+
+The embedded market was close to $8 billion last year, and is forecasted to grow faster than the semiconductor 
+industry. With approximately 30% of our customer designs integrating Nios II today, we have solid traction in the 
+embedded market, and expect this to accelerate with our broad microprocessor architecture support. 
+
+By market for Q3, telecom and wireless increased 23% sequentially, with each market up double digits. 
+Industrial/military/automotive grew 5%, computer/storage/networking increased 13%, and other grew 2%. With the 
+exception of automotive and consumer, each sub-market grew sequentially. 
+
+For Q4, we are forecasting a 3% to 6% sequential increase. Telecom/wireless should increase due to continued wireless 
+growth. Networking/computer/storage should increase, driven by networking. The automotive/industrial/military, and 
+the other market, should be flat to slightly down. As we have discussed in prior quarters, we assume there is a 
+component of customer inventory accumulation and have taken this into account in our forecast. 
+
+In summary, our new product momentum is driving strong revenue growth and market share increase. In particular, we 
+are benefiting from the tipping point where our latest generations of FPGAs are several process nodes ahead of 
+mainstream ASIC and ASSP design for the infrastructure markets, providing a cost-effective replacement technology. 
+With a tipping point, our content continues to increase from generation to generation of many system products, 
+enabling Altera to outgrow the semiconductor industry and our end customers. 
+
+Now let me turn the call back to Scott. 
+
+Scott Wylie, Vice President, Investor Relations 
+
+We would now like to take questions. Please limit your questions to one at a time so that we give as many callers as 
+possible the opportunity to ask questions during the call. 
+
+Operator, would you please provide instructions and poll for questions? 
+
+Q&A 
+
+Operator 
+
+Thank you. [Operator Instructions] We'll go first to Uche Orji with UBS. 
+
+<Q - Uche Orji>: Thank you very much. John, let me just start out by asking you a couple questions on the end 
+markets. Any more insights you can give on what's happening in the wireless segment? And particularly, any 
+comments you can make as to what you're seeing on India? 
+
+And then, along those lines, as we try to understand your comment about customer accumulations, inventory 
+accumulation, is there any metrics you're looking at to lead you to conclude that? And any insight as to what segments 
+you may be seeing inventory accumulate at the customers? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Okay, Uche, this is John Daane. So 
+wireless was up in the third calendar quarter, along with the telecom segment as well. They were both up double digits. 
+We're seeing strength in 2G, 3G, and also microwave backhaul within that segment. We do expect wireless again to 
+grow in the fourth calendar quarter. 
+
+Earlier this year, we – out of India, had seen as the – there was some discussion from the Indian government over 
+where to purchase end products. There was a delay in 2G purchases. So we saw India earlier this year really slow down 
+for any wireless deployment. They did, a quarter ago, complete the 3G auctions. We do believe that most of the debate 
+over vendors and equipment is now completed, and we are seeing multiple customers purchase material for both 2G 
+
+
+and 3G deployments for – in the India market, and would expect that to continue over time. 
+
+From an inventory perspective, we do not have any details as to customers or segments or amount of inventory people 
+hold. Generally, as we've said in the past, in any given quarter there are going to be some customers that have too little 
+or too much, and there's always inventory adjustments going on. We assume that there is a component of inventory 
+build, simply, as we've discussed I think on every call this year, because in times of tight supply, customers do tend to 
+try to establish some buffer stock. Not all, but some. 
+
+I think that has been somewhat reduced over the years, simply because we have more customers on VMI, which means 
+they pull product when they need it, and ultimately aren't holding inventory. But again, we have to assume that there is 
+some out there. We don't know the magnitude, but we do try to take that into account with every forecast, and 
+particularly this quarter as well, because, as Ron mentioned, we will have lead times on a bulk of our product returning 
+to normal towards the tail end of the quarter. 
+
+<Q - Uche Orji>: Sure. And then just one quick follow-up question. If I look at a business model, I know, Ron, you've 
+talked about gross margin somewhere in the high 60s, that's kind of how you're managing the business, but we've seen 
+consistent gross margins now above 70, and now with operating margins above 45%. Should we assume that this is not 
+a new model – not a new normal for the company? Or should we still keep trying to model a decline in gross margins in 
+the future? 
+
+<A - Ronald J. Pasek, Senior Vice President, Finance and Chief Financial Officer>: Yeah. So – fair question. So 
+what I'd like to do is save that question for the November 29th call. We'll give a little more guidance on certainly next 
+year's business model and perhaps some hints at what we think about – over the long term as well. 
+
+<Q - Uche Orji>: All right. Great. Thank you. 
+
+<A - Scott Wylie, Vice President, Investor Relations>: Thank you very much, Uche. Next question, please. 
+
+Operator 
+
+We'll go next to James Schneider with Goldman Sachs. 
+
+<Q - James Schneider>: Good afternoon. Thanks for taking my question. John, it sounds like for Q4, you're not 
+expecting wireline telecom to increase. So first of all, is that a correct assumption? 
+
+And then secondly, can you talk about any color you're seeing from customer order patterns relating to wireline 
+telecom, either geographically or just types of wireline? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Yeah. So when we talk about – just as a 
+reminder, when we talk about telecom, it is telecom, and then separately the enterprise networking is in the – combined 
+with computer and storage. And networking was up last quarter, and we expect networking, as I mentioned, to grow 
+again in Q4. 
+
+Telecom had a very strong growth, up a double-digit percentage in Q3. We're not expecting a lot of growth out of it this 
+quarter. Growth in third calendar quarter really came from a transmission orders. Probably all the color I could provide 
+at this time, Jim. 
+
+<Q - James Schneider>: Okay. Fair enough. And then as follow up, I still have your competitors in the analog space 
+have talked about distributors taking down inventory levels heading into the end of the year. I was wondering what you 
+are seeing with respect to your distributors in your small customer base heading into the end of the year with the distis 
+channels in particular? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Well, so I think first of all, that's 
+important to remember, that a lot of the analog companies still recognize revenue when they ship into distributors 
+internationally, and would also like to remind everybody that Altera does not recognize revenue until our distributors 
+
+
+worldwide ship to OEMs or contract manufacturers. So the amount of inventory that a distributor holds really is 
+irrelevant from a revenue perspective to us. 
+
+As Ron pointed out in the comments, the distributor inventory that we have right now is low. We have not heard of any 
+changes or plans from any of our major distributors as far as our product line goes, and so we're very comfortable at 
+this point with the amount of inventory that's in the channel. 
+
+<Q - James Schneider>: Great. Thanks very much. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: All right. Thank you very much, Jim. 
+Next question, please. 
+
+Operator 
+
+We'll go next to Srini Pajjuri with CLSA Securities. 
+
+<Q - Srini Pajjuri>: Thank you. Ron, Just looking at your Q4 guidance, you're assuming 20% – or mid 20% turns. I'm 
+just wondering, given that lead times are coming in and book-to-bill is kind of coming down a bit here, I would have 
+expected turns business to pick up a bit more. I'm just curious as to why you're only guiding for 20% turns? 
+
+<A - Ronald J. Pasek, Senior Vice President, Finance and Chief Financial Officer>: Yeah, remember, turns is a 
+function of a couple different things: what we see in backlog, and what we expect in orders. So again, our order rate is 
+not coming down, near as we can tell, and we can see most of that backlog already on the books. So that's – I'm just – 
+we're just calling it like it is. It's what we see right now, and in good shape. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: This is – I think the function is simple. 
+When your lead times expand, customers need to place more backlog obviously to cover the lead time that you have. 
+So your book to bill is naturally going to go up. If your lead times come back in, customers will either de-book, or not 
+book to replace, because again, they're wanting to minimize their exposure, and therefore, only book to your lead times. 
+So ultimately, the book-to-bill will fluctuate during times of lead time change. As Ron pointed out, the underlying 
+demand is okay. 
+
+Longer term, we would expect turns probably to go back up, simply because our lead times will compress from, in 
+some products, over 20 weeks to eight weeks, and actually, that's a lot less backlog to carry into the quarter. All normal 
+things, and we're not surprised or concerned with them at this point. 
+
+<Q - Srini Pajjuri>: Okay. And John, maybe for you. Clearly, China has been relatively strong on the wireless front 
+for the past few quarters. And then, as we come to a conclusion of the Phase 4, I'm curious as to what happens next, 
+and what your expectations, and what are your customers telling about the demand for wireless component orders out 
+of China? 
+
+And then, once India starts to kick in, and obviously you have U.S. and Japan going to 4G as well, could that offset 
+whatever the declines, or potential declines, we see out of China? And I'm just wondering how we should think about 
+wireless as we head into next year? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: So I would say, first of all, it's very 
+difficult to predict quarter on quarter exactly what is going to happen within any of our segments, simply because our 
+customers themselves do not have great visibility. We do believe, in the long term, that communications will continue 
+to grow strongly, and I think there are a couple reasons behind that. One, as you point out, you move from China, India, 
+
+U.S. deploying this year, to adding also Japan, going from 2G/3G to LTE or the fourth generation. As we've mentioned 
+before, our content with every generation goes up, and so for the same number of boxes, our revenue increases as a 
+corporation. And so put together, we feel we actually have a pretty good growth story over the next three to five years, 
+difficult to predict in any given quarter. 
+
+Would like to highlight that everybody talks about the fourth generation, which is also – is what China Mobile buys, 
+which is TD-SCDMA. Note that that's only one of the three operators. Also note that that's just wireless deployment. 
+There is wireline deployment that goes on as well. 
+
+And I'd finally like to note that many of the reports I've seen show the actual CapEx spending of the three Chinese 
+operators decreasing this year over last year, and yet you see our revenue expanding. And I think this again goes back 
+to highlight the fact that Altera's content has grown significantly within the communications infrastructure, both 
+wireline and wireless. And so therefore, we can grow at a faster rate than whatever the industry, or even our customers, 
+are doing. 
+
+<Q - Srini Pajjuri>: Thanks, John. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: All right. Thank you very much. Next 
+question, please. 
+
+Operator 
+
+We'll go next to Shawn Webster with Macquarie. 
+
+<Q - Shawn Webster>: Yeah. Thank you. Can we dig into the gross margin change a little bit more, going from Q2 to 
+Q3, separating between the customers and product mix, can you expand on what the drivers were, especially on the 
+product mix side? 
+
+<A - Ronald J. Pasek, Senior Vice President, Finance and Chief Financial Officer>: Yeah. So what I said was, we 
+saw vertical mix, which we had mentioned in the guidance for Q3 as well. And also, we saw some large customer mix, 
+meaning that our largest customer were buying a disproportionate share of product in the quarter. And as you know our 
+largest customers get the best pricing. So those two things contributed to a slight degradation in gross margin for Q3. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: And again, if you go back and look at our 
+business communication segment, telecom/wireless had the strongest growth. Obviously that is made up of some of our 
+larger customers. 
+
+<Q - Shawn Webster>: Okay. And then on the Intel's Stellarton, the combo Atom with one of your chips on it, can 
+you talk about what the business opportunity there is for you? Is this going to help you penetrate new applications, or 
+will this be more of a case where you're already in a system with an Intel-based processor and it's just getting more 
+closely knit for power considerations or others? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: So I cannot comment specifically on the 
+product for Intel. I think you'd probably have to go talk to them about where they're aiming it or what they're doing 
+with it. But from our perspective, we do view this as an additional revenue opportunity. Many of the systems and areas 
+for which we understand that they may be targeting it are areas for which we are not currently engaged, and we do view 
+this as an incremental business opportunity for us. 
+
+<Q - Shawn Webster>: Can you share what the new applications are? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Unfortunately this is a case where this is 
+Intel's product. And so I – they've announced it. They included obviously a quote in a press release that we recently did 
+on our embedded initiative, but again, there are more details I think to come, and so I would really not like to say 
+anything out of school here. So we'll have to wait for Intel to comment further. 
+
+<Q - Shawn Webster>: Okay. Thank you. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Thank you very much. Next question, 
+please. 
+
+
+Operator 
+
+We'll go next to Glen Yeung with Citi. 
+
+<Q - Glen Yeung>: Thank you. John, you mentioned earlier that CapEx in China was down this year and yet your 
+revenues were up. I think CapEx in China was down 24% this year, so the delta between what you're seeing and what 
+that CapEx is is pretty large. If we were to look into next year and assume that the units, or the equipment sort of 
+installations next year were flat versus this year, in that scenario, what's the potential for Altera revenues to grow? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: So in a – this gets into then a discussion 
+of what type of equipment is being deployed, because then the dollars per box can vary. But at a high level, if, on a 
+CapEx spending is flat, and there's a tendency towards the newer-generation systems, 3G, 4G, you will tend to see our 
+content grow, our revenue grow, simply because we become a much larger bill of materials with every new generation 
+of communications equipment that's been deployed. 
+
+<Q - Glen Yeung>: Is it at all possible to put any numbers around that? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: It's very hard to, because it depends on 
+the operator, it depends on the type of equipment they're shipping, it depends on the configuration. Sometimes they'll 
+ship a chassis with only two cards in it instead of eight cards. It also depends on the particular vendor. In some end 
+communications companies, we may have more content, some we may have a little bit less than our competition. So 
+therefore, it becomes very, very difficult for us to predict exactly what's going to happen year on year. 
+
+But if you do look at the trend line, as you point out, even at times of flat or decreasing CapEx, because if you go back 
+for the last couple of years, worldwide CapEx on communications has actually been decreasing, and yet you look at 
+Altera, the revenue growth has been very strong. And it simply is because we've become a larger proportion of the bill 
+of materials of each new generation system, replacing ASICs and DSPs, and in some cases, ASSPs, and that's allowed 
+us to outgrow the customers and show strong growth. 
+
+<Q - Glen Yeung>: Great. As a follow-up, we've been concentrating on this call on the communications side, but I 
+wonder if you could spend some time talking about non-communications businesses, and what you saw – what you 
+expect to see for Q4? And then just notionally, I know you don't want to give a lot of details here, but any thoughts you 
+may have on 2011, what we might think about in terms of non-communication sales? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Sure. So in terms of the other markets, as 
+I mentioned, the – we expect networking to grow this quarter, we expect wireless to grow this quarter. The broader 
+categories that we had, which were – let me just make sure I get this right. Computer – or excuse me, the – yeah, where 
+am I. The automotive/industrial/military and the other markets, we expect to be flat to slightly down. 
+
+Within that, there are a few that are up, there are a few that may be flat, there are a few that are going to be down. The 
+only one market I would call out and say is going through a significant change quarter-on-quarter is, again, consumer. 
+Consumer was down for us in the third calendar quarter. We expect it to be down in the fourth. And really what we see 
+there is a weakening in the flat-panel TV market that's causing the decline for two quarters. And I think that's fairly 
+consistent with what you've even heard out of some of the TV manufacturers themselves. 
+
+Ultimately, though, if you look at the rest of the markets, some may be up a little bit, some may be down a little bit, but 
+there's not a lot of movement there. In terms of the – yeah, I guess that kind of answers that. 
+
+In terms of next year, difficult to say. As we mentioned, we do think we have a good three to five-year growth cycle in 
+communications, simply because of the number of operators around the world that are deploying newer generations of 
+equipment. We do think that industrial/military/automotive should continue to grow for us, because of the increasing 
+electronics content in these systems, along with the fact that we have a lot of design win momentum in there. We've 
+done very well in the 40-nanometer node. I think everybody understands that, and the programmable logic business 
+40-nanometer will be the growth driver for the industry for the next several years. So we think we benefit from that. 
+
+
+And so all told, we don't know exactly what's going to happen by market in 2011. We don't even – can't even pinpoint 
+exactly what the company's going to do in 2011, but we do expect that we will outgrow the semiconductor market 
+again next year. 
+
+<Q - Glen Yeung>: Okay. Thanks a lot. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Thank you very much, Glen. Next 
+question please. 
+
+Operator 
+
+We'll go next to Christopher Danely with JPMorgan. 
+
+<Q - Christopher Danely>: Okay. Thanks, guys. John, can you just give us a quick refresher on what lead times are 
+normally and where they stretched out to? And then also, when was the last time they got that long? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: So lead times now will vary by products. 
+Some product right now are two weeks. Some product is out as much as 24 weeks. And there's really a mixture in 
+between. 
+
+In general, the products that have a longer lead time are for our – in general, the newer process nodes, 0.13 micron, the 
+90-nanometer, 65-nanometer, 90-nanometer. As Ron mentioned, we expect, by the tail end of the quarter, to get most 
+of the products into the two- to eight-week lead time, with the exception of 65 and 90, or excuse me, 65 and 40. There 
+may be a couple other codes in some of the older families also, but predominantly in 65 and 40. And those we expect to 
+get caught up by January-February of next year, back again to the sort of a two- to eight-week lead time. 
+
+Last time we had a substantial change in lead times was I think in 2008, which was the period of time where sub-straits 
+became short in the industry. So I want to say this was Q2, Q3 of 2008 as a period of time. Before that, I can't really 
+remember off the top of my head, Chris. 
+
+<Q - Christopher Danely>: No problem. And then as my follow-up, so you guys are releasing the details of the 
+28-nanometer, and I guess I'm just trying to compare you versus your competitor. It sounds like I guess a similar type 
+of schedule in terms of software introduction and sampling? Do you think that that's accurate? And then when can we 
+expect more details on further 28-nanometer sampling? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Yeah. So we've announced, Chris, the 
+Stratix V family, and I've said that we will ship our first units in first calendar quarter. Our software is out, broadly 
+introduced. I think that was well ahead of the competitor who I think just recently introduced their software broadly. 
+And I think, I don't have that confirmed. So I think we've been ahead in software, as we have been for certainly 
+40-nanometer. 
+
+And then in terms of other products that we will introduce, clearly there will be more. We'll talk about that in the 
+future. Don't have any updates or any specifics to give there. I think we'll be well positioned within the 28-nanometer 
+technology. 
+
+<Q - Christopher Danely>: Thanks. 
+
+We clearly have had leadership in transceivers. We've had leadership in power and performance. We have leadership in 
+software, in terms of things like compile times, performance, features. So again, I think pretty broadly we're going to be 
+very well set up to continue the momentum that we've established in 40. 
+
+Thank you very much, Chris. Next question please. 
+
+Operator 
+
+
+We go next to Tristan Gerra with Robert Baird. 
+
+<Q - Tristan Gerra>: Hi, good afternoon. One of your charts that you've shown to people earlier this year shows that 
+over 50% of total ASICS are at 130-nanometer or higher, which infers that at 40-nanometer, you're capturing 50% plus 
+of all ASICs. What would those numbers be at 28-nanometer, if you have the numbers yet? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: So, Tristan, this is John Daane. I think 
+the chart that you're referring to is a Gartner chart, which lists – they've done design starts by process node of ASICs. 
+And what you find is, I think because of the accelerating costs of design and new process nodes, many companies have 
+tried to utilize old processes like 130-nanometer as long as possible. The downside of that is obviously when you have 
+these high-speed, serial I/O that are now being regulatory introduced as standards in the industry, combined with 
+high-speed memories and things like DDR3 for DRAMs, the old process technology simply can't keep up. 
+
+Additionally, the 130-nanometer node is not getting any cheaper. There's no cost reductions left, so it's not offering the 
+cost reduction capability for many of these system companies. Doesn't mean that we're capturing 50%. What it really 
+means is it's opening up a significant portion of that market for us to replace, because customers either need the 
+high-speed technology that we now offer in FPGAs, or they need the cost-reduction potential that only the new process 
+nodes can offer, which comes with FPGAs because we're on that. 
+
+The ASIC market is I think about $24 billion. We think, if you carve that up and really look at the applications that we 
+can service, taking out things like handsets, game platforms, which are either power-sensitive, cost-sensitive, or even 
+applications where analog is integrated, there's still a $10 billion opportunity for the programmable logic market to go 
+address. And if you look at the PLD industry, it's – it will be under – sub-5 billion, so there's still a long way to go. 
+
+And then additionally, as we talked about, the same dynamic also impacts the ASSP industry. They simply can't afford 
+to develop many products for the infrastructure space, because the R&D spend is high, and if the volume's not there, 
+you simply can't get the payback for that investment. So by adding intellectual property blocks on top of our FPGAs, 
+through either our own development or partners' development, we can address ASSPs and replace those. And then 
+additionally, we have things like the embedded initiative, which also allow us to play in the microprocessor space, or 
+the integrated DSP capability that's allowed us to replace DSPs. 
+
+So we think, all totaled, we really have a huge opportunity in front of us, something of the order of $30 billion. And 
+even with a small fraction of that obviously, we can continue to grow very well in the coming years. 
+
+<Q - Tristan Gerra>: Great. And then a quick follow-up. If you could give us a reminder of your breakdown within 
+consumer? And percentage of TVs in that segment? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: I don't know, Tristan, of the percentage 
+of TVs in the consumer business, and the consumer business is only a few percent of our revenue. 
+
+<A - Ronald J. Pasek, Senior Vice President, Finance and Chief Financial Officer>: It's very small. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: So it's not a significant driver one way or 
+the other. 
+
+<Q - Tristan Gerra>: Okay. Thank you. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Thank you very much. Next question, 
+please. 
+
+Operator 
+
+We'll go next to John Pitzer with Credit Suisse. 
+
+<Q - John Pitzer>: Yeah, good afternoon, guys, and congratulations. John, in the past, you've kind of given us some 
+numbers around the content increase as you move from 2G to kind of 3 and 3.5G for PLDs. I'm kind of curious, when 
+
+
+you look at the 75% growth in the telecom business since Q3 '08, can you help me understand how much of the spend 
+then was going to sort of 3, 3.5, versus today? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: I do not have that specific breakdown, so 
+I'm sorry. I don't have it going back that far. 
+
+<Q - John Pitzer>: And John, is it fair to say, though, that the content increases you guys have talked about 
+historically, about 50%. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Yeah. Content between 2G to 3G was a 
+doubling. Then going to LTE from 2G is a tripling. And then going to the LTE Advanced, which is the 4.5G, will be 
+about 350% off of 2G, so – or 4x, excuse me. So you've seen, with every new box, an increase of our content. 
+
+And then of course with every new wireless infrastructure deployment, a couple things have happened. Number one, 
+the radios have added intelligence, and so in the – going from the 2G to 3G systems, the radio infrastructure became an 
+entirely new market for us. 
+
+Additionally, as we've utilized higher frequencies, the number of radios deployed has gone up to deal with the fact that, 
+at higher frequencies, the signals have trouble penetrating buildings. And so that's increased that market from a units 
+perspective. And then of course with the increase in data rate, there's needed to be an upgrade of the backhaul network, 
+and in some countries that becomes a microwave network, and in some countries it goes from something like DSL to 
+PON where they have optical. And so, all of that drives of course a lot of additional deployment and a lot of additional 
+revenue opportunity. 
+
+<Q - John Pitzer>: And then, Ron, I don't want to steal too much thunder from the November 29th call, but I guess, as 
+I think about ASIC replacement, a lot of that's being driven by you guys being able to provide a cost benefit to your 
+customer. And if done properly, you guys should be able to benefit on the gross margin line as well. And so, I would 
+think that structurally, gross margins are moving higher. Without kind of quantifying it, is that the right way to think 
+about the proposition around ASIC replacement? 
+
+<A - Ronald J. Pasek, Senior Vice President, Finance and Chief Financial Officer>: It's a little more complicated 
+than that. There's a lot of other factors that push it down, including the fact that we're obviously in a competitive 
+industry. Why don't we save this for November 29th. It's a question that I think we could more appropriately answer 
+then. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: In general, we're managing a portfolio of 
+business. As we've mentioned before, the margins do vary by vertical market. And so again, managing a portfolio, 
+we've had a 65% long-term target, and long term, that remains our target. 
+
+<Q - John Pitzer>: And if I could sneak one quick one in. John, you guys continue to do a great job generating a lot of 
+cash. Can you walk through maybe some of the uses of that cash beyond sort of the current dividend? 
+
+<A - Ronald J. Pasek, Senior Vice President, Finance and Chief Financial Officer>: So this is Ron, I'll take that 
+one for John. So I just want to reiterate what we said. We've gotten this question on I think every call this year, which is 
+appropriate. So as we've said, we are going to continue to, over time, repurchase shares. We're going to continue over 
+time to steadily increase the dividend. And then we look opportunistically at acquisitions, too. And I would say, it's 
+probably in that order. 
+
+<Q - John Pitzer>: Great. Thanks, guys. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Yeah, and by the way, on the acquisition 
+front, we've been looking at acquisitions for many years, so there's – nothing has changed there, and again 
+predominantly have been using cash for share repurchases and dividends. 
+
+Next question, please. 
+
+
+Operator 
+
+We'll go next to Hans Mosesmann with Raymond James. 
+
+<Q - Hans Mosesmann>: Thanks. Most of my questions have been answered, but I do have a question about how your 
+28-nanometer product portfolio is doing at this stage of the design win dynamic, relative to 40-nanometer. What's 
+different? What's the profile of your incremental ASIC designer that is adopting Altera products? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: So we've done well at 40-nanometer, and 
+so that product remains our predominant design win vehicle today. Customers who are adopting 28 are customers that 
+are in, for instance, the communications, test, or military segments that are pushing the technology really hard and need 
+the advanced features which today are not available within 40-nanometer, predominantly the transceivers, or the 
+performance or density of the fabric. And also, in some cases, the fact that we significantly enhanced the DSP block 
+capability. 
+
+So product is doing quite well in the marketplace. We think with 40-nanometer, we really established, as shown by the 
+revenues, leadership. We expect that we're the incumbent, and we expect to continue that momentum with 28. And 
+again, Stratix is one of the products that we will introduce. There will be more that you'll see from us in the future on 
+28-nanometer. 
+
+<Q - Hans Mosesmann>: Great. Thank you. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Thank you, Hans. Next question, please. 
+
+Operator 
+
+And we'll go next to Ambrish Srivastava with BMO Capital Markets. 
+
+<Q - Ambrish Srivastava>: Hi. Thanks, guys, and good long-term stuff. Just a question, back on the near term. John, 
+you mentioned inventory accumulation, and I guess you can't really pinpoint customers or segments, but I was 
+wondering, would you be able to at least tell us if it's within a certain bucket, if I were to use that word, is it that the 
+EMS guys, or is it – has it made a way to the OEMs? 
+
+And then I had a follow-up on the long term as well. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: So we have no indication that anybody is 
+purposely holding any inventory or buffer stock. In any given quarter, and this happens good times or bad times, there's 
+some companies that order and take receipt and then find out their business didn't materialize, or there are others that 
+have business upsides. Most of our customers have less than four-week notification from their end customers, and are 
+trying to minimize the inventory that they have. So there's always pull-ins or push-outs in any given quarter, even 
+during times of strength. 
+
+Wouldn't say anything has really changed. As Ron said, the book-to-bill is roughly at parity so far this quarter. So we 
+have no real indication that any contract manufacturer or customer is holding a tremendous amount of Altera inventory. 
+Just can't provide any information on that, because we have none ourselves. 
+
+<Q - Ambrish Srivastava>: Okay. That's fair. And then on the longer term. I just wanted to understand the embedded 
+opportunity that you highlighted. Is that captured in the total 30 billion opportunity that you were talking about? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Yeah. I think it's – the 30 billion will be a 
+little bit larger with the embedded space opportunity, but once you – the number is so big in terms of the opportunity, 
+it's – it really – the opportunity, whether it's ASICs, ASSPs, DSPs, embedded, it's – there's a lot of stuff for us to go 
+take. And I think the one thing to really understand is, as – with each new process node, costs go up to design. And so, 
+the products that are programmable clearly have an advantage, because we can take one product and sell it to lots of 
+different customers, and through that aggregation of volume and business, continue to drive forward a new process 
+
+
+generations. 
+
+<Q - Ambrish Srivastava>: Okay. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: And by moving forward, we obviously 
+can make our parts lower cost, which means we can address more of the market. But it also allows us to increase 
+density and performance and features, which also allows us to increase more – or address more of the market. So I 
+think it was said many years ago, Moore's Law is the friend of programmable technologies, and you're seeing that 
+absolutely come true from a revenue and market share perspective, and I think that model continues very strongly for 
+many years to come. 
+
+<Q - Ambrish Srivastava>: Okay. And then one follow-up. It will be the final question. I think Srini had asked about 
+the India market. I was just trying to understand, would you guys be able to at least quantify it in terms of the 
+opportunity for you? As China begins to slow down, how do you think about the India market and how big could it be 
+for PLDs? Thanks. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Well, so certainly go back and look at 
+China by the CapEx numbers of the three carriers actually is decreasing this year, yet our revenues are growing. So I 
+think, just pulling CapEx data, and then trying to put a trend line together for PLDs has not proven to be data that 
+correlates at all. 
+
+And ultimately, it's very difficult to say with any certainty what's going to happen in India, or for that matter, any 
+country next year, because there are always changes, either pull-ins or push-outs, because of political reasons or 
+business reasons. And so, very difficult for us to project what's going to happen at any particular company. 
+
+Again, I go back to the higher level, which is, between India, the United States, continued deployments in China, Japan, 
+there's a lot of high-end equipment that will be purchased and deployed over the next three to five years. And so, we 
+feel very comfortable that communications will continue to be a very strong area for this company for many years to 
+come. 
+
+Thank you. Next question, please? 
+
+Operator 
+
+We'll go next to Mahesh Sanganeria with RBC Capital Markets. 
+
+<Q - Mahesh Sanganeria>: Thank you. John, so looking at all your sub-markets, you pointed out the weakness in 
+consumer, and definitely the communication, all the markets, are doing really, really well. If you eliminate those and 
+the rest of the markets, have you noticed any change in the customer behavior – customer pattern? And if you can put it 
+in context. As we go through the earnings season, we'll hear different commentary from different companies. Just 
+wanted to make sure that we can reconcile those commentary with what we are hearing from you in terms of what the 
+customers are saying in various markets. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Nothing that I could provide you at this 
+time, in terms of a breakdown by market or change. I mean again, at a macro level, we would expect our book-to-bill to 
+be under 1 as our lead times compress. That's something that naturally happens, for the same reason that our 
+book-to-bill went significantly over 1 when our lead times extended. I mean, that's just math. 
+
+Other than that, I really don't have any other color to provide at this time. 
+
+<Q - Mahesh Sanganeria>: And then if I can ask, specifically on the military, that has grown nicely, and part of it is 
+your market share gain, or probably 40-nanometer. What are you hearing about, in terms of a defense budget next year? 
+And in case of a declining or a fixed defense budget do you have exposure to the right segments where you can grow 
+that business next year? 
+
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Well I think at an aggregate level, there 
+is an expectation that defense spending in many countries will decrease in the next several years. Certainly there's 
+already been an announcement by Secretary Gates in the U.S. of wanting to decrease spending in the U.S. The UK now 
+is talking about significant cuts to the military. 
+
+How that plays out for programs will ultimately determine whether you're impacted or not. I think the benefits that we 
+have on our side are that our content are in things that I think will continue to get deployed, things like secure 
+communications. This is encryption-decryption. I think with the continued security threats around the world, there will 
+continue to be investments in that area. And that's an area that we're doing quite well in. 
+
+If a large aircraft program were to get canceled, might have an impact to us, but obviously, not significant volume per 
+se. All in all, I would expect, even with declines in the military segment, we still have the ability to grow, simply 
+because we have a lot of design wins that are moving to production, and so, we have the – and a lot of new programs 
+that we're penetrating, a lot of new customers as well. So I would expect, even in a declining market, we should do 
+pretty well. 
+
+<Q - Mahesh Sanganeria>: Okay. Thank you. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Thank you very much. Next question, 
+please. 
+
+Operator 
+
+We'll go next to Gus Richard with Piper Jaffrey. 
+
+<Q - Auguste Richard>: Yes, thanks for taking my question. Just had a few questions around the embedded business. 
+Can you give a little more color on what verticals you might be going after, and when you think it – sort of how you see 
+that penetration rate, when it will become material? And then, just any thoughts on your need for more soft or hard IP? 
+Thanks. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Okay, so lots of different markets that 
+we're going after. So, as an example, at the high-end SOC space, you think of high-end printers, which have typically 
+used an SOC incorporating a microprocessor and other logic. They're finding that the ASIC vendors are no longer 
+interested in their business, and so are turning towards FPGA systems. And so that's sort of the system-on-a-chip ASIC 
+replacement. 
+
+In the embedded space, there are applications in industrial, medical, communications as examples. Here I point out for 
+instance, in industrial, is things like motor control. Going to variable speed motors incorporates microprocessors, 
+microcontrollers. You've got obviously in the medical world, most of the imaging equipment incorporates a 
+microprocessor for control and then uses a lot of FPGAs as well other products, DSPs included, for rendering. 
+
+Then you get communications industry areas where customers are doing things like packet processing, or NPU 
+applications, where they may want to incorporate microprocessors combined with accelerators, as an example, which 
+work extremely well inside of FPGAs. And then we've had some interest in the computer space, where people are 
+looking at FPGAs plus microprocessors to do acceleration of appliances, or even in cloud computing. 
+
+So I would say that the embedded initiative actually covers basically all of our markets, from industrial, military, 
+medical, the communications side, and computer as well. And so fits very well with who we're already selling to, but 
+also does open up some new customers and some new applications that provide growth opportunities. 
+
+<Q - Auguste Richard>: And then, just as a follow-on. In terms of IP, it looks like you've got all the major 
+microprocessor architectures under your umbrella. Is there any other – and you've got the series under control. Is there 
+any other hard or soft IP that you would need to sort of push into this market? That's it. 
+
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Yeah, thanks, Gus. So we have, with our 
+IP library, actually a lot of functions now available. But we also work with a series of partners that bring specialized IP 
+to marketplace, and some of those are based on a licensing model where we introduce them to the customer as they 
+license it. Some is based on a royalty. In some cases, these companies actually buy our FPGAs, put their IP on it, and 
+resell it as a semiconductor. And so that third-party network will continue to be part of our play also in this market 
+space. 
+
+<Q - Auguste Richard>: Yeah, thanks so much. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Thank you very much. Next question, 
+please. 
+
+Operator 
+
+We'll go next to Daniel Berenbaum with Auriga USA. 
+
+<Q - Daniel Berenbaum>: Yeah, hi, guys. Thanks for taking the question. Just to come back to lead times again, to 
+focus on the near term. I was a little bit confused by the commentary. And so could you just go over – you had said I 
+think that lead times are now anywhere between 24 and eight weeks, but that pretty much everything is going to 
+normalize to eight weeks or less by the end of this quarter or the beginning of next quarter. Did I understand that 
+correctly? 
+
+<A - Ronald J. Pasek, Senior Vice President, Finance and Chief Financial Officer>: So a couple clarifications. 
+What we said on 40 and 65 is, they won't get to regular standard lead times until sometime early next year. Pretty much 
+everything else, by the end of this quarter, will get to a fairly normal lead time. 
+
+<Q - Daniel Berenbaum>: And where are lead times now? In other words, I guess my question really is, how much 
+are lead times compressing over the space of one quarter? It seems like lead times are coming in a lot, and I'm just sort 
+of trying to wonder what's behind that. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Lead times range right now between two 
+to about 26 weeks. It depends on the product and the process node. Hard to describe at this point what proportion is in 
+those different buckets or different ends. 
+
+And what's causing our lead times to finally catch up is we've obviously grown very quickly this year, and have been 
+constrained with foundry supply and are, over time, catching up. 
+
+<Q - Daniel Berenbaum>: Okay. And then along those lines, when you think about – and you talked about inventory, 
+I mean do you think about having an inventory build, or how big an inventory build on a dollars basis do you think 
+you'll see next quarter? 
+
+<A - Ronald J. Pasek, Senior Vice President, Finance and Chief Financial Officer>: So what I gave was low to 
+mid 3s, so some slight build, but I wouldn't call that significant by any means. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Historically we have operated, and this is 
+for many, many years now, with between distributors and ourselves, a total of between 3 to 4 months supply on hand. 
+And so operating in the 3.5 or lower is right, or slightly thin, in our belief. So we're just, I think, kind of getting back 
+closer to where our normal inventory profile would be for the business we have. 
+
+<Q - Daniel Berenbaum>: Okay. Great. Thanks very much. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Thank you very much. Next question, 
+please. 
+
+
+Operator 
+
+We'll go next to Apurva Patel with Ticonderoga Securities. 
+
+<Q - Apurva Patel>: Thanks. This is a first question is for Ron. Ron, you explained, from 2Q to 3Q, in terms of gross 
+margin delta, but outside of the telecom wireless market, were there any business that still has some kind of a margin 
+pressure? 
+
+<A - Ronald J. Pasek, Senior Vice President, Finance and Chief Financial Officer>: No, I couldn't attribute it to a 
+specific vertical, but when we look at some of our largest customers, it looked like our largest customers had a some – a 
+very large quarter. So that's why I phrased it. Certainly it was some vertical mix with respect to comms, which we had 
+thought – we knew would happen, and then outside of that, some of the degradation was just some of our other large 
+non-communication customers. 
+
+<Q - Apurva Patel>: Great. And this question is for you, Ron – John. Sorry about that. When it comes to 
+software-defined radios, what type opportunity do you see, whether it's in military or communication? And if it is, can 
+you quantify that? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: I'm sorry, what was the question about? 
+Software-defined radios? 
+
+<Q - Apurva Patel>: When you look at software-defined radios, and 
+
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Yeah. 
+
+<Q - Apurva Patel>: – you hear some equipment suppliers that that's going to be – that could be a potentially a big 
+market, it depends who you talk to. Whether it's in military or communication, could you quantify how big that market 
+could be? Meaning that, how – what would be the content increase of PLDs? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Well, so, I mean the radios really, for the 
+most part, before the newer roadmap of going to software-defined, were really made up of microprocessors, ASICs and 
+DSPs. And depending on the radio, would depend on the mix of the components. And what the intention was is 
+obviously contain the encryption algorithm specifically implemented in an ASIC. 
+
+The move has been toward software-defined radios, so that the encryption algorithms can be changed or updated. What 
+happened – and this really came from the first Gulf War, where the U.S. had difficulty communicating between 
+military branches and with their allies, because everybody had different radio equipment operating off of different 
+standards. 
+
+So by moving to a software-defined radio, you can update, or upgrade any radio obviously, to – in case equipment is 
+captured by your enemy, or in order to be able to integrate and talk to different allies. 
+
+It's a newer market in military, it's also a market in government, and it will be a market in emergency as well. It is a 
+market that we've done extremely well in, because we've had lower-power SPGAs. It is one of the strong growth areas 
+that we've had in military over, say, the last year and a half. But a lot of this has yet to reach its peaks, so we would 
+hope we would continue to see growth. 
+
+I cannot quantify today exactly a revenue figure or a market size to this, simply because I don't have the statistics. 
+There's a lot of data here, and we could try to provide that, just from third parties, if you're interested. 
+
+<Q - Apurva Patel>: Thanks. That would be great. 
+
+<A - Scott Wylie, Vice President, Investor Relations>: Operator, we have time for one more question, please. 
+
+Operator 
+
+
+We'll go next to David Wong with Wells Fargo. 
+
+<Q - David Wong>: Thanks very much. Can you tell me what percentage of your revenues are HardCopy today? And 
+are there any segments or end markets that are particularly [inaudible] out for HardCopy? 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: David, this is John Daane again. 
+HardCopy is a few percent of revenues today. We are seeing, with HardCopy in III and IV, a lot of success in particular 
+in the communications field, and do expect that those products are going to go through some very strong growth 
+actually next year. And that should get that product growing again as a percentage of revenues next year, to something 
+back closer to about 5% I would guess, but we'll have to see. 
+
+<Q - David Wong>: Great. Thanks. 
+
+<A - John P. Daane, President, Chief Executive Officer, and Chairman>: Thank you very much. 
+
+Scott Wylie, Vice President, Investor Relations 
+
+Yeah, and as we wrap up today, a reminder. On November 29th, we will issue via press release our fourth quarter 
+update and 2011 guidance, followed by a conference call. We will remind you as we get closer to the date, but hold that 
+time on your calendars if you're interested in those topics. 
+
+As to conferences this quarter, on December 7th, we will present at the NASDAQ Investor Program in London. 
+
+This concludes Altera's earnings conference call. Thanks for your interest and your participation. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2010, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

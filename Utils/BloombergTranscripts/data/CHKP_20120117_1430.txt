@@ -1,0 +1,771 @@
+Q4 2011 Earnings Call 
+
+
+Company Participants 
+
+• Kip E. Meintzer 
+• Tal Payne 
+• Gil Shwed 
+Other Participants 
+
+• Shaul Eyal 
+• Brad A. Zelnick 
+• Daniel Harlan Ives 
+• Philip A. Winslow 
+• Tal Liani 
+• Shebly Seyrafi 
+• Gregg Steven Moskowitz 
+• Brent Thill 
+• Walter H. Pritchard 
+• Aaron M. Schwartz 
+• Jonathan Ho 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Greetings and welcome to the Check Point Software 2011 Fourth Quarter and Full Year Financial Results Conference 
+Call. At this time, all participants are in a listen-only mode. A brief question-and-answer session will follow the formal 
+presentation. [Operator Instructions] As a reminder, this conference is being recorded. 
+
+It is now my pleasure to introduce your host, Mr. Kip Meintzer, Head of Global Investor Relations for Check Point 
+Software Technologies. Thank you, Mr. Meintzer, you may begin. 
+
+Kip E. Meintzer 
+
+Thank you. Good morning to all of you. I'd like to thank all of you for joining us today. On the call with me are Gil 
+Shwed, Founder, Chairman and CEO, along with our Chief Financial Officer, Tal Payne. 
+
+As a reminder, this call is being webcast live on our website and is being recorded for replay. To access the live 
+webcast and replay information, please visit the company's website at checkpoint.com. For your convenience, the 
+conference call replay will be available through January 26. If you'd like to reach us after the call, please contact 
+Investor Relations by emailing kip@checkpoint.com or by phone at 650-628-2040. 
+
+Now, before we begin with management's presentation, I'd like to highlight the following items. 
+
+During the course of this call, Check Point representatives will make certain forward-looking statements. These 
+forward-looking statements may include our expectations regarding demand for our security products, our expectations 
+regarding the introduction of new products and programs and the success of those products and programs, our 
+
+
+expectations regarding our business and financial outlook for the first quarter and full-year 2012. 
+
+Other statements, which may be made in response to questions, which refer to our beliefs, plans, expectations or 
+intentions are also forward-looking statements for the purposes of the Safe Harbor provided by Section 27-A of the 
+Securities Act of 1933 and Section 21-E of the Securities Exchange Act of 1934. Because these statements pertain to 
+certain future events, they are to subject to various risks and uncertainties and actual results could differ materially 
+from Check Point's current expectations and beliefs. 
+
+Factors that could cause or contribute to such differences include, but are not limited to the risks discussed in Check 
+Point's latest Annual Report on Form 20-F. As a reminder, these forward-looking statements are based on information 
+available to Check Point as of today and Check Point assumes no obligation to update its forward-looking statements. 
+
+In our press release, which has been posted on our website, we present GAAP and non-GAAP results, along with 
+reconciliation tables, which highlight this data as well as the reasons for our presentation of non-GAAP information. 
+
+Now, it's my pleasure, I'd like to turn the call over to Check Point's Chief Financial Officer, Tal Payne, for a review of 
+financial results. 
+
+Tal Payne 
+
+Thank you, Kip. Good morning and good afternoon to everyone joining us on the call today. I'm happy once again to 
+begin the review of a great quarter and what turned out to be an excellent year for Check Point. This quarter, we posted 
+all-time record results across our key metrics. Our revenues for the fourth quarter increased by 12% and were towards 
+the high end of our projection. Non-GAAP EPS was $0.84, representing 15% growth year-over-year and $0.02 above 
+the top end of our guidance. 
+
+Before I proceed further into the numbers, let me remind you that our fourth-quarter and full-year 2011 GAAP 
+financial results include non-cash equity-based compensation charges, amortization of acquired intangible assets and 
+other acquisition-related costs and the related tax effects. Keep in mind that non-GAAP information is presented 
+excluding those items. 
+
+Now, let's take a look at the financial highlights for the quarter. In the fourth quarter, our revenues reached $356.8 
+million, represented an increase of 12% compared to $318.5 million in the fourth quarter of last year. This growth was 
+driven by all our business elements, more products, a large increase in software blades and growth in premium support 
+services. 
+
+Product and license revenues were $158.2 million, representing an 11% increase over the same period last year. 
+
+Over the last few months, we have launched our new appliance lines. It was received with great enthusiasm in the 
+market with the new data center product, the 61000 and 21400, providing significant contribution. 
+
+Our software update, maintenance and subscription revenues reached an all-time high of $198.5 million this quarter, a 
+13% increase year-over-year. Subscription revenues were mainly driven by our annuity software blades that are 
+becoming a significant part of both revenues and deferred revenues. 
+
+Overall, deferred revenues, as of December 31, 2011, were $552.2 million, an increase of $88 million or 19% over 
+December 31, 2010. Short-term deferred revenues increased by 16%, higher than seasonally expected. The increase in 
+deferred revenues is attributed to strong booking of premium support and our annuity software blades. 
+
+As we mentioned in the past, since we launched the software blade architecture, our product offering includes many 
+annuity blades bundled with majority of our network security gateways. In terms of revenue allocation, we extract from 
+our product revenues the fair value attributed to those blades, defer it as part of the deferred revenues, and recognize it 
+over the length of the subscription, typically a year. 
+
+
+Naturally the more annuity blades we bundle into our products, the more we will see product revenue shift into 
+subscription revenues. Given the nice renewal rates we have seen so far, this is a positive evolution of our business 
+model as more revenue is becoming recurring. 
+
+Revenue distribution by geography for the quarter was as follows. Americas contributed 44% of revenues, Europe with 
+40%, and Asia Pacific and Japan, Middle East, and African region contributed the remaining 16%. From a deal size and 
+quantity perspective, this quarter we saw an increasing number of larger deals. Transactions greater than $50,000, 
+stabilize and accounted for 65% of total order value compared to 64% in the same period a year ago. 
+
+We had 49 customers that each had transactions with a value greater than $1 million compared to 44 in the same period 
+last year. From an operating perspective, we posted great results. Our non-GAAP operating income was $213.7 million, 
+an increase of 16% compared to the same period in 2010. Non-GAAP operating margin for the quarter was the highest 
+in the last six years and reached 60%, an increase of two points compared to the same period last year. 
+
+As you know, the fourth-quarter margins are typically the highest of the year. GAAP net income for the fourth quarter 
+of 2011 was $160 million or $0.75 per diluted share, up from $137.4 million or $0.64 per diluted share in the same 
+period a year ago, representing a year-over-year increase of 17%. Non-GAAP net income for the quarter was $178.1 
+million or $0.84 per diluted share, up from $156 million or $0.73 per diluted share in the same period a year ago. 
+Non-GAAP earning per share exceeded the high end of our guidance in $0.02, representing 15% growth 
+year-over-year. 
+
+Our cash balances reached $2,879 million at the end of the quarter. This quarter we generated $173 million from 
+operating cash flow. Our DSO, days sales outstanding were 71 days compared to 66 days a year ago. The increase is 
+first and foremost a reflection of the strong Q4 booking, which was also back-end loaded. An exceptional number of 
+large deals which tend to close at the end of the quarter, contributed to the strong quarter but also the increase in DSO. 
+During the quarter we purchased approximately 1.32 million shares for a total cost of $75 million as planned. 
+
+Now let's take a look at our 2011 full year highlights. For the year ended December 31, 2011, revenues were $1.25 
+billion, an increase of 14% compared to $1.1 billion a year ago. Non-GAAP net income was $613.6 million, an 
+increase of 16% compared to $528 million in 2010. Non-GAAP EPS for 2011 was $2.87, an increase of 16% compared 
+to $2.48 in 2010. 
+
+On the operating side, we achieved non-GAAP operating margin of 58% for the year, up from 57% in 2010 and 55% in 
+2009. That was as a result of our focus on efficiency and productivity but driven mainly by the higher revenues we 
+achieved for the year. For the year, the cash flow from operation has reached a record $715 million. 
+
+Now, let's turn the call to Gil for his thoughts on the fourth quarter and the year. 
+
+Gil Shwed 
+
+Thank you, Tal. And thank you everyone for joining us on the call today. I'm very glad to summarize the great quarter 
+and an excellent year. We just closed our best quarter and our best year ever. From a financial perspective, you can see 
+that we over achieved our projections for the year and have been over or towards the top end of our guidance every 
+quarter, which is a direct result of superior execution by our team and share gains in the marketplace. But beyond the 
+financial results, we've also made a lot of progress this year. 
+
+We've seen a strong momentum in our annuity software blades business, which has allowed us to increase the 
+effectiveness of our customers' network security by enabling them to further consolidate their security infrastructure. 
+Our IPS software blade is now the most popular IPS system in the marketplace. Our DLP now boast an installed base 
+of almost 1,000 systems. New blades like our Application Controls have been well received by customers while also 
+contributing to our product leadership. The outcome of that is not just better security for our customers, but also a very 
+nice contribution to our financial results. 
+
+
+Revenues from software blades are now approaching 10% of our revenues. This continues to be a positive and now 
+significant evolution of our business model. Keep in mind that it is also slightly changes the timing of our revenue 
+recognition, as more revenues is deferred from this quarter to future quarter and from the products revenue line to the 
+services line. 
+
+The Software Blade Model has also allowed us to continue and innovate and drive more and more functions to many 
+customers. Last quarter, we introduced an industry first Anti-Bot Software Blade, which will help combat the growing 
+rates of computer Bots. Computer Bots are software agents that conceal themselves inside computer and net – 
+computers and networks and are the key components of the most sophisticated attacks in recent years. The Anti-Bot 
+Blade is expected to be shipped in the first half of 2012. 
+
+Another contributor to our success are our security appliances. By integrating the software blade architecture with 
+strong and flexible hardware appliances, we're able to able to give customers an even more consolidated solution. 
+
+In Q3, we entered an additional segment of appliances, the super datacenter with over 1 Terabit [ph] rated (12:18) 
+61000 system that was introduced in August. It's approximately 10 times faster and with an average selling price, 
+which is five times higher than any system we produced before. In the fourth quarter, our sales of these systems 
+surpassed our expectation and it looks like this success is continuing into the first quarter. 
+
+Finally, in the fourth quarter, we've renewed almost our entire appliance product line with seven new models which 
+boasts three times more performance for a similar price point. Introducing such as broad set of new products with 
+impact revenue in one quarter is a very significant step that carries many risks in it. I am glad to report that it was very 
+successful. 
+
+Since its launch, over 60% of our enterprise appliances revenue already came from these new models. In both the 
+high-end and low-end, we encountered tremendous success in the low to mid-range of our appliances. We've seen over 
+50% growth in units compared to the previous fourth quarter. And in the high-end, it looks like we are winning even 
+more projects and gaining share. 
+
+Finally, more and more customers choose to buy our premium supports packages, which together with the annuity 
+software blades help drive our deferred revenues. 
+
+Geographically, the Americas and Asia and Middle East drove the growth, where Europe had a good year and a great 
+fourth quarter despite the macro-economic challenges for some European countries. 
+
+This brings me to the financial outlook. As you know, which is always hard to predict the future, while there are many 
+factors that weigh in on a strong outlook, especially the heightened level of cyber security, our new products and our 
+recent market share gains. There are also many factors in our world economy that would warrant a more conservative 
+approach. As always, we took a realistic approach that has risks in it as well as potential upside. 
+
+For the entire 2012, we expect revenues in the range of $1.345 billion to $1.395 billion. Earnings per share are expected 
+to be in the range of $3.10 to $3.20 per share. For the first quarter, we expect revenues in the range of $305 million to 
+$315 million and EPS in the range of $0.69 to $0.73. GAAP EPS is expected to be $0.08 less for quarter and $0.30 less 
+for the year. 
+
+Once again, I'd like to thank you for being on the call with us today. We are excited as we enter into the New Year. 
+With that, we can open the call for your questions. 
+
+Q&A 
+
+Operator 
+
+Thank you. We will now be conducting a question-and-answer session. [Operator Instructions] Thank you. Our first 
+question is coming from Eyal Shaul (sic) [Shaul Eyal] (15:32) of Oppenheimer & Company. 
+
+
+<Q - Shaul Eyal>: Thank you, operator. Good afternoon, guys. Good quarter, good year. Gil, on the 61000 and 21400 
+and you kind of – you indicated on the press release and also kind of in your prepared remarks that business is 
+absolutely fine. Can you help us out, maybe you and Tal, with some more, kind of, quantitative data, if you can do that 
+with us or if not at least qualitative? 
+
+<A - Gil Shwed>: On a qualitative basis, as I said, I mean we had the more sales than anticipated. In the 61000, we 
+actually had a pressure that we have more orders than the systems we can ship and, as I said, it's even continuing into 
+the first quarter, which is a very good phenomena. It's early. I mean, usually in the first quarter, we can't say much 
+about each product line, but on the 61000, we already know that we have a nice – some nice wins and some nice 
+pipeline still coming in. 
+
+And so – and that's, by the way, a set of products that the 61000, keep in mind, it's a very small number of units and it's 
+very small number of deals, but the nice thing, as I said, these are very large deals and have nice revenue contribution. 
+Right now, within, I mean we still count it in millions of dollars and not tens of millions, but I think soon, within a 
+quarter or two, we will start counting it in two digits and not in one. Let's put it that way. 
+
+<Q - Shaul Eyal>: Got it. Any specific kind of verticals doing better with respect to those, kind of, two appliances? 
+
+<A - Gil Shwed>: Actually that's kind of interesting. We were expecting a lot of sales in the telco sector. And we have 
+a very large pipeline in the telco center – in the telco sector, but our first deals were in very value sectors, I mean in 
+retail, in healthcare, in professional services, insurance, so I mean, it's actually financials too. So I mean actually the 
+first sets of products, [ph] they were (17:49) actually very encouraging, so that this is not a niche product for just, say, 
+telcos or just, say, certain kind of customers, but high-end customers at many different sectors needs that product. And 
+that's actually was a surprise for us. 
+
+<Q - Shaul Eyal>: Got it. Tal, any foreign exchange tailwind with this quarter? 
+
+<A - Tal Payne>: Yes, a small one, but bear in mind, we are usually hedging in the beginning of the year. So, the 
+effect is only on the portion that is not hedged. I with say probably between $1 million to $2 million, which is $0.005 or 
+so. 
+
+<Q - Shaul Eyal>: Got it. Thank you very much and good luck. 
+
+<A - Tal Payne>: Thanks. 
+
+Operator 
+
+Thank you. Our next question is coming from the Brad Zelnick of Macquarie. 
+
+<Q - Brad A. Zelnick>: Thank you and congratulations on a great quarter, especially as we look at billings growth, 
+which well exceeded our estimates and where I think the Street was. But as we look out for this year and the guidance 
+that you've given us, Gil, can you give us a sense – the business is making this transition, annuity blades are doing 
+really well, you're deferred revenue is growing really nicely. Can you give us a sense of what deferral rates you're 
+assuming in the business and how that plays out over the year as we put our models together? 
+
+<A - Gil Shwed>: I can't say from the top of my head. As I said, I think, we're seeing a lot of healthy trends, but we are 
+also seeing a lot of challenges in the macro-economy in certain countries. Actually, if you look around the world, while 
+I think – again, we are doing well and the world is doing okay, I can't think about too many economies that are 
+exploding or showing a very, very high growth in the economies themselves. So I don't want to push that. I think, if 
+you look at our projection for the year, in general, we are kind of the same projection that we gave a year ago, and I 
+really want to be realistic on that. I mean there may be an upside to that, but there also may be a low side to that, so I 
+don't want anybody to expect that we will repeat the same result every year. We will do our best to produce the best 
+results as always, but I think we're very, very realistic around that. 
+
+
+I think overall the software blades has done really well, I mean we've talked about it in previous calls, and as I said 
+there's two trends on the annuity line, one is more and more customer choosing our premium support packages, which 
+increases the average price per customer, and the second one is the annuity blades that are coming both from bundled 
+and unbundled software blades, which are growing very, very fast and I hope again – I hope it will continue to grow 
+fast in 2012. 
+
+<Q - Brad A. Zelnick>: Thanks, Gil. And, Tal, can you maybe just give us an appreciation across the mix of new 
+product sales in Q4 for example versus Q4 last year, what is that deferral rate, because the collection of annuity blade 
+that ships across the products versus what it was a year ago, I would imagine has some impact on the way that revenue 
+is recognized. Can you, maybe, speak to that a little bit? 
+
+<A - Tal Payne>: Sure. I think the first indication is that if you look at our deferred revenue, typically deferred 
+revenues, if you look at last year deferred revenues increased, if I recall, 9% and the short-term increasing 10%. If you 
+look at this year, the short-term increasing 16% and the total including the long-term increasing 19%. So, you can see 
+there is a very significant growth in deferred revenues. And there is two reasons for that. One, we do have a growth 
+also in the regular update and maintenance as many customers moved to premium, which is great, but software blades 
+[ph] on their own (21:34) increased significantly as well and as the growth in the software blade is significantly faster 
+in terms of bookings than the growth that you have in the update and maintenance, then its portion out of the deferred is 
+increasing. So, say its portion, it's probably much more than doubled in the deferred revenues, but is still not a 20%, it's 
+probably around 10% or so. 
+
+<Q - Brad A. Zelnick>: Also, my last comment, as we've been now looking at you more recently on a billings basis 
+and on that – those metrics, your performance has been great. Would you agree that that's a fair way to measure your 
+performance and it's consistent with the way that you manage the business? 
+
+<A - Tal Payne>: I think you need to look at the consolidation of the parameters. You need to look at the total 
+revenues as there is a shift between product to services and it depends how we introduce new products, so it can go 
+either way; right now it's going into the services. So I'll say, look at the total revenues and to have the complementary 
+picture, look also at the deferred – at the deferred, so that's, I will say, the top two metrics to look at together. 
+
+<Q - Brad A. Zelnick>: Thank you very much. 
+
+Operator 
+
+Thank you. Our next question is coming from Daniel Ives of FBR Capital Markets. 
+
+<Q - Daniel Harlan Ives>: Yeah. Good quarter. Gil, could you just talk about, just in terms of anything that you saw 
+in the field that surprise you one way or another, in terms of the U.S. geographically vertically, and going through 
+customers? 
+
+<A - Gil Shwed>: I don't know if there are many surprises, I think mainly continuous of many trends. So for example, 
+in the U.S., we had very strong year, very strong fourth quarter, but it's like I think the third year in a row that the U.S. 
+economy, at least in our business, is doing quite well and driving growth. And that's what's wonderful to see the – such 
+a large region and such a large country showing a very healthy growth rate. As I said, in our high-end system, I was 
+very pleasantly surprised to see the customer mix that has come really from all sectors and all different areas, not just 
+focusing on the traditional. Sometimes you expect high-end products to be in telco and financial, and we've actually 
+seen that our high-end products went into all the different sectors which is a great sign to see. Beyond that, I think, 
+we've seen healthy results in many places. In Europe, I would say that many, many regions and countries look quite 
+nicely. Actually the strongest and the largest economies in Europe performed really well in the last quarter. So that was 
+very nice to see. And nothing much and – I think I can say beyond that. 
+
+<Q - Daniel Harlan Ives>: Okay. And just last question. The last few years you've exceeded the high end of guidance 
+by a nice margin. Just – I mean obviously not – I'm not saying one year is going to have a bearing on another. But just, 
+did you take the same approach to this year's guidance as you have the last few years just in regards to macro, 
+
+
+obviously the product shift factors in, but just to understand, it's the same quantitative approach? 
+
+<A - Gil Shwed>: I think, we are using the same methodologies to give our estimates, but I would absolutely say you'll 
+have to trust us on that. We are very, very realistic in what we give. We don't keep a – kind of something in our back 
+pocket, we don't try to downplay the numbers in order to reach them. We're really, really giving a very, very realistic 
+approach, which we believe in, which is based on what our field is telling us and so on. 
+
+And so, I definitely think that if I look at the challenges in securities – in security that the world has, that we have 
+upside. But if I look at the economy and if I look at also many, many other internal parameters, there is also that makes 
+the assumption realistic so I won't push anyone to think that we're trying to drive down guidance in order to beat it. And 
+again, I hope that we will keep the same trend, that we've done in the last few years of beating our estimates, but there 
+is absolutely not only that there is no guarantee to that, it's not easy and our salespeople and our developers are working 
+very, very hard every quarter to make that happen. So we're not downplaying anything. 
+
+<Q - Daniel Harlan Ives>: Thanks again. 
+
+Operator 
+
+Thank you. Our next question is coming from Phil Winslow of Credit Suisse. 
+
+<Q - Philip A. Winslow>: Hi, thanks, guys, another great quarter. Clearly based on just deferred revenue upside that 
+you showed as well as the commentary on just large deal bookings, it seems like you guys are saying sort of a 
+meaningful uptick over the past couple of quarters and your blade adoption. Gil, just wondering if you could provide us 
+a little bit more detail in sort of which blades you're seeing the most interest from customers and then if there is any sort 
+of difference between sort of the large organizations versus more mid-sized? And then also just finally from a 
+competitive standpoint, I mean, who do you see yourselves going up against? I mean, a lot of new people are trying to 
+enter in the firewall market from IDS of the networking world and then you have some traditional firewalling players, 
+but when you look at sort of the next-generation firewall space, who do you see yourselves going up against and why 
+are you guys wanting these deals? Thanks. 
+
+<A - Gil Shwed>: And – so first the two blades that drives a lot of our blade business – I mean, all the blades have 
+good contribution and nice growth. The two biggest one, our IPS and our Application Control. The Application Control 
+it's only the first year, but it's a very good first year. And the IPS, it's the second year and continuing the trend that we 
+started before that with previous technologies and its wonderful results with the new IPS blade. So these are the two 
+biggest one. As I've indicated also DLPR is nice and URL filtering and I mean we have more potential here and we can 
+do more in new sub-segments of the security space with the blade. 
+
+And where are we competing? I think, we are competing with the same big vendors that's been before the networking 
+companies, Cisco, Juniper. And there is midsize – several midsized companies in our marketplace, and they are still 
+there. And I don't see much, I mean, the discussion about IDS companies getting into our space, I don't see that. I mean, 
+it's not a – I mean, the [ph] threat (28:09) – the competitors in our marketplace are the core players of the market. It's 
+not some announcement or at least we haven't seen that, I mean, I don't want to discount anyone. But we haven't seen 
+companies from outside our market enter that. 
+
+And yes there are some small emerging companies that are doing quite well, and I think we win very well against them 
+with products that work better, with much better management with much higher level of security. I think we've seen 
+that in a lot of competitive bake-offs and in some very, very large customers that shows that somehow, they like the 
+message of a new thing, a new approach, but then [ph] when it (28:50) came down to lab tests and with sending 
+sophisticated attacks, I think we've seen that many customers have chose us. So, we're – some even switched back to us 
+in some cases. So, these are some of the key elements that we have in the marketplace today. 
+
+<A - Tal Payne>: Maybe I'll just add that, in each blade you can compete with different players, but when you 
+complete on the total consolidated platform, that naturally narrows significantly the number of players that compete. 
+
+
+<Q - Philip A. Winslow>: Great. Thanks, guys. 
+
+Operator 
+
+Thank you. Our next question is coming from Tal Liani of Bank of America Merrill Lynch. 
+
+<Q - Tal Liani>: Hi, guys 
+
+Just I have three questions, but the first one is a housekeeping question. Your tax rate was above what you said before 
+and your R&D expense in dollars went down sequentially as well as year-over-year. If you can discuss these two for 
+the next year and for the next few years and especially the R&D expense, wouldn't you expect that when revenues are 
+not recognized and are being deferred, the R&D expense as a percentage of sales will actually go up? 
+
+<A - Tal Payne>: Yeah, I would take – I would just say, now it's not working exactly as an excel file in reality in the 
+sense that percentage can change each quarter, it's a live business. Taxes are actually completely in line with what I say 
+every quarter, I would say if they are on 20%, 21% and it can go down 1%, it can go on 1%. This quarter it was 21%, 
+which I think it was in line also with the Q3 and most of the other quarters. So between 20% and 21%, it's in line with 
+our plan. And, again, I would say, again, it can go up 1%, it can go down 1% in general. 
+
+In terms of the R&D expenses, it's affected by a few factors, on the one hand, the number of people, on the other hand, 
+the average salary and what happens with the dollars since – as the dollar getting stronger and significant part of R&D 
+people are in Israel, it reduces the cost of the R&D in our report and it's not to linked necessarily to a percentage of our 
+revenues. Also bear in mind that if our revenue is growing more than we planned, then it's – many times, as we've seen 
+in the last two years, allows an expansion of the margin, although it's not our plan and not what we aimed for. 
+
+Operating margin, you can see this quarter moved up to 60%. It's typical that in Q4, the margin will be significantly 
+higher, exactly because your expense level is very similar to previous quarters, but the revenues are increasing 
+significantly. So, typically... 
+
+<A - Gil Shwed>: Maybe I'll simplify it a little bit at least in the R&D. The R&D is mainly fixed expense based on the 
+head count and again the dollar rate. And we did expand the head count in the R&D. So we actually had more people 
+developing our product at the end of 2011 than we had in 2010. And, I think, what limits us, right now, is not the 
+margin or sales growth, it's the ability to find really, really excellent people. Right now, we have a very strong focus on 
+large recruiting of top talent and that's a major focus for 2012. 
+
+I think, the major financial impact of that will actually be in 2013, because if we recruit people in 2012, most of their 
+spend and the expense on that will have an effect whether they'll work for a full-year in the company 2013. And we'd 
+like to hire now as many good people as we can, because that drives better products and at the end, in the long-end, it 
+drives more revenues from better products. So... 
+
+<A - Tal Payne>: And just to translate that in terms of your projections going forward, as we say many times, we are 
+not aiming to expand the margins. So you can see also in our guidance, it assumes very similar margins to the average 
+you have seen in 2010 and '11 and you can see it in the EPS ratio versus the revenue. 
+
+<Q - Tal Liani>: Thank you. You spoke a lot about premium services on the call and as a prime reason for the growth 
+in deferred revenues. Can you discuss what is the premium versus "regular service" and then, what's the rationale, 
+what's the reason for customers to upgrade to premium versus regular? And if you have any percentage, like for 
+example, what's the percentage of customers that are taking premium versus what's the percentage of customers that are 
+taking regular? 
+
+<A - Gil Shwed>: I don't have the numbers over the percentage of customers, but I'll explain the differences between 
+the services. Premium services are general services like 7x24 support instead of a regular business hours. With the new 
+appliances, where it's even more value in premium services, things like onsite support, accelerated delivery of the 
+replacement products and things like that that are producing additional revenues from services. Some of them come 
+with a little bit more cost on our end, some of them come with a lot of cost on our end like onsite support and things 
+
+
+like that. 
+
+And I think that customers – I think the reason for that is I think is a product mission critically in many places. I think 
+of taking a little bit more support direct and I think overall it's with customers seeing value in that support. If we see 
+that we get – that we don't get – that we get the good service and they need that good service. And that's one of the 
+factors in the deferred revenues, it's not primary reason, I mean, it's [ph] very big there, (34:41) software blade is bigger 
+than this, whereas other factors too that's helped it, but that's clearly a nice shift, which we've seen this year and we are 
+very, very happy with it. 
+
+<Q - Tal Liani>: Gil, just last question about something you said before about competition, the new datacenter 
+product, do you see the same competition that you've seen before with a traditional lines of products or do you face 
+now new types of products or new types of competitors? 
+
+<A - Gil Shwed>: Not new types of competitors, it's a – not all the competitors in our marketplace have the solutions 
+in that category. I would say that two of them did and I think we are competing now very, very well against them. And 
+before we just were very – our [indiscernible] (35:32) market segment was small, not – so, I think, that's why we are 
+calling it an extended market segment. I mean, we were in the market, we're in the network security and so on and just 
+that when a customer wanted a multiblade, a multiple hundred of gigabit solution, we had to work mainly with partners, 
+now we can really drive the security level and the performance level. And, again, that's a very nice market segment, 
+which – where we know the customers. The customers are our customers and they are very, very happy to stay with us 
+across the product line. 
+
+<Q - Tal Liani>: Excellent. Thank you. 
+
+Operator 
+
+Thank you. Our next question is coming from Shebly Seyrafi of FBN Securities. 
+
+<Q - Shebly Seyrafi>: Yeah. So, thank you very much. So, can you talk about whether the company is ending support 
+for the Nokia Appliances this year and whether this could drive an upgrade cycle better than expected this year and 
+next? 
+
+<A - Gil Shwed>: We are not ending support for any product and we actually, I think, our customers want and we'll 
+give them a lot of longevity in terms of supporting the product. We're also not ending the sales of these products. And, 
+again, we'll have a long sale cycle. What we do see that for the first time and maybe that's one of the things you are 
+hinting through is that we have a new operating system that is not released yet that will give the customers the same 
+experience as they had with the IP Series, the previous Nokia Appliances from the general Check Point appliances. 
+
+And now with the newer series of appliances, which will be unified, we'll combine all the good elements of previous IP 
+Series of the previous Check Point appliances, three times more performance, which means much better price 
+performance. And with a backward and forward compatibility for operating in a lot of new features, I think that 2012 
+will be the real year of – of the start of the change, start of a major change of the IP Series loyal customers shifting to 
+the mainstream Check Point appliances and I think that will definitely make us even more competitive that we were 
+before in that. 
+
+<Q - Shebly Seyrafi>: So this DoS, is this coming out in the first half of the year and how big a deal was it in your 
+opinion? 
+
+<A - Gil Shwed>: I think, customers are really expecting the new operating system and there's a lot of buzz from 
+customers that they want it. It's, I think, supposed to go out in the first half of the year, even though an operating system 
+is something very, very complicated with a lot of impact. So it can come early, it can come later and so on, and also 
+don't expect the shift be an overnight shift. I expect the shift would take between a year and two years, but still, I think, 
+when we went into the IP business, we thought that customers will very quickly shift from the old model to the new 
+model. We've actually been very pleasantly surprised how loyal customers are to the IP Series appliances and how long 
+
+
+we stayed with them and how strong was the revenue stream that we generated for these appliances. 
+
+I think the last quarter and the next two, three quarters are marking the beginning of the change and again, it's a very, 
+very positive change. It means it will have more unified product line, a more unified R&D operation, a better operation, 
+of course, and so on. So, I mean it's a very – and much better for the customers that will have a single platform from 
+Check Point and not two platforms from Check Point. So, I think, the change is starting right now and it will take 
+between a year or two. 
+
+<Q - Shebly Seyrafi>: Okay. And last one from me, if I can. Two of your fast, faster growing competitors are Palo 
+Alto Networks and Fortinet. Can you talk about how are your win rates have improved versus these guys since your 
+early October announcements of 61000 and 21400? Thank you. 
+
+<A - Gil Shwed>: I don't know unless we track the win rates, but I think we feel very, very good about that. I think, 
+there are both good companies and they have produced, at least from what we can see, very strong results, say, in 
+recent years. But I think we are very confident about our ability to compete. I think our win rate is actually increasing. 
+It's not just the result of the 61000 System, it's the entire product range. It's the new appliances that are faster, it's the 
+application control, it's the Anti-Bot Software Blade that's coming to market, it's the overall integrated architecture, it's 
+the total management and I think the maturity that our product tells us that makes us a very big – I mean, it makes our 
+customers very loyal to us and make new customers weigh in Check Point more that we've done before. And I think so 
+far it's working quite well. 
+
+Operator 
+
+Thank you. Our next question is coming from Gregg Moskowitz of Cowen. 
+
+<Q - Gregg Steven Moskowitz>: Hey, thanks. Hi, guys. I had a question on your guidance for 10% revenue growth 
+this year at the midpoint. You've spoken often about the increasing shift to the balance sheet from software blades. I 
+know you don't provide explicit product revenue guidance, but can you give us a sense of how you expect product 
+revenues to perform this year relative to your total revenue growth? 
+
+<A - Tal Payne>: You know where the previous question regarding what you should follow and that's why I said, look 
+at the total growth of revenues exactly because there can be shift. Naturally, according to the situation as of today, 
+lower growth in product, higher growth in service as you've seen in 2010, so – in 2011, which is the same phenomenon. 
+So, I would assume less in product, more in services in general. 
+
+<Q - Gregg Steven Moskowitz>: Okay then, Tal, just a follow-up, I know a couple of quarters ago, you were targeting 
+150 million in bookings from blade in 2011. From what we could tell you were tracking a fair amount above that. 
+We're just wondering how the year ended up in terms of the total contribution from blades? 
+
+<A - Gil Shwed>: I think we've reached what we've estimated, we've stopped that. I think we're at the run rate what's 
+even higher than that and I think we're very happy with that, again better than what I anticipated a year ago or more 
+than we've cited at software blades business. 
+
+<Q - Gregg Steven Moskowitz>: Okay. Thank you. 
+
+Operator 
+
+Thank you. Our next question is coming from Brent Thill of UBS. 
+
+<Q - Brent Thill>: Thanks. Gil, just on the cash position. Clearly, you've been building for quite some time and now 
+you're approaching $3 billion. Can you give us your view on '12, on your thoughts and capital allocation between the 
+dividend, potential dividend, buyback and M&A? 
+
+
+<A - Gil Shwed>: Right now there's no change. We had a policy that has approximately $300 million in buyback 
+program per year and that was based on the loss of shareholder feedback, which we've got. I think, almost every board 
+meeting, we're reviewing that and based on the feedback that we get and based on our capital, we decide what to do 
+with it and we'll continue to invest. So right now there's no change and we'd continue to review that. 
+
+<Q - Brent Thill>: And just a quick follow-up on the 61000, who do you view as a primary competitor today that 
+you're seeing in the field? 
+
+<A - Gil Shwed>: I think, I'd rather not name and not give credit to our competitors on that. There is one vendor in the 
+marketplace, which has been the player in this category and I think by now, we've seen a great success in the 
+marketplace against or replacing them in their accounts. Actually many many customers in the past just told us we 
+really rather have your product, but we don't have a product. So, it was for us and long development process to come up 
+with such an architecture. It's not just a bigger box; it's a very sophisticated architecture inside that box with many new 
+components, hardware and software that didn't exist before. 
+
+It's almost three years development that we've done and so far, I'm very, very pleased with the results, because we've 
+seen that the demand is higher than our supply and that the feedback so far is very, very positive from customers and 
+not only that these solutions in the market that usually are extremely complicated and take weeks to install. Our case 
+we've been in situations recently when a customer really needed best performance and in one day, we made the system 
+work and operate [indiscernible] (44:22) network. That's something that in our industry or in the comparable product 
+simply doesn't exist. So, and that I think will be the key to scale in the long run. 
+
+<Q - Brent Thill>: Thank you. 
+
+Operator 
+
+Thank you. Our next is coming from Walter Pritchard of Citigroup. 
+
+<Q - Walter H. Pritchard>: Thanks. Gil, I wonder if you could talk about the à la carte blades and what efforts you're 
+taking to go into the installed base and if we should expect that effort to accelerate in 2012, because it's got more 
+customers on new versions and appliances are shipping that have much higher performance potentially get through 
+some of the bottlenecks on loading multiple applications on a box? 
+
+<A - Gil Shwed>: The short answer is yes. I mean, you're absolutely right, despite of our strategy. I mean, we built 
+stronger appliances, which means that they can take much more load and can do more function. We go to our installed 
+base and show them how they can. I mean we have been like going to a customer in a certain function, which is not our 
+mainstream business and telling them, you're paying now X number of dollars per year. Give us a chance, we will save 
+you at least 40% of our operating expenses if you just buy – buying our blades. And I think we can – in almost all 
+cases, we can save at least that for the customers, sometimes even more. 
+
+And again, simply their infrastructure, give them better visibility, a lot of other positive things that customers can get. 
+And that's a very, very important part of our strategy. And then just to be clear, last year, we've seen a lot of growth in 
+the – what we call – when we divide the blades, we have parts that's bundled with new products and we have the parts 
+that's unbundled, which customers buy à la carte, which is exactly what you asked. We've seen very healthy growth last 
+year in the à la carte, which means that customers like that model and buying into that. 
+
+<Q - Walter H. Pritchard>: Got it. And just one follow-up and one quick one. Just a quick one on employees, Tal, I 
+didn't hear a number for the quarter, where are you guys in employee count? 
+
+<A - Tal Payne>: 2,471. 
+
+<Q - Walter H. Pritchard>: Great. And then just on the Europe comment, I mean, you did mention that some of the 
+territories are tougher. Your Europe growth has been good and not impacted materially by currency. Are you seeing 
+that geography, is it worsening or is it stabilizing or I'd love to hear any comments just on, sort of, the second derivative 
+there? 
+
+
+<A - Gil Shwed>: I think, it's kind of hard to predict. I mean, if you'd ask – and again that's why we are trying to not 
+give too many comments on that, because if you'd ask me in the middle of the fourth quarter, I would say that it's bad 
+and it's a very weak. If you'd ask me now, we had a wonderful Q4 and we had the great results in Europe in the fourth 
+quarter. I think, what I'm saying is that it wasn't necessarily easy to achieve, but it also means that we have a very 
+balanced business. And when I look into Europe and analyze it, it's definitely not looking like one market. There are 
+some segments that are doing very well and had growth, let's say equal to the U.S. and doing really nice and there are 
+some other countries in some regions, that they've been struggling a little bit more and some of it by the way was also 
+changing from quarter-to-quarter. So it's not only one bucket and it's not a quarterly stable. So I mean what does it 
+mean in terms of what's the derivative of what, what I can predict for the future it's very hard to say. I'm careful on that, 
+because of the fact that we've seen a mixed feelings and mixed results in previous quarters, means that it can also 
+happen next quarter. But, we can be surprised, for the good and vice versa. 
+
+<Q - Walter H. Pritchard>: Thank you. 
+
+<A - Gil Shwed>: [indiscernible] (48:04)? 
+
+<A - Tal Payne>: Yes. I think I would just say that Europe unlike the U.S. the U.S. is obviously one economy and 
+we're seeing it consistently strong for few years. While in the Europe, I would say it depends which countries, some do 
+great, some do less and then the next quarter it can turn. And in Southern Europe as we told it wasn't great last quarter 
+and wasn't great this quarter as well. So I'll say I'm more cautious about Europe as we all read the same newspapers and 
+see the same economies and I will be more careful in Europe. 
+
+<A - Gil Shwed>: But Southern Europe is also our smallest region in Europe. 
+
+<A - Tal Payne>: Sure, yes. Southern Europe is quite small for us. 
+
+<A - Gil Shwed>: So I mean if you look at Central Europe, Northern Europe for us are the big markets and the big 
+economies and they did last quarter very, very well. 
+
+<Q - Walter H. Pritchard>: Great. Thanks. 
+
+Operator 
+
+Thank you. Our next question is coming for Aaron Schwartz of Jefferies & Company. 
+
+<Q - Aaron M. Schwartz>: Thanks for taking the question. I just had a sort of follow-up on what's driving the 
+acceleration and deferred. I know you mentioned a few things, but in terms of the annuity blades, can you provide any 
+more detail on whether it's – sort of the bundles on the new product offerings the à la carte blades or even in the 
+renewals of last year. I am sure it's a combination of all three, but can you sort of rank what's having more of an impact 
+on the acceleration and deferred? 
+
+<A - Gil Shwed>: The short answer is all of them, in which we were underlying it very, very carefully and the reason 
+we are so excited about that is because it's not that one drives the other. They are all going – well the bundled one are 
+obviously – it's a good thing to see that customers like it, but that the good news about the bundled one is, bundled with 
+the product. So, the customer has, there is some choice. By the way, it's not that the customer doesn't have a choice, 
+they have a choice, but it's more limited between the model. The good news about that and the reason we are so 
+optimistic is because the renewal rate for the bundled one is high, and that means that after the customers have used the 
+blades or have the blades bundled or for their perception for free for the first year, they actually decide to renew them 
+in very high percentage their second year, which is the main criteria for success and the main criteria for longevity of 
+that. And -- so at the same time, there is a lot of customers that are buying their first year, their à la carte blade. So, I 
+think, it's all three elements that are doing quite well. 
+
+<Q - Aaron M. Schwartz>: Okay. And, I know, long-term deferred is still a smaller component there, but it did show 
+a little better growth. You mentioned the annuity blades are mostly one years, is the premium support sort of going out 
+
+
+longer than one year? What's driving that long-term? 
+
+<A - Tal Payne>: I think, many times also you've seen Q4 that you have some longer contracts. You had the same 
+phenomena also last year. And it really depends each quarter it can happen, it can go down and go up, so I would less 
+look at the long-term, I was looking more in the short-term growth. So, it has a very strong quarter. There was a few 
+long-term contracts, which is great. And, we had the same, if I recall, in last year – no, actually in last quarter in Q3, 
+growth as well – you've seen last quarter also, it grew in the 41% and this quarter it grew in 52%. So, just I guess 
+[indiscernible] (51:20) 
+
+<A - Gil Shwed>: [indiscernible] (51:21) phenomena, which customers would like to commit for a long time, that 
+means that they think that they'll use the product for a long time and they think that we get a good economical value 
+from that program. So, they buy a long-term contract. So I think it's very positive and that frees up our people to worry 
+about doing more with more customers rather than renewing the same contracts. So, I think it has a good contribution 
+for everyone. 
+
+<Q - Aaron M. Schwartz>: Okay. And last question from me if I could. In terms of the head count, in terms of the 
+absolute numbers it did accelerate in 2011. Can you talk about your hiring plans for 2012? And the way you talked 
+about the expenses hitting in 2013, does that imply that your hiring is going to be a little more back-end loaded in the 
+year? Thank you. 
+
+<A - Gil Shwed>: I think we want to make – in hiring, it's the kind of the same phenomena. We always want to hire 
+the people early on, so they'll have more contribution earlier to the company. On the same time, it always takes longer 
+to find good people and so on. Remember that in terms of the expense, if we want to hire people in the first half of the 
+year, that means that their impact on the first half of the year will be, I don't know, one month, two month from the 
+average. I mean if we hire all the people in January, then yes, we'll have a contribution for five months, but we already 
+know that we haven't found – that we won't hire too many people in January and that means that most people will join 
+us between March and May or March and June even. And that means that they'll have little impact on the first half of 
+the year. 
+
+And remember one more thing in the head count cycle is that people leave mainly in the second and somehow in the 
+third quarter of the year. So, somehow it all balances out and the new hires have – the real impact of a new hire affects 
+only the following year. 
+
+<A - Tal Payne>: Yeah. But bear in the mind, by the way, that typically the increase is coming in the second half. 
+When you look budget-wise into next year, the recruitments of the second half of 2011, you will see the full effect in 
+expenses in the first half of the year. 
+
+<Q - Aaron M. Schwartz>: Great. Thank you. 
+
+Operator 
+
+Thank you. Our last question is coming from Jonathan Ho of William Blair & Co. 
+
+<Q - Jonathan Ho>: Just a quick question around the product refreshes that you guys had talked about. Aside from the 
+high-end product launch, can you give us some color on how much of an impact that three times greater performance 
+had in terms of your core products and whether we've seen the full impact of that product refresh in your results at this 
+point? 
+
+<A - Gil Shwed>: It's hard to say what impact it has, I mean mainly we check what customers are replacing. Now 
+there's two things that can happen here. One is that everything continues the way it was before instead of buying, I don't 
+know, an appliance for a $20,000, the customer buy a new one for the same $20,000 and gets three times more 
+performance. That's one impact. And that's of course the desirable impact, but actually desired impact is more 
+customers decide to buy the $20,000. 
+
+
+The risks are the following. One risk is that enterprise customers are fairly conservative, and when they see something 
+new, they want to evaluate it first and to certify it first for their environment and that takes time. So, in some cases that 
+can slowdown procurement, because they will need to recertify the newer clients, so that's one risk. The second risk is 
+that customer would say, [ph] no (54:55) I was price sensitive instead of buying an appliance for $20,000, I can get 
+better performance for, let's say, $12,000 and that will be good because it will make us more competitive, but it will 
+hurt short-term revenues. So far, our knowledge shows that on the most models and on most segments things behave 
+very, very well. We've seen an increase in the number of units, we've seen stable or higher ISP per category and for 
+almost all category that was the case. We've seen maybe one category when we're thinking that customers are deferring 
+their purchases and want to do more testing or consider the shift between various model within the series. But, I would 
+say that four out of five series as we've seen this shift going extremely smoothly and extremely well. 
+
+<A - Tal Payne>: And just remember, this is only the first quarter, so it's too early to conclude too much out of it. 
+
+<Q - Jonathan Ho>: Got it. And just one quick follow-up on – it's more of a clarification around your IPS renewal 
+rate, are you guys seeing any differences in the second renewal versus the first renewal and now that you've lapped the 
+product for a year at this point, is that materially higher, it's actually for the IPS blade once somebody sort of renewed it 
+once on that second go around? 
+
+<A - Tal Payne>: I think it is slightly early in the sense that the third year is actually starting only in this Q4 and we 
+didn't have the opportunity to analyze that because if you remember we launched it in Q3, Q4 2009. So, just the Q4 
+2011, which was this quarter is the quarter that you can check it for the first time. So, I'll say it's too early. 
+
+<A - Gil Shwed>: But I think it's generally, yes, you're right, customers that got something bundled, the renewal rate is 
+lower than a customer if it's already paid for it and wanted that. And on the same time, we were pleasantly surprised by 
+the customer got these bundled and renewed. So the third year like Tal is saying, Tal, is higher from all the data that I 
+have seen so far. And customers that already paid for something once, as they renew at a rate of which is pretty high 
+like the top quartile of percentage and customers that have it only for sort of bundled will renew in a percentage, let's 
+say between 40% to 60%, which is very, very high, each one is by the way is a surprisingly high number. 
+
+<Q - Jonathan Ho>: Great. Thank you and great quarter. 
+
+<A - Tal Payne>: Thank you. 
+
+Kip E. Meintzer 
+
+Thank you, guys. We appreciate everybody joining us on the call and look forward to talking to you during the quarter. 
+Take care and have a great New Year. Bye-bye. 
+
+Operator 
+
+Thank you. This concludes today's teleconference. You may disconnect your lines at this time. Thank you all for your 
+participation. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+
+© COPYRIGHT 2012, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

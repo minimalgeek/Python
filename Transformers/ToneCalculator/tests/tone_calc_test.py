@@ -1,5 +1,5 @@
 import pytest
-from ToneCalculator.tone_calc import ToneCalc
+from tone_calc import ToneCalc
 
 @pytest.fixture
 def calc():

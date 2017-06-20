@@ -1,0 +1,1270 @@
+Q1 2011 Earnings Call 
+
+
+Company Participants 
+
+• Blair Christie, Senior Vice President, Global Corporate Communications 
+• John T. Chambers, Chairman and Chief Executive Officer 
+• Frank Calderoni, Executive Vice President and Chief Financial Officer 
+• Robert Lloyd 
+Other Participants 
+
+• Jeff Evenson 
+• Mark Sue 
+• Tal Liani 
+• Ehud Gelblum 
+• Brian Modoff 
+• Nikos Theodosopoulos 
+• Ittai Kidron 
+• Simona Jankowski 
+• Brian White 
+• Richard Gardner 
+• Richard Gardener 
+• Jason Ader 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Welcome to Cisco Systems First Quarter Fiscal Year 2011 Financial Results Conference Call. At the request of Cisco 
+Systems, today's conference is being recorded. If you have any objections, you may disconnect. Now I'd like to 
+introduce Ms. Blair Christie, Senior Vice President of Global Corporate Communications for Cisco Systems. Ma'am, 
+you may begin. 
+
+Blair Christie, Senior Vice President, Global Corporate Communications 
+
+Great, thanks, Kim. Good afternoon, everyone, and welcome to our 83rd quarterly conference call. I'm Blair Christie; 
+and I'm joined by John Chambers, our Chairman and CEO; Frank Calderoni, Executive Vice President and Chief 
+Financial Officer; Rob Lloyd, Executive Vice President of Worldwide Operations; Ned Hooper, Chief Strategy Officer 
+and Senior Vice President, Consumer Business; and Padmasree Warrior, Chief Technology Officer and Senior Vice 
+President of our Enterprise business. 
+
+The Q1 fiscal year 2011 press release is on U.S. High Tech Marketwire and on Cisco's website at 
+http//newsroom.cisco.com. I would like to remind you that we have a corresponding webcast with slides. In those slides 
+you will find financial information that we cover during this conference call as well as additional financial metrics and 
+analysis that you might find helpful. Additionally, downloadable Q1 financial statements will be available following 
+the call including revenue by geographic segment as well as product category. Income statements, full GAAP to 
+non-GAAP reconciliation information, balance sheets and cash flow statements can be found on our website in the 
+
+
+Investor Relations section. Just click on the financial reporting section of the website to access the slides and those 
+documents. 
+
+A replay of this call will be available via telephone from November 10th through November 17th at 866-357-4205 or 
+203-369-0122 for international callers. A webcast replay is available from November 10 through January 21 on Cisco's 
+Investor Relations website. 
+
+Throughout this conference call, we will be referencing both GAAP and non-GAAP financial results. The financial 
+results in the press release are unaudited. The matters we will be discussing today include forward-looking statements 
+and as such are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, 
+specifically the most recent annual report on Form 10-K and any applicable amendments which identify important risk 
+factors that could cause actual results to differ materially from those contained in the forward-looking statements. 
+
+Unauthorized recording of this conference call is not permitted. 
+
+As we typically do when we begin a fiscal year, we have made certain reporting changes and enhancements that are 
+reflected in the financial results we will be discussing today. First, in Q1 we consolidated our Asia Pacific and Japan 
+operations in order to achieve operational efficiencies in our business. As a result of this operational change, we now 
+have the following four geographic segments: United States and Canada, European markets, emerging markets, and 
+Asia Pacific markets. Asia Pacific markets now includes the prior Asia Pacific and Japan segments. As a reminder, the 
+geographies are the primary way we manage our operations. 
+
+Second, we have also changed the way we report revenue by product categories. Given the ongoing evolution of our 
+business, we are grouping our newer technologies into a category called New Products. This new category better aligns 
+to our strategic growth priorities and allows investors further understanding of our progress in the new markets we are 
+entering. Our New Products category will replace Advanced Technologies and include some products that had been in 
+our Other category. The New Products segment contains five subcategories: Data Center, Collaboration, Security, 
+Wireless, and Video Connected Homes. Our core Routing, Switching, and Services categories remain unchanged. 
+
+In terms of components of these subcategories, Data Center includes Application Networking Services, Storage, and 
+Unified Computing Systems. Collaboration includes Unified Communications, TelePresence and TANDBERG. 
+Security and Wireless remain unchanged, and Video Connected Home includes Networked Home, Pure Digital, Video 
+Systems and Cable. 
+
+In the slides that accompany this call, you will find we have provided further details on these changes including a 
+mapping of products into the subcategories as well as a reclassification of fiscal year 2010 quarterly revenue based on 
+the revised product categories. 
+
+Lastly, we have made formatting and other improvements to the slides in order to better communicate key data points 
+that we will consistently provide to our investors in each quarter. 
+
+I will now turn the call over to John for his commentary on the quarter. John? 
+
+John T. Chambers, Chairman and Chief Executive Officer 
+
+Blair, thank you very much. Based in part on the feedback from a number of you, we are continuing to evolve the 
+format of our quarter's conference call; the objective being to share more information in a tighter format while leaving 
+more time for Q&A at the end of the call. Please do not hesitate to give us feedback in terms of the effectiveness of this 
+new format. 
+
+We will break the call into three sections. In the first section, I will provide a general overview of the quarter, focusing 
+on key financials, geographies, customer segments, and products followed by a discussion of key accomplishments in 
+the quarter and what we would like to do better and ending with general comments on business momentum exiting the 
+quarter as well as our guidance for Q2 FY '11 with all the appropriate caveats. In the second section, Frank will provide 
+additional details about Q1 FY '11 as well as expand on our Q2 FY '11 guidance, investments, opportunities, and 
+
+
+challenges. In the third section of the call, I will provide some brief closing comments and then we will wrap up with 
+Q&A. 
+
+Now beginning with the opening section, I will cover five key areas in the following discussion. First, from the 
+financial perspective, Q1 FY '11 evolved pretty much as we expected and in line with our guidance provided last 
+quarter. And in this first section, we will provide a high level financial review of the quarter primarily in terms of 
+revenue and other financial information. Second, this will be followed by a discussion on momentum in the 
+geographies, products, and customer segments. Third, I will then focus on what's working from our strategy and 
+architectural approach and briefly discuss three areas where we are seeing the most new revenue opportunities for the 
+next year: those being collaboration; second, video; and third, the combination of data center virtualization and cloud. 
+
+Fourth, we will then cover several areas that we are watching that experienced some interesting challenges in the 
+quarter. Two of them are areas that we have limited ability to control or influence and one is in an area that I expect us 
+to improve over time. Finally, the last section will be a summary of what you can expect from Cisco over the next 
+several quarters closing with how we feel about the business going forward. 
+
+Now beginning with the opening section, from a high level perspective there are a number of key take-aways from the 
+results in Q1 FY '11 and our momentum going into Q2 FY '11. First Q1 was a solid quarter from a Cisco, from a 
+financial, product, customer, and geographic perspective. We continue to execute well with a compelling financial 
+position, expanding innovation engine and execute in both our core markets and market adjacencies. However, what I 
+am most pleased about is how our business architecture and technology architecture is gaining customer acceptance. 
+
+We were pleased with the financial results achieved during the quarter. Revenue of 10.75 billion, a 19% year-over-year 
+increase, was right in the middle of our guidance provided last quarter of 18 to 20%. Non-GAAP operating income of 
+
+3.0 billion was a year-over-year increase of 14%. Non-GAAP net income was 2.4 billion, a 14% year-over-year 
+increase; and non-GAAP earnings per share of $0.42, which was a year-over-year increase of 17%. GAAP earnings per 
+share of $0.34 was an increase of 13% year-over-year. Operating expenses were 36.3% of revenue on a non-GAAP 
+basis. Non-GAAP operating expenses increased 16.8% year-over-year versus 19% increase in revenues. Non-GAAP 
+gross margins were 64.3% and non-GAAP product gross margins were 64%. 
+Cash generated from operations was a solid $1.7 billion, bringing our total cash including investments to 38.9 billion. 
+We also delivered on our hiring projections with a net increase of approximately 1,900 additions to the Cisco team in 
+Q1 FY '11. This includes approximately 150 people from acquisitions. As an additional point of interest, we added over 
+the last two quarters 600 incremental sales reps, a 15% increase to the total sales rep population in our global operation. 
+Q1 additions followed on last quarter's new hires of approximately 2,000 additions. It is our intent to continue to hire in 
+proportion to our global business assuming support from government decisions on private job creation in the U.S. 
+
+Q1 had a number of other very positive accomplishments and several challenges. As I mentioned earlier, the most 
+important accomplishment to me was the rapidly expanding acceptance of our technology architecture, the unique way 
+we combine products, customer segments, market adjacencies, security, mobility, video, etcetera, appears to be clearly 
+understood by our leading edge customers, and how the pieces come together from a technology architecture 
+perspective and the advantages that this approach has in enabling customers' business goals. 
+
+Our customers also understand our ability to accelerate this innovation machine in a way that protects their investment 
+in Cisco's products. In short, any device to any information, across any combination of networks, in any format with 
+video playing an increasing role, from the home to the cloud is playing out as we expected in our strategy. 
+
+We had several other significant accomplishments this quarter. First, from a product innovation and market share 
+perspective, it was a very solid quarter. From a revenue perspective routing was up 13% year-over-year, with high-end 
+routing, which includes the acquisition of Starent, up 16% year-over-year, and mid and low-range routing up 7 and 8% 
+from a revenue perspective year-over-year. Switching was very solid with a 25% year-over-year revenue growth with 
+both modular and fixed switching showing equal growth. 
+
+Second, our key new products are filling in our architectural approach and are evolving very much in line with our 
+strategy. The proof point being that our New Product category, as Blair outlined in her introduction, grew 22% 
+
+
+year-over-year from a revenue perspective in Q1. Data center led the way with a very strong 59% year-over-year 
+growth followed by collaboration with growth of 45% year-over-year. We will provide more details on these two major 
+growth opportunity areas in a moment. Video Connected Home grew 11% year-over-year followed by Wireless at 9% 
+and Security was down slightly at minus 2% revenue growth year-over-year. 
+
+Third, our new next generation products continue very solid customer acceptance. The following will be discussed in 
+terms of revenue year-over-year. The ASR edge routers grew approximately 200% year-over-year; with a current 
+annualized run rate of approximately 1.4 billion. The ASR 9000 was especially strong with over 700% growth 
+year-over-year with an annualized run rate of 280 million. These ASR products continue to lead the market at the edge 
+of the network and are very well positioned for future growth. 
+
+Our Nexus product family also continued to be very strong with year-over-year growth in excess of 120% and an 
+annualized run rate of approximately 1.5 billion. 
+
+Our UCS server product family had another extremely strong quarter with growth year-over-year of 550% to an 
+annualized run rate of almost 500 million. The number of UCS customers has grown steadily over the last three 
+quarters from 900 three quarters ago in Q3 of FY '10 to a total of 1,700 in Q4 of FY '10 and approximately 2,800 in the 
+current Q1 of FY '11. We now have over 40 customers who have ordered over 1 million of UCS systems from the time 
+of initial product introductions. We are also starting to see many of these systems now going into production rather than 
+initial pilot systems. Over the next several quarters, we hope to start seeing our first large orders for major data center 
+implementations. Cisco, for example, has over 2,500 UCS systems in production, and so far they have been rock solid. 
+
+The new ISR G2 product family had growth of approximately 125% year over year and a current run rate of 
+approximately 1.2 billion. 
+
+Our MDS 9000 continued to see solid growth, with year-over-year revenue growth of approximately 24% and an 
+annualized run rate approaching 500 million. 
+
+Fourth, from a country perspective, balance was relatively good, with 13 of our 15 countries growing orders year over 
+year in the mid-teens or better. Our strategy of focusing the entire company on five leading emerging countries is 
+evolving in line with our expectations, and all five had especially strong growth from an orders perspective. Russia led 
+the way, with order growth over 100% year over year, followed by India and Brazil with growth above 60% year over 
+year, Mexico with 40% growth year over year, China with 30%. 
+
+However, the U.S. had product order growth of only 6% year over year, with U.S. service providers which traditionally 
+accounts for a third of our U.S. product business experiencing very mixed growth rates, with our traditional service 
+providers growing orders in the 20% plus range, while our cable operator orders decreased over 35% year over year. 
+We will cover this area in more detail in a moment. 
+
+In terms of product orders, we saw 10% year-over-year growth for our global operations. For our geographic segments, 
+
+U.S. and Canada was up 7%, European markets were up 2%, emerging markets up 32%, and Asia Pacific markets were 
+up 18% on a year-on-year basis. 
+Fifth, from an industry perspective, our enterprise and commercial customer segments continued to have good balance 
+from a global perspective in each of the major theaters, with order growth of 16% year over year for enterprise which 
+excludes public sector, and 13% for commercial. Service provider order growth was mixed depending on product area 
+with an 8% year-over-year order growth. Public sector was also mixed, with a 6% year-over-year order growth. 
+Consumer was flat year over year. I will cover the service provider and public sector in more detail in a moment. 
+
+There are three areas that I would like to expand on further from a positive perspective at this time. These areas will in 
+my opinion offer tremendous growth opportunities over the next several years and also play very tightly with our 
+technology and business architecture strategies in our service provider and enterprise accounts. These areas are 
+collaboration, video and, third, data center virtualization cloud. These are relatively new growth areas within Cisco and 
+the industry. We will focus the following discussion in terms of order growth rates year over year. 
+
+
+From a collaboration perspective, which includes the impact of TANDBERG, we saw very solid order growth globally, 
+over 60% year over year. Balance was good for TelePresence, traditional TANDBERG, phones, call manager, and 
+tying them all together as an architectural play is rapidly gaining traction. Video brings collaboration to life from an 
+innovation and a business process change perspective. Over the last six months, we believe a tipping point has occurred 
+in global CIOs' minds in terms of their rapidly increasing focus on video. At first they were following their CEO 
+interests in terms of TelePresence. And the CEOs grasped how this could change business models probably before the 
+CIOs did, and the CIOs were also focused on travel savings. But now they're beginning to see the early adopters think 
+out of box on video, enabling collaboration for major productivity gains and major process change. 
+
+At our yearly CIO conference, which occurred about a month ago, almost half of the CIOs said the area that had 
+changed the most for them was how quickly they are focusing on video and how far Cisco has come in enabling their 
+business goals by utilization of video. 
+
+From a data center, virtualization and cloud perspective, momentum is extremely strong. We are making great progress 
+on being the first new large architectural player in the data center in almost two decades. In the service provider 
+environment, the emphasis is on virtualization and cloud for new revenue streams and expanding the way we deliver 
+services to their customers, whether they are consumer, commercial, or enterprise business is gaining traction in almost 
+every major service provider around the world. The same is true in many of these accounts for our VCE Alliance 
+products, along with our partners VMware and EMC, with 62 enterprise and service provider accounts beginning 
+Vblock implementations or have Vblocks actually in production. 
+
+From an enterprise and commercial perspective, our new data center products are also gaining architectural 
+commitments with order growth year over year in our data center category of approximately 56%. And even with this 
+very strong growth rate, the numbers are still relatively modest compared to the opportunities that are existing in our 
+opinion one to two years out. 
+
+However, we did see several challenges in the quarter, as you would expect given some of the numbers we just 
+discussed. These areas include certain categories of our public sector segment, certain products in our service provider 
+segment, and to a limited extent, Europe in terms of business momentum. 
+
+First, we did see mixed results on a global basis from our public sector business. We had solid orders growth in the 
+mid-teens or better in the U.S. federal public sector, and also the emerging markets public sector. However, we did see 
+challenges, for example, in the U.S. state government business, down in Q1 approximately 25% year over year from an 
+orders perspective. And to give you an idea of how rapid a change this was, the state government business was down 
+48% from Q4 to Q1 from an orders perspective. 
+
+We saw similar challenges in our Japanese government business, as well as orders from certain central governments in 
+Europe. We believe the public sector business will continue to be challenging for at least several quarters. The public 
+sector represents about 22% of our total product orders in Q1. The global public sector grew only 60% from an order 
+perspective in Q1. 
+
+Second, the service provider business on a global basis had a number of strong positives from a product perspective, 
+but also a couple of challenges. On the very positive side, our relationship with our service providers as both a 
+customer and a partner continued to grow even stronger from a technology architecture and business architecture 
+perspective. This is true and expanding in the vast majority of major service providers in the world. These large service 
+providers would include leaders such as British Telecom, Deutsche Telekom, Verizon, AT&T, NTT, Telstra, et cetera. 
+
+From an IP NGN architecture perspective, growth was very solid from an orders perspective, growing at 14% year over 
+year. We discussed the strength of the ASR family at high-end routers earlier, and just as an update, the customer 
+acceptance from the pilot perspective on the CRS-3 is off to a great start. In Q1 we shipped our first CRS-3 system. We 
+received 51 million in orders from 30 customers. However, we expect it will probably be several more quarters before 
+we see rapid increase in these accounts from our new high-end routers as they test out all the new systems of this 
+magnitude before they begin volume commitments. 
+
+
+A year ago, our exposure to competitors and the service provider would have been in the area of edge routing and 
+mobility. Today, this is the strength especially in video. While the recent success in these product areas has been very 
+good and accelerating rapidly, it would not surprise me to see even faster growth in Q2. The ASR 5000 accounted for 
+approximately 88 million in revenue and a 30% year-over-year growth in Q1 comparing back to its days at Starent. If I 
+were to anticipate Q2 video mobility momentum especially for the ASR 5000, it is very possible, with all the 
+appropriate caveats, to see a doubling of product orders in this area from Q1 to Q2. 
+
+While there are many positive accomplishments with our service provider customers and service provider partners, 
+there are also some challenges. Our global service provider order growth rate was 8% year-over-year while the U.S. 
+was down 2%. However, the results varied dramatically by service provider and even type of service provider in terms 
+of growth rates. 
+
+For example, in the U.S., our orders grew in the 20% or better range in our large service providers such as AT&T, 
+Verizon, and regional service providers did equally as well. Our challenge was in our MSO cable operators area where 
+we saw a year-over-year decrease in the mid-thirties. To put this into perspective, the cable operators have traditionally 
+accounted for approximately 35% of our North American service provider business. Just as a reminder, our total U.S. 
+service provider business had order growth rates in the last three quarters of fiscal year 2010 in excess of 20% in each 
+of the three quarters. 
+
+So we see two primary challenges at this point in time in the service provider business. First, similar to a number of our 
+peers, we are also seeing some challenging trends in terms of CapEx expenditure in some of our global service 
+providers. Second, in one specific service provider customer group, we are also experiencing some unique challenges. 
+That is our cable segment specifically the traditional set top business portion tied to consumer spending. As a reminder, 
+the set top business has an annualized run rate of approximately $2 billion and our IPTV and international set top 
+business remains strong. However, our traditional North American cable business which accounts for the majority of 
+our current set top business is under pressure as new housing and consumer spending slows, as lower cost competitors 
+begin to enter the market. 
+
+As a result, we are seeing year-over-year declines in orders, and we expect to see continued pressure, specifically in our 
+traditional North American cable business. From an orders perspective, our traditional North American cable set top 
+business was down over 40% year-over-year in Q1. Traditional North American cable set tops were approximately 
+50% of our total set-top box orders in Q1. With that said, we are seeing strength in both our international cable set top 
+business and our IPTV set top business. We are comfortable with the business momentum of cable set tops outside 
+North America and we are pleased to see the continued growing footprint of the IP set-top boxes. 
+
+Third, Europe, as we are all aware, central government budgets in many of the countries in Europe are being reduced 
+dramatically. Our European public sector business was down in mid-single digits in Q1 from a year-over-year 
+perspective. On the positive side, we did see solid order growth from countries including all the industries of France, 
+Germany, Netherlands and the Nordic countries. But we also started seeing some initial pressure on certain other 
+customer segments by country, although it is way too early to call this a trend. 
+
+From a book-to-bill perspective, while product revenues were very good at 21% year-over-year growth, total product 
+order growth was only approximately 10% year-over-year. Therefore, book-to-bill was below one. As you all are 
+aware, we have a very strong sales organization and a track record of being very accurate and at times even 
+conservative on the quarter orderly quarter forecasts. 
+
+Traditionally in Q1 our book-to-bill is normally slightly below one off of a strong Q4. However, this quarter was 
+different. To put this into perspective, the challenges that we experienced in Q1 resulted in orders being below our 
+initial Q1 sales order forecasts by over 500 million. 
+
+In summary, we continued to gain market share in many of our product areas in the third calendar quarter of this year. 
+In terms of our new intermediate two to three year big opportunities, we are well positioned and getting good results in 
+video, collaboration, data center virtualization, cloud, our emerging countries, smart connected communities, as well as 
+our new innovative products. In terms of our new longer term market adjacencies, such as smart grid, sports and 
+
+
+entertainment, virtual health care and virtual education, we believe they will become significant, with the appropriate 
+caveats, three to five years from now. And we are off again to an excellent start. 
+
+On the areas we control or influence from an innovation point of view or an operational execution point of view, we 
+feel we are very well positioned. Almost all of our product families are in the early stages of their lifecycle and gaining 
+solid momentum as we discussed earlier. Balance across geographies and customer segments remains reasonably good. 
+So as many of you would expect, we are going to focus on what we can control and influence as we have done in each 
+of the periods of uncertainty. And as we're going to be aggressively in terms of investing resources in the new market 
+adjacencies where we are also gaining good momentum from both an innovation thought leadership perspective as well 
+as a business perspective. 
+
+This is where the strength of our financial model and ability to generate cash and profits comes into play. In answering 
+some of your questions about how we feel about the business in general, we believe that our vision of how the industry 
+is going to evolve and our strategy to uniquely lead this industry is gaining more momentum and customer acceptance 
+than many would have thought just one year ago. Our ability to enter new markets from the data center to the cloud to 
+UCS to collaboration to video mobility to the home is gaining speed, scale, flexibility and is becoming replicable as we 
+had hoped, as well as tying together from an architectural perspective. 
+
+We do think some of the challenges in public sector spending will be with us for a couple of quarters and subject to the 
+appropriate caveats, the most likely scenario for service provider spending is to pick up over the next year given both 
+the loads on networks and resulting from the extensive uptake of collaboration and video in the networks combined 
+with new service provider market opportunities such as managed services and cloud delivery. We are obviously not 
+projecting growth as fast as we would like over the next several quarters and reflects, in our opinion, the reality of 
+public sector spending, some challenges in parts of our service provider market and one or two areas we should 
+improve our execution. 
+
+However, barring a surprise, which is always possible and again with the appropriate caveats, we believe it is realistic 
+to hope for a return to 12 to 17% growth goals in the not-too-distant future, assuming a return to a good economic 
+growth in many of our countries worldwide. As you would expect, we will focus very carefully on expense 
+management; however, we also believe that the intermediate and long-term growth opportunities far outweigh the 
+short-term challenges. And with that in mind, we plan to continue to invest in new markets and technology architecture 
+plays. We will also reallocate expenses based on business momentum and opportunities. However, our view is that we 
+are going to power through in what we believe to be some short-term challenges in the next several quarters with all the 
+appropriate caveats we talked about before. 
+
+As we've said in conference calls over many years, Cisco will always be affected by major economic changes, capital 
+spending patterns, new and existing competitors, potential issues affecting our suppliers and our ability to execute or 
+not on our strategy and other factors as discussed in our SEC filings. For purposes of our long-range goals as well as 
+our quarterly guidance, we are also assuming that our vision of how the industry and the market will evolve will be 
+accurate and we will effectively execute on that vision. We are very confident on our strategy. We will now be 
+providing both Q2 fiscal year '11 revenue guidance and our best estimates of revenue growth for the entire fiscal year. 
+
+This guidance is based on a conservative view of our normal seasonality trends, current pipeline and how we believe 
+the market will play out based on the information we have today over the next several quarters. Given the uncertainties 
+in the market, we could be above or below our guidance for the year and by definition are subject to all the appropriate 
+caveats we discussed in our conference calls and our SEC filings. 
+
+With this discussion in mind, our revenue guidance for Q2 FY '11 including our usual caveats as discussed earlier in 
+our SEC filings, is for revenue growth to increase 3% to 5% year-over-year. Our estimate for fiscal year 2011 is for the 
+yearly revenue growth to be in the 9 to 12% range. Frank will continue with a detailed guidance in the next section. 
+
+Now I'd like to turn the call over to Frank for the second section of the call. Frank, to you. 
+
+
+Frank Calderoni, Executive Vice President and Chief Financial Officer 
+
+Thank you, John. 
+
+We had solid results for Q1 fiscal year '11 which continues to demonstrate the robustness of our portfolio and our entry 
+into several new markets. Total revenue for the first quarter was $10.75 billion, an increase of approximately 19% 
+year-over-year, within our guidance of 18 to 20%. 
+
+Total service revenue was $2 billion, up approximately 13% year-over-year, and total product revenue was $8.7 billion, 
+up approximately 21% year-over-year. Switching revenue was 3.6 billion, an increase of 25% year-over-year. Modular 
+switching revenue was up 25%, and fixed switching revenue increased 24% year-over-year. Routing revenue was 1.8 
+billion, up 13% year-over-year, representing an increase of 16%, 7% and 8% year-over-year in high end, mid-range and 
+low end respectively. 
+
+New products revenue totaled $3.1 billion, representing an increase of 22% year-over-year. We saw strong 
+year-over-year growth in data center of approximately 59% and collaboration of approximately 45%. Security was 
+down 2% year-over-year while Wireless was up approximately 9% and Video Connected Home was up approximately 
+11%. Other product revenue totaled $231 million, up approximately 13% year-over-year. This category is primarily 
+comprised of our Optical business and Emerging Technologies. 
+
+We experienced an increase in total revenue across all geographic segments on a year-over-year basis. Year-over-year 
+revenue ranged from an increase of approximately 41% in emerging markets to growth of approximately 11% for the 
+European markets with revenue in the U.S. and Canada theater up approximately 18% and Asia-Pacific markets up 
+approximately 22%. 
+
+Q1 FY '11 total non-GAAP gross margin was 64.3%, up 0.2 of a percentage point quarter-over-quarter and down 2 
+percentage points year-over-year. For product only, non-GAAP gross margin for the first quarter was 64%, up 0.4 of a 
+percentage point quarter-over-quarter. For the quarter-over-quarter comparison, higher cost savings were partially 
+offset by discounts. 
+
+On a year-over-year basis, non-GAAP product gross margin was down 2.3 percentage points. The year-over-year 
+decrease was primarily driven by pricing and discounts, along with higher manufacturing related costs associated with 
+the carryover effect of our FY '10 supply chain constraints and unfavorable mix, partly offset by cost savings and 
+higher volume. Constraints in our supply chain have improved, and our customer lead times are at normal levels on 
+almost all products. 
+
+Our non-GAAP service margin for the first quarter was 65.7%, down from 65.9% last quarter and down from 66.3% in 
+Q1 FY '10. Total gross margin by theater ranged from approximately 65.2% for European markets to approximately 
+62.3% in emerging markets. 
+
+Non-GAAP operating expense was approximately 3.9 billion in Q1 FY '11. Non-GAAP operating expenses as a 
+percentage of revenue was 36.3% in the quarter versus 35.4% in Q4 FY '10. Interest and other income was $74 million 
+for Q1, reflecting realized gains on investments. Our Q1 FY '11 non-GAAP tax provision rate was 22%. Non-GAAP 
+net income for the first quarter was $2.4 billion, representing an increase of 14% year-over-year. As a percentage of 
+revenue, non-GAAP net income was 22.4%. Non-GAAP earnings per share on a fully diluted basis for the first quarter 
+were $0.42 per share versus $0.36 in the first quarter of fiscal year 2010, a 17% increase year-over-year. 
+
+GAAP net income for the first quarter was $1.9 billion, as compared to $1.8 billion in the first quarter of fiscal year 
+2010. GAAP earnings per share on a fully diluted basis for the first quarter was $0.34 per share versus $0.30 in the 
+same quarter of fiscal year 2010. 
+
+Now moving on to the balance sheet, the total of cash, cash equivalents, and investments at quarter end was $38.9 
+billion, down 936 million from last quarter. Of this total balance, $3.8 billion was held within the U.S. at the end of Q1. 
+Our cash flow from operations was approximately $1.7 billion. Cash flow from operations is typically lower during the 
+first quarter due to seasonally disbursements such as our annual variable compensation payment to employees and 
+
+
+some timing of tax payments. 
+
+Moving on to accounts receivable, our accounts receivable balance was approximately $4.5 billion at the end of Q1. 
+Also at the end of Q1, days sales outstanding or DSO was 38 days. This compares to 41 days at the end of Q4 FY '10 
+and 32 days at the end of Q1 FY '10. 
+
+Total inventory at the end of Q1 was $1.5 billion. Non-GAAP inventory turns were 10.8 this quarter, down 1.3 
+compared to last quarter and down 0.5 from Q1 of last year. Inventory purchase commitments at the end of Q1 were $4 
+billion, down 6% or approximately $270 million quarter-over-quarter driven by continuing improvement in our 
+component supply chain. 
+
+For the quarter, we repurchased $2.5 billion of common stock under the stock repurchase program or 113 million 
+shares at an average price of $22.14 per share. The remaining approved amount for the stock repurchase under this 
+program was approximately 4.5 billion as of quarter end. 
+
+Deferred revenue was 10.7 billion at the end of Q1, an increase of approximately 16% compared with Q1 FY '10. 
+Deferred product revenue was $3.6 billion and deferred service revenue was approximately $7.2 billion, each increased 
+approximately 16% year-over-year. 
+
+At the end of Q1, our head count totaled approximately 72,600, an increase of approximately 1,900 from last quarter. 
+And now for further details on our guidance. 
+
+Let me remind you again that our comments include forward-looking statements. You should review our recent SEC 
+filings that identify important risk factors and understand that actual results could materially differ from those 
+contained in the forward-looking statements. 
+
+We believe it is helpful to provide a reflection of where we are headed for the rest of the fiscal year and help set your 
+expectations by providing target revenue range for the full fiscal year. This guidance is based on our normal 
+seasonality, current pipeline and our view of the business trends based upon the information that we have available 
+today. 
+
+For fiscal year '11, we anticipate total annual revenue will grow in the range of 9 to 12% on a year-over-year basis. As 
+a reminder, our comparison for Q3 FY '11 will have one less week than Q3 FY '10. For Q2 FY '11, we expect revenue 
+to be in the range of 3% to 5% on a year-over-year basis. 
+
+Going forward, as we have provided previously, we will continue to provide financial guidance for the next fiscal 
+quarter on our earnings conference call. The financial guidance going forward will provide revenue, non-GAAP 
+operating margin and non-GAAP EPS guidance for the next quarter with reconciliation to GAAP in order to provide 
+perspective to investors regarding our anticipated quarterly performance. 
+
+For Q2 FY '11, we expect operating margins to be in the range of 23 to 25%. Q2 FY '11 earnings per share is expected 
+to range from $0.32 to $0.35 per share. For our Q2 FY '11 GAAP earnings, we anticipate that GAAP EPS will be $0.08 
+to $0.10 per share lower than the non-GAAP EPS. Please see the slides that accompany this webcast for more details. 
+
+Other than those items noted above, there are no other significant differences between GAAP and our non-GAAP 
+guidance. This guidance assumes no additional provisions, asset impairments, restructuring and tax or other events, 
+which may or may not be significant. Cisco will not comment on its financial guidance during the quarter unless it is 
+done through an explicit public disclosure. 
+
+Our balanced financial results in Q1 demonstrate our ability to execute across many areas within the company. We 
+believe we have competitive advantage that provides us with a platform on which to base profitable growth. We are 
+moving the business forward to deliver results for our customers, our shareholders, and also our employees. 
+
+I'll now turn the call back over to John. 
+
+
+John T. Chambers, Chairman and Chief Executive Officer 
+
+Frank, thank you very much. I would like to now make some closing comments before turning it back over to Blair for 
+Q&A. We make all of our decisions not on the next quarter or next year but where we want to be three to five years 
+from now. This is where we start all our internal discussions, and this is how we would summarize today's call. 
+
+In terms of the big picture and how the industry will evolve over the next several years, the market transitions are 
+playing out pretty much as we expected in how we position Cisco to lead as the network becomes a platform for next 
+generation technology architectures and new dynamic business organizations. In many of our large enterprise and 
+service provider customer opinions, they view us as not only being a safe and secure during periods of rapid change, 
+but also a very innovative technology and business partner that can help them achieve their goals. And in increasing 
+numbers, they recognize the value of our ability not just to move into new market adjacencies with the networking – 
+with the network driving innovation and with our dynamic network organization structures, but also architecturally 
+combine these adjacencies in a way that we believe will be the future for the entire industry. 
+
+We obviously have a large head start on many of our peers, and we fully intend to apply additional resources to expand 
+this lead. The big plays in our traditional markets are going well for Cisco with proof points in recent market share 
+gains in the third calendar quarter of this year as cited by industry analysts in routing, switching, enterprise voice, 
+wireless, and storage area networking, just to name a few. 
+
+The next group of market adjacencies that have large potential in the short term such as collaboration, business video, 
+and data center virtualization all saw strong growth in Q1 in excess of 30%. The market adjacencies that we have that 
+have an intermediate large potential such as cloud computing, Smart Plus connected communities and VCE Vblock 
+implementations are going very well. And a third wave of potentially long-term big opportunities for Cisco in the smart 
+grid, sports and entertainment, virtual healthcare, virtual education and dozens of others are off to a good start. 
+
+Our Enterprise and Commercial businesses are continuing strong, consistent growth and as such are probably the best 
+gauge of economic trends. We did see some challenges in part of our public sector, service provider, and European 
+business. And while the economic environment is not growing as fast as we would all like, we believe these challenges 
+will likely be short term in duration, and that is why we made an exception to our guidance and provided the full fiscal 
+year guidance with all the appropriate caveats and to share our expectations with you for the remainder of fiscal year 
+2011. 
+
+We feel very good about our ability to rapidly move into these markets and lead in many of them. Will we make some 
+mistakes along the way? Of course we will. Otherwise we are not taking enough good business risk. In simple terms, 
+we believe that this is the opportunity of a lifetime for us, and we are going to go for it. When we get surprised, we will 
+pause, analyze the situation, and adjust appropriately. 
+
+In our view, most of the challenges we experienced in public sector, service provider, and Europe capital spending 
+were outside our ability to control or influence, and therefore will not result in major strategic changes. We will always 
+approach these periodical challenges with a healthy paranoia on what we should do better. But the key take-away from 
+Q1 remains that our vision of the industry's evolution and our strategic differentiation is playing out pretty much as we 
+had desired, and Cisco is strongly positioned to win in these traditional markets and new market adjacencies. 
+
+We will always try to be conservative and transparent in what we are seeing in the market. Our strategy to take 
+advantage of all market transitions balanced with a conservative philosophy in terms of business models and financials 
+combined with a healthy paranoia about what could go wrong. 
+
+In summary, in terms of what we can control or influence, we continue to be feel very confident. At this point in time, I 
+would like to thank our entire Cisco family for their dedication, loyalty, and sacrifices as we navigate these times. I 
+could not be more excited about how we are positioned for the future. As always, I want to thank our shareholders, 
+customers, employees and partners for their support and continued confidence in our ability to execute during rapid 
+industry consolidation, market transitions and challenging economic times. 
+
+Blair, I now turn it over to you for the question and answer session. 
+
+
+Blair Christie, Senior Vice President, Global Corporate Communications 
+
+Great, thank you, John. We will now open the call for questions and we do request that sell-side analysts please ask 
+only one question. Before we go to the first question, I would like to reconfirm and clarify a comment we made earlier. 
+Global public sector orders grew only 6% annually, not 60%. So with that, operator, let's open the floor for the first 
+question. 
+
+Q&A 
+
+Operator 
+
+Thank you. Our first question comes from Jeff Evenson with Sanford Bernstein. 
+
+<Q - Jeff Evenson>: Hi, thanks. Looking at your guidance last quarter, you thought you were going to reduce share 
+count by about 40 million shares. You bought about 110 million back this quarter. Wondering, given the relatively big 
+gap between the growth rates you've been putting up and what you just guided to, it wasn't too hard to predict the stock 
+price is going to go down. Why accelerate the share purchases this quarter? And does that indicate anything about when 
+you came to the conclusion that things were going to be weaker than you maybe thought three months ago? 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: If you look at what we do, we always purchase 
+the stock during periods when we see it sliding a little bit. But, no, the quarter was shaping up very much as we 
+anticipated for the vast majority of the quarter, and we hit our expectations financially and earnings per share wise. So, 
+no, that had zero to do with purchasing in the marketplace. We intended to be aggressive in the marketplace. 
+
+<A - Frank Calderoni, Executive Vice President and Chief Financial Officer>: And, Jeff, we have been doing 
+these share repurchase as you know on an ongoing basis, and we do this over a longer period of time. So we don't make 
+any decisions specifically on the quarter. We make decisions over longer period of time. 
+
+<A - Blair Christie, Senior Vice President, Global Corporate Communications>: Thank you. Next question, 
+please. 
+
+Operator 
+
+Your next question comes from Mark Sue with RBC Capital Markets. 
+
+<Q - Mark Sue>: Thank you. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Hey, Mark. 
+
+<Q - Mark Sue>: Hi, John. By most accounts, the economic environment is improving or at least stable, yet the 
+sequential guidance is down 4% to 6%. If anything it seems to be more Cisco related as most companies are beating 
+and raising their outlook. Just trying to see if – what the root cause of these polar dynamics, and if it's about catch 
+market transition, how did Cisco miss the cable MSO transition where they are losing video subs and the public sector 
+situation, which has become more seasonal? And then lastly, Frank, I don't think you mentioned the gross margin 
+guidance. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Okay. So a couple questions. First is I think 
+everyone on this call understands what's going on in public sector. So I'd be very surprised if that does not have an 
+effect on companies who do business in public sector on a global basis. For us it is 22% of our business, and as a 
+reminder, our enterprise is 23% of our business. Public sector is 22% of our business. The commercial is about 20% of 
+our business, and service provider is about 33% of our business. 
+
+
+So within our service provider segment, it is growing very well for us in our traditional routing, switching, next 
+generation networks. We're up over 14%, as an example, and we're doing great in terms of the partnerships, the data 
+center implementation, et cetera. 
+
+Now, we're going to be, Mark, in probably 40 different product categories and areas, and in a given quarter, you 
+basically are not going to have them all hitting at the same time. And you're going to have a couple of challenges. 
+During normal quarters, you usually have growth in one area that balances a lack of growth in others. This quarter 
+because of our missing our sales forecast, and we almost never miss, we've got a world-class sales team, and we 
+normally – what we say we're going to get in terms of orders, we usually get or exceed within orders. 
+
+In terms of the MSOs, part of that also, as you know, is about how fast they are building out new houses, new 
+operations, and the MSOs are in a transition from a traditional set-top box capability to IP set-top boxes where we're 
+doing very well within that. So we saw the transition coming. We've positioned ourselves for the long run pretty well. 
+We made a couple changes in our Scientific Atlanta group in terms of management, but Mark, it's just one of multiple 
+areas. 
+
+And in terms of Europe, I think what we outlined in Europe again in terms of momentum, most people see Europe like 
+we do. Hitting some challenges, a couple of challenges along the way, especially in the government spending side of 
+the house. Too early to call it a trend, but they are experiencing some drops. 
+
+So I would say, Mark, I thought your challenge in your question was really to help in many ways staying where we are. 
+I think the only one that I would draw attention to is our cable business, and that's because it's very unique to Cisco in 
+terms of the market going on there. But if you look at the total cable transition, new competitors, a lot of new players, 
+that is a market in transition, and I would say where we are two to three years from now will say how well we caught 
+that transition or not, not what we did in a given quarter. 
+
+<A - Frank Calderoni, Executive Vice President and Chief Financial Officer>: Mark, as far as the guidance, as we 
+have been talking about for some time, our focus is really on top line and profitability. That's how we manage the 
+business, looking at the growth rates from revenue and also looking at our operating margins. It's also how we have 
+been guiding you and others to focus on operating margin, so we think that's important over a longer period of time, 
+which is why I gave guidance on operating margin. 
+
+As far as the gross margin is concerned, we have in the near term probably two factors that would affect gross margins. 
+First, as you would expect with the guidance that we gave on revenue, volume. So as volume comes down that has a 
+negative impact on margins. And then as the other thing that relates to Q2, which I think is important, is the seasonality 
+of some of our businesses like consumer. Consumer tends to have a very high participation based on the holidays in the 
+second quarter. And as you know, the margin for consumer is lower. So the mix does have a negative impact. 
+
+So those are two factors to take into consideration for Q2 from a gross margin perspective. But bearing this, from a 
+longer-term perspective, let's say for the rest of the year, we see margins in that 64% range similar to what I had 
+provided last quarter. 
+
+<A - Blair Christie, Senior Vice President, Global Corporate Communications>: Great. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Thank you, Mark. 
+
+<A - Blair Christie, Senior Vice President, Global Corporate Communications>: Okay, next question, please. 
+
+Operator 
+
+Our next question comes from Tal Liani with Bank of America. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Hi, Tal. 
+
+
+<Q - Tal Liani>: Hello. I have a question on your full-year guidance. If I assume next quarter is going to be normal 
+seasonality of 6% up, then the – sorry, the quarter after, then 4Q you need to get 10% to hit your annual guidance. So 
+that means you're assuming very strong growth for 3Q and 4Q regardless of the distribution between the two quarters. 
+And the question is, what kind of visibility you have or what's the basis for this strong guidance? And second, where do 
+you think you're going to have the strength? What kind of areas or what kind of regions? Thanks. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Okay, Tal. First of all, our view on this guidance 
+is we're disappointed. This is something that if we were to look back just a quarter ago, we expected it to be in the 
+mid-teens or higher, and that's what I think our growth rates should be. If you look, we've got a couple air pockets that 
+we hit. You adjust to those air pockets as you go through in terms of the direction. And if you look at the strengths for 
+the third and fourth quarter of the year, with the third quarter – and remember, we've got one extra week that we don't 
+get this year in terms of comparison. 
+
+Rob and I, as you would expect, have gone through in painstaking detail over the last couple weeks, Rob, looking very 
+carefully about where we are in terms of the pipeline, and we see good balance literally in all the segments. Service 
+provider, you will have problems next quarter in terms of the cable business, but I would anticipate it coming back up 
+into positive growth in North America, and I think we're well positioned for that. I think we're very well positioned 
+longer-term service provider, and out of the traditional service provider players in North America, around the world, 
+our position is the strongest it has been. 
+
+Enterprise and commercial is actually very solid off of very tough comparisons to a year ago, and so when you think of 
+bookings a year ago, remember our order lead times at that time were very stretched out. So people were ordering in 
+Q1 not just what they needed in the next normal period but ordering beyond that, and so we have tough comps in terms 
+of the direction. 
+
+In terms of emerging markets, Edzard has nailed it in Asia Pacific and handled the challenges in Japan remarkably 
+well. And the investments in the five top emerging-market countries, not as a sales machine, but as a true trusted 
+government partner, investment in business development, engineering, et cetera, is paying the dividends, where the 
+slowest growing of those was China with 30% growth, India and Brazil at 60, and Russia at over 100. That is 
+extremely, extremely solid. 
+
+So if you look at our business across the board, it has not changed dramatically. Collaboration is on fire. The data 
+center we're taking share and moving rapidly on. Our core product areas we gained share in the last quarter, and there 
+will be quarters up and quarters down, but if you watch us over time, it's very rare we lose share in our key markets. 
+We usually continue to gain even when we have very, very high percentage gains. 
+
+So, Tal, I'm disappointed in that fourth quarter just being at the higher end as you said of a given number. And I think if 
+you get normal economies and you watch us making the decisions as we said in my statements, not on the short-term 
+immediate, but where we want to be one, two, and three years out, I'm very comfortable with our long-term growth 
+aspirations in the 12% to 17%. I do think we've got a couple pockets here we have to fly through that surprised us, quite 
+candidly. 
+
+And to answer the question that was asked earlier, we bought stock because we thought it was a good price in terms of 
+momentum for where it would be not just a quarter out but one year and two years and three years out in terms of 
+direction, Tal. 
+
+So that – I tried to answer about four questions combined with making it sound like one, Blair. You can give me an 
+evaluation on it later. 
+
+<A - Blair Christie, Senior Vice President, Global Corporate Communications>: Okay, great. Thanks, Tal. Next 
+question, please. 
+
+Operator 
+
+
+The next question comes from Ehud Gelblum with Morgan Stanley. 
+
+<Q - Ehud Gelblum>: Hi, guys. Thank you very much. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Hey, Ehud. 
+
+<Q - Ehud Gelblum>: I'll try and be short and simple. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Okay. 
+
+<Q - Ehud Gelblum>: John, you said that the quarter unfolded as you expected. And then at the end of your talk, you 
+said that orders missed, if I got it right, your internal projections by about $500 million. So at what point did the orders 
+start falling behind your target rate? Was that before or after September Analysts Day? Just trying to gauge did they 
+right from the get go start falling a little bit behind and ended up at 500 million behind, or was that something that sort 
+of happened very recently? 
+
+And then on the inventory side, for Frank, with customer lead times back to normal, I would expect the inventory levels 
+to start coming back down again. Wondering why the inventory is high, and I assume at this price point where the stock 
+is trading right now, you'll be buying back a lot of stock because you bought it at 22 and the stock is back down there, 
+so your thoughts on that? 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Okay. So in terms of the sequence on the quarter, 
+the quarter was within our normal seasonality in terms of mix for each of the three months, the first month being a little 
+bit light and the last month being a little bit stronger, but the middle month being right in the middle. So it was pretty 
+much normal, Rob, would you say? 
+
+In terms of the momentum, we are a world-class sales organization, and when we make forecasts, we stick by them, 
+and candidly, our ability to close on them is very, very good. So we felt very comfortable with the quarter and 
+direction, and the quarter was not a concern in terms of making our commitments that we made from a revenue 
+perspective or earnings-per-share perspective. 
+
+The real key is understanding what's happening in public sector, and that really is slowly becoming obvious to us in 
+terms of certain segments of it and with the cable group where our service provider team felt pretty good about their 
+forecast going into the quarter and the growth here in the U.S. and just reminding everyone, that group had experienced 
+growth three quarters in a row of 20% plus. 
+
+For the second part of the questions, Frank? 
+
+<A - Frank Calderoni, Executive Vice President and Chief Financial Officer>: So from an inventory standpoint, 
+we went from 1.3 billion at the end of Q4 to 1.5 billion, so about a $200 million increase. The reason for that, there are 
+two things from a business perspective. One has to do, as I mentioned before, on the margin side, the seasonality of our 
+consumer business. As you would expect, we have anticipated a significant number of shipments to our channel 
+partners in this month, actually, in November, so we usually build that inventory toward the end of Q1. So that's one of 
+the drivers there. 
+
+The second driver is we also have a planned shutdown with one of our manufacturing facilities during the holidays as it 
+relates to our cable business, and so we do build ahead some of that inventory which we have done in the October 
+month in anticipation of that. So that's factored in. 
+
+And then the third piece, which is probably the smallest of that, is just the anticipation of shipping more in the quarter 
+and then having a little bit more in inventory as we move into November. But it's primarily the first two that are driving 
+that delta, the seasonality for consumer, as well as the need for our set-top box business. 
+
+<A - Blair Christie, Senior Vice President, Global Corporate Communications>: Okay, thanks, Ehud. Next 
+question, please. 
+
+
+Operator 
+
+Your next question comes from Brian Modoff with Deutsche Bank. 
+
+<Q - Brian Modoff>: Hi, guys. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Hey, Brian. 
+
+<Q - Brian Modoff>: Hey, what's going on? So, Frank, going back on that inventory question, the raw material 
+inventory increased 53% quarter on quarter and 98% year on year looking at our numbers. Was that driven by – were 
+there component shortages you were trying to deal with that you may have overshot on? Would we expect to see some 
+type of correction in that in the following quarter? 
+
+And then, John, in terms of the – with the stock coming down here a bit, can you talk a little bit about your strategy in 
+terms of looking at acquisitions and any change to that? Anything you think in particular that looks, given the changes 
+that you're seeing in the networks, that looks particularly interesting to you? 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Okay. Frank, you go first. I'll get the second 
+piece. 
+
+<A - Frank Calderoni, Executive Vice President and Chief Financial Officer>: Let me just make it a general 
+statement about the supply before I go into the specific question. Now, I know over the last several quarters we've been 
+talking about some of the supply challenges that we've had and most in the industry have experienced. And I did 
+mention as part of the call that in Q1, we did increase or actually get to our lead time objective across most of our 
+products. So we have seen a substantial improvement in our supply in meeting the customer requirements, which we 
+have been working on now for a couple of quarters. That's some of the good news. 
+
+Now, as far as specifically going forward and looking at the inventory and the raw material question, that was about up 
+a hundred quarter-on-quarter. And the other was finished goods; that was up about a hundred quarter-on-quarter. That's 
+the 200 that was I was talking about before, so the explanation for that on the raw materials as well as on the finished 
+goods was related to consumer products as well as for the set-top box based on the seasonality and then also the 
+shutdown that we have. Nothing abnormal from the standpoint of buying ahead parts, as I said, things for us are coming 
+a little bit more in balance on that. 
+
+Now, the overall supply chain I think in general from a component standpoint is still tight, so we'll have to continue to 
+work on that the next couple quarters. But from an inventory management standpoint, we're getting much better aligned 
+this quarter versus where we were a couple quarters ago. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: In terms of what looks interesting in the 
+opportunity, majority of our cash, as all of you are aware, is overseas. I'm still optimistic that I think our country should 
+recognize the leverage that 1.2 trillion represents that will be invested outside the U.S. if we don't create a favorable 
+environment to bring it back. 
+
+And I don't mean to imply that the whole group would come back, but Cisco would bring back almost all of our 
+overseas which is well in excess of 30 billion. And I think the odds are reasonably good, well better than 50/50, that our 
+government will come to the same conclusion on that, and it's one of the few levers that they can really hit that doesn't 
+cost the taxpayer anything. In fact, the taxpayer makes money on it. That could create not just jobs but investments in 
+assets here, investments in manufacturing capability, investments in, candidly, doing acquisitions or paying dividends. 
+So it's something that I would hope that we will do. 
+
+In terms of would this change our acquisition strategy, the answer is absolutely no. We're making decisions for the long 
+run. We hit a couple of air pockets here, that's what they are. And you all have watched us hit these air pockets over the 
+years. We wish we were smart enough to see them coming. We were not this time, and by the way we're normally not. 
+
+If you were to ask me what concerns me most about everything we covered today, it's that we missed our sales forecast. 
+We don't do that very often. If we were to see that occur a second quarter, that would really concern us in terms of is 
+
+
+something going on in the industry at a very large scale? So we're not perfect. We don't get it right. Our track record 
+has been very good. 
+
+We clearly missed this one in terms of the order rates that occurred, but again when you have lead times very low, you 
+don't – customers don't have to order very far out. So you can basically wait and wait and wait until you want to order 
+as opposed to when lead times are long, you have to order at the beginning of the quarter, the middle of the quarter, so 
+that's why you really don't know where your quarter is going to end up until you are literally closing the quarter in the 
+last couple of weeks in terms of how much pressure there is going to be or not within the areas. And to answer the 
+question indirectly, we came down even at that time by a fair amount on it. 
+
+Having said all of the above, you walk through with our sales team. The big picture hasn't changed. The major 
+transitions that are going on, we're in great shape for. We're taking market share in most of the areas we're moving into. 
+There may be a quarter or two where we're not. But as a whole, we're really world class in this. And what we miss this 
+quarter is usually when we have one area trip, we have another area or two that is very strong to pick it up. 
+
+This time we had 22% of our business begin to trip at a much faster pace than anybody would have anticipated and it 
+wasn't all but it was a fair amount of the public sector. And we had one segment of service provider trip at a time that 
+normally we might have picked it up in another segment of the service provider. We just didn't do it at this time. So if 
+you look at the big picture, it has not changed very much. And to answer the question back, the quarter in terms of the 
+big picture, I mean, the big plays that we're making on new markets, the big plays we're making in emerging countries, 
+the plays we're making on collaboration and the data center, those did not change. We had a couple challenges, and 
+we'll manage through those. But I think we'll look back and say they were just air pockets and good bumps, but we'll go 
+right through them. 
+
+Thank you, Brian. 
+
+<A - Blair Christie, Senior Vice President, Global Corporate Communications>: Thank you, Brian. Next question, 
+please. 
+
+Operator 
+
+Your next question comes from Nikos Theodosopoulos with UBS. Your line is open. 
+
+<Q - Nikos Theodosopoulos>: Okay. Thank you. I'm trying to think of how to ask this question. So I guess, John, the 
+question is, in covering Cisco for many years, when there's been a fairly significant reset in expectations, from my 
+recollection it's typically been during big macro changes: the tech bubble and then maybe in the 2008, 2009 recession, 
+so this one here is a bit surprising. And I understand the way you explained it with public sector and cable. You know, 
+and there was actually a question last conference call specific to public sector, and management said we actually 
+reviewed that this morning prior to the call, and we don't think there will be an issue. 
+
+So my question is, given the breadth of what the company is doing and the many different businesses it is now than it 
+used to be, do you think that you need to change your process in trying to figure out what the bookings and revenue 
+targets would be? Because this is a pretty significant reset when the rest of the company – the rest of the industry isn't 
+seeing this. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Okay. I'm not going to comment what the rest of 
+the industry is seeing or not. We're one month behind some of our peers in the industry and direction, but I think the 
+challenge is fair. And if you were to look in terms of across our product lines, most of our product lines and areas, 
+Nikos, are in very good shape. 
+
+The second – and so if you look at the total picture and you take our top 20 product category groups, we went through 
+them I think pretty slowly in terms of what our growth is, and I could walk through those again, whether it's high end 
+routing, whether it's access routing, whether it's the edge routing, the modular switching, the fixed switching, the data 
+center, the collaboration, the video capability, and progress on UCS and others. So our balance is good there. 
+
+
+Second, you're right, that when there have been major industry issues, as you see occurred in our Q3, and those issues 
+we said were long-term in terms of implication. What we have here is a public sector area that I think I would be 
+surprised if anybody on the call thinks the public sector spending over the next year is going to be dramatically strong 
+on a global basis for those developed countries, and each of you have to form your own opinion on that. What surprised 
+us is it happened quicker than we thought, and you're absolutely right. Rob and I looked at that last time, and the 
+forecast stayed well. That's why I raised the area as we don't miss the forecast very often. Sometimes that can be an 
+elbow. 
+
+We think this is not an elbow toward a down trend. We think this is a bump in two to three areas of our business, and 
+we think the majority of our core business, Nikos, is in very good shape. That's why we gave the yearly guidance that I 
+know you're nudging me towards. That's why we took a step out and even with these uncertainties, gave guidance that I 
+think one of your colleagues was very correct in assuming what it would probably be with all the appropriate caveats 
+by Q4 which is just two quarters out. 
+
+<A - Blair Christie, Senior Vice President, Global Corporate Communications>: Okay. Thank you, Nikos. Our 
+next question, please. 
+
+Operator 
+
+Our next question comes from Ittai Kidron with Oppenheimer. 
+
+<Q - Ittai Kidron>: Thanks. John, I think everyone understands your comments on gaining share in all of these new 
+data center collaboration and markets. I think where we have some concerns is around the fact that it seems like you're 
+losing a lot of share in your core legacy markets. And when we look at security, you're down 2%. Every other security 
+vendor is up 10, 15. In Wireless, you're up 9, but everyone else, 10, 15. I'm not going to talk about application 
+networking. We all know what the situation is there. And based on your guidance going into next quarter, I would 
+assume your switching revenue is going to be down a good 10, 15% sequentially, which again would raise the 
+questions of where Juniper and HP are taking business away, even the routing business for you, while doing well this 
+quarter, up 13% year-over-year for your biggest competitor across the street. It's up more than 20. 
+
+So I guess the question is, when you look at our core markets, I mean, do you feel you – you're not losing sight on your 
+core markets? Do you feel that all this investment and focus on the new areas you can still execute on that without 
+dropping the ball and losing focus on what you do best historically? 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: I think you always want to look as we said 
+before when you get surprised and we did get surprised in the quarter, you basically pause, you analyze what you think 
+went well, what you need to improve on, and then you have the courage to go right back aggressively. We've been 
+doing these together for what, 15 years now. And that's what we're doing here. This is minor bumps in terms of the 
+direction on where we're going to head as a company. 
+
+I'm going to constructively challenge you, Ittai, in terms of your market share gains. Access routing is an example. The 
+data just came out that we gained a point on that again year-over-year and we're up to 87% market share according to 
+the industry analyst and gained quarter-to-quarter as well. This is what occurred the third calendar quarter. In terms of 
+switching, we again gained 2 points year-over-year according to analysts with a market share of 70% plus. In terms of 
+Wireless LAN, that was an area that we had lost share over a couple quarters, and if you watch what Brett and the team 
+has done on the Wireless LAN, it was up 3 points quarter-over-quarter this last quarter in terms of direction. 
+
+Security is an area that we want to improve on. I'm very comfortable with what Padma and Brett are doing in the 
+security architecture. We spent a lot of time over the last couple of quarters in terms of this direction. And security is 
+set up for an architectural play. It has to tie to routing and switching, the data center, and the server type capability. And 
+enterprise voice I think we gained four points on that over the last year, had a very solid quarter-to-quarter gain on that. 
+
+In terms of UCS, you can do the market share numbers as quickly as I can, a play that most people didn't anticipate us 
+being in, we gained probably in excess of 5 points year-over-year and a couple points this last quarter. Even areas like 
+
+
+SAN, we gained according to this industry analyst that I have in front of me 6% year-over-year and a couple points in 
+the quarter. 
+
+To the two areas ANS and WAAS that you said here are some areas that we have good competitors like F5 and some of 
+the others in, we did lose market shares in those two categories. By the way, out of the markets that I've just run 
+through, the nine or ten that I mentioned – let me see: one, two, three, four, five, six, seven, eight, nine that I 
+mentioned, those are the two smallest. They're very meaningful in a billion dollar plus market opportunities for 
+someone, but if you look at the sequence I just went down through in terms of the largest market size, we're doing very 
+well in the top seven of the nine and the two that we're losing share in, and I don't want to lose share anywhere, are 
+ones that are, while still very material, smaller. 
+
+So I want you to continue to challenge us, Ittai, but respectfully, I think actually our execution here is pretty good. And 
+I wouldn't lead – when you bump – when you hit a bump or an air pocket, that doesn't mean what you're doing 
+strategy-wise hasn't been right all the way along, and we've been executing very well, and I'm very comfortable with 
+where we need to go. However, I realize part of what you do as the leader, it's when you hit that air pocket, you are 
+good at challenges, that's your job, and I welcome the challenges. 
+
+<Q - Ittai Kidron>: Good luck. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Thank you. 
+
+<A - Blair Christie, Senior Vice President, Global Corporate Communications>: We'll take the next question, 
+please. 
+
+Operator 
+
+Our next question comes from Simona Jankowski with Goldman Sachs. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Hi, Simona. 
+
+<A - Blair Christie, Senior Vice President, Global Corporate Communications>: Simona? 
+
+Operator 
+
+You may want to check the mute feature on your phone. 
+
+<Q - Simona Jankowski>: Can you hear me now? 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Yes, we can. 
+
+<Q - Simona Jankowski>: Okay. Sorry about that. John, I wanted to follow up with you on your orders coming in 
+about 500 million below your forecast. Is that entirely explained by the 3 items you mentioned, the U.S. cable segment, 
+public sector, and Europe? Or were there other smaller factors as well? And if you can rank order those three, that 
+would be helpful. 
+
+And then just again comparing your outlook to some of the larger competitors in your space that have reported, I look 
+at Juniper. Their product backlog was up 25% sequentially. I look at Motorola which also has a significant set-top box 
+presence and also significant public safety business that sells to state and local governments, and in both of those cases, 
+their Q4 outlook was actually for sequential growth. And so just wanted to see if you can clarify a little bit further if 
+this is a macro issue or a Cisco specific issue or if there is some rotation in priority maybe that is affecting you guys 
+disproportionately? 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Yeah, I would break it into the answer would be 
+a C that you didn't give. In terms of let's say in terms of maybe it's our product areas, we're doing pretty well in most all 
+of them. We have an area in the cable space that I think is due to a combination of factors. I think we discussed that one 
+
+
+pretty well. 
+
+In terms of the government business, we're trying to get ahead in terms of our projections. We were surprised at how 
+quickly that dropped off, and it didn't come back at the end as aggressively as we would like in terms of the direction. 
+
+Having said that, it depends on where you're selling. Our federal business was very solid with growth in the mid-teens 
+or slightly above if I remember right, Rob, on that. Our Asia Pacific business is very strong, and you heard our 
+comments on the 5 key emerging countries and our overall emerging countries averaging 32% growth year-over-year 
+off of tough comps last year that were aided in part by long lead times in terms of people ordering ahead. 
+
+Now, there will always be an area or two that there are competitors gaining a little bit of ground on us. This time I 
+agree with you in terms of the set-top box comparison on that. And part of that depends on which accounts you're 
+selling to and which accounts are ordering within that in terms of the direction. 
+
+So if you look overall, I think the government spending I would be very surprised if we're on this call a year from now 
+and there's a lot of feedback that government spending did not tighten up in terms of the areas. You all see what's going 
+on a global basis as well as I do in the developed countries, developing, Japan, the U.S., Canada, Western Europe, in 
+terms of the direction. 
+
+So are there a couple areas where competitors have gained some momentum? Yes, there will always be. If there isn't, 
+you probably aren't in good markets. But in the majority of areas, I'm very comfortable with where we are and where 
+we're going. And I would hope that the numbers that I shared today gave you a good feeling about where we're doing 
+on those numbers whether it was about orders and we deliberately gave those in collaboration as well in data center and 
+video as well as the revenue numbers. 
+
+<A - Blair Christie, Senior Vice President, Global Corporate Communications>: Thank you, Simona. Next 
+question, please. 
+
+Operator 
+
+Next question comes from Brian White with Ticonderoga securities. 
+
+<Q - Brian White>: Okay. Hi, John. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Hey, Brian. 
+
+<Q - Brian White>: When we think about the government business, is this more legacy products or even some of the 
+next generation products, cloud computing type applications that you're seeing a slow down? 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Yeah, it's too early to break it that finely. It's a 
+good question, Rob. Something we might want to think about as a group. I think what you're seeing is it varies by 
+government, by country, by city, by state as an example. Some of the states, as you know, have a required balanced 
+budget clause, so you have to do whatever you have to do to balance that. So for those states, you're going to see the 
+brakes hit pretty hard in terms of spending in any category. 
+
+Secondly, where you're leading me, you're absolutely right. Most governments if they're saying I'm going to have to 
+maintain this spending not only at the point in time now but probably ongoing, they're going to begin to look at how 
+they deliver services differently. They'll begin to look at what they can do on cloud, how they combine their data 
+centers, how they get higher productivity as their employees retire over time and direction. So in the long run, this 
+could actually play back reverse to being an advantage for technology spending. 
+
+But if it is truly discretionary spending, I think we're going to see some governments put the brakes on firmly across 
+everything. I think you're going to see some where they're going to have pretty good leaders and pretty good IT leaders 
+who will say the way to put on the brakes is do it selectively and do it like a surgeon and pick and choose where you go 
+and here are the areas that can actually give you more leverage, and then there will be a few who I think basically will 
+
+
+say now is the chance, I've got to transform my government, and I'm going to use this as a transition. And I think it's 
+mixed use. You watch our own group in the U.S., and spending is in the mid-teens or a little bit higher, and it varies by 
+state within that. 
+
+That's a nice way of saying, Brian, we're going to take a look at that, but I think it will be probably be A, B, and C in 
+terms of its implementation. 
+
+<Q - Brian White>: Okay. And John, Cisco had a significant presence at the Shanghai World Expo with a focus on the 
+Smart and Connected Community. What did you learn from China's appetite for some of the Smart and Connected 
+solutions and what these companies and governments are looking for over the next few years? 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Well, I think it gives an opportunity for a 
+company to be a partner with an individual city, using our terms, a province or a state, or the country as a whole. What 
+was exciting in what we saw in the Smart Plus Connected Communities, is Songdo, which was the original leader that 
+we worked with in this area where you're looking at literally a couple hundred million dollars in Cisco implementation 
+alone within their city of the future in terms of the early phases, and how that's going to be a model for how you do 
+everything from traffic control to delivering virtual healthcare, to education, to safety and security. 
+
+The key takeaway is there are a lot of cities in China that have – remember, I think it's 200 cities with a million plus 
+people that are going to say I really want to position ourselves for the future. But we saw the exact same interest, Rob, 
+in Australia, in the U.S. I mean, the builders out of Australia said this is what we need to put in place in terms of our 
+implementation. 
+
+And what you're leading me toward, Brian, is the message that I think I want to deliver very swiftly is many of these 
+new markets we're in are unfolding exactly as we had hoped and wanted. And they can be almost thought of in four 
+categories, the first one being our traditional router, switching, VoIP, wireless LAN, business, voice within that, and 
+those we did very well on. 
+
+Then there'll be a first tier of opportunities. I would put data center collaboration into that, and we gave you very good 
+numbers of the next wave of big opportunities. 
+
+Then the third wave will be areas like smart grid and cloud. And you're beginning to see those unfold as we're seeing 
+within that. So this is a nice way of saying when people look and say, hey, was this an air pocket, a quick bump that we 
+hit, or something more fundamental? Unless I'm missing something, this is an air pocket that we did hit. We hit a 
+couple of them at the same time. We are sharing that very transparent with you, and we will always, number one, be 
+aggressive but with appropriate business risk involved, and that isn't going to change here. We will analyze where we 
+are, put the foot back down on the gas pedal, and go again. 
+
+Now, to answer one of your peers' questions, you've got to say when you missed on an area, are you going to be 
+analyzing the sales forecasts with Rob and I in more detail with the team? Of course we are. Will we change our 
+operating committee group in terms of spending more time on operation reviews and more detail within that? Of course 
+we will on that. But I view those to be minor adjustments, and unless you're seeing something that I'm not seeing, we're 
+winning our product direction. We're winning on our innovation, we're winning on our big architectural plays, and 
+we've got a couple markets here that are pretty sizable for Cisco, two of which I'd say we would have zero control over, 
+given what the budgets are going to be and the direction in the short term and one that you can say, well, we could have 
+executed a little bit better, which I think is fair. 
+
+If there isn't out of our top 20 markets one or two you say each quarter we could have executed on, we probably either 
+haven't done a good job of sharing that with you or we aren't pushing ourselves in terms of traction. We just did not 
+have a couple other areas that picked up the slack here. And you're talking about probably 30% of our business that was 
+affected here. 
+
+<A - Blair Christie, Senior Vice President, Global Corporate Communications>: Great. Thanks, Brian. Okay, so 
+John, we have time for two more questions. We'll take one real quick. 
+
+
+Operator 
+
+Our next question comes from Richard Gardner with Citigroup. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Hi, Richard. 
+
+<Q - Richard Gardner>: Hi, how are you? 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: You go by Richard, don't you? 
+
+<Q - Richard Gardener>: Yeah, that's great. Thanks, John. John, you've talked about this a little bit in answer to prior 
+questions, but – and you've talked about backward-looking market share, but is there anything you can tell us in terms 
+of bid win rates or other competitive metrics that you track throughout the quarter to make us comfortable that the 
+shortfall in orders outside the cable segment, I guess is primarily market and not a competitive issue for you? Were 
+your order win rates or your bid win rates consistent with where you wanted them to be, and it was just simply a fall-off 
+in orders, or what additional detail are you able to provide there, please? 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: I'm going to take a crack at it. But I'm going to 
+let Rob take the first part, and then I will follow on on it as I think about how I want to answer it. Rob? 
+
+<A - Robert Lloyd>: John, I think that some of the questions have revolved around our ability to convert pipeline into 
+orders. And clearly as you've seen, state governments go through a series of elections in the United States. That's a 
+period in which not a lot of projects are converted to orders as new governments get formed and decisions may be 
+pushed out a quarter or two. It's a little bit harder getting orders in some of the state and local governments. 
+
+Clearly we've seen universities innovating and buying technology. Education is out there, but it's a little bit slow on 
+getting E-Rate funding, which then funds some of those projects. So a little bit of this is around project funding and 
+capture rather than wins and losses. And I think what you said is we're winning a lot of major franchises and 
+opportunities, but converting those in orders will depend on the ability of an institution to actually fund and complete 
+those projects, and therefore I don't think we're seeing any change in win rates. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: So let's get more basic than that if we could, 
+Rob, and then I'll take the second phase. In terms of when you go up against Juniper, when you go up against HP, when 
+you go up against an IBM in a data center architectural play, are you seeing any fundamental change in terms of the 
+win rates in this area? 
+
+<A - Robert Lloyd>: No. 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Yeah. And I just wanted Rob to say that rather 
+than me for two reasons: First, is if you look at where we are, there is nobody that matches the CRS-3 and CRS-1, and 
+the area where we were exposed at the edge that you all fairly criticized us on a year ago, we're taking market share, 
+and I was very direct in terms of edge and wireless that you would probably see a major bump this next quarter alone. 
+
+In terms of access, we're at 87% market share according to that analyst. It doesn't get much better than that and we 
+actually gained share. In terms of switching, might there be a quarter or two where numbers go up or down slightly? 
+We do very well. In terms of are some of our competitors in installed accounts, when we start to win, saying, "I'll give 
+you the product for free," so are you seeing some aggressive moves from some of them? You are seeing that in terms of 
+direction. 
+
+But our win rates is very good. You go into data center. We are literally knocking off one service provider after 
+another. We're knocking off enterprise account after enterprise account to already be at 40 that are $1 million plus in 
+run rates there feels very good. 
+
+So I will give you that in terms of set-top boxes, Motorola gained market share this quarter. I will give you that in ANS 
+and WAAS, which out of the nine areas I talked about, we have a couple good competitors there. But by the way, the 
+seven areas that are all bigger than that and even higher strategically for Cisco, so both bigger market opportunity, et 
+
+
+cetera, we're doing extremely well in. 
+
+In the wireless LAN just an example, a year ago, we had a little bit of a product mismatch with some of our 
+competitors. Now we're ramping up at a very fast pace in terms of wireless LAN, and we took this most recent quarter 
+3 points on that. 
+
+So maybe you're seeing something we're not, but I'm very comfortable with where we are on products and this 
+innovation engine is on fire. So I keep going back, an air pocket that we hit, not a dramatic one in terms of change, in 
+terms of where we expect to be in two to three quarters from now. We feel pretty good about our momentum and the 
+direction wise and the issues that we can control or influence, I think we're as strong as ever. So you can come back at 
+me and invite anybody on the phone to come back, but where we are in terms of our product sets and the 
+competitiveness, we're very, very good on that. 
+
+<Q - Richard Gardener>: Thank you, John. 
+
+<A - Blair Christie, Senior Vice President, Global Corporate Communications>: Okay. One last question, please. 
+
+Operator 
+
+Our last question comes from Jason Ader with William Blair. 
+
+<Q - Jason Ader>: Yes, thanks. It's real two quick housekeeping ones. Excluding the cable operators, John, what was 
+the service provider order growth in Q1? And also what percentage of public sector is U.S. fed? 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: [inaudible] back into it. In terms of – I don't 
+think I have the cable operators outside U.S. broken down, although cable operations in Europe actually grew and we 
+did well on both traditional cable operations, as well as IP set-top boxes. Is that what you remember, Rob? Okay. 
+
+To the second part, the federal business in terms of our overall approach grew in the mid-teens and was very solid on 
+that. State and local, that tends to be – go back and forth versus education, probably 45-55, or a 40-60 type of basis. 
+State government was down pretty dramatically as I shared with you all. Local government was down a little bit. 
+
+In terms of education, as Rob alluded to, higher education is actually going well for us. Its growth rate was mid-teens or 
+higher. And that's probably a pretty reasonable expectation going forward. For K1 through 12 and E-Rate is a little bit 
+tougher, as you all know, in the marketplace. I think that was down slightly. 
+
+In terms of total federal business, which I was – and total government business in the U.S., I was giving you all time to 
+see if one of you could do the math for me. I'd probably have to look at it in terms of basis, but 22, 24% probably of the 
+
+U.S. business. 
+<Q - Jason Ader>: So I guess U.S. fed is 24% of the total U.S. or total public sector – total U.S. public sector or total 
+global public sector? 
+
+<A - John T. Chambers, Chairman and Chief Executive Officer>: Let me get the numbers and look at that on a 
+follow-up rather than shoot from the hip. We're all looking at tables. 
+
+In terms of the business – remember, the Federal business is heavily weighted to the beginning of the fiscal year. So Q2 
+in Federal while we would anticipate good growth rates there, is not near as big as Q1. So there are seasonalities by 
+segments within this and when orders occur within it overall. 
+
+But I think that the safe number to use is what we see on a global basis. It's 22% of our business is public sector. And 
+our enterprise business is 23%, and our commercial business is 20%. So the 23% which is enterprise and the 20% 
+commercial we feel very good about. 
+
+The government business, again, we think we're well positioned to win more than our fair share there, so I don't think 
+you're going to see us have surprising market share losses unless I'm missing something in that category and we'll get 
+
+
+our fair share over time. The one area that I do think that we have room for improvement on is the cable business, and 
+part of that reminding everyone is also dependent on which customers you have, whether their order rates, etcetera, 
+depend on which vendors they standardize on. 
+
+<A - Blair Christie, Senior Vice President, Global Corporate Communications>: Great. Okay, thanks, Jason. 
+
+Blair Christie, Senior Vice President, Global Corporate Communications 
+
+So we are going to close. Cisco's next quarterly conference call which will reflect our second quarter fiscal 2011 results 
+will be on Wednesday, February 9, 2011, at 1:30 PM Pacific Time, 4:30 PM Eastern Time. 
+
+Additionally, downloadable Q1 FY '11 financial statements will be available following the call including revenue 
+segments by product and geography. Income statements, full GAAP to non-GAAP reconciliation information, balance 
+sheets, and cash flow statements can be found on our website in the Investor Relations section. Just click on the 
+financial reporting section of the website. 
+
+And again, I'd like to remind you that in light of Regulation Fair Disclosure, Cisco plans to retain its longstanding 
+policy to not comment on its financial guidance during the quarter unless it is done through an explicit public 
+disclosure. 
+
+Please call the Investor Relations department with any follow-up questions from this call. Thank you for your 
+participation and ongoing support, and this concludes our call. 
+
+Operator 
+
+Thank you for participating in today's conference call. If you would like to listen to the call in its entirety, you may call 
+866-357-4205. For participants dialing outside the U.S., please dial 203-369-0122. This concludes today's call. You 
+may disconnect at this time. Thank you. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

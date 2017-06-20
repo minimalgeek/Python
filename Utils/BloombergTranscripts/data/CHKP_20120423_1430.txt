@@ -1,0 +1,781 @@
+Q1 2012 Earnings Call 
+
+Company Participants 
+
+• Kip E. Meintzer 
+• Tal Payne 
+• Gil Shwed 
+Other Participants 
+
+• Shaul Eyal 
+• Brad A. Zelnick 
+• Sterling Auty 
+• Robert Breza 
+• Daniel Harlan Ives 
+• Aaron M. Schwartz 
+• Shebly Seyrafi 
+• Michael Turits 
+• Walter H. Pritchard 
+• Philip A. Winslow 
+• Philip C. Rueppel 
+• Greg Dunham 
+• Brent Thill 
+• Jonathan Ho 
+• Gregg Steven Moskowitz 
+• Dan T. Cummins 
+• Keith Weiss 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Greetings and welcome to Check Point Software First Quarter 2012 Earnings Conference Call. At this time, all 
+participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. 
+[Operator Instructions] As a reminder, this conference is being recorded. 
+
+It is now my pleasure to introduce your host, Kip E. Meintzer, Head of Global Investor Relations for Check Point 
+Software Technologies. Thank you. Mr. Meintzer, you may begin. 
+
+Kip E. Meintzer 
+
+Thank you, Melissa. Good afternoon and good morning. I'd like to thank all of you for joining us today to discuss 
+Check Point's record financial results for the first quarter of 2012. Joining me on the call today are Gil Shwed, 
+Chairman and CEO; and Tal Payne, Chief Financial Officer. 
+
+As a reminder, this call is being webcast live on our website and is being recorded for replay. To access the live 
+webcast and replay information, please visit the company's website at checkpoint.com. For your convenience, the 
+
+
+conference call replay will be available through May 1. If you'd like to reach us after the call, please contact Investor 
+Relations by emailing kip@checkpoint.com or by phone at +1-650-628-2040. 
+
+Before we begin with management's presentation, I'd like to bring the following to your attention. 
+
+During the course of this call, Check Point representatives will make certain forward-looking statements. These 
+forward-looking statements may include our expectations regarding demand for our security products, our expectations 
+regarding our taxes in Israel, our expectations regarding the introduction of new products and programs and the success 
+of those products and programs, and last but not least, our expectations regarding our business and financial outlook for 
+the second quarter of 2012. 
+
+Other statements, which may be made in response to questions, which refer to our beliefs, plans, expectations or 
+intentions are also forward-looking statements for the purposes of the Safe Harbor provided by Section 27-A of the 
+Securities Act of 1933 and Section 21-E of the Securities Exchange Act of 1934. Because these statements pertain to 
+future events, they are to subject to various risks and uncertainty and actual results could differ materially from Check 
+Point's current expectations and beliefs. 
+
+Factors that could cause or contribute to such differences include the risks discussed in Check Point's Annual Report on 
+Form 20-F for the year ended December 31, 2011, which is on file with the Securities and Exchange Commission. As a 
+reminder, Check Point assumes no obligation to update its forward-looking statements except as required by law. 
+
+In our GAAP press releases which have been posted on our website, we present GAAP and non-GAAP results, along 
+with reconciliation tables which highlight this data, as well as the reasons for presentation of non-GAAP information. 
+
+Now, I would like to turn the call over to Tal Payne, Check Point's Chief Financial Officer, for a review of the financial 
+results. 
+
+Tal Payne 
+
+Thank you, Kip. Good morning and good afternoon to everyone joining us on the call today. I'm happy once again to 
+begin the review of the first quarter of 2012. Our revenues for the first quarter increased by 11% and were towards the 
+high end of our projection. Non-GAAP EPS was $0.74, representing 16% growth year-over-year and $0.01 above the 
+top end of our guidance. 
+
+Before I proceed further into the numbers, let me remind you that the first quarter GAAP financial results include 
+non-cash equity-based compensation charges, amortization of acquired intangible assets, net gain on marketable 
+securities previously impaired and the related tax effects. Keep in mind that non-GAAP information is presented 
+excluding these items. 
+
+Now, let's take a look at the financial highlights for the quarter. In the first quarter, revenues reached $313.1 million, 
+towards the high end of our projection, representing an increase of 11% compared to $281.3 million in the first quarter 
+of 2011. This growth was driven by all our business elements. We sold more products, had growth in support services, 
+and a continued significant increase in software blades. Towards the end of last year, we launched our new appliance 
+line. It was received with great enthusiasm in the market, approximately 80% of our enterprise appliances sold this 
+quarter from the new product line. 
+
+Our net – our new data center products did great as well, with the 61,000 revenues doubled relative to Q4 2011, and the 
+21,400 provided significant contribution this quarter. 
+
+Our software updates, maintenance and service revenues reached an all-time high of $202.9 million this quarter, with 
+an outstanding growth of 15% year-over-year. The growth was driven by our annuity software blades that are 
+recognized as subscriptions. 
+
+Deferred revenues as of March 31, 2012 were $542.2 million, an increase of $82 million or 18% over March 31, 2011. 
+Short-term deferred revenues increased by 15%, higher than seasonally expected. We had growth in revenues across all 
+
+
+geographies, with Americas and Asia Pacific leading the growth. Revenue distribution by geography for the quarter 
+was as follows; Americas contributed 45% of revenues, Europe with 38% and Asia Pacific and Japan, Middle East and 
+Africa regions contributed the remaining 17%. 
+
+From a deal size and quantity perspective, this quarter, we saw an increasing number of larger deals. We had 34 
+customers that each has transactions with a value greater than $1 million, compared to 27 in the same period last year. 
+Transactions greater than $50,000 accounted for 60% of total order value, similar to last year. 
+
+From an operating perspective, we posted great results. Our GAAP operating income was $172.9 million in the first 
+quarter of 2012, an increase of 22% compared to the same period in 2011. GAAP operating margin for the quarter was 
+55%, an increase from the 50% in the same period last year. 
+
+Our non-GAAP operating margin this quarter reached 60%, similar to the fourth quarter last year, which is the highest 
+in the last six years. This represents an increase of three points compared to the same period last year. It was achieved 
+primarily as a result of our top-line performance, and the tailwinds from the strengthening of the dollar against other 
+currencies, compared to the same period last year. 
+
+This year, the new tax reform in Israel came into effect. The reform simplifies the tax structure, reduces many tax 
+uncertainties, and lifts the tax limitations of cash distribution from future income. As a result of the reform, the 
+effective tax rate in our P&L is expected to reduce next year, while we will see an increase in tax payment. 
+
+GAAP net income for the first quarter of 2012 increased by 18% year-over-year from $122.1 million or $0.57 per 
+diluted share to $143.6 million or $0.68 per diluted share. Non-GAAP net income for the quarter was $156.9 million or 
+$0.74 per diluted share, up from $137.1 million or $0.64 per diluted share in the same period a year ago. Earnings per 
+share exceeded the high end of our guidance representing 16% growth year-over-year. 
+
+We had record cash from operations this quarter of $275 million, an increase of 30% from $212 million in the first 
+quarter a year ago. This was mainly as a result of excellent collection of last year bookings, as well as a positive cash 
+effect of our balance sheet hedge. 
+
+Our DSO is at 72 days, similar to the previous quarter. During the quarter, we repurchased approximately 1.3 million 
+shares of a total cost of $75 million. Finally, our cash balance has crossed the $3 billion bar reaching $3.121 billion. 
+
+Now, let's turn the call over to Gil for his thoughts on the first quarter. 
+
+Gil Shwed 
+
+Thank you, Tal, and thank you, everyone, for joining us on the call today. Tal has already addressed the financial 
+results for the quarter and I am glad to meet with you with these good results. As Tal mentioned, we saw very nice 
+adoption of our new appliance line. We've seen a very nice growth in midsized appliance unit, and in the 
+super-high-end systems. Software blades also continued to grow nicely and are becoming more and more substantial 
+part of our business. And so during the second, we are continuously adding new software blades to our portfolio to 
+elevate the security we provide to our customers. 
+
+We opened the second quarter with some major announcements for the year. The most significant one is the 
+introduction of ThreatCloud. While the need for a more collaboration in fighting cybercrime appears obvious, we 
+believe that ThreatCloud is the first and only such initiative in the marketplace. When we analyze the challenges facing 
+cyber security, we find that it takes a very long time – weeks and even years – to identify some attacks. Attacks will 
+usually appear in many places, yet today's organization is alone in trying to analyze and combat these attacks. The 
+result is that even after an attacker is identified by a customer, most of the world remains unaware and unprotected. 
+This can be changed through collaboration. An attacker that is identified by one gateway somewhere in the world can 
+turn into a warning sign to the rest of the world. This is the idea behind ThreatCloud, creating the world's first 
+collaborative network to fight cybercrime. 
+
+
+Gateways participating in ThreatCloud will be able to contribute to the network. When we become aware of the new 
+attack, we'll update the ThreatCloud and all our participants in the network will be able to quickly detect and block the 
+attacks. In addition, ThreatCloud employs a network of sophisticated sensors in key places in the Internet in order to 
+further identify threat. This collaboration should shorten the response time to attacks from days, weeks and even 
+months to hours or even minutes and extend the scope of addressable threat by orders of magnitude providing for great 
+breakthroughs in cyber security. 
+
+ThreatCloud isn't another long-term vision. It is actually working now and is part of R75.40 software which we 
+released last week, which powers our new Anti-Bot Software Blade which is now shipping in our enhanced Antivirus 
+Software Blade by providing threat updates directly to customers' gateway, enabling them to enforce preemptive 
+protection against advanced threats such as bots, APTs, and other forms of sophisticated malware. And, ThreatCloud is 
+only one part of our R75.40. R75.40 has over a hundred new features in all areas of management and security. One of 
+the most important features is our new secure operating system, GAiA. 
+
+GAiA combines the two operating system we had in our product portfolio. The Nokia IP operating system and the 
+SecurePlatform, both offer some unique characteristics and have earned some loyal customers. Loyal IP series 
+customers were reluctant to move to our newer client model, who didn't try the IP operating system. Now with GAiA, 
+these customers will be able to move to our unified product line, taking advantage of our familiar interface and all the 
+features we needed and getting the benefit of the great new platform we provide. Many customers have been waiting 
+for GAiA for a long time, and it seems that the reactions so far are very positive. We made these announcement last 
+week on our Check Point Experience Partner and Customer Conference which we held in Orlando. It appears that the 
+new announcement was very well received. 
+
+In terms of numbers, as we are all aware, there are always risks in predicting the future. That being said, we continue to 
+expect good performance for the year and are maintaining our annual and quarterly projection. Specifically, for the 
+second quarter, we expect revenues in the range of $324 million to $336 million and non-GAAP earnings per share in 
+the range of $0.74 to $0.77 per share. GAAP EPS is expected to be approximately $0.07 less. 
+
+Once again, I'd like to thank you for being on the call with us. We had a great first quarter, and we look forward for the 
+remainder of 2012. 
+
+With this, we can open the call for your questions. 
+
+Q&A 
+
+Operator 
+
+Thank you. We will now be conducting a question-and-answer session. [Operator Instructions] Our first question 
+comes from the line of Shaul Eyal with Oppenheimer. Please proceed with your question. 
+
+<Q - Shaul Eyal>: Thank you, operator. Hi. Good afternoon, guys. Good quarter. Two quick questions on my end; I 
+know, Tal, you provided some good color about the 61000's and the 21400. But maybe, Gil, can you provide us with 
+more color; I recall call that last thing you talked – last time you talked about, I think it was the retail vertical that was a 
+little strong. What have you seen this quarter? How the ASPs have been trending on both those products? 
+
+<A - Gil Shwed>: The ASPs in the high end actually were very good, and specifically for the 61000, we had some 
+very, very large deals that drove ASP up. I don't know if it's indicative for the future but people bought fully populated 
+systems that are relatively costly. Other than that, I think we've seen a good mix of gateways. I think I mentioned in my 
+part that, when we saw a nice increase, it was actually in the low to mid-size gateways, an area that we didn't 
+necessarily focus on. But, I think that our latest appliances, the 2012 model, has done a great job in making us very 
+competitive in this segment of the market. So that's where we've seen the big advance in terms of units. 
+
+<Q - Shaul Eyal>: Got it. And Tal, one question for you; operating margins strong, I think, for the second conservative 
+quarter now where we had 60%. Is that the type of metric from the operating margin perspective we should be thinking 
+
+
+about down the road? What's behind this continued consistent of the operating margin? We used to think about it more 
+mid, high 50s but 60% appears to be becoming the new norm? 
+
+<A - Tal Payne>: I wouldn't call it the new norm; it's two quarters, you're right. Remember that Q4 is typically higher 
+margin than the first quarter. So, Q3 and Q4, typically higher margin than Q1 and Q2. So, Q4 is not indicative. Q1 was 
+high margins as you can see. Two reasons for that; one, as we continue to perform in our revenue growth, it allow us to 
+see some improvement as a result of the leverage in our business model. We did have tailwind from the dollar. Q1 this 
+year, the average of the dollar versus the average in Q1 last year was higher; meaning the dollar got stronger versus last 
+year, which meant that it allowed to improve the margin. I think it gave us around $2 million to $3 million this quarter 
+so take that into account. You can't predict that it will continue in the future; that's why I don't want to commit to that 
+type of percentage. And, we also had some, as you know, company event in Mexico this quarter, which means that 
+around two weeks out of the first quarter we had lower levels of expenses. So, I wouldn't make that as the new mark. 
+And, as you know – so we don't aim for increase in the gross margin or in the operating margin; we aim to continue and 
+grow our business. 
+
+<Q - Shaul Eyal>: Fair enough. Thank you very much. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Brad Zelnick with Macquarie. Please proceed with your question. 
+
+<Q - Brad A. Zelnick>: Thank you very much. Gil, with billings growing slower than they have in the prior six 
+quarters despite the strong uptake in software blades, can you help put that in context and specifically speak to what 
+gives you the confidence to maintain your double-digit revenue growth outlook at the midpoint of your guidance versus 
+billings in this quarter at least that are high single-digit? And, I know you don't guide to deferred revenue but how 
+should we think about that as we put our models together? Thanks. 
+
+<A - Gil Shwed>: First, we don't publish booking or billing so I don't know how you gathered the data. But, in terms of 
+our internal metrics, we actually performed very much in line with our plans for the year. Seasonally, Q1 is always the 
+slowest quarter and then the quarter starts to ramp up very, very quickly and I think that's what we exactly saw. We met 
+our internal plans. And, again, I think we're doing quite well against all our internal metrics. 
+
+<Q - Brad A. Zelnick>: Thank you. And, just a quick follow-up for Tal on DSOs; it seemed they were up very slightly 
+sequentially from Q4, which is not the typical pattern in Q1. Just curious if you can speak to the linearity in the quarter. 
+Thank you. 
+
+<A - Tal Payne>: It's the regular phenomenon of very backend loaded. I think it was quite similar. It was 72 days 
+according to my calculation. I can tell you from the facts collection is very, very good and nothing has changed in our 
+collection pattern and you can see it very clearly in our cash flow. This was the strongest cash flow ever, $275 million 
+with 30% growth. And, as you know, the growth comes from the collection of the booking of Q4. So, DSO is one 
+calculation. Maybe it went up one day, but it's completely in line in terms of collection. 
+
+<Q - Brad A. Zelnick>: Thanks very much for taking my questions. 
+
+<A - Tal Payne>: Sure. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Sterling Auty with JPMorgan. Please proceed with your question. 
+
+<Q - Sterling Auty>: Yeah, thanks. Hi, guys. I actually want to follow on that linearity question. While the 
+quantitative – I agree with the DSOs. I'm just curious qualitatively, Gil, in terms of your conversations with the 
+channeling customers, how did you feel demand develop through the quarter? Because we've have heard different 
+things from different regions in terms of months that were really good months and that were sluggish. Curious how you 
+
+
+saw the demand develop through the quarter. 
+
+<A - Gil Shwed>: I think the quarter went according to plan. I think we've got – the salespeople made their forecast, 
+and the quarters are backend loaded in the last few years. So, there's no surprise in that, nothing really to report about 
+that. And, we expect good numbers for the second quarter. 
+
+<Q - Sterling Auty>: Okay. And, then one follow-up question; on the high-end, on the 61000, where are you seeing 
+the biggest demand for that? In other words, are these greenfield opportunities or are these data center network security 
+upgrades? And, what is it that you see – you're replacing, if it is an upgrade? 
+
+<A - Gil Shwed>: It's a combination of that. It's not the upgrades of – mostly not upgrades of old models here but 
+customers that really needed high-end performance and now can get it. There is really a host of different usages. There 
+is some in the financial sector, there is some that are used to fight denial of service attacks at very high rates. I must say 
+that – we have government, we have healthcare, we have industrial, we have financial; there's many different types of 
+different customers here and there is no one kind of usage. Again, this is not – that's one thing. Remember, this is not a 
+huge number of deals because these deals tend to be very large but the direction is very positive here. 
+
+<Q - Sterling Auty>: Got it. Thank you very much. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Robert Breza with RBC Capital Markets. Please proceed with 
+your question. 
+
+<Q - Robert Breza>: Hi, thanks for taking my questions. Maybe as a follow-on to Sterling's question, Gil, as you step 
+back and talk to customers, you mentioned having some success at the low end of the market, what are you seeing 
+across the landscape, maybe from a differentiated perspective at the low end versus the high-end? Meaning, are you 
+seeing people redesign their networks differently today than maybe they were three years ago and how that's driving 
+demand? Thanks. 
+
+<A - Gil Shwed>: No big changes on that. I think our latest product line that we announced at the end of 2011, the 
+2012 model, is very competitive, and customers are very happy to purchase the new model. I haven't – we just had the 
+Check Point Experience Conference in Orlando, and I must say that all I heard was very positive feedback from 
+channel. I don't want to say that the channels are now refocusing or focusing on broader market segments, because 
+that's not what I heard. I do think that channels would still like to see large deals, and on the same time, all our channels 
+have the mix of customers on all avenues of the market, and the only thing I can deduct is that we became more 
+competitive and in places where they weren't really putting their big effort in the smaller deals, we are now much more 
+competitive and we are just able to offer our models in an easier way. 
+
+I know that on the high-end on the large deals, everybody is making a big effort to win, and then we're doing really 
+great, and I think we have a lot of potential on the small-to-mid size deal, and I'm glad to see that some of that potential 
+starts to unfold. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Daniel Ives with FBR Capital Markets. Please proceed with your 
+question. 
+
+<Q - Daniel Harlan Ives>: In regards to the change in the Israeli tax code effective January 1, just walk through how 
+you guys or the Board is thinking about the cash balance and just the timing of sort of things in terms of how you think 
+about I think second half of the year? 
+
+<A - Tal Payne>: In terms of the tax, as I said, we adopted the new reforms. It's coming into effect from the beginning 
+of this year. It's positive effect all around in the sense that it takes away limitations on – in case, we would like to have 
+
+
+buyback or dividend above certain amount, as you know it, from the new income we will be able to do it without 
+having any tax effect. It takes away many uncertainties that existed in the tax Israeli law, so that's very positive. And as 
+a result, the P&L tax – the effective tax rate is expected to reduce in the next year or two and the cash tax payments will 
+increase likely as a result of that. 
+
+<Q - Daniel Harlan Ives>: Thanks. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Aaron Schwartz with Jefferies & Company. Please proceed with 
+your question. 
+
+<Q - Aaron M. Schwartz>: Good afternoon. In terms of the changing product deferral rates with the success of the 
+blades here, is there any way you can talk a little bit more about your expectations for product growth? Is sort of the 
+mid-single-digit growth rates are the right way to think about this for the remainder of the year? Do you expect it to 
+accelerate off the Q1 level? 
+
+<A - Tal Payne>: I would say first and I've been recommending this for quite a long period, I would recommend to 
+look first at the top [ph] total (24:49) growth rate of the revenues. Since it depends how we introduce new products, the 
+more annuity blades we introduce, the more you should expect to see a shift from the product into the service line, as 
+you've been seeing in the last year and a half. So, future product depends how we introduce them. But in general, I 
+would expect to see more services and less products. 
+
+<A - Gil Shwed>: But I think the growth rates can be higher than what it's been in this quarter. I think the growth rate 
+will be higher in future quarters. So – and again, maybe to explain a little bit what Tal says, when we bundle a new 
+software blade with our appliances, with our product, then immediately a big portion of the product sale is moving to 
+the subscription line; and that's what's happening sometimes. 
+
+Now that really depends – because we tend to change from time-to-time the bundling of different blades with different 
+model. I mean, bundling more blades creates great long-term opportunities, because the customers gets them almost – 
+or I mean, bundled for the first year and then they renew it from the second year. So that has a positive effect. It has – I 
+mean, it has less positive effect from the standpoint of the growth of the product line, and less positive effect from the 
+standpoint that we don't take full advantage of selling these blades at full price when we started; and that's why we are 
+all the time trying to create this right bundle to create the right incentives. So that's the main question, but it's harder for 
+us to answer, because with new models and new blades, we're playing with these all the time. But again, just to be 
+clear, I think that for the remainder of the year, we can see a higher product growth rate than we've seen in the first 
+quarter. 
+
+<Q - Aaron M. Schwartz>: Okay. That's helpful. And second question if I could, now that you have a little longer 
+track record for your IPS Blade, do you have any firmer views on renewal rates, and then also are the renewal rates 
+consistent across all your annuity blades or are you seeing a large variance by the different type of blades? Thank you. 
+
+<A - Tal Payne>: Actually quite similar, obviously there is some variance, but it's quite similar. We've seen this 
+quarter a slight increase in the renewal rate. I wouldn't turn it into a metric here, just because we need to see for a few 
+quarters that it continue to go that route, but it's – I'll remind you, that we said it's around 60% renewal rates for the à la 
+carte blades, and around 40% for the bundled blades, which was very high. When we launched the software blade, we 
+expected the bundle to be renewed 10%, 15%. I'll just remind you when we say bundle, it means we sold them bundled 
+together with the appliance, and we assume that in the second year, about 10% to 15% will come back to renewal. We 
+were pleasantly surprised with around 40%, and in the second year, we see renewals in a higher rate. This quarter, it's 
+past the 60%, so it's a positive trend, and we hope to continue to see increase in the renewal rates in the second and 
+third year. 
+
+<Q - Aaron M. Schwartz>: Terrific. Thank you. 
+
+
+Operator 
+
+Thank you. Our next question comes from the line of Shebly Seyrafi with FBN Securities. Please proceed with your 
+question. 
+
+<Q - Shebly Seyrafi>: Yes, thank you. Talking about product growth again; do you think mid-single digit product 
+growth is possible going forward? And also, as you shift more to software, your margins are higher there. So could that 
+produce even further operating margin expansion, as that transition takes place? And related to that as well, do you 
+think GAiA, is going to be a catalyst for additional sales starting this quarter to the Nokia customer base, IP base? 
+Thanks. 
+
+<A - Gil Shwed>: These are three separate questions, I'll try to address them. So first, I'll start from the end. GAiA 
+basically has a nice potential. I mean we do think that many customers are waiting for GAiA in order to move from the 
+IP Series to the new appliance model. So that's one indication we did get. That's the first one. 
+
+I think in terms of product growth, I think I mentioned it in previous question. I think the current growth is nice, but I 
+think we can also anticipate higher growth in the product line and I think overall the growth of software blade is only 
+positive. 
+
+Regarding the margin, we are not – I mean, I think our margins are very high and I'm definitely not trying to shoot for a 
+[ph] third (29:13) to manage the operating margin. What we try to manage is run the business effectively and generate 
+the most effective growth that we can. So, I mean, I'm not anticipating huge changes in the operating margin in the 
+short-term, but we're also not trying to shoot for a certain margin or manage the margin into that. We try to grow the 
+revenues and to grow the profit and the margin is the by-product. 
+
+<Q - Shebly Seyrafi>: Okay. Go ahead. Go ahead. 
+
+<A - Tal Payne>: The improvement in our operating margin in the last three years moved up from 53% to close to 
+60% on average. So, you understand that we've seen a great improvement in the margin and definitely one of the reason 
+there is the leverage in the business model and the fact that we still manufacture software blades. So you've seen the 
+effect of that and you're right in your intuition that software blades carry higher margins, it's in the software. So you've 
+seen that effect already. And at the end what will happen to the total margin, it depends on the mix of the growth of the 
+hardware appliances versus software blades and the software in general. So... 
+
+<Q - Shebly Seyrafi>: Okay. What kind of tax ratio we use this year and next? 
+
+<A - Tal Payne>: This year, we'll keep the same, it's around 20% if I recall and next year probably it will start going 
+down probably 1%, maybe even 2%. 
+
+<Q - Shebly Seyrafi>: Okay. Thanks. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Michael Turits with Raymond James. Please proceed with your 
+question. 
+
+<Q - Michael Turits>: Hey guys. Hey guys four questions. 
+
+<A - Tal Payne>: Hi. 
+
+<Q - Michael Turits>: Hi, how are you? A couple of questions. First, Gil, when you say you think that it looks like 
+product growth rate could accelerate, what would be the drivers? Why would it be – have been slower this quarter and 
+how would that accelerate? And then one other question, somebody pointed out that at least the calculated billings 
+growth was a little down, could that by any chance be – is there any function of people hesitating to buy ahead of GAiA 
+were they're waiting ahead of that release? 
+
+
+<A - Gil Shwed>: I think we have many different drivers to the business. This is definitely one of them. No driver like 
+that is major or is going to make a huge shift in our sales in the future, but as I said, there are customers waiting for 
+GAiA, we know that. There are – I mean, when we look at the entrance to the year, we had been extremely strong in 
+the fourth quarter, which means that the sales people started the year with almost an empty pipeline and still generated 
+amazing results by any criteria. I think when we go into the second quarter, we have a bigger pipeline and that should 
+help in additional sales. All of that is built in our model. I think it's – we're very, very much in line with our plan. I 
+think that's the main thing I can say. So I mean I don't expect here any major changes, but within small margins, I think 
+we can expect both things. 
+
+<Q - Michael Turits>: And then just one follow-up question on a revenue basis calculated off the percentages, it looks 
+like Europe decelerated a little bit relative to its trend in the last couple of quarters in revenue growth rate. Anything 
+you observed there in terms of how Europe did as a geographic region? 
+
+<A - Gil Shwed>: Tal maybe able to do more calculation. What we've seen in the last several quarters is that the U.S. 
+economy is strong and that's a very positive thing. In Asia, we also see very nice growth. But in Europe, it's varied – it's 
+varied. So, I mean, I don't even want to look at Europe as one entity, because in Europe, we're seeing some countries 
+that are growing extremely well, other countries that are growing differently. Overall, Europe is behaving – and that by 
+the way flips over to the next quarter. It's not that, where some countries for the last two years are growing fast and 
+some that are not growing. It changes quarter-by-quarter and the same phenomenon we saw last quarter, and I think our 
+forecast for Europe for the next quarter are quite positive. 
+
+<Q - Michael Turits>: Okay. Thanks, Gil. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Walter Pritchard with Citigroup. Please proceed with your 
+question. 
+
+<Q - Walter H. Pritchard>: Hi, thanks. Tal, question – a follow-up question on the tax rate – or on the tax 
+implications here with return on capital. You guys have previously been bounded to about or you've been buying back 
+about $300 million in the last couple of years. Does that in theory [ph] could go (33:46) away the restriction on 
+buyback or is that phased out over time? 
+
+<A - Tal Payne>: In theory it goes away immediately. 
+
+<Q - Walter H. Pritchard>: Okay, got it. And then Gil, any way of quantifying for us on the GAiA and Nokia 
+installed base, I mean, you've had the product line – their product line now for about three years, any way to quantify 
+how much of installed base is left or how many of your customers are still primarily putting in place the Nokia IP 
+appliances still at this point in time? 
+
+<A - Gil Shwed>: I don't remember the exact percentage, but it turns out that the IP Series installed base was much 
+more loyal than we anticipated and by the way that produce great results, I mean, I'm only saying it on the positive side, 
+and I think we are seeing now a lot of the IP Series that are seeing the new appliance model that provides three times 
+more price performance that wants to shift to our new product line and that's another good phenomenon and I think 
+many of them – some of them at least are waiting for GAiA. So that's the positive thing that can happen. 
+
+As I said, I don't think, it's – we're not talking about huge jumps or big changes in the mix, but I think we are starting to 
+see – we started seeing in the last quarter, the shift starting, and that's after about three years when the IP Series sales 
+were very stable. 
+
+<Q - Walter H. Pritchard>: Great. Thanks a lot. 
+
+<A - Tal Payne>: Just to clarify, it doesn't mean that they didn't refresh in the past, but they probably refreshed to other 
+IP products, and not necessarily to the other products. 
+
+
+Operator 
+
+Thank you. Our next question comes from the line of Philip Winslow with Credit Suisse. Please proceed with your 
+question. 
+
+<Q - Philip A. Winslow>: Hi, thanks guys, good quarter. Just got a question on the blade strategy; obviously Gil, you 
+mentioned the Anti-Bot Blades. Curious how you kind of gauge your expectations for that blade versus some of your 
+recent introductions? And also, just in particular with the blades, obviously you have the Applications Control Blade 
+that's gotten a lot of focus here. Wondering if you can give us just an update on that, and also just sort of what you are 
+seeing competitively versus some of the other folks out there? Thanks. 
+
+<A - Gil Shwed>: So, I think the Application Control Blade is doing very well. The IPS Blade is also doing very well. 
+I'm very much in the dark as the Anti-Bot. I think it's completely new type of blade, and our history shows that most of 
+this blade, it took us some time to ramp up, and they ramped up quite nicely. The only way we ramped up things 
+quickly was to bundle these blades with existing appliances. At the moment, we haven't bundled the Anti-Bot Blade 
+with any model. So it's not bundled, it's sold à la carte. 
+
+Based on the surveys and based on the demand in the marketplace we may consider to bundle it. But right now, the 
+Anti-Bot Blade is only offered à la carte, and especially given the subscription model that it has, I am not expecting in 
+the next, I don't know, six to nine months any substantial difference to the number, based on that. But I think long-term, 
+it has a huge potential. Everything I discussed on the ThreatCloud is very well demonstrated by the Anti-Bot, and that's 
+a pretty big deal, I think. 
+
+<Q - Philip A. Winslow>: And then just competitively, just curious what you guys are seeing out there? 
+
+<A - Gil Shwed>: Not too much, I must say that the last quarter or so wasn't – we've seen – I think our market is 
+always competitive, so I would hate to see that it became less competitive. It's very competitive, but we've seen less 
+pressure over there. I think that with the two large competitors that we have, we're seeing and we have a lot of evidence 
+from research data and so on that they are weakening when we are getting stronger. There are two smaller players that 
+are doing quite well and at least now the only thing I can say within the last quarter or so, we've seen that competitive 
+pressure slightly weakening, not strengthening. 
+
+<Q - Philip A. Winslow>: Great. Thanks, guys. 
+
+Operator 
+
+Thank you. [Operator Instructions] Our next question comes from the line of Phil Rueppel with Wells Fargo Securities. 
+Please proceed with your question. 
+
+<Q - Philip C. Rueppel>: Great, thanks. Could you just kind of clarify a little bit for us sort of how you see the 
+financial impact of GAiA, do you expect your existing IP – Nokia IP customers to just upgrade or do you think they 
+will buy or refresh the whole appliance? And then as far as ThreatCloud goes, is that just really an integral part of 
+GAiA or you're going to market that as an annuity or is it really just a platform that would hopefully drive larger 
+adoption of blades going forward? Thanks. 
+
+<A - Gil Shwed>: So, I think ThreatCloud will be an integral part of the R75.40, it's part of the Anti-Bot, it's part of the 
+new antivirus, it's a part of the URL filtering and I think we want it to be an integral part of our network. And right 
+now, we are not considering any special pricing changes based on that. 
+
+In the future again, we'll see how the adoption is going on and we'll continue different economical options. Well, but 
+right now, it's bundled with the software blade pricing and what we expect is simply that customers that buy more 
+software blade will see the benefit of participating in that collaborative network. 
+
+<Q - Philip C. Rueppel>: Great, thanks. 
+
+
+<A - Tal Payne>: [indiscernible] (39:15) GAiA. 
+
+<A - Gil Shwed>: And the GAiA effect – again customers can have – GAiA will run on all the old appliances that we 
+have including the IP Series. So customers are free to upgrade. I do expect that many customers that have been 
+refreshing their appliances will now refresh to the new Check Point Series Appliances and I think there is a little bit of 
+pent-up demand for that in the marketplace. 
+
+<Q - Philip C. Rueppel>: Great, thanks very much. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Greg Dunham with Goldman Sachs. Please proceed with your 
+question. 
+
+<Q - Greg Dunham>: Hi, thanks for taking my question. I just have one follow-up on – kind of IPSO hold-up 
+dynamic. Is there any way you can give us a sense of how weak the IPSO installed base was in purchasing in Q1, any 
+way to quantify that? Is it a couple of million dollars or is it something more significant than that? And the follow-up 
+would be, I know you guys haven't had a release like this in many years, but how should we think about the ramp up in 
+terms of upgrades from that installed base going forward? Thanks. 
+
+<A - Gil Shwed>: So I think first, the IPSO installed base was very strong for many, many years and I can't say what 
+was the situation exactly in Q1, because in Q1, we had a total shift of all our products lines. I mean in the last – in Q4, 
+we announced the new appliances and we started seeing all the sales moving to the new appliances. So, I don't know if 
+something is particular to that model or this model of appliances. 
+
+What I think I mentioned, and I'm saying that we're starting to see the shift from the IP Series installed base that was 
+relatively loyal in both things within the same line to the general product line and that I think is very, very positive 
+because the general product appliance line is more competitive, offers more power; from an investor standpoint, we get 
+higher margins on that. It's very positive and customer will move towards products that provide them better value and 
+us better value. 
+
+<Q - Greg Dunham>: Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Brent Thill with UBS. Please proceed with your question. 
+
+<Q - Brent Thill>: Gil, I think we're all trying to reconcile a 5% license or product revenue growth rate, which 
+massively decelerated. Obviously you had tough comps, but given you comment about a less competitive environment, 
+that would only point to internal execution issues than for Q1 on product. Is that a fair outcome, because that's the only 
+thing we could point back to for that type of deceleration? 
+
+<A - Gil Shwed>: I think you're words – one point that you may be missing then that's the point about the software 
+blade. The software blades are part of the product – of the product price, just accounting wise they fall into a different 
+line and I think there are a few points of software blades that are moving from the product line to the subscription line, 
+and that's something that [ph] can be made (42:21). So if you overall take seasonality plus few points moving from – I 
+mean that are sold as part of the product. When the customer is paying $20,000 for an appliance, they paid for a single 
+product. Accounting wise, $5,000, $6,000 of that move from the product line to the subscription line, that's software 
+blade, and that rate has grown in the last few years. It's grown consistently because we kept adding more blades to the 
+product. 
+
+<A - Tal Payne>: I can just remind you that in proportion now the software blade out of the product is more than 10%. 
+The part that has been separated from the appliance value, it's not 2%, 3%, 4%. It's more than 10%. So, it's quite 
+significant and, therefore, that portion is growing from the product to the deferred and then to the service line. 
+
+
+<A - Gil Shwed>: Just [indiscernible] (43:16), without giving any numbers, if you take 2, 3 points that are the shift 
+from product to blade and 2, 3 points that are the seasonal effect of Q1, you'd actually see that if we normalize that, I 
+think our run rate is pretty healthy and we hope it will continue this way. Now again, at the seasonality of Q2, it can 
+improve and the coming two quarters will also change because in previous years we also kept adding blades, so I think 
+that's the thing that can change in the next few quarters. 
+
+<Q - Brent Thill>: Thanks for clarifying. 
+
+<A - Gil Shwed>: But I just want to be clear, the number of gateways we sold this quarter was very healthy. I mean, all 
+of the other indicators that I have internally are very nice. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Jonathan Ho with William Blair. Please proceed with your 
+question. 
+
+<Q - Jonathan Ho>: Good morning. Just a quick follow-up in terms of the products at the high end of the market; can 
+you guys talk a little bit about your pipeline build there and how significant a part of the business you think this can be 
+exiting the year considering that you guys doubled that on a quarter-over-quarter basis in some lines? 
+
+<A - Gil Shwed>: First, it's build up quite nicely and we have a nice pipeline of large – the 61000 and so on deal. I 
+should still be careful about that because that's concentrated on a small number of large deals. A small number of large 
+deals can easily shift from one quarter to another, can easily move between them but so far the momentum very, very 
+positive. We've built a very nice product line in two or three quarters and that's again doubling every quarter. And, 
+again, it's very hard for me – and the pipeline is nice. It's hard for me to predict when these growth rates will start to 
+balance to get in line with rest of the business or how long it can grow in rates like that. But, the pipeline is there and 
+the opportunity is there and it seems to be very much in line with what we planned when we started with these high-end 
+products. 
+
+<Q - Jonathan Ho>: Got it. And, just in terms of your updated view between the product and subscription revenue 
+percentages, how should we think about that on a longer-term basis given that you're seeing that faster uptake on the 
+subscription line. What do you see that eventual mix falling out to even as you add these new recurrent components? 
+
+<A - Tal Payne>: I think you can see that the service portion is slightly more than 60% including the subscription. So, 
+I don't expect it to move quickly through the 70s, but I think we're pretty much where it should be right now. 
+
+<A - Gil Shwed>: And, let's not forget that it's very, very positive because products are seasonal, and products have 
+ups and downs. The subscriptions are much more stable and that's why we made the shift to software blades. We could 
+have easily taken the same blades that we have today and priced them on a fixed price basis and charge for them one 
+time and recognize it one time. I think what we are building here is for the long-term model and I think it's a very good 
+long-term model. 
+
+<Q - Jonathan Ho>: Got it. Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Gregg Moskowitz of Cowen & Co. Please proceed with your 
+question. 
+
+<Q - Gregg Steven Moskowitz>: Okay, thank you. Just to follow up on the previous question; Gil, the 61000 is off to 
+a very good start, and last quarter I believe you said that you expect sales of the 61000 to reach the – tens of millions by 
+Q2 or Q3. And, I understand there's some uncertainty around large deals. But, is that still how you're thinking about the 
+trajectory of that appliance line? 
+
+
+<A - Gil Shwed>: Yes, I think, we're pretty much there. 
+
+<Q - Gregg Steven Moskowitz>: Okay, great. And, then just a quick follow-up and a quick housekeeping; roughly, 
+what percentage of customers are currently on R70 and R75? Thanks. 
+
+<A - Tal Payne>: Probably around half – 50%. Remember, we said it will take around five to six years; we launched it 
+in mid-2009 so it's around three years, slightly less than three years, and we are around 50%. 
+
+<A - Gil Shwed>: And, again, I think I want to just to be clear. All the new customers and all the new installations and 
+updates are now R75. I know in the past when I met with customers, we're always challenged, what about the new 
+features? I'm still on the old version. Today, all my meeting with customers, there wasn't the issue. All of them were on 
+R75 and so on. So, when we are talking about customer deploying new things that's not an issue; everybody is 
+deploying the new version and that's great actually. 
+
+<Q - Gregg Steven Moskowitz>: Okay, great. And, if I could ask just one last one; in the previous quarter, I think a 
+couple – on a couple of occasions you guys had singled out or talked about Premium Support being quite strong in the 
+Q4 and I realize there are some seasonal aspects. But, how was Premium Support sales as a percentage of total Support 
+this quarter versus what you guys saw a quarter or two ago? Thank you. 
+
+<A - Tal Payne>: It's good – it's kept on the same rate so it's pretty good. Remember that also if you're already 
+bringing that issue up in Q4 we also had a lot of Professional Booking – Professional Service booking which are 
+typically the highest in Q4. So that's part of the higher growth rate that you see in Q4 versus the other quarters. Q4, you 
+have a nice portion also that's coming from Professional Services to customers. 
+
+<Q - Gregg Steven Moskowitz>: Okay. Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Dan Cummins with ThinkEquity. Please proceed with your 
+question. 
+
+<Q - Dan T. Cummins>: Thank you. Could you give us some idea of how well you think you performed in the service 
+provider and the managed services business in Q1? And, I'm curious if ThreatCloud will work when the customers are 
+using a managed outsourced provider? Thanks. 
+
+<A - Gil Shwed>: First, ThreatCloud would work on any environment. I had some discussions with some telcos that 
+were interested in offering ThreatCloud as a service that they provide, and we by the way are fully ready to provide 
+ThreatCloud not only as a big service from Check Point, but also as a private service from whoever wants to build such 
+a network. Beyond that, I think the service provider market was fine. I think there is still a lot of potential ahead with 
+this market and there is a lot of deals that are still waiting inside this market [indiscernible] (49:46) I don't want to set 
+any expectation for this market but it has a lot of upside. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Keith Weiss with Morgan Stanley. Please proceed with your 
+question. 
+
+<Q - Keith Weiss>: Excellent. Thank you, guys, for taking my question. I believe last quarter we passed probably 10% 
+contribution from the blade revenues or billing. Is there any chance that we'll get more granularity or more color on 
+how big the blade contribution is? And, any chance we could get a target on where you think that goes in terms of 
+revenues or billings for 2012? 
+
+
+<A - Tal Payne>: Last quarter, it was more than – I think you're talking specifically as a portion outside out of the total 
+revenues, correct? 
+
+<Q - Keith Weiss>: Yes. 
+
+<A - Tal Payne>: So, it's continuing to increase naturally since our software blade business is increasing. And, I'll 
+remind you that we've reached a run rate of more than $200 million in Q4 2011 like – for the annual 2011, Q4 times 4, 
+and software blade continues to grow rapidly. Their growth is much higher than you see in our revenue growth or even 
+booking growth. If you try to calculate, significantly more; it's not 10%, it's not 20%, it's not even 30%; it's more. So, 
+it's a very nice software blade that continues to grow. Naturally, over time you will see that the growth rate going to 
+more normal levels, but we will have – we are having new blades that hopefully will continue to keep the momentum 
+of the software blade growth. So, it continues to grow significantly as part of the booking and as part of the revenues as 
+a result. 
+
+<Q - Keith Weiss>: Got it. And, then perhaps one follow-up on margins or investment versus growth; you guys have 
+come out with a lot of new products over the past six months. You have a whole new appliance line. You have the new 
+unified platform with GAiA. You have the new ThreatCloud out there. When you guys look into 2012, should we be 
+thinking about any changes in the way you guys look at investment versus growth? If you'll look over the past two 
+quarters, I think sales and marketing – and granted U.S. dollar had some impact on that – growth was just around 5%. 
+Is there any chance for that ramping up in terms of more sales support or more marketing support around all these new 
+products? Or, should we be thinking about investment generally in line with what you guys have done in the past? 
+
+<A - Gil Shwed>: First, I think we would like to invest more. In terms of the sales and marketing expenses, it's 
+composed of many different items. Some of them, for example, is seasonality in marketing activities. And, in Q2 for 
+example, we have a lot of marketing activities, like I mentioned the Check Point Experience Conference that we just 
+had in Orlando. There is another Check Point Experience in Berlin, in a month so I mean – and by the way, Q4 and Q1 
+is the opposite. Q4 people are busy closing the pipeline for the year. And, in Q1, they are building – starting to build 
+that pipeline. Q2 is the stronger one in terms of most marketing activities, a little bit also in Q3; we have a lot of Asian 
+conferences and things like that in Q3. But, overall, where we would very much like to invest, I think we want to keep 
+our business as effective, as efficient, but I think in all our discussion about operating margin, we said our focus is how 
+to invest and grow effectively rather than how to keep the – to shoot for a certain margin number. 
+
+<Q - Keith Weiss>: Got it. And, if I can sneak in one last one; did you guys give a head count number for the end of 
+the quarter? 
+
+<A - Gil Shwed>: We didn't give it. It's approximately 2,500 people at the end of the quarter. 
+
+<Q - Keith Weiss>: Excellent. Thank you, guys. 
+
+Operator 
+
+Thank you. Mr. Meintzer, we have come to the end of our allotted time for Q&A. I'd like to turn the floor back over to 
+you for any closing comments. 
+
+Kip E. Meintzer 
+
+I'd just like to say thank you for everybody joining us. And, we look forward to seeing you throughout the quarter. 
+Have a great day. And, we'll talk to you soon. Bye, bye. 
+
+Operator 
+
+Thank you. This concludes today's teleconference. You may disconnect your lines at this time. Thank you. 
+
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2012, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

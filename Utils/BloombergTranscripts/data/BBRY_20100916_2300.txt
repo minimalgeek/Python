@@ -1,0 +1,700 @@
+Q2 2011 Earnings Call 
+
+
+Company Participants 
+
+• Edel Ebbs, Vice President, Investor Relations 
+• Jim Balsillie, Co-Chief Executive Officer 
+• Brian Bidulka, Chief Financial Officer 
+Other Participants 
+
+• Mike Abramsky 
+• Kulbinder Garcha 
+• Jeff Kvaal 
+• Maynard Um 
+• Gus Papageorgiou 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon ladies and gentlemen, thank you for standing by. Welcome to the Research in Motion Second Quarter 
+Fiscal 2011 Results Conference Call. At this time all participants are in a listen only mode. [Operator Instructions] I 
+would like to remind everyone that this conference is being recorded today, Thursday, September 16, 2010 at 5:00 p.m. 
+Eastern Time. 
+
+And I will now turn the conference over to Edel Ebbs, Vice President, Investor Relations. Please go ahead. 
+
+Edel Ebbs, Vice President, Investor Relations 
+
+Thank you. Welcome to RIM's Fiscal '11 Second Quarter Results Conference Call. With me on the call today are Jim 
+Balsillie, Co-CEO and Brian Bidulka, CFO. After I read the required cautionary note regarding forward-looking 
+statements, Jim will provide a business and strategic update. Brian will then review the second quarter results and I'll 
+discuss our outlook for the third quarter of fiscal 2011. We'll then open the call up for questions. I'd like to note that this 
+call is available to the general public via call-in number and webcast. A replay of the webcast will also be available on 
+the rim.com website. We plan to wrap up the call before 6:00 p.m. Eastern this evening. 
+
+Some of the statements we will be making today constitute forward-looking statements within the meaning of the 
+United States Private Securities Litigation Reform Act of 1995 and applicable Canadian securities laws. These include 
+statements about our expectations and estimates with respect to product shipments, revenue, gross margins, operating 
+expenses, CapEx, depreciation and amortization, earnings, channel inventory seasonality and ASPs for Q3, fiscal 2011 
+and beyond; our expectations regarding RIM's near and long-term tax rates, our expectations regarding the impact of 
+foreign exchange on our revenue and net income in Q3, our estimates of the number of net subscriber account additions 
+and other non-financial metrics, our product development and marketing initiatives and timing, developments relating 
+to our carrier partners and other statements regarding our plans and objectives. 
+
+We will indicate forward-looking statements by using words such as expect, plan, anticipate, estimate, may, will, 
+should, forecast, intend, believe, continue and similar expressions. All forward-looking statements reflect our current 
+views with respect to future events and are subject to risks and uncertainties in assumptions we have made. 
+
+
+Many factors could cause our actual results performance or achievements to materially differ from those expressed or 
+implied by our forward-looking statements including risks relating to our intellectual property rights, our ability to 
+enhance our current products and develop new products and services, risks related to competition, our reliance on 
+carrier partners, third-party manufacturers, third-party network developers and suppliers, risks relating to network 
+disruptions and other business interactions, our ability to manage our production facilities, security risks and risks 
+relating to encryption technology, risks associated with our international operations, our ability to manage growth and 
+other factors set forth in the risk factors and MD&A sections in RIMs filings with the SEC and Canadian securities 
+regulators. 
+
+We base our forward-looking statements on information currently available to us and we do not assume any obligation 
+to update them except as required by law. I'll now turn the call over to Jim. 
+
+Jim Balsillie, Co-Chief Executive Officer 
+
+Thank you, Edel. We are pleased to report strong financial results for the second quarter of fiscal 2011 with shipments, 
+revenues and earnings all above the high end of the ranges we guided on the last conference call. Revenue grew 31% 
+over the same quarter last year, and GAAP earnings grew 76%. The BlackBerry subscriber account base grew 56% 
+year-over-year to over 50 million and RIM has shipped approximately 115 million handhelds to date. This strong 
+performance was due to the well-executed launch of 2 new products during the quarter, excellent performance in 
+international markets, particularly in Latin America and Asia. BlackBerry smartphones are available through over 565 
+carrier and distribution partners in approximately 175 countries and international markets continue to be a strong driver 
+of growth. 
+
+Approximately 52% of revenue in the quarter was generated outside the United States and over 45% of BlackBerry 
+subscriber account base is outside of North America. In Q2, net subscriber account additions were 4.5 million, which 
+was lower than we anticipated at the time of the last earnings call. Net subscriber account additions are increasingly 
+difficult to forecast as the smartphone market becomes mainstream with more channel complexity, growth in the 
+number of competitive products and increased market segmentation. 
+
+In the early part of the second quarter, we saw lower than expected net additions in the United States due to a large 
+number of competitive offerings hitting the market in the absence of a new BlackBerry product offering. And in the 
+latter part of the quarter, we saw some impact from the weakness in the Middle East markets due to the well-publicized 
+issue surrounding BlackBerry service in the region. 
+
+With the launch of the Torch in late August, we saw a meaningful increase in run rates in the United States which has 
+continued into the early part of Q3. We have also seen an improvement in the Middle East as we work with authorities 
+in these regions to address the regulatory concerns. Despite the lower net subscriber account additions, sell-through of 
+BlackBerry devices in the quarter was strong at approximately 11 million, not including devices sold as phone only. 
+
+This reflects a high level of replacement and upgrade sales with millions of BlackBerry customers remaining loyal to 
+BlackBerry products and services, while millions of new BlackBerry subscribers are added to our service. 
+
+This was an exciting quarter for RIM with the launch of BlackBerry 6, along with the BlackBerry Torch and the 
+BlackBerry Curve 3G. The Torch launched with AT&T and through affiliated channels, including Best Buy, Wal-Mart, 
+RadioShack and others in mid-August. And we are pleased with the positive impact this product has had on the 
+performance of the BlackBerry product portfolio in the United States. AT&T supported the launch of the Torch with 
+one of the largest national marketing efforts ever for RIM with TV, print and online media, dedicated freestanding 
+BlackBerry Torch merchandising displays in retail stores and digital store displays including multimedia content. The 
+level of marketing and advertising of Torch and other BlackBerry products is expected to increase further as we head 
+into Black Friday and various TV spots and other promotions, leading to the highest exposure that BlackBerry products 
+will have had in the U.S. market to date. 
+
+
+Since the Torch launch sell-through run rates have more than tripled in AT&T retail stores and Torch contributed to the 
+best month ever for BlackBerry smartphones with Best Buy in August. In fact, based on sell-through in the first 3 
+weeks after launch at AT&T, Torch is the most successful GSM BlackBerry smartphone launch in RIM's history. So 
+far, adoption of Torch in the United States has been largely dominated by consumer and prosumer sales as enterprise 
+customers typically put a new OS through a certification cycle before deploying. We are excited that several of our 
+large enterprise customers have put BlackBerry 6 on an accelerated validation cycle and we expect the enterprise to 
+become a more significant driver of Torch adoption into Q3 and Q4. 
+
+The launch in the U.S with AT&T was just the tip of the iceberg in terms of rollout plans for BlackBerry Torch. And 
+we are excited to be launching with over 75 additional carriers around the world in the third quarter alone, including 
+substantial launches and promotions plans for Mexico, Canada and Europe. These launches give us excellent visibility 
+into unit shipments over the coming months, and we are excited at the prospect of increased penetration of this product 
+into new markets as we head into the holiday buying season. 
+
+We expect the strong momentum of the second quarter to continue into Q3 and be further buoyed by the seasonal 
+benefits of the holiday buying season and a heavy slate of promotional activity and advertising in support of 
+BlackBerry smartphones in the coming months. In the United States, we expect to roll out BlackBerry 6 for additional 
+carriers as well as to participate in a number of promotional campaigns heading into black Friday. And internationally, 
+the large number of expected launches, the BlackBerry 6 rollout for existing devices and a busy promotional calendar 
+are all contributing to our strong outlook for the third quarter. 
+
+During Q2, we introduced BlackBerry 6 which delivers a redesigned user experience including a visually fluid 
+interface, rich web browsing and an engaging multimedia application portfolio. BlackBerry 6 offers five customizable 
+views that allow the user to smoothly and easily navigate between applications, a new web kit browser that quickly 
+renders rich web content and simplifies application development, a new social feeds application that allows for a 
+streamlined consolidation of multiple streams and a multimedia experience that includes a free podcasting application, 
+advanced media capture and playback capabilities and the ability to think it all over with a home Wi-Fi network. 
+
+The new camera software allows for easy scene mode selection, seamless geotagging, and easily accessible and 
+customizable screen and organization controls. BlackBerry 6 desktop software features an updated and more 
+user-friendly interface with built-in media sync to organize multimedia content, easily manage software updates and 
+add and remove applications. 
+
+Additionally, BB 6 desktop software can monitor and manage music remotely using Wi-Fi to wirelessly sync changes 
+once in coverage of a home Wi-Fi network. Initially this software is only available for Windows, but we expect to offer 
+Mac support in the next few months. 
+
+The BlackBerry Torch is the first BlackBerry smartphone to feature BlackBerry 6, and we expect the software to be 
+available through additional carriers and for devices including the Bold 9700, Curve 3G and Pearl 3G in the near 
+future. 
+
+BlackBerry Podcast was launched in mid-August and is now shipping on all new products as well as being available for 
+download in App World. Podcasts include content from leading providers including Bloomberg, National Public Radio, 
+CBC and others as well as the BlackBerry Channel with how-to videos and other content related to BlackBerry 
+products and services. BlackBerry Podcast can be set up to download content over Wi-Fi, your cellular connection, 
+with content stored to the SD card for access on demand when out of network coverage, such as on an airplane. This 
+solution also leverages the unique push capability of the BlackBerry solution to notify the user when new channel 
+content becomes available, allowing for real-time communication between the subscriber and the content provider. 
+
+During Q2 we also launched the BlackBerry Curve 3G with Rogers in Canada and T-Mobile in the U.S., with rollouts 
+already underway with other carriers in Q3. This new addition to the Curve family features a full QWERTY keyboard, 
+integrated multimedia keys, GPS, Wi-Fi, support for up to 32 gigabytes of memory and fast 3G connection along with 
+many other best-in-class smartphone features. Rogers launched the Curve 3G during the first week of August at an 
+aggressive $49 retail price point, which has led to solid and steadily increasing sell-through during the first month, 
+
+
+outpacing even the success of the popular Curve 8520. 
+
+We also announced this week that the new BlackBerry 6-ready Curve 9330 3G for CDMA networks. This product, 
+which features a new design and a number of consumer-friendly features including improved multimedia and social 
+networking capabilities, will be available from both Verizon and Sprint in time for the holiday season at attractive price 
+points. We look forward to building on the strength of the Curve family of products that has traditionally had with these 
+partners. 
+
+Latin America continues to perform exceptionally well, and last quarter we saw particularly strong growth in 
+Colombia, Mexico and Argentina. The Bold 9700 and Pearl 3G continue to be launched in primary and secondary 
+markets throughout the region and marketing initiatives around BBM and World Cup provided a backdrop for strong 
+sell through. 
+
+Since the beginning of Q1, we have increased our regional point-of-sale presence by 225%, which is especially 
+important in markets heavily dominated by prepaid where convenience is essential. We continue to build on our strong 
+positioning in the U.K. with the Curve 8520 and Bold 9700, including in the top 5 selling mobile phones across the 
+region during calendar Q2. O2 had its best quarter ever with BlackBerry products, launching the exclusive purple Pearl 
+3G and coupling the Curve 8520 with special marketing and giveaways during the World Cup. 
+
+Towards the end of the quarter, O2 launched a BlackBerry prepaid Hero campaign around its pay-and-go product 
+which became one of the most successful recent marketing initiatives. Vodafone U.K. launched a Hero program around 
+the exclusive pink Pearl 3G with heavy promotions across its entire U.K. retail channel and the public sector marketing 
+program launched last quarter featured a free Curve 8520 with a 24-month BES contract, which continues to be 
+successful and is facilitating growth in law enforcement, healthcare and government verticals. 
+
+Vodafone Spain launched the second wave of its BlackBerry Messenger promotional campaign with attractive data and 
+service plan combinations and a strong prepaid launch. In the Netherlands, Q2 was the third consecutive quarter of 
+record-breaking net subscriber additions for all 3 carriers in the country, driven by aggressive pricing, media 
+promotions and the launch of prepaid plans. In France, SFR and Bouygues have embraced BBM, building on the 
+marketing RIM has been doing in the region with their own back-to-school promotions for BlackBerry smartphones. 
+
+BlackBerry products continue to maintain a leading position at Phones 4U in Europe, and recently won awards for 
+service of the year for BBM and contract phone of the year for the Curve 8520. The launch of the Pro 3G was executed 
+with a high visibility Hero campaign as well as an entire floor of a store, which was transformed into a BlackBerry 
+smartphone zone, and led to a sharp increase in sales. We intend to duplicate this kind of promotion throughout more of 
+its locations across the U.K. and in the upcoming quarters. 
+
+Carphone Warehouse is offering BBM bundled with Pearl 3G, Curve 8520 and Bold 9700, and has seen a strong 
+uptake in this offering, particularly in the younger demographic. 
+
+In South Africa, MTN and Vodacom saw robust sales of the BlackBerry smartphones, leveraging the Bold 9700 in 
+many of the World Cup promotional activities that took place throughout the country, and BlackBerry service was 
+launched with Cell C and supported by a large multi-channel marketing campaign. 
+
+Prepaid BlackBerry service is beginning to become a meaningful driver of adoption, particularly in the EMEA region. 
+During Q2 Vodafone Spain launched a prepaid plan that includes a Curve 8520 for €169 when combined with a €3.5 
+per week or €9 per month data plan and a voice plan. Prepaid is also gaining traction in North America, driven by 
+bundled service plans and clear and focused marketing campaign. Sprint's Boost and Virgin Mobile prepaid brands 
+launched the Curve 8530 this quarter and have seen excellent adoption. 
+
+Also in the U.S., MetroPCS with the launch of Cricket Mobile is driving strong prepaid adoption with no contract 
+pricing of 249 and unlimited voice, text and data package of $60 per month. While still a small percentage of the 
+overall subscriber base, prepaid is a rapidly growing part of the business and represents a substantial opportunity, given 
+that this segment of the market makes up the majority of wireless consumers around the world. In Southeast Asia, our 
+channel expansion continues with Brightstar now distributing BlackBerry products into Singapore and Malaysia, and 
+
+
+Cool adding distribution in Thailand. Social networking continues to be a primary driver in many of these markets, and 
+we've been building on this with new applications and features and targeted marketing efforts. 
+
+On the topic of lawful access, RIM is continuing discussions with governments and carriers in India and the UAE, and I 
+believe we have made good progress in those discussions. The details of such discussions are of course confidential, 
+but I'm optimistic that a positive and constructive outcome can be achieved that addresses the regulatory requirements 
+of government and the security and privacy needs of corporations and consumers. I know that there are lots of 
+contradictory rumors and theories on this topic and it is unfortunately inevitable given the circumstances. It's the type 
+of subject that draws a lot of interest and commentary from a lot of people, many of whom are simply speculating, and 
+some of whom are frankly driven by their own agendas. And so it should be no surprise that there is a lot of misleading 
+and inaccurate information out there. 
+
+With that in mind, I will reiterate that RIM continues to engage in constructive discussions in the matter, and RIM has 
+consistently and publicly communicated its principles in dealing with the matter. We have made it clear that we are 
+respectful of government needs and fully cooperating to comply with lawful requirements on an industry standard 
+basis, but we cannot compromise the security architecture of the BlackBerry Enterprise solution. It utilizes end-to-end 
+encryption and RIM simply has no ability to read the encrypted information. RIM has no master key or backdoor key to 
+allow access, and the location of RIM's infrastructure has no impact on the security architecture. The end-to-end 
+encryption is a fundamental part of the system design, and we know it is a fundamentally important security feature for 
+our Enterprise customers around the world, since they legitimately need to protect their confidential corporate 
+information, and this is a core underpinning of why we have over 250,000 BlackBerry enterprise servers installed and 
+operational around the world today. 
+
+BlackBerry App World was updated in August with the launch of several new features to enable better application 
+discovery, easier payment and more opportunities for developer profitability. New services added include bar code 
+scanning that allows for direct access to applications by using the camera to scan QR bar codes in advertisements and 
+BlackBerry ID which enables subscribers to have a device independent library of apps for quick and easy transfer 
+between BlackBerry smartphone. 
+
+New payment options including credit card and carrier billing are now enabled in BlackBerry App World and are 
+available with carriers including AT&T, with rollout planned to others in the near future. To further increase adoption 
+of BlackBerry App World, the minimum price for an app has been lowered to $0.99 and navigation has been improved 
+with new features including tabbed options and a top-25 list. To date, over 35 million BlackBerry smartphones have 
+downloaded App World and an average of over 1.5 million apps are being downloaded every day, which is up 40% 
+sequentially. 
+
+We continue to work closely with the developer community to encourage development of compelling applications for 
+the BlackBerry platform. BlackBerry 6 simplifies that development through support for WebKit, HTML5 and Widgets. 
+The integration of universal search and preloading of App World and the new carrier billing, modified pricing and 
+advertising that will add further elements of developer monetizing. 
+
+Since the launch of Torch with BlackBerry 6 last month, there are now over 2,000 applications available for the Torch 
+in App World and that number is growing rapidly every week. We are actively supporting our top developers not only 
+to optimize for the new BlackBerry 6 UI but also working with them to help them take advantage of the new features in 
+their apps, such as universal search, barcode and QR code scanning, network based location and more. 
+
+We are also starting to bring new developers into the BlackBerry platform that are building full-featured apps on top of 
+our WebKit browser using the BlackBerry Widget platform. We will be unveiling some very exciting news on the 
+latest enhancements and future direction for this platform at the RIM BlackBerry DEVCON at the end of September in 
+San Francisco as we continue to embrace and extend the HTML5 web standards for both online content services and 
+full-featured offline apps. 
+
+BBM continues to be an important driver of adoption in many markets around the world. In Q2 we began an integrated 
+marketing campaign to increase awareness and usage. Results from this campaign indicate increased penetration of 
+
+
+BBM usage in many regions, but particular success in the youth demographic. Marketing and advertising efforts in Q3 
+will be expanded to have a greater focus on highlighting the features and benefits of BlackBerry 6 and our new 
+smartphones including the BlackBerry Torch in key markets around the world. 
+
+RIM's leadership position in the enterprise market continues to be strong with over 90% of the Fortune 500 companies 
+having deployed BlackBerry smartphones. The combination of security, reliability, manageability and compliance, 
+together with the ease of enabling corporate applications continues to drive strong adoption and support for the 
+BlackBerry Enterprise Solution by CIOs and IT departments around the world. 
+
+In addition to deploying the BlackBerry platform as a corporate data access solution, large enterprise users increasingly 
+are adding BlackBerry mobile voice system to their IT architecture. MVS 5 with its voice over Wi-Fi capability 
+became generally available at the end of Q2 and several large customers have moved ahead with adoption of the 
+solution, including a number of Fortune 500 companies. These and many other enterprise customers are reaping the 
+economic and end user benefits of making and taking phone calls from their office lines on their BlackBerry device 
+over a cellular network or Wi-Fi when available. 
+
+In support of the release of the BlackBerry MVS 5, some of our North American carrier partners have evolved their 
+BlackBerry MVS offerings to include strategic programs that bundle BlackBerry MVS 5 with net new purchase of 
+BlackBerry smartphones which is driving adoption and end user value. RIM is also making this solution available 
+through value-added resellers in North America such as Endpoint Technologies, Instant Technology Solutions and 
+BDH Solutions through a new agreement that was signed this last quarter with Ingram Micro. BlackBerry MVS 5 runs 
+only on BlackBerry smartphones and builds on the value of a BlackBerry Enterprise Solution that is the gold standard 
+for corporations around the world to mobilize their workforces. 
+
+There are 2 segments in the corporate data access market, corporate liable, where the company purchases and deploys a 
+smartphone to designated employees and personal liable, where an individual has a personal smartphone enabled to 
+access corporate data. On the corporate liable side, RIM has been benefiting from the move by key enterprise 
+customers to expand the number of organizational layers that qualify for corporate designated BlackBerry smartphones, 
+which will drive deeper penetration within these organizations well beyond the executive and sales ranks. 
+
+The growth of personal liable devices in the enterprise represents an opportunity for RIM to build on its leading 
+position as the corporate liable smartphone choice in the enterprise. We are building on this by ensuring that the 
+BlackBerry Dual Persona solution for sandboxing allows organizations to maintain security of their corporate data 
+assets and maintain compliance with regulatory retirements without compromising their employees' enjoyment of their 
+personal device applications. Unique aspects of the BlackBerry solution include the ability to block cutting and pasting 
+of work data into personal applications, the ability to restrict personal applications from accessing corporate 
+information, the ability to remotely wipe only the corporate side of the device and disallowing forwarding of corporate 
+communications through personal communications applications. The ability to manage corporate access by personal 
+devices on a corporate BES or with BES Express is a key differentiator for the BlackBerry solution in this market and 
+for large organizations with compliance, auditing and security retirements. The BlackBerry solution remains the 
+simplest and least expensive way to meet regulatory requirements while increasing the productivity of their employee 
+base through enabling corporate data access on personal smartphones 
+
+Brand users BlackBerry smartphones offer the benefit of providing an integrating experience between personal and 
+work, for example the ability to manage their personal and work appointments in the same calendar view. We expect 
+this solution to be available to many of our corporate customers by the end of the year. 
+
+We know that many analysts are continuing to evolve their understanding and modeling of the enterprise market, and 
+we think there are 3 important distinctions that must be made in evaluating the total addressable market and trends. The 
+first distinction is that smartphones purchased through a corporate discount program for friends and family may be 
+reported as business devices, but those devices are in fact being utilized by consumers and were simply procured 
+through a business channel in order to receive a discount. This is a common practice in large enterprises. 
+
+
+The second distinction is that employees themselves who use a corporate discount program to purchase a smartphone 
+or who may be receiving a cell phone reimbursement from their employer, but who are not actually allowed to connect 
+the smartphone to corporate data systems are not really enterprise users, and therefore, should also be considered 
+consumers who are simply purchasing through a business channel in order to receive a discount. 
+
+Finally, the third key distinction that should be made is the size and growth rate of personal liable and corporate liable 
+segments. Many firms looking at supporting personal liable smartphones have not proceeded past the trial stage due to 
+factors previously mentioned. When sizing up competitive claims about these segments, we think it is also important to 
+question and challenge assumptions about the penetration since we have not typically seen competitive claims backed 
+up by actual user numbers, excluding pilots and free device seeding. 
+
+We are very excited about the early adoption trends of the Torch 9800 and Curve 3G as well as the heavy promotional 
+calendar lined up to support BlackBerry products over the next few months. Our partners and customers are excited 
+about the future and current -- the current and future BlackBerry product portfolio, and we are looking forward to 
+continued strong adoption of the BlackBerry platform around the world. I will now turn the call over to Brian to review 
+Q2 results. 
+
+Brian Bidulka, Chief Financial Officer 
+
+Thank you, Jim. Revenue for the second quarter ended August 28 was $4.62 billion, which was up from $4.24 billion 
+in the previous quarter, slightly above the guidance we provided on the June conference call. Handheld devices 
+represented 3.64 billion or 79% of revenue during the quarter as compared to 3.35 billion or 79% in the previous 
+quarter. 
+
+Total devices shipped in the quarter were higher than Q1 at 12.1 million units. Approximately 11 million new devices 
+were activated Q2, either for new customers or for replacements and upgrades not including phone-only sales. We 
+estimate that 4 weeks of channel inventory at the end of Q2 was similar to Q1 and based on our sell-through forecast, 
+we expect forward weeks of inventory to be relatively flat again in Q3. 
+
+Device ASPs in the quarter were approximately $304 which was slightly higher than Q1 due to product mix. Service 
+revenue was $771 million or 17% of revenue, up $78 million from Q1. Software revenue and other revenue accounted 
+for the remaining 4% of sales in the quarter. 
+
+Gross margin for the second quarter was 44.5%, slightly higher than the guidance we provided in June due to revenue 
+mix. Operating expenses in the second quarter were $974 million, higher than the comparable Q1 levels as expected. 
+R&D spending was 323 million or 7% of revenue for the quarter, in line with our forecast. Sales, marketing and 
+administration expense was approximately 546 million, slightly above our forecast. Operating expenses included stock 
+based compensation expense of approximately $17 million. 
+
+Tax rate for the quarter was approximately 27%, in line with our forecast. And income for the second quarter was 797 
+million or $1.46 per share diluted. The impact of shares repurchased in the quarter was approximately $0.02 per share. 
+Weighted average diluted shares used in the EPS calculation for the quarter were 546.4 million. Actual shares 
+outstanding at August 28 were 524.5 million. Total options outstanding at August 28 were approximately 7.5 million. 
+
+During the quarter RIM repurchased and canceled 28.4 million common shares at a cost of $1.53 billion in accordance 
+with the board-approved 2011 repurchase program authorized in June. 
+
+Total cash, cash equivalents, and short-term and long-term investments decreased by approximately 1.24 billion to 
+$2.03 billion at the end of Q2 as compared to 3.27 billion at the end of the previous quarter. During the quarter, RIM 
+generated approximately 940 million in cash from operating activities which was offset by capital asset additions of 
+approximately 200 million, business acquisitions at 320 million and the repurchase of common shares of approximately 
+
+1.5 billion. 
+
+In Q2, accounts receivable were approximately 3.22 billion and DSOs increased to 63 days from 57 days in the prior 
+quarter primarily due to timing of sales in the quarter, with the introduction of Torch and Curve 3G in the last few 
+weeks of the quarter. Inventory on hand in Q2 was approximately $645 million versus 556 million in the prior quarter. 
+Inventories continue to be primarily raw materials and semi-finished goods to support demand for BlackBerry products. 
+
+Given the currently forecasted geographic mix for Q3, we do not expect a significant impact on revenue or net income 
+from foreign exchange with a 10% plus or minus move in the U.S. dollar having a negligible impact on revenue or 
+expenses. I will now turn the call over to Edel to discuss our outlook for Q3. 
+
+Edel Ebbs, Vice President, Investor Relations 
+
+Thanks, Brian. Before I discuss our outlook for Q3, I'd like to remind everyone that these forward-looking statements 
+reflect management's best current estimates and should be taken in the context of the risk factors listed at the beginning 
+of the call and outlined in our public filings. 
+
+We expect to ship between 13.8 and 14.4 million units in the third quarter of fiscal 2011 and for revenue to be in the 
+range to 5.3 billion to 5.55 billion. This increase in unit shipments is being driven by ongoing strong sell-through of 
+existing and new products, rollouts of new products such as Torch in markets around the world and channels preparing 
+for the increased demand expected during the holiday buying season. 
+
+As we said on the last earnings call, we expect ASP in the second half of the year to be higher than the first half. ASP 
+in Q3 is expected to be between $310 and $315, higher than Q2 due to the mix of products expected to ship in the 
+quarter. As we discussed for the past few quarters, the increase in the number of products we offer and the number of 
+geographies we sell into makes forecasting product mix and therefore ASP increasingly difficult. As a result, this will 
+be the last quarter we will offer guidance on ASP and we will report ASP for the last time with our Q3 results in 
+December. 
+
+We are targeting gross margin for the third quarter to be approximately 42% which is consistent with our commentary 
+from the last call where we said that we expect quarterly growth margin percentage to remain in the low 40s throughout 
+the second half of the fiscal year. Q3 margin is expected to be lower than Q2 primarily due to strong growth in unit 
+shipments driving hardware higher as a percentage of the revenue mix for Q3. We continue to expect growth margins 
+to remain in the low 40s for Q4. 
+
+We are targeting net subscriber account additions for Q3 in the range of 5 million to 5.4 million. This reflects the strong 
+run rate we have seen so far in September with the Torch launch and the resolution of some of the regulatory issues in 
+the Middle East as well as the launch of the Torch and Curve 3G in dozens of incremental markets around the world as 
+well as the ongoing momentum we anticipate from the high level of advertising and promotional activities scheduled as 
+we head into the holiday buying season and Black Friday. 
+
+Net subscriber account additions is a metric that is unique to RIM and is not comparable to metrics supported by any of 
+our competitors. Additionally, as Jim mentioned, forecasting net subscriber account additions is increasingly difficult 
+given the growing complexity of our business with diverse market segments, multiple geographies and over 565 
+carriers and distribution partners. As a result, after today we will no longer guide net subscriber account additions and 
+we will report net subscriber account additions for the last time in December. 
+
+Total operating expenses are expected to increase in Q3 by approximately 7% to 12% from Q2 levels. We expect R&D 
+to increase by approximately 8% to 11% and sales, marketing and administration expense to increase by approximately 
+7% to 14%. In the third quarter, we expect depreciation and amortization to be approximately 110 million and we 
+expect CapEx to be approximately 300 million. 
+
+In the fourth quarter we expect CapEx to be similar to Q3 levels. Primary areas of spending continue to be expansion of 
+network infrastructure and facilities for R&D and IT operations. We expect the tax rate to be between 27% and 28% in 
+Q3 and throughout the remainder of fiscal '11. We expect Q3 EPS to be in the range of $1.62 to $1.70 per share diluted. 
+
+
+I will now turn the call back to Jim. 
+
+Jim Balsillie, Co-Chief Executive Officer 
+
+Thank you, Edel. Customers and markets around the world are continuing to embrace the BlackBerry solution and we 
+are excited to leverage the momentum in our business into the holiday buying season and RIM's third quarter. This 
+concludes our formal comments. We would like to open the call up for questions. Please limit yourself to one question 
+per person. We plan to end the call today by approximately 6:00 p.m. Would the operator please come on to handle 
+questions? 
+
+Q&A 
+
+Operator 
+
+Thank you. Ladies and gentlemen, we will now conduct a question-and-answer session. [Operator Instructions] Your 
+first question today comes from Mike Abramsky of RBC Capital Markets. Please go ahead. 
+
+<Q - Mike Abramsky>: Yes, thanks very much. Pardon me, I'm sorry. Jim, can you talk a little bit about your design 
+philosophy going forward with regard to perhaps pushing specs versus following specs and trading that off versus 
+traditional approaches with BlackBerry to things like battery life and cost? I think the Torch is a fine product but also 
+been criticized for perhaps not pushing the edge on things like processor and display, not carrying through on open GL 
+for 3D gaming and so forth. And I was just -- obviously you won't talk about roadmap, but could you give us a little 
+sense of how you might think about these things going forward in the context of competitive product? 
+
+<A - Jim Balsillie, Co-Chief Executive Officer>: Sure. There is such an interesting dynamic going on in the market 
+because first of all, I mean, I think when you talk about sort of platform and design and future aspects, I think you're 
+going to be pleasantly surprised at DEVCON in a week Monday. And I can't really give you too much here but I think 
+you're going to be really interested there. So I think that more aspects of the design philosophy are going to come out 
+there. 
+
+I think in terms of what BlackBerry does, it still has a tremendous number of attributes that really serve the market in 
+the way that we align it for the service and for the carrier and for the segment that it's supposed to address. And I think 
+it's dangerous to frame all of this in a high-end arms race. And I think you're going to see our capacity to go beyond 
+what could have been expected by anyone and yet still address the issues of cost effectiveness, security, efficiency and 
+desired form factors. 
+
+So our specialty's been in resolving a paradox. And if you don't resolve that, if you don't innovate to resolve that 
+paradox, robbing Peter to pay Paul isn't really a solution because you're just shifting strategies. And so the feature 
+phone's upgrading to a smartphone. I think our guidance just shows what's happening, and if you saw the roadmap and 
+you saw the engagement strategies, you would see that we're being very prudent in our approaches. But this is really a 
+promising space, and we can address lots of segments and we can still respect carrier alignment and efficiency and 
+different price points. 
+
+But, I think you're going to see the ability to – I don't know how to say it better than other than resolve the paradox. 
+Because if you make these things so high end that they're not addressable to the market or they're so consumptive of the 
+networks they can't scale, that's not what we originally designed our business for. And what we've done is innovate to 
+really avail the capability but still not sell out our lineage and that's the paradox that we're resolving. So -- but be 
+careful that just because you don't jump to Peter and abandon Paul to sort of carry on with that sort of approach, that we 
+don't have an answer. 
+
+But we are not, we are trying to innovate for our business, not be strategically erratic. So the core BlackBerry aspects 
+are well defended and well looked after and protected, but it's in a space where people have mushrooming expectations 
+
+
+of what these things can do, and that's the essence of the paradox. And all I can say is it won't take long before you see 
+how we've done that. And I think Torch and BlackBerry 6 is really an excellent step forward and that's why you've seen 
+
+– you know the promo campaigns are just really starting. But that's why you've seen the jump in guidance in the subs, 
+is that. So I hope I answered your question. It's a bit of a – it's hard for me to answer too directly without sort of 
+violating confidential roadmap stuff. 
+Operator 
+
+Your next question comes from Kulbinder Garcha of Credit Suisse. Please go ahead. 
+
+<Q - Kulbinder Garcha>: Thanks. My question is just on the visibility that you have for this quarter, I guess to Jim 
+and Edel. Just to be clear, it's basically driven mainly by North America and driven by the promotions there that you 
+are seeing with the U.S. carriers? Or is it global? And just one other question in terms of the difference between 
+devices, activated and shipments, I think you've got about 1 million units difference, which is on the higher end of 
+where we have seen historically. Is there an additional channel fill going on the next quarter which you've put in your 
+guidance as well? Or is it more driven by sell-through strength? 
+
+<A - Jim Balsillie, Co-Chief Executive Officer>: Well, to answer the second one, it's not channel fill. Trust me. These 
+carriers have got channel management down to a very, very strong business. So it's not a channel strategy. You can 
+look at the inventory management plans of the carriers and know that one, so it's just a different world right now and 
+quick response logistics, no, it's sell through. And there's upgrade and there's a lot of net new – what's that? Yes, and a 
+lot of them are phone only. So there's phone only. It's all of the above. 
+
+And, yes, our visibility is very strong. I mean our visibility is very, very good. I mean, and we've tried to always be 
+cautious coming into the holiday season, and look at the trends from the past. And so, and like I said, these upgrades, 
+all these products are upgrading to 6.0, all these promo campaigns, all these global campaigns. And I think you're going 
+to see some very interesting strategic extensions at DEVCON and signaling where we're going. So I think we said on 
+the last call this will all become very, very apparent by end of September. We've said that for the last 6, 9 months. You 
+know, just end of September is not that far away. 
+
+<A - Edel Ebbs, Vice President, Investor Relations>: And Kulbinder, sorry, just on the visibility aspect as well. I 
+mean it really, it's a number of factors. I mean there is a lot going on in North America basically with Torch and the 
+Curve 3G and some of the promotions that are really just starting to ramp up now, and the plans into Black Friday and 
+the holidays. But also, we really have Torch launching in Q3 in 75 carriers around the world. And some of them have 
+pretty heavy consumer positioning and marketing promotional campaigns planned behind them. So that also gives us a 
+lot of visibility. 
+
+<Q - Kulbinder Garcha>: And then just as a follow up, Edel. Just to clarify what you're going you're to guide on and 
+not. You're not going to guide on average selling prices and not report them going forward or just not guide them and 
+report them afterwards, and the same for net adds? 
+
+<A - Edel Ebbs, Vice President, Investor Relations>: The same for both of them so this will be the last time we'll 
+guide them. Next quarter is the last time we'll report them. 
+
+Operator 
+
+Your next question comes from Jeff Kvaal of Barclays Capital. Please go ahead. 
+
+<Q - Jeff Kvaal>: Yes. Thanks very much. It seems as though you folks didn't have a particularly strong quarter in 
+North America net adds. My ballpark math is it's probably the slowest quarter in some years. Can you help us 
+understand a little bit of what's going on there? And should we expect that to be sustainably improved? Or is this going 
+to be a bumpy ride from here? What's happening in North America? Thank you. 
+
+
+<A - Jim Balsillie, Co-Chief Executive Officer>: Well I think, thanks for the question, Jeff. I think we or I started to 
+address it by saying we've bought a dramatic guidance enhancement in this quarter for net, and it's substantially driven 
+by enhancements of North America since we launched the Torch and we have a number of these launches and 
+campaigns starting now. So if there was some softening, which we said there was some softening early in the quarter, 
+that's dramatically reversed. The nice thing about what we do is we get subs per day, buy op, by carrier, by country and 
+it rolls up. And what we've seen in the first 2.5, almost 3 weeks this quarter looks – I mean that's the basis of our 
+guidance. And you look at the campaigns and the committed elements, and you compare it to historical, and it's very, 
+very strong. Very strong. 
+
+So you know, there's elements of promotion and there's elements of product cycles. And I also think that there is – I 
+mean, there's been strategic engagements and plans for key carriers in the U.S. and I think you're going to see some 
+very, very strong not only enhanced current strategies but new strategies that strategically extend the carrier's platform 
+strategies using BlackBerry. So it's built on – it's basically based on the numbers that we've been getting in the last 4 or 
+5 weeks since Torch got going and the committed plan and new strategies. And we feel very, very strong about it. 
+
+But you know, it doesn't take a lot of weeks of something to be out of sync to sort of gum up a quarter. And I'd be a lot 
+more troubled if that didn't turn around in the last 3, 4 weeks of the quarter. And then you sit there and go it's 
+something structural rather than something intermittent that has to be cleaned up and enhanced. But really, if you saw 
+the roadmaps and you saw the plans and you saw the programs, you saw the alignment, you'd be quite bullish. 
+
+Operator 
+
+And your next question comes from Maynard Um of UBS. Please go ahead. 
+
+<Q - Maynard Um>: Hi. Thanks. Just a clarification and then a question, I guess I understand not guiding the net adds, 
+but can you run through the rationale of not reporting the net adds afterwards because there is a big sensitivity 
+particular to the out years related to your service revenue. And then the question is just following up on the U.S. and it 
+sounds like North America net adds will actually reaccelerate given the Torch and the reinvigoration from that product. 
+But that implies that your international net adds will actually weaken. So I'm just trying to understand the dynamics are, 
+is something happening on the international side? Or is there, I guess if you could just run through the dynamics there. 
+Thank you. 
+
+<A - Jim Balsillie, Co-Chief Executive Officer>: Well, I think we're guiding kind of 20%-ish growth in it quarter 
+over quarter so there's room in both there. And you kind of take a number and roll them up to a discount. But it's also, 
+you know, you get bits of variability because sometimes there's – they go out as phones, sometimes there's upgrades 
+and they don't go as net. Sometimes you get these different events. And so I mean, how much information is helpful, 
+and how much do you just put yourself in a position where it's got variability as Edel said, and how much do you sort 
+of competitively disadvantage yourself by over-disclosing stuff. But I mean we'll give you periodic indications of the 
+overall subscriber base. We'll let people know when we hit 100 million or maybe 75 million. And you can sort of do 
+the math as to sort of how long that's going to take. And the only question is, is it one quarter earlier or one quarter 
+later, really. 
+
+I mean, you play, you do the stuff out we do it. And that's how we have to plan our infrastructure; it's basically number 
+a of subs and the utilization profile of those guys. So we have a pretty good sense of it. But I mean, you can also pretty 
+much deduce it. It's just how much granularity do you give. And it's competitive and then you have a responsibility to 
+in turbulence of business to keep people all update on it, and. 
+
+<Q - Maynard Um>: Maybe if you can just help us understand on the ARPU side. You said that prepaid is actually 
+growing and presumably becoming more significant. Will the ARPUs start to drop more significantly? I mean are the 
+ARPUs now for consumer around the $1 to $5 range or do they still stay in this $3 to $5 range? And that's 
+
+
+<A - Edel Ebbs, Vice President, Investor Relations>: There's really no change, Maynard. I mean if you actually – I 
+don't know if you've had a chance to back into some of the numbers, probably not yet. But I mean the ARPU this 
+
+
+quarter was pretty much flat. Like we talked about at the Analyst Day, the more successful we are in some of these, 
+there's been no real change in a lot of the different tiers so much as we're just having a lot of success with some of the 
+things like prepaid. So the more successful we are, sure you're going to see that impact ARPU. But that also means 
+you're selling a whole lot of handsets, right? 
+
+<A - Jim Balsillie, Co-Chief Executive Officer>: Yes, I mean you get, yes, that's right. And then there tends to be an 
+upgrade of handsets. And it's still a good business even wherever it is, the tiering. And also there's a real powerful set of 
+indirect monetizations we've got going. And there's sort of campaign haloing that goes with dealing with the segments. 
+So there's a lot of strategic complementariness on this. So and we sort of heard this diminished ARPU thesis for 7, 8, 9 
+years now. At the end of the day, I mean, I think it's run its course. 
+
+<A - Edel Ebbs, Vice President, Investor Relations>: Yes, I mean, we're not like modeling anything really different 
+than we talked about last quarter. I mean, it's not like there's some huge decline in ARPU or something. 
+
+<A - Jim Balsillie, Co-Chief Executive Officer>: Yes. I mean, I think we've been consistent that this is a services 
+platform. And we need current return for what we do but we also need a strategic sort of presence of adopted 
+customers, because A, that's sort of what you want in terms of true market share, and then you want – because there's 
+new ways of monetization. And be careful on the market share definitions because when we look at market share, 
+giving out some open source software that just gets fragmented in implementation, I mean, I'm not sure just where that 
+market share for who and for how much. So, I mean, and so when you go at sort of the ARPU and all this kind of stuff, 
+clearly, there's a value to having this happy customer that you look after that's got a life cycle with you. And you have 
+sort of an integrated commercial relationship with them so that there's commerce exchanged. And that's distinct from 
+just sort of here's some software and let's see what happens. 
+
+But with us, I think what's distinct for us is we're trying to do that in a rapidly expanding market where we've got 
+constructive alignment with the carriers and you're going to see some very powerful extensions of our constructive 
+alignment with more of the ecosystem rolled out at DEVCON and throughout the rest of the autumn. 
+
+So there's margin on devices. There's margins on service. There's margins on BES. There's margin on value-added 
+stuff. And it's a sphere that's rapidly expanding into sort of what channels through a smartphone. And so I agree it's a 
+bit tricky to model. And that's why ASPs can be a little leading, giving net subs can be a little misleading. You just got 
+to roll it up and say this is what we shipped. This is our revenue. This is our net. And then you give general description 
+around it. And I mean if you look at our guidance and performance, I think it's impressive. 
+
+Operator 
+
+Your next question comes from Gus Papageorgiou of Scotia Capital. Please go ahead. 
+
+<Q - Gus Papageorgiou>: Jim you said that Asia-Pacific was one of the stronger regions this quarter. Just wondering, 
+can you kind of highlight what's going on in China? How many carriers there have dedicated to promote BlackBerry? 
+And when do you think China gets turned on like for real? 
+
+<A - Jim Balsillie, Co-Chief Executive Officer>: Well, that's a very fair question. And we had a big internal planning 
+exercise on China this week internal and then a bunch of trips planned and all that stuff. China has global unique 
+circumstances because there is state ownership and control of all 3 carriers. And there are special state requirements in 
+terms of how you fit with air link protocols and different aspects like that. And so I believe – and so you're going to see 
+some very strategic extensions by us in China. And some implementation of things we've signaled in terms of new air 
+links, very powerful local infrastructure, the fund there, localized products. And tight alignment with, we've currently 
+announced 2 of the 3 carriers so far. 
+
+Let's not talk beyond that right now, but I think we are uniquely positioned to be a very good citizen in China in terms 
+of pleasing the customers, complying with the carrier requirements there and still leveraging the BlackBerry benefit 
+worldwide both in terms of its enterprise capability and its consumer capability. So we have a plan there. I think the 
+numbers are improving. I think the product pipeline is also improving. I think the cornerstone pieces for a sustained 
+
+
+solution that addresses all of the market and all the carriers is being put in place. And I think we've been very systemic 
+and patient in China. And I think customers will benefit and I think you're going to see more and more from them this 
+fiscal year. 
+
+As last quarter was a multiple of the previous quarter and the previous quarter. And there's lots of gray market in there, 
+but I think we're committed to being very good citizens in China. We take a patient approach. We take an overall 
+societal benefit approach. And I personally spend a lot of attention to it. And I think it's going to pay sustained and very 
+good dividends for RIM shareholders, this approach. It's not a quick grab and dash thing. It's not a capitulation of 
+sovereignty thing. It's an aligned patient approach. And you're seeing product flow now. You're going to see a lot of 
+products starting to flow later this year. 
+
+But it's a long-term approach. And I think that's the way you've got to do it. Because if you go for just a bit of quick 
+volume, it can disappear as quickly as it shows up. And we're about a service that really delivers a set of promises. And 
+it's a much more comprehensive role we're taking on and it's a carefully regulated society. So we just have to slowly 
+and systemically and patiently do what we do. But I think we're rather unique in that way. And I think we'll serve RIM 
+shareholders for a very, very long time. 
+
+<Q - Gus Papageorgiou>: Thank you. 
+
+Operator 
+
+Ladies and gentlemen this concludes the question-and-answer session. Please continue. 
+
+Edel Ebbs, Vice President, Investor Relations 
+
+Thank you, operator. In closing, I would like to remind everyone that there's a post view service available at 
+416-640-1917 pass code 4310309#. Or you can listen to the call which is being recorded and will be available in the 
+Investor Events section of our Web site at rim.com/investors. Thank you. 
+
+Operator 
+
+Ladies and gentlemen, this does conclude the conference call for today. Thank you for your participation and you may 
+now disconnect your lines. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

@@ -1,0 +1,689 @@
+Q3 2006 Earnings Call 
+
+
+Participants 
+
+• David Mangum, Executive Vice President and Chief Financial Officer 
+• Pete Kight, Chairman and Chief Executive Officer 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon, ladies and gentlemen, and welcome to the CheckFree Sponsored Third Quarter Earnings Release 
+Conference Call. At this time, all participants have been placed on a listen-only mode. We will open the floor for your 
+questions and comments following the presentation. 
+
+It is now my pleasure to turn the floor over to your host, David Mangum. Sir, the floor is yours. 
+
+David Mangum, Executive Vice President and Chief Financial Officer 
+
+Thank you. Good afternoon and thanks for joining us. With me today is our Chairman and Chief Executive Officer, 
+Pete Kight. Before we start, please note that some of the statements we will make today will not be historical, but rather 
+forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These 
+statements reflect the management's intentions, plans, beliefs, expectations, or projections of the future. However 
+CheckFree's actual results may differ from these current expectations. Forward-looking statements involve various 
+risks and uncertainties including those inherent in our business and others that we detail from time to time in our 
+publicly filed reports and press releases, including the press release issued earlier today and filed on Form 8-K, our 
+Form 10-Q for the quarter ended December 31, 2005, filed February 8, 2006, our Form 10-Q for the quarter year ended 
+September 30, 2005, filed November 8, 2005, and our Form 10-K for the fiscal year ended June 30, 2005, filed 
+September 2, 2005, particularly the sectioned titled Business – Business Risks. 
+
+Please also note that in accordance with the Sarbanes-Oxley Act of 2002 and Securities and Exchange Commission 
+requirements, CheckFree publicly discloses all financial results using Generally Accepted Accounting Principles or 
+GAAP. However, in today's call, we will also discuss our non-GAAP performance measures of underlying net income, 
+underlying earnings per share, and free cash flow. Our underlying numbers and free cash flow are reconciled to their 
+appropriate GAAP equivalents in our press release and the accompanying attachments, which were distributed at 4 
+
+P.M. today. The materials are also available in the investor center section of our website at checkfreecorp.com. 
+This past quarter the divesture of our M-Solutions business which was a component of CheckFree investment services 
+traded a unique situation for our presentation of underlined results. SFAS 144 accounting for the impairment or 
+disposal of long lived assets requires us to report the results of operation from the disposed business including any gain 
+or loss on a sale as an income statement item separately catching income from discontinued operation on our GAAP 
+basis income statement. This treatment is required for all periods presented not just the period in which the sale took 
+place. For underlying and for consistency purposes, we are reporting M-Solutions as we historically reported it as a part 
+of our operations and for the partial period for which we owned it in the third quarter. Therefore our third quarter, 
+fourth quarter and fiscal year end reconciliation of GAAP to underlying results will show the impact of the divestiture 
+on revenue and operating income in total and for the investment services segment. 
+
+For the third quarter CheckFree's GAAP consolidated revenue was $226.9 million and underlying revenue was $227.7 
+million, reflecting the difference in M-Solutions reporting I just described. GAAP net income for the quarter was $37.7 
+
+
+million or $0.40 per share and underlying net income was $40.1 million or $0.43 per share. Free cash flow for the 
+quarter was $62.3 million. 
+
+And now I will turn the call over to Pete Kight. Pete. 
+
+Pete Kight, Chairman and Chief Executive Officer 
+
+Good Afternoon. You've had an opportunity to review the press release we issued earlier today, you saw that we 
+reported strong performance across the board. In our Electronic Commerce division we processed 293.3 million 
+transactions during the quarter, representing a 8% sequential quarterly growth. In our full service category we 
+processed 206.7 million payments this quarter. This represents a 9% sequential increase with strong transaction growth 
+across the board. In addition in a migration that has been anticipated for some time, Wachovia converted nearly half of 
+its legacy consumers to CheckFree during the last week of the third quarter and we expect the full migration to be 
+complete by mid May. 
+
+For Payment Services which included a full quarter of phone charge transactions we processed 86.6 million payments 
+this quarter representing 7% sequential quarterly growth. We delivered 46.7 million electronic bills during the quarter 
+representing 3% sequential quarterly increase. Within our Electronic Commerce division, we continue on pace with the 
+integrations of both Aphelion, our Health Club Management solution, acquired in late 2005, and PhoneCharge acquired 
+earlier this year. Both business units have performed well with PhoneCharge slightly ahead of expectations for 
+transactions processed and revenue generated during its first reporting quarter. 
+
+In our Software division sales this quarter exceeded expectations led by licenses for our Operational Risk Management 
+or what we refer to as ORM solutions. For a bit of background here I will tell you that I like the position and execution 
+of this software segment. Operational Risk Management addresses broad financial services market need that has 
+intensified with increasing regulations and tightening budgets. The current business environment has led to more 
+stringent operating requirements for financial institutions and corporations. This increased complexity has prompted 
+our clients to seek technologies that can streamline the management of financial transactions and increase their control 
+across the enterprise. The strength of CheckFree's Operational Risk Management software is in support of these 
+complex back office processes that allow our clients to operate more efficiently, to keep pace with these increasing 
+regulatory requirements, and to compete effectively in doing so. 
+
+The solutions allow the client's organization to perform consistent, repeatable, and compliant processes at the enterprise 
+level. Account reconciliation and settlement, exception, and risk management, work flow, and business intelligence are 
+among the complex back end areas where our Operational Risk Management software continues to excel. Most of you 
+who are listening to this call can go back behind the scenes at your own firm's operations area and you will see and hear 
+about increasing requirements for Operational Risk Management in your own operations. Now I expect if you look 
+very far you will probably see some of our software back there helping your people handle it. 
+
+In our Investment Services division, the accounts on our system increased to almost 2.2 million through the end of the 
+quarter. During the quarter we announced the divesture of our of M-Solutions business unit. We continue to focus on 
+our primary strategy within this division of driving growth in the managed accounts market in delivering CheckFree 
+EPL, the next generation platform. We are on track with the multi year investment in CheckFree EPL. This summer we 
+expect several beta clients on the platform which will provide the first real time, end-to-end operational experience for 
+the project. To confirm that EPL will deliver the business, operational and cost efficiencies that broker dealer firms, 
+money managers and registered investment advisors need to expand the reach of these tailored account products. We 
+continue to make progress on our high availability disaster recovery initiative. As an important part of our strategy, we 
+recently closed on a lease that we plan to use for two data centers over the next 2 years as a part of this plan. 
+
+And now back to Dave who will provide some color on the quarter's financial results and a look ahead to Q4. Dave. 
+
+David Mangum, Executive Vice President and Chief Financial Officer 
+
+
+Thanks Pete. Total business performance exceeded our expectations in the third quarter. Performance was largely 
+driven by stronger than expected software sales, a good start from the PhoneCharge acquisition, additional float 
+revenue, and an improved full year tax rate. On February 6 we completed the divesture of M-Solutions, a unit within 
+CheckFree investment services, we recorded a pre-tax GAAP gain of $12.8 million. From a cash flow perspective, the 
+sale generated $18.6 million in cash flow from investing activities, while the related cash tax payment of over $7 
+million will represent a reduction in cash flow from operating activities and thus free cash flow in the fourth quarter. 
+
+In Electronic Commerce we reported transaction growth of 8% at the high end of our expectations; excluding over 4 
+million PhoneCharge transactions, growth would have been about 7%. We reported strong core transaction growth 
+across our full service customer base in the quarter. Due to reduced guaranteed minimum revenue commitments and the 
+conversion of a large client to the risked base processing model, revenue per transaction declined by $0.08 in the 
+quarter which reduced the Electronic Commerce margin by approximately 3 percentage points for the quarter. 
+
+In Payment Services the addition of the PhoneCharge transactions at greater than $2 per transaction resulted in an 
+increase in revenue per transaction of about $0.10 for the quarter. Our software business reported a strong quarter with 
+a significant increase in sales fueling an operating margin of about 25%. In investment services we recorded another 
+quarter of steady portfolio growth with revenue and operating income offset a bit by the February divesture of 
+M-Solutions. Margins continue to hover in the mid- to high-teens as investment in EPL remains on plan. We generated 
+$62.3 million of free cash flow in the quarter, with cash flow from operations of $72.5 million offset by capital 
+expenditures of $10.2 million. In addition we repurchased more then 150,000 shares of our common stock for 
+approximately $7 million. 
+
+Turning now to fourth quarter expectations, we anticipate consolidated revenue in the range of 226 million to $231 
+million and earnings per share of $0.30 to $0.33 on a GAAP basis and $0.39 to $0.41 on an underlying basis. In 
+Electronic Commerce we expect sequential transaction growth of 5 to 8%. In the full service category we expect the 
+migrations of Wachovia transaction to CheckFree to be complete by the middle of fourth quarter and we expect full 
+service revenue per transaction to decline about $0.04 due to standard volume pricing trends and the full quarter effect 
+of the risked base processing conversion in Q3. 
+
+In Payments Services we expect to return to more modest transaction growth, we expect revenue for transaction in this 
+category to remain relatively flat. We expect the underlying operating margin in Electronic Commerce to fall a couple 
+of percentage points in the fourth quarter. Coming off of a strong third quarter for software we expect flat or modestly 
+lower revenue in the fourth quarter with expected margins moderately lower than third quarter performance. Within 
+Investment Services, we expect portfolio based revenues to continue to grow at a similar rate to Q3, but to be offset by 
+the full quarter effect of the M-Solutions divesture. We expect our operating margin to remain in the mid- to 
+high-teens. Last week we filed an 8-K announcing 2 new financing arrangements. First we replaced our $185 million 
+revolving credit facility with a new $300 million facility. The second arrangement provides up to $100 million of 
+financing for the purpose of leasing from a bank syndicate two data centers that will be built over next 2 years. When 
+combined with existing cash and investments and our ability to generate free cash flow, these 2 agreements provide 
+substantial flexibility for us as we evaluate uses of capital. We are increasing our full year financial expectations based 
+on our strong overall performance year to date. Full year earnings per share expectations are now $1.34 to $1.37 on a 
+GAAP basis and $1.72 to $1.74 on an underlying basis. We continue to expect to spend more than $45 million on 
+capital expenditures and now expect to report full year free cash flow of about $175 million. 
+
+Now I'll turn it back to Pete for some closing comments. Pete. 
+
+Pete Kight, Chairman and Chief Executive Officer 
+
+The quality of our execution this year, I think has positioned us into a position of relative strength, one that in my view 
+allows us to increase investments in the areas that will position us well for future growth. We will balance our 
+investment across 3 areas. Most important to securing continued growth and important market leadership. We will 
+continue to strengthen our core competencies to meet the needs of our clients and their customers, enabling efficiency 
+
+
+in the complex back end infrastructure of financial services management. 
+
+We intend to significantly enhance our products and services with accelerated innovation in order to stay ahead of what 
+we believe is a trend of the increasing expectations in the market and we will continue to accelerate investment in 
+enhancing the quality, efficiency and the security of our processing infrastructure that supports our core services. 
+
+In Investment Services this means continuing our redesigned and roll out of check for EPL which will deliver the 
+business operational and cost efficiencies that will help our money manager and broker dealer clients expand their 
+ability to service the household of the future. 
+
+For our core infrastructure we also will continue our focus on a high availability disaster recovery capability, investing 
+what is needed to create the higher standards we think will be required in financial services. This initiative is capital 
+and labor intensive, but it is far too important to the future of financial electronic commerce to not make the necessarily 
+investment. I believe every financial services provider will be making this type of increased investment eventually, we 
+think it wise to do so now over a controlled timeframe and with the opportunity for efficient planning. 
+
+Overall I am clearly pleased with our execution in the third quarter and through out this year. Our fairly conservative 
+business approach is to use this success to invest more heavily in the areas that provide the most value to our clients 
+and to their customers and secure the growth channels through which we can continue to execute. I am very pleased we 
+were able to both raise our outlook for the year a bit and at the same time increase our investment in the future. 
+
+That concludes prepared remarks, Operator you want to open it up for a question? 
+
+Q&A 
+
+Operator 
+
+Thank you very much ladies and gentlemen [Operator Instructions]. 
+
+And we will take the first question from Bryan Keane. Sir please state your affiliation then state your question. 
+
+<Q - Bryan Keane>: Hi, it's Brian from Prudential, Dave just looking at some of your comments about the guidance, 
+you know the quarter underlying with 43 and then your guidance 39 to 41 which looks to me that there's a little hit in 
+the margin in the fourth quarter and I think you talked about it in the guidance that E-commerce margin will be hit a 
+point or two, can you just talk about what's in that number that's dragging the margin down? 
+
+<A - David Mangum>: Yeah I would be happy to Brian. In Electronic Commerce specifically recall that the risked 
+based migration of the large customer happened about the middle of Q3. We will have the full quarter effect of that in 
+Q4, so you will find that revenue per transaction in full service for instance is dropping a little further then you might 
+typically model. Typically you'll model that $0.01 to $0.02 drop we talk about on a normalized basis. I am suggesting 
+you want to model $0.03 or $0.04 cents to that drop now instead, so you'll see that translate into a bottom line effect 
+because that float revenue that comes from the processing is of course 100% margin. In addition Pete described a few 
+moments ago some of the ongoing investments in what we will call a better and continuous availability from a disaster 
+recovery perspective. Some of those do kick in in Electronic Commerce specifically in the fourth quarter, but the real 
+driver is just that risk based processing migration, the full quarter effect to Q4, that will drop the margin a point or 2 
+points in the fourth quarter for E-Commerce alone, that will of course have a bit of a concurrent affect on total 
+company margin in the quarter. 
+
+<Q - Bryan Keane>: In some of the investments that Pete was alluding to, do those stop at the end of this fiscal year or 
+do they carry on at the same kind of level in the fiscal year 07? 
+
+<A - David Mangum>: Yeah I think, or at least I hope what was clear in the comments is that we are embarking on 
+what will be an ongoing investment in being very good at making our services continuously available for the long term, 
+so we are embarking on that over the course of fiscal 2006 embarking on making sure we have excess capacity in the 
+form of dark fiber, making sure we have co-location arrangements in the near term that are everything we expect them 
+
+
+to be and then from a perspective of the data centers we referenced in the comments we have a long-term capacity to be 
+continuously available and have that be a high value service we offer as differentiated to our customers. So we are in 
+the middle of fitting this kind of investment into the ongoing operations of CheckFree. 
+
+<Q - Bryan Keane>: Okay and then just finally the sales and marketing line I recall from last year in the fourth quarter 
+it jumped, is that, we probably should model it the same way for a pick up in sales and marketing in the fourth quarter 
+sequentially as well there? 
+
+<A>: Yeah I think you will see a pick up, I don't know that it will be as big a jump as last year, last year recall we had 
+some build up of programs and things we were going to run, you will see some of that along with the traditionally 
+higher commissions in variable comp expense in the sales force, but maybe not as big as you might have modeled last 
+year Brian. 
+
+<Q - Bryan Keane>: Okay that's helpful, thanks and great quarter. 
+
+<A>: Thank you. 
+
+Operator 
+
+Thank you we will pick the next question from Tien-tsin Huang. Sir please state your affiliation then pose your 
+question. 
+
+<Q - Tien-tsin Huang>: Hi it's Tien-tsin from J.P. Morgan, just a follow up question about the large client conversion 
+the risk based pricing was that delayed in terms of the timing? 
+
+<A - David Mangum>: If it was delayed, it was at the margin. What actually happened Tien-tsin, to be perfectly frank, 
+was the impact on risk based revenue was frankly less then we modeled in sort of the overall balances decreased at a 
+slightly slower rate then expected. 
+
+<Q - Tien-tsin Huang>: Okay so there is a little bit of a spill over effect going into the fourth quarter, plus the 
+Wachovia kicking in will explain some of the down tick in the revenue per? 
+
+<A - David Mangum>: That's correct along with that you'd add to that you know sort of the traditional drop in rev per 
+transaction we see quarter-over-quarter. 
+
+<Q - Tien-tsin Huang>: Okay great that's helpful and then I guess revenue per transaction on the payments side was a 
+bit higher than expected, I think it was like a penny better then what you planned. Sounds like PhoneCharge performed 
+better then expected, but how about the rest of the rest of the Payment Services businesses? 
+
+<A - David Mangum>: Yeah, I think the rest of Payment Services was about on plan for the quarter, we saw solid 
+progress from account balance transfer. Fine growth from biller-direct transactions, the walk in transactions were about 
+what we expected. I think one of the things you may see as you analyze that penny that you are referring to from a 
+modeling perspective is we do have an ever increasing book of credit card transactions happening in that telephone Bill 
+Pay business that PhoneCharge brings. Those come at a higher price, but at a lower gross margin given interchange, but 
+that may also, that blend and that mix may also account for that penny you are talking about. 
+
+<Q - Tien-tsin Huang>: Got you, and then also on payment I understand that MBNA is a client already there, given 
+the merger with BofA, how should we think about that rolling up into the broader BofA contract? 
+
+<A - David Mangum>: Well I'll give you a couple of data points and this is probably a good moment to chat about, 
+obviously BofA's metrics now include MBNA in all of their Electronic, Billing and Payment metrics, but for us MBNA 
+has been and will continue to be a payment services customer you given that they take biller-direct transactions. From 
+the perspective of BofA I don't know what the integration plans are, but I will point out to you that BofA processes its 
+own biller-direct transactions. And we will see what the integration plans are for MBNA, but to your point the MBNA 
+transactions and consumers are payment services biller-direct customers of ours. 
+
+
+<A - Pete Kight>: So overall Tien-tsin, we are pretty big fans of the BofA move with MBNA both because we think it 
+helps their overall strategy, we kind of believe that MBNA was extremely well-run organization and so we think both 
+the BofA is going to benefit from MBNA's operational and strategic skills and MBNA is going to benefit from BofA's 
+just tremendous retail reach and scale. overall you know we'll trade off what's probably going to be some cost 
+efficiencies that Bank of America is going to earn out of the deal, my guess is over the long run we will gain in the 
+overall growth of the combined organizations, but as of right now we like what we are seeing and we like the 
+opportunity to work with the combined organization and think there's opportunity there. 
+
+<Q - Tien-tsin Huang>: Great, thanks. I would like to sneak in one more, you got really strong free cash flow this 
+quarter I think up 25% despite the TransPoint roll off. Any new thoughts on use of cash going forward? 
+
+<A - David Mangum>: No I don't think any new thoughts, we continue to think that the best first use of cash is to find 
+additional avenues for growth for shareholders. We do as you noticed in the quarter think we can and should routinely 
+be buying back stock, but I wouldn't call any of that a sea change in our approach to using cash. 
+
+<Q - Tien-tsin Huang>: Great thanks, nice job guys. 
+
+<A - David Mangum>: Thanks Tien-tsin. 
+
+Operator 
+
+Thank you our next question is coming from John Kraft. Sir please state your affiliation and pose your question. 
+
+<Q - John Kraft>: John Kraft, D.A. Davidson; good afternoon gentlemen, nice job in the quarter. 
+
+<A>: Thanks John. 
+
+<Q - John Kraft>: Dave I just wanted to clarify a couple of things that you said wording wise to see if I am reading 
+into this more than I should be, you said the TransPoint revenues were reduced in the quarter. Are you suggesting there 
+could be more of a fall-off later or are we completely finished with that attrition? 
+
+<A - David Mangum>: No I am sorry if that wasn't clear. The TransPoint minimums expired 12/31, so we have 
+translated that into a drop in revenue per transaction that you saw in the March quarter and we should not see another 
+sequential drop related to the TransPoint. 
+
+<Q - John Kraft>: Okay, finally through. 
+
+<A - David Mangum>: Finally through, but on an annual basis we will probably talk about it once or twice more, I am 
+sure. 
+
+<Q - John Kraft>: That gives us something to do. Now on PhoneCharge you also said greater than $2. Are you 
+suggesting that there is pricing increases possible or I guess how is pricing trending in that particular unit? 
+
+<A - David Mangum>: Pricing is actually trending modestly up but it speaks a little to the mix issue I was describing 
+in answer to Tien-tsin's question. The higher mix, actually let me step back for a moment, the majority of these 
+transactions are e-Check or debit transactions, but credit card is growing well inside the base, so the more credit card 
+transactions, the slightly higher the price can be on a blended basis, but again that comes with interchange and a bit of a 
+lower gross margin, so pricing can slowly go up over time. We don't model it as much of a change that you will really 
+notice, as you can tell from the expectations for instance in Q4 which is for that price to be flat on an overall basis 
+inside payment services, maybe drop a penny, so you don't see a trend that's going radically alter the shape of the 
+pricing curve in payment services in aggregate trajectory, if that helps you think about it. 
+
+<Q - John Kraft>: No, it does, it does. And then regarding the software business in the quarter obviously strong, is it 
+fair to say that some of the deals that you thought might have come in Q4 actually just happened a bit early? 
+
+
+<A - David Mangum>: Well I think I'd go back to our comments from a quarter ago, you know all along we've 
+believed, or at least I believed that Q3 would likely be our strongest quarter, counter to our history. We thought Q4 
+would be strong, but not as strong as Q3. I think what we saw our software overachieve even that expectation and I 
+wouldn't describe it as deals being closed earlier necessarily, strong performance and we expected a strong Q4, but I 
+don't think of it so much as being pulling deals in from Q4, I think that team from an execution standpoint has built a 
+solid pipeline and frankly executed on almost everything they said they would do this quarter. 
+
+<A - Pete Kight>: Yeah but what you are asking is sort of a classic software deal of draining the pipeline, no I don't 
+think that's what happened. I think they really just executed directly on plan and quite frankly Dave and I never sort of 
+assumed software's going to execute directly on plan -- that was a very well executed quarter. 
+
+<Q - John Kraft>: Okay. Good enough, thanks guys. 
+
+<A>: Thanks, John. 
+
+<A>: Thanks, John. 
+
+Operator 
+
+Thank you. Our next question is coming from Greg Smith. Sir, please state your affiliation then pose your question. 
+
+<Q - Greg Smith>: Yeah, hi, Merrill Lynch, good afternoon, is it possible to get organic revenue growth overall taking 
+out the revenue, the guaranteed revenue minimums and also acquisitions? 
+
+<A - David Mangum>: Well, there are a couple ways to go at that John, – Greg, in terms of the revenue minimums I'd 
+point you back to our comments really from the August call, where we talked about the full year difference in 
+TransPoint revenue, going from guaranteed revenue of 50.5 million in '05 to becoming approximately 24 million in 
+2006, 21 million of that you will recall we said was guaranteed in the first half of the year, which I think gives you 
+enough to think through the volume base revenue that you'd find, on a full year on a half year basis, and the second half 
+of the year without TransPoint. If you aggregate all of the '06 acquisitions and divestitures, you are talking about 3 to 4 
+points of growth overall and that you can build back to as well, if you walk back to what we said about IDS Aphelion 
+and M-Solutions and PhoneCharge, I think, you will find an ability to go at just that kind of a calculation. 
+
+<Q - Greg Smith>: Okay, hoping you'd you make it easier for me. – no problem – I have got Excel, I'll be okay, And 
+then, as you think about full service pricing once we now that we have grown over the guaranteed revenue minimum, 
+but we've got the BofA issue and Wachovia coming in, once all that stabilizes what kind of annual decline should we 
+expect in full service pricing? 
+
+<A - David Mangum>: Yeah, I think that the normalized decline in the near term is still going to be 12-15%, you have 
+seen 15 to 17, I think modeling at about 15 is a perfectly good place to be – again a normalizes base, when you can 
+wash some of the noise you described out the number. So I would hold at 15. 
+
+<Q - Greg Smith>: Okay, and then lastly just kind of a boarder strategic question, are their any areas of bill payments 
+that you feel you're not in any other strategic areas, you've got the walk in, you've got phone based, you've got online is 
+there anything you feel like you're sort of missing from a strategic standpoint? 
+
+<A - Pete Kight>: Well, we asked ourselves that quarter – that question every quarter internally in several different 
+ways, in several different parts of the company. And we have different viewpoints on what we might be extending into 
+
+– I would say other than outside the U.S., we aren't in any parts of the billing or bill payment business that are 
+significantly different from where we are today. The question is whether we should be extending a little bit further into 
+some of the areas that we're in today. And fairly quickly, you get into the probably the bigger question is should we be 
+involved more in leading the progress towards where the DDA is today, where the investment accounts are today, and 
+where the household financial services account of the future is going to be, and I would say, we're probably more 
+focused on that than we are on individual payment. 
+
+<Q - Greg Smith>: Okay. Thank you. 
+
+<A>: Thanks Greg. 
+
+Operator 
+
+Thank you. We'll take the next question from Wayne Johnson. Sir, please state your affiliation then pose your question. 
+
+<Q - Wayne Johnson>: Yes, good afternoon, Raymond James, my question is as far as Wachovia conversion goes, 
+which geographies have already been converted and have you been able to track the transaction trends of those 
+particular subscribers? 
+
+<A - David Mangum>: Yeah, Wayne, off the top of my head, I don't have the geographic information other than I 
+know Atlanta indeed converted during that March conversion. It's too early really to have a good view of trends, we 
+saw the number of consumers and transactions we expect to move over, but given it's been at least a little over 3 weeks 
+of processing, it's probably too early to talk about trends. 
+
+<Q - Wayne Johnson>: Okay. And I was also wanted to follow up with the competitive question, credit cards being an 
+option for consumers out there to pay bills online Visa putting a lot of effort or money anyway in to advertising, print, 
+and television and what have you for EVPP services and I am assuming other credit card issuers may want to follow 
+that, how do you guys view that competitive market and just any comments you have on that would be helpful? 
+
+<A - Pete Kight>: Sure, the only part of your question that I am not sure would be accurate is that I don't have any 
+information that says overall spend by the credit card companies is higher or lower on this initiative than it's been over 
+the last couple of years. I do recognize that Visa's running the current set of ads, I don't know that there are spending 
+more money today, then they did I think 3 years ago when they did this before, but they are spending more money then 
+American Express did over the last couple of years or MasterCard a year and a half ago, but we don't see any difference 
+at all this is exactly what the 3 card companies have done sort of trading off one among the other over the last 4 years 
+as we have been tracking it, we don't see any change in behavior among our customers, we don't see any change in the 
+results, it's still very highly skewed towards people chasing miles, to get the benefits on their card, the list of billers that 
+are willing to accept credit cards comes and goes, changes not dramatically, but changes sort of every six months as 
+they get pressured to expand their acceptance and then they get pressured to cut back their acceptance because of cost, 
+but overall I would our analysis is that it isn't very different than it has been over the last for sure 3 years. 
+
+<Q - Wayne Johnson>: Okay thank you that's helpful and just one other follow up. Can you comment on how many 
+more billers you guys expect to add to your system, or major billers, I guess I should say and could you comment on 
+what you think the penetration of the billers that you have on your system, how many subscribers are paying their bills 
+online versus paper? 
+
+<A - David Mangum>: Yeah I will talk to you a bit Wayne about the count; Pete you can talk a bit about penetration 
+overall and how the billers are thinking about it. We will probably add I guess about 25 or so new major billers to the 
+system over the full year this year. We are about 3 quarters of the way there this year, recall that we are targeting the 
+top few 100, 400 maybe 500 major billers who can deliver that meaningful content on a national and a regional basis, 
+so you shouldn't expect to see that number continue to grow over time against the 25 where you have seen perhaps 
+larger numbers in the past. We don't see a decline in interest in the product at all, I mean that's a good place to toss over 
+to you Pete about how the billers are thinking a little bit. 
+
+<A - Pete Kight>: We actually did have a very good quarter this quarter in signing what we call both Tier 1 and Tier 2 
+which were the top 2 tiers of billers. We had a big uptick this quarter in closings. Our viewpoint is very consistent with 
+what we have been analyzing for the last six quarters and that is the billers care a lot about bank penetration and as 
+bank penetration moves up and Wachovia's conversion is going to help that significantly. We think we have a couple 
+additional big financial institutions that will expand their electronic billing footprint with us over the next couple of 
+quarters, but those are all things that continue to build the overall trend. Again this is as we talked about a lot, the way 
+this penetration occurs, it is over time and it builds on its own momentum, so as the numbers increase the number of 
+
+
+people who then are able to increase the number of bills continues to get larger, so it grows off a ever increasingly large 
+base and those economics work in our favor. We are very positive on the trends, we continue to focus very carefully on 
+working closer we have been working very closely with the banks, we are continuing to work on ways in which we can 
+work more closely with the billers as they pick up momentum, like the trend I wouldn't say there's anything dramatic 
+that's going to change in the near future, but we do have all the information we are tracking says that it will continue its 
+rise. 
+
+<Q - Wayne Johnson>: Terrific, thank you very much. 
+
+<A - David Mangum>: Thanks, Wayne. 
+
+Operator 
+
+Thank you we will take the next question from Andrew Jeffrey. Sir your line is live. 
+
+<Q - Andrew Jeffrey>: Hi, SunTrust Robinson Humphrey, as the nature of your business changes, as the mix of the 
+business changes, can you talk a little bit about what you think the potential profitability is longer term? It would seem 
+that the business particularly is more transaction that go a cross Genesis so you know the common back end that would 
+afford greater incremental operating leverage. I am just wondering if there's some point at which you are going to 
+address that or how you view that at this point? 
+
+<A - David Mangum>: I don't think our view of that has changed; I think it's fair of you to ask us, we'll have an 
+evolving transaction mix but fundamentally the bulk of the transactions if you do the analysis on EC is still full service 
+EBP and sort of bank based transactions. So culturally and philosophically, we continue to believe that the operating 
+margin, the target operating margin for this business is in the mid-20's to the high 20's. So that's in mid-20 up to a 29% 
+range we've probably talked about for sometime. I don't think the mix has changed such that we can be prepared to talk 
+about anything beyond that, in fact we think it's a very strong place to target for the long-term, from an efficiency 
+standpoint, from a growth and a sustainability standpoint. 
+
+<Q - Andrew Jeffrey>: Okay. And as it pertains the disaster recovery offering. Is there a point at which you look to 
+resell that or is it strictly in your minds going to be something you offer as a value added service in a point of 
+competitor differentiation as you put it? 
+
+<A - Pete Kight>: I would say there is the – to varying degrees the answer is yes to all of your questions. There are – 
+there will be a lot of different levels of but, you know, in old terms what's called disaster recovery and we are now 
+referring to as continuous availability, and we intend to have essentially an unlimited Six Sigma offering and we do 
+believe that we'll likely have the opportunity to offer a broad array of customers the option of what level of availability 
+they would like and within that range from a very good disaster recovery assurances all the way up to continuous 
+availability in all circumstances which we believe there is probably opportunity to position some part of that scale as 
+higher value that could be sold and it's fairly early in the process, but it is very clear that our intensions are to offer a 
+range of services and give our clients the ability to pick exactly what they want. 
+
+<Q - Andrew Jeffrey>: Okay. Thanks very much. 
+
+<A - David Mangum>: Thanks Andrew. 
+
+Operator 
+
+Thank you. Our next question is coming from Dan Perlin. Sir, please state your affiliation and pose your question. 
+
+<Q - Daniel Perlin>: Thanks. Stifel Nicolaus & Company. My question really is on I guess it's three of them, 
+investment service margins, as we think about it over the next, let's say 12 or 18 months or something within that time 
+horizon. I'm wondering to what extent we are going to see margins actually possibly significantly improve, once you 
+make this conversion from kind of APL to your new platform EPL, because if you go back and you look at margins on 
+
+
+that business when you guys were running at half the number of portfolios, I mean it was, you know, in the upper 20's 
+and I suspect there is some duplicative costs today but once you've switched that off, I would say you know be possible 
+for you to get back in mid-20's. Is that a fair assessment or just you know crazy thinking? 
+
+<A - David Mangum>: I think Dan that your assessment is fair. I probably disagree with you on the timing of that 
+potential. We are going to do, as we have talked about earlier in the call. We're going to start some betas in the summer. 
+We will start some migrations over the course of fiscal '07, that means as you run toward fiscal '08 you will be doing 
+the bulk of the migrations. So I might dispute your timing, in other words you are too early in how you think about a 
+return to higher profitability over an elimination to use your terms of duplicative costs but we certainly are making the 
+investment in EPL expecting to run this business at something closer to historic profitability level for the long-term 
+absolutely. 
+
+<Q - Daniel Perlin>: Great the other question I have is you know when you talk about the context of the data center 
+for disaster recovery, but I am wondering if kind of in conjunction with that you're not going to do some sort of roll up 
+strategy within the PhoneCharge and EPS business where you kind of running today on you know the spare platforms, 
+but you are going to spend all this money for these data centers to the extent that you can consolidate that platform for 
+either last minute bill pay or walk in bill pay, is that something you are contemplating? 
+
+<A - Pete Kight>: You know you are certainly looking along the right part of the business that's, you know our 
+estimate right now with no new acquisitions, no other changes, by the time we turn the new data centers' light we will 
+at that time be running 9 different data centers, so there's no question there is opportunity for increased efficiency as we 
+bring up the new data centers. 
+
+<Q - Daniel Perlin>: Okay and then lastly I think the follow up on Wayne's question about the competitive market 
+with the card companies, Visa, MasterCard associations in particular, one of the things I guess we kind of tossed 
+around in the past is your either ability to partner with or potentially acquire something in loyalty, tying to bill payment 
+and I would just like to get an update on that? 
+
+<A - Pete Kight>: There is definitely, it's interesting to watch as the overall cost of electronic banking including 
+electronic billing and payment. If you track the financial institutions' cost you know they have come down dramatically 
+in the last 4 years and there is simply no question that this is a tremendous profit tool for especially the big financial 
+service organizations, so certainly I do believe is going to be increasing room for the financial institutions to be more 
+creative going forward. And one of the things which I probably should have added to the credit card question is there is 
+no question that we will end up adding certain components of credit card and debit card access to our core, bill payment 
+platform choice. So you will have the opportunity as a consumer to choose for individual payments, what type of 
+accounts you want those payments to come out of. And I think at the same time, we're going to continue to see changes 
+in the way in which credit and loyalty rewards are issued through these organizations, particularly as you see 
+transaction accounts start to align but within the big financial institutions with investment accounts, there is going to be 
+rewards for making transactions, there is going to be rewards for incoming transactions. I think it's a pretty dynamic 
+marketplace over the next five years. 
+
+<Q - Daniel Perlin>: Is that something that you think you would have as part of your upfront offering or would be the 
+end result of the financial institutions offering it and then applying it to electronic bill payment? 
+
+<A - Pete Kight>: Wouldn't be prepared to comment on that at this stage. 
+
+<Q - Daniel Perlin>: Okay, great. Thank you very much, good quarter. 
+
+<A - David Mangum>: Thanks Dan. 
+
+Operator 
+
+Thank you very much. Our next question is coming from Elizabeth Grausam [Goldman Sachs]. 
+
+
+<Q - Gregory Gould>: This is Greg Gould in for Liz. We have got two conference calls on at the same time. Dave I 
+wanted to get a little more clarity on the software business, someone had asked earlier about organic growth for the 
+whole company. Could you help us with the, what was the organic growth with just the software piece and what kind of 
+organic growth should we think is reasonable going forward with all the positive trends you talked about earlier on? 
+
+<A - David Mangum>: Yeah I think that that's and Greg I don't remember if we've talked about this much that's a – 
+that long term growth approach for software is a significant topic for us internally. We think we are executing very well 
+and we are asking ourselves the question of how fast can we grow that business over the long term. And so I'd continue 
+to tell you we are analyzing that and thinking about that on a quarterly basis, and we owe you an answer to that over the 
+long term, but we're working on it as hard as we can. In terms of the actual acquisition fueled growth, I think what you 
+find for that segment if you're looking at sort of on a year-to-date basis, it's a little tough to tell but an awful lot of the 
+growth is of course coming from the acquisition of Accurate which is really performing well for us, along with a very 
+solid organic growth in the securities channel, will link to the ORM solution selling that Pete described in the 
+comments. Off the top of my head I actually don't have that number in front of me, I'll be happy to get it back to you a 
+little bit later in terms of the mix there but remember Accurate was a late '05 acquisition not an '06. 
+
+<Q - Gregory Gould>: Right. 
+
+<A>: So while it's helping a lot, it is not the answer here for growth in software. 
+
+<Q - Gregory Gould>: Okay. And then one other question for walk-in bill payments, we've seen a big or an uptick in 
+Western Union's consumer to business division. Are you seeing a similar trend with APS? 
+
+<A>: In terms of – can you describe that a little bit more, the uptick you're seeing in Western Union relative to what 
+you'd expect to see from APS? 
+
+<Q - Gregory Gould>: It just – it's momentum – it just seems that industry momentum has picked up a bit. Are you 
+seeing something similar? 
+
+<A>: Yeah, I think that maybe the direct core, or the direct comparison there to the transactions you are talking about is 
+what we would call a non-contracted bill payment transaction. 
+
+<Q - Gregory Gould>: Right. 
+
+<A>: So, the consumer who's making a transaction for any biller we can pay rather than those who have authorized us 
+to be their provider in geographic area. That's a book of transaction that is growing very nicely for us. The authorized 
+business you'll recall is a modestly growing business and that is still the majority, in fact the significant majority of all 
+transactions, but yes on a non-contracted basis, which again is what I think would be sort of the analogy for a Western 
+Union transaction, we're seeing very solid growth 
+
+<Q - Gregory Gould>: Okay. Thank you very much. 
+
+<A - David Mangum>: Sure, thanks Greg. 
+
+Operator 
+
+Thank you very much, ladies and gentlemen, our last question we have in queue is coming from Craig Peckham. Sir 
+please state your affiliation and pose your question. 
+
+<Q - Craig Peckham>: Hi, Craig Peckham from Jefferies. Thanks for letting me in under the wire here. I wondered if 
+you could just take a step back for a second. As we look at the year obviously it's been pretty tricky with the revenue 
+coming and going but, are there any investments as you look at the year that maybe you feel like you've had to be a 
+little bit more restrained on timing wise I remember back in the fourth quarter, I think you said you were behind the 
+plan at that time in terms of some of the discretionary spend? 
+
+
+<A - David Mangum>: I would say, Craig, that I think we posted a very strong year, an especially strong year given 
+the things we've had to manage this year. I don't know that there is anything that we have to use your word sort of 
+turned off at any point. You'll recall we've talked before about wishing we had actually invested more, invested faster. 
+That's not because we shut off faucets for lack of a better metaphor right now. It's because we didn't hire as fast as we 
+might have expected; we didn't pull off programs as quickly as we might have hoped. But I'm not aware of us shutting 
+down anything as we talked about long before the year started, the quarters were never going to be perfect this year, but 
+I think should we go ahead and achieve the expectations we have for Q4 we'll have posted a very strong year while still 
+investing in an awful lot of programs, initiatives and ideas for the long term. 
+
+<A - Pete Kight>: Yeah, I would really say that I think the opposite was the – we try to push the opposite side of that 
+case which is we actually tried to invest faster, we did increase our investment and again as I announced today, we are 
+going to step up the investment a bit more you know what we found out was we could only execute so fast. I wish we 
+could have executed faster but it's my job along with the other leaders here to make sure we don't invest faster than 
+unwisely. So I think, we did a very good job of investing well as fast as we could, probably if we could have invested a 
+little bit faster and executed well, I would have liked to have, we certainly didn't hold anything back we actually tried to 
+speed it up a bit. 
+
+<Q - Craig Peckham>: Pete, how do you think, you'll end up getting paid on the disaster recovery investments, I mean 
+is this something that you're hearing more and more from customers currently, do you think that there's any clients that 
+this may have been a swing factor for? 
+
+<A - Pete Kight>: So, we have heard fair amounts from our clients and it's cascaded starting with the biggest which the 
+biggest isn't a customer, happens to be the U.S. government, and we work very closely with them, whether we want to 
+or not, we're considered to be a major infrastructure supplier to the U.S. financial services systems. So we are audited 
+by the same group of organizations that all of the major banks are. We have very close working relationships with them 
+and we understood very clearly fairly long ago that the requirements were going to go up dramatically starting with the 
+biggest suppliers. And we're among the very biggest suppliers. And we heard that loud and clear and we also happen to 
+believe that they are correct and that we should be well ahead of any kind of problems that are introduced to the U.S. 
+financial services systems from a security or a tax standpoint. So we started investing ahead of time, we were ahead 
+when the big financial institutions started bringing in their higher level requests, we've stayed ahead as sort of 
+awareness of where we are all headed has started to move out through the financial services industry. And I can tell you 
+it's a much bigger deal with much greater awareness among parts of the financial services industry but it will get 
+everywhere. And as I said, there is just no question, that's going to be ultimately be required. It isn't necessarily going 
+to be required to go as far as we're going to go. We do believe there is opportunity to be able to accrue additional value 
+for the highest level with continuous availability. We don't have really any detail we're prepared to talk about today, but 
+we do believe both in terms of a differentiator, in terms of continuing to define a level of quality that you are going to 
+need to have to compete in this space. And the ability to be able to define what you can get paid for in the space, we 
+think we are doing the right thing by investing ahead of the market here. 
+
+<Q - Craig Peckham>: I'll take the liberty of one more question since I'm the last one on the call but can you give us a 
+refresher David on the economics and on the bill presentment side? I believe the revenue is still – have reported in the 
+other revenue component of e-commerce but if you could give us kind of sense of how the business was in there if you 
+could? 
+
+<A - David Mangum>: Yes, I will be happy to Craig, no problem with one more question. The actual revenue for 
+e-bills at on the average of about $0.20 a bill is actually appearing in payment services revenue right now. And that's a 
+metric that I am not sure Craig, if you and I've talked about it directly but certainly with others, we are going to be 
+looking hard at our metrics which has served us very well for the last three years or so. As we enter 2007 having added 
+PhoneCharge and now seeing revenue per transaction in payment services being north of that in full service, then you 
+are seeing a $0.10 increase for instance in payment services certainly gives us all the reasons in the world to look hard 
+at metrics and make sure we can give you the most efficient modeling tools for the next three years if we can, as we 
+head into 2007. So we'll take all of these on but to answer your question directly the revenues are actually in payment 
+services for the moment and we will be thinking about those metrics as we go forward. 
+
+
+<Q - Craig Peckham>: Thanks. Great quarter. 
+
+<A - David Mangum>: Thanks a lot Craig. 
+
+Pete Kight, Chairman and Chief Executive Officer 
+
+That's great. Operator that's all the time we have available for today. I want to thank everybody for spending an hour 
+with us here at the end of the quarter and look forward to talking to you at the end of the fiscal year. Thanks. 
+
+Operator 
+
+Thank you very much ladies and gentlemen. This does conclude today's conference and you may disconnect your lines 
+and have a wonderful day. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2008, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

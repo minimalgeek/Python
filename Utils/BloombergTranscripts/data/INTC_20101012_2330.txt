@@ -1,0 +1,811 @@
+Q3 2010 Earnings Call 
+
+
+Company Participants 
+
+• R. Kevin Sellers, Vice President, Finance; Director, Investor Relations 
+• Paul S. Otellini, President and Chief Executive Officer 
+• Stacy J. Smith, Senior Vice President, Chief Financial Officer 
+Other Participants 
+
+• David Wong 
+• Mark Lipacis 
+• Stacy Rasgon 
+• John Pitzer 
+• Glen Yeung 
+• Craig Berger 
+• Hans Mosesmann 
+• Ambrish Srivastava 
+• Ross Seymore 
+• Christopher Danely 
+• Timothy Luke 
+• James Covello 
+• Uche Orji 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good day, ladies and gentlemen, and welcome to the Q3 2010 Intel Corporation earnings conference call. My name is 
+Selena and I will be your coordinator for today. As a reminder, this conference is being recorded for replay purposes. 
+
+I would now like to turn the presentation over to your host for today's call, Mr. Kevin Sellers, VP of Investor Relations. 
+Please proceed, sir. 
+
+R. Kevin Sellers, Vice President, Finance; Director, Investor Relations 
+Thank you, Selena, and welcome, everyone, to Intel's third quarter 2010 earnings conference call. I'm joined today by 
+Paul Otellini, our President and CEO; and Stacy Smith, our Chief Financial Officer. 
+
+As is customary, Intel has posted the earnings release and updated financial statements, including the CFO 
+commentary, to our investor website, www.intc.com, in case anyone still needs access to that information. 
+
+If at any time during this call we use any non-GAAP financial measures or references, we will post the reconciliations 
+to our website, intc.com. 
+
+Following brief prepared remarks from Paul and Stacy, we'll be happy to take questions. 
+
+As we begin, let me remind everyone that today's discussion contains forward-looking statements based on the 
+environment as we currently see it, and as such does include risks and uncertainties. Please refer to our press release for 
+
+
+more information on the specific risk factors that could cause actual results to differ materially. 
+
+So with that, let me hand it over to Paul. 
+
+Paul S. Otellini, President and Chief Executive Officer 
+
+Thanks, Kevin. We are pleased with the financial results we achieved during the third quarter. We realized new records 
+in revenue and operating income, in a marketplace filled with uncertainty. Our investments in product and technology 
+leadership and focus on operational efficiencies have better prepared us for improved financial performance in any 
+market environment. This was very evident in our microprocessor revenue, which was up a healthy 25% year over 
+year, due in large part to the strong demand for higher end offerings in our product lineup. We exit Q3 firmly on track 
+to deliver our best year ever, and this is something we are all very proud of. 
+
+2010 is proving to be an unusual year in terms of the revenue patterns. We have not seen the typical quarter-to-quarter 
+seasonality that often accompanies our business. Instead, we have seen steady growth as the year has progressed. 
+
+Overall, we still expect PC units to grow roughly 18% this year, and the industry is now shipping over 1 million PCs a 
+day, which is an amazing milestone. 
+
+While there was some softness in the consumer market segments of Western Europe and the U.S., other regions such as 
+China as well as the channel had solid results. The enterprise segment remains steady and consistent, and our mix from 
+this segment continues to be a source of strength to our profitability. 
+
+Our results in the server segment highlight the importance and value of performance leadership. Demand for our high 
+performance Westmere and Nehalem EX processors drove server microprocessor revenue up over 30% year over year. 
+Shipments into the cloud segment are up a very strong 200% from a year ago and up 50% from just last quarter. Our 
+storage business is up 29% year over year, emphasizing that the Xeon product family is not just for servers but has 
+become an important brand in the data center. 
+
+The third quarter was also notable for the continued progress we're making in our embedded business. We set 
+microprocessor unit and revenue records in this segment with improved ASPs this quarter. Our embedded and 
+communications business is now on track to deliver over $1 billion in gross margin this year with operating margins 
+greater than 30%. 
+
+We are excited about several new categories for smart computing, where we are leading with our silicon solutions. The 
+smart TV category is launching this month in the United States, with exciting product introductions from Sony and 
+Logitech based on Google TV running on an Intel Atom microprocessor. 
+
+The CE [Consumer Electronics] industry is excited about this new opportunity to deliver a seamless Internet plus 
+television experience for consumers in the living room. Smart TVs are a great example of how Intel architecture can 
+bring a great computing experience not just to PCs but to any device that computes and connects to the Internet. 
+
+There are also several new categories where we are leading the transformation to smart: digital signs, in-vehicle 
+infotainment, retail, and ATM solutions, just to name a few. 
+
+I know that the big question on everyone's mind is how Intel will respond to new computing categories where Intel 
+currently has little presence, specifically tablets. Let me take a minute and give you my perspective on this. 
+
+We think tablets are exciting and we fully welcome their arrival. Apple has done a wonderful job reinventing the 
+category. We believe that like netbooks, tablets will expand the TAM [Total Addressable Market] for computing 
+overall with a new form factor and new uses that bring computing to even more aspects of our lives. 
+
+Will they impact PC sales? Sure, at the margin they probably will. Consumers will have a limited amount of 
+discretionary income, and some will choose to purchase a tablet instead of upgrading an existing PC or purchasing a 
+netbook in any given period. We saw the same thing happen when netbooks were introduced. But three years later, both 
+
+
+the PC and the netbook market segments have grown substantially, and we believe that will happen again with tablets. 
+
+We take a longer term view of the tablet opportunity. And the overarching benefit to Intel and the rest of the industry is 
+to have a new, growing computing segment where we can participate alongside our growing PC business. At Intel, 
+we're going to utilize all the assets at our disposal to win this segment: the world's best silicon process technology, the 
+best compute architecture, and our global scale. 
+
+We are deeply engaged with a number of partners to bring to market innovative tablet solutions. Our design-in 
+momentum is very strong. And in the coming months and quarters, you will see Intel solutions that run on Windows, 
+Android, and MeeGo operating systems across a variety of form factors and price points. We fully expect to participate 
+broadly and profitably in this category, and that in the end, the tablet category will be additive to our bottom line and 
+not take away from it. 
+
+In closing, I want to mention our next processor family, code named Sandy Bridge. This quarter, we begin volume 
+production of Sandy Bridge and expect to ship revenue units in Q4 as we prepare for systems launch in the first quarter 
+of 2011. 
+
+Sandy Bridge represents the largest increase in computing performance in our history. This is a truly stunning product 
+that we can't wait to bring to market. Early demand from customers is much greater than we originally expected, and 
+we anticipate a very fast ramp. 
+
+We exit the third quarter with the highest revenue in our history, with expectations of Q4 being even better. Our 
+tick-tock model is working beautifully and is creating increasing differentiation for our products. As we look into next 
+year, we see double-digit growth in PCs augmented by Intel's participation in the tablet and smartphone categories that 
+should make for another strong year for Intel. 
+
+With that, let me turn it over to Stacy for a few comments. 
+
+Stacy J. Smith, Senior Vice President, Chief Financial Officer 
+
+Thanks, Paul. Despite softness in the consumer market segments of Europe and North America, demand strengthened 
+in the emerging markets. And our robust enterprise market segment led to record microprocessor units. This unit 
+demand in combination with the leadership product portfolio and continued progress on our cost structure led to record 
+financial results. 
+
+Revenue and operating profit were records again this quarter. Revenue of $11.1 billion was up 18% from a year ago. 
+Operating profit of $4.1 billion was up 60% from a year ago and was 37% of revenue. 
+
+Our operating profit for the first three quarters of 2010 was $11.6 billion, by far the best first nine months in our 
+history. The improvements we have made in our productivity can also be seen in quarterly revenue per employee of 
+$136,000, also our best ever. 
+
+Revenue of $11.1 billion was up 3%, and was a record. However, it was up less than the average seasonal increase of 
+9%. Microprocessor average selling prices were approximately flat sequentially. 
+
+As a result of actions we took to respond to lower than expected demand, inventory on our balance sheet increased only 
+slightly to $3.4 billion. The worldwide PC supply chain inventory levels remain lean. 
+
+Third quarter gross margin was 66% as a result of superb execution from our factory network. 
+
+We generated over $3.5 billion of cash flow from operations in the third quarter. Total cash investments grew by $2.5 
+billion to approximately $20 billion. We paid nearly $900 million in dividends, and purchased $1.4 billion in capital 
+assets. 
+
+The midpoint of our revenue forecast for the fourth quarter of $11.4 billion would be up 3%, below the seasonal 
+average increase of 8%. This forecast reflects continued caution about the strength of the consumer market segment and 
+
+
+the reduction in customer inventory levels in anticipation of the launch of Sandy Bridge. 
+
+By taking the midpoint of the fourth quarter forecast and results from the first three quarters of the year, annual revenue 
+for 2010 would be a record at $43.6 billion, up 24% from 2009 and up 16% from 2008. 
+
+We are forecasting the midpoint of the gross margin range to be up one point from the third quarter to 67%. 
+
+We announced two large acquisitions in the third quarter that we expect to close by year end or in the first quarter of 
+2011. On a GAAP basis, Intel expects the combination to be slightly dilutive to earnings in the first year of operations 
+and approximately flat in the second year. On a non-GAAP basis, excluding a one-time write-down of deferred revenue 
+when the McAfee transaction closes and the amortization of acquired intangibles related to both acquisitions, Intel 
+expects the combination to be slightly accretive in the first year and improve beyond that. 
+
+We don't typically talk prospectively about acquisitions and do not plan to in the future. However, given that Intel 
+announced two large acquisitions in the third quarter, I will share that though we always look for opportunities to create 
+shareholder value, there are no other large acquisitions currently being contemplated. 
+
+The worldwide economy is growing but more slowly than anticipated heading into the second half of the year. We are 
+taking advantage of the slower growth to more quickly upgrade older generation factories to support the very strong 
+customer demand that we see for our new Sandy Bridge products. 
+
+Our technology leadership, cost structure, and cash generation remain strong. We continue to grow the profit streams in 
+our traditional businesses of server, notebooks, and desktops, and are creating new profit streams in consumer 
+electronics, smartphones, embedded, netbooks, and tablets. 
+
+With that, let me turn it back to Kevin. 
+
+R. Kevin Sellers, Vice President, Finance; Director, Investor Relations 
+Okay, thanks, Stacy and Paul. Selena, we are now ready for Q&A if you want to poll the questioners. Whenever you're 
+ready, go ahead and introduce the first questioner. 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions] Your first question comes from the line of David Wong with Wells Fargo. 
+
+<Q - David Wong>: Thank you. Thank you very much. Can you tell us, your guidance, does it assume microprocessor 
+average selling prices will remain stable in the December quarter? 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: Yes, hi, David. This is Stacy. I'm glad there 
+was a question there. With that pause, I thought you didn't have any questions today. So in terms of average selling 
+price, I think you can best see it if you look at my gross margin reconciliation for Q4. ASP is not one of the reconciling 
+items for the fourth quarter. And so from that, you should take that we don't expect it to be a driver one way or the 
+other, but it certainly isn't creating or it's not expected to create any negative pressure on the gross margin. 
+
+If you look at what we are calling out from a gross margin standpoint for Q4, if you want me to go through that, I will. 
+It's up about a point from 66% to 67%. We're getting about a couple of points of good news based on lower inventory 
+write-offs that we had some write-offs of Sandy Bridge prior to qualification for sale in the third quarter. We don't 
+expect those to repeat in the fourth quarter as that then goes through the process and gets the qualification to sale. 
+
+We'll also have the advantage of selling through some product that had been written off once that qualifies. We have 
+about 0.5 point offsetting that that's due to higher platform unit costs. That's the early ramp on 32-nanometer. And we 
+have about 0.5 point increase in startup costs and costs associated with taking some older generation factories offline. 
+
+
+And so the net of all that takes us up a point from 66% to 67%. 
+
+<Q - David Wong>: Great. And with the current trajectory, does it look like Atom will under-grow your other 
+microprocessors again in the December quarter? 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: We're not breaking out Atom as a specific 
+line item. If you think about the forecast for Q4, it's really building on what we saw in Q3. We're expecting a continued 
+robust enterprise market, continued growth in emerging markets, a consumer market that grows but grows a little bit 
+more slowly than we would have thought a quarter ago. And that's just based on consumers in mature markets taking a 
+bit of a pause. I guess you can get to the answer by saying today netbooks are primarily a mature market phenomenon 
+that sells to consumers, so that segment of our market is likely to be a little bit weaker than the rest. It will still grow 
+but just grow a little bit less quickly than the rest of the business. 
+
+<Q - David Wong>: Okay. Thanks very much, Stacy. 
+
+<A - R. Kevin Sellers, Vice President, Finance; Director, Investor Relations>: Thanks, David. 
+
+Operator 
+
+Your next question comes from the line of Mark Lipacis with Morgan Stanley. 
+
+<Q - Mark Lipacis>: Hi, thanks for taking my question. The first question on the data center growth of 3% 
+sequentially, I was wondering how that compared to normal seasonal growth, and whether or not you could give us an 
+indication of you think that business in Q4 should grow above or below the corporate average. 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: Yes, after answering the question on the call a 
+couple of quarters ago, I took a wild-ass guess at server seasonality. I've since gone back and looked at the data. And 
+the answer is we see wide variations in server seasonality quarter to quarter. And it's because we can see – we see a big 
+IT data center deal can really skew the results in any one quarter. And so there's no good average to compare to. I think 
+the best comparison for the data center group, it's up 30% from a year ago, so you can get a sense there of the kind of 
+growth we're seeing. We have now seen several quarters of robust growth there. I'd expect it to continue to be healthy 
+in the fourth quarter, but we're not breaking it down beyond that statement. 
+
+<Q - Mark Lipacis>: Okay, fair enough. And then regarding the consumer in the developed market, I understand that 
+it was weaker than what you had originally expected. Can you give us any color on what you're seeing in that segment? 
+Are you seeing any improvements there? 
+
+And along a related line, China just finished going through its Golden Week. I was wondering if you could give us an 
+indication there if that was better or worse than you expected. How important is that? Thank you. 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: Sure, let me try this one, Mark. I'll answer the second 
+part of your question first. I mentioned in my commentary that the strong parts of the business this quarter in consumer 
+were in China and in our channel, which is typically the white box business that is principally in emerging markets. So 
+that part of the business as it relates to consumers was pretty strong. And it was in the mature markets, U.S., Japan, 
+Western Europe that we saw some of the softness on the consumer side. 
+
+In terms of what we've seen so far, the fact we were up – our revenue for Q3 was up slightly above the midpoint of the 
+reset I think should give you some view that the last four weeks of the quarter were perhaps a little bit better than we 
+had first thought. However, we've built that kind of run rate into our view for Q4. 
+
+<Q - Mark Lipacis>: Thank you. That's helpful. 
+
+<A - R. Kevin Sellers, Vice President, Finance; Director, Investor Relations>: Sure. Thanks, Mark. 
+
+
+Operator 
+
+The next question comes from the line of Stacy Rasgon of Sanford Bernstein. 
+
+<Q - Stacy Rasgon>: Hi, guys. Thanks for taking my question, a question on the gross margins. So they've been 
+elevated; they've been high for quite a while now, a couple of quarters. Can you give us some feeling for how much of 
+the current margin strength, the elevation that you've seen actually has been due to mix, as enterprise strength has really 
+been combining I think over the last quarter or so with some weakness in consumer? Could you give us color on that, 
+how far you think we might be through the enterprise refresh that you see occurring? Can you give me some feeling for 
+what the risk might be as that refresh starts to take a pause a bit and maybe is even combining with seasonal declines in 
+revenue as we get into the first half of next year? 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: Yes, let me take the first part that and just talk 
+about my views of gross margin and I'll kick it to over to Paul to talk about the enterprise market and his views there. 
+
+In terms of the gross margin strength we're seeing, it comes back to what I articulated in the investor meeting. I think 
+we're benefiting from several things. First and foremost is the strength of our product line. It's strong across the board. 
+We're seeing good mix to the high end of products. As I think about the implication of Sandy Bridge coming into that 
+mix, you can only but be optimistic that it looks to be a great product based on what we're hearing from the customers. 
+
+Secondly on gross margin is our cost structure is just fundamentally better than it has been. We've been hard at work on 
+this. And I think the factories have done an outstanding job in bringing their productivity up, their efficiency up, their 
+cost structure up. You can see that in the capital intensity indicators and things like that. 
+
+And then from a company level, we are benefiting a bit from mix. We divested the NOR business. We've made great 
+improvements to the NAND business. And so those were probably a couple of points of drag to gross margin 
+historically that we've now eliminated. So I think the combination of those three things is what's allowing us to achieve 
+the kind of gross margins that we're achieving. 
+
+That said, it has been stronger than I thought when we started the year. If we achieve the forecast that we just put on the 
+table for Q4, the gross margin for the year will be 66%. That's by far our best gross margin ever. I think you have to go 
+back to the early '90s and we had a gross margin at 63%, but it's just much better than anything we've done in the past. 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: Let me try and comment on the enterprise refresh part 
+of your question. This is not – 2010 is not your grandfather's refresh cycle and the way we used to see in the PC 
+industry where people would wait for a certain combination of hardware and software and then just refresh their PCs all 
+at once. I see this as much more slow and steady. Yes, they're changing – swapping over to Win 7 in the enterprise 
+when they get a new PC. But it's really based upon the modulation that CIOs seem to have in terms of just doling out 
+the spending, focusing on the oldest machines first, and then implementing new security methodologies as they bring 
+them on. 
+
+From that perspective, I'm actually fairly optimistic about enterprise continuing on into 2011, particularly around Sandy 
+Bridge. Those clients have improved performance, improved security, improved manageability; and because of the 
+quality of the integrated graphics, potentially less pressure on bill of materials but for having discrete graphics on some 
+of the low end machines. All that is wind in our sails going into that segment in the first half of next year. 
+
+<Q - Stacy Rasgon>: Got it, thank you. And for my follow-up, I think to follow up on that point a little bit, you said 
+that there's a bit of a headwind I think on revenues in Q4 as customers drain down their inventories in anticipation of 
+the Sandy Bridge launch in Q1. Can you give us some color on what that might imply for your own expectations for Q1 
+seasonality off of that Q4 base? 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: Let us get through Q4 before we provide a 
+forecast for Q1. We'll do that in January. 
+
+<Q - Stacy Rasgon>: Got it. Thanks guys, I appreciate it, thought I'd try. 
+
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: We love the effort, Stacy. 
+
+<A - R. Kevin Sellers, Vice President, Finance; Director, Investor Relations>: Go ahead, Selena, we'll take the next 
+question. 
+
+Operator 
+
+Your next question comes from the line of John Pitzer [Credit Suisse]. 
+
+<Q - John Pitzer>: Good afternoon, guys and congratulations. Stacy, I guess my first question, with the launch of 
+Sandy Bridge in Q1, how do we think about your inventory levels at the end of Q4? Are you still needing to build 
+inventory for that launch in Q1? And I guess relative to your inventory targets for Q4, what's the implication for 
+utilization of potentially gross margin as we move into Q1? 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: Yes, that question covers a lot of ground, and 
+it's going to be a little bit of a complex answer because there are lots of moving parts here. So let me start with Q3, and 
+then I'll build to Q4 in terms of what's happening in inventory. We did grow inventory a little bit in the third quarter. 
+That's both units and dollars. It was more than 100% of the increases on the 32-nanometer products, but none of that 
+yet is Sandy Bridge because remember we haven't yet qualified Sandy Bridge. So we're writing that off prior to 
+qualification for sale. 
+
+As we get into the fourth quarter, what I'd expect from an inventory standpoint is that the units will come down; the 
+dollars will go up. And again, more than all of that dollar increase is going be specifically on Sandy Bridge. The 
+entirety of everything else will be down. And it's just we're ramping fast. It's a relatively expensive part because it's 
+coming out in early phase of the ramp for the 32-nanometer factories. And so when I think about Q4, I'd expect maybe 
+inventory dollars to be up a couple hundred million dollars, but units down, and it's more than 100% Sandy Bridge 
+growth. 
+
+The second part of your question was around utilization, so let me articulate what's going on there. In the third quarter, 
+as we started to see that demand was growing a little less quickly than we had anticipated, we started to take advantage 
+of that by pulling some of the older generation factories offline. It's not enough that you're going to see it in excess 
+capacity charges or anything like that, but we're trying to be really nimble to respond to the environment and to get 
+ahead of the ramp that we're expecting for Sandy Bridge. And so I think that's a good part of the reason why we grew 
+inventory less than we could have given the changing demand environment. 
+
+In Q4, we'll continue down that path, and you can see in the Q4 gross margin recon you're starting to see a little bit of 
+an impact in the gross margin recon for taking some of that older generation technology offline and converting it over. 
+It's a portion of that 0.5 point that I articulated. It's not huge. But again, I think it shows the responsiveness that we're 
+having to this changing demand environment and lets us get a little faster on 32-nanometer in advance of the Sandy 
+Bridge ramp where we think we're going to need everything we can throw at it. 
+
+<Q - John Pitzer>: And then, guys, as my follow-up, Paul, there was a lot of speculation as Q3 came in weaker than 
+expected that you guys were cutting prices to try to drive elasticity, and yet microprocessor pricing for the quarter was 
+basically flat. And it sounds like you expect it flat for the calendar fourth quarter. I'm curious. Did you cut prices? Did 
+you experience a mix-up in the stack, and that's why MTU pricing overall was flat? And as Sandy Bridge comes out, 
+would you expect that to be a price accretive part? Thank you. 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: No, we did not have any unscheduled price moves, 
+and we didn't do any deep discounting to make the quarter. The strength of the quarter was really reflective of the mix 
+and the strength of the product line. And our customers really can't handle incremental volume based upon incremental 
+price moves mid-quarter even if we wanted to. Those days are long gone because of the SKU mixes and so forth. 
+
+In terms of Sandy Bridge, a lot of the product will be price point replacement, but it will start at the high end of our 
+stack, and I expect very strong demand at the high end of the stack. So there could be enough mix. For example, on the 
+
+
+quad cores as we ramp that product, that could have a beneficial effect. 
+
+I also think that as I said earlier, our customers are very well aware of the quality of the integrated graphics and the 
+media performance of this product. And that will help them make trade-offs in their bill of materials as they make SKU 
+selections and configurations and so forth, which I think will benefit Intel. 
+
+<Q - John Pitzer>: Great. Thanks, guys. 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: Sure. 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: Sure. 
+
+Operator 
+
+Your next question comes from the line of Glen Yeung with Citi. 
+
+<Q - Glen Yeung>: Thanks. Paul, you made the point earlier in the conversation that you saw September come in a 
+little better than you expected, and you built that idea into the way you looked at the fourth quarter. One, is it 
+something about channel inventories? I think you mentioned when were pre-ing it that you thought those had already 
+cleared. Is that a fair statement? And related to this is, do you have better visibility? Do you have more confidence now 
+that that issue is behind us? 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: Yes, it wasn't – I'm sorry. There are two kinds of 
+channel inventories when we talk. One is the inventory in our own distributor channels downstream of us, which we 
+reserve. And that has been pretty lean and remains pretty lean. That was not what we were talking about. The reflection 
+was really on our customers' inventories. 
+
+As Stacy pointed out in his commentary, we see that pretty lean right now. And in fact, a larger share I think of the 
+notebook builds right now going into the fourth quarter are probably shipping by air than by ship say versus a year ago. 
+And that allows them to run a little bit leaner on inventory and still meet demand. And part of that I think is really 
+reflecting them getting their build plan ready for the Sandy Bridge ramp-up. As we said earlier, we'll start shipping 
+product towards the end of the quarter in anticipation of that launch. 
+
+<Q - Glen Yeung>: Okay, fair enough, and then the follow-up question is a bit of a different one. I really want to talk a 
+little bit about your embedded business. And maybe if you can give us a sense of – maybe just looking over the year 
+how much it grew year to year. But do you have any kind of long-term growth targets for the embedded business, or is 
+there a way for us to conceptualize your expectations for the contribution of that business over time? 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: Yes, let me take a shot at that, then maybe if 
+Paul wants to add in with just how we're doing from a product standpoint in embedded. We saw very good growth in 
+the embedded business in Q3. You can see it in the other Intel architecture group segment. That segment of the 
+business was up significantly, 19% I think quarter on quarter. It's now a $0.5 billion per quarter business for us. If you 
+look at it compared to a year ago, it's up almost 50% from a year ago, and again embedded is the big driver in that 
+business. 
+
+Specifically what we saw in embedded this quarter is we're seeing the impact of architectural conversions kicking in 
+where a couple of big customers now have taken their blade server product lines to Intel architecture. That's driving 
+that business nicely. And so Paul has talked in the past about the new customers' architectural conversions. We're 
+seeing that kicking in, in the business in the quarter as a driver of the results. 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: Yes, maybe I'll just go back in time a little bit and run 
+through the scenario. We started putting Atom-based designs, particularly SoCs, into the embedded roadmap two-plus 
+years ago and put them out for sale and design win. And as you know, in that segment there is a couple of year 
+gestation period between design win and production. 
+
+
+And you're starting to see some of these things go into production now. And more and more of that business will be 
+Atom-based going forward. And some of it will take on the classic embedded characteristics of small to medium 
+volume and lasting forever. Some things I think have the potential to be home runs like the Google TV product line. It 
+just remains to be seen how big that kind of product is or how big – we've already talked about the fact that we are 
+inside the Mercedes and BMW 2012 model year cars with in-vehicle infotainment systems. If they go across the board 
+or across the industry, those are also much larger than what you would see in a normal embedded application. 
+
+<Q - Glen Yeung>: Paul, would you think units here are tens of – is it a millions number? Is it tens of millions? How 
+can we think about units for embedded right now? 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: I think millions going to tens of millions is a fair way 
+to look at it per quarter. 
+
+<Q - Glen Yeung>: Okay, that's really helpful. Thank you. 
+
+<A - R. Kevin Sellers, Vice President, Finance; Director, Investor Relations>: Thanks, Glen. 
+
+Operator 
+
+Your next question comes from the line of Craig Berger with FBR Capital Markets. 
+
+<Q - Craig Berger>: Good afternoon, guys, thanks for taking my questions. Just wanted to ask on Sandy Bridge, is 
+there any way to quantify the improvement in graphics that's integrated into that part? Also, do you think you're going 
+pick up graphics market share with that part, and then just any thoughts on ASPs of that part versus older generation? 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: Yes, of course it's possible to quantify it, and we have 
+quantified it. We haven't released it yet, Craig, so I can't really go there. We're trying to keep that as a bit of a surprise 
+for the launch. Dadi talked about that in general terms at IDF a couple weeks ago. But it's not just on 3D graphics; it's 
+on overall media performance. And we showed a slide in that developer forum that said we've now achieved over a 
+20X improvement in the last four years in graphics and media performance. So that's the order of magnitude that we're 
+talking about here. It is highly competitive with low end discrete offerings, and that's why we're seeing the design 
+activity for the bill of materials tradeoff. 
+
+<Q - Craig Berger>: As a follow-up, can you help us understand on the baseband acquisition that you guys just made 
+perhaps what the integration plans are there with Atom or other IP you guys have? And also are there plans to scale it 
+out to PCs or other applications, any additional color there? Thank you so much. 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: Sure, we've been working with Infineon's wireless 
+business for some time in terms of matching up our phone chips to their modems for our customers; and so there was a 
+deep technical engineering engagement going on anyway, both hardware and software. For example, the way you do 
+power management in a phone is across both the chips. And so we had to have access to that technology to be able to 
+construct those power management schemes. 
+
+That engagement will probably stay at that level for the first year or so in terms of the output of Infineon. Meanwhile, 
+we are working to bring their 3G and ultimately LTE technologies into IP blocks that we can put onto Atom phone 
+chips and tablet chips in the three-plus years out. There's really no reason to do that if you look at the high end phone 
+and tablet market today. The apps processor and the comm processor are discrete chips. We see that remaining for 
+some time. And then ultimately as volumes come up and the transistor budgets allow, we'll integrate them. 
+
+<Q - Craig Berger>: Thank you so much. 
+
+<A - R. Kevin Sellers, Vice President, Finance; Director, Investor Relations>: Sure. 
+
+Operator 
+
+
+There is a question from the line of Hans Mosesmann from Raymond James. 
+
+<Q - Hans Mosesmann>: Thanks. Hey, Paul, can you give us a little more granularity on the tablet strategy? When 
+can we expect to see you guys in tablets? Is it this holiday season? Is it the middle of next year? And what's your 
+competitive advantage or your value proposition versus some of the products out today? Thank you. 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: I'm not going to give you a lot more. All that I can 
+comment on are the ones that are already public, which are the Cisco tablet and the AT&T tablet. Our friends at 
+Microsoft were talking this weekend on the status of Windows 7 tablets, and so I wouldn't disagree with what Steve 
+said this week on that. I really don't want to announce or preannounce our customers' products for them, so it's not a 
+safe place for me to be. 
+
+Having said that, we have very good silicon with Oak Trail. The value proposition is its performance, its power in this 
+environment. Tablets are more performance sensitive and intensive devices than phones are. The kinds of applications 
+people do on tablets will require that kind of compute capability, the ability to do real full multitasking. And of course, 
+for many people and particularly enterprise evaluations for tablets, Windows compatibility is very important. And the 
+fact that we are the only architecture that runs all the major – all but one of the major tablet operating systems – we 
+don't yet run on Apple – says that I think we're in a pretty good space. 
+
+<Q - Hans Mosesmann>: Okay, thank you. I don't have any follow-ups. Good job. 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: Thanks, Hans. 
+
+<A - R. Kevin Sellers, Vice President, Finance; Director, Investor Relations>: Thanks, Hans. 
+
+Operator 
+
+Your next question comes from the line of Ambrish Srivastava from Bank of Montreal. 
+
+<Q - Ambrish Srivastava>: Hi, thank you; Stacy or Paul, a question about pricing. Pricing has enjoyed a pretty decent 
+trajectory the last three quarters. And I understand, Stacy, that the point you're hammering and you also hammered last 
+quarter is that your margin profile is not necessarily dependent on an uptick in ASPs. But how should we think about 
+ASPs going forward? Do we revert back to the normal patterns, or are there still because of the mix shift in Sandy 
+Bridge, we should expect that kind of trajectory that we have seen over the last three quarters? And then I have a 
+follow-up. 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: You know we don't like to talk about ASPs out in 
+time, so I'm thinking about what I can give you without just saying nothing. I think that in mainstream PC space, I 
+would expect a very significant demand next year for Sandy Bridge. And I think that will be principally in the mature 
+markets and in the mature cities, tier one cities of the emerging markets. 
+
+I think the other dynamics in low-end desktop and netbooks and so forth are not going to really change. It's still tough 
+out there. And we're not projecting or we're not assuming inside of Intel that we have a very, very robust worldwide 
+GDP scenario. We're, I think like most people, assuming modest growth, and not a double dip. So most of the analysts 
+out there right now for 2011 have PC growth range in – the low end numbers I've seen are 12, and the high end 
+numbers are 18% range. I suspect it's going be in the middle of those at this point. If that happens, we'll have a pretty 
+strong year. 
+
+<Q - Ambrish Srivastava>: Okay. And then my follow-up is for the fourth quarter, you mentioned that part of the 
+demand shortfall is coming from inventory reduction, and part of it's of course the weakness in the consumer segment. 
+Would it be possible to quantify how much of the impact is coming from the inventory introduction? I'm assuming this 
+is a normal pattern before a big launch from Intel, correct? 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: No, I'm not going to try to break it out. Both 
+of them are contributing. They're both fairly significant in terms of the difference between where we think we're going 
+
+
+to end up and what we would call normal seasonality, so they're both significant drivers. 
+
+The difference here is I think the step function and performance in future with Sandy Bridge is causing a more 
+pronounced inventory clearance in advance of the new product coming out than we'd normally see. I think the timing of 
+Sandy Bridge also just being right at the end of the big selling season is causing that to be a bit more pronounced as 
+well in terms of customers not wanting to end the year holding product on older generation products when we're 
+following it up with this great new product that's really ramping right at that timeline. 
+
+<Q - Ambrish Srivastava>: Okay. Okay, that's helpful. Thank you. 
+
+<A - R. Kevin Sellers, Vice President, Finance; Director, Investor Relations>: Yes, thanks, Ambrish. 
+
+Operator 
+
+Your next question comes from the line of Ross Seymore with Deutsche Bank. 
+
+<Q - Ross Seymore>: Hi, guys; Stacy, a question on gross margin for you. The detail that you've given, the puts and 
+takes each quarter are very helpful. I know you're not guiding for the first quarter, but are there any discrete items that 
+we should anticipate for the first quarter that are independent from the stuff you won't guide on? 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: Yes, I anticipated that I'd get pushed on puts 
+and takes. I'm not going to go there yet for the first quarter. I'll provide that forecast when we get to January. We want 
+to get through Q4 and see how the market shapes up, and we'll provide a forecast in a quarter from now for the first 
+quarter. 
+
+The one thing that you do know that will hit or you should suspect will hit us next year is startup costs on 
+22-nanometer. You can predict that with a high level of confidence because we're on a two-year cadence on process 
+technology. Next year is the year that we'll be a little heavier in terms of startup costs on 22. You can look at trends 
+from prior years, and you'll draw the conclusion it will be a bit more focused in the first half of the year. But beyond 
+that, it's the question we just had on the pricing environment, on a variety of other factors. I'm going to hold off on 
+providing anything else for Q1 until we get there. 
+
+<Q - Ross Seymore>: Great. And I guess as the one follow-up back on to the inventory side of things, I believe 
+heading into this third quarter you also mentioned that you thought the channel inventory was lean. It seems like you 
+got a bit leaner, and it looks like you're going to assume it gets leaner again in the fourth quarter; any way to quantify 
+where we are now versus this same point a quarter ago to help us in knowing how lean we actually are? 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: Leaner, yes. I'm going to direct you I guess to 
+go talk to our customers who are holding that inventory. They can probably very precisely quantify it for you if they 
+choose to their inventory levels. We're looking across a broad supply chain, mature emerging markets, MMCs channel. 
+What we see is that yes, it has been managed at pretty efficient and low levels for a while now. It's even a little leaner 
+in Q3, and is likely to come down some more in Q4. 
+
+I think really I was surprised when we went through the downturn of 2009 how quickly the supply chain adjusted to the 
+changes in demand and how they brought down inventory levels very quickly, even in that recession. They brought 
+down inventory levels in two quarters. You compare that to the downturn in 2001 and it took more like six to eight 
+quarters for the inventory to clear through, so very fast reaction time. I think they manage things cautiously now. And 
+they've got tools at their disposal like Paul mentioned of shifting to air freight versus sea lanes that they use to modulate 
+inventory levels. So I think they're doing a good job of it. They're staying cautious and it's pretty lean. 
+
+<Q - Ross Seymore>: Great, thank you. 
+
+<A - R. Kevin Sellers, Vice President, Finance; Director, Investor Relations>: Thanks, Ross. 
+
+
+Operator 
+
+Your next question comes from the line of Christopher Danely with JPMorgan. 
+
+<Q - Christopher Danely>: Hey. Thanks, guys. Stacy, with the big Sandy Bridge launch in Q1, can you give us a 
+sense of what utilization rates in inventory should be doing going into Q1? 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: No, other than what I already give you for 
+Q4. I would expect for Q4 that our utilization will come down some. Not to the point that we're generating excess 
+capacity, but we'll bring the utilization down on 45-nanometer factories in order to order to roll that capacity forward to 
+help us with the 32-nanometer ramp that we expect on Sandy Bridge. And inventory levels, again units down, but we'll 
+put some Sandy Bridge into inventories, and so dollars will be up some in the fourth quarter. 
+
+<Q - Christopher Danely>: Got it, and then a second question for Paul. So Paul, if we had to I guess encapsulate your 
+view on the current environment and then going into next year, demand is slower, but fine. However, with your Sandy 
+Bridge products and added penetration into cell phones and some penetration into tablets, you guys should be able to 
+outgrow the PC market and overall semiconductor market next year? 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: The current environment, as I said, we had a little 
+sponginess here in the third and fourth quarter on the consumer thing. But you can't – I sit here after 36 years and say 
+my God this is 18% year-on-year growth and we're passing a million units a day as an industry. So there's no way you 
+can – I can look at those numbers with anything but a view that this is a pretty healthy state of affairs right now, and I 
+don't see that really changing into 2011. I think all the factors are that as an industry, we produce tools of productivity 
+and people need these things. And so you can argue whether it's going be 12% or 15% or 18% next year, but I don't 
+think it's going be 5% or 10%, and from that is our opportunity. 
+
+In terms of outgrowing others, that really depends on the success we have in ramping our volume into these adjacent 
+growth markets. You know our strategy there. You know the design wins as they come out, and watch this space. 
+
+<Q - Christopher Danely>: Yes, I just wanted to make sure. Thanks a lot. 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: Sure. 
+
+<A - R. Kevin Sellers, Vice President, Finance; Director, Investor Relations>: Thanks, Chris. 
+
+Operator 
+
+Your next question comes from the line of Tim Luke with Barclays Capital. 
+
+<Q - Timothy Luke>: Thanks so much. For Paul or Stacy, just as you start to frame 2011 with the Sandy Bridge ramp 
+at the beginning of the year and the somewhat more subdued less than seasonal certain fourth quarter, how are you 
+thinking given that China's a bigger piece of the business about the beginning of the year and whether you may have a 
+somewhat less than seasonal decline given that you're going be ramping this new platform? Thank you. 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: Tim, same answer I gave before. We're not 
+going to start putting forecasts out for Q1 or next year yet. We want to get through Q4 first and see what the demand 
+drivers look like a quarter from now. 
+
+Just to reinforce what Paul said, when you think back to what we told you at the investor meeting in May and we talked 
+about the long-term demand drivers of the business, the emerging markets and how computers become more affordable 
+-- that personalization of computers into the consumer segment and things like that; our view of that is still intact. And 
+then you have these adjacent markets forming around the PC market where our technology becomes very relevant. 
+We're optimistic about the long term. I'm not going to give you a Q1 forecast yet. We'll be there in 90 days. 
+
+
+<Q - Timothy Luke>: Sure. If I may, if you could possibly just give us any incremental color on how you're thinking 
+about the timelines for the closure of your McAfee and IFX baseband businesses, and maybe some feel for how we 
+should start thinking about the growth in your expenses as you march through next year. And as part of that also, have 
+you made a decision on the NAND business with Micron on the JV? Thank you. 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: Are you we going to count that as one 
+question? Anyway, we love your effort, but Tim, we would expect no less. So let me – I hope I can remember them all. 
+The timing in terms of McAfee and Infineon, they could be as early as the end of this year or into the first quarter, and 
+that's as granular as we can get right now. Everything we know in terms of how it's working its way through the 
+approval process and regulatory process looks like it's moving along, so that's still our view of closure on those. 
+
+We have some expenses in Q4 for some of our costs associated with getting these things through approval. That's de 
+minimis. And we've already given the view that says or the projection that says when they close for the first year of 
+operation, we expect them to be slightly dilutive on a GAAP basis and accretive on a non-GAAP basis once you work 
+through some of the acquisition accounting, and we'll grow them from there. 
+
+And then NAND was your other one. We have not made a decision yet on NAND. We'll make that sometime this year. 
+So in the next quarter, we'll make that decision. 
+
+<Q - Timothy Luke>: Thank you so much. 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: And just to be clear for everybody on the call. 
+That decision being the incremental investment in the Singapore factory. That's the decision we have on the table. 
+
+<A - R. Kevin Sellers, Vice President, Finance; Director, Investor Relations>: Hey, Selena, we're going to take two 
+more questions – questioners, if you would. Thanks. 
+
+Operator 
+
+Your next question comes from the line of James Covello with Goldman Sachs. 
+
+<Q - James Covello>: Great, guys, thanks so much for taking the question. The question surrounds the geography and 
+cannibalization. So you had a little squishiness in Europe and the U.S. this quarter where the iPad was selling for a lot 
+of the quarter. As you get in – and there was strength in the emerging markets, China this quarter. As the iPad was 
+introduced in China a couple weeks ago, do you worry at all that you're going to see some weakness in that market, 
+similar to what you saw in the markets where the iPad was launched for most of the quarter last quarter? 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: Let me just be clear. While I think there is, as I said 
+earlier, on the margin some impact to tablets versus in particular say netbooks in mature markets, I don't think it's the 
+dominant factor here. I think the dominant factor is the softness in the consumer market after six very, very strong, 
+sequentially strong quarters. And that to some extent is to be expected after people buy this much technology, 
+particularly in remaining tough times. 
+
+So I don't really – the reality is nobody in the world knows exactly how much cannibalization is happening and from 
+where it's taking money. We know that there is some discretionary money being spent on tablets. I think the impact 
+though is still you're dealing with numbers that are relatively small in the grand scheme of the ship rate of the PC net 
+notebook/netbook businesses. We're north of 70 million units a quarter now and growing a few percent a quarter even 
+in this timeframe. If you look at the margin on tablet shipments that I've seen, which is maybe they go from 5 to 8 
+million from Q3 to Q4, those extra 3 million units, you're talking about some small fraction of those that may be taking 
+money away from something else. And so it really gets to be a factor, but a secondary factor. 
+
+<Q - James Covello>: You're right. These are really, really difficult things to triangulate around. But I guess the thing 
+I struggle with is overall consumer spending on tech was pretty good. Smartphones were good in the third quarter. 
+Tablets were good in the third quarter, both relative to original expectations. And so it's just hard to reconcile that 
+notebooks, which had been really robust for an extended period, suddenly there was weakness in that one segment in 
+
+
+the markets where the iPad was launched. And that was all just attributed to consumer weakness, even though there 
+was strength in other segments within consumer. 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: Remember, we had a record, all-time record for 
+mobile microprocessors in this quarter. So I have a hard time using the word weak in front of that. 
+
+<Q - James Covello>: I guess I should have said weaker relative to expectations. You're right. 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: Okay, that's fair. 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: And one key change is we saw some 
+economic uncertainty that hit in mature markets. Our demand I believe coincided much more with that than tablet 
+cannibalization. We have seen in the past that consumers react pretty quickly, and then they come back because of the 
+importance of this technology in their lives. We saw that in 2009. 
+
+I believe it has much more to do with just economic uncertainty than tablet cannibalization. As Paul said, at the margin 
+there probably is some cannibalization. Over time, we'll know if it plays out like netbooks and it ends up being additive 
+to the market, in which case it ends up being a very good thing for us because anything that expands that market for 
+devices that compute is something we can sell into, and we plan to have the best products in that space. 
+
+<Q - James Covello>: Great, thank you so much. 
+
+<A - Stacy J. Smith, Senior Vice President, Chief Financial Officer>: You're welcome. 
+
+Operator 
+
+And your final question will come from the line of Uche Orji with UBS. 
+
+<Q - Uche Orji>: Thank you very much. Paul, can I ask you about your enterprise business? You talked about cloud 
+being up 50% sequentially and 200% year on year. Is that at a point now where that may impact say desktop demand or 
+notebook demand, especially desktop demand in the enterprise environment? And just can you describe what you're 
+seeing with this kind of strength in cloud? Are we at a point where we should describe it as a tipping point where the 
+demand starts to really take off in that segment? 
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: I think the first part of your question had do with 
+whether we would view the expansion in cloud as being detrimental to our client business, and we don't see that, even 
+in enterprise. The virtualized desktop model doesn't seem to be gaining a lot of traction. People still want the portability 
+of a notebook. They want the robustness. They want performance-based solutions, and they want media capability, 
+even in an enterprise. So I don't really see that as being detrimental. I think it's additive to us because we get all those 
+apps running on our stuff. And given that there's, in all environments, limited bandwidth capabilities, the cheapest MIP 
+[Millions of Instructions Per second] is still on the client versus the cloud, and most applications recognize that. 
+
+The second part of your question was I think interesting. It has to do with whether there's an inflection point on volume 
+here. I keep asking my server guys that because I'm suspicious that there is, but we just haven't seen it or forecasted it 
+yet. Our teams haven't picked that up. We still have a fairly – it's a good growth in this area. It's a very good growth in 
+this area, but it's not something that I see as a hockey stick. At least our team doesn't see as a hockey stick. But it's 
+certainly one of the possibilities that could come out of this. 
+
+<Q - Uche Orji>: Great, just one more follow-up. When I think about Sandy Bridge, one of the things that happens 
+when you introduce a product like this is the die area tends to increase, and so consequently the COGS will go up. So in 
+addition to 22-nanometer startup cost, should we expect a big step up in cost regarding Sandy Bridge? And 
+consequently, do you think that the feature you're adding is going to give enough ASP boost so that the margins are at 
+least neutral? And also you talk about fast ramp. When should we – I don't know if you made this public, but when do 
+you think this will be more than 50% of your output? 
+
+
+<A - Paul S. Otellini, President and Chief Executive Officer>: No, I don't think we've said that and we're not going 
+to say it yet. Uche, as to your die size question, all we do is refer you back to the investor meeting. I actually showed 
+some die size projections out in time. And what you see is that as we move the graphics transistors to the CPU, we 
+reduce the chipset die size. We increase the CPU die size, but we get a much bigger performance boost as a result of 
+that. So I think we can keep our costs nice and under control with Sandy Bridge. And the performance boost will keep 
+that to be a very positive margin product for us. So I don't expect Sandy Bridge to be margin challenged in any way. 
+
+<Q - Uche Orji>: Great, thank you. 
+
+R. Kevin Sellers, Vice President, Finance; Director, Investor Relations 
+Okay. Thank you, Uche. Thanks, everyone, for joining the call today. As a reminder, our quiet period for the fourth 
+quarter will begin at the close of business day on Wednesday, November 24th, and our fourth quarter earnings 
+conference call is scheduled for Thursday, January 13th, 2011. Thank you and good night. 
+
+Operator 
+
+Thank you for your participation in today's conference. This concludes the presentation. You may now disconnect. 
+Have a great day. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

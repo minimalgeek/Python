@@ -1,0 +1,1156 @@
+Q2 2010 Earnings Call 
+
+
+Company Participants 
+
+• Jane Penner, Investor Relations 
+• Patrick Pichette, Senior Vice President and Chief Financial Officer 
+• Jonathan Rosenberg, Senior Vice President, Product Management 
+• Nikesh Arora 
+Other Participants 
+
+• James Mitchell 
+• Spencer Wang 
+• Imran Khan 
+• Justin Post 
+• Douglas Anmuth 
+• Brian Pitz 
+• Ross Sandler 
+• Jeetil Patel 
+• Steve Weinstein 
+• Mark Mahaney 
+• Jason Helfstein 
+• Scott Devitt 
+• Youssef Squali 
+• Jordan Rohan 
+• Sandeep Aggarwal 
+• Aaron Kessler 
+• Sameet Sinha 
+• Mayuresh Masurekar 
+• Colin Gillis 
+• Heath Terry 
+• Richard Fetyko 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good day and welcome everyone to the Google, Inc. conference call. This call is being recorded. At this time I would 
+like to turn the conference over to Ms. Jane Penner, Senior Manager, Investor Relations. Please go ahead, ma'am. 
+
+Jane Penner, Investor Relations 
+
+Thank you, Connie . Good afternoon, everyone, and welcome to today's second quarter 2010 earnings conference call. 
+With us are Patrick Pichette, Chief Financial Officer; Jonathan Rosenberg, Senior Vice President, Product 
+Management; and Nikesh Arora, President, Global Sales Operations and Business Development. First, Jonathan and 
+Patrick will provide us with their thoughts on the quarter, and then Nikesh will join us to answer your questions. 
+
+
+Also, as you know, last quarter we began distributing our earnings release exclusively through our Investor Relations 
+website, located at investor.google.com. So going forward, please refer to our IR website for our earnings releases, as 
+well as supplementary slides that accompany the call. This call is also being webcast from investor.google.com. A 
+replay of the call will be available on our website in a few hours. 
+
+Now let me quickly cover the Safe Harbor. Some of the statements we make today may be considered forward looking, 
+including statements regarding Google's future and investments in our long-term growth and innovation, the expected 
+performance of our business, and our expected level of capital expenditures. These statements involve a number of 
+risks and uncertainties that could cause actual results to differ materially. 
+
+Please note that these forward-looking statements reflect our opinions only as of the date of this presentation, and we 
+undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements in 
+light of new information or future events. Please refer to our SEC filings for more detailed description of the risk 
+factors that may affect our results. 
+
+Also, please note that certain financial measures we use on this call such as operating profit and operating margin are 
+expressed on a non-GAAP basis and have been adjusted to exclude charges related to stock-based compensation. We 
+have also adjusted our net cash provided by operating activities to remove capital expenditures, which we refer to as 
+free cash flow. Our GAAP results and GAAP to non-GAAP reconciliation can be found in our earnings press release. 
+
+With that, I will now turn the call over to Patrick. 
+
+Patrick Pichette, Senior Vice President and Chief Financial Officer 
+
+Thank you, Jane. Good afternoon, everyone, and thank you for joining us. As Jane mentioned, Jonathan and I will 
+begin with prepared remarks, but we also have Nikesh with us for the Q&A. So let me start you by giving some high 
+level thoughts about the quarter, and then we'll get into our detailed financial performance. 
+
+So overall, we are very pleased with our Q2 results. We experienced continued solid growth in our core, but also very 
+strong growth in our emerging businesses year over year. Taking a step back actually, these results reflect two 
+important trends in the digital advertising. First, we are really taking notice that more and more traditional brand 
+advertisers are embracing search and search advertising as a way to build their brands online. 
+
+A case in point, P&G, it's one of the largest brand advertisers in the world, and it's now one of our top advertisers in the 
+US. Second, we see also a real trend in large advertising focusing on highly measurable but also integrated campaigns 
+across display, mobile, and search. So as a result, we saw strength in every major product in Q3. Google.com was 
+strong with strong performance across major geographies and most major verticals including CPG, retail, travel, et 
+cetera. 
+
+Our growth in display was also very strong. Our continued focus in this product area is clearly generating results. Our 
+display network, which includes YouTube, is growing very rapidly. The scale and quality of our network continues to 
+increase, and we see increased demand from traditional brand advertisers in that space as well. 
+
+In addition, we made yet another significant stride in display this week when we entered into a strategic agreement with 
+Omnicom Media Group. We'll be working together with Omnicom to co-develop their exchange trading desk for the 
+DoubleClick Ad Exchange in the coming years. 
+
+YouTube specifically, we continue to see very impressive growth as brand advertisers also consider it a must-buy. For 
+example and as I mentioned a moment ago, in Q2 we ran World Cup advertising campaigns for major advertisers of the 
+likes of Coke, Visa, Nike, Sony, et cetera. 
+
+Finally on YouTube, I think it's really worth noting that we're very pleased of course with the court's decision to rule in 
+our favor in the Viacom case. But more important in this victory, it's not for us, but for the users and just the web in 
+general, specifically for all the blogs and community forums across the web that do rely on this user-generated content 
+for sharing information and also for free expression. 
+
+
+Look, we were very passionate about this issue at Google, and so much so that we have made a significant investment 
+of approximately $100 million to win this case. And once again, it just was the right thing to do and we did it. 
+
+In mobile, our revenue grows as advertisers increasingly opted into their mobile specific campaigns. And with the 
+successful completion of the AdMob transaction in Q2, our business is gaining momentum, and so we have a very 
+competitive mobile advertising platform now. 
+
+And of course, underpinning our growth is the success of the Android platform itself with over, as we announced a 
+couple weeks ago, 160,000 devices activated daily. That's two every second, and it creates an even larger base of data 
+centric smartphone users. 
+
+Finally, enterprise had another good quarter with several Hyper File deals including, for example, Virgin America. The 
+world is simply moving into the cloud. 
+
+And successful products do require investment, and that's why we're focusing our resources on products that, as you all 
+know, leverage computer science to solve our big problems, offer great ROIs, and very large growth opportunities. For 
+example, in Q2 we've added approximately 1,200 employees. That's obviously counting the acquisition AdMob and the 
+others, but the majority is done in engineering and sales and in the following product areas: search monetization, 
+display, mobile, apps, all the next billion-dollar businesses that are growing incredibly rapidly, and that's why we're 
+investing in them. Jonathan will give you more details about that in a moment. 
+
+So now let me turn to our financial results. Gross revenue grew 24% year over year to $6.8 billion. Our Google 
+websites' revenue was also up 23% year over year to 4.5 billion, with strength, as I mentioned, across most geographies 
+and verticals. Our AdSense revenue was up 23% as well to 2.1 billion, reflecting our continued strength, specifically in 
+the Google Display Network. 
+
+Other revenue was up also 39% year over year to 258 million, and it includes the last quarter of revenue from the sale 
+of Nexus One. As announced we're discontinuing the direct-to-consumer channel in Q3. And as a result, beyond Q3 we 
+won't recognize any revenue or cost associated with the sale of Nexus Ones. They are still being sold through various 
+carrier partners both in the US and Europe, however. 
+
+Our global aggregate paid click growth remained quite healthy, up 15% year over year and down 3% quarter over 
+quarter due to the typical summer seasonality. Aggregate cost per click was up 4% year over year and 2% quarter over 
+quarter. 
+
+Note that the FX had a positive impact on CPC [Cost Per Click] growth year over year and a negative one quarter over 
+quarter. Remember too that this is an aggregate number and includes both Google.com and our AdSense properties. 
+
+Turning now to our geographic performance, on a relative basis, the UK lagged a bit the global economic recovery, 
+certainly relative to the US and rest of world, which were strong. Revenue from the US was up 26% year over year to 
+
+3.3 billion. And in our earnings slides, you'll find on our Investor website, you'll see that we've broken down our 
+revenue by US, UK, and rest of world to show you the impact of the FX and the benefits from our hedging programs, 
+so please refer to these slides for these calculations. 
+International revenue accounted for 52% of our total revenue or $3.5 billion, also up 21% year over year, which 
+includes 79 million benefits from our hedging programs. This is compared to 124 million of benefits in Q2 of last year. 
+If we used fixed exchange rates, our international revenue would have been roughly 24 million lower year over year. 
+The UK was up 8% year over year to 770 million. 
+
+Let me now turn to expenses. Traffic acquisition costs [TAC] were 1.7 billion or 26% of our total advertising revenue. 
+Our cost of revenue was 735 million, including stock-based compensation of 8 million and also expenses related to the 
+sale of the Nexus One. And finally, all operating expenses totaled $2 billion, this also including 301 million of 
+stock-based compensation. The increase in year-over-year OpEx is really primarily due to increases in payroll, 
+professional services, and advertising and promotional spend. 
+
+
+So the result of all this, our non-GAAP operating profit, which excludes stock-based compensation, increased to $2.7 
+billion in Q2, resulting in a non-GAAP operating margin of 39%, essentially the same as last year. As I mentioned 
+already, our head count was up approximately 1,200 heads versus Q1, ending the quarter with 21,805 full-time 
+employees. And again that reflects the acquisitions as well. 
+
+Our effective tax rate was up to 24% in Q2 versus 22% in Q1, essentially due to the mix of earnings between domestic 
+and international subsidiary and the impact of our hedging program. 
+
+Let me quickly turn to cash management. Other income and expense was 69% for Q2 – 69 million, sorry, for Q2, 
+which includes good progress in our portfolio management performance, although it was somewhat offset by the 
+impact of our hedging expenses with FASB 133. For more detail on the OI&E, again, please refer to the slides that 
+accompany this call on and on our website. 
+
+In addition, we've announced today a 3 billion commercial paper program and a related credit facility. This to us is an 
+important step in establishing a more capital efficient structure that will provide us with low cost working capital 
+availability and flexibility. And it's also an excellent time to do it given the historical low interest rates. 
+
+Operating cash flow was very strong at 2.1 billion. CapEx for the quarter was 476 million, again, primarily related to 
+our data center operations. And as a reminder, we continue to make significant CapEx investments, and they just turn 
+out to be lumpy from quarter to quarter. 
+
+Our free cash flow therefore stands at $1.6 billion, a very good position. 
+
+So to take a step back from all these numbers, here's where we stand. We are very pleased with our Q2 performance, 
+seeing growth across revenue, margin, and cash flow. And it really paints a picture where we are very confident about 
+our future. And that's why we continue to attract and hire among the best talent in the world to further invest in our 
+growth agenda. 
+
+So with that and before we open it up to questions, let me turn it to Jonathan for his comments. Jonathan? 
+
+Jonathan Rosenberg, Senior Vice President, Product Management 
+
+Okay, thanks, Patrick, so let me start with search. Search used to be pretty simple. You'd enter a query and we'd return 
+a bunch of links to websites. But now the web is much, much more complicated. There's videos, there's books, there's 
+music, there's news. Just about any type of media you can name is online. 
+
+So the scale of the web now is grand and it isn't slowing down. To keep pace, we migrated a whole lot of our index to a 
+new infrastructure, which we call Caffeine. Caffeine is basically a new way of updating our index. So now when we 
+find a new web page or new information like a video or an image, we add them straight to the index without a delay. 
+This means that the results that you get are a lot fresher, and in fact they're about 50% fresher than before. 
+
+But then once you get your results, you need tools to work with them to get to the right answer. And we've launched a 
+new UI that has a bunch of options on the left-hand side to help you filter those results. I especially like the timeline 
+feature, which I think is great when you're doing research and you want to see results for a particular time. So you can 
+enter say "oil spill" and click on timeline and 1969 and you can read all about the big Santa Barbara spill that led to the 
+ban on offshore drilling in California. 
+
+On the other hand, sometimes you just want an answer. The query is effectively the result, and we're getting much 
+better at knowing when that's the case and giving you what you need. So enter, for example, "Barack Obama birthday," 
+and you'll see what I mean. You'll see his birthday listed, August 4, 1961, and citations for the different sources where 
+we got that information. All of this works in Suggest, too. Try typing, "Capital South Africa." By the time you get to 
+the first A in Africa, we tell you Pretoria. I point all these things out because the great things about features like these is 
+most people I think don't even notice the changes. They just notice that they get their answers fast. 
+
+
+I think I mentioned on the earnings call back in January that we're working on putting more wood behind fewer arrows, 
+and search innovation is definitely one of those arrows. Our pace here is actually accelerating. Voice Search added six 
+languages. We launched Spell and Full-Page Replacement, Suggest with Spell Correction, and over 100 quality 
+enhancements. So there's lots of stuff going on. In fact, there's so much that we're putting out a weekly blog post to 
+document all the search improvements. 
+
+But interestingly as search gets better, it actually creates another huge challenge for us. The ads need to keep pace and 
+get better too. Otherwise, what would happen is people will click on relatively fewer ads, and that would be bad. So 
+this dynamic where consumers are in control holds for all types of media and not just search. It used to be consumers 
+had to watch, see, or listen to whatever the advertiser wanted to show, but now they don't. I think this is a fundamental 
+shift for the advertising industry. When people don't have to watch your ads, what do you do? Well, you have to make 
+ads people actually want to watch. 
+
+I was in Piazza San Marco in Venice a couple weeks ago, and there was a huge billboard advertising a ski jacket. It was 
+like 90 degrees, and we were sweating in shorts and T-shirts. And I looked and I thought, what a waste of money. So I 
+took a photo of the ad with my smartphone and I sent it to my team as proof there's lots of upside in improving ads. 
+
+And this quarter, we made great progress on that upside. We added new ad formats and we focused even more on 
+quality. The new formats let advertisers put more useful information into their ads such as pictures of a product or a 
+local address or a phone number. It turns out that when you're searching for something from your phone, you're much 
+more likely to click on the ad when it has a phone address in it. This seems obvious, but now we actually know from 
+the data that it's true. One of our customers, Carnival Cruises, increased bookings from mobile phones by 175% when 
+they included click-to-call ads. 
+
+Lastly on ads, I know you often ask about headroom and ads quality. And I'm thrilled to say we had one of our most 
+productive quarters there in the last couple of years; over a dozen launches on search with a strong impact on revenue. 
+We did things like put better ads on the second page of results where we realized that the ads weren't as good. And we 
+also had over 20 quality improvements on the Google Display Network. 
+
+Display, by the way, is going very well. One recent development is that we're working closely with our agency partners 
+to help them move to what they call an audience-buy model. And I think this is another fundamental shift in 
+advertising, where the ultimate goal is to designate a particular audience on our network, like say women between 18 
+and 35 who like basketball, and then we automatically target that audience for you. 
+
+We're also making progress with features like remarketing, which we launched last quarter. Advertisers can reach 
+people who have already visited their sites. Interest based advertising which we launched last year is also working very 
+well. And so is the DoubleClick Ad Exchange, which we launched in Q3. We've got several of the top ad networks on 
+it, and we're tracking some big buyers like agency holding companies. Advertisers really like the technology which is 
+real-time bidding, and publishers like that it's open to all advertisers and ad networks who they want to work with. 
+
+We want to be open in everything we do. We believe open systems are better for the web. They're better for 
+competition. They're better for the user. This is not philanthropy. When the web is better, more people use it more 
+often, and that means they search more often. Android is a leading example of this. As Patrick mentioned, we're now 
+activating over 160,000 Android devices every day. This is up from 65,000 last quarter. What's even more interesting 
+there is that most of these devices are developed completely independently of Google. 
+
+One of those is the Sprint EVO, which is actually my favorite phone right now. It has a big screen. It's got great video. 
+It acts as a Wi-Fi hotspot for me. It has 4G bandwidth, at least when you're around Mountain View. The Android 
+market is also open, of course, and now has over 70,000 apps. That was around 30,000 in April. 
+
+As you look at all these new apps being created, you also realize that your mobile phone isn't alone anymore. It's 
+actually connected to several million computers 24x7. This is letting us do things that we used to think were 
+impossible. We just released a new version of Goggles that lets you take a picture of something in another language 
+with your phone, and it translates it for you. I actually used this a lot to read menus on my vacation in Italy. You 
+literally don't have to guess what you're going to eat anymore. Or say you want to read about how the locals are 
+
+
+celebrating their World Cup victory. Congratulations to Spain by the way. Anyway, you just go to elpais.com, and 
+Chrome or Toolbar automatically translates it for you in a second. 
+
+So cloud computing also means that enterprises can take advantage of these innovations. We just launched this feature 
+where if you have say a PDF or the image of a scanned document, you can upload it to Docs and we'll convert it to text 
+so you can edit it. You don't have to install any special software or anything. If you're a Google Apps customer, it's just 
+there and it works. 
+
+Of course the cloud is pretty good for wasting time, too. I hope you played with our special PAC-MAN doodle. We put 
+it up on May 22 to celebrate PAC-MAN's 30th birthday. And we estimate people spent 4.8 million hours playing it. If 
+you missed it, go to google.com/pacman. Boop, boop, boop. 
+
+Thank you for your time, back to Patrick. 
+
+Patrick Pichette, Senior Vice President and Chief Financial Officer 
+
+Thank you, Jonathan. There were these great reports of billions of billions of productivity lost over that little 
+PAC-MAN, so obviously we did something right somewhere. Connie, can you actually turn on the Q&A process? And 
+I'm going to invite Nikesh to join us at that time. 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions] We'll take our first question from James Mitchell from Goldman Sachs. 
+
+<Q - James Mitchell>: Thank you very much and thank you for the PAC-MAN distraction a few weeks ago. My 
+question is about the sequential increase in operating expenses. I was wondering if there was any adjustment to bonus 
+accruals that went into that sequential increase. Or was it entirely due to head count additions and acquisitions and 
+marketing? 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: The bonus accrual would have a small 
+impact on it. So it is really about head count, about TVC. It's about marketing. 
+
+<Q - James Mitchell>: Great, thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: You're welcome. 
+
+<A - Jane Penner, Investor Relations>: Can we go to the next question? 
+
+Operator 
+
+We'll take our next question from Spencer Wang from Credit Suisse. 
+
+<Q - Spencer Wang>: Thanks, good afternoon. Two quick questions, first in terms of the paid click growth at 15%, I 
+was wondering if you could just give us a sense how much of that is coming from mobile today currently versus say 
+last quarter. 
+
+And then the second question maybe for Patrick, just on TAC, it was down a little bit year over year, flat sequentially. 
+Can you just give us a sense of where you think on a percentage basis that's trending, especially with the MySpace deal 
+coming up shortly? Thank you. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: Yes, this is Jonathan. On the mobile 
+question, mobile is certainly growing faster than other clicks. So everything else being constant, there is a 
+
+
+disproportionately larger group of mobile clicks this quarter than in quarters in the past. But we don't really have any 
+more detail than that. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: In the case of TAC, it has been – I mean 
+most of the TAC that we have today, because as you said so rightly the MySpace deal is ending now, we shouldn't see 
+any – there's no big jump anywhere in the TAC going forward. And it has been pretty stable actually around I think you 
+said 27% or... 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: Yes. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: So there's very little variability in it. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: Great, thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thank you, Spencer. 
+
+<A - Jane Penner, Investor Relations>: I think we're ready for the next question. 
+
+Operator 
+
+We'll go next to Imran Khan from J.P. Morgan. 
+
+<Q - Imran Khan>: Yes, hi. Thank you so much for taking my questions, two quick questions. One, the 1,200 or so 
+head count increase, could you give us some sense as to where are you allocating those head count? Is it in search or is 
+most of the head count going to new initiatives? 
+
+And also secondly in terms of the cost per click, can you give us some sense the difference of cost per click mobile 
+versus desktop and how quickly do you think it can narrow? Thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Great, so why don't I start with the 
+1,200? Remember, 1,200 just to give a bit of clarification, there's probably around 300 of those 1,200 that in estimate 
+that come from M&A. So really organically, if you think about it, more like 900 which was more like last quarter. 
+
+As I mentioned in my core notes, Imran, most of the head count is in engineering and sales. And most of the head 
+count, the vast majority is going to the four core areas of focus of the company. So they are about search and search 
+monetization. They are going to mobile and Android. They are going to apps, and they are going to display. We see so 
+much momentum in each of these right now that that's where the bulk of the resources are going because that's where 
+the focus of the company is. On the CPC, Nikesh? 
+
+<A - Nikesh Arora>: On the CPC – hi, this is Nikesh. On the CPC, I don't think there's enough data for us to actually 
+look at the trend in terms of whether it's closing or not. But you have to understand the mobile advertiser sees mobile as 
+a very different platform vis-à-vis the desktop advertiser. You see high CPCs where there are transactions that can be 
+consummated in the mobile; i.e., in digital entertainment. You don't see as high CPCs as when you're trying to give 
+directions to a certain restaurant or a place where they might conduct commerce. So there's still some disparity between 
+the CPCs in the desktop and mobile. And within mobile, depending on the verticals, there's disparity depending the 
+type of advertising. 
+
+<Q - Imran Khan>: If I could sneak in one... 
+
+<A - Jane Penner, Investor Relations>: I think we're ready for the next question. 
+
+Operator 
+
+And we'll take our next question from Justin Post from Bank of America. 
+
+
+<Q - Justin Post>: My questions are about Android. Can you talk about how much investment is going into that 
+platform? And then how do you think about it? Is this an investment that just needs to keep going just so you can 
+compete in the mobile market? Or you're not charging for it. Is this a real installed base revenue opportunity and we're 
+going to start hearing more communication about how you're going to monetize it down the road? Thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: So let me give you a high level answer 
+to give everybody comfort, right? Android is not – in terms of cost, it's not material to the company. And not only that 
+but let me give you a further proof point of the value of Android is, some of the key products that have been launched 
+over the last few weeks and few months have not been developed by Google at all. I think the last Android X – or the 
+Motorola – what is it, DROID X, has been developed by Motorola directly with Verizon and not involved any of the 
+Google resources. So it's not a huge resource investment. It's a formidable return in that what you have is the entire 
+ecosystem exploding. And I'll let Jonathan give you really the sense of that one. So from the cost side, it's not material. 
+Jonathan? 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: We gave some data on the scope of the 
+numbers, the 160,000 Android devices as well as the growth in apps from 30,000 to 70,000. But I think the most 
+important and most obvious thing to think about from our perspective is what's the most popular app on these devices. 
+The most popular app is a browser. What do people do with the browser on these devices? They search an order of 
+magnitude more than they have on any previous type of smartphones which they've had in years past. So the 
+combination of people browsing on these smartphones, connected on very, very fast networks, and searching on them is 
+basically the formula around how Google makes – how Google succeeds. 
+
+<Q - Justin Post>: I don't think I have a follow-up, but are you seeing search activity really strong on mobile devices 
+with Android? And do you think you're losing any ground relative to search activity within applications? Thank you. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: Android search grew 300% in the first 
+half of 2010. So yes, search on Android devices is exploding. 
+
+<Q - Justin Post>: Thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: I think that there – another way to frame 
+it in numerical numbers, the mobile has grown 500% in the last two years in terms of the traffic. So think of that, and 
+then think of Android being an accelerator of that because every time you bring the NPV of all these platforms coming 
+forward, you get a lot more. So that's how to think about the problem and the solution that we bring. 
+
+<A - Jane Penner, Investor Relations>: Next question, please. 
+
+Operator 
+
+And we'll take our next question from Doug Anmuth from Barclays Capital. 
+
+<Q - Douglas Anmuth>: Great, thanks for taking the question; two things I wanted to ask. First just on the macro 
+environment, can you comment on what you saw at all during 2Q in terms of whether the environment seemed to 
+change at all, either in the US or Europe? 
+
+And then secondly, just given the $3 billion commercial paper program, can you update your current thoughts on 
+returning cash potentially to shareholders? Thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Again, let me start with the last one 
+first. Really the commercial paper is a fantastic opportunity for us given the portfolio that we've put in place for our 
+cash to actually have the working capital flexibility around it. So now if I need working capital for my day-to-day 
+operations, I have that flexibility through commercial paper, and that's really the essence of what we're doing. 
+
+We have made no decisions at all on share buybacks or, as I said to everyone, it's a topic that is regularly debated, 
+brought to the Board for debate, and we have nothing to announce on that one. 
+
+
+On the macro side, I would say look, there are two things, right. Everybody reads the press. Everybody has seen 
+everything that happened in Q2, the euro, the debt, the this, the that. I mean for us at Google, it has been a great quarter. 
+We've had – our business has been a great quarter, and we've seen no impact of what's going on in the macro world to 
+us. And that's why we said for the last three, four quarters, we've said we're really pleased with how we're performing 
+in this kind of economy, and that's why we feel confident about the future and feel confident about investing now, and 
+that's why we're doing it. 
+
+<Q - Douglas Anmuth>: If I can just follow up quickly on the first one on cash, can you comment on how much of 
+your cash is international versus in the US? 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: It's about 50:50. 
+
+<Q - Douglas Anmuth>: Thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thank you. 
+
+<A - Jane Penner, Investor Relations>: Next question, please? 
+
+Operator 
+
+And we'll go next to Brian Pitz from UBS. 
+
+<Q - Brian Pitz>: Great, thanks. Would you talk about your advertiser and user adoption of some of the new product 
+ad formats that we're actually seeing on your site? Are these ads having a material impact on CPC? Because we 
+understand they're being sold on a CPA [Cost Per Action] basis. Thanks. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: This is Jonathan. I can give you a quick 
+review of the top formats, and then maybe Nikesh can chime in and give you a sense of some of the specific customer 
+experiences that he's had. The click-to-call ads on the high-end mobile phones are doing very well. The click-through 
+rates go up 6% when you put ads with a phone number, 8% when you put a local address, so click-to-call is doing very 
+well. It's easy to see some of those if you want to just take a look for yourself. If you try travel agency from a 
+smartphone, you'll see them. There are thousands of active campaigns on click-to-call. So you can take a look at that. 
+
+Site links is also making pretty good progress. We've given you examples on past calls where you type a big brand like 
+Sears, and then you see the more useful links that you can get through, and the click-through rates on those can go up 
+as much as 30% over the ads without the site links. But we changed the way we do site links, and we've added a new 
+one-line format. And that also allows site links to show up in more places. You can try flowers if you want to see that. 
+The other format that's getting some adoption is the – we're adding the seller ratings, which shows merchants' ratings 
+out of six stars aggregated from reviews on the web. You see that if you look for things like digital cameras, and that's 
+doing pretty well as well. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Nikesh, any further thought? 
+
+<A - Nikesh Arora>: I guess from an advertiser perspective, they've always had a sense that, over the last few years, 
+we've actually had some disparity in the quality of our natural search and the quality of our ads. Things like site links 
+create tremendous parity between what people get in natural search and what they get from an ad format. So there's a 
+tremendous appetite on our large advertisers to be able to send consumers or users to a deeper part of their website, 
+inside the cloud. So the adoption of site links, the adoption of click-to-call, click-to-call like Jonathan said is extremely 
+more lucrative for them because they can actually track it. They can actually track the transaction that it creates. So 
+these ad formats are definitely helping, and are getting out there. 
+
+One thing that Jonathan did not touch upon is the ad innovation on the display side as well. We've had tremendous new 
+formats. We've launched the whole YouTube front where we've actually increased inventory because we get more and 
+more content where we could show ads on. In addition to that, we also have new ad formats which effectively – I mean 
+
+
+imagine a basic ad and now getting it to be an auto-expandable mast head that shows up on YouTube, which allows us 
+to impact the pricing of the ad format. So the more richer the ad, the more an advertiser is willing to contribute because 
+it creates a more engaging experience and therefore a higher revenue opportunity. So I think across the board, these 
+new ad formats are both – we're seeing more appetite for them. And at the same time, they're allowing us to create 
+more return for the advertiser, allowing us to price them better. 
+
+<A - Jane Penner, Investor Relations>: Next question, please. 
+
+Operator 
+
+And we'll take our next question from Ross Sandler from RBC Capital Markets. 
+
+<Q - Ross Sandler>: Hi, just two quick questions. Patrick, you said that costs for Android are fairly immaterial. So can 
+you talk about the operating margins in the display business on a revenue ex-TAC basis? How much of the margin 
+compression that you're seeing right now is coming from display growing faster than search? 
+
+And then second question is, it looks like the RoW [Rest of World] region accelerated a bit in the second quarter if you 
+strip out the hedging and currency impact. Can you talk about, Nikesh, which regions are driving that? And can you 
+specifically talk about the environment in Europe given the macro? I know you talked about it for a second earlier, but 
+just any further color about Continental Europe? Thanks. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: The display business has, to a certain 
+extent if you take it as a blended, slightly lower margins. If you take the DoubleClick platform, for example, which is 
+more transactional, overall I think that they still are quite healthy. And they don't – if you think of CPCs the way I think 
+about them, is you have really two big components at work: the innovations that Jonathan talked about that actually 
+drive CPC up. And then because those products perform better, they add pressure to the auction and therefore drive 
+CPC up. 
+
+And then the two or three components that actually drag them down in the short term actually, it's not as much display 
+as the places like Brazil and India that are growing very well, so internationally. And because they don't have as strong 
+an auction right now, right, the CPCs are slightly lower but they're growing. So that's positive. 
+
+And then we already talked about mobile themselves as being lower CPCs. These are the two that actually are growing 
+incredibly rapidly. And that on the mix in the short term put a bit of a downward spin on the CPC formula. But both of 
+them, as we know, they're growing more rapidly. So it's real dollars net in. And then on top of that, we know there's 
+going be future pressure on them. So I'm pretty pleased about the performance of those. 
+
+On the issue of Europe and FX, it's really – everybody's got a model out there, right? We've lived an incredible roller 
+coaster of FX over the last year. So if you look at currencies like the euro and the pound, right, they were quite similar 
+on par versus year over year; but the last quarter versus this quarter, a huge change. And then in addition to that if you 
+look at places like the real in Brazil, the Canadian dollar, the yen, those have quite increased year over year. 
+
+So when you do your models relative to FX and OI&E, just take in consideration the fact that year over year, the 
+net-net position is, it has been strengthening all in. Quarter over quarter, it has been going down all in. And then on top 
+of that, our FX – our hedging program is really a long-term hedging program. So this quarter, we've reaped 78 million 
+
+– 79 million of benefits net. So it's a tough puzzle to solve. But just please take the time to look at year over year and 
+quarter over quarter because it's a puzzle to build. I hope that answers your question. 
+<A - Jane Penner, Investor Relations>: Can we take the next question, please? 
+
+Operator 
+
+And we'll take our next question from Jeetil Patel from Deutsche Bank. 
+
+
+<Q - Jeetil Patel>: Great, two questions. Do you think that Android and mobile represents a bit of a defensive strategy 
+since you pride yourself on the lack of cost in that business as a whole; and at the same time, you're adding head count 
+as a whole in the company? 
+
+And second, I guess I'm just curious. The feedback we keep getting in the industry is that the Android infrastructure 
+and support seems to be lower than what at least your ecosystem would like. I guess do you – what is the appetite to 
+create other revenue streams outside of advertising inside let's say mobile in the form of let's say an app marketplace 
+that is pretty vibrant? Thanks. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: So let me just give the highest level 
+answer is – the answer is yes. It's both. I mean obviously, having – we did it for offensive reasons, not defensive 
+reasons, right. We believe that actually open platforms that create the ecosystem where our developers can actually 
+create a whole set of new generations of apps is incredibly important. And then in addition to that, right, we do know 
+that these new formats like these smartphones create an entire new set of activities in which you live and you will 
+search and you will transact. So from that perspective, I think that it's obviously both. 
+
+I think that – I take your comment that if the market in general is saying they want more support from us in that space, 
+right, we're investing heavily because we believe, one, that search advertising, our acquisition of AdMob, the 
+investments we're making is because for us advertising is completely nascent in this space relative to text search. And 
+second is, we ourselves are doing a lot of innovation to applied computing and others to actually create a whole new 
+sub-generation of apps ourselves. So I think that yes, defensive; yes, offensive; but in the end, benefiting everybody. 
+And I'm glad to hear that you say you want us to invest more in it. 
+
+<Q - Jeetil Patel>: Right. It seems like your AdSense vendors are aggressively investing, and we haven't seen it from 
+your side, at least as we talked to some of your partners out there. And I guess it seems like, do you think that other 
+models outside of advertising need to be explored at this point? Thanks. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: I'm not sure I understand your question. 
+Other models such as what? 
+
+<Q - Jeetil Patel>: Let's say consumer applications. There are other companies that have created business models 
+around, obviously game downloads, other app downloads that are charged. Obviously, you have as well, but it seems 
+like you seem to be – maybe it's early days, but still early in that development. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: I think you're absolutely right that it is 
+early days. And I think that the 70,000 apps that we have is actually a demonstration of the effervescence of that 
+ecosystem that's actually just building now. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: Yes, I think one – this is Jonathan. I 
+mean it is at a very nascent stage. I think we also – there's a lot more infrastructure that needs to be built to support a lot 
+of the commerce. We substantially need to improve the billing capabilities in the market, and that's obviously one of 
+the things that we're investing in pretty aggressively. But I don't think of this as defensive at all. I mean there's a huge 
+opportunity for incremental usage of search, as I talked about earlier. And when we see an opportunity for people 
+searching more, that's obviously something that we want to participate in. 
+
+So we see this platform as winning. We think that gives us an opportunity to build the mobile Internet. And we think 
+that in the long run that's going to be good for Google. It's going be good for the applications developers, and it's going 
+to be good for consumers. So we're investing in building that winning platform. 
+
+<A - Jane Penner, Investor Relations>: I think we're ready for our next question. 
+
+Operator 
+
+And we'll take our next question from Steve Weinstein from Pacific Crest. 
+
+
+<Q - Steve Weinstein>: Great, thank you. I was hoping you could help explain some of the movement in the P&L 
+expense. You mentioned that most of the hiring is going into engineering and marketing. When I look at the sequential 
+increase by dollars in terms of the expenses, you actually had a large increase in G&A, about 48 million sequentially, 
+and that's compared to only like 20 million in sales and marketing. So can you explain a little bit more, was there 
+anything in the G&A line that is one-time or not repeatable, or why are they moving like that? 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Yes. You have to look at – there are a 
+couple of things. One is our recruiting. If you go year over year and quarter over quarter, we had three big elements. 
+One is, we had – our recruiting machine that started to build last year was not built in Q2 of last year. So if you think of 
+the hiring infrastructure and the people infrastructure has actually been building, and now you see the full 
+flow-through. 
+
+We also have had in G&A and general another area. If you think of everything else that's people, we've talked about 
+legal. We've had a number of legal costs through this quarter that have also flowed through just because of a number of 
+legal activities that we've taken. So these are the two biggest components that actually would explain the big variances. 
+
+<A - Jane Penner, Investor Relations>: We're ready for the next question. 
+
+Operator 
+
+And we'll go next to Mark Mahaney from Citigroup. 
+
+<Q - Mark Mahaney>: Thank you, two questions, please. A year ago, you talked about being close to profitability on 
+YouTube given all the momentum that you've seen over the last year. Do you feel like you're a lot closer? Are you 
+profitable with the YouTube asset? 
+
+And then secondly, when you sell display ads, do you feel like you're selling them to existing search customers, or do 
+you think that it has opened up a significantly larger customer pool, or a mix of those two? Thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: So let me talk about profitability, but 
+Nikesh will have the answer to your second on display. Look, we don't comment on YouTube. What I can tell you is 
+we're incredibly pleased by its trajectory. YouTube is – if you take a step back, it's 2 billion views per day in its fifth 
+year of existence. It has won over 1 billion monetization videos per week. It's a huge first page, and it's aggregating 
+audiences. And you see it today through the top brand advertisers showing up for it, right? So in the World Cup, you 
+saw the Sonys and the Cokes, and this is the power of YouTube today. It's like a worldwide audience. So in that sense, 
+I would argue, just big like TV, it's a great business for us. On the display side, Nikesh? 
+
+<A - Nikesh Arora>: Just to add to what Patrick said, to be fair, what display and YouTube have given us has allowed 
+us in the case of large search customers to complement the portfolio in terms of being able to offer integrated 
+campaigns, which go all the way from branded sites like YouTube to networks like the Google Display Network, and 
+to be able to commingle that research. Not only that, many advertisers now actually commingle that with television ads 
+as well as their print program, so you see a much more integrated campaign capability that begins to happen. 
+
+We've got examples recently like – Patrick mentioned the Coke and Sony folks at the World Cup. What's interesting is, 
+Procter & Gamble has become one of our larger advertisers this quarter. That's primarily driven by the ability of CPG 
+companies to both see the value of search in their ability to build a brand where they've figured out that people research 
+online and purchase based on usage. This is online purchase also and you call it the ripple effect. So people like P&G 
+are beginning to see that impact. Other consumer companies are beginning to see that impact. 
+
+In addition to that, we're seeing, like Patrick mentioned the Omnicom deal, which we just announced. Agencies are 
+beginning to realize that this is an integrated buy. This is a buy you need to do across multiple properties, not just 
+YouTube, the Google Display Network, and the search network. Hence the notion of trying to create a trading desk, not 
+just with people like Omnicom, but we have deals in place, Publicis, and groups, etcetera, that's all. 
+
+<A - Jane Penner, Investor Relations>: We're ready for the next question, please. 
+
+
+Operator 
+
+And we'll go next to Jason Helfstein from Oppenheimer & Company. 
+
+<Q - Jason Helfstein>: Yes, hi. Thanks. Can you comment on Android/Chrome as an operating system? So when we 
+think about Android in and of itself on a mobile device or particularly on like a cell phone, we can see the revenue 
+opportunity over time with ads basically on apps. When you think about Android or Chrome as perhaps an operating 
+system for tablets or for computers, is there ever a revenue opportunity in the software, or should we think of it the 
+same way as we think about Android today? Thanks. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: This is Jonathan. I think it's probably too 
+early to answer that question. I think we're mostly focused with Android on building out the platform, on getting more 
+smartphones out. And on the Chrome side, we're – it's still too early to say. 
+
+<Q - Jason Helfstein>: Thank you. 
+
+<A - Jane Penner, Investor Relations>: Next question, please. 
+
+Operator 
+
+And we'll take our next question from Scott Devitt from Morgan Stanley. 
+
+<Q - Scott Devitt>: Hi, thanks for taking the question. Regarding paid clicks up 15% year over year, it has been pretty 
+consistently in the teens for almost two years now. I was wondering if you could just talk about maybe the top three or 
+four drivers that's keeping that rate at such a robust level for such an extended period of time. Thank you. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: This is Jonathan. I think the biggest 
+thing is just the continued secular shift in advertising from things offline that are not measurable to the ROI-based 
+model of search advertising where the advertisers can actually see the benefits and the ROI that they're receiving on the 
+money that they're spending. We did see a good bit of that during the recession. I think there was a disproportionate 
+fraction of budgets that were spent on things where the ROI could be tracked. 
+
+I think on our side, we're doing a lot in terms of ads quality, as I mentioned in my scripted remarks. And I think the ad 
+format efforts that both Nikesh and I talked about also serve to increasingly drive clicks. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Just to complement this, I think that we 
+have seen in fact and I would argue that paid clicks moved quite a bit over the last couple of years in response to the 
+recession. We've seen that and we're seen a great recovery in Q1 and Q2 and on a year-over-year basis. 
+
+I think that for us, what's really interesting is people are searching. People are continuing – the secular trends, as 
+Jonathan said, are happening. And because people are searching, people are clicking, and the quality of the ad network 
+and the products themselves continue to improve, I mean we just see the symbiotic relationship happening. 
+
+<A - Jane Penner, Investor Relations>: Next question, please. 
+
+Operator 
+
+We'll go next to Youssef Squali from Jefferies. 
+
+<Q - Youssef Squali>: Thank you very much, two quick questions. I guess the first is for Patrick. Patrick, as you look 
+at your business needs for the next couple quarters, do you think that your level of hiring and your level of CapEx, 
+which this quarter has doubled from the prior quarter, is sustainable? Is that the level you need to get to where you want 
+to get to? 
+
+
+And second, what are your views on contextual searches that have been implemented by the other search competitors, 
+and which at least on the surface seems to have you guys losing some market share? Thanks. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Let me – I'll let Jonathan talk about 
+contextual search in detail. On the issue of market share, just to can give the highest level answer, there has been a lot 
+of debate about people's methodologies from external sources on market share. And so I would just – even the press 
+itself cautioned all these numbers of late. So I would just put the flag out again to say just be cautious. I mean we are 
+very pleased with our results right now in terms of market share. 
+
+<Q - Youssef Squali>: Do you fear you're losing market share? 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: No. And the issue that we have is, if 
+you think of – now I just want to go back to because there has been so much noise on this data, I think it's important 
+just to mention it. If you go back to the fundamentals of hiring and CapEx, CapEx, right, is lumpy. And here's a perfect 
+example of lumpiness, right? To be able to work in Scandinavia in the winter is difficult, but as we said we're building 
+a data center there. Now it's spring and we're working there. 
+
+So we're also adding machines. And it just happens that when you get the generations of chips available and everything 
+available then you start rolling out. We had a bit of – so the lumpiness shouldn't surprise anybody. And I think that 
+everybody that had discussions with when we were at 189 million or clearly also unsustainably low levels, so we're 
+running our plans accordingly. So just stay tuned for CapEx, but it just happened to be lumpy. 
+
+In terms of hiring, I think it really is the case that – I'm going to take a step back to three quarters ago when we said 
+look, for us the recession is over. For us, we see great products, and we have a mindset of the next half decade and the 
+big platforms we are building that are creating these huge ecosystems. And for us search is one. And then mobile and 
+Android, as we just talked about, is one. And then display is amazing. It's really growing and to not put resources to 
+actually fuel this ecosystem which is the next decade, it's just such an opportunity. So that's why we're investing 
+aggressively. We think it's the right thing to do at the moment in the company, and that's the balance we're striving. 
+
+Even in Q3, right, if you think of head count, you have a lot of people. I shouldn't call them kids. They're people that 
+just graduated from university, they're going to join us. So there may even be, and you can think of the bump of the 
+accepted but not started because they're going to go backpacking for a summer before they come and join us. But 
+ultimately, we're looking at a trend of continuing to invest. It's the right thing at this time in the history of the company. 
+So that's on CapEx and hiring. 
+
+And then on contextual search, if there's something that you need a more refined answer for, Jonathan? I'm not sure I 
+understood... 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: I guess I'm not sure exactly what data 
+you're looking at or what examples you're referring to. 
+
+<Q - Youssef Squali>: Just I mean the two main competitors have adopted some processes that in a way inflates the 
+number of searches that are run on their databases, and you guys don't do it. I wanted to just know if this is something 
+that you guys may pursue as well. Or... 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: Sure. I understand, right. Generally, we 
+don't comment on the third-party data, but what you're alluding to are basically the methodological problems that have 
+been publicized with respect to auto-roll slide shows that generate. Basically if you think about it from a search 
+perspective, it's a spurious request because it's not really an incremental search. 
+
+<Q - Youssef Squali>: Right. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: So the thing that matters to us is 
+ultimately consummating transactions via conversions that we're sending to advertisers. So what we care about is the 
+number of genuine searches that users are running where they want to get directly to an answer or a website, or where 
+
+
+they're interested in actually clicking on an advertiser's ad. It wouldn't help us in any respect other than in generating 
+counts in share data to cause the total number of searches to artificially go up if there wasn't user intent behind them 
+that was of value to our advertisers. So the basic answer to your question is no. 
+
+<Q - Youssef Squali>: Okay, makes sense. Thanks. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thanks, Youssef. 
+
+<A - Jane Penner, Investor Relations>: Next question, please. 
+
+Operator 
+
+And we'll go next to Jordan Rohan from Stifel Nicolaus. 
+
+<Q - Jordan Rohan>: I'd like to delve a little further into some of the growth that you're seeing in the rest of world 
+territories. Can you talk about how much directionally growth you're seeing out of Asia versus Europe, if that's a 
+breakdown that you're willing to give? And if not, can you talk about which countries are really standout from a growth 
+perspective on the positive side? Thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: I'll let Nikesh answer that one. 
+
+<A - Nikesh Arora>: I'd prefer not to talk about regions because in every region, there are countries which do 
+fantastically, and there are countries which are challenged. If you ask me about Greece, I wouldn't have to answer the 
+question. So similarly, there are countries like Russia, like Brazil, like India, which are growing fantastically for us and 
+continue to show good growth. It's a combination of what advertisers, it's a combination of Internet penetration getting 
+higher. It's a combination of people getting savvier, advertisers getting more and more ready for the e-world. 
+
+So we're seeing good growth this quarter. We saw good growth in Brazil, India, Russia, we saw great growth. We saw 
+good growth in many other parts of the world. So even places like France performed for us wonderfully this quarter. So 
+even a larger marketplace like Australia and New Zealand performed well for us. So I don't want to give an answer on a 
+specific territory. I prefer talking about countries because I don't know how to go visit Asia. 
+
+<Q - Jordan Rohan>: Fair enough, countries are even more helpful. Thank you. 
+
+<A - Jane Penner, Investor Relations>: Next question, please. 
+
+Operator 
+
+And we'll go next to Sandeep Aggarwal from Caris & Company. 
+
+<Q - Sandeep Aggarwal>: Thanks for taking my questions. Actually I have two questions. One is if you look at the 
+sponsored clicks versus CPC last quarter, paid clicks were up 15%; CPC was up 7%. Paid clicks remained at that same 
+level, but CPC have come down quite a bit. I know some of this is mix shift. Maybe some of this is FX. But I guess my 
+question is, is there any competitive dynamics or maybe increasing for customers' organic search or changing user 
+behavior playing any role in some weakness in CPC? And then I have a follow-up. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: This is Jonathan. I think probably the 
+easier way to answer the question is to just give you my quick observations on the things which are clearly driving – 
+contributing to driving CPCs on average up versus those that are impacting them in the other direction. I don't see 
+anything from a user perspective or a share perspective that is obvious that's impacting the overall equation. I think we 
+are seeing on the positive side conversion rates improving, which is driving CPCs up. I think your comment about the 
+relative shift in mix to Google.com from AFC does contribute positively to CPC. Google.com is obviously higher so 
+any mix shift there, everything else being constant, increases CPC. 
+
+
+The obvious things that we've talked about in the past that push it in the other direction are emerging markets, Brazil, 
+India, and Nikesh talked about some of those examples earlier. Mobile growing in the mix, and people increasingly 
+looking for longer tail queries that monetize lower to add into their campaigns, but those are the overall factors. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Sorry, Sandeep. Go ahead with your 
+follow-up. 
+
+<Q - Sandeep Aggarwal>: Yes. So Patrick, actually the other revenue actually on a year-over-year basis is showing 
+visible slowdown versus last quarter. And you specifically made comments that it basically was very strong. And then 
+also you have Nexus One, which is contributing second quarter in terms of the incremental revenue source. In spite of 
+these things, other revenue was noticeably slow. So was it because of some kind of slowdown in the enterprise business 
+or what else is going on there? 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: No. I mean in essence it's one word. It's 
+Nexus One. So the quarter-over-quarter impact of Nexus One is driving substantially that change. 
+
+<A - Jane Penner, Investor Relations>: Next question, please. 
+
+Operator 
+
+And we'll go next to Aaron Kessler with ThinkEquity. 
+
+<Q - Aaron Kessler>: Yes, hi, a couple questions. First on China, I just wanted to clarify. Is it your understanding that 
+the government is okay with your new solutions in terms of your search link on the .cn site? And are there any updates 
+on trends and traffic you can give us that you're seeing in China? 
+
+Also just in terms of click-through rates for mobile on sponsored ads, any comparison you can give us there versus how 
+you see click-through rates on PC? Thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Okay. So I'll answer the China and then 
+let Jonathan talk about the click-through rate mobile versus PC. On China, look, we're basically at the same place when 
+we last discussed or the last time that we talked about it, which is we have – the good news is we have our license 
+renewal. Apart from that, certainly from a financial perspective, I just want to reiterate to everybody, right, revenue 
+from China is not material to our revenue. And having said that, right, we had decent revenues for Q2. And so given the 
+sensitivities of everything that's going on with China, I hope you will understand why I don't want to talk more about it. 
+We're working very closely to continue to work through the situation. 
+
+<Q - Aaron Kessler>: Okay. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thank you. On the click-through rate, 
+mobile versus PC, Jonathan, insights? 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: We don't actually break out the relative 
+click-through rates on mobile versus the PC. I mentioned there are new formats and efforts that we've offered that are 
+starting to increase them like the click-to-call offering. I think the main thing that's really going to fundamentally have 
+to change there, which is the big difference between mobile and desktop, is that today on a mobile phone people are 
+actually less likely to consummate a transaction because the logistics of entering a credit card or being signed in on a 
+browser is somewhat more time consuming and onerous. So I think for the mobile system to move very aggressively is 
+going to require more of those commercial transactions actually being taken and placed on the mobile devices. 
+
+On the display side, the AdSense for Mobile is actually doing very, very well. And one of the reasons that that's doing 
+well is the opposite of what I just stated in terms of effect. On a mobile device, a display ad is something that really 
+gets in your face. The screen is relatively small, so you see it. It's unlike a desktop in that you're not typically doing 
+multiple things at once. So display I think is relatively closer to the desktop than is the search based ads. 
+
+
+<Q - Aaron Kessler>: Great, thank you. 
+
+<A - Jane Penner, Investor Relations>: Next question, please. 
+
+Operator 
+
+And we'll go next to Sameet Sinha from JMP Securities. 
+
+<Q - Sameet Sinha>: Yes, thank you very much. I just wanted to – if you could comment on this Omnicom deal that 
+you had signed? Can you talk about what the ramifications are? What advertisers do you expect to participate? And any 
+other details would be appreciated. 
+
+<A - Nikesh Arora>: Yes, sure. You have to understand, as we look at display, there are two significant changes that 
+are happening. One is display buying, which traditionally has been advertisers buying sites, is slowly and surely 
+shifting to audience buying. So I as an advertiser no longer want to buy Tiffany.com or NewYorkTimes.com. I want to 
+be able to say I'd like 18 to 35-year-olds who are savvy, who understand technology, and who would be interested in 
+my product. 
+
+As we go towards that audience buying notion, what advertisers are looking for is they're looking for specific inventory 
+and specific audiences, whichever site they might be on. So it becomes even more important for some trading desk type 
+phenomenon to exist where an advertiser can buy across any publisher they'd like to buy. Now that makes it even more 
+important that you can find some trading desk or trading exchange where you can have every publisher represented 
+because if you have seven different networks, it's sub-optimal as an industry to have an advertiser have to go to seven 
+different networks to be able to accumulate audiences with different standards and different rates or seven different 
+networks look like this. 
+
+So effectively the ad agencies which are buying advertising for advertisers would like to have a common platform 
+which allows them to buy across these entire networks. And that's what we're working at Omnicom with where they 
+believe that if they have the right trading environment set up for their advertisers, it's going be tremendous value for the 
+advertisers because advertisers come to a one-stop shop and buy across networks. And it also allows for tremendous 
+efficiency because the best seller of advertiser may not be the best acquirer of a publisher. So therefore, you can 
+separate that in some sort of an Ad Exchange context, which is what Omnicom is working with us on. And if you get it 
+right, there are hundreds of millions of dollars at stake in this kind of deal because that allows very effective buying 
+across the board on a network. And every player in that ecosystem can get their fair share of the profits. 
+
+<Q - Sameet Sinha>: Great, thank you. 
+
+<A - Nikesh Arora>: Thank you. 
+
+<A - Jane Penner, Investor Relations>: Next question, please. 
+
+Operator 
+
+We'll go next to Mayuresh Masurekar from Kaufman Brothers. 
+
+<Q - Mayuresh Masurekar>: Hi. Could you talk a little bit about search remarketing? It seems that you are by far the 
+leader in search, so a lot of paid advertisers would need Google for doing this well. So what kind of growth or traction 
+have you seen for search remarketing? And what's the pricing for this product compared to other display alternatives? 
+Thank you. 
+
+<A - Nikesh Arora>: We don't do search remarketing. We do remarketing on the display side. We basically are able to 
+go look at what we call interest based advertising. If you understand that certain users are interested in certain things 
+we have based on their having chosen to allow us to use that information, we have the ability then to market to them 
+and show them ads. And that is way more effective than blindly trying to show advertising to users, so clearly we're 
+
+
+seeing tremendous success in that area. But that's all we do in terms of remarketing. 
+
+<Q - Mayuresh Masurekar>: And what's the pricing for this compared to other alternatives? 
+
+<A - Nikesh Arora>: The pricing is, look, is very simple. The more effective the advertising is, the more likely the 
+advertisers are willing to bid more money for it. So you should expect the more efficient you make advertising, the 
+more relevant it becomes. The more ROI it generates for the advertiser, they're willing to compete more aggressively 
+with other advertisers for the same piece of real estate. So we see the effectiveness of that reflected in higher CPC for 
+that particular product. 
+
+<Q - Mayuresh Masurekar>: Thank you. 
+
+<A - Jane Penner, Investor Relations>: Next question, please. 
+
+Operator 
+
+And we'll go next to Colin Gillis from BGC Financial. 
+
+<Q - Colin Gillis>: Patrick, on acquisitions this year, what is the philosophy on the financial discipline used to 
+determine the purchase price? And then separately, was ITA a competitive bid? 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: I'm not going to comment on the last 
+piece. What I'm going to say is that we have – there's a real triangulation between three factors in our strategy for 
+acquisitions. So think of it as talent, intellectual property, and then price. And so what we're looking for is a sweet spot 
+where when we find teams of people that have clear leadership that if you think about it the venture capital world has 
+actually voted by them surviving as long as they have and they have as a team great talent, engineering talent 
+specifically. Then on top of that, for the second piece of it, which is they have proven that they actually have good 
+intellectual property, whether it be – whatever they're working on or whatever in the case of – you just mentioned ITA, 
+right, a lot of interesting structural data. 
+
+So the third piece is obviously price. There is a price after which it's not worth it to us. Then there's a price – there's a 
+tradeoff on price. And what we do is we do on every one of them, we ask ourselves the question, we look at the 
+intellectual – and then let me put the overarching last fit, which is how does it fit within those four areas that I talked 
+about earlier, which is where we're trying to accelerate our development. 
+
+AdMob is a perfect example of that where great technology, fantastic team, at the right price. That basically takes a 
+huge chunk of what was our engineering roadmap and bring it today, integrate it into the team. And then we have much 
+smaller teams, sometimes of 12 to 15 engineers that have a great piece actually on towards another one like that, right, 
+when you think about video codecs. So it's always a tradeoff. And there are many cases where we look at them and we 
+don't buy them because we can't find the fit somewhere in those three. So I mean that's how we think about it, and it is 
+disciplined, and we have debates about them. And sometimes we – we often say no. That's how we think about it. 
+
+<Q - Colin Gillis>: There aren't ample deals that you walk away from just because of the purchase price at the end of 
+the day? 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Yes, we do. 
+
+<Q - Colin Gillis>: Jonathan, while I've got you on the line, can you just talk a little bit about or help us frame how 
+additive are mobile searches? Is there a rate of search growth you can share for users across all devices maybe tied to 
+the same log-in? 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: I don't actually have any data. But 
+intuitively, I think that they are additive because think about it this way. When you're at your desktop, if you have your 
+PC at your desktop and your mobile phone, you're not going to do the search on your mobile phone. So almost all 
+searches that you were otherwise doing on your desktop, I think you're still going to do on your desktop. 
+
+
+On the other hand, there are times when you are out with your mobile phone and you didn't have your desktop device. 
+And obviously those are by definition incremental unless of course in theory you'd remember to go back and do that 
+search when you came back to your desktop. But I don't think that there's much evidence that that's the case. I think the 
+vast majority of them are incremental. 
+
+I think there are also slightly different usage patterns across desktop and mobile. You tend to see more use of the 
+mobile devices on weekends, which is not surprising. But I don't actually have any more specific data that proves those 
+observations or that hypothesis. 
+
+<Q - Colin Gillis>: But I'd imagine those curves, including the transaction curves, ultimately bend towards each other 
+over time. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: I guess I don't understand exactly what 
+you're saying. 
+
+<Q - Colin Gillis>: Our mobile usage and the way we use our mobile, especially as we get more broader bandwidth, 
+you've talked about your 4G connections. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: Sure. 
+
+<Q - Colin Gillis>: And our desktop usage. Ultimately there shouldn't be much difference between the two of them 
+over time. 
+
+<A - Jonathan Rosenberg, Senior Vice President, Product Management>: I think the mobile usage will grow and 
+in many ways will be incremental because you'll be able to do a lot more when you're out in the field. For example, 
+being able to within a store scan a bar code with your smartphone, look at the price on the shelf, and determine whether 
+or not you actually would prefer to consummate the transaction through a web-based alternative, and then 
+automatically complete the transaction is the kind of thing that's all going be incremental. And I think as these devices 
+are able to do more of that, people are going to do it. 
+
+<Q - Colin Gillis>: Good, makes sense. Thank you. 
+
+<A - Jane Penner, Investor Relations>: Next question, please. 
+
+Operator 
+
+And we'll go next to Heath Terry from FBR Capital Markets. 
+
+<Q - Heath Terry>: Great, thanks. Patrick, in looking at YouTube beyond views, it's obvious that the majority of 
+those views still aren't being monetized in any way. What's standing in the way of more monetization of this inventory, 
+which for the most part still seems to be the user-generated content side of things? How significant is it, and does the 
+Viacom ruling change your ability to monetize that inventory? 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: I'm going to let Nikesh give you the 
+high level answer, and then I'll circle back on the Viacom specifically. 
+
+<A - Nikesh Arora>: Okay, I'm going to let Patrick talk about the Viacom stuff. You have to understand first of all, 
+YouTube is five years old, right? So this is a phenomenon that has been created over the last five years. 
+
+We looked at YouTube and we monetize it many different ways. We monetize the home page of YouTube. We 
+monetize more watch pages on YouTube. We do promotional videos, and we're looking at various new ways of looking 
+at how we can put ads into content. Part of the process that has been going on is we have to continue to free up more 
+and more inventory for it to be available for us to advertise on. We've done a lot of deals recently where there were 
+music societies around the world in various countries in the world where we are getting permissions to be able to show 
+advertising in those places which allow us to create more inventory. That's the inventory side of things. And we believe 
+we're on a good path to continue to create more and more available inventory. 
+
+
+In addition to the inventory side, we have to now keep getting advertisers to start giving us quality video advertising 
+which can be put into YouTube. My view on this is that we're in the very, very early stages of video advertising 
+because what advertisers do, they will supply us a video ad that they've created for television and they will stick it on 
+YouTube. 
+
+Now if you understand, YouTube allows you two more things which television does not. It allows you to interact with 
+the ad, which TV does not. And most of the video ads so far are not interactive, so they expect as that begins to happen, 
+people will start creating more and more interactivity. The second thing it allows you to do is it allows you to create 
+something for you, personalization. The ad your grandmother sees and I see and my daughter sees need not necessarily 
+be the same ad for anything. 
+
+So both those features we think will come into play more and more on the advertising side. So as we get more 
+personalization, more interactivity, as we get more inventory clarified for YouTube, we think that it's going to create 
+more monetization opportunities. And you couple that with the previous conversation around display and the ability to 
+buy audiences, now this provides the icing of the cake as this thing goes forward. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: On my side, look, on the issue of 
+Viacom, we're still on the appeal side. I don't want to comment on specifics. What I can say is two things. Obviously 
+with more clarity from this judgment, it gives us more room for experimentation that we didn't have before because 
+until these rules are clear, you don't know exactly where the bar is. And with that clear bar, we now have much more 
+room for experimentation. 
+
+And then just to comment on if there was ever a great illustration of Nikesh's point a minute ago, just look in the last 
+few weeks about the Old Spice experiment on YouTube. And if you have not tried that, just go on YouTube and check 
+Old Spice about the interactivity of Twitter, Facebook, YouTube, and advertising. It's just absolutely phenomenal. It 
+just gives you a glimpse of where the world is going, and it tells you again about we're just scratching the surface. 
+
+<Q - Heath Terry>: Great, thank you. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: Thank you. We'll go to the next 
+question. 
+
+<A - Jane Penner, Investor Relations>: Yes, operator, we have time for one more question. 
+
+Operator 
+
+And we'll take our final question from Richard Fetyko from Merriman & Company. 
+
+<Q - Richard Fetyko>: Thanks, guys. If you break down the components of your display strategy and revenue 
+streams, how would you rank the revenue opportunity of each between YouTube, AdSense, display, network, and the 
+Ad Exchange in the long term? 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: I'll let Nikesh answer it. 
+
+<A - Nikesh Arora>: I think it's very important to understand that all of these things work to complement each other. 
+The Ad Exchange allows a buyer to buy across multiple networks. Without Ad Exchange, it makes it very inefficient 
+for advertising to be bought, and therefore the pie is not going to grow as fast now. So you want to make sure you can 
+create some consistency and standardization in the way display advertising is being bought if you want to take the big 
+TV dollars to start coming into display as they have been in the early years. 
+
+I think the Google Display Network is our ability to prove that we can create a network of our own of multiple 
+publishers and create premium capability for our advertisers to be able to target those publishers. And last but not the 
+least, YouTube becomes our owned and operated property, like us operating google.com our and our Google Network. 
+So clearly the margins on our owned and operated properties are higher, and that allows us to have a premium property 
+
+
+in this space. And it also allows us to accumulate tremendous amounts of content, which we can then offer for 
+advertising. 
+
+All of these three are very relevant to the overall strategy. I'm not trying to prioritize any one over the other but clearly 
+YouTube being able to monetize bringing more TV dollars into YouTube is fantastic. Google Display Network being 
+able to monetize that opportunity across multiple publishers is great. And without AdEx, which is the glue that will 
+bind all these networks together, it is hard to see that industry growing as fast as we'd like to see it grow. 
+
+<A - Patrick Pichette, Senior Vice President and Chief Financial Officer>: If you allow me the CFO answer, these 
+are each and every one of them billions of dollars of revenue opportunities. They're not hundreds of millions. The way 
+we think about it in terms of addressable market, this is already a $20 billion industry that is growing really fast. And so 
+for us, every one of them – and that's why again we continue to invest in the total ecosystem. 
+
+Patrick Pichette, Senior Vice President and Chief Financial Officer 
+
+Listen, we've had – so thank you very much for all of our questions. I want to thank Nikesh and Jonathan again for 
+joining me. I wish to thank every Googler that's on the call listening to us, our engineers, our sales force, our support 
+staff, all these people. Every 90 days, we look at our results and we continue to be so pleased. But it is really the great 
+hard work of all our Googlers. And so from that perspective I just want to give two thumbs up again to the Googlers for 
+a fantastic job over Q2. 
+
+And with that, I'll turn it back over to Connie. I wish you a great summer, everyone, and we'll talk to you in Q3. 
+
+Connie, you can close the call, please. 
+
+Operator 
+
+Thank you. And this concludes today's conference. We thank you for your participation. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2015, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

@@ -1,0 +1,784 @@
+Q2 2007 Earnings Call 
+
+
+Company Participants 
+
+• Lynn A. Tyson, Vice President of Investor Relations and Global Corporate Communications 
+• James M. Schneider, Senior Vice President and Chief Financial Officer 
+• Kevin B. Rollins, President and Chief Executive Officer 
+Other Participants 
+
+• Richard Gardner 
+• Antonio Sacconaghi 
+• Laura Conigliaro 
+• Michael Dell 
+• Harry Blount 
+• Richard Farmer 
+• Benjamin Reitzes 
+• Robert Semple 
+• Chris Whitmore 
+• Andrew Neff 
+• William Fearnley 
+• Louis Miscioscia 
+• Brian Alexander 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon and welcome to the Dell Incorporated second quarter fiscal year 2007 conference call. I would like to 
+inform all participants this call is being recorded at the request of Dell. This broadcast is the copyrighted property of 
+Dell Incorporated. Any rebroadcast of this information in whole or part without the prior written permission of Dell 
+Incorporated is prohibited. As a reminder, Dell is also simulcasting this presentation with slides at 
+www.dell.com/investor. Later we will conduct a question-and-answer session. [Operator Instructions]. 
+
+I would like to turn the call over to Ms. Lynn A. Tyson, Vice President of Investor Relations and Global Corporate 
+Communications. Ms. Tyson, you may begin. 
+
+Lynn A. Tyson, Vice President of Investor Relations and Global Corporate 
+Communications 
+
+Thank you. With me today are Chairman, Michael Dell, who is joining us from China; CEO, Kevin Rollins; and CFO 
+Jim Schneider. Jim will review the second quarter results and then Kevin will follow with his perspective on the market 
+and our strategy, we will then take Q&A, and then Michael will wrap up with some closing thoughts. As the operator 
+said our earnings presentation is available on our website. I encourage you to read this deck for additional financial and 
+operational information. 
+
+
+As a reminder we will host our analyst meeting in New York City beginning with an evening reception on September 
+12 the formal meeting, which will be broadcast live on dell.com is the morning of September 13. Invitations have been 
+sent out via e-mail and space is limited. So please register soon. 
+
+Finally, I would like to remind you that all statements made during this call that relate to future results and events are 
+forward-looking statements that are based on our current expectations. Actual results could differ materially from those 
+projected in the forward-looking statements because of a number of risks and uncertainties which are discussed in our 
+annual and quarterly SEC filings and in the cautionary statement contained in our press release and on our website. 
+
+I would now like to turn the call over to Jim. 
+
+James M. Schneider, Senior Vice President and Chief Financial Officer 
+
+Thanks Lynn. For the second quarter we generated $14.1 billion in revenue, an increase of 5% year-over-year. Units 
+were up 6% and we gained over one point of share sequentially achieving a record 19.3% worldwide. Operating 
+income was $605 million or 4.3% of revenue, which includes $119 million of stock-based compensation. 
+
+We are not pleased with our performance. Kevin will have more to say about our strategy in a moment, but I want to 
+give you some insights into Q2. We priced too aggressive in the face of slowing industry demand and commercial 
+markets worldwide and slower overall demand in Western Europe. In addition, component costs came down less than 
+we anticipated resulting in operating income which was lower than our May expectations on roughly similar revenue. 
+As a result EPS for the quarter finished at $0.22. 
+
+Cash flow from operations was almost $700 million and we ended the quarter with 10.8 billion in cash and 
+investments. Our cash conversion cycle was a negative 40 days. And during the first quarter we spent $1 billion – in the 
+last quarter, we spend $1 billion to repurchase 43 million shares of our stock. 
+
+Turning to products, we continued to unveil new products in client, enterprise, and service solutions that positioned us 
+to exit this year with the most robust product line in our history. In the enterprise, we began shipping our new ninth 
+generation PowerEdge servers with Intel's latest Xeon 5100 series processors late in the quarter. These systems deliver 
+152% performance increase over the previous generation and can lower power consumption by up to 25%. In addition, 
+we previously announced we will be using AMD Opteron in our PowerEdge multiprocessor servers and today we 
+announced the addition of AMD to our two-socket servers with both shipping later this year. Blade units were up 36% 
+year-over-year. We began shipping our new PowerEdge 1955 blade servers, which incorporate an innovative chassis 
+design that optimizes performance and cooling in rack dense environments. 
+
+In storage, revenue was up 36% year-over-year. We had our first full quarter shipping our new Dell/EMC CX midrange 
+storage system and we launched two new Dell network attached storage servers designed on our 9G Platform. As a 
+result, total enterprise revenue which includes servers, storage and the associated services and software and peripherals 
+grew a healthy 11%. 
+
+In enhanced services revenue grew 21% year-over-year. In the quarter, we announced Platinum Plus, our highest ever 
+level of support for customers enterprise data centers. This new service includes performance and system uptime 
+tracking features for managing data centers with initial customers reporting a 30% reduction in resolution time. 
+
+In software and peripherals revenue grew 10%. Within this segment total imaging revenue was up 5% year-over-year 
+with total consumables growth of 46%. 
+
+Total laser revenue was up 34% year-over-year and we launched our third generation of laser printers including six new 
+color, multifunction and mono lasers. The flagship product is a new 3110cn. This printer is three times faster than its 
+predecessor and delivers enterprise level color laser performance at less than half the hardware price of a comparable 
+competitor model with superior cost per page. With this refresh, we also announced our new OpenManage printer 
+software, which gives IT administrators a comprehensive suite of management tools from a single console at no 
+additional cost. 
+
+
+In mobility, revenue was up 8% year-over-year on 22% unit growth. We are a leader in embedded wireless broadband 
+and we finished a major upgrade of our notebook portfolio, including the three pound Latitude D420. The increased 
+security, connectivity, and durability features of these notebooks reflect extensive input received from customers and 
+our mainstream Inspiron E1505, recently received the Best Buy Award from consumer reports, citing multimedia 
+features at a competitive price. Additionally the E1505 along with the XPS M1210 were both selected as top-ten 
+back-to-school systems by Laptop magazine. These new systems including our new dual-core notebooks are seeing 
+great acceptance and we will enhance this lineup in the third quarter with Intel's new energy efficient Merom processor. 
+
+In the regions, results were led by strong growth in Asia-Pacific and emerging markets in the Americas. In 
+Asia-Pacific, where customers continue to embrace the advantages of the direct model, we had 17% revenue growth 
+and 27% unit growth almost triple the rate of the industry excluding Dell. This allowed us to move into the number two 
+position in the region with over 11% share, up one percentage point year-over-year. China revenue growth was 31% 
+year-over-year with units growing 37% and we expect to move into the number one share position in servers with 
+almost 26% share. In India, revenue grew 63% year-over-year on 82% unit growth. For the quarter, we expect to gain 
+about two share points overall and four points in notebooks. In Japan, the overall market declined 2%, we grew units 
+15%. We are now in the number two position overall with 16% share and we expect to be number one in all business 
+segments. 
+
+In Europe, revenue was up 3% year-over-year on unit growth of 6%. We gained 50 basis points of share year-over-year 
+in the total region including the Middle East and Africa. Western Europe was a more focused example of our global 
+profit performance this quarter. Industry unit growth has decelerated from 16% in calendar 2005, 1% in Q2 with 
+industry revenue contracting both sequentially and year-over-year. We price aggressively to grow the business with the 
+resulting significant adverse impact to our results. Against this backdrop we grew faster than the broader market and 
+believe we took share in commercial accounts where the industry experienced the biggest slow down. In the UK we 
+gained over one-percentage-point year-over-year extending our leading share position to 29.3%, and in Germany our 
+share grew almost two percentage points to 12.6%. 
+
+Turning to the Americas business unit, revenue was up 3% year-over-year led by growth in the Americas international 
+segment which was up 29% and is on an almost $4 billion run rate. Within America's international, Latin America 
+revenue grew 45% year-over-year with 52% growth in the home and small business segment. In Brazil we grew 
+revenue 58% and finished the quarter number two in overall share and number one in servers where our share has 
+grown 11 percentage points year-over-year to 41%. 
+
+In the US which is a large and important market for Dell we grew revenue 1% year-over-year and 3% sequentially, 
+taking share in a soft market. According to industry analysts we gained almost 2 points of share overall. In public we 
+also took significant share and announced a customer win with the Commonwealth of Kentucky worth up to $100 
+million. 
+
+Before I make some comments about the third quarter and turn it over to Kevin, I want you to know that in August 
+2005 we received notice from the US Securities and Exchange Commission that it was conducting an informal 
+investigation of the company. The notice stated that the investigation is not an indication that any violations of law 
+have occurred. The SEC has requested information relating to revenue recognition and other accounting and financial 
+reporting matters for certain past fiscal years, and Dell has been co-operating. 
+
+In the course of responding to the request we recently discovered information that raises potential issues relating to 
+certain periods prior to fiscal 2006. While we do not believe that these issues have had or will have any material impact 
+on our financial position or our reported results of operations for the relevant years, our audit committee upon the 
+recommendation of management has initiated an independent investigation. We're committed to addressing any 
+questions, concerns or issues the SEC or the audit committee may have. 
+
+Now with respect to the third quarter I would like to discuss a few items we believe are relevant to focus on in order to 
+gauge our progress. The addition of AMD on Dimension desktops and 2-way PowerEdge servers will give us 
+additional product breadth and cause visibility as we move through the third and fourth quarters. We're also excited 
+about the new processors from Intel including their Xeon 5100, Core 2 Duo for desktops and Merom for notebooks. 
+
+
+We continue to take share worldwide, particularly in strategic regions and customer segments and we intend to balance 
+revenue growth with profitability. We are making solid improvements in our customer experience, but ongoing 
+investments will put pressure on operating expenses. And finally, we believe industry demand will decline modestly 
+over the longer-term. In addition, we expect to spend about $1 billion for share repurchase in this coming quarter. 
+Lastly, as I've mentioned before, a majority of our cash is outside the United States. This is typical for companies like 
+Dell who are generating increasing profits internationally. Since repatriating does have an economic impact, we will 
+likely borrow in Q3 to augment our liquidity. 
+
+Now, let me turn it over to Kevin for a more detailed discussion of our strategy. 
+
+Kevin B. Rollins, President and Chief Executive Officer 
+
+Thanks, Jim. I would like to touch on three points in my comments today: our view on worldwide industry growth and 
+consolidation, our cost position and what we're doing to improve it, and our progress in the area of customer support 
+and service. We're seeing early indicators of our actions and that they're working. But before I go there let me reflect on 
+the quarter. 
+
+We're clearly disappointed with our financial results. For the next quarter and the foreseeable future, we will continue 
+to balance our revenue growth and profits without giving up share. In our relationship account, we are more closely 
+monitoring our list and bid pricing, and in consumer we're simplifying our pricing and our promotion structures. We 
+can do better, we know that. In the quarter, we did make considerable gains, however, regarding share. We gained 
+share worldwide and achieved an industry leading record global share of 19.3%. We moved into the number two 
+position both in Japan and for the Asia-Pacific region in total. And we saw exceptionally strong unit growth in 
+emerging markets like China, Brazil, and India where customers have a strong preference for standards-based 
+technology and our direct model. 
+
+This is all happening in a time when the industry is slowing modestly with worldwide unit growth down from 18% in 
+the second quarter of 2005 to 9% in the second quarter of this year. Western Europe is following a similar pattern with 
+even more deceleration. Historically, Dell has fared far better than our competitors in such periods of industry 
+moderation and consolidation. Since 2000, we have gained almost 8 points of share worldwide and 15 points of share 
+in the US while competitors have undergone significant changes including mergers, acquisitions, restructuring, and 
+share loss. 
+
+Next, improving our cost position is critical, and we are on track to drive more than $3 billion of cost improvement this 
+year. This includes lower component cost, structural material cost, product transformation and warranty cost which are 
+back-end-loaded into the year. Today we took a step forward in this effort with the addition of AMD desktop 
+processors for consumers, which will be available in September. And we announced Opteron 2-socket servers for the 
+enterprise, which we will introduce later this year. 
+
+Finally, given the importance of the customer experience, we have taken bold steps. And we are seeing a turnaround 
+because of the improvements we have seen. We have decided to go beyond our initial investment of 100 million, and 
+now expect to spend a 150 million this year on improving service and support. And we're seeing clear signs of a 
+successful turnaround. For example, consumer hold times have been reduced by 50%. Call transfers have been reduced 
+by 33%. And satisfaction rates are up 20% this year. Our likely to repurchase data, registered its highest results for the 
+past six quarters, with a 6.5% increase for business customers and a 5% gain for consumers. 
+
+And DellConnect, our new remote diagnostic tool, designed to significantly improve resolution of technical tissues, has 
+now been used by over one million customers, with a 94% satisfaction rate; unheard of in our industry. More 
+importantly, our customers are acknowledging our progress. Dell's, scores in the annual University of Michigan, 
+American Consumer Satisfaction Index, improved 2.5 points year-over-year, our highest scores since 2004. And results 
+of the Investor's Business Daily, US home computer purchase outlook index, showed Dell was the preferred brand, for 
+50% of likely computer buyers in the July poll, versus 41% in the June poll. And that's against 12 % for our nearest 
+
+
+competitor. And among light lead, notebook PC wires, Dell was the number one choice for 60% of respondents, which 
+is the highest score for Dell in nearly 3 years. 
+
+Overall, we are seeing encouraging trends. Our gains in share around the world in key markets, our turnaround in 
+customer experience, and our moves to broaden our product line and improve our cost position. For our shareholders, 
+we are committed to driving industry leading profitable growth over the long-term. Profits fuel cash and cash returns. 
+For Dell, the current environment we believe plays to our strengths. We would now like to turn it over to the operator 
+for questions, and then Michael will close with a few comments. 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions]. And we will take our first question from Richard Gardner, with Citigroup. 
+
+<Q - Richard Gardner>: Okay. Thank you very much. You made mention of pricing too aggressively in the quarter, 
+in a decelerating demand environment. You also, made mention several times of balancing revenue growth and 
+profitability. I'm just wondering if that means that pricing and margins are going to rebound in the third quarter and 
+beyond? Or I was hoping you could give us a little more detail on exactly what you're doing with pricing here, on a 
+go-forward basis? 
+
+<A - Kevin Rollins>: Richard, this is Kevin. I will talk a little bit about, the pricing strategies. Real clear on this, we 
+don't think we did a good job of that in the Q2 timeframe. We were overly aggressive in the marketplace – in a slowing 
+marketplace, and in a situation where component prices didn't come down as we had thought, so we had a margin 
+squeeze. In the future, we're going to be a bit more circumspect on our pricing strategy, more careful. However, we are 
+not backing off and moving into a margin harvesting and loss of share situation. We're going to continue to gain share 
+but we're going to do it I think a bit more thoughtfully and more carefully and we're doing that through more 
+circumspect review of list pricing moves, of bid pricing, and on the consumer side as I mentioned doing that with better 
+promotional control and review of our advertising expenditures on pricing. 
+
+<Q - Richard Gardner>: And Kevin, just one other follow-up. Could you confirm that there was no impact from a 
+precipitous or sharp decrease in Intel co-marketing dollars on the gross margin in the quarter? Was this all related to 
+pricing and component cost, or was there some other costs, like warranty or loss of co-marketing dollars, that also 
+contributed to the sharp drop in gross margin in the quarter? 
+
+<A - Kevin Rollins>: Well Richard, we would probably not communicate anything on that. It is proprietary. We do 
+believe that component prices did not come down as we had anticipated, but we wouldn't comment on any of our 
+agreements with suppliers. 
+
+<Q - Richard Gardner>: Okay, thank you. 
+
+Operator 
+
+And your next question comes from the line of Toni Sacconaghi with Sanford Bernstein. 
+
+<Q - Antonio Sacconaghi>: Yes, thank you. I have two questions please. Kevin, in the current quarter it does appear 
+as though Dell lost share. It grew units at 6%. The market, by your own admission, grew at 9%. So you lost share 
+despite very aggressive pricing. So going forward, how do we think about pricing? You've said you don't want to lose 
+share, yet you priced very aggressively this quarter and you lost share. Do you expect the component environment to 
+change dramatically next quarter and that is going to explain the difference in terms of your ability to retain share 
+despite less aggressive pricing, or how do we think about that? And I have a follow-up please. 
+
+
+<A - Kevin Rollins>: Sure. Toni, I don't think we did lose share. I think if you use your 9% number and you compare 
+that to what was going on – those are IDC numbers – we actually grew faster than that according to IDC in their 
+calendar quarter. And so if you look really at their share estimations, as well as Gartner's, we basically held share in the 
+US. We gained share according to Gartner quarter-on-quarter by almost 2 points. And we clearly gained share in 
+Europe and Asia, and moved into the number two position in Asia-Pacific. 
+
+<A - James Schneider>: Toni, this is the same. This is Jim. This is the same conversation we have, seems like almost 
+every quarter where you've got this mix between the calendar quarter and our fiscal quarter. A quarter or so ago I think 
+it was the opposite. We had reported a lot higher revenue, you know, unit growth than the market growth. It depends on 
+what month and how the seasonality is for us whether you add – this time you are backing out one calendar quarter and 
+you're adding in our July, and it changes. So it is really hard to sort of do that. So we only have market data for the 
+calendar period that has been presented. And we're shown to have taken share. I don't think – you can't extrapolate that 
+and say, oh, yeah, then you only have 6, so July must have been bad, because this happens all the time. 
+
+<Q - Antonio Sacconaghi>: Just to follow-up on that, I think the market share gains were something like 10 basis 
+points from Gartner, and certainly less than 50 basis points somewhere else, so, this is --? 
+
+<A - Kevin Rollins>: That's in the US. 
+
+<A - James Schneider>: Let me add – Toni, let me just – one thing just probably further on, because I know we will 
+have some of the same questions on growth and margins as well. I just want to interject further on to what Kevin said. I 
+think if you look at the market, and I will give you an example like the large corporates in the United States, and public, 
+and markets that are big for us and very important to us, we actually took a reasonable amount of share without really 
+any growth. So those markets that we view as the most attractive markets in this last quarter had very little growth. I 
+think that has been part of it. 
+
+In some of those markets, if you take the end of last quarter, we said that we would price aggressively, but selectively. 
+So, I think we were more conservative in terms of how we approached some of the consumer markets for instance 
+which are less important to us profitability wise. And we were a little bit more aggressive in places like Europe where 
+we'd like to continue to increase our share presence. And in some of those markets there was very little growth and 
+that's where we are pricing a little bit more aggressively to enhance our position there and some of that just didn't give 
+us the elasticity because the markets were weak and we suffered profitability wise. But if you look at most of the share 
+data where you will see some of the declines, it's really more in US consumer and some of that is intentional by us. 
+
+<Q - Antonio Sacconaghi>: Now, just switching topics if I may. One of the most startling numbers in your press 
+release was your change in head count, which is up about 14,000 people over the last year that's 22%; the revenues 
+grew 5% year-over-year. Can you talk about how this dramatic increase in head count jibes with your notion of 
+accelerating your cost initiatives? And secondly, can you comment about what all these people are actually doing and 
+where they appear on the income statement from a cost perspective? 
+
+<A - Kevin Rollins>: Sure, Toni. If you look at the year-on-year versus its quarter-on-quarter we have been making 
+continued strides in moving from outsourcers into in-house. And so, you're seeing that going out into our numbers now. 
+If they were an outsourced number it would not have been in head count, it's now moving into Dell. And so, that's a 
+conscious effort, which shows in head count numbers. 
+
+Secondly, we are hiring more as we talked about spending the $100 million to correct this service and support issue, 
+which is now turned around. The money has proven to be well spent and so we're going to accelerate it. I think though 
+as you go forward and look now on quarter-on-quarter numbers we're going to see that head count number come back 
+in line. But we were not shy about adding the heads to make sure our CE, or customer experience, got fixed and got 
+fixed fast. And we're very happy with looking at the reports now that it is this improving. 
+
+<A - James Schneider>: Yes, I just want to clarify this because we've always reported our head count and we've talked 
+about this in some prior periods. We've always reported our head count on who is Dell badged. And we've always had 
+overflow capacity using some temps and outsourcers and I think over the last couple of years when we grew more in 
+particular in a transactional space we used more of those people. So, they've always been in the P&L but you don't see 
+
+
+the head count. As we're working to improve our customer experience we've actually converted more of those heads to 
+Dell badged. So, you're seeing some additional costs as we put more emphasis on resolution and customer satisfaction. 
+You're seeing more cost but you're also seeing a lot more heads because we're converting people to Dell badge. 
+
+<Q - Antonio Sacconaghi>: If you could maybe just clarify and then I'll get off. It's just – I think you'd said customer 
+service you'd be looking at 2,000 people. Again there have been 14,000 people added over the last year. Can you help 
+us understand if they were big pockets of outsourcing specifically what they were, was bringing some form of IT 
+outsourcing in-house at 6 or 7000 people. But I think the numbers you've talked about for customer service are much 
+smaller than the 14,000 net adds. I'm just trying to get a better example of where some of the big pockets of addition 
+have been? 
+
+<A - Kevin Rollins>: Yes, 2,000 was really net hires that we made, but part of the 14,000 was conversion of temps and 
+outsourcers into Dell badge. We also Toni have grown revenues at least this quarter of 5%, so some of it is just growth 
+and investment in overall services and support areas and in general head count. Like I said I don't think you're going to 
+see, after this settles out a year, the head count growth that will be as dramatic as it has been year-on-year. And you will 
+be better served by watching quarter-on-quarter. We are very cognizant of the head count, we know that drives OpEx. 
+But we're going to make the necessary investments for CE and start to managing our head count much more closely to 
+revenue on a quarter-on-quarter basis. 
+
+<Q - Antonio Sacconaghi>: Thank you. 
+
+Operator 
+
+And your next question comes from the line of Laura Conigliaro with Goldman Sachs. 
+
+<Q - Laura Conigliaro>: Yes. A question first on the component side. You talked about component pricing not being 
+as aggressive as you expected. And maybe you can give us more detail about that because certainly – first of all it 
+seemed from Hewlett-Packard's comments that they actually cited pretty aggressive component pricing, as well as from 
+the market itself where we saw component pricing dropping in certain very key important components for PCs. And 
+then in your slides, you refer to the fact that you're thinking about lower component costs basically back-end loaded 
+into the year. Apart from AMD, where I presume you have a low component cost element there, can you talk to us 
+about where you would expect lower component cost and to what extent that makes the commentary about your view 
+of sort of normal seasonality or maybe there not being normal seasonality? 
+
+<A - Kevin Rollins>: I will make a quick comment, and I will turn it over to Michael to say a few things on this too. 
+The CPU or processing areas is a big one and so we believe that offering a multiple of product lines, choice for 
+consumers and for our corporate server customers, along with technology, will be a big issue and it will be very 
+important for us. With the other commodities there are puts and takes here and there that we think we will be positive, 
+and let me turn over to Michael who can maybe comment on those. 
+
+<A - Michael Dell>: Yes. The processors as were mentioned is a significant one and I think we have been 
+systematically adding products in a way that's going to provide significant benefit there in our cost. We are also 
+undergoing a kind of full reexamination of all of our procurement and supply chain practices to look for new 
+opportunities. The process that we have had for the last several years has generally worked quite well, although we 
+have reached a share point and a critical mass where we're seeing some new things. I am not quite ready to talk about it 
+yet but we are exploring all sorts of ways to accelerate new releases in cost improvement. 
+
+<Q - Laura Conigliaro>: Can I follow up please? Again, can we go back to where were components not as aggressive 
+as you expected, which components? And again which components do you think are going to tighten up in the back 
+half of the year, or are going to get even more aggressive in line with your I guess your lower component comment? 
+
+<A - Kevin Rollins>: Laura, I don't think we can share that with you because that is proprietary information in terms of 
+deals we cut and places we are negotiating. And as Michael mentioned there is new methodologies. So I am afraid we 
+are going to have to beg off on that. I think we have told you about some key ones, but you've got other issues 
+
+
+surrounding flat panels, big categories of storage, big categories of memory. And those are all areas that you would 
+imagine we would focus on doing it with new methodologies. 
+
+<Q - Laura Conigliaro>: You have told us in the past roughly the percentage that you saw component costs down. 
+Can you give us a sense of that? And I guess the one other follow-up question, which is to the extent that you expect 
+component costs to come down more in the second half of the year, what kind of comment is that, what kind of 
+message should we be taking from that about how you think demand is going to be in the second half of the year 
+because typically they go hand-in-hand? 
+
+<A - Kevin Rollins>: Yes. I think to some extent they do. We do see that there has been a slowdown as we have talked 
+about from 18% last year to 9. So we are seeing an actual showdown in the unit growth worldwide. We talked about 
+Europe being slower, so we would anticipate there will be a continued moderation of growth, it's not going to be 
+precipitous, but it will moderate for all of these macroeconomic reasons you and we see every single day. But in terms 
+of each of the components you're going to see – it really is based on some proprietary arrangements we have, capacity 
+that's being built into the industry already, and then shifts in what that capacity is used for. Again I am afraid we're not 
+going to be able to share with you all of the things that we're doing and knowing there other than to let you know that 
+we're very focused on component cost as well as general, what we call structural materials, the materials we put into 
+every system as key enablers in the back half of the year. 
+
+<A - James Schneider>: But partly to your question, Laura, we've tended to talk about what a basket of costs looks to 
+us quarter-to-quarter and we've talked about cost reductions moderating in the prior quarters and in this past Q2 it was 
+lower than it had been in the prior couple of quarters. And while I think we are expecting it to improve, it would still be 
+at a moderate level but this was – I'd say from a cost reduction standpoint, it was certainly not what we anticipated. 
+
+<A - Kevin Rollins>: And so, Laura, I think the point of all of that is, we don't think that we have been doing a good 
+enough job there in terms of getting the component cost. So, the history and the data we have given you is not good 
+enough. 
+
+<Q - Laura Conigliaro>: But is my assumption about the second half is correct, that is if you are anticipating lower 
+component costs, that that goes hand-in-hand with your view that we won't get – you think we won't get a rebound in 
+second-half demand? 
+
+<A - Kevin Rollins>: No. I don't think we have said that there is not going to be reasonable – there is always bit of an 
+up tick in the past half of the year, we just don't think it's going to be maybe as big as it has been, but that's about all we 
+can tell you. 
+
+<Q - Laura Conigliaro>: Thank you. 
+
+Operator 
+
+And your next question comes from the line of Harry Blount with Lehman Brothers. 
+
+<Q - Harry Blount>: Hi guys. I want to come back to the comment on balancing growth and profitability. Should we 
+take that to mean that we should start to see profitability bottom out with this quarter and effectively start improving 
+from here on out? And secondly, relating to the balancing on the pricing side of the equation. I think this is maybe the 
+fourth or the fifth quarter where we have heard about you guys not quite executing as crisply on pricing relative to 
+marketplace and elasticity as you would have liked. And I guess the question is why should we believe that the actions 
+you're taking now are going to be any better than the actions you have taken in prior quarters? 
+
+<A - Kevin Rollins>: Well, a couple of thoughts on that and you're right, we haven't done a very good job on having 
+forecasting visibility, a lot of that I believe has been because our visibility on component costs hasn't been very good. 
+And so, as Mike alluded to we've got to do a better job of understanding costs in order to predict price, profitability, 
+and then elasticity, and that's what we're working on now. On the cost side we alluded to the things – or excuse me, on 
+the pricing side we alluded to a number of things that we found in the quarter where we felt we had miss-steps in overly 
+
+
+aggressively pricing and therefore leaving margin on the table when we could have probably and not had the margin 
+squeeze that we had and those we're going to correct. They are methodological within the company both in the 
+corporate sector as well as moving off of the pricing only strategy in the consumer business in the US, which has not 
+been very effective, and we're seeing signs of improvement there. But, those are the initiatives that we're going to 
+undertake to try to develop better visibility. 
+
+<Q - Harry Blount>: And what about on the profitability side of the equation, at what point do we start seeing margins 
+stabilize and even start improving on a normalized basis? 
+
+<A - Kevin Rollins>: Harry we're not giving guidance and that would be in the form of guidance so, I'll have to pass 
+on that. 
+
+<Q - Harry Blount>: Thank you. 
+
+Operator 
+
+And your next question comes from the line of Richard Farmer with Merrill Lynch. 
+
+<Q - Richard Farmer>: Thank you. Jim and Kevin first on the SEC informal investigation, I think you said August 
+2005, is that date accurate and if it is, why did you wait a year before disclosing it? What is different today versus a 
+year ago, but more importantly what are the issues that are being looked at in your revenue recognition either by the 
+SEC or by the internal group that you have had look at it? 
+
+And then secondly, on the AMD ramp – before you had decided to support the AMD platform one of the reasons you 
+had given for not doing it was the cost of supporting the second platform, now that you are ramping on AMD how 
+much incremental cost is that causing you to incur and how much does that explain some of the margin performance 
+that we saw in the quarter? 
+
+<A - Kevin Rollins>: On the investigation, when you put it in the right context I mean an informal investigation really 
+starts out as a letter from the SEC just requesting some information from you. At the time we got it, it seemed like we 
+would respond to the information. There was really no reason to disclose it at that time and in fact what I understand, 
+there is hundreds if not more of such "investigations" started each year by the SEC and the vast majority are not 
+disclosed because you really have a dialogue process on some issue they want information on. 
+
+So, this has gone on in a deliberate process for about a year and – which we put in the press release, and in the course 
+of researching some matters related to a request from them very recently here we uncovered a couple things – a couple 
+of issues going back prior to fiscal 2006 that we felt warranted additional look and we decided rather than just 
+management doing it we would have an investigation done by our audit committee. But, in any event we would have 
+probably got – as this goes on and more people get involved internally it is really a matter of – we're not trying to 
+necessarily keep this a secret from people but the longer something like this goes on we felt like we should disclose it 
+publicly. Again, I don't believe that the issues that are under investigation right now should cause any material change 
+to our financial position or our results of operations for the years under question. 
+
+<Q - Richard Farmer>: If I could just follow-up on that, just qualitatively what are the issues? Is it something to do 
+with services recognition or can you just help us understand topically what you're looking at, understanding that you 
+don't expect it to be material when you finish the process? 
+
+<A - Kevin Rollins>: I really can't – I really can't comment on that since it is under investigation and at the appropriate 
+point we will let you know more. 
+
+<A - Michael Dell>: On the AMD part of your question, there are some startup costs involved. We have been pretty 
+thoughtful about this in terms of our architecture and different platforms that we are introducing and believe that those 
+will be paid back very, very quickly given the nature of this thing. So, some startup costs but absolutely the right thing 
+to do. 
+
+
+<Q - Richard Farmer>: But you wouldn't characterize those startup costs as being one of the major drivers in what 
+caused you to have the significant change in your margins in the quarter? 
+
+<A - Michael Dell>: No. There is some OpEx associated with that but it is certainly not a margin driver in the second 
+quarter. 
+
+<Q - Richard Farmer>: Okay, thanks. 
+
+<A - Kevin Rollins>: It's really not margin, it is one of operating expense. 
+
+<Q - Richard Farmer>: I should say on the operating EBIT line, is the change in your EBIT margins significantly 
+driven by that or is that really not an issue from your point of view? 
+
+<A - Michael Dell>: No. 
+
+<A - Kevin Rollins>: No, it's not. But you would imagine, we didn't develop these yesterday. 
+
+<A - Michael Dell>: It certainly contributes. 
+
+<Q - Richard Farmer>: Okay, thank you. 
+
+Operator 
+
+And your next question comes from the line of Ben Reitzes with UBS. 
+
+<Q - Benjamin Reitzes>: Yes, good afternoon. I've got a question and a few follow-ups here. I want to understand 
+why you need to borrow next quarter? And what is going on with the cash flow? From what I understand, you have a 
+Malaysian entity which has lower taxes. You get your notebooks through there, as well as probably some of your 
+APAC business as well as [inaudible]. Is there a major change now in your model in that a lot of profits and revenue 
+are coming through Asia, and with notebooks and you actually now need to borrow to fund your business? Can you 
+explain what's going on there? I am confused. 
+
+<A - James Schneider>: It all has to do with tax which we have pretty clearly disclosed in our financial statements, 
+that cash that's – or profits that are earned offshore, we consider permanently reinvested offshore. So, to repatriate those 
+profits, you would pay a US tax on that net of a foreign tax credit. We could repatriate profits; it would have some tax 
+cost to us. We had a one-time window in over a year – a couple of years ago, but that actually reached back further 
+when we were smaller internationally. So we were only able to repatriate so much cash at that time. And since then, we 
+have generated a lot of foreign cash. Think about it, in the last couple of years – in a year, we bought $4 billion of stock 
+back. We didn't generate $4 billion in US income. So, what we did was we ate into all the US income that generated 
+cash and we are left with foreign sourced income. So, if you want to use it for share repurchase, you can, but then you 
+would have to pay a US tax on it, so, we prefer to borrow some money. Part of it is also – it's not just a share 
+repurchase, we're doing more funding with DFS and then intra quarter we can have issues on cash. We could end up by 
+the end of the next quarter, not being in a borrowing situation, but we need to have some liquidity. So, we talked about 
+this even a quarter ago, there isn't anything really new about this disclosure. 
+
+<A - Kevin Rollins>: It is not that unique from what other companies do as well, Ben. 
+
+<Q - Benjamin Reitzes>: Well, I am just saying that you had a major shift where APAC maybe beat expectations. 
+Europe didn't and it seems like the profits of the company obviously have a much different mix than what we thought 
+they would be a few quarters ago. I am just wondering if the capital structure and the pace of repurchases and the 
+capital structure of Dell is changing as a result of these market dynamics that we have seen. Your comments about 
+borrowing seem to be a wake-up call. You guys don't seem to be concerned? 
+
+<A - James Schneider>: Ben, we actually said that last quarter, that we were. So, there is actually nothing new. This is 
+just an update to what we said last quarter. 
+
+
+<Q - Benjamin Reitzes>: All right. All right. And then with regard to the battery recall, can you talk about your efforts 
+there to defuse that situation. We have gotten an e-mail here internally about having to turn in our laptops etcetera 
+potentially and it doesn't seem like – it seems like companies are taking it more seriously than the average recall. Could 
+you talk about, what any – if there is any costs associated with it, that might impact, and if you think it will be a no big 
+deal. I know, financially you're getting reimbursed. So, really I am talking, just in terms of demand. And how you 
+manage that issue? 
+
+<A - Kevin Rollins>: Well, Ben, I don't think we know exactly, what – how the demand will actually play out. What 
+we do believe though is to recall the batteries was the right thing to do. It was – we recalled a lot larger quantity than 
+the specific incidence would normally require, because we are dedicated to customer service and support and we don't 
+want our customers to believe that we will not do the right thing all the time, no matter what the impact. We are getting 
+fairly positive results for that though from the media, from industry analysts, and frankly from customers that are 
+having a lot of trust in us doing the right thing. 
+
+For corporations, we are working with each of the companies that we sell to, on a plan for how they will change their 
+batteries out. Some will do it in a centralized fashion. Some we will distribute to multiple locations. But that plan, as 
+you might imagine takes a little bit of time for us to work out with each one of them. But, we are dedicated to taking 
+these batteries off the market as fast as possible and have acquired enough capacity and replacements that we can do 
+that in a timely fashion. 
+
+<Q - Benjamin Reitzes>: Jim, can you confirm also was Alienware about 50 million in the quarter in terms of revenue 
+contribution? 
+
+<A - James Schneider>: Not on the exact amount. Actually Ben, we just started their consolidated during this quarter. 
+But it is relatively small. 
+
+<Q - Benjamin Reitzes>: Thank you. 
+
+Operator 
+
+And your next question comes from the line of Rob Semple, with Credit Suisse. 
+
+<Q - Robert Semple>: Thanks guys. I could understand not wanting to cede any share and potentially waiting to 
+harvest some of the profitability and margin down the road, but at what point is the incremental market share that 
+you're going after just not worth it? It would seem that it has at least been highly dilutive to date, and does it really 
+make sense to try to grow in this environment? Your core market you know being PCs and servers, at least from a 
+revenue perspective isn't really doing the whole lot in terms of growth. I was just trying to figure out, if it really is 
+worth it to go after that incremental share? 
+
+<A - James Schneider>: Well, I guess the question is; what do you mean by incremental share? I think we were pretty 
+clear stating that we wanted to hold or gain share. We are not suggesting we're going after 3x the market growth rate, 
+Rob. 
+
+<Q - Robert Semple>: Okay. And then I guess – in terms of your core market, US corporate. And how would you 
+characterize that market in terms of underlying demand in the quarter? Was it is worse than expected, and what is your 
+outlook going forward? 
+
+<A - James Schneider>: Yes. I think that the market was again healthy if you look at the growth rates as discussed by 
+IDC, but they have been slowing. It has been slowing in the US as well. So, I think that you're seeing a modest decline 
+in the growth rate that's going on. You have seen pockets of growth; notebooks grew 22% for us this quarter. That's 
+been a very hot market for us. It's been moving up. Desktops are declining or a slower market for us. I think that's – 
+you're seeing kind of-- in the midst of a overall slowing some good things, and some slower things. 
+
+<Q - Robert Semple>: Okay. Thanks. 
+
+
+Operator 
+
+And your next question is from the line of Chris Whitmore, with Deutsche Bank. 
+
+<Q - Chris Whitmore>: Hi, thanks. Good afternoon. In an answer to a previous question you indicated you left some 
+money on the table by being too aggressive on pricing. Is there any way to get a feel for the magnitude of that money 
+on the table – that you left on the table? At what point or under what timeframe do you expect to get that back? 
+
+<A - Kevin Rollins>: I think this comes through changing some of the pricing structures that we have had, and it will 
+kind of come back slowly as we make those moves into the marketplace. We are not in a position to forecast guidance, 
+margin improvements at this point in time but we think that these will be positive moves and that we can do better in 
+terms of margin realization, but still capture some reasonable market share and stay with the market growth rate. 
+
+<Q - Chris Whitmore>: You talked about a cost savings number of about 3 billion for the year, how much of that has 
+been realized? What's on the come in the back half of the fiscal year? And related to the overall cost cutting or 
+cost-savings initiatives; why not restructuring, have you looked at restructuring, does restructuring make sense? 
+
+<A - Kevin Rollins>: We don't think restructuring make sense because we think that the investments we need to make 
+both in our infrastructure and also in our customer experience were postponed too long. Now is the time to make those 
+appropriate investments for building the company long-term. This will be the year when we will be doing that. And so 
+while we drive cost improvements, we also are putting investments back into the company in places like infrastructure, 
+places like customer service and support that will be important for the next five years. 
+
+Operator 
+
+And your next question comes from the line of Andrew Neff with Bear Stearns. 
+
+<Q - Andrew Neff>: Thanks. Just two things if I could. One is if you could talk about the storage side of the business 
+and just that sort of stood out in terms of growth. Was there anything in particular driving that? And secondly, relative 
+to storage, were there any sort of arrangements with – selling arrangements with EMC to direct business to you that 
+EMC would have taken otherwise? 
+
+<A - Kevin Rollins>: Well, I don't think as a main strategy there is that kind of approach at all, Andy. We have a very 
+good relationship with EMC and whenever we work together it is because we think working together will win the 
+business. And so – that is how those decisions are made of whether or not we take revenue, they take revenue; it is how 
+do you win it? What does the customer what us to do? We had a good quarter in overall midrange storage with our 
+CLARiiON business that continues to grow nicely as does the software associated with VMware. This was the first 
+quarter we were really able to bring that full product – new CX product line into the business as there was a transition 
+in the Q1, Q2 timeframe. And so we are very happy with the product line we have now and believe that that's just going 
+to continue to be a very positive story for us as customers continue to need more and more storage. 
+
+<Q - Andrew Neff>: Were there any implication in terms of operating income? Did that track the revenue growth in 
+that side of the business or can you give us any sense about that relative to the other businesses? 
+
+<A - Kevin Rollins>: It's a profitable business for us. The CLARiiON midrange storage is good, but we haven't been 
+breaking out profitability on it, Andy. 
+
+<Q - Andrew Neff>: Okay, thank you. 
+
+Operator 
+
+And your next question comes from the line of Bill Fearnley with FTN Midwest Securities. 
+
+
+<Q - William Fearnley>: Yes, good afternoon. Two questions on the expense side here. How should we be thinking 
+about the operating expense trend going forward? And the reason I asked that is because a number of your initiatives 
+you're starting here; are we seeing a negative effect on the OpEx line because of start-up costs for some of these 
+initiatives which will dissipate over time? Or do you think this is something that's going to be elevated for the 
+near-term as you start up multiple initiatives? And then I have a follow up, thanks. 
+
+<A - Kevin Rollins>: If you actually look at OpEx right now as a percent of revenue, it is higher than it has been in 
+some periods in the past, and I'm talking about this quarter. So, I think some of the investments that we're making will 
+put some pressure on operating expense, and then we hope that over time these investments will pay off, and we will 
+actually be able to take it back down to levels that maybe are closer to what you saw in the past. Again, I think in the 
+near-term though you won't see that. 
+
+Operator 
+
+And your next question comes from line of Louis Miscioscia with Cowen and Company. 
+
+<Q - Louis Miscioscia>: Okay. Thank you. I wanted to ask a question, one of the things that always made Dell very 
+unique was your build to order capabilities in your desktops as the market starts to or continues to shift to notebooks 
+and the Taiwanese are making roughly 75% of the worldwide notebooks, how can you regain the high ground as this 
+secular shift occurs? I have one follow-up. 
+
+<A - Kevin Rollins>: Well, we have been making notebooks for a long time. So that's been part of our overall 
+business. I will invite Michael to comment a little bit more on this one too, but I think it's basically having – improving 
+the design. We have recently launched a whole new line of our corporate desktops, the best in the history of the 
+company and second to none. We have recently launched a number of XPS, mobility and notebook products, which are 
+top of the line and getting awards from PC World and a number of others in terms of their performance, design, and 
+feature set. So, I think really the issue has been one of cost, cost, cost. Well that id still important and we have got our 
+direct model that still delivers great cost. Features and benefits and styling is becoming more important in that space. 
+
+<A - Michael Dell>: Yes, we are the world leader in the notebook market. In the business market, we have about the 
+same share as the number two and number three companies combined in this market. And our competitors are ahead in 
+the consumer space. The business market we think has much better long-term profitability characteristics, but the 
+supply chain that we have for notebooks with our operations in Malaysia we believe delivers solid profitability. 
+Granted, there has been some erosion as competitors have improved their models a bit, but we're still maintaining 
+healthy profits in that business and got a number of strategies that we are investigating to look for breakthroughs to take 
+that even further. 
+
+<Q - Louis Miscioscia>: Okay. Thank you. Then just one quick follow-up on the switch to AMD on the desktops, was 
+it mainly trying to get your cost down or to say it was more so because customers were requesting it? 
+
+<A - Kevin Rollins>: Well, I would say there was a third reason too as we announced with our server product line. I 
+think one of the reasons that we have been possibly slowing down and not gaining the share we had in the server 
+product line is we didn't have all of the products that the customers wanted. Granted the new Woodcrest processors that 
+we're seeing from Intel are very good, they have a good roadmap, we're happy with the technology, but we have been 
+out of the AMD technology market all along the growth of that business. And so, technology is a big one. Customers, 
+obviously, are wanting that technology. So, we listen to them now. And then, the third issue is the overall cost issue and 
+it benefits us and our customers by having multiple suppliers. And so, that's what we're doing. 
+
+Operator 
+
+We will now take our final question from Brian Alexander with Raymond James. 
+
+
+<Q - Brian Alexander>: Yes. Just a couple of questions, you talked about pricing too aggressively several times. I was 
+just wondering; why do you think your competition seemed unaffected or did not notice the pricing actions you took 
+during the quarter? 
+
+<A - Kevin Rollins>: Well, I think part of the reason is we priced in situations where it didn't really affect the 
+competitive environment and so we either did it badly or were too aggressive. And so, I think that has something to do 
+with it but again I think if you look at the overall share gains, we gained share worldwide, we gained share big in 
+Europe and big in Asia, so to some extent elasticity did occur. 
+
+<Q - Brian Alexander>: So, if we just kind of conclude with – I am just trying to better understand how fixable the 
+pricing issues are as I think several of us are. So, how much of the changes that you're making to pricing are related to 
+personnel changes versus philosophical changes in pricing strategy or maybe changes in the systems and tools that you 
+use to monitor pricing on a real-time basis. Is this a case of poor decision-making or lack of the appropriate tools to 
+make the decision? 
+
+<A - Kevin Rollins>: No, I think it's a little more complicated than that. Obviously, margins are driven by prices as 
+well as costs. And so, you have to have both of them to be able to have great visibility and forecasting skills. 
+
+Second thing is, there are methodologies, which work for a number of years, which have allowed us to have pretty 
+good forecasting capability and price prediction, that we don't think work as well and so we're changing those 
+methodologies, they are not philosophies so much as they are methodologies of how you determine the best way to get 
+volume, create demand and get share. And so, we have made some major announcements at least here in the US on 
+changing from our promotion priced focus strategy to much more of an everyday low-price strategy and weaning 
+ourselves off of promotion. That has very positive impact on customers and on our overall profitability. So, that's one 
+methodology change. 
+
+We've got others that are proprietary within our corporate business and within our other segments that we'll be 
+implementing this quarter and in the future. 
+
+<Q - Brian Alexander>: And then just lastly for Jim the share repurchase in the second quarter and the third quarter a 
+billion is the lowest we have seen in five quarters. Yet, the stock price is lower now than it was then. Why not buyback 
+more stock and how much of this is due to the repatriation issue versus maybe just a recalibration of share repurchases 
+due to a lower level of expected cash flow? 
+
+<A - James Schneider>: Well I think if you go back historically we have probably not purchased more than a billion 
+in most quarters. In fact it has been less than that. Then we had a few quarters where we spent more. Yes there is some 
+consideration that some of the cash and liquidity issues – some were just even on the market issues it is not to say that 
+we could not spend more. We usually take this quarter-by-quarter so it is still under consideration Brian. 
+
+<Q - Brian Alexander>: Thank you. 
+
+Operator 
+
+And we will now turn the call over to Mr. Dell for closing remarks 
+
+Michael S. Dell, Chairman 
+
+All right, thank you everyone for joining us today. While we had – we gained share in the key markets worldwide and 
+achieved record market share of 19.3% this quarter, we're not satisfied with our performance and we will do better. 
+We're focused on dramatic improvements in customer service and support. We announced today that we are expanding 
+our investments in this area and we're seeing solid progress. Lastly, we're focused on improving our cost position and 
+product leadership. Our announcements today are another step in that direction and increase our belief that we will exit 
+this year with the most technically advanced product line in our history. Kevin, Jim and I are confident that we're 
+
+
+making the right long-term decisions for our customers and our shareholders, and we look forward to seeing all of you 
+and talking more about this at our upcoming September analyst meeting. Thank you. 
+
+Operator 
+
+And this concludes today's conference call, we appreciate your participation. You may disconnect at this time. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2014, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

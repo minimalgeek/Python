@@ -1,0 +1,811 @@
+Q1 2014 Earnings Call 
+
+
+Company Participants 
+
+
+• Jane Penner 
+• Patrick Pichette 
+• Nikesh Arora 
+Other Participants 
+
+• Ben Schachter 
+• Douglas T. Anmuth 
+• Ross A. Sandler 
+• Mark A. May 
+• Mark S. Mahaney 
+• Carlos Kirjner 
+• Stephen Ju 
+• Justin Post 
+• Eric J. Sheridan 
+• Peter C. Stabler 
+• Heather A. Bellini 
+• Colin A. Sebastian 
+• Jordan C. Monahan 
+• Robert Peck 
+• Gene E. Munster 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good day, everyone, and welcome to the Google Inc. Q1 2014 Earnings Call. Today's call is being recorded. At this 
+time, I'd like to turn the conference over to Jane Penner, Director of IR. Please go ahead, ma'am. 
+
+Jane Penner 
+
+Good afternoon, everyone, and welcome to Google's first quarter 2014 earnings conference call. With us are Patrick 
+Pichette, Senior Vice President and Chief Financial Officer; and Nikesh Arora, Senior Vice President and Chief 
+Business Officer. 
+
+Also, as you know, we distribute our earnings release through our Investor Relations website located at 
+investor.google.com, so please refer to our IR website for our earnings releases as well as the supplementary slides that 
+accompany the call. You can also visit our Google+ Investor Relations page for the latest company news and updates. 
+Please check it out. This call is also being webcast from investor.google.com. A replay of the call will be available on 
+our website later today. 
+
+Now let me quickly cover the Safe Harbor. Some of the statements that we make today may be considered 
+forward-looking, including statements regarding Google's future investments, our long-term growth and innovation, the 
+
+
+expected performance of our businesses and our expected level of capital expenditures. These statements involve a 
+number of risks and uncertainties that could cause actual results to differ materially. Please note that these 
+forward-looking statements reflect our opinions only as of the date of this presentation, and we undertake no obligation 
+to revise or publicly release the results of any revisions to these forward-looking statements in light of new information 
+or future events. Please refer to our SEC filings for more detailed descriptions of the risk factors that may affect our 
+results. 
+
+Please note that certain financial measures that we use on this call such as operating income and operating margin are 
+expressed on a non-GAAP basis and have been adjusted to exclude charges related to stock-based compensation and 
+restructuring. We've also adjusted our net cash provided by operating activities to remove capital expenditures which 
+we referred to as free cash flow. Our GAAP results and reconciliation of non-GAAP to GAAP measures can be found 
+in our earnings press release. 
+
+With that, I will turn the call over to Patrick. 
+
+Patrick Pichette 
+
+Good afternoon, and thank you for joining us on our first quarter 2014 earnings call. Before we jump into my usual 
+remarks, I'd like to bring two points to everybody's attention. First, a reminder that on April 2, we issued our Class C 
+stock dividend. With twice as many shares outstanding, our usual per share information will look quite different 
+starting this quarter. Also, second, and also as a reminder, our expected sale of the Motorola business, Mobile business 
+to Lenovo triggered discontinued operations accounting treatment, which means Motorola's quarterly results are shown 
+separately from Google's net income. You'll see this new presentation in our financials starting this quarter. 
+
+So with these two caveats noted, let's dive into the details of Google's financial performance in Q1. Our gross total 
+consolidated revenue grew a healthy 19% year-over-year to $15.4 billion, and it was down 2% quarter-over-quarter. 
+Without currency fluctuations, our gross total consolidated revenue growth would, in fact, have been 21% 
+year-over-year. Google sites revenue was up 21% year-over-year to $10.5 billion and was down 1% 
+quarter-over-quarter, driven by the strength in our core search advertising business. Network revenue was up 4% 
+year-over-year at $3.4 billion, and was down 4% quarter-over-quarter, driven by improved year-over-year growth from 
+our Ad Exchange and AdMob businesses. Finally, Google's other revenue grew 48% year-over-year to $1.6 billion and 
+was down 6% quarter-over-quarter. Digital sales of apps and content in our Play Store drove year-over-year growth. 
+
+Chromecast sales were also strong. Our global aggregate paid click growth was strong this quarter again, up 26% 
+year-over-year and down just 1% quarter-over-quarter. Our aggregate cost-per-click was down 9% year-over-year and 
+flat quarter-over-quarter. Currency fluctuations had a minimal impact on Q1 CPC growth. Our monetization metrics 
+continue to be impacted by a number of factors discussed on previous calls, including geographic mix, device mix, 
+property mix, as well as products and policy changes. And to help investors better understand the complex dynamics of 
+these monetization metrics, we'll begin disclosing paid clicks and CPC growth by property in Q2. To be clear, this 
+means that we'll disclose CPC and paid click growth rates for both our sites and our network businesses. We will 
+continue to disclose, obviously, the aggregate growth rates for CPC and paid clicks. 
+
+Turning to the geographic performance, we saw strong performance in the U.S. and the rest of world, solid 
+performance in the U.K. In our earnings slides which you can find on our Investor Relations website, you'll see that 
+we've broken down our revenue by U.S., U.K., and rest of world to show the impact of FX and the benefits from our 
+hedging programs. So please refer to those slides for the exact calculations. U.S. revenue was up 14% year-over-year to 
+$6.7 billion. The U.K. was up 14% year-over-year to $1.6 billion. And in fixed FX terms, it grew 11% year-over-year. 
+Our non-U.S. revenue excluding the U.K. was up 25% year-over-year to $7.2 billion. This accounted for 47% of our 
+total revenue, which includes a $8 million benefit from our hedging program. And in fixed FX terms, the rest of world 
+grew in fact 30% year-over-year. 
+
+Let me now turn to expenses. Traffic acquisition costs were $3.2 billion, 23% of total advertising revenue. Our 
+non-GAAP other cost of revenue was $2.6 billion in Q1, excluding our stock-based compensation. Non-GAAP 
+
+
+operating expenses totaled $4.6 billion, again excluding stock-based compensation. And as a result, our non-GAAP 
+operating profit was $5 billion and our non-GAAP operating margins were 32% in Q1. 
+
+Just a quick word on a few items that may have created noise in our operating expenses this quarter. We had some 
+discrete legal expenses that hit our G&A line as well as one-time M&A related costs that increased our operating 
+expenses, particularly in R&D. So absent these discrete items, our expenses continue to demonstrate the same 
+disciplined agenda we've always had. 
+
+Headcount was up roughly 2,100 people in Q1. In total, we ended the quarter with approximately 50,000 full-time 
+employees, and please note that the head count still includes approximately 3,700 full-time employees from the 
+Motorola business as well as the employees from the acquisition completed in this quarter. Our effective tax rate was 
+18% in Q1, and our tax rate this quarter was impacted, obviously, by the federal R&D credits which expired in 2013. 
+
+Let me now turn to cash management. Other income and expense was $357 million for the quarter, and realized gains 
+on investments and interest income offset the continued impact of expenses from our FX hedging program. For more 
+details on OI&E, please refer to the slides that accompany this call on our IR website. We continue to be happy with 
+our strong operating cash flow at $4.4 billion. CapEx for the quarter was $2.3 billion. This quarter, again, the majority 
+of CapEx was related to data center construction, production equipment, and real-estate purchases. As I mentioned last 
+quarter during my remarks, we continue to invest in the long-term and our infrastructure continues to be a key strategic 
+area of investment for us. Our free cash flow was $2 billion for Q1. 
+
+And before I close, want to give a brief update on Motorola. Motorola had a great quarter in Q1 with the Moto G 
+showing strong sales momentum, especially in emerging markets. The team continues to be hard at work, and we look 
+forward to seeing them join up with Lenovo soon. 
+
+So there you have it. Strong results and an optimism that provides us the confidence to fund strategic growth 
+opportunities including Android, Chrome, YouTube, Enterprise, just to name a few. 
+
+And now I'll cover more details – I'll let Nikesh, in fact, cover more details of our business performance in the quarter, 
+and after his remarks, we'll open up the phone lines for questions. Here you go, Nikesh. 
+
+Nikesh Arora 
+
+Thank you, Patrick. You're welcome to cover more details if you'd like. Our business is growing well with $15.4 billion 
+in gross revenue. We had a particularly good advertising performance in the United States, highlighted by a very strong 
+auto sector showing around the Super Bowl. We had strong Play growth in Asia, and we had a few isolated tracks. By 
+now, you're aware of the four areas driving our business. The first one direct response, or as I like to call it, 
+performance marketing. The second one, helping clients build their brand. Third, our ad tech platforms for publishers 
+and agencies. And fourth, our emerging businesses like digital content, enterprise, and hardware. 
+
+Let me give you an update on all of those, and talk about industry trends that are driving the investments we're making. 
+On performance advertising, people are now always online. They want a seamless, easy experience as they move from 
+screen to screen. This constant connectivity is driving our investments here, as people use search to navigate their 
+world, Google is really well positioned to help people navigate between web, apps, and the places around them. They 
+help marketeers measure the entire customer journey and to drive better monetization. 
+
+Next week we'll be welcoming hundreds of advertisers to our AdWords performance forum, where we'll talk more 
+about our work in this area for marketeers. But clients are already benefiting from our recent investments like 
+Enhanced Campaigns and Estimated Total Conversions. For instance, Shutterfly recently began measuring cross-device 
+conversions in AdWords to understand sales that start on one device and end on another. As a result, they saw a 60% 
+increase in mobile conversions for non-brand terms leading them to include 100% of their keywords on mobile devices. 
+We are seeing great momentum in product listing ads as well with the new shopping campaign system. International 
+retailer, Farfetch, upgraded their shopping campaigns, increased their conversion rate by 13% while reducing their 
+cost-per-acquisition, or CPA, by 20%. And, Domino's Pizza – who doesn't like pizza? – recently made it easier for 
+
+
+customers to pay with Google Wallet Instant Buy in their Android app. 
+
+Moving on to brand building. For years, you've all seen the rise of digital video, over-the-top networks, connected 
+screens, streaming devices, and high-quality digital programming. Already for example, YouTube reaches more than 1 
+billion people a month through hugely popular channels like fashion guru, Bethany Mota; cooking maven, Rosanna 
+Pansino; and the cult hit, Nerdist. For marketeers, this is an irresistible trend, and we're now at a significant industry 
+moment. Marketeers and agencies that have historically built their brand on TV are reorienting their creative, planning, 
+and investments to put digital at the center. This year, nearly all Super Bowl advertisers turned to YouTube to extend 
+the life and reach of their TV spots and Super Bowl-related ads on YouTube have been viewed over 300 million times. 
+That's roughly three times the size of the audience that watched the ads on TV. 
+
+In Australia, we worked with Nissan to create made-for-YouTube video for the launch of their new Patrol SUV. The 
+campaign, which was promoted by TrueView ads and the YouTube masthead, drove a 340% increase in daily visits to 
+their website and more than 2% of those were interactive with the campaign booked a test drive. 
+
+In a few weeks, in New York, at our annual Brandcast upfront event, we'll focus on our new Google Preferred offering. 
+This features exclusive access to the best, most engaging content on YouTube with guaranteed audiences through 
+third-party measurement providers, Nielsen and comScore. We're really excited about this and we're looking forward to 
+the results of that upfront Brandcast event. We're also helping brands through our newest display ad formats. We 
+recently teamed with Tory Burch to bring her New York Fashion Week show to a global audience across our display 
+network. They hosted the first-ever live stream of a fashion show in an ad using our Lightbox ads and were able to 
+share the exclusive event with more than seven million of their biggest fans. 
+
+Third, moving to our ad technologies and platforms. Our programmatic ad technologies continue to see great 
+momentum with premium publisher partners like the Local Media Consortium, that's comprised of more than 800 daily 
+newspapers and 200 local broadcast stations, as well as Time, Inc. Both of them signed on with us in February to create 
+private exchanges. This maximizes the value of their ad space through a handpicked premium environment. 
+
+One thing we know is that agencies and publishers want a trusty environment in which they're transacting. Our ad 
+network and exchanges are widely regarded across the industry as having the best quality controls, and we continue to 
+invest here. In February, we acquired well-known fraud fighter spider.io and thousands of our clients are already using 
+our MRC-accredited Active View technology to buy high-quality viewable ad impressions. 
+
+Let me switch over to our emerging new businesses, digital content, hardware and enterprise. Google Play continues to 
+be the thriving hub of our digital content business. This quarter, we introduced Google Play Movies to 39 new 
+countries, so now people in more than 65 countries can enjoy movies through Play. We also teamed up with Sonos to 
+bring high-fidelity Play Music into the home and we introduced new developer tools for Google Play Games, including 
+game gifting and iOS multi-player support. Over 75 million new users joined Google Play Games in the last six 
+months. All of this is helping turn developers around the world into full-fledged businesses. In fact, we paid out more 
+than four-times as much money to developers in 2013 compared to 2012. 
+
+And following the Open Automotive Alliance that we announced with partners in January designed to bring Android to 
+the car, in March we announced Android Wear, a project that extends Android to wearables. We're also already 
+working with several consumer electronics manufacturers, chip makers and fashion brands and can't wait to see what 
+developers come up with for your wrist. We also continue to see strong momentum from our suite of hardware 
+products. Our $35 Chromecast is a real hit. Last month we brought Chromecast to 11 more countries. We also recently 
+opened up Chromecast to developers and, in just a few weeks, more than 3,000 developers worldwide signed up to 
+bring their apps and websites to the platform. 
+
+Turning over to enterprise, we continue to see strong product adoption around the globe. We launched Chromebox for 
+Meetings, which makes it easy for any company to have high-definition video meetings through the power of Google+ 
+Hangouts and Google Apps. 
+
+We're also investing significantly in the Google Cloud Platform and have seen a very positive response to our most 
+recent product announcements. We expect to see continued momentum in this area, and we believe we can bring 
+
+
+significant value to the many companies adopting public cloud because of our experience in building and operating one 
+of the world's largest cloud computing environments for over a decade. We're able to pass on the savings that come 
+from lower digital storage costs to our customers through highly competitive pricing. In addition, every day more 
+businesses, governments and schools start using Google Apps to work better together, including the state of São Paulo, 
+who moved to Google Apps for more than four million students and 300,000 teachers and staff. 
+
+Before I close, I want to call out our marketing team, who continues to highlight the magic of Google to people around 
+the world, on the fourth annual Google Science Fair, to Doodle 4 Google in the United States, the hugely popular ad 
+campaigns. They've also helped to build great retail experience for Chromecast in over 6,000 stores. 
+
+I'd like to thank all Googlers around the world who helped make this a terrific quarter. I'll now hand over back over to 
+Patrick. 
+
+Patrick Pichette 
+
+Thank you, Nikesh. So we'll work with Jamie to go straight to the Q&A. Jamie? 
+
+Q&A 
+
+Operator 
+
+Thank you. [Operator Instructions] And we'll take our first question from Ben Schachter with Macquarie. 
+
+<Q - Ben Schachter>: Patrick, I was wondering if you could help us quantify some of the expenses you saw, the 
+one-time nature of G&A and anything else there that was really one-time just to help us understand what that run rate 
+would look like if that wasn't in there. And then maybe, Nikesh, if you could talk about the theme of sort of advertising 
+attribution and how that's going to help you potentially bring over more brand dollars and how do you think about 
+bringing over those television dollars? I mean is that something that's going to come sort of a big rush in 2014 or is this 
+going to be a slow evolution over many years? Thanks. 
+
+<A - Patrick Pichette>: Great. Thanks. Ben, why don't I start? Look, on the discrete legal expense that impacted, it 
+really impacted our G&A. And then the one-time M&A deal costs impacted all of our operating lines. But most 
+prominently, our R&D line, which you'll notice will have jumped a bit. The one-time M&A deal costs are largely 
+stemming from the Nest deal, which was a pretty large transaction for us is quarter. But I think that the best way to 
+describe it is that our expenses in Q1, they're completely in line with our objectives if you'd kind of take apart these two 
+items. So that's how describe it. Nikesh? 
+
+<A - Nikesh Arora>: Thank you, Patrick. Thank you, Ben. The brand question is a very good question. What we've 
+noticed in the past, let's just say, a year, year and a half, is that people have slowly started coming to the digital medium 
+to create extension of their existing brand campaigns. Like I mentioned the Super Bowl ad, people come to YouTube 
+and say, I'd like to reach certain audiences which are only available on digital medium. Hence, we see those advertising 
+dollars shifting as in enhancing existing television or media campaigns. The real fun will begin when people start doing 
+campaigns exclusively on digital to go out and help them build brands. That requires us to get ahead of the curve and 
+get into the creative process much earlier because usually what we end up doing now as we get to the end of the 
+creative process and they just want to extend their brand. 
+
+So we're working really hard to work with creative ad agencies or the large agency groups as well as our advertisers to 
+say how can we get ahead of that creative process, how can we help you conceive of brand campaigns that actually start 
+and end in digital where perhaps you use TV as an extension medium as opposed to the other way around. I think this is 
+definitely the Holy Grail. This is going to take us a little bit of time to get there, but with things like attribution in place 
+with our deals with Nielsen and comScore, we are beginning to create the comparability saying, look, the same dollar 
+you spend on television equates to so many dollars on digital or vice versa, the fact that we can give them sort of 
+
+
+cross-media measurement capability, we can give them comfort that their dollars are being well spent, even better spent 
+on digital and will go a long way in making sure we get them to transition from just using traditional media to including 
+digital in their media mix and eventually designing campaigns that start and end in digital. 
+
+<A - Patrick Pichette>: Thank you, Nikesh. Jamie, let's go to our next question. Thank you, Ben, for your question. 
+
+Operator 
+
+And we'll go next to Douglas Anmuth with JPMorgan. 
+
+<Q - Douglas T. Anmuth>: Great. Thanks for taking my questions. Just two things I wanted to ask. First, Patrick, just 
+on the U.S., you had commented on the strength here in terms of 14% year-over-year, but it does look like on a 
+sequential basis we saw a little bit more of a decel than in recent 1Qs. Can you just comment if there's any factors there 
+to point out? And then, Nikesh, can you just talk about the key drivers of mobile pricing going forward? How you think 
+the gap can close with desktop over the coming quarters and years? Thanks. 
+
+<A - Patrick Pichette>: All right. Thank you, Doug, for your questions. So in the case of the U.S., if you think about 
+it, you have the Q4 to Q1 issues that are typical. And then as we've said before, the network business does skew toward 
+the U.S. on a relative basis. So, network, clearly, grew slower than sites. So that's what really what you see is that mix 
+of the two, but in aggregate, right, pretty pleased with the U.S. growth overall, so that was a pretty strong quarter, really 
+happy with it. I'll let Nikesh answer the mobile question. 
+
+<A - Nikesh Arora>: Yeah, Doug, I think – thank you, again, for the question – I've had a firm belief and I continue to 
+hold on to it that I believe in the medium- to long-term, mobile pricing has to be better than desktop pricing. And I 
+think the reason, the way to think about it is that in mobile you have location and you have context of individuals which 
+you don't have in the desktop. And the more you know about the user and their context, the more effective advertising 
+can provide them. The better the conversion is likely to be for a search or any piece of advertising that you do. There's a 
+whole bunch of building blocks that need to come into play for us like you said to get the gap to close. 
+
+The good news is a lot of people are spending a lot of time on mobile devices. There's a lot of search queries that we 
+get. People are more and more focused about what they look for on mobile devices. They're closer to intend, they're 
+closer to transaction. You see that there's a lot of frictionless ways of paying and converting transactions into 
+commerce, which is happening with things like Instant Buy, et cetera. You're also seeing that a lot of the advertisers are 
+seeing true value of making sure that they're present in a great experience on the mobile device. So part of our 
+challenge has been that we've had this huge mass of advertisers in the desktop which over the last decade have become 
+better at advertising, understanding optimization, understanding conversion, understanding transaction. That journey is 
+just beginning for advertisers on the mobile side. They're just beginning to understand what it takes for the end-user to 
+come transact on their website. 
+
+So, sort of like, right now, we can lead the horse to water, we can't make it drink, but with all the advertisers coming on 
+board and working with us, we are actually beginning to show them real transactions, and as that begins to gain 
+traction, I think we begin that see that gap continue to converge. 
+
+<Q - Douglas T. Anmuth>: Thank you. 
+
+<A - Patrick Pichette>: Thanks, Doug, for your question. Jamie, let's go to the next question. 
+
+Operator 
+
+We'll go next to Ross Sandler with Deutsche Bank. 
+
+<Q - Ross A. Sandler>: Great. Thanks, guys. I had a question on the Google Play app store revenues. And, Nikesh, 
+you just mentioned that you guys paid out 300% more revenue to developers in 2013 versus 2012. So I guess how 
+much is Play contributing to the overall licensing in other line? And there's clearly some lines, or some items in that 
+
+
+line that are not growing nearly as fast to get to the current 48% average, so can you talk about maybe what's 
+underperforming in that area? And then last question on this topic is, I think if you go back to the infamous Andy 
+Rubin slides from the Oracle case, the rev share was around 5% for Google Play app store rev share. Where's that now, 
+and is it changing as the Android ecosystem gets larger? Thanks. 
+
+<A - Patrick Pichette>: So why don't I take a shot at this? Ross, the – if you think of our other revenue estimates for 
+this quarter, right? First of all, it's we're really delighted by the Play business. So, and you'll remember that a year ago, 
+we had – I mean, I'm going to bring back everybody to Q1 of 2013, we had a lot of Nexus 4 hardware sales because we 
+were in stock out in Q4. And that in combination with the accounting change of our Play app content revenue 
+recognition, again, remember to Q1 of last year, both just simply created a bit of a tougher year-over-year comfort this 
+quarter, but overall, very pleased with all of the kind of big lines of growth in this space. As per the rev share, I mean 
+obviously this accounting change kind of goes to 30% rather than the what you would have seen before, which would 
+have been the net. And, but we don't divulge what the percentages are that we keep going forward. So that's basically 
+where we stand on it, and that's why we're pretty pleased with this line for this quarter. 
+
+<A - Nikesh Arora>: And if I could add too, Patrick, I think the important part is it's taken us a while to get all the 
+capabilities in place around the world in different markets, making sure we have all the content we need, we have all 
+the app providers [ph] meet (24:01), as well as we have the payment mechanisms. So really are excited about the 
+Google Play business going forward. 
+
+<Q - Ross A. Sandler>: Great. Thanks, guys. 
+
+<A - Patrick Pichette>: Thanks, thanks, Ross. Jamie, let's go to our next question. 
+
+Operator 
+
+And we'll go next to Mark May with Citi. 
+
+<Q - Mark A. May>: Thanks. A question regarding the CPC segmentation for next quarter. While you might not be in 
+a position to provide the specific data points for Q1, I was hoping that maybe you could give us directionally how the 
+CPCs have trended between beyond the network businesses and kind of what your expectation is going forward? 
+Thanks. 
+
+<A - Patrick Pichette>: So, Mark, you'll get the information in Q2. What we really wanted to do was a recognition as 
+we think about getting more transparency to our shareholders, just looking at having exactly as you just mentioned the 
+split between kind of our core sites and then the network itself. I think it will be useful for everybody, and then 
+obviously we'll have the information going forward. So a lot of insights going to come out of that, and we're very 
+pleased to be able to share it with you starting next quarter. We've just made this decision over the last little while and 
+shared it with the audit committee of the board so just stay tuned for next quarter on it. 
+
+<Q - Mark A. May>: There are a number of dynamics that play into the blended CPC that you've called out before 
+property, policy, geo, and device, among others. Once you provide this new layer of transparency, does that really 
+capture the major, is it really the property and maybe to some degree policy differences that are influencing CPCs 
+between owned and network? Or will geo and devices continue to play a major role in the reported CPC even once you 
+provide this extra segmentation? 
+
+<A - Patrick Pichette>: Well, they all will. And if we do make changes to policies that affect network, you'll see them 
+much more, in a much more transparent way. So in that sense, it's a very positive kind of news. Whether devices kind 
+of have effects on network versus others, you'll – it'll be much more difficult to see. But, clearly, the impacts that are 
+driven specifically for network or for sites, you'll be able to see on a quarter-by-quarter basis. So I think that's good 
+news for our investors. 
+
+<A - Patrick Pichette>: All right, thank you so much for your question, Mark. Jamie, why don't we go to our next 
+question, please? 
+
+
+Operator 
+
+And we'll go next to Mark Mahaney with RBC Capital Markets. 
+
+<Q - Mark S. Mahaney>: Thanks. Two questions on the U.K. revenue growth, that 11% number, and on the partner 
+websites, that 4%. Is there anything you'd want to call out as being unusual tracks on those growth rates? I think that 
+U.K.'s the lowest we've seen and maybe that's just law of large numbers and really successful execution in that market, 
+but anything you'd want to call out for either of those two revenue streams? Thanks. 
+
+<A - Patrick Pichette>: As I said, well, let me just start with the U.K. The U.K. – look, combination of partner mix 
+this quarter as well as, again, year-over-year matters a lot, and we happen to have a year-ago a real revenue-favorable 
+weather, I mean people kind of tend to forget it, but last year we had a very strong Q1 for the U.K. And the 
+combination of these two things just kind of year-over-year made the comparison a little tighter for this quarter. 
+
+As it relates to websites, partner websites, I covered that a bit earlier, and we're, I mean, again, you go back to last year, 
+where network, if you think of Ad Exchange and AdMob continues to be very strong. And you'll remember again last 
+year that we started the DLA policy change in Q1, or maybe it was in Q4. But the impact of the DLA actually takes 
+time to flow through. We said that it would take multi-quarters, so this is not kind of flowed over completely. So what 
+you have again there is very strong on the course where we want, so the Ad Exchange and the AdMob. But on the 
+flipside of that, right, you still have the tails of the DLA change policy that from a year-ago, but the effects have not 
+fully flowed through, so even in the coming quarters, you should see a bit of an effect there. But, overall, pretty pleased 
+with actually these results, Mark. 
+
+<Q - Mark S. Mahaney>: Thank you, Patrick. 
+
+<A - Patrick Pichette>: Thank you. Jamie, let's go to our next question, please. 
+
+Operator 
+
+And we'll go next to Carlos Kirjner with Bernstein. 
+
+<Q - Carlos Kirjner>: Thank you. I have two questions. First, in the last eight quarters, head count have grown 
+significantly slower than revenue, but this quarter you hired I think 2,300 people in the quarter and head count grew 
+with revenues. Was this change in hiring rate mostly because of acquisitions and marginally what prevents you from 
+hiring 2,300 people a quarter or even more as the business grows? And secondly, Patrick, in the spirit of giving more 
+transparency to shareholders can you give us some color on what has driven such a sustained increase on CapEx over 
+the last four quarters? Because I think clearly it's not just some lumpy behavior. Are you buying data center sites in 
+advance of demand, and if this is the case, can we infer that CapEx will revert to historical levels? Thank you. 
+
+<A - Patrick Pichette>: Thank you, Carlos, for both of these questions. So to the head count question, I think you've 
+basically nailed it intuitively, which is the acquisition of Nest, the acquisitions this quarter had quite a bit of people 
+impact on this number. Our – or kind of if you think of our organic numbers have actually not changed in any material 
+way. So it just happened, you buy Nest and it comes with a lot of people. We also had, you'll remember, the acquisition 
+of DeepMind and a few others. So for us, we had the double-hitter of having the opportunity to continue to attract 
+people on an organic basis through our processes and these few acquisitions kind of move the needle quite a bit for us 
+this quarter. 
+
+As it relates to CapEx, listen, you're right that we – and I've mentioned this in the last couple of quarters, where we 
+have – and just a reminder to everybody, right, if you think of the CapEx categories, right, data centers first and data 
+center construction, then production equipment, then all other facilities, is kind of like the hierarchy of needs. 
+
+And in the case of data center construction, we have found that the option value of having more capacity on standby 
+and available to us to grow versus not having it is actually a real strategic issue for the company. And in that sense, if 
+for whatever reason we continue – we had a spike in demand that was really pronounced and sustained for a couple of 
+
+
+quarters, and we did not have the capacity, it would be a real issue strategically for us relative to the quite low-cost of 
+having the infrastructure in place. So that's why we're really pushing ahead of the curve, and so it's with this view of 
+long-term. So from that perspective, you're also right that that's the mindset we're applying. And we've always said that 
+CapEx was lumpy. So you have a good manifestation of it right now, right here. So thank you for those two questions, 
+Carlos. 
+
+<Q - Carlos Kirjner>: Thank you. 
+
+<A - Patrick Pichette>: Cheers. Jamie, let's go to our next question, please. 
+
+Operator 
+
+And we'll go next to Steven Ju with Credit Suisse. 
+
+<Q - Stephen Ju>: Okay. Thanks, guys. So, Nikesh, so in order to attract greater brand advertising dollars, it seems 
+like safety and context are also important factors, because you're certainly not falling short on reach. So how close do 
+you think you are to either engineering or coming up with some sort of a solution to contextualize all the video content 
+on YouTube so you can guarantee your advertisers brand safety? Thanks. 
+
+<A - Nikesh Arora>: That's a good question. I think, as I alluded to, we are going to do an upfront in a few weeks in 
+New York City, called Google Preferred, which is sort of our way of trying to create a premium sort of concentration of 
+content that we can have advertisers advertise against which gives them a higher level of brand safety, a better level of 
+measurement, and hopefully a place where they believe that they can actually build brands and hopefully that will 
+manifest itself in our ability to have a premium compared to what we can attract to the market without providing those 
+kinds of things. So that's a very good question. I think that's what we're hoping to achieve, and stay tuned for our 
+detailed announcement at Brandcast. 
+
+<Q - Stephen Ju>: Thanks. 
+
+<A - Patrick Pichette>: Thanks, Steven. Jamie, let's go to our next question, please. 
+
+Operator 
+
+And we'll go next to Justin Post with Merrill Lynch. 
+
+<Q - Justin Post>: Great. I have three quick things. Did Enhanced Campaigns, which you rolled out over the summer, 
+impact Q4? And do you see some more benefits coming this year? Second, on PLAs, we think you had very good 
+success in the U.S. in Q4. Do you still have some benefits to come from that as you roll that out in Europe? How are 
+you looking at the timing there versus how you rolled it out in the U.S? And finally, in the first quarter, maybe you 
+could call out some specific verticals that might have been strong or weak for you? Thank you. 
+
+<A - Nikesh Arora>: It's a good question, Justin, thank you. I'm not sure I can give you a lot of detail in terms of the 
+precise impacts of any individual product that we have, but the Enhanced Campaigns are working. It was a necessity 
+that we had to do them, both for process reasons as well as the reasons that consumers are going from screen to screen 
+as well as advertisers need to advertise across multiple screens. So from that perspective, Enhanced Campaigns is 
+working. It's part of life here. We don't do anything without Enhanced Campaigns across the board. It's sort of gone 
+from being Enhanced Campaigns to regular campaigns because we don't have any un-enhanced campaigns anymore. 
+
+In terms of PLAs, it's something, as I alluded to, that's actually working. It's providing a lot of color in the shopping 
+vertical. It's providing a lot of [indiscernible] (33:33) shopping campaign effort that we have. PLA is working for us 
+and it's sort of working from multiple perspectives. It's providing users the detailed information that they need when 
+they're declaring intent and saying, I'd like to search for a particular product, please don't send me to a website. So, it is 
+working. We are going to roll that out one separate time around the world. I cannot comment on the timing exactly, but 
+I think both of those things are having positive impact in our minds to everything we're doing around here. 
+
+
+<A - Patrick Pichette>: Just to close on this, just a few verticals here, I mean again, completely reflecting the economy 
+around us, if you go to – automobile has been quite strong across the world. Travel actually quite strong in the U.S. – in 
+the U.K., as well as in the rest of the world, a little bit less in the U.S., but just to give you a sense of it; and then real 
+estate, clearly in the U.S., has been a strong vertical as well as in the U.K. So, again, a good reflection of the economy 
+there, Justin. So Google Trends, I always encourage people to go and check out Google Trends as well because they 
+continue to give good insights as to what's going on in the economy which would mirror in terms of verticals. 
+
+<Q - Justin Post>: Thanks, Patrick. Thanks, Nikesh. 
+
+<A - Patrick Pichette>: Thanks, Justin. Jamie, let's go to our next question, please. 
+
+Operator 
+
+We'll go next to Eric Sheridan with UBS. 
+
+<Q - Eric J. Sheridan>: Thanks for taking the question, guys. So two ones, one for Nikesh. Nikesh, we'd love to get 
+your view on sort of your view of the travel industry, sort of how you're approaching that industry as a participant from 
+an economic basis in that industry, both the marketing funnel and potentially the booking funnel longer term. There's 
+been a lot sort of written lately about the way in which you guys might approach that industry vertical. And then 
+second, Patrick, for you, maybe taking a stab at the one-time expenses from a different approach. When we look at the 
+model, if we take your comments before about sort of smoothing out the expenses we saw on the back part of the year 
+and even year-on-year, it appears the one-time expenses might have been about a 50-basis-point to 100-basis-point 
+impact on each of those two lines, which would've sort of brought the blended number back up to somewhere between 
+75 basis points to 150 basis points on margins, but I just wanted to take a stab at that from a different direction just to 
+quantify it. Thanks, guys. 
+
+<A - Nikesh Arora>: Thanks, Eric. Thanks for the question. I was actually – while you're talking I was talking I was 
+pulling up the article in which recently where Darren Huston talked about the effectiveness of Google advertising for 
+Priceline. I think that's a public endorsement that all our efforts in the last many years around the travel industry are 
+actually working. They see tremendous value in our ability to help them bring more travelers to their sites and for them 
+to help convert them into real transactions. So, whatever we're doing is working. 
+
+I'm suspecting that the comments you're talking about is our continued efforts in providing more and more detailed 
+information when people do searches. And as we've talked in the past before that people's information needs are getting 
+more and more precise and we have to keep evolving the results at Google, whether it's Knowledge Cards or Google 
+Now, all of the things that we do towards giving them more and more precise answers, in which case sometimes we are 
+required to go work with various industries to get the underlying data to surface it when the users are looking as 
+opposed to send them to other sites where they have to go through that search process again. 
+
+So, I think you can expect us to continue to do that but our intent there is to provide a better answer for the users 
+whether it's on their desktop or mobile devices. Accordingly, we also work together with the advertisers to provide 
+them various advertising activities which allow them to work effectively with the end-user and provide them the 
+answer that they're looking for or perhaps in this case, the ticket or the hotel booking that they're looking for. 
+
+<A - Patrick Pichette>: Great. And on my side, Eric, look, as I said in my earlier comment, our Q1 expenses were 
+completely in line with our objectives, and there's always seasonality as you've noticed. From Q4 to Q1, there's always 
+
+– we spend less on marketing and so that's true for this year as well. And for the other areas, right, we would have been 
+in line with the objectives we set for ourselves, so these one-time costs were genuinely in that spirit truly one-time, and 
+I mean when you acquire Nest for a bit over $3 billion, there's just a lot of stuff that flows through the P&L, a lot of 
+accounting, and so that's really the issue there. So I would go back to your instinct of at least kind of we should be 
+roughly in line with what our expectations were, and that's why the nature of truly extraordinary items. So thanks for 
+that question. 
+
+<Q - Eric J. Sheridan>: Thank you. 
+
+<A - Patrick Pichette>: Jamie, let's go to our next question, please. 
+
+Operator 
+
+And we'll go next to the Peter Stabler with Wells Fargo Securities. 
+
+<Q - Peter C. Stabler>: Good afternoon. Thanks for taking my questions. I wanted to revisit attribution for a moment. 
+There are different aspects to attribution and I think you guys are doing a great job on the cross-screen attribution and 
+taking advantage of your ubiquitous logins across different platforms and Enhanced Campaigns. Wanted to get a better 
+understanding of how you're thinking about online versus offline attribution for those types of marketers, particularly 
+brand advertisers, supermarket advertisers, the 30,000 SKUs in those retail channels that don't have e-commerce and 
+really don't have much of a search opportunity. How are you helping them close the gap between their online activity 
+and offline sales? Thanks very much. 
+
+<A - Nikesh Arora>: Thanks, Peter. Thanks again for the question. I think as you rightfully pointed out, the attribution 
+story on the advertising side is kind of becoming clearer as we partner with Nielsen and comScore, adopted some the 
+mechanisms that traditional media has used to create the comparability between traditional and new media. I think you 
+identify a good challenge, which is that, how do we bridge the gap between online commerce and offline commerce 
+and relate that to the advertising opportunity, i.e., when we sell search and when we sell traffic to different people, how 
+do we convince them, how do we make them realize that that traffic that they bought not only results in online sales but 
+also results in offline sales in stores and how do we encourage that activity? So over the past many years around the 
+world, we have run specific studies working with various advertisers which I call online to store studies where we 
+actually try and measure what online activity created by them to control groups could results in more foot traffic in 
+their particular stores in certain regions around and we've pretty much had very good results across the board. 
+
+I can't detail specifics right now because they're all specific to individual advertisers we work with, but we do 
+understand that opportunity in the problem and you work specifically with third-party research teams to work on 
+figuring out how do we keep showing the online to store efficacy. And there are other products as you can see where 
+we start doing conversion, we start looking at things like Google Shopping Express which also helps in those areas. 
+Thanks again. 
+
+<Q - Peter C. Stabler>: Thanks for the color. 
+
+<A - Patrick Pichette>: Jamie, let's go to our next question, please. 
+
+Operator 
+
+And we'll go next to Heather Bellini with Goldman Sachs. 
+
+<Q - Heather A. Bellini>: Great. Thank you very much. I just wanted to go back to an earlier question, you responded 
+about the building blocks that were needed in order to get mobile pricing, mobile CPCs to converge with desktop. I was 
+just wondering if you could share with us kind of specifically what you think those building blocks are that need to 
+happen over the medium- to long-term, as you said, to see that convergence occur? Thank you. 
+
+<A - Nikesh Arora>: Of course. Thanks, Heather, for the question. I mean, look, there are some very simple things 
+and then there are some complicated things. The simple things are, we would make sure that there is payment 
+enablement for users so, i.e., users have a mechanism that allows them to pay with the lowest amount of friction 
+because honestly you and I don't want to spend our lives trying to enter payment information on a very small screen 
+where we are trying to conduct a transaction. So that enablement is happening across the industry across multiple 
+payment platforms. There's also the need that when people search for some things they can get quickly down to the 
+information, they don't have to browse multiple sites because people are more keen on declaring intent on mobile 
+
+
+devices than going and surfing multiple websites and trying to figure out what they're trying to do. And that intent 
+could be in the form of restaurant, could be in form of a taxi, could be in the form of them looking for individual 
+product. 
+
+And you're beginning to see apps, you're beginning to see solutions in search that allow you to get that granularity of 
+information. Now, of course, there's a big building block which is getting all the people out there which are the 
+advertisers effectively in this case the merchants who actually have to have experiences in the mobile side which are 
+simpler to execute on. So try buying something on many companies' mobile website, and it's more onerous than their 
+desktop site because they've been spending a decade trying to optimize their desktop site, where they haven't spent 
+enough time optimizing their mobile experience, in some cases not believing that people want to transact with them on 
+their mobile devices, and in some cases they're just slow and they're just slowly diverting resources from desktop to 
+mobile. 
+
+So if you take all those things and if you take the notion that we need to keep sort of working hard towards getting 
+these building blocks in place, I think there's a finite time where these building blocks will come into place. And as 
+they keep coming into place, you will see, or as we talked about earlier, perhaps the convergence will happen between 
+pricing in mobile and desktop. There's a whole bunch of other issues that go into it, but I think those are the big things 
+that we can think of right now. 
+
+<A - Patrick Pichette>: Thanks your question, Heather. Jamie, let's go to our next question, please. 
+
+Operator 
+
+And we'll go next to Colin Sebastian with Robert Baird. 
+
+<Q - Colin A. Sebastian>: Great. Thanks. I wanted to ask a question on the Cloud Platform. Since this is obviously a 
+huge revenue opportunity for you. And, first off, if you could put some context around the impact of this business on 
+CapEx and OpEx, particularly on the infrastructure-as-a-service part of the business. And then, secondly, if you could 
+talk about how you're planning to differentiate this service? Is it really about pricing? Or is it by tying in the software 
+and platform-as-a-service offerings? If you get touch on that, thanks very much. 
+
+<A - Patrick Pichette>: I can cover the first part, and then I'll let Nikesh cover the second. Look, we're very 
+comfortable with our cost structure. In light of Google efficiencies, economies of scale, our vertical integration from 
+data center to chip to servers to software, I mean, we really have – we believe we have an absolutely unique position 
+from a cost structure perspective, and therefore from a margin perspective makes us very, very comfortable. In terms of 
+differentiation, I'll just let Nikesh jump in here. 
+
+<A - Nikesh Arora>: I think, Colin, thank you again for the question, the important part at least to acknowledge in the 
+space of cloud computing is we think it's very, very, very early days. I mean if you think about the potential scope and 
+scale of what this opportunity is that pretty much every business which is going to be around for the long-term has to 
+operate in the cloud. I mean there's no efficiency compared to the efficiency of the cloud, but in compared to owning 
+your own infrastructure and running it by yourself. So the shift is going to happen. It's a matter of every company going 
+to through that shift one at a time. And if you look at the opportunities out there and the options, there's very few 
+options. 
+
+So there's a lot of room for all of us to have a great time for many, many, many years before we start worrying about 
+differentiation and why my sort of thing is better than yours. So, right now, the key is to be able to work with the 
+companies out there, the enterprise customers out there to get them to shift off their legacy systems, get onto the cloud 
+and realize that Google has been working in the cloud for more than a decade, because we have been running one of the 
+largest cloud computing platforms in the world, in the public space. And we have all the expertise and the skills that are 
+required to be able to serve these enterprises and get them off their current legacy systems onto the cloud. So our effort 
+is really trying to work with each of these third-party partners try and get them off their legacy systems onto our cloud. 
+I don't think the challenge right now is the need to differentiate. I think our biggest differentiator is we have the most 
+
+
+experience in the space. 
+
+<Q - Colin A. Sebastian>: Great. Thank you. 
+
+<A - Patrick Pichette>: Thanks, Colin. Jamie, we'll go to our next question, please. 
+
+Operator 
+
+And we'll go next to Jordan Monahan with Morgan Stanley. 
+
+<Q - Jordan C. Monahan>: Hi. Thank you for taking the question. Actually, two, if I may. A couple of big picture 
+questions, I think, for Nikesh. The first is that I think there is an ongoing debate about whether a mobile web or mobile 
+app is going to win and what the implications are for various businesses, Google included. And I'm just curious to get 
+your view on whether you think one will win over the other and then whether it matters for Google. And then the 
+second is when you look at Google's share of global advertising, you're coming up on about 10% of total, but when you 
+look at your business in the U.K., you're north of 20% of total. So when you think about your global businesses as 
+economies start to mature, do you think the U.K. is a fair proxy for thinking about your business globally? Or are there 
+other factors that you think may prevent you from getting to that type of scale globally? 
+
+<A - Nikesh Arora>: I guess let me answer the second question first, Jordan, because I'm standing here, Patrick is 
+looking at me asking the same question. I think the way to think about it is that we have 10% by some metric 
+depending on what you believe the total is. As per your metric, we have 10% of the total advertising sort of money, and 
+in the U.K. we have 20%, that just tells me there's 90% more opportunity around the world and 80% more opportunity 
+in the U.K. So we're not going to constrain our thinking in terms of what we believe is the stable state. Our aspiration is 
+to be able to serve every advertiser in the long-term, and our aspiration is that, our hope is that, every piece of 
+advertising becomes digital advertising. The question is, how much of that are we able to provide through our 
+technology platforms? How much are we able to provide through our own sort of properties and how much do we 
+partner with others to provide on their network? So I guess I'm trying to tell you that we don't constrain ourselves in our 
+thinking. I'm not trying to be arrogant and say we want 100%, but we'd like more than what we have in every market 
+out there. 
+
+In terms of your question around the mobile web and mobile search, that is a tough question and that is a very involved 
+question. And I think the approach, the best way to think about it is that, we're trying to make sure that we can make 
+both of them effective for the end-user and make them both work, because we're not about to try and pick winners. 
+Right now you can see that people spend as much time on mobile devices, and more time mobile devices than they've 
+previously spent on the desktop, and they're spending their time across the mobile web as well as the mobile app 
+landscape. We're participating in both those ecosystems, whether it's through our Play Store on the app front, whether 
+it's through our browser-based search properties, or through our app-based search properties. So we're participating 
+across the board, and I think at the end of the day, it's going to boil down to ease of use and consumer choice. 
+
+<Q - Jordan C. Monahan>: Thank you. 
+
+<A - Patrick Pichette>: Thank you, Jordan. Let's go to our next question, please, Jamie. 
+
+Operator 
+
+And we'll go next to Robert Peck with SunTrust. 
+
+<Q - Robert Peck>: Yeah, hi. Thanks for taking my question. Two questions if you don't mind. The first one's on the 
+revenue side. Could you talk a little bit and can you maybe give us an update about the breakout of YouTube versus 
+DoubleClick revenues, where are those today, and where could they be over time? And then on the cost side, Patrick, 
+can you maybe just walk us through just how you think about the ROI on capital? We get a lot of questions from 
+investors asking about spending. Can you maybe just tell us more about the thought process of how the company looks 
+
+
+at the ROIC of capital going forward? Thank you. 
+
+<A - Patrick Pichette>: Okay. Well, Robert, let's start with the last one first, and then we'll go back to revenue. ROI, 
+clearly we have – we always look at capital intensity. The fact that we're investing quite a bit in CapEx right now, right, 
+is a real tribute to kind of the potential and the optimism we have about our businesses going forward. Most of our core 
+businesses, if you think of YouTube or advertising or search, right, are not that capital-intensive relative to other areas 
+that we have such as, for example, Google Fiber, if you think of the access portion, right, which is much more 
+traditional CapEx. 
+
+For each of these areas, we actually track and make sure that we have good returns and we have a capital efficient. So 
+even though an area that – take the advertising business that we run – even though you could argue that it's 
+phenomenally good on return on capital, the questions that we will ask internally is, okay, so if the utilization rate is X 
+on our machines on this business, right, why can't it be X plus something? So even though we have already good return 
+on capital in these areas, we continue to always push the envelope to make sure that our capital efficiency continues to 
+be better and better on a year-to-year basis. And then across the portfolio, every area has some capital kind of targets to 
+make sure that we're driving for value. 
+
+Finally, there's a number of areas if you think of – take mostly the newer stuff like Loon, for example. In those cases, 
+you test through the hurdles that we kind of – we seed capital to the Loon team as they hit their hurdles and they kind 
+of earned their right to the next cost of funding. And in doing so, right, we continue to always have the business case in 
+mind that says, hey, here's why this continues to make sense to fund and invest, and with an ROIC or value in mind for 
+the long-term. But in the short-term, it's really kind of delivery of milestones on very specific engineering objectives 
+that actually gives them the next round of funding. 
+
+So, Robert, as you can see, given the portfolio of mature stuff we have, and growing areas as well as kind of much 
+more R&D and innovation at the early stages, right, we just need to have a basket of tools to actually manage the 
+concept of ROIC or ROI on each of them. And that's what we do. I mean it's not rocket science, it just requires a lot of 
+discipline on our part. 
+
+On the revenue side, look, we don't breakout DoubleClick or YouTube. I can just tell you, as I had mentioned a bit 
+earlier, we're really pleased with our network revenue in the kind of AdMob, Ad Exchange; many of our areas, right, 
+continue to grow very well and we're very, very pleased by these investments, and clearly continue to be very pleased 
+with YouTube as mentioned – Nikesh mentioned a bit earlier. 
+
+<Q - Robert Peck>: Thank you very much. 
+
+<A - Patrick Pichette>: That's the story there. Thank you. Jamie, we'll take one last question. We're running out of 
+time so we'll take one last question if you don't mind? 
+
+Operator 
+
+And our final question comes from Gene Munster with Piper Jaffray. 
+
+<Q - Gene E. Munster>: Hey. Good afternoon. Another question regarding trends in mobile CPCs. I know yesterday 
+you announced an offline conversion tracking plan and program with Datalogix. Is that something potentially the whole 
+online to offline tracking that could have a positive impact on CPCs? And separately, any updates on how you think 
+about Fiber longer-term? Thanks. 
+
+<A - Patrick Pichette>: Okay. So why don't I take the last portion, and then Nikesh may have views on this data 
+conversion plan. On Fiber, look, you've heard our announcement earlier this quarter where we're working with 34 cities 
+and looking for working with these municipalities. I mean they've indicated to us they're really excited about – they 
+kind of self-selected to be really excited about getting Fiber, and the next-generation of access. So right now we're 
+basically working directly with them to look if we have the right conditions to actually go to the next stage, which 
+would be the build. So very excited about it. I think that it's a really good sign of things to come in access in general. I 
+
+
+think that everybody now in the industry is talking about the gig. It's becoming the standard and we're absolutely 
+thrilled for all of the users out there that can think that they'll one day get a gigabit of symmetrical Internet at a 
+reasonable price. So stay tuned on the next part of the chapter, but really excited to work with these communities. And, 
+Nikesh, maybe you want to talk about... 
+
+<A - Nikesh Arora>: Yeah. Thank you, Gene. I mean, as I mentioned earlier, and the question earlier from, I think it 
+was Heather, that the online to offline conversions are a really important opportunity where it's important for offline 
+merchants to be able to understand what results they get from their online activity. And some of the experiments that 
+we talked about would, required partnerships with third-party data providers to understand how that happens. And I 
+think Datalogix is one of those things which we're looking at to see how we can help quantify the opportunity and 
+quantify the answer for our offline partners. It's just one of those things that we are doing. 
+
+<Q - Gene E. Munster>: Great. Thank you. 
+
+<A - Patrick Pichette>: Thank you, Gene. 
+
+Patrick Pichette 
+
+Just in closing, before I hand it over to Jamie, just to reiterate the point that Nikesh made a bit earlier. To all of our 
+Googlers out there and all of our partners out there, right, thank you so much for the great work in Q1. What a great 
+start to the year, and then we'll see you in Q2. So thanks a million. 
+
+Jamie, I'll leave it with you to close the call, please. 
+
+Operator 
+
+Thank you. Again, that does conclude today's conference. We do thank everyone for your participation. Please have a 
+great day. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2015, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

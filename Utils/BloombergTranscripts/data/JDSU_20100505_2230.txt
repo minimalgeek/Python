@@ -1,0 +1,785 @@
+Q3 2010 Earnings Call 
+
+
+Company Participants 
+
+• Michelle Levine Schwartz, Investor Relations 
+• Thomas Waechter, President and Chief Executive Officer 
+• David Vellequette, Chief Financial Officer 
+Other Participants 
+
+• Kevin Dennean 
+• Mark Sue 
+• Michael Genovese 
+• Greg Mesniaeff 
+• Jeff Evenson 
+• Ajit Pai 
+• Todd Koffman 
+• Paul Bonenfant 
+• Natarajan Subrahmanyan 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good day, ladies and gentlemen, and welcome to the Third Quarter 2010 JDSU Earnings Conference Call. My name is 
+Alicia and I will be your coordinator for today. At this time, all participants are in listen-only mode. We will be 
+conducting a question-and-answer session towards the end of the call. [Operator Instructions] As a reminder, this 
+conference is being recorded for replay purposes. 
+
+I would now like to turn the presentation over to your host for today's call, Michelle Levine. Please proceed. 
+
+Michelle Levine Schwartz, Investor Relations 
+
+Thank you, operator, and welcome to JDSU's fiscal 2010 third quarter financial results conference call. Joining me on 
+the call today are Tom Waechter, Chief Executive Officer, and Dave Vellequette, Chief Financial Officer. 
+
+I'd like to remind you that this call will include forward-looking statements about the future financial performance of 
+the company. Forward-looking statements are subject to risks and uncertainties that could cause actual results to differ 
+materially from management's current expectations. We encourage you to look at the company's most recent filings 
+with the SEC, particularly the Risk Factors section on report Form 10-K filed August 24, 2009, and 10-Q filed 
+February 5, 2010. 
+
+The forward-looking statements, including guidance provided during this call are valid only as of today's date and 
+JDSU undertakes no obligation to update these statements as we move through the quarter. 
+
+Please note that all numbers are non-GAAP, unless otherwise stated. A detailed reconciliation of these non-GAAP 
+results to our GAAP results, as well as a discussion of their usefulness and limitations, is included in today's news 
+release announcing our results, which is available on our Web site at www.JDSU.com. 
+
+
+In addition, our current and historical financial tables are posted in the Investor portion of our Web site at 
+www.JDSU.com/investors under the Financial Information section. Finally, and as a reminder, this call is being 
+recorded and will be available for replay from the Investor section of our Web site. 
+
+I would now like to turn the call over to Tom. 
+
+Thomas Waechter, President and Chief Executive Officer 
+
+Thank you, Michelle, and good afternoon, everyone. I'd like to begin by providing a summary and some highlights of 
+our fiscal third quarter results. JDSU reported revenue of $332.9 million, gross margins of 44.1%, operating profit of 
+6.6%, and we continued to be free cash flow positive. We had very strong quarterly bookings at $400 million. This is 
+the highest level the company has achieved in the past two years as demand for our products continues to be robust 
+across all of our business segments. 
+
+For the fourth quarter in a row, book to bill was above 1 for the company and each of the segments had a book to bill 
+greater than 1. From a revenue perspective, growth was very strong in our CCOP and AOT segments. On a sequential 
+basis, Optical Communications grew 15%, our Lasers business grew 12%, and AOT grew 7%. Test and Measurement 
+revenue declined on a sequential basis, due to seasonality and material shortages although bookings remained strong. 
+
+Year-over-year revenue for Test and Measurement grew 14%. This past weekend, we closed the acquisition of the 
+Network Solutions Division or NSD business from Agilent. The acquired business complements and strengthens our 
+leading Communications Test and Measurement business, creates an end-to-end wireless network test portfolio, and 
+expands our addressable market by nearly $800 million. We are particularly well positioned to provide test equipment 
+and services for the LTE market through this acquisition. 
+
+Another highlight of the quarter is the continued improvement in our Optical Communications and Lasers gross 
+margins. Lasers' gross margins exceeded 40% and Optical Communications' gross margins were 26%, hitting our target 
+range of 25 to 30% one quarter sooner than originally forecasted. And in Q3, AOT reported record bookings, revenues, 
+gross profit, and operating profits. Currency was especially strong. AOT is providing color shifting pigment on the new 
+$100 bill announced last month, specifically on the Liberty Bell and the number 100 on the bill. 
+
+Now let me provide more details on the performance of our individual business segments. First, the Communications 
+Test and Measurement segment. Fiscal Q3 revenues declined 17.6% compared to the last quarter and were up 14.1% 
+year-over-year. The sequential decline in revenue was a result of the March quarter seasonality and increased supply 
+constraints that affect their ability to achieve revenue targets. The supply constraints resulted in approximately 13 
+million of revenue rolling into the fourth fiscal quarter, the majority of which has now been delivered. 
+
+Demand remains strong as book to bill was greater than 1 for the fourth quarter in a row. As I mentioned earlier, this 
+past weekend we closed the acquisition of the Network Solutions Division from Agilent which complements and 
+strengthens our Test and Measurement business and creates an end-to-end wireless network test portfolio, including 
+LTE test. This expanded portfolio now provides access testing with NSD drive tests and JDSU active service testing, 
+Ethernet backhaul transport tests with portables and systems and LTE signaling tests with NSD protocol analyzers and 
+systems. 
+
+According to Infonetics, worldwide there are over 50 operators in more than 25 countries committed to LTE trials and 
+deployments. Ethernet backhaul continues to be a large and growing business opportunity worldwide. According to a 
+recent industry report, mobile backhaul equipment revenues are up 21% in 2009 to $7.2 billion. 
+
+Worldwide and mobile backhaul equipment is forecasted to grow 8% in 2010 to $7.8 billion and to have a CAGR of 
+7.6% from 2010 to 2014, reaching revenues of $10.4 billion in 2014. The estimated cumulative spending over the five 
+year period of 2010 through 2014 is over $45 billion. There are over 25 operators around the world deploying IP 
+Ethernet backhaul to carry all voice and data traffic. The investment is fueled by increasing mobile subscribers, 
+especially in India, China, Africa, Latin America, as well as increased user bandwidth demand. 
+
+
+Consumer adoption of bandwidth-intensive mobile applications continues to strain the backhaul portion of network, 
+driving carrier Ethernet deployment to address quality and reliability issues. JDSU is a leader in this field, offering 
+instruments, services and integrated systems that support the cost effective, rapid deployment of Ethernet. 
+
+JDSU's products and systems that capitalize on the Ethernet backhaul business opportunity include our TBERD/
+MTS-6000A and our HST Ethernet portable test devices and our NetComplete Ethernet solution, a 
+software-based tool that receives inputs from remote probes in a network to help troubleshoot problems with Ethernet 
+services. 
+
+Bookings and revenue continue to grow rapidly in the Ethernet backhaul arena across an expanding number of 
+customers, with bookings to date from one customer alone exceeding $25 million. We believe we have the leadership 
+position in our served available market for Ethernet backhaul test. 
+
+Another growth driver for Test and Measurement segment is DOCSIS 3.0. By working directly with chipset 
+manufacturers, JDSU has emerged with the only second-generation chipset for testing DOCSIS 3.0. Simply put, JDSU 
+products can test customer solutions that carry traffics at speeds of 300 megabits -- bytes in the U.S. and 400 megabytes 
+for EMEA and most of Asia. 
+
+This provides a significant competitive advantage as we believe alternative solutions cannot currently test beyond 200 
+megabyte solutions. Our investment today in a second generation chipset secures a strong and long-term position for 
+JDSU, not only for new sales of DSAMs, but also provides an upgrade path for our customers who collectively have 
+purchased over 70,000 DSAMs over the last eight years. Today we have over 30 customers in North America, Europe, 
+and Asia; over 1,000 units shipped of our DOCSIS 3.0 offering in fiscal Q3. 
+
+In another example that demonstrates JDSU technology leadership, we continued to lead the market in 100 gig lab and 
+production testing. Last quarter, we shipped 100 gig systems to six customers across all geographic regions. And in Q3 
+we have continued the trend with four additional customers in Japan, UK, Germany and the U.S. And JDSU continues 
+to lead the market in field service including fiber optic tests, storage area network tests, and we have the leading market 
+share for our addressable market in 40 and 100 gig test systems. 
+
+And finally, in April, we announced that JDSU won the 2010 Best in Test Award from Test and Measurement World in 
+the Communications Network Test category with the T-BERD/MTS-4000 multi-services test platform. The product 
+was chosen for its exceptional ability to support technicians installing and maintaining access in fiber networks, while 
+ensuring quality delivery of voice, video, and Internet services. 
+
+Moving onto our Communications and Commercial Optical Product segment. First, our Optical Communications 
+business; in fiscal Q3 revenue grew by 15% from the prior quarter and 23.4% year-on-year. Book-to-bill was again 
+over 1, reflecting the traction of several new products including our gesture recognition technology with 50 gigahertz 
+WSS, our Super Transport Blade and the tunable XFP. 
+
+We continue to gain market share and believe we are growing faster than the market as nine of our 11 product lines 
+grew sequentially with the highest growth in ROADMs, pluggables, modulators, and 980 pumps. 
+
+Other notable product performance for the quarter includes the following: Our 980 pump unit shipments were at their 
+highest level since its peak in the year 2000. We have shipped the tunable XFP to over 30 customers, significantly 
+increasing our SAM. As we increase capacity for the tunable XFP in the current quarter, we expect to gain share in the 
+tunable market. 
+
+ROADM revenue in Q3 grew by over 22% compared to last quarter and is over 25% of total Optical Communications 
+revenue. ROADM bookings continue to be very strong with record bookings and a book to bill significantly greater 
+than 1. Our next generation 50 gigahertz ROADM, which began production volume shipped since last quarter, 
+continues to ramp. 
+
+Our recently introduced Super Transport Blades have gained very positive traction in the market. Based on the strong 
+customer interest, growing order intake rate, and unique positioning in the market, we expect these advanced products 
+to provide profitable growth for our Optical Communications business into the foreseeable future. 
+
+
+All geographic regions grew quarter-over-quarter. Asia had strong sequential growth and, once again, we reported 
+record revenues in China. 
+
+The revenue breakdown between transport and transmission was 63% and 37%, respectively. Trends we are seeing in 
+transmission include the disruption in the 10 gig market with our tunable XFP and more demand for 10 gig transceivers 
+and VCSELs for wireless backhaul and data center applications. 
+
+For transport, we continue to work closely and collaborate with our customers on 40 gig and 100 gig components and 
+modules. We continue to innovate to maintain our technology leadership, most recently with several new 
+announcements at OFC, including a demonstration of the industry's first 1X23 WSS platform which will enable 
+colorless and directionless architectures, essentially enabling any add/drop port to be switched to any degree in the 
+ROADM node. We also announced new low port-count WSSs for 150 gigahertz applications. We introduced a suite of 
+tunable XFP variants with performance enhancements that we believe will continue the adoption of pluggables and 
+300-pin applications. We also announced plans to develop a range of new 40 gig and 100 gig Optical products, 
+including transponders, modulators, coherent optical mixers, and new ITLA products. 
+
+Bandwidth capacity requirements continue to increase, requiring a great degree of flexibility in the network. To support 
+this, all the components within an optical network must also be agile. We've collaborated with our customers on this 
+mix of new products that will help them get the most agility out of every network node in the most cost efficient way 
+possible. 
+
+Our Lasers business grew 12% sequentially and 63% year-over-year. We saw strength predominantly in our solid state 
+lasers. Geographically we saw significant growth in Japan as the region accounted for 35% of revenue in the third 
+quarter. Recovery continues in Tier 1 customers and we are also starting to see recovery in Tier 2 customers as the LED 
+market strengthens. We have also completed the major lean initiatives in Lasers as evidenced by an 8 percentage point 
+improvement as Lasers' gross margins increased to 41.3%. 
+
+Next, our Advanced Optical Technology segment. In Q3, the AOT segment reported record revenues, growing 7.3% 
+sequentially to $58.6 million, record gross profits of $30.1 million and record operating profits of $22.5 million. Also 
+bookings were at a historical high and book to bill was greater than 1. We saw strength in our Currency business, where 
+we had record revenues in our Custom Optics business which includes our 3D products and filters for gesture 
+recognition applications. 
+
+Additionally, our Custom Color Solution sales were strong, in part due to Cadillac, who chose JDSU ChromaFlair 
+pigments in order to create sophisticated color options on its cars. The pigments add depth to automobiles by changing 
+color when viewed from different angles. A collaboration with Cadillac with a color resource helps keep Cadillac 
+products at the forefront as a premier brand. 
+
+And as I mentioned earlier, AOT is also providing color shifting pigment on the new $100 bill announced in April, 
+specifically on the Liberty Bell and on the number 100 on the bill. We saw a continued softness in our Transactions 
+Card business as new credit card issuances remain depressed. Despite this softness, the AOT segment produced record 
+revenues. 
+
+On to our corporate priorities, we continue to capitalize on the positive long-term growth opportunities in our markets. 
+JDSU will continue to focus on four priorities. These priorities will enable us to further differentiate ourselves, increase 
+our leadership position in the markets we serve, and further improve our financial model. First is our focus on 
+profitable, market-based innovation. 
+
+We continue to collaborate with our customers and invest in profitable market-based innovation to drive market share 
+gains and profitable revenue growth. It is our goal to increase the percentage of revenue from products that are less than 
+2 years old to greater than 50% over the next 3 years. 
+
+We have made significant progress with new product introductions, especially Optical Communications. Additionally, 
+the AOT segment and Optical Communications business developed filter and diode laser technologies for use in 
+gesture recognition, a new market for JDSU. We began shipments to a major home gaming provider this quarter and 
+
+
+expect the revenue to ramp over the next few quarters. We are also exploring other opportunities as new applications 
+develop, such as automotive controls, lighting control, and home security. 
+
+Our second corporate priority is increasing our global market presence. We are placing more emphasis on expanding 
+our market penetration and receiving our fair share of business outside of our traditionally strong North American and 
+Western European markets. We've continued to see this emphasis paying off. For example, growth in Asia 
+year-over-year has exceeded 25%. In Asia, revenue in Q3 was 26% of overall JDSU revenue. 
+
+Our third priority is lean. The heavy lifting to reduce our costs and improve our financial model is complete and we are 
+seeing evidence of the model working as the top line improves. This is especially evident in our Optical 
+Communications and Laser businesses, where gross margins increased to 26% and 41%, respectively, which are 
+significant improvements for both business units. 
+
+And finally, maximizing the utilization of our assets. We are focusing on the utilization of our assets in order to 
+maximize shareholder value. Our priorities for cash remain generating cash and strategic accretive acquisitions in our 
+core or adjacent markets. JDSU has continued to generate positive cash from operations for 14 consecutive quarters. 
+
+The Storage Network Tools acquisition that took place a little less than a year ago has been accretive. And we expect 
+the NSD acquisition to produce similar results after it has been fully integrated into JDSU. 
+
+As I conclude my formal remarks, I would like to thank our employees for their continued efforts and dedication. We 
+are seeing a clear path to recovery and long-term success after implementing our strategic initiatives during a difficult 
+recessionary period. I would also like to thank our customers, partners, vendors and our long-term shareholders for 
+their continued support of JDSU. 
+
+With that, I will hand the call over to Dave who will take you through the details of our financial performance in Q3 
+and discuss our Q4 outlook. 
+
+David Vellequette, Chief Financial Officer 
+
+Thank you, Tom. Before I start, please note that all numbers are non-GAAP unless I state otherwise. Third quarter 
+revenues of $332.9 million were down 3.2% from the previous quarter and up 19.2% when compared to the third 
+quarter of fiscal 2009. Revenues increased sequentially in our CCOP and AOT segments and declined in our Test and 
+Measurement segment due to March quarter seasonality and supply constraints of approximately $13 million. 
+
+For fiscal Q3, our Test and Measurement segment contributed 44% of total revenue, compared to 51% in fiscal Q2. Our 
+CCOP segment contributed 39% of total revenue and our AOT segment contributed 17% of total revenue compared to 
+33% and 16%, respectively in fiscal Q2. 
+
+Third quarter gross margin of 44.1% was down from the previous quarter's gross margin of 44.6% and up from the 
+third quarter fiscal 2009's gross margin of 41.8%. The sequential decline in gross margin is due primarily to segment 
+mix. The year-over-year improvement is due to improved margins in the CCOP segment. 
+
+Operating expenses for the fiscal third quarter of $124.6 million were down from the previous quarter's $125.3 million 
+and were up slightly from the prior year's third quarter operating expenses of $123.2 million. The sequential decline 
+reflects how the company's variable pay plan adjusts with the operating profit of the company. 
+
+Our operating income for the quarter was $22.1 million, or 6.6% of revenue, which compares to an operating income of 
+$28.1 million or 8.2% of revenue for the previous quarter and an operating loss of $6.4 million or negative 2.3% of 
+revenue for the prior year. 
+
+Net income for the third quarter of $23.2 million or $0.10 per share compares to the previous quarter's net income of 
+$26.6 million or $0.12 per share and the prior year's net loss of $5.4 million, or a loss of $0.03 per share. A detailed 
+reconciliation of our non-GAAP results to our GAAP results is available in today's press release. 
+
+
+Our third quarter non-GAAP results exclude, among other items, $18.6 million of amortization of acquired technology, 
+a $10 million charge related to stock based compensation and a $3 million for restructuring and non-recurring 
+expenses. Including the noted items, the third quarter fiscal 2010 GAAP net loss narrowed to $11.9 million or a loss of 
+$0.05 per share, which compares to the previous quarter's GAAP net loss of $19.5 million or a loss of $0.09 per share. 
+
+Now looking at revenue by region. Americas' revenue of $151.7 million was 45% of total revenue, down $21.9 million 
+from the prior quarter. The decrease was in Test and Measurement and was primarily due to approximately $10 million 
+of service provider budget flush that was realized in the December quarter and seasonally lower service provider 
+demands in North America and Latin America. 
+
+EMEA revenue of $95.8 million was 29% of total revenue, up 1 million from the prior quarter as we expanded our 
+product penetration into countries such as Morocco, Croatia and South Africa. Asia Pacific revenue was $85.4 million, 
+up $10 million from the previous quarter and represented 26% of total revenue. The increase was due primarily to 
+demand from Optical Communications customers in China and Laser customers in Japan. 
+
+Moving to the segments. In the Test and Measurement segment third quarter revenue of $145.7 million was down 
+17.6% from the previous quarter's $176.9 million, and up 14.1% from the prior year's $127.7 million. As previously 
+noted, the March quarter is typically seasonally soft as budgets are released during the quarter. In addition, we 
+experienced material supply constraints of approximately $13 million, the majority of which has been delivered in the 
+fourth fiscal quarter. 
+
+From a product standpoint, our field test revenue declined by 20%, lab and production revenue declined by 13% and 
+service assurance revenue declined by 18%. That said, we continue to see strong demand for wireless backhaul 
+solutions as growth in this market remains strong in both North America and Europe. 
+
+Book to bill for the quarter was greater than 1. Fiscal Q3 gross margin for Test and Measurement of 54.9% was down 
+compared to the previous quarter. The decrease in gross margin percentage was primarily due to product mix and lower 
+ASPs. Operating expenses in our Test and Measurement segment grew sequentially, primarily due to employer payroll 
+taxes and increased R&D spending. 
+
+Due to the lower revenue, increased ASP pressure and resulting impact on gross margins, along with the increase in 
+operating expenses, the Test and Measurement operating profit of $11.5 million, or 7.9% of revenue, decreased when 
+compared to the prior quarter's operating profit of $31.5 million or 17.8% of revenue. We believe that the Test and 
+Measurement market is experiencing a higher than normal level of ASP pressure. 
+
+As a result, we're implementing a number of actions designed to reduce our Test and Measurement cost structure by 
+approximately $3 million per quarter. These actions will impact both the manufacturing overhead and the operating 
+expenses of the business. 
+
+Additionally, as Tom noted earlier, we completed the acquisition of the NSD business from Agilent. The NSD 
+business's historical fiscal quarter ran from April through July, with up to 50% of the quarterly revenue being 
+recognized in the third month of the fiscal quarter. The NSD operating model also historically has higher gross margins 
+and operating expenses as a percentage of revenue when compared to the historical Test and Measurement operating 
+model. The targeted operating margin model for NSD upon full integration into JDSU is 20 to 23%, which is aligned 
+with the Test and Measurement operating model. 
+
+For our fiscal fourth quarter, the NSD business will only contribute two months of revenue forecasted to be between 15 
+and $20 million, subject to potential post-closing adjustments based on the terms of the acquisition; operating expenses 
+of 15 to $16 million which include temporary costs to integrate the business into JDSU. Therefore we expect that the 
+NSD business will have an estimated operating loss of 4 to 6 million for the June quarter. In the September quarter, we 
+expect the NSD business will continue to incur temporary transition costs, but will generate an operating profit. 
+
+Now to the Test and Measurement operating model. With the temporary incremental costs associated with the 
+acquisition of the NSD business, and the current Test and Measurement ASP pressure, the Test and Measurement 
+operating profit for the June and September quarters is expected to be below the targeted long-term operating margin 
+
+
+model of 20 to 23% when revenues are $175 million. We expect that for the June quarter, which will only have two 
+months of NSD revenue, the Test and Measurement operating margin will range between 11 and 14% of revenue. 
+
+For the September quarter, the Test and Measurement operating margin is expected to be between 14 and 17% of 
+revenue. We expect the Test and Measurement segment to be at the target operating margin model of 20 to 23% when 
+revenues are $175 million by the end of the calendar year. 
+
+Now moving on to our CCOP segment, the breakout of the key metrics for Optical Communications and Lasers is as 
+follows. Optical Communications' revenue for fiscal Q3 was $109.9 million, up 14.9% when compared to the previous 
+quarter's revenue of $95.6 million, up 23.4% when compared to the prior year's $89 million. Revenue that we were 
+unable to ship due to supply constraints totaled more than $5 million. 
+
+Gross margin for the quarter was 26%, up from the previous quarter's gross margin of 22.5% despite a nearly 6% 
+decline in ASPs. The ASP decline, as expected, was above our historical quarterly range of 2 to 4%. The improvement 
+in gross margin is attributable to reduced manufacturing costs, higher utilization of our fabs, and more favorable 
+product mix. Our target for sustainable gross margins remains in the 25 to 30% range. Book to bill was greater than 1 
+with the highest quarterly bookings in over 5 years. 
+
+In our Lasers business, third quarter revenue of $18.7 million was up 11.9% when compared to the previous quarter and 
+gross margins for the quarter improved to 41.3%. Book to bill was also greater than 1. 
+
+On a total segment level due to higher revenue and improved gross margin, operating income for CCOP was $12.5 
+million or 9.7% of revenue. We believe the CCOP operating model supports sustainable operating margins of 10 to 
+15% at revenue levels of $150 million or greater per quarter. 
+
+For the Advanced Optical Technologies or AOT segment, fiscal Q3 revenue of $58.6 million was up 7.3% compared to 
+the previous quarter and up 14.9% compared to the prior year. AOT book to bill was greater than 1 for the quarter. 
+Fiscal Q3 gross margin for our AOT segment was 51.5%, up from the previous quarter. 
+
+AOT's operating profit for the quarter was $22.5 million or 38.4% of revenue, up from the previous quarter's $19.6 
+million or 35.9% of revenue. The increase is primarily due to increased volumes in our Currency business. Our 
+sustainable operating model is for operating margins of 34 to 37%. 
+
+Moving to the balance sheet, the company's total cash was $713.1 million. The company's accounts receivable balance 
+grew as supply constraints resulted in a higher than normal level of shipments at quarter end. Days sales outstanding 
+increased to 65 days. The company was free cash flow positive $7.9 million for the quarter. The head count as of May 
+2 was 4,670 which includes nearly 700 employees from the NSD acquisition. 
+
+Now, to JDSU's operating models. Prior to the addition of the NSD business, the company's operating model supported 
+10% operating margins when quarterly revenues were between 375 and $385 million and gross margins were 46%. 
+This revenue range assumes a segment mix of 175 million from Test and Measurement, 150 million from CCOP and 50 
+million from AOT. 
+
+The NSD business's longer term operating model is for operating margins of 20 to 23% when quarterly revenues are 
+over $40 million per quarter. Therefore the combined operating model is for sustainable operating margins of 11% 
+when revenues are between 415 and $425 million per quarter. 
+
+Now to our Q4 guidance. First, some points to consider as you think about our financial performance over the coming 
+quarters. Lead times from our component suppliers may impact revenues in the quarter. In Q3, due to supply 
+constraints, we were unable to ship more than $18 million of customer demand. 
+
+Test and Measurement revenue is historically seasonally stronger in the June quarter as compared to the March quarter. 
+NSD revenue for the fiscal fourth quarter, will be for only 2 months and is expected to be between 15 and $20 million 
+and will incur operating expenses of 15 to 16 million, which includes temporary transition costs resulting in an 
+operating loss for NSD of 4 to 6 million. 
+
+
+Total operating expenses, including the 15 to 16 million for the NSD business, are expected to be 22 to $25 million 
+higher than Q3 level. The increase includes incremental selling costs associated with higher revenues, increased R&D 
+investment, and higher variable compensation associated with higher operating margins. 
+
+CapEx will be approximately 4 to 5% of fourth quarter revenue as we make investments in Optical Communications, 
+Optical Coatings and NSD to meet growing demand. Finally, we expect our quarterly tax provision to range between 2 
+and $3 million. 
+
+Taking into consideration the factors above and based on our current visibility, we expect fourth quarter revenues to be 
+between 385 million and $410 million and non-GAAP operating margins to be between 7.5 and 10%. 
+
+Operator, we will now take questions. 
+
+Q&A 
+
+Operator 
+
+[Operator instructions] Please limit yourself to one question only. Your first question comes from the line of Kevin 
+Dennean from Citi. Please proceed. 
+
+<Q - Kevin Dennean>: Yes. Good evening. Just wondering if we could hone in on CommTest and Measurement for a 
+bit. I understand the seasonal declines the drag – the sequential drag from the budget flush in fourth quarter. On the 
+operating margin front it looks to me like you turned about 8% operating margin at revenue levels that are comparable 
+to September's. Just wondering if there's any puts or takes in there that you can help us understand why maybe the 
+margin performance wasn't a little bit stronger in the quarter. 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: Yes. I think a couple of items that we noted is 
+primarily the ASP pressure that we talked about that we saw in the quarter. So that had an impact. The declines that we 
+talked about in the revenue were primarily in North America, which typically has a higher margin mix than what we 
+see in the previous quarter. So those are two of the factors. Also as we noted, we've increased our R&D investment in 
+the Test and Measurement area. So those are the main drivers behind it. 
+
+<Q - Kevin Dennean>: And then, Dave, just a quick follow-up. Can you talk a little bit about what's driving the ASP 
+pressure? What's changed in the marketplace that's creating this higher level of ASP pressures? 
+
+<A - David Vellequette, Chief Financial Officer>: Well one – a couple of things. First of all, with the revenue more 
+in the Asia Pacific and European markets as a percentage, and as I'd noted some of those countries that we've 
+penetrated in recently, those tend to have lower ASP prices. Secondly, we are seeing a more competitive environment 
+for some of these opportunities out there. And so we are seeing some more competitive bidding, quite frankly, on some 
+of the opportunities. 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: Yes, Kevin, I would say probably on the larger 
+deals we're starting to see more competitive bidding, especially as the market's starting to rebound. And I think 
+everybody is trying to grab some market share during that period of time. 
+
+<Q - Kevin Dennean>: Okay. Great. Thanks very much. 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: Thank you. 
+
+Operator 
+
+Your next question comes from the line of Mark Sue from RBC Capital Markets. Please proceed. 
+
+<Q - Mark Sue>: Thank you. In your guidance of 385 to 410, have you factored in some ongoing component side 
+tightness and also the regular deals that slip? And just if I look back, I don't think you guys have actually beat your 
+
+
+revenue guidance in over 2 years. When you give the targets for the next quarter, is that something that we can actually 
+start beating or is that like midpoint of the guidance that we should think about? 
+
+<A - David Vellequette, Chief Financial Officer>: So first on the constraints. We've taken all the constraints that 
+we're aware of and the lead times and communications we have with our suppliers into consideration when we 
+provided the guidance. 
+
+Secondly, we go through the same process every quarter to come up with the range of the guidance. And so the intent is 
+always to fall within that guidance range. In the last few quarters I think we were above the midpoint and I think the 
+majority of the time at midpoint or above, and this quarter we happened to be below the midpoint. 
+
+And again as we noted, we had about $18 million worth of product that our customers wanted that we were unable to 
+get to them during the quarter because of these constraints, which – those constraints had – lead times had increased 
+during the quarter from our suppliers. So that was an event that did happen during the quarter and impacted our ability 
+to meet customer demand in the quarter. 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: And I'll also say, Mark, for the especially for 
+CommTest with the network operators releasing their budgets towards the middle of the quarter and with component 
+lead times going out during the quarter, it made it a real stretch at the end to get the shipments out and to get those 
+revenues. So I don't – there still will be material shortages into this quarter. But we have more of a backlog and the 
+order release will be earlier from the customers this quarter. 
+
+<Q - Mark Sue>: Okay. And just then separately in Test and Measurement, it's usually a very high software content, 
+high margin business. And for us to see this pricing pressure, is that just because the growth concentration from a 
+regional basis or is it wireline versus wireless? Is it JDSU versus the Agilent component? And can we see that subside 
+over the next few quarters? 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: Yes, I think one of our competitors has announced 
+prior to us on this announcement and they talked about the pricing pressures and they had some degradation in their 
+gross margins. So we're seeing it in areas such as fiber optics tests in the field. We're seeing it again in some – as I 
+mentioned earlier, some of the larger orders that are being let. I suspect there will continue to be pressure out there. But 
+as the volumes continue to increase, we would hope that that would subside to some degree. 
+
+<A - Michelle Levine Schwartz, Investor Relations>: Next question, please. 
+
+<Q - Mark Sue>: Thank you. 
+
+Operator 
+
+Your next question comes from the line of Michael Genovese from Soleil Securities. Please proceed. 
+
+<Q - Michael Genovese>: Great, thanks a lot. Do you have any view into when these supply constraints – it sounds 
+like you're seeing multiple supply constraints across multiple business lines – but any sense on when they might let up? 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: We believe they're going to be with us for a 
+couple more quarters. One of the – it's mostly in the, more concentrated in the semiconductor area. We have one 
+supplier in the semiconductor area that we buy about 600 different parts from across CommTest and Optical Comms. 
+They have improved, I would say over the last 30, 60 days. But we would expect there will be continuing to be 
+shortages and it's primarily concentrated in that area. There are other areas of shortages, but that's been the prime one. 
+And that's where the lead times have gone out the furthest. 
+
+<Q - Michael Genovese>: Well intuitively to me it would seem like where you were supply constrained and your 
+customers' lead times are stretching out, that ASP pressures should actually be lessened in that kind of environment 
+with the potential to pick up once you are less supply constrained, if that makes sense. 
+
+
+So is that something – but it seems like there's ASP pressures, it's pretty good right now, I mean pretty heavy right now. 
+So do you think ASPs basically will continue at about the same rate of decline? Do you think that they'll ease or do you 
+think that they could potentially get worse once the supply constraint clears up? 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: I think it will help as the mix gets back to a larger 
+mix of North American revenue in the quarter we're in and beyond. So I think that, for one, will help as we go forward. 
+It is, I think, what your logic behind it is, I think, what we would all think; but it's not exactly what we saw this last 
+quarter. So we do hope that normalizes as we go forward. But we are taking the necessary actions to deal with it over 
+the next quarters. 
+
+<A - Michelle Levine Schwartz, Investor Relations>: Next question, please. 
+
+Operator 
+
+Your next question comes from the line of Greg Mesniaeff from Needham & Company. Please proceed. 
+
+<Q - Greg Mesniaeff>: Yes. Thank you. I was wondering if you can give us some more granularity on the geographic 
+mix of the pricing environment. In other words, are you seeing the greatest issues in the U.S. market vis-à-vis Asia? 
+And also you mentioned DOCSIS 3.0 is an early-stage opportunity. Is that an area where perhaps you have a more of 
+an early mover advantage and the pricing pressures are less severe? 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: I would say in the DOCSIS, as we mentioned, we 
+think by going with the second generation chip we do have an advantage performance-wise over our competitors. So 
+we do see less pricing pressure in that area. 
+
+I would say, again, on the pricing pressure; we see it in various geographic regions. It's always typically greater in Asia, 
+especially with lower configurations on a lot of the products. We did see it in Europe as well with some of the larger 
+orders. But it seems that, to be more following the large orders that a number of competitors are going after. 
+
+<A - Michelle Levine Schwartz, Investor Relations>: Next question, please. 
+
+Operator 
+
+Your next question comes from the line of Jeff Evenson from Sanford Bernstein. 
+
+<Q - Jeff Evenson>: Thanks. Looking back to your conference call on acquiring the Agilent Network Solutions 
+business, I recall hearing a number of 162 million for the full year that ended on October 31, 2009, suggesting about an 
+average quarter of 15 to 20 – or of about 40 million. 
+
+Now for the quarter you guided about 15 to 20 million in revenue which would be about half that; and I understand 
+how you get there from linearity. But given that I'd expect some growth given the strong environment over last year, 
+how come you guys aren't seeing that right now? Or did I do something wrong in the math? 
+
+<A - David Vellequette, Chief Financial Officer>: No, I think – I don't think you did anything wrong in the math. It's 
+
+– you were correct on what they did historically. And as they rollout some of these LTE solutions we hope to see some 
+improvement in that run rate. 
+But right now based on the forecasts we have on an asset that we just closed, right, our visibility from the most recent 
+forecast is as we stated for the two months. And we noted that the third month of their fiscal quarter, July, was typically 
+their strongest where we've seen them do as much as 50% of their revenue in the quarter in that month. 
+
+So I just wanted to make that – point out the fact that their strongest month of a quarter is going to be my first month of 
+the next fiscal quarter. So they are at that run rate right now. They are doing some LTE activities, as we said. And we 
+expect to see that – to get an opportunity to grow that top line with those LTE opportunities. 
+
+
+<A - Thomas Waechter, President and Chief Executive Officer>: We also see it complementary with what we're 
+doing in the Ethernet backhaul to get really a full end-to-end solution for wireless. So we see a lot of those 
+opportunities in front of us. We believe over time we'll be able to grow that revenue. I think this is really the starting 
+point as we just bring them inside of our business. 
+
+<Q - Jeff Evenson>: The strength that you saw in 980 pumps suggests that there are a number of long-haul fibers 
+being lit. What opportunities does that present for you guys? 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: I think we're just seeing strength and demand 
+basically through broadband applications across all the networks. So we're really seeing a strength across all of our, as I 
+mentioned, 4 or 5 major product groupings as we go forward. It's really strength across all the product line groups. 
+
+I would say one of the things that is emerging, though, is the higher usage of ROADMs in the cable networks. So we 
+are starting to see some real uptick. As we mentioned ROADMs were 25% of our total revenue for the OpComm 
+business and we had very strong bookings in that area. So we are seeing that starting to ramp very strongly. 
+
+<A - Michelle Levine Schwartz, Investor Relations>: Next question, please. 
+
+Operator 
+
+Your next question comes from the line of Ajit Pai from Thomas Weisel. Please proceed. 
+
+<Q - Ajit Pai>: Yes, good afternoon. 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: Hi, Ajit. 
+
+<Q - Ajit Pai>: Could you give us some color on 40 gig and 100 gig? You talked about we are having industry-leading 
+market share in field tests over there, but give us some color as to how material it is right now in field tests. Is it like 
+more than 5% of the overall Test and Measurement revenue as yet? Or it's not even close to that? And interest from 
+carriers there. Also on the Optical Component side whether 40 gig is what percentage of – 40 gig and higher, what 
+percentage of revenues it is. 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: Yes. For Test and Measurement 40 gig is a good 
+performer for us. 100 gig is mostly in the lab environment still. And those are higher unit price and higher margin 
+products, but not significant revenue for that business unit at this point. But I'd say 40 gig is a good contributor and 
+continues to grow for us in the field applications for Test and Measurement. 
+
+As far as Optical Communications, 40 gig is still a low percentage of our total volumes, but we do see a path for that 
+growing and we are seeing more interest in the 100 gig. But that's not really a major driver for revenue that we can see 
+in the real near future. 
+
+<Q - Ajit Pai>: And at what point do you expect 40 gig spending for the Test and Measurement side as well as in the 
+Optical Communication component side to actually become quite material to levels that are double current levels? Is it 
+2 to 4 quarters out? Is it further out than that? 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: I think for CommTest it's probably within that 
+range and Optical Comms it's less predictable from our viewpoint. 
+
+<Q - Ajit Pai>: Got it. Thank you. 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: Welcome. 
+
+Operator 
+
+Your next question comes from the line of Todd Koffman from Raymond James. Please proceed. 
+
+
+<Q - Todd Koffman>: Thank you very much. In the Test and Measurement segment, my recollection was when you 
+reported your December quarter results, you called out a book to bill for that segment of greater than 1. I might be 
+wrong on that, but that was my recollection. 
+
+And when you look at the material shortage amount of revenue missed, I think you called out 13 million, you're still 
+pretty down significantly. And now you're calling out that segment again book to bill greater than 1. So it seems like 
+there may be more execution issues going on in that business, relative to the demand you're actually capturing. Can you 
+give me any more color on that? 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: As I mentioned, I think the March quarter 
+particularly was complicated because of the timing. Most of the business comes from network operators. The timing of 
+the release of those budgets for the network operators, particularly in North America, mostly got inside of the window 
+of some of our longer lead-time products. 
+
+So then it comes down to the accuracy of forecasting down to some of these configuration levels. And I think that's 
+where the execution became complex and we did not get the level of revenue or shipments out that we anticipated in 
+the March quarter. I see that being a more straightforward situation in the quarter we're in, because the budgets are 
+already out and in front of us. And we actually have a larger backlog going into the quarter. 
+
+<Q - Todd Koffman>: But was there orders, bookings you received in the December quarter when you had that Test 
+and Measurement book to bill greater than 1 that have been lost in the quarter due to an inability to meet demand? 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: No. We don't believe – we said in the December 
+quarter we felt that we probably lost a couple million dollars worth of orders in that December quarter. We don't 
+believe in the March quarter that we've lost any. We don't have visibility to having lost any orders from our customers, 
+realizing that most if not all of our competitors have a very similar situation with the components and are having 
+similar types of issues. 
+
+<Q - Todd Koffman>: One last unrelated question. You call out these 4 priorities. The fourth one, I think we said was 
+accretive acquisitions. And in that sheet you update on your recent acquisitions going back the last 3 years or so, it's 
+notable that all of them were in the Test and Measurement area although there was one in Advanced Optical, nothing in 
+the Optical Comm area. And I was wondering if you view that area as a core business. 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: The Optical Comms business as a core business? 
+
+<Q - Todd Koffman>: Yes. 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: Yes. Today we have three core businesses as you 
+know. So we look at them as all core businesses. I think that market itself has been in a much different situation than 
+either the AOT or CommTest market over the last 2 or 3 years, with consolidation and some of the complexities in that 
+market. So that's probably the prime reason why we haven't had any acquisitions in that area. 
+
+<Q - Todd Koffman>: Thank you. 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: You're welcome. 
+
+Operator 
+
+Your next question comes from the line of Paul Bonenfant from Morgan Keegan. Please proceed. 
+
+<Q - Paul Bonenfant>: Yes. Hi thanks and good afternoon. Just first, a housekeeping question. I may have missed it, 
+but did you give the gross margin for the AOT segment? 
+
+<A - David Vellequette, Chief Financial Officer>: Yes. It's 51.5. 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: 51.5%. 
+
+
+<Q - Paul Bonenfant>: 51.5. Thank you. Now coming back to pricing and again if you may have talked about this. We 
+talked a lot about ASPs for CommTest. You saw pretty severe pricing pressure, higher than normal in the March 
+quarter, 6%. Are you seeing relief in the June quarter? 
+
+<A - David Vellequette, Chief Financial Officer>: The pricing – we noted on our last call that for the – when the 
+December quarter ends, we're negotiating a number of contracts with our customers in the Optical Comms area where 
+you have the annual, the quarterly and the semi-annual contracts all being negotiated. So we noted that we expected the 
+ASP decline in Optics to be greater than the 2 to 4% range. And so we used this opportunity to clarify exactly what that 
+was. 
+
+<Q - Paul Bonenfant>: Yes and I appreciate that. I'm just wondering if you're seeing some relief on that pricing in the 
+June quarter. If it's coming back to a more normalized range. 
+
+<A - David Vellequette, Chief Financial Officer>: Yes. We expect it to be in the more normalized range, right? 
+Because now you've established this new level of pricing, right? So if it's a quarter – if we look at it as a 
+quarter-to-quarter sequential impact. So now prices for the annual customers have been set, for the semi-annual 
+customers. So we expect to be in that 2 to 4% range again. 
+
+<Q - Paul Bonenfant>: And a quick one on China. There have been some concerns about CapEx declines from 
+Chinese carriers, potentially some Chinese vendors seeing softness in demand in 2010 versus year-over-year. It doesn't 
+sound like you're experiencing any softness in either your OpComm or your CommTest. Are you expecting any 
+downtick in your exposure to China or Chinese vendors as the calendar year progresses? 
+
+<A - Thomas Waechter, President and Chief Executive Officer>: We're not forecasting that. As you noted, we're 
+seeing significant growth in Asia in total. And China has been a real strong point for us, particularly in OpComm, but 
+also starting to improve with CommTest. We believe the operators will continue to make strategic investments. And 
+that really is where we best line up with those customers in Asia as well. So we have not forecasted to that at this point. 
+
+Operator 
+
+Your next question comes from the line of Subu Subrahmanyan from Sanders Morris. Please proceed. 
+
+<Q - Natarajan Subrahmanyan>: Thank you. I had two quick clarifications and then a question. The clarifications 
+are first on the 400 million in orders. Did that include NSD or was that JDSU pre-NSD? And Dave, could you provide 
+a gross margin guidance number? 
+
+And then the question was around the 11% operating margin you talked about at the 415 million to 425 million range. 
+It looks like if you took a full quarter of NSD and added it to at least the higher – towards the higher end of the range; 
+you're there kind of already. So can you just talk about the breakup of that? And getting into early 2011, if you'd expect 
+to hit that on a sustained basis, given where revenue run rate is right now? 
+
+<A - David Vellequette, Chief Financial Officer>: Okay. First of all, the 400 million was without any NSD because 
+that closed in the current fiscal quarter. So it was only bookings related to what I'll call JDSU classic business. 
+
+We do not give gross margin guidance. And as far as the operating model, basically you're right. You could just take 
+the model we had before. And I was basically showing that we could just add on to that what the operating model is 
+supposed to be for the NSD group. 
+
+And this is about having a sustainable operating margin. It doesn't mean that we couldn't go above that based on mix 
+and other opportunities, but the point is is that we can be sustainably there. 
+
+And the goal is to be sustainably there as we finish the calendar year. As I noted what would be happening to the Test 
+and Measurement, the challenges Test and Measurement area with NSD would have over the June and September 
+quarters in the call. 
+
+
+<Q - Natarajan Subrahmanyan>: Understood. But on a run rate basis going into 2011, with a full quarter and if you 
+took out some of the September effects, that's the run rate basis you're expecting, given where your revenues are. For 
+operating margin. 
+
+<A - David Vellequette, Chief Financial Officer>: It's more of a sustainable level and the idea as we give guidance 
+on each call of what the current quarter looks like, we'll talk about where we think the operating margin will fall. But 
+the real point is, is how we're modeling the company to sustainably be – because the mix will change, right, in any 
+quarter – to sustainably be able to do at 11% operating profit at that revenue level. 
+
+Operator 
+
+Ladies and gentlemen, this concludes the question-and-answer portion of the call. I will now turn the call back over to 
+Tom Waechter for closing remarks. 
+
+Thomas Waechter, President and Chief Executive Officer 
+
+Thank you, operator. As our call concludes I would like to reiterate some key points. First, demand for our products 
+across all our business segments are improving with the economic recovery. Very strong bookings of $400 million in 
+Q3 were the highest we have seen since fiscal 2008. 
+
+Our CCOP and AOT segments have performed exceptionally well, growing volumes, gross profits and operating 
+income. Although we did not achieve the same high level of performance in our Test and Measurement business during 
+fiscal Q3, we are confident that the operational performance will rebound by the end of the calendar year, based on 
+actions that are already underway and the strong commitment and the dedication of the Test and Measurement team. 
+
+We continue to focus on innovation to achieve long-term, sustainable growth. We are seeing momentum with our 
+recent product introductions across all 3 businesses and see new opportunities in markets such as gesture recognition, 
+3D and wireless test. 
+
+In closing, I'd like to welcome our new NSD employees. The technology leadership and innovative capabilities they 
+bring to JDSU will significantly add to our efforts in providing leading Communications Test and Measurement 
+solutions to our customers as well as enhancing our profitable growth initiative. 
+
+Michelle Levine Schwartz, Investor Relations 
+
+Thank you again for joining us today. We appreciate you taking the time and for your interest in JDSU. Have a good 
+evening. 
+
+Operator 
+
+Ladies and gentlemen, this concludes the presentation. Thank you for your participation in today's conference. You 
+may now disconnect. Have a great day. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+
+© COPYRIGHT 2010, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

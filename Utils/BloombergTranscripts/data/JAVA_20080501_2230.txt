@@ -1,0 +1,697 @@
+Q3 2008 Earnings Call 
+
+
+Company Participants 
+
+• Ron Pasek, Vice President, Treasurer 
+• Jonathan Schwartz, Chief Executive Officer and President 
+• Michael E. Lehman, Chief Financial Officer and Executive Vice President of Corporate Resources 
+Other Participants 
+
+• Richard Gardner 
+• Shannon Cross 
+• Ben Reitzes 
+• Jeff Fidacaro 
+• Katy Huberty 
+• David Bailey 
+• Andrew Neff 
+• Keith Bachman 
+• Louis Miscioscia 
+• A.M. Sacconaghi, Jr. 
+• Bill Fearnley 
+• David Wong 
+• Chris Whitmore 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon. My name is Kathy and I will be your conference facilitator. At this time, I would like to welcome 
+everyone to the Sun Microsystems fiscal year 2008 third quarter results conference call. 
+
+All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a 
+question and answer period. [Operator Instructions] 
+
+I would now like to turn the call over to Mr. Ron Pasek, Vice President and Treasurer for Sun Microsystems. 
+
+Ron Pasek, Vice President, Treasurer 
+
+Good afternoon. Thank you for joining the Sun Microsystems quarterly conference call. I am Ron Pasek, Sun's 
+Corporate Treasurer. With me today is Jonathan Schwartz, Sun's CEO, and Michael Lehman, Sun's Chief Financial 
+Officer and Executive Vice President of Corporate Resources. The purpose of today's call is to discuss the results of 
+Sun's fiscal year 2008 third quarter, which ended on March 30, 2008. 
+
+During the last hour, we published a copy of the Operations Analysis data sheet, with nine quarters of financial and 
+operations information, including the quarter completed on March 30, 2008. If you have not received the 
+announcement or the detailed financial data sheet for any reason, or you wish to hear a replay of this conference call, 
+you may log onto our website at sun.com/investors. We have also posted slides you can view on the web which 
+accompany our prepared remarks. These slides may be viewed at the same URL: sun.com/investors. After the prepared 
+
+
+remarks of our call today, we will devote the remaining time to Q&A. 
+
+During the course of this conference call, we will be making projections and other forward-looking statements 
+regarding expected future financial results and business opportunities. Our actual results may be very different from our 
+current expectations. We encourage you to read the 10-Ks and 10-Qs that we file periodically with the SEC. These 
+documents contain a discussion of the risks facing our business, including factors that could cause these 
+forward-looking statements not to come true. We do not currently intend to update these forward-looking statements. 
+
+In addition, during the course of the conference call, we may describe certain non-GAAP financial measures, which 
+should be considered in addition to and not in lieu of comparable GAAP financial measures. Please refer to the ops 
+analysis posted on our website at sun.com/investors for the most directly comparable GAAP financial measures and 
+related reconciliations. 
+
+Now let's get to the financials. Sun's total revenues for the third quarter of fiscal 2008 were $3.266 billion, a decrease of 
+0.5% as compared with $3.283 billion in revenue reported in the third quarter for fiscal 2007. Total gross margin was 
+44.9% of revenue, an increase of 0.4 percentage points over the gross margin for the third quarter of fiscal 2007. Total 
+R&D and SG&A expenses were $1.446 billion, a decrease of $25 million year over year. In the third quarter of fiscal 
+2008, we recorded a $52 million tax provision. 
+
+GAAP net loss for the third quarter of fiscal year 2008 was $34 million or a loss per share of $0.04 as compared with 
+net income of $67 million or earnings per share of $0.07 for the third period of fiscal year 2007. 
+
+Q3 Product revenues totaled $2.003 billion, a decrease of 2.8% year over year. Within Products revenues, computer 
+systems product revenue was $1.473 billion, an increase (sic) [decrease] of 1.8% year over year. Storage products 
+revenue was $530 million, a decrease of 5.4% year over year. 
+
+Q3 Services revenue totaled $1.263 billion, up 3.3% year over year. Within Services revenue, support services revenue 
+was $961 million, up 1.2% year over year. Revenue from professional services and educational services totaled $302 
+million, an increase of 10.6% year over year. 
+
+We ended the quarter with cash and marketable debt securities balance of $3.801 billion and generated positive cash 
+flow from operations of $329 million. 
+
+During Q3 '08, we repurchased 17.5 million shares of our common stock which equates to $300 million. Shares were 
+repurchased at an average price of $17.15. There are currently $500 million remaining of the $3 billion share 
+repurchase program we announced in Q4 '07. 
+
+With that, I will turn it over to Jonathan. 
+
+Jonathan Schwartz, Chief Executive Officer and President 
+
+Great; thanks, Ron. First let me start with the obvious. Our third quarter was a challenging one in which US macro 
+factors impacted our overall performance and really overshadowed the progress we made in other parts of the world. 
+Our teams delivered growth in 12 out of 16 selling geographies during the quarter with double digit performance in a 
+number of emerging markets. That being said, I am disappointed and I will spend time today talking you through 
+various factors that came into play throughout the quarter that caused us to come in below our own expectations. I will 
+then turn it over to Mike, who will walk through the various operational adjustments we will be making to best position 
+Sun for efficiency and growth moving forward. 
+
+To start, I want to recognize that it was a seasonally challenging quarter. This was expected. However, in addition 
+during March we saw a substantive change in US sentiment along with a change in orders, mix, and closing with 
+purchase decisions postponed on the basis of macroeconomic uncertainty. In terms of US vertical performance during 
+the third quarter, our Financial Services business specifically in the Northeast was solid and on plan, while the majority 
+of weakness came in our government vertical as well as industries with significant consumer exposure including 
+retailers and the telecommunications sector. 
+
+
+Collectively, this slowing had the most pronounced impact on the higher end of our system product sales from high end 
+tape libraries to enterprise servers. The net result was a gap in US performance which given its prominence in our 
+overall business, typically around 40% of total revenue, had a significant effect on our overall results. As Mike will 
+review in a moment, we are going to be making some prudent steps to adjust our spending profile, positioning us for 
+continued profitability and again improving financial performance. It's important to note we are continuously making 
+choices to align strategically, geographically, and operationally with our plan for long term growth. This year will be 
+no different. 
+
+Turning to our progress in the quarter, we continue to see the market align with our investments around 
+high-performance computing, open source innovation, eco-efficiency, and most importantly on using technology and 
+network computing as a source of competitive advantage. As I mentioned earlier, we continue to see very strong 
+growth in key markets outside of the US, namely across EMEA, Asia-Pacific, and the international Americas. More 
+specifically, we see the emerging markets across these geographies as key components to our growth strategy as 
+evidenced by 20% year over year growth in Brazil, 30% year over year growth in India, 8% growth in China, growth in 
+Korea, Russia, and 18% growth in the Middle East, Africa, and eastern Mediterranean region. 
+
+We are committed to making the necessary investments to support and fuel the momentum we see, driven by our open 
+source platform from MySQL to OpenSolaris to our newly announced Open Storage platforms alongside our 
+ultra-efficient Niagara and x86 systems. 
+
+Turning to products, those Niagara platforms once again grew billings at an impressive clip of 110% up year over year 
+to approximately 300 million, as productivity and efficiency remain among the highest priorities for our customers 
+across the world. Our x86 systems business also continued to advance and we are seeing strong growth in our blades 
+platforms, and wins in the burgeoning high-performance computing sector. 
+
+Our disk based storage business was up 6% within the quarter and although we saw declines in libraries and high-end 
+storage systems, we have a great variety of new open storage innovations to deliver to the market within the next few 
+quarters, leveraging our open source VFS system to deliver differentiation, performance, and efficiency to a market 
+we've historically been unable to reach. 
+
+As for a few other highlights during the quarter, we signed a landmark collaboration agreement with the People's 
+Republic of China Ministry of Education to cultivate integrated circuit engineering talent and industry development 
+based upon our OpenSPARC open source silicon platform. This endorsement will introduce a generation of Chinese 
+students to Sun and our innovation while providing China with the foundations of its own indigenous microelectronics 
+capabilities. 
+
+Secondly, we announced an award from the Defense Advanced Research Projects Agency, known as DARPA, for 
+research focused on microchip interconnectivity by an on-chip optical network enabled by Silicon photonics and 
+proximity communication. This work will create more opportunity in differentiation for Sun in the construction of very 
+high capability and productivity data center facilities. 
+
+And finally, we announced the closing of two critically important acquisitions, furthering our presence in the open store 
+software marketplace; first with innotek, whose VirtualBox products provide free desktop virtualization, especially to 
+developers with multiple runtime and operating environments on their laptops; and then MySQL, the world's most 
+popular open source database. The integration of these acquisitions continues to go well and with MySQL in particular, 
+we found enormous receptivity to the technology and value proposition from among a broad spectrum of our customers 
+who are already signing Sun services agreements. Just a sampling of these customers ranging from Web 2.0 startups to 
+large enterprises, companies include Thomson Reuters, Glasses Direct, Newforma, and ScienceLogic. I'm also pleased 
+to report that the MySQL team has performed on behalf of Sun from the minute we closed the deal this quarter. 
+
+In closing, although this was a tough quarter considering the various factors I just reviewed, we feel the opportunity 
+before us remains as strong as ever. From providing the world's first open storage platform to deliver solutions based 
+on the number one open source database, and continuing the ramp of OpenSolaris on Sun and non-Sun hardware, we 
+remain confident in the durability of our business and our ability to improve operational discipline and in the important 
+
+
+product and go-to-market investments that we are making. 
+
+With that, I would now like to pass it over to Mr. Lehman for more details and specifics on our results and a detailed 
+look at the cost structure initiatives underway. 
+
+Michael E. Lehman, Chief Financial Officer and Executive Vice President of 
+Corporate Resources 
+
+Thanks, Jonathan. I am going to provide a bit more detail about our Q3 results. We'll also talk about our current view of 
+Q4 and the steps we are taking to enable us to make improvements in our business during the next fiscal year. 
+
+As Jonathan mentioned earlier, our revenues came in substantially less than we had expected. This quarter's results 
+truly reflect that one major geography, the US, did not meet expectations. At our Analyst meeting in February, I stated 
+that we expected revenue growth in the second half of this fiscal year of at least 5%, and that we did not expect all that 
+growth to occur in Q4. During the first week of March, we began to get signals from our larger US channel partners 
+that they were not seeing the sell-through of products that they had expected. In each of the remaining weeks of March, 
+we experienced a significant number of deferrals of purchases from many of our large US end-user customers as well. 
+
+As a result, the US revenues decreased approximately 10% during Q3 on a year-over-year basis. With the US 
+traditionally being approximately 40% of our business, we were not able to offset that decrease by the growth in the 
+remaining geographies. We do not believe that much of this business was lost to competitors, as many of the deals and 
+projects that we were tracking are still active in our pipeline today. However, our experience with such deferrals is that 
+they don't all come back immediately and become additive to the next quarter. 
+
+The overall revenue decrease in Q3 was experienced in both Computer Systems and Storage. In Systems, the shortfall 
+was most noticeable at the high end of the product line; while in Storage, the shortfall was principally in the high end 
+tape library and drive products. In fact, both Computer Systems and Storage missed our internal expectations by 
+roughly the same amount, more than $100 million each in the quarter. The fact that the shortfall was in the higher end 
+of both product lines is the principal reason for the sequential drop in products gross margin, which was 3.6 points 
+percentage decrease from Q2 to Q3. 
+
+Our Services business, despite challenges associated with the implementation of new systems for quoting, billing, and 
+managing support, essentially met our expectations from both a revenue and margin standpoint. There are always 
+difficulties when bringing up new systems and this was no exception. Our Professional and Educational Services 
+practices, which principally assist customers with the design and implementation of Sun-based intellectual property, 
+showed good year over year revenue growth in Q3, more than 10%. At the highest level, even with Q3 revenues that 
+were more than 200 million below our internal expectations and a pronounced mix shift towards the midrange and 
+lower end product sets, we improved our product gross margin slightly on a year-over-year basis. Our Services margins 
+are quite volume sensitive and we also delivered a modest improvement in year over year service gross margins in Q3. 
+
+As we said last quarter, currency continues to provide a positive impact to our EMEA and APAC based revenues as the 
+US dollar continued to weaken. Generally speaking, our results include some benefit from exchange rate movements in 
+both the revenue and gross margin lines. As in the past, such benefits are largely offset by the negative impact of such 
+currency movements on our operating expenses as local currency based expenses are converted to US dollars. 
+
+We also continue to make progress towards another longer term goal, that of a more durable and predictable business 
+model. An increasing amount of deferred revenue is the proxy for that goal as it provides a stable base for future 
+quarters' results. In Q3, deferred products revenue increased by approximately 28% on a year over year basis. This 
+primarily reflects the timing of installation and/or acceptance of a broader set of products, which often has an ancillary 
+benefit to us in terms of additional professional services. 
+
+Our deferred service revenue was down 1% on a year-over-year basis in Q3. This is one area in which the system 
+conversion did have a nominal impact on our balance sheet. Due to the timing of receipt of a number of purchase orders 
+
+
+late in the quarter, we were able to process only a portion of the service contract for these customers. We were able to 
+record the appropriate amount of revenue for the quarter but were unable to record the entire value of such contracts 
+which would have been deferred revenue. We expect these contracts will be fully processed in Q4. The amount of 
+unbilled and deferred revenue associated with these contracts at the end of Q3 was not significant. 
+
+Turning to operating expenses, total R&D and SG&A expenses were down 25 million in Q3 on a year over year basis. 
+This is due to continued savings from real estate consolidations, reduction of certain incentive payments, and a variety 
+of other factors. 
+
+I would point out that head count is up approximately 1,100 sequentially. We added approximately 600 people from the 
+acquisition of MySQL, innotek, and Vaau. And as we had previously indicated, we believe we have opportunity to 
+grow revenues in a number of emerging markets and accordingly have added approximately 300 people in our global 
+sales organization. Additional head count was added in engineering and IT. We will continue to hire in areas where 
+there are near term growth opportunities as well as where we can find and when we can find key engineering skills. 
+
+I would like to summarize the impact of the MySQL acquisition on the results for the quarter. As most of you know, 
+this transaction closed in late February. Our income statement reflects the results of the revenues and operating 
+expenses of that business as well as a one-time charge for in-process R&D of approximately $22 million as well as one 
+month amortization of certain acquired intangible assets. In short, as we had expected, the overall impact of this 
+acquisition on our Q3 income statement was a decrease of approximately 30 to 35 million of net income or 
+approximately $0.04 per share. 
+
+From an integration standpoint, things are going well. Our teams are operationally connected already and customer 
+response has been great. In Q4, the impact of MySQL is currently estimated to be in the same overall range as in Q3. 
+This will reflect a near term full quarter impact of the standalone business and ongoing amortization. 
+
+In Q1, we began reporting a non-GAAP measure that we entitled adjusted EBITDA. We believe that it is important to 
+look closely at our company's fundamental value in addition to ways reported under Generally Accepted Accounting 
+Principles. The principal measure that we use at Sun is adjusted EBITDA as that measure more effectively depicts the 
+cash-generating capability of our quarterly results. During Q3, our adjusted EBITDA was $230 million or 7% of 
+revenues, an increase of 7.5% on a year over year basis. 
+
+Looking at Q4 and beyond, there are a number of factors that we are looking at. We continue to focus on revenue 
+growth as a top priority and we are taking action to improve the level of profitability. In Q4, we intend to take a 
+restructuring charge between 130 and $220 million. The actions include the reduction in force of approximately 1,500 
+to 2,500 people. We expect that this will result in a more efficient coverage model with resources aligned to growth 
+opportunities as well as a more focused and effective demand creation capability. We expect that this restructuring will 
+lower our annual operating expenses by approximately 100 to $150 million on an annual basis. We expect the majority 
+of this run rate benefit will be reflected in our income statement by Q2 next fiscal year. 
+
+Given our Q3 experience in the US, we have revised our view of Q4 revenues. There still appear to be a number of 
+customers whose spending plans are uncertain. We now view that our Q4 revenues will be roughly flat on a year over 
+year basis. We still plan to complete the conversion of a number of our EMEA channel partners to sell-out as we did 
+with our US and China partners in Q2. The impact of that change, which will be in the range of a 20 to $40 million 
+reduction in revenues in Q4, is contemplated in the above statement. 
+
+We do expect a sequential increase in gross margin for both products and services due to improved mix and volume 
+respectively. Excluding the impact of MySQL and the restructuring charge, we expect to be solidly profitable in Q4 at 
+the revenue level noted above. Our previously stated guidance ranges for the full fiscal year 2008 for R&D/SG&A of 
+
+5.7 to 5.9 billion, stock-based compensation of 215 to 240 million, amortization of intangibles of 250 to 300 million, 
+and a tax provision of 200 to 250 million are all still in an effect. 
+Net interest income is now expected to be 150 to 170 million for the full fiscal year 2008. 
+
+
+As we look at next fiscal year, the same uncertainties are on our minds. We had previously stated that we were 
+targeting prior to the MySQL acquisition a GAAP operating income of at least 10% next fiscal year, and we are 
+targeting a 9% level after this acquisition. 
+
+As I spoke about this, I articulated that we were basing this on a combination of revenue growth, gross margin 
+expansion, and operating expense reductions. It is clear that the single biggest inhibitor to our ability to achieve such 
+results is in fact what we are seeing now, a major economy in some difficulty. 
+
+We believe that we are on the right track. We are making the right investment and disinvestments, and plan to improve 
+our profitability next fiscal year on an annual basis. At the highest level, we intend to grow our revenues, maintain 
+annual gross margins, and reduce both R&D and SG&A in absolute dollars next fiscal year. We intend to capitalize on 
+the previously identified opportunities to grow our business due to the acquisition of MySQL. 
+
+We are currently targeting a GAAP operating margin including the impact of MySQL of at least 7% in FY '09. In our 
+June quarter conference call, we will talk more about next year but I wanted to at least give you a sense of where we 
+were headed at this time. 
+
+With that, I will turn it back to Ron. 
+
+Ron Pasek, Vice President, Treasurer 
+
+Thank you, Mike and Jonathan. I need to make one correction. Computer systems product revenue was 1.473 million. 
+It's a decrease of 1.8% year over year. 
+
+Before we begin the question-and-answer session, I would like to request that each of you ask just one question 
+consisting of one part. This way we hope to get through most of the questions in queue today. If there is time 
+remaining, we'll be happy to take your follow-up questions. Operator, Kathy, will you please start the 
+question-and-answer session? 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions] We'll take our first question from Richard Gardner from Citigroup. 
+
+<Q - Richard Gardner>: Thank you very much. You talked about the weakness primarily being in the United States. 
+But Europe also experienced a pretty sharp deceleration in local currency, and all the signs from your distribution 
+partners point to further deceleration in Europe. So I'm wondering if you can talk a little bit about what you're seeing in 
+Europe, whether you have seen any slowdown in business there toward the end of the quarter and what you think the 
+outlook there is for the next quarter or two. Thank you. 
+
+<A - Jonathan Schwartz>: Richard, this is Jonathan. For the most part, we haven't seen a similar slowdown or 
+anything even close to what we saw in US. Interactions with our partners and customers from Europe have been as 
+strong as ever. Again if anything, they are probably a little more focused on energy efficiency and moving toward open 
+source. So I think we remain pretty confident and pretty optimistic about the opportunity in Europe. 
+
+<A - Ron Pasek>: Operator, next question. 
+
+Operator 
+
+Our next question comes from Shannon Cross of Cross Research. 
+
+
+<Q - Shannon Cross>: Hi, yes, good afternoon. Can you talk a little bit more specifics about the restructuring, where 
+you're targeting, how you think it will roll through, anything you can give us just to get a little more clarity since you've 
+obviously been restructuring for a while, how you can do this without really impacting your revenue growth 
+opportunities more than they are being impacted right now from the economic standpoint? 
+
+<A - Michael Lehman>: It's Mike Lehman and as Jonathan mentioned up front, we are always looking at ways to 
+invest more effectively and disinvest where we can. And generally speaking, these disinvestments that we will be 
+making will be in areas that we believe will not have an impact on near term and longer term revenues. So it's not like 
+we haven't been thinking about this. We have been talking about for years the overall intention to reduce absolute 
+dollar R&D and SG&A expense. There are lots of ways to go do that. We have ongoing programs to do that. And in 
+particular, this particular time around, we are targeting the reductions where we believe there will be not near term 
+impact on revenues. 
+
+<A - Jonathan Schwartz>: And maybe just to piggyback on that, in some of the decisions we make, we decide to 
+concentrate on one investment rather than two but that initial investment could go in both markets. So the example 
+would be, we recently announced a full lineup of open source storage platforms. Those are now built off of entirely the 
+Solaris operating platform, leveraging the open source VFS file system. So on the one hand, we took R&D down as we 
+removed some of the proprietary technology that preceded that decision. But on the other hand, we can now take 
+Solaris, which was historically vectored at computers, and begin to use it to build out our storage business. So that's an 
+instance obviously of doing more with less, and again I think that reflects the priorities we hear from our customers, as 
+we move away from proprietary technology and really begin to eliminate their usage inside of Sun or across the 
+product line. We see our customers doing the same thing. 
+
+<A - Ron Pasek>: Operator, next question. 
+
+Operator 
+
+Ben Reitzes of Lehman Brothers, you may ask your question. 
+
+<Q - Ben Reitzes>: Yes, good afternoon. Could you talk a little bit more about your product line and it just – perhaps 
+you saw some weakness at the high end et cetera? How do we know it doesn't get worse in this economy? IBM has a 
+couple of new products coming out or already out and it's increasing competitiveness. Can you just give us a better feel 
+for why it might not get worse at the high end before it gets better? 
+
+<A - Jonathan Schwartz>: Yes. Hey, Ben. 
+
+<Q - Ben Reitzes>: Hey. 
+
+<A - Jonathan Schwartz>: We're seeing a couple of things. One, customers are clearly using small numbers – sorry, 
+large numbers of small computers to replace the need for very large computers, and that's why we saw our Niagara 
+business grow as rapidly as it did, and there really is no analogy in our competitors' product lines for what we're doing 
+with Niagara. It's an 8-core x 8-thread chip. It's the equivalent of a 64-way piece of silicon and that obviously allows us 
+to achieve levels of efficiency that our peers can't. And again, I think that's reflected in the growth. 
+
+Secondarily, we actually feel quite good about the competitiveness of our high end. Some of the decisions we saw in 
+the third quarter were decisions to push out revenue into the fourth quarter and we've seen some of those decisions now 
+closing in the fourth quarter. So we were very careful to go look through and see are these competitive issues, are these 
+distribution issues, are these economic issues, or execution issues. And in every event that we could identify, they were 
+decisions based on I think I'll exercise some caution and just put off the decision and see how things turn out. 
+
+Not surprisingly, there is a notable investment bank on the East Coast that found itself being sold to another investment 
+bank. Around the time of that transaction, we saw a lot of people wondering what was going to go on in the economy. 
+And again, there was some level of anxiety building up to that but we see some lightening of that. And again, we feel 
+very good about the competitiveness mix of our APL product line and the high end in general. Same thing, by the way, 
+
+
+applies to the tape platforms. 
+
+<A - Ron Pasek>: Kathy, next question. 
+
+Operator 
+
+Our next question comes from Jeff Fidacaro of Merrill Lynch. 
+
+<Q - Jeff Fidacaro>: I was wondering if you can give us a little bit more color of – the revenues are looking flattish 
+into the fourth quarter, how the regions are looking within that guidance and if you can talk a little more about some of 
+the deals that got pushed out, the attach rates, and the impact there? 
+
+<A - Michael Lehman>: It's Mike Lehman and I'm not going to give a forecast by the 16 geographies, but it's pretty 
+clear at the highest level, we expect that the US would still be down slightly year over year. We don't expect it will be 
+down as much as we saw in Q3, but we still expect as we look at the overall flat number, the US will be down a bit, 
+offset by the growth in EMEA in APAC. And clearly many of the deals that we are talking about have systems and 
+storage associated with them. Absolutely they are not separate deals. The fact that the two numbers were relatively 
+close to each other is not just a coincidence though there are a lot of them that are linked that are systems and storage, 
+when I talked about the shortfall. They are not all one for one but clearly there is a lot of affinity and a good attach rate. 
+
+<A - Jonathan Schwartz>: I think just alongside that and just to make sure everybody is aware of this, it's going to be 
+increasingly difficult for us to talk about attach rates when what is a storage device are exactly the same components 
+and exactly the same operating systems that are used in building out our servers. So the industry is converging; we are 
+one of the drivers of that convergence. And going forward, we are going to be clear about what our overall revenue is 
+and using the intellectual property we have to enter as many markets with that common platform. 
+
+<Q - Jeff Fidacaro>: Thank you. 
+
+<A - Ron Pasek>: Kathy, next question. 
+
+Operator 
+
+Thank you. Our next question comes from Andrew Neff of Bear Stearns. Andrew Neff, you may ask your question. 
+Our next question comes from Katy Huberty of Morgan Stanley. 
+
+<Q - Katy Huberty>: Thanks, good evening. Mike, can you go back over why product deferred revenues grew so 
+much given the market slowdown you saw late in the quarter and maybe touch on what you have seen in terms of deal 
+closings so for in April? 
+
+<A - Michael Lehman>: Yes, so again, the growth in product deferred revenues we've seen actually continued fairly 
+strongly in the last year, and it really is a reflection of the packaging of products and services that customers want. And 
+again as you saw with our professional services revenue growth of more than 10%, we are participating in the design 
+and build-out of data centers with our customers. And so there is often a combination of hardware and professional 
+services that results in a longer time for implementation and acceptance and that's what we are seeing. 
+
+And then again I think Jonathan touched on it a bit. We were tracking the pipeline in Q3. A lot of the deals are still 
+there. Some of those are closed, but as I said, I don't think it's prudent to assume that all of the deals that got pushed are 
+going to close in this quarter and then necessarily become additive to the prior run rate, which is why we think 
+prudently just looking at the overall number in Q4 to be relatively flat year-over-year. 
+
+<A - Jonathan Schwartz>: For a little more insight on the deferreds, we obviously have looked at the calendar and the 
+timeframe within which we expect those deferreds to convert to revenue. We have also looked at the overall mix of the 
+deferreds and it tends to be higher end systems and richer configurations because they are parts of higher value deals. 
+So again, that's just a little bit of insight into what the future holds for us. 
+
+
+<A - Ron Pasek>: Next question please? 
+
+Operator 
+
+David Bailey of Goldman Sachs, your line is open. 
+
+<Q - David Bailey>: Yes, thank you very much. In addition to the macro environment, could you please give us an 
+update on what's going on in the competitive front? I think you said that you didn't lose any share, but IBM was up 2% 
+in their UNIX business this quarter and you were down 2%. If you can give us an update there, that would be great. 
+
+<A - Jonathan Schwartz>: You bet. I don't really know how IBM counts because I think people look at iSeries as 
+being off I think it was 20% plus. So it's really tough to get it on a unit-by-unit basis. So I think one geography in which 
+we tended to struggle was the US; and again, I don't know how IBM breaks out US hardware performance specifically. 
+That might be an interesting question to ask. 
+
+But broadly speaking, we have seen endorsement and growth in the Solaris platform. That's both on our own hardware 
+as well as in the markets that our partners are creating. And we have continued to sign up OEMs for Solaris and the fact 
+that we have an open source operating system really doesn't have an analogy with most of our peers because they don't 
+have operating systems in the open source community. 
+
+And I think in terms of the share we are gaining on the Niagara front, we were up 100% year over year and I think it 
+would be interesting to look at how you measure that. I think we tend to measure it on the whole and just see ourselves 
+competitively as placed somewhat uniquely with a very attractive open source operating platform, and again one that 
+we can use to enter not only new areas of the server market, but we can begin to much more aggressively push out into 
+the storage market. 
+
+<A - Ron Pasek>: Next question please? 
+
+Operator 
+
+Andrew Neff of Bear Stearns, your line is open. 
+
+<Q - Andrew Neff>: I wanted to go back to the guidance you are giving. In the prior actually past couple of conference 
+calls, you talked about that you would get to this, to the margin guidance and you would take steps, as I recall, to get 
+there regardless. And now you seem to be saying the economy is what it is; we are just going to have to bring the 
+guidance down. Why can't you pull additional levers to stay with the margin guidance that you gave before? 
+
+<A - Michael Lehman>: I have talked about this long and often and probably in every meeting that I have been in. The 
+good news for me is that I keep track of what I say and I have other people help me keep track of it. I have consistently 
+stated for the last couple of years that in order to hit the 10% operating income, we needed reasonable but not dramatic 
+revenue growth. We talked about that being low to mid-single digits for a couple of years compounded. That's a big 
+factor. And while we have made tremendous progress on the gross margin expansion and we will take further action to 
+reduce our operating expenses, at the end of the day, and I have been very clear and consistent about this, meaningful 
+revenue growth for a couple years compounded is the principal driver. And absent that, it's going to be very, very 
+difficult because we don't want to make short term choices to just hit an arbitrary operating income goal that would 
+impact the longer term health of the business. 
+
+<A - Ron Pasek>: Next question please? 
+
+Operator 
+
+Keith Bachman of Bank of Montreal. 
+
+
+<Q - Keith Bachman>: Hi, Mike. I wanted to ask a question about gross margin. You mentioned that mix negatively 
+influenced gross margin. Given how you describe the environment as well as the strength in Niagara, will mix continue 
+to be a headwind as you look out over the next couple of quarters on gross margin? And I also just wanted to sneak in if 
+you could give us your views on what you think FX did for you on an annual basis? Thanks. 
+
+<A - Michael Lehman>: I'm not going to say anything more about FX than I have already. It's not a science in 
+calculating that because the principal thing that FX doesn't take into account is pricing actions and the mix of the 
+product. So, it has a minor impact on revenues and margin positive. We can see the negative impact on expenses; and 
+net-net, it's not a huge number in our overall P&L. 
+
+And in terms of the mix, again, many of the customers that we were tracking in our pipeline are the types of customers 
+that were buying the high end systems and tape platforms. We do expect that a number of those and many of those 
+deals are really pauses and deferrals as opposed to the fact that they went away. So we expect that we will see a 
+rebound in the mix. We typically see a rebound in the mix in the fourth quarter as well. So some of it's historical, but a 
+lot of it is just based upon the deals that we're tracking. 
+
+<A - Ron Pasek>: Next question please? 
+
+Operator 
+
+Your next question comes from Lou Miscioscia of Cowen and Company. 
+
+<Q - Louis Miscioscia>: Okay, thank you. I guess if we can just focus a little bit more on the product and maybe also 
+on sales in the sense of it has been five quarters now where the high end really hasn't really lived up to I think the 
+expectation. I know you have these APL servers out there but do you really have to accelerate bringing Rock in until 
+you get to that or is it really going to be just meandering? And then alternatively with – I realize you are obviously 
+doing very well with Solaris. Do you have to do something to really get outside of the install base to really sell some 
+more of your high end systems to other accounts to really get the revenues growing again? 
+
+<A - Jonathan Schwartz>: So in Q1 2008, this is Jonathan. The high end was up 24% year over year. Q2 we were up 
+8%. This year I think we were down. So, it tends to be a pretty lumpy business but we're pretty pleased with the 
+performance. And again, the fact that we had such a large Solaris community to draw from really helps to drive the 
+competitiveness of the platform. So we feel pretty good about the high end and our high end is only improving as we 
+speak. 
+
+Now simultaneous to that, we are definitely building our Solaris business outside of our hardware business. As you 
+know, Intel signed on as a Solaris OEM. Dell signed on as a Solaris OEM, and IBM is also now a Solaris OEM. And 
+we continue – in fact, we recently signed another system vendor as an OEM and we continue to work with customers 
+and partners across the world to bring Solaris to every platform on which they run, and now increasingly with VFS 
+again on their storage devices. 
+
+So I think broadly speaking, we're pretty happy with the adoption of the operating system on and off Sun. In terms of 
+high end opportunities, those aren't going away. Typically, horizontally scaled systems tend to scale vertically, which is 
+just a polite way of saying when you end up with 500 servers, sometimes they end up with 502 ways and 504 ways and 
+then you end up thinking maybe SMPs are a good idea. So we're pretty comfortable. 
+
+<A - Ron Pasek>: Next question please? 
+
+Operator 
+
+Our next question comes from Toni Sacconaghi of Sanford Bernstein. 
+
+
+<Q - A.M. Sacconaghi, Jr.>: Yes, thank you. Mike, I just wanted to follow up on your comments around guidance for 
+2009. You and Jonathan had stated right from the beginning that your goal was to set objectives that were achievable 
+and to meet them. That was basically what you wanted to do. When pressed on the guidance for 2009 and the 10% 
+operating margin, you basically said there were conditions around our meeting that and those conditions don't hold 
+anymore, so that guidance doesn't really live up anymore. Can you reconcile this notion between setting targets that 
+basically you are saying we are going to hit and that being a philosophy of yours and Jonathan's? And accordingly, how 
+do we think about your now fiscal year '09 guidance of 8% operating margin? Is that also predicated on certain 
+conditions and what kind of confidence can we have on those conditions? 
+
+<A - Michael Lehman>: So, Toni, it's Mike. It's fair to say that we're disappointed that we're not able to go after the 
+operating income targets that we set a couple of years ago. We do believe that is largely driven by the US economy and 
+what's going on in the economy. We are not the only company affected by that. We believe that it's a fairly significant 
+impact and it would be damaging to the long term health of the company to take arbitrary action just to hit that number. 
+So we believe that in the circumstances – and by the way, I previously described those circumstances that if the 
+macroeconomic factors went against us that that might cause us to revisit this area; so that is in fact what has happened. 
+So while we're disappointed, we believe it's more prudent to take this action and set new goals for next year so the 
+people have a sense of how we're looking at the business. 
+
+<A - Ron Pasek>: Next question? 
+
+Operator 
+
+Your next question comes from Bill Fearnley of FTN Midwest. 
+
+<Q - Bill Fearnley>: Yes, thanks. Mike, if I could ask another follow-up question on the restructuring here. How much 
+of it is outside the US and does that delay the timing of the actions and the progress? And to your earlier comment if 
+the economy does improve, with your restructuring guidelines here, would the cutbacks get smaller here over the next 
+couple of quarters if you saw a recovery? 
+
+<A - Michael Lehman>: As we look at the areas that we're investing in or disinvesting, when we make an 
+announcement like this, we intend to make the disinvestments. Certain of the people affected are outside the US. We 
+will know better about that early next quarter. At the highest level, there is a pretty good – better than a majority that 
+are in areas and that's why we said we can record the majority of the restructuring charge in Q4. 
+
+<A - Ron Pasek>: Next question? 
+
+Operator 
+
+David Wong of Wachovia, you may ask your question. 
+
+<Q - David Wong>: Thank you very much. When you were – I think you said Services were pretty much in line with 
+expectations, but hardware was quite a bit short for the quarter. Is there a different customer mix that led to these 
+results or is it the same people who are finding that they need services but less hardware? 
+
+<A - Jonathan Schwartz>: No. This is Jonathan. Typically what happens is you – Services tends to be a recurring 
+revenue stream, which is on the one hand sensitive to unit volumes going out the door because people have the 
+opportunity to buy services on new systems. But also there is a scale to that business because they have an existing 
+install base of systems and they don't want to let them fall out of service or cease being current. So this was what we 
+expected when we began to see the decline, which was that the services business would be more predictable and less 
+bumpy than the sale of new systems. 
+
+<A - Ron Pasek>: Next question please. 
+
+
+Operator 
+
+Our next question comes from Chris Whitmore of Deutsche Bank. 
+
+<Q - Chris Whitmore>: Thanks, good afternoon. When you see sharp slowdowns towards the end of the quarter, the 
+channel tends to get caught with excess inventory. Some contacts have suggested that it is the case and there is too 
+much Sun inventory out there in the channel. Can you comment on channel inventories in both the US and Europe as 
+you exited the quarter? Thanks. 
+
+<A - Michael Lehman>: Yes. It's Mike Lehman again. The good news for us is that we have been working very 
+closely with our channel partners over the last six months, nine months as we've talked about so that we can improve 
+our ability to ship predictably, on time, with minimal lead times; and therefore they have been able to lower the amount 
+of inventory that they have. And as I mentioned, we have now gone to sell-through revenue recognition in the US and 
+China. We will move to that in most of EMEA by the end of Q4. And so our view is that frankly, the channel 
+inventories are low, continue to be low, at reasonable levels, and that has been an effective partnership. 
+
+<A - Ron Pasek>: Next question please. 
+
+Operator 
+
+David Bailey of Goldman Sachs. 
+
+<Q - David Bailey>: Hi, I just wanted to follow up on that with your internal inventory. It was up quite a bit 
+sequentially. I was wondering if you could talk a little bit about the composition, whether you'll be able to work that 
+done in the fourth quarter. 
+
+<A - Michael Lehman>: It's Mike Lehman. The answer is yes. It was up a bit sequentially. That was in our view, as I 
+mentioned, we had a revenue shortfall. We were building inventory for that revenue. We expect we'll be able to work 
+through that revenue in the fourth quarter with no noticeable impact. 
+
+<A - Ron Pasek>: Next question please. 
+
+Operator 
+
+Our next question comes from Keith Bachman of Bank of Montreal. 
+
+<Q - Keith Bachman>: Hi, thank you for taking my follow-up; two things on just the restructuring. Mike, again I 
+wanted to go back to where the people are coming from because I didn't hear the answer to that. And then secondarily, 
+if you're taking I think you said 1.5 to 2,000 – to 2,500 people out and extract savings of 100 to 150 million, that seems 
+like a low ratio in terms of the benefit per person. 
+
+<A - Michael Lehman>: Again, I am not going to attempt to quantify by geography. There will be a significant 
+number that are in... 
+
+<Q - Keith Bachman>: Not by geography, Mike; I was just thinking about R&D, sales, admin, any kind of 
+categorization by functional area? 
+
+<A - Michael Lehman>: What I've said we're going to take down total R&D spending and SG&A spending. Some of 
+that will be because of head count reduction. Some of it will programs, as Jonathan alluded to earlier. So, we're not 
+going to again forecast a breakdown by function. 
+
+<A - Ron Pasek>: Next question please. 
+
+
+Operator 
+
+[Operator Instructions] We'll now take our final question from Bill Fearnley of FTN Midwest. 
+
+<Q - Bill Fearnley>: Yes, thanks for the follow up. Jonathan, in the past you have talked about systems – about 
+customers replacing existing systems with larger systems during projects like virtualization. Is that still true and what 
+did you see for the trend on the quarter just past and what do you see here for the near term trend as well? Thanks. 
+
+<A - Jonathan Schwartz>: That is still very much true. We saw actually outstanding growth on our blades business. 
+We saw very good growth on more richly configured Niagara 2 systems. Again, those were really quite highly in 
+demand. And so in some ways, it comes down to your definition of what's a big system. With the evolution of blades, 
+you can get 48 blades in one rack. Are they small systems or is that a big system? So we still see that trend toward 
+higher value systems and more richly configured systems as continuing unabated. I don't think that frankly at this point, 
+it's ever going to slow down. So we see ample opportunity not only on the systems front and the storage front, but again 
+the good news with working in the OpenSolaris community is the kernel at the heart of Solaris nodes at a scale to the 
+tallest mountains and biggest systems. So we can provide an operating system for folks' laptops, for their storage 
+platforms, for their systems platforms, for small systems and big systems alike. 
+
+Ron Pasek, Vice President, Treasurer 
+
+Thank you for joining us today. Investor Relations personnel will be back at our offices shortly to respond any further 
+questions. You may contact us through our Investor Relations main number at 800-801-7869. 
+
+Operator 
+
+This concludes today's conference call. We appreciate your participation. We are again providing an on core replay 
+service this quarter. If you join just late or wish to hear any part of the conference call again, you may call the replay 
+service any time after 3:30 PM Pacific Time today to hear a recording of this conference call. The phone number for 
+the replay is 866-469-5765 or 203-369-1464. No passcode is required. 
+
+Thanks again for taking the time to join today's conference call. This concludes today's call. You may disconnect at this 
+time. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2010, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

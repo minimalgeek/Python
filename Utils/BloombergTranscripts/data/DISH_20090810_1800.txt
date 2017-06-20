@@ -1,0 +1,742 @@
+Q2 2009 Earnings Call 
+
+
+Company Participants 
+
+• Jason Kiser, Treasurer 
+• R. Stanton Dodge, Executive Vice President, General Counsel, and Secretary 
+Other Participants 
+
+• Jeffrey Wlodarczak 
+• Tom Cullen 
+• Bernard Han 
+• Vijay Jayant 
+• Marci Ryvicker 
+• Spencer Wang 
+• Robert Olson 
+• Tuna Amobi 
+• Paul Orban 
+• Ingrid Chung 
+• Craig Moffett 
+• Bryan Kraft 
+• Douglas Mitchelson 
+• Thomas Eagan 
+• Jason Bazinet 
+• Benjamin Swinburne 
+• Todd Mitchell 
+• Abe Brachine 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+My name is Sean and I will be your conference operator today. At this time, I'd like to welcome everyone to the DISH 
+Network's Corporation Q2 2009 Earnings Conference Call. [Operator Instructions] Thank you. 
+
+Mr. Kiser, you may begin your conference. 
+
+Jason Kiser, Treasurer 
+
+All right, thanks, Sean. Well thanks for joining us. My name's Jason Kiser and I'm the Treasurer here at DISH Network. 
+I'm joined today by Tom Cullen, Executive Vice President; Bernie Han, our COO; Robert Olson, our CFO; Paul Orban, 
+our Controller; and Stanton Dodge, our General Counsel. 
+
+Before we open it up for Q&A, we do need to do our Safe Harbor disclosure, so for that, I will turn it over to Stan. 
+
+R. Stanton Dodge, Executive Vice President, General Counsel, and Secretary 
+
+Thanks, Jason, and good morning everyone, and thank you for joining us. As you all know, we invite media to 
+participate in listen-only mode on the call and ask that you not identify participants or their firms in your reports. We 
+also do not allow audio taping and ask that you respect that. 
+
+All statements we make during this call that are not statements of historical fact constitute forward-looking statements, 
+which involve known and unknown risks, uncertainties, and other factors that could cause our actual results to be 
+materially different from historical results and from any future results expressed or implied by such forward-looking 
+statements. For a list of those factors, please refer to the front of our 10-Q. 
+
+All cautionary statements that we make during this call should be understood as being applicable to any 
+forward-looking statements we make, wherever they appear. You should carefully consider the risks described in our 
+reports and should not place undue reliance on any forward-looking statements. We assume no responsibility for 
+updating any forward-looking statements. 
+
+With that out of the way, I'll turn it back over to Jason. 
+
+Jason Kiser, Treasurer 
+
+Thanks, Stanton. And Sean, we're going to do straight into Q&A, so you can open up the lines. 
+
+Q&A 
+
+Operator 
+
+Very good. [Operator Instructions] Your first question comes from the line of Jeff Wlodz – I'm sorry, Wlodarczak from 
+Hudson Square [Hudson Square Research]. Your line is open. 
+
+<Q - Jeffrey Wlodarczak>: Hey guys, good morning. This is the first time subscriber churn was down year-over-year 
+in two years. Can you provide more color on what came together this quarter to drive the much-better-than-expected 
+churn result? And do you feel like you've turned the corner on your involuntary churn issues? And then I'll have one 
+follow-up. 
+
+<A - Tom Cullen>: All right, Jeff, this Tom. I'd say they did an equally bad job with your name on this call as well. 
+
+<Q - Jeffrey Wlodarczak>: Yeah, exactly. 
+
+<A - Tom Cullen>: Yeah, the churn is – there's a few things contributing to it. One of it is obviously we hope that our 
+focus on improving the customer experience is beginning to have an effect. But as you know, it's also related to 
+previous promotional period activity from a year ago. So both of those, in combination I think, are what's driving it. At 
+this point, we're encouraged by the early returns, but we still have a long ways to go. 
+
+<A - Bernard Han>: Right, and we – and this is Bernie. We mentioned I think on the last call that, at least over the last 
+several quarters we had been increasing the amount of retention spend within the company, and we think some of what 
+we are seeing now is a result of the efforts that took place in prior quarters with respect to retention activity and making 
+sure that we get good quality customers on the front end. 
+
+<Q - Jeffrey Wlodarczak>: So looking forward, in the short and medium term, is there any reason beyond the 
+economy re-weakening why the year-over-year churn improvements would reverse? 
+
+<A - Tom Cullen>: As you know, it's our policy not to provide guidance, so we can't really comment on anything 
+beyond June 30, but as I said, at every level of management, we are focused on improving the customer experience. It's 
+very – an intense focus at this point, and we would hope to be able to continue to show improvement in that area. 
+
+<Q - Jeffrey Wlodarczak>: Okay. And then on TiVo, can you give us your latest thought there? And then, how is the 
+most recent patent ruling different from the last patent ruling that was in your favor and that ended up being reversed? 
+
+
+Thanks. 
+
+<A - R. Stanton Dodge, Executive Vice President, General Counsel, and Secretary>: So – and this is Stanton. So I 
+guess I'll take the second question first and if you want to add any specificity on your first question I'd be happy to 
+answer anything. But the decision from the U.S. Patent and Trademark Office last week we viewed favorable in a 
+couple regards. One, the Patent and Trademark Office ruled, at least initially, that the construction of the patent was 
+similar to what we had believed it was, which was on the parsing claims, that it requires start-code detection and 
+indexing, and with respect to the flow control claims, it requires blocking. And basically, when we redesigned around 
+TiVo's patent, that is what we had in mind. 
+
+So we think it supports, one, that our redesign was more than colorability different than the original devices, because 
+quite frankly, what the Patent and Trademark Office found is exactly what TiVo argued to the jury. So if we took out 
+those two features, which we did in the design-around, we say to ourselves, how could it not be more than colorability 
+different? 
+
+Additionally, we believe, because we took that stuff out, it no longer infringes the patent. And then finally, because we 
+took those things out, we believe that it shows we actually acted in good faith in that design round attempt, and 
+therefore, we shouldn't be subject to any sanctions, even if it – for contempt – even if our design round is found to 
+actually infringe down the road. 
+
+<Q - Jeffrey Wlodarczak>: Okay. Thank you very much. 
+
+Operator 
+
+Your next question comes from the line of Vijay Jayant from Barclays Capital. 
+
+Your line is open. 
+
+<Q - Vijay Jayant>: Thank you. A couple questions. First, can you just talk about some of the genesis on – in reading 
+the 10-Q, it suggests that now DISH is liable for the full TiVo amount of DISH – is a big amount there. I thought it was 
+prospectively who's going to be SAS first, I think Jan. 1, '08. I just wanted some – so, how that sort of came about? 
+
+Second, I think Echo 5 went out of commercial service. Was there any commercial – consumer impact from that? Did 
+you lose any channels, or any refunds, or anything associated with that? Thank you. 
+
+<A - R. Stanton Dodge, Executive Vice President, General Counsel, and Secretary>: Okay. So I'll hit the TiVo 
+question first. When we actually – both of the companies, DISH and SATS, went back and looked at the actual 
+agreements related to the time of the spin and determined that, based on those, DISH is responsible for the vast 
+majority of any damages or sanctions that would be awarded by the court. And SATS has agreed to effectively pony up 
+limits of its indemnification obligations under the agreement, pursuant to which DISH buys receivers from SATS. 
+
+<A - Tom Cullen>: Vijay, this is Tom. On the Echo 5 issue, fortunately, it did have very little impact on the customer 
+base. We had previously known there were some issues with the satellite, and fuel consumption was ahead of previous 
+schedule due to some movements. So we had migrated the vast majority of the customer base. It was literally in the 
+single thousands of customers that were impacted, and we've since moved that program and – to accommodate the vast 
+majority of those. 
+
+<Q - Vijay Jayant>: If I could ask a follow-up. Any color on any impact from digital transition in the quarter? Some 
+folks have tried to put a number around it. If you could do so, it would be great. Thank you. 
+
+<A - Tom Cullen>: Yeah, unfortunately I won't be able to put a precise number around it. But clearly, we did see a 
+positive impact. We can measure that in call volumes in and around June 12. The difficulty in putting a precise number 
+around it is that, during the quarter, we implemented a number of things, and just as a – kind of serendipitously, the 
+completion of our card swap occurred very close in time to the digital transition. So those two things occurring at the 
+same time make it difficult to isolate which was driving how much. But clearly, the two of those had a positive impact 
+
+
+for us. 
+
+In addition, during the quarter, as you know, we changed our approach in advertising quite a bit, and we think the 
+tonality and the value message that we're driving through advertising is also an impact. 
+
+<Q - Vijay Jayant>: Thank you. 
+
+Operator 
+
+Your next question comes from the line of Marci Ryvicker from Wells Fargo. Your line is open. 
+
+<Q - Marci Ryvicker>: Thanks. I have two questions. First, your thought process on share repurchases? It looks like 
+you didn't repurchase anything this quarter. Can you comment on that? 
+
+And then secondly, you have a marketing campaign particularly targeting DIRECTV. How effective has it been, and is 
+any of your subscriber gains coming from DIRECTV? 
+
+<A - Jason Kiser, Treasurer>: Sure. This is Jason, I'll take the first. On the share repurchase, this is the same question 
+we've gotten several quarters in a row and our position really hasn't changed. It's – really comes down to capital 
+allocation for us, and trying to figure out what we think, at least at the time, is the best use of the next dollar that we've 
+got available to us. So, I mean, there's a lot of things. The stock has traded cheap at times, there's been times we've been 
+in the market prior. And the thing that – of it that most people don't see is the – kind of the strategic elements that we're 
+working at and what they may require from a capital standpoint. 
+
+So when you take all that in context, we tend to operate in a world where we use 10b5-1 plans. You put them in place 
+early, you have to strike a price on those at a level that you're comfortable with, given the other things that you're 
+looking at in the business and the timing and which those may occur. And a lot of times in those cases, you can be 
+looking at things and they're on the table for a long time, they – some of them don't come to fruition, some of them 
+come to fruition, but in any case, you have to be ready for them. And especially these days where the capital markets 
+haven't always been either accessible, or at least haven't been favorable, you want to make sure that you're in a position 
+to act on the things that you want to take advantage of in the business. 
+
+So, we've taken a pretty conservative route on what that means towards the share repurchase, but it is something that 
+we constantly evaluate as well as the rest of the capital structure. 
+
+<A - Tom Cullen>: And Marci, this is Tom. On the marketing campaign, it's no secret, we are in a fiercely competitive 
+marketplace, and so there are share shifts occurring between and among all competitors. The campaign that we've been 
+running recently is, as I said earlier, really trying to reinforce the comparative value of DISH to other multi-channel 
+providers. It's not our only tactic in the marketplace. We're also driving calls through direct response television and 
+other tactics. 
+
+We are seeing – it's still a recessionary environment. Consumers are belt-tightening and they're looking for value, and 
+we think we're well-positioned to reinforce that message. 
+
+And we're also seeing that customers are increasingly hungry for information and education. We can certainly measure 
+the time and the – the traffic to our website and the time customers spend on our website, tied to our advertising spend. 
+So that tells us that customers are really looking for – this is an informed decision that they're making when they're 
+selecting a pay TV provider. 
+
+<Q - Marci Ryvicker>: Thank you. 
+
+Operator 
+
+Your next question comes from the line of Spencer Wang from Credit Suisse. Your line is open. 
+
+
+<Q - Spencer Wang>: Thanks, and good morning. So the subscriber-related expenses were up about 7.6% 
+year-over-year, and I know in the Q, you guys cited programming cost increases as well as the investments in the call 
+centers and customer retention. So was just wondering if you could give us a little bit more color on how much of that 
+increase was the programming cost side, versus the investment in the call centers and customer retention? 
+
+And then – and then just on churn really quickly, I know Nagravision 3 has helped your gross adds. I was wondering if 
+that's been a positive impact for churn as well? Thank you. 
+
+<A - Robert Olson>: So Spencer, this is Robert. On your first question, we don't typically break out the details. We 
+have mentioned in the past that programming expense is up year-over-year slightly faster than rate of inflation. We 
+haven't – have mentioned also that we are investing in our call centers to improve our customer service. And that's 
+about the extent of that. Tom, you want to handle the churn question? 
+
+<A - Tom Cullen>: Yeah, just to clarify, we have completed a large slate of programming renewals in the last eight 
+months, as well as all the retrans, and we're pretty comfortable that we're in line with what others are experiencing as 
+reported. 
+
+As far as the churn on Nagravision, I'm not sure what the question was. But we have completed the card swap. We 
+clearly – pirates – former pirates don't identify themselves when they call up to subscribe, so it's hard to isolate exactly 
+how much of that is driven by that. I don't – could you clarify your question on the churn piece? 
+
+<Q - Spencer Wang>: Yeah. I was just wondering if you guys had a sense, were people churning off before because 
+they were able to pirate the service? I know it's a tough thing to quantify, but if you had a rough sense? And so maybe, 
+as you'd made the transition to Nagravision 3 
+
+
+<A - Tom Cullen>: Yeah 
+
+
+<Q - Spencer Wang>: – I mean, if that 
+
+
+<A - Tom Cullen>: – I don't have an answer for that. Obviously security is important to everybody in the industry, so 
+as everyone's system becomes secure, it helps all of us. 
+
+<Q - Spencer Wang>: Thank you. 
+
+Operator 
+
+Your next question comes from the line of Tuna Amobi from Standard & Poor's Equity Group. Your line is open. 
+
+<Q - Tuna Amobi>: Thanks a lot. So I guess, one of the factors you cited for the subscriber growth this quarter, in 
+addition to digital television and the swap out, I think was the sales and marketing. And presumably that arose mostly 
+from the 9.99 offer which I believe you commenced in February. So the question is, how much of that was a factor, if 
+you can put color around that, for Q2? And – that would be helpful. 
+
+And separately, with regard to your – the source of your adds, I was wondering if, in Charter – Charter territory, you 
+saw some kind of lift from the subscriber trends there, particularly given that your peer, DIRECTV, it seemed like they 
+were running some aggressive advertising in those territories and I believe they ended up settling with Charter. So just 
+some color around what you saw in those areas and – that would be helpful. Thanks. 
+
+<A - Tom Cullen>: Okay, Tuna. This is Tom. First of all, the 9.99, clearly second quarter was the first quarter where 
+you saw the full effect across all three months. However, as I think I mentioned on the last call, it's effective in ringing 
+the phones, but very few customers are actually getting in – signing up at 9.99. For instance, we've modified the 
+advertising shortly after launching it to reflect the inclusion of locals and promoted more around 14.99. 
+
+That being said, we did think it had a positive impact in growing the gross add number. We're continuing to grow our 
+direct sales channel, but we're very fortunate, the retailer and distributor base, as well as our existing teleco partner 
+base, is very engaged with us right now. And you probably saw, we've modified the offer at 8/1. 
+
+
+<Q - Tuna Amobi>: Yes. 
+
+<A - Tom Cullen>: As for Charter, I'd – I would say, on the margin we saw a little bit, but it's not material. 
+
+<Q - Tuna Amobi>: Okay. And if I can have one follow-up. On – can you update us on the HD channels? I think – 
+believe you guys are well north of 100 channels, and you've been quietly launching those. Can you tell us where you 
+stand now, and where – how much of a kind of a pull-through that you're seeing in terms of HD national? 
+
+<A - Tom Cullen>: I don't – honestly don't have the exact number in front of me because we're adding stuff literally 
+every week. We launched a number last week, for instance, in Puerto Rico. We do feel that we have a lead in HD now, 
+both nationally and in local markets. We anticipate, with future satellite launches, we'll be able to continue that march 
+in the local markets. It's obvious, more and more consumers are buying HD and subscribing with HD in mind. So we 
+think we're positioned for the future, but it's also a bit of an arms race, where everybody else is trying to achieve parity 
+in the marketplace. 
+
+<Q - Tuna Amobi>: Thank you. 
+
+<A - Paul Orban>: And as far as HD penetration goes, as in the past, we don't disclose that, but fair to say that our HD 
+penetration for existing and new customers has been growing, as it has been for all of our competitors. 
+
+<Q - Tuna Amobi>: Okay. Thanks. 
+
+Operator 
+
+Your next question comes from the line of Ingrid Chung from Goldman Sachs. Your line is open. 
+
+<Q - Ingrid Chung>: Good morning. Thank you. So I've two questions, mainly around credit. First, recently DTV said 
+that they've – they're tightening credit going forward. How's your credit standards varied, this year versus last? 
+
+And then secondly, you can correct me if I'm wrong here, but I think you've gone to a policy of allowing debit cards? I 
+was wondering if that's opened a whole new market for you and what kind of impact that's had on your gross adds. 
+
+<A - Bernard Han>: Yeah, I think – I mean in general, as I alluded to earlier, we alluded to earlier, we're always – on 
+the existing customer side, we're always try to fine tune how much we're spending on retention and whether we're 
+spending too much or two little. And clearly, there was a phase a couple years ago where we thought we were spending 
+too little and we've been slowly ramping that up. 
+
+With respect to new customers, a similar exercise, with respect to making sure that we're getting good quality 
+customers. We don't want to just drive growth in activations for the sake of short-term subscriber numbers. We're 
+trying to make sure our subscribers that we take on are going to be a net positive value over the course of their lives. So 
+we do make adjustments from time to time about various forms of payment that we take for the purpose of qualifying 
+customers. We do make adjustments from time to time about the credit scores that we set, in terms of thresholds. 
+Besides that, I don't think we'll get into more specifics about where we set those thresholds. 
+
+<Q - Ingrid Chung>: Okay. And I was also wondering if you could comment on the monthly trends in the quarter, 
+too? Typically June's probably your weakest month out of the quarter, but given the digital transition and the end of the 
+anti-piracy initiative and your marketing, it seems to make sense if June was your strongest month out of the quarter, 
+and I was wondering if you carried that momentum going into July? 
+
+<A - Bernard Han>: Again, as Tom alluded to, we don't give any forward guidance. He's already mentioned that two 
+of the events that we could distinguish, which were the digital transition and the completion of our security system 
+replacement, were completed in the month of June. 
+
+<Q - Ingrid Chung>: Okay. All right, great. Thanks. 
+
+
+Operator 
+
+Your next question comes from the line of Craig Moffett from Sanford Bernstein. Your line is open. 
+
+<Q - Craig Moffett>: Good morning. Two questions. First, a question for Stanton. The – TiVo has asked for close to 
+$1 billion in the compensatory and punitive damages phase. In a worst-case scenario, where Judge Folsom were to rule 
+in TiVo's favor, how would you go about financing that? Is that – looking your balance sheet, that's equal to pretty 
+close to all of your cash and marketable securities on hand, so – you mention in the Q that you might have to raise 
+capital. I'm wondering if you could say some more about that? 
+
+And then second, a different question about capital. You just mentioned a few minutes ago your potential strategic 
+initiatives that you look at. Are you referring to wireless as that option, and could you say more about what that might 
+entail? 
+
+<A - R. Stanton Dodge, Executive Vice President, General Counsel, and Secretary>: Sure – so, thanks, Craig. On 
+the first question, one, as I said, we think that the fact that we acted in good faith should result in zero, if you will, 
+kicker from a sanctions perspective, but even if Judge Folsom disagrees with us on that, we've taken issue with TiVo's 
+calculation of what the appropriate amount should be. And really, beyond that, there's just so many ways it could 
+actually shake out, we'd just rather not speculate at this time until we actually have a number from the judge and cross 
+the bridge at that time. 
+
+And related to that, it looks like we will have a number before the Federal Circuit hears the appeal, which they're trying 
+to schedule in November, but the judge has – the trial judge, Judge Folsom – has stayed in position of those sanctions 
+until after the entire appeal is resolved. 
+
+<Q - Craig Moffett>: So you would have the number, but you wouldn't actually have to raise the capital potentially – 
+if there were a capital raise requirement, you wouldn't have to do that until after the appeal? 
+
+<A - R. Stanton Dodge, Executive Vice President, General Counsel, and Secretary>: Well, we wouldn't have to 
+pay any money or post a bond until after the appeal. 
+
+<Q - Craig Moffett>: Understand, okay. And with respect to the strategic initiatives that you're talking about, that you 
+mentioned in the conversation about share repurchases and what else you'd consider? 
+
+<A - Jason Kiser, Treasurer>: Yeah, and that was in reference to nothing in particular, Craig. That was just to give 
+you the – the original question was how we think about it, and it's main – the answer was intended to be, to mainly 
+keep our powder dry on things. 
+
+<Q - Craig Moffett>: Well could you talk about, then, what you're thinking about in terms of wireless and the 
+700-megahertz spectrum and update us on that a bit? 
+
+<A - Tom Cullen>: Yeah, sure, Craig. This is Tom. You won't see any material spending around the 700-megahertz in 
+the short run. We are doing some preliminary network testing in a single market, just to better understand what the 
+eventual build out cost will be, propagation, coverage, interference, all those types of things. We – so we have an 
+engineering team and a small team working on 700, but it's not something you'll see significant public activity around 
+for quite awhile. 
+
+<Q - Craig Moffett>: And the product you're thinking about is presumably a mobile video product, is that right? Or is 
+it a – does it include some level of a data component? 
+
+<A - Tom Cullen>: The first iteration that we're viewing is a mobile video product. 
+
+<Q - Craig Moffett>: Okay. Thank you. 
+
+Operator 
+
+
+Your next question comes from the line of Bryan Kraft from Cross Research. Your line is open. 
+
+<Q - Bryan Kraft>: Hi, thank you. A couple questions. One, just want to see if you could comment on how the 
+deployment of the new smart cards affected expenses during the quarter? 
+
+Second, also wanted to know if you could talk a little bit about when the cycle of investment in the call centers might 
+end, and when you could start to realize some more scale off that investment? 
+
+And then lastly, how do you think the long-term margin structure of the company is going to be affected by what 
+appears to be a need to discount more and spend more on retention in order to improve subscriber metrics? Thank you. 
+
+<A - Robert Olson>: Yeah. Bryan, this is Robert. Let me kind of hit on your last two questions. As far as the cycle of 
+customer service spend, we, I think, talked about this a couple quarters ago. It was third or fourth quarter of last year 
+was when we started putting more focus on the – on customer service, and as a result, that's when the spend went up. 
+
+Now regarding your question on long-term margins, obviously that's not something we comment on, but it is something 
+that we obviously are working on very hard, and working on very hard on our business model and business rules, on 
+how to keep the customer service level at high levels, and drive cost down. So it's not an easy thing, and maybe Bernie 
+can comment more about that, but it's simply – you have to take each business rule and look at it in detail to figure out 
+how to restructure it to be a lower cost. 
+
+<A - Bernard Han>: Well first of all, with respect to the smart card question, the costs of actually implementing the 
+smart cards over the course of the last 12 months was expensed as we went along, so they've been reflected in our 
+financials. And I would say largely, they're relatively small in the scheme of things. 
+
+One thing of note going forward is that, how we account for smart cards in the future will be a little bit different than in 
+the past, based on the structure of our current agreement. Is that right? Okay? No? All right. Never mind. 
+
+We may change from – right now, the cost of a card is actually reflected in the cost of a receiver, and hence, it's 
+embedded in our SAT cost, and we may switch to a scheme in which it's reflected as a variable cost, or a 
+subscriber-related cost, going forward. So that's on – with respect to smart cards. 
+
+With respect to our spending on customer service and how it's impacting our margin, we're clearly trying to do things – 
+we're focusing first on improving customer service. Ultimately, we want to improve customer service and contain our 
+costs. I think a lot of what we've seen – we've talked about spending more on retention, and that's something we 
+evaluate from time to time, to see whether or not we're spending enough or not spending enough. 
+
+With respect to the other big bucket that we've talked about in our Q and talked about on this call, which is our call 
+center operations, part of the increase in cost is because we are taking more phone calls, and part of that is because, 
+gradually, over time, our business has become a little bit more complex, particularly over the last three or four years. 
+And keeping customers educated, keeping our agents and employees educated about all these new channels of 
+distribution, all these new types of equipment, all these new packages, all these new fees, all these new promotions, 
+with – we've – we probably haven't kept up in terms of explaining those things and describing those things. So it drives 
+a lot of questions, a lot of confusion from customers. So we're trying to do a better job with respect to that. 
+
+Besides call volumes going up ever so slightly, the amount of time on an average call has gone up by quite a bit. And 
+that is partly our investment, we feel, in the business. We are trying to spend more time on phone calls to make sure we 
+give proper disclosures and we set expectations properly at the start of a sale or at the start of a transaction. What we 
+have found is that we haven't done the best job at making sure customers know what the – what their bill is going to 
+look like when they sign up for DISH, or after they do an upgrade, or after they change programming. We haven't done 
+the best job with respect to setting expectations as to what their equipment is going to be, and whether or not we're 
+matching their needs, based on what they tell us. And we haven't done the best job with respect to making sure that 
+we're picking the right programming package based on the channels that they like to watch. 
+
+So as a result, we are spending more time on our phone calls trying to set those expectations properly up front. That 
+obviously costs us some money in terms of longer talk time on the original calls, but we're hoping that that will 
+
+
+eventually result in fewer phone calls, because customers won't be as confused and their expectations won't be – their 
+expectations will be set properly. So those – generally, those are the things that are driving the call costs going on right 
+now. We have more calls because of the complexity of the business, and we've got to get better at explaining that and 
+making our business simple, quite honestly, and we're spending a lot of effort right now trying to get our rules and our 
+promotions and our pricing and our packages simpler. And then part of it is higher talk time, because we're trying to do 
+a better job of setting expectations to the customer. 
+
+<Q - Bryan Kraft>: Okay, great. Thanks so much. 
+
+Operator 
+
+Your next question comes from the line of Doug Mitchelson from Deutsche Bank. Your line is open. 
+
+<Q - Douglas Mitchelson>: Thanks. Hi, gentlemen. A couple. First, you sort of touched on churn in that, you made a 
+comment that you've been, over time, increasing retention spending, but because of the significant change in the quarter 
+were improved, was there specifically a change in retention strategies during or leading into 2Q that might have helped 
+churn? 
+
+<A - Tom Cullen>: Nothing 
+
+
+<A - Bernard Han>: I don't think so, Doug. 
+
+<A - Tom Cullen>: Nothing abrupt. 
+
+<Q - Douglas Mitchelson>: So it was more, sort of the end of a bunch of different cycles, sort of hitting at the same 
+time? 
+
+<A - Jason Kiser, Treasurer>: I'd say that's the case. 
+
+<Q - Douglas Mitchelson>: And then on – I think in the Q, you mentioned that EchoStar 12 had some anomalies? But 
+it wasn't quite clear whether it was a significant or not. Any comments you can make there? 
+
+<A - Tom Cullen>: Nothing significant. Echo 5 was the big story for the quarter. 
+
+<Q - Douglas Mitchelson>: And on 5, is there anything to – left to write down, or was that fully depreciated? 
+
+<A - Tom Cullen>: Fully depreciated. 
+
+<Q - Douglas Mitchelson>: So that one was fine. And then last question, again, I mean you don't want to talk about 
+forward-looking, but this is pretty innocuous. How far along on the cost efficiency cycle do you think you are for 
+MPEG-4 DVRs? I mean, like what inning are we in for bringing the cost of those down as they scale? Because it's been 
+a couple years now. 
+
+<A - Jason Kiser, Treasurer>: Yeah, I think we're still in the early innings, would be my view. Tom, do you see -? 
+
+<A - Tom Cullen>: We're constantly working with our vendor on cost reductions on all of our set-top boxes. But the 
+MPEG-4 activity is ramping. I don't know how you would categorize that in terms of a baseball analogy. 
+
+<Q - Douglas Mitchelson>: Well I guess I was probably thinking dollar amount of cost, where we were when we 
+started a couple years ago, versus where we might end up, and – it seems like we're a little bit more than halfway there 
+but there's more to go, and I just wanted to confirm that you all thought there was still further efficiencies to squeeze 
+out of that box. 
+
+Great, all right. That's it. Thanks. 
+
+<A - Tom Cullen>: Thanks, Doug. I didn't mean to avoid it. I just don't know how to answer it specifically. But we're 
+constantly working on cost reductions in the boxes, and I think it's incremental. 
+
+
+<Q - Douglas Mitchelson>: Well, I was going with the baseball analogy, because I was guessing, if I asked you where 
+you thought the price could go and where you were at now, you probably wouldn't answer that, so. 
+<A - Tom Cullen>: Yeah. 
+<A - Jason Kiser, Treasurer>: That is correct. 
+<Q - Douglas Mitchelson>: All right. Thanks. 
+
+
+Operator 
+
+Your next question comes from the line of Tom Eagan from Collins Stewart. Your line is open. 
+<Q - Thomas Eagan>: Great, thank you very much. I guess, two questions. First, you mentioned about continuing to 
+
+
+improve the customer experience. So does that mean that the bulk of the churn reduction in the quarter was a decline in 
+the voluntary churn rate, versus involuntary? And then I have a second. Thanks. 
+<A - Tom Cullen>: Yeah, well, there has been improvement in the voluntary churn rate, but clearly, we're still in a 
+
+
+recessionary time, and there is – it's not like involuntary churn has gone away, I will tell you that much. 
+<Q - Thomas Eagan>: So do you think that the bigger reduction was more a reduction in involuntary, or in voluntary? 
+<A - Robert Olson>: Yeah, I think in – voluntary. 
+<A - Tom Cullen>: More on the voluntary side than the involuntary side. 
+<Q - Thomas Eagan>: Right, okay. And then secondly, DIRECTV noticed in their call that there was a significant 
+
+
+decline in the number of premium subscribers, which impacted their ARPU. HBO, Showtime, and Starz. Did you see 
+
+
+that, too? And what penetration rate do you have – of your subs, in the premium nets? 
+<A - Tom Cullen>: Yeah, Tom, we've definitely seen some softness in both pay-per-view and premium, and as I said 
+earlier, we're in this environment of belt-tightening, and wherever a customer can look to save some money, we're 
+seeing some percentage of customers looking for that. So that's consistent. 
+
+
+As far as our premium penetrations, we haven't disclosed that historically, and we're not going to now, either. 
+
+
+<Q - Thomas Eagan>: Sure. Any sense of the drop from Q2 last year to this year? Like, is that like a 5% drop in 
+penetration, or? 
+<A - Tom Cullen>: We haven't broken it out. 
+<Q - Thomas Eagan>: Okay. Thank you. 
+
+
+Operator 
+
+Your next question comes from the line of Jason Bazinet from Citi. Your line is open. 
+
+<Q - Jason Bazinet>: Thanks so much. I may be missing some nuance in the Q related to the TiVo litigation, so 
+maybe you all could clarify a bit. It seems like there's sort of three separate things that were said. One, that DISH 
+agreed to sort of indemnify EchoStar for the liability. Second, that the liability seems to have been capped at 5 million 
+related to the receiver agreement. And then it goes on to say that the liability sort of isn't capped. And so I got more 
+confused after reading it than I thought I was before the Q came out. So can you just sort of reconcile those items? 
+
+<A - R. Stanton Dodge, Executive Vice President, General Counsel, and Secretary>: Sure. So it's actually pretty 
+simple. DISH has agreed to indemnify SATS for any liability resulting from the TiVo litigation. SATS has agreed to 
+pay DISH $5 million 
+
+
+
+<Q - Jason Bazinet>: Yeah. 
+
+<A - R. Stanton Dodge, Executive Vice President, General Counsel, and Secretary>: – related to that. And if there 
+is any intellectual property resulting from a successful new design-around, DISH and SATS have agreed that they 
+would jointly own that and have cross licenses to that technology. 
+
+<Q - Jason Bazinet>: Okay, got it. Okay. Thank you very much. 
+
+Operator 
+
+Your next question comes from the line of Benjamin Swinburne from Morgan Stanley. Your line is open. 
+
+<Q - Benjamin Swinburne>: Thanks. Good morning, guys, Tom, if I went – go back, ask the MPEG question – 
+MPEG-4 question a little differently, you guys have been migrating your MPEG-2 HD customer base over I believe to 
+MPEG-4, and so I just wanted to know how far along you were on that front. You can use a baseball analogy or not, 
+but anything would be helpful there. 
+
+<A - Tom Cullen>: How about a little [inaudible] I don't – I defer to Bernie, whether we've broken it out specifically. 
+
+<A - Bernard Han>: No, we have not. But we have said – I think we've talked about two types of equipment 
+technology transitions. One is going from different forms of encryption, which is – I'm sorry, modulation, which is 
+going from QPSK going to 8PSK, and with respect to that – with respect to that transition, while we're not close to the 
+finish, I'd say the bulk of our receivers that are out in the field today are 8PSK modulation. 
+
+With respect to encoding, which is the MPEG-2 to MPEG-4, we're much closer to the beginning than we are to the end 
+in terms of getting our entire customer base to MPEG-4. 
+
+<Q - Benjamin Swinburne>: Okay. Does the 8PSK upgrade, is that a software download, or is that a whole new box? 
+
+<A - Bernard Han>: That's a whole new box. So a box is either a QPSK or 8PSK. Both of those eventually, if you 
+ever got to a world where all of your boxes were 8PSK, you could broadcast your signal in 8PSK only and you could 
+realize some bandwidth savings. And likewise, when you get from MPEG-2 to MPEG-4, which is still a long ways off, 
+you could send all your signals in MPEG-4 encoding and save even more bandwidth. 
+
+<Q - Benjamin Swinburne>: Got you. And Tom, it looked like the retention marketing, at least the capitalized piece, 
+fell to like 30 to 35 million in this quarter, which is a pretty low number, considering you guys are increasing your 
+spend there. I was just – wanted to know if there was any color? Was that recycled boxes from churned customers, or, I 
+mean 
+
+
+<A - Robert Olson>: Yeah, Benjamin, this is Robert. It was indeed a higher percentage of re-manufactured receivers. 
+The other thing on retention CapEx spending is we typically do have a higher first quarter, because we have available 
+installation techs – more available installation techs in the first quarter to do that retention CapEx work. So it's not 
+unusual to see second quarter a little bit lower than first quarter. 
+
+<Q - Benjamin Swinburne>: Got you. 
+
+<A - Tom Cullen>: I think that, Ben, retention's one of the areas where we're constantly revisiting and responding to 
+what's going on in the competitive market. So it's difficult to assume that, A, things were consistent throughout a 
+quarter, and B, the speed at which we might make changes going forward. 
+
+<Q - Benjamin Swinburne>: Understood. And then I just wanted to ask you, in the markets where you had AT&T as 
+a partner, I don't know, I mean, there are a couple quarters where you're a quarter and a half away. How far are you 
+from getting back to sort of flat, on a distribution basis, in those markets? Are you – I'm sure you've ramped other 
+channels, direct sales, your independents, but is that – are you getting closer to the point now where you've made up 
+that lost channel, or is that still a ways away? 
+
+
+<A - Tom Cullen>: I don't think we'll give specifics, but as I said, we have put a concerted effort into growing our 
+direct sales channel, which I – I'm pleased with the progress we're making. But more importantly, we've put a high 
+value on the relationships we have with the distributors, retailers, and our teleco partners, and the engagement level – I 
+think on the last call, we had just come off a team summit and we were encouraged by the interactions and the strength 
+of those relationships and we continue to feel that way. 
+
+<Q - Benjamin Swinburne>: Cool. Thanks a lot. 
+
+Operator 
+
+Your next question comes from the line of Todd Mitchell from Kaufman Brothers. Your line is open. 
+
+<Q - Todd Mitchell>: Thank you. I have two questions. The first question is, you've had some changes in your 
+distribution footprint year over year, using the telecos, and I noticed in the fourth and the first quarters, you got rid of a 
+lot of your own retailers. Can you speak to basically the changes in the mix of gross adds, both year over year and 
+sequentially? 
+
+<A - Tom Cullen>: Well, it's somewhat related to the last question. First of all, as far as the termination of retailers, I 
+think Bernie touched on that in a previous call. While it received a fair amount of attention, on a percentage basis of our 
+total retailer base, it was de minimis. And we have thousands of retailers that are good operators, and that's not the 
+focus of where we're at. We were focused a year ago on fraud and security issues. There was a small number of, what I 
+would say, bad apples, and those have been – are no longer working with us. 
+
+In terms of the teleco footprint, obviously that's growing, and it's – you guys probably know more precisely than I, but 
+25 to 30% of the country probably now has an option of four providers. So that increases the marketing intensity in 
+those specific geographies. But, because of our base and because we operate nationally, we're able to satisfy and drive 
+sales from all geographies and not be just dependent on those more urban markets where the telecos are overbuilding. 
+
+As far as the mix in gross adds by channel, we don't break that out, but as I've said, with the loss of AT&T as a partner, 
+we have put a concerted effort into building direct sales while also reinforcing the alignment of our relationship with 
+our other third party channels. 
+
+<Q - Todd Mitchell>: Okay. And my second question relates to ARPU. It was up 2% year-over-year. Can you give us 
+a little bit more color? I understand you have a price impact – or a price increase helping those go up, pull-back on 
+premium helping – and some aggressive offerings helping it to go down. And then I'm assuming you're going through a 
+
+– your upgrade cycle. Can you give us kind of a breakdown in that 2% up, what the big levers were and what the small 
+levers were? 
+<A - Jason Kiser, Treasurer>: We think you got the main points. Obviously every year at this point in time, we see 
+the reflection of price increases that have taken place. We've already talked about premiums and pay-per-view, which 
+has been, rather than a one quarter event, it's been somewhat gradual over the last year, year and a half or so, that we've 
+seen it steadily decline. 
+
+As we talked a little bit about more retention activities, remember that retention activities can be both upgrades as well 
+as adjustments being made on certain customers' accounts and things like that. So there can be a small impact with 
+respect to ARPU related to those activities as well. 
+
+<Q - Todd Mitchell>: Okay. Last question here. I have heard that – everybody's advertising business is down year 
+over year. I've heard that yours is actually up because of some changes in the way you sell inventory. Can you 
+comment on that? 
+
+<A - Jason Kiser, Treasurer>: I don't know that it's attributable to the way we sell inventory. It's – we have invested 
+in our ad sales organization significantly in the last couple years, have opened new offices and recruited from 
+experienced people from the industry. So while it's modest, we are – we feel fortunate to be up in an environment like 
+we've observed over the last year. But I wouldn't say it's how we sell our inventory 
+
+
+<Q - Todd Mitchell>: Okay. Thank you very much. 
+
+Operator 
+
+[Operator Instructions] Your next question comes from the line of Abe Brachine from Trove Partners. Your line is 
+open? 
+
+<Q - Abe Brachine>: Hello? Hello, can you hear me? 
+
+<A - Jason Kiser, Treasurer>: Yes, Abe. 
+
+<Q - Abe Brachine>: I wonder if I can just get clarification on – in response to an earlier question about the TiVo – or 
+about the tabular you're using you seem to focus on the potential meaning of that – the language of it, in terms of the 
+colorability issue. Is there not a larger potential – if these two claims are disallowed, they're the heart of the software 
+claims, is there not an opportunity or a possibility for the entire prior judgment to be reversed? 
+
+<A - R. Stanton Dodge, Executive Vice President, General Counsel, and Secretary>: That's a great question. And 
+certainly, with respect to everything that's currently pending in front of the judge, yes. But it's – as I understand it, it's 
+somewhat of an open issue on the original infringement of the patent, whether we'd be – actually be able to go back and 
+recover the original amounts we spent – or were required to pay, which is about $105 million that was release from 
+escrow. But rest assured, if the Patent Office ultimately, finally, invalidates this patent and it's upheld on appeal, we'll 
+take a hard look at that. 
+
+<Q - Abe Brachine>: Okay. Thank you very much. 
+
+<A - R. Stanton Dodge, Executive Vice President, General Counsel, and Secretary>: Sure. And I might just add, to 
+Jeff's sort of initial question, it was somewhat general, how we feel about the case. I just want to note that our appeal 
+brief is now online on our Investor Relations site. And I'd encourage folks to go take a look at that, because that's sets 
+out, I think pretty concisely, our positions on appeal. 
+
+Operator 
+
+Mr. Kiser, we have no further questions at this time. 
+
+Jason Kiser, Treasurer 
+
+That's great. Well then, thank you very much everybody, and we'll go ahead and wrap the call up, Sean. 
+
+Operator 
+
+This concludes today's conference. You may now disconnect. 
+
+Jason Kiser, Treasurer 
+
+Thanks. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+
+
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2009, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

@@ -1,0 +1,791 @@
+Q2 2015 Earnings Call 
+
+
+Company Participants 
+
+• Ellen West 
+• Ruth M. Porat 
+• Omid Kordestani 
+Other Participants 
+
+• Justin Post 
+• Ross Sandler 
+• Carlos Kirjner-Neto 
+• Stephen Ju 
+• Mark S. Mahaney 
+• Eric J. Sheridan 
+• Douglas T. Anmuth 
+• Anthony DiClemente 
+• Brian Nowak 
+• Heather A. Bellini 
+• Robert S. Peck 
+• Paul Vogel 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good day, ladies and gentlemen, and welcome to the Google, Inc. second quarter 2015 earnings conference call. At this 
+time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session, and instructions 
+will follow at that time. [Operator Instructions] As a reminder, today's conference call is being recorded. 
+
+I would now like to introduce your host for today's conference, Ellen West, Vice President, Investor Relations. Please 
+go ahead, ma'am. 
+
+Ellen West 
+
+Thank you. Good afternoon, everyone, and welcome to Google's second quarter 2015 earnings conference call. With us 
+today are Ruth Porat and Omid Kordestani. 
+
+As you know, we distribute our earnings release through our Investor Relations website, located at 
+investor.google.com. Please refer to our IR website for our earnings releases as well as the supplementary slides that 
+accompany the call. This call is also being webcast from investor.google.com. A replay of the call will be available on 
+our website later today. 
+
+Now let me quickly cover the Safe Harbor. Some of the statements that we make today may be considered 
+forward-looking, including statements regarding Google's future investments, our long-term growth and innovation, the 
+expected performance of our businesses, and our expected level of capital expenditures. These statements involve a 
+number of risks and uncertainties that could cause actual results to differ materially. For more information, please refer 
+
+
+to the risk factors discussed in our Form 10-K for 2014 filed with the SEC. Any forward-looking statements that we 
+make are based on assumptions as of today, and we undertake no obligation to update these statements as a result of 
+new information or future events. 
+
+During this call, we will present both GAAP and non-GAAP financial measures. A reconciliation of GAAP to 
+non-GAAP measures is included in today's earnings press release. The press release and an accompanying investor 
+presentation are available on our website at investor.google.com. 
+
+I'll now turn the call over to Ruth. 
+
+Ruth M. Porat 
+
+Thanks. 
+
+We had strong performance in the second quarter, notwithstanding the continuation of substantial currency headwinds. 
+Key highlights this quarter include ongoing momentum in our core search business, particularly mobile, complemented 
+by significant growth in YouTube revenue. In addition, we are increasingly benefiting from the shift toward 
+programmatic advertising, particularly among brand advertisers. These strong top line results were complemented by 
+ongoing operating expense discipline in the quarter, as reflected in 13% year-over-year growth in GAAP operating 
+income and 16% year-over-year growth in non-GAAP operating income. 
+
+I will first go over a summary of the quarter, followed by specific financial details, and conclude with themes for the 
+near term. Omid will then cover the business and product highlights of the quarter, after which we will take your 
+questions. 
+
+Beginning with a summary of our financial performance, total revenue was $17.7 billion, up 11% year over year and up 
+3% sequentially. As a result of the ongoing strengthening of the U.S. dollar, we realized a negative currency impact on 
+our revenues of $1.6 billion, or $1.1 billion after the benefit of our hedging program. Holding currency constant to prior 
+periods, our total revenue grew 18% year over year and 4% sequentially. 
+
+On a GAAP basis, operating profit was $4.8 billion, and the operating margin was 27%. On a non-GAAP basis, that is, 
+excluding stock-based compensation, operating profit was $6 billion and the operating margin was 34%. GAAP net 
+income was $3.9 billion, up 17% year over year and up 12% versus Q1. Non-GAAP net income was $4.8 billion, up 
+18% year over year and up 8% versus Q1. 
+
+GAAP earnings per diluted share for Class A and Class B shares were $4.93, and for Class C were $6.43. Higher EPS 
+for Class C reflects the impact of the adjustment payment made in Q2. Non-GAAP earnings per diluted share were 
+$6.99. As detailed in the earnings slides on our IR website, stock-based compensation totaled $1.1 billion, up 29% year 
+over year and down 6% sequentially. 
+
+Let me now turn to key elements of our financial statements. Starting with our primary revenue sources, Google Sites 
+revenue was $12.4 billion, up 13% year over year and up 4% sequentially, notwithstanding currency headwinds. 
+Year-on-year and quarter-on-quarter growth reflect continued strength in search, particularly mobile search. We 
+continued to close the gap between mobile and desktop search monetization. Specifically on mobile, we're pleased with 
+our ongoing progress resulting from our focus on user experience, ads quality, and online to offline commerce 
+initiatives. The combination of these efforts improves the effectiveness and value of mobile for users and marketers 
+alike. 
+
+Desktop search delivered solid revenue growth again this quarter. YouTube again delivered substantial growth in user 
+engagement globally, particularly on mobile, which translated into strong adoption of our TrueView ad format. Growth 
+in watch time on YouTube has accelerated and is now up over 60% year over year, the fastest growth rate we've seen in 
+two years. Mobile watch time has more than doubled from a year ago. 
+
+Network revenue was $3.6 billion, up 2% year on year and up 1% sequentially, continuing to reflect the divergent 
+performance of programmatic on the one hand and our legacy network businesses on the other. Our programmatic 
+
+
+business, including Ad Exchange and DoubleClick Bid Manager, continued to deliver strong year-over-year and 
+sequential performance that more than offset lower results in AdSense for Search. We remain committed to policy 
+changes that improve the user experience notwithstanding the fact that these policies have a negative impact on 
+AdSense for Search revenue. 
+
+Other revenue was $1.7 billion, up 17% year over year and down 3% sequentially. Given the geographic mix of our 
+Play business, FX also had an impact on other revenue. Year-over-year and sequential movements were driven by 
+substantial growth in Play, offset by a decline in hardware sales. 
+
+Next, revenues by geography; U.S. revenue was up 16% year over year to $8 billion and up 4% versus Q1. UK revenue 
+was up 4% year over year to $1.7 billion and flat sequentially. In fixed FX terms, the UK grew 11% year over year and 
+was flat quarter over quarter. Rest of world revenue was up 8% versus last year to $8 billion and up 2% versus Q1. In 
+fixed FX terms, revenues were up 22% year over year and up 4% sequentially, highlighting both the strength of our 
+global business as well as the impact of FX. 
+
+Finally, revenue monetization; as a reminder, these metrics similarly reflect currency movements. Aggregate paid 
+clicks grew 18% year over year and 7% sequentially. Aggregate CPCs were down 11% year over year and 4% 
+sequentially. 
+
+In terms of the drivers, within Google Sites, paid clicks were up 30% year over year and up 10% sequentially, in 
+particular reflecting growth in YouTube TrueView as well as in mobile. Google Sites CPCs were down 16% year over 
+year and down 5% sequentially. Mobile CPCs continue to strengthen and the gap to desktop continues to grow, as I 
+previously noted. The decline in CPCs reflects the impact of YouTube TrueView, which is a growing percentage of 
+overall Sites click mix and where CPCs remain lower than on our other platforms. 
+
+Network paid clicks were down 9% year over year and down 2% sequentially, reflecting the impact of our ongoing 
+policy changes designed to reduce lower quality inventory on AdSense for Search, consistent with our focus on 
+improving user experience. Network CPCs were down 3% both year over year and sequentially. 
+
+Let me turn now to expenses. Traffic acquisition costs were $3.4 billion or 21% of total advertising revenue, which was 
+down slightly sequentially. Trends within Sites and network TAC remain flat due to mix shifts in partners, products, 
+and devices. As a reminder, the Sites TAC line includes the TAC that we pay to search distribution partners for 
+distributing Google Search, as distinct from their own branded search. 
+
+Non-GAAP other cost of revenues was $3 billion in Q2, up 12% year over year and up 7% versus Q1. Year-on-year 
+and sequential growth were driven by costs associated with operating our data centers, including depreciation, as well 
+as content acquisition costs, primarily for YouTube and Play. 
+
+Non-GAAP operating expenses were $5.4 billion or 30% of revenue, up 11% year over year and down 1% versus Q1. 
+The increase in operating expense versus 2Q 2014 primarily reflects R&D expense attributable to increased hiring of 
+engineers and product managers. Headcount increased 18% versus last year and 3% versus 1Q 2015, with total head 
+count at quarter end of approximately 57,100. The deceleration in year-over-year growth and decline in 
+quarter-over-quarter operating expenses reflects in part discipline in expense management and in part lower legal 
+expenses than in comparable periods. A breakout of individual operating expense lines is available on our earnings 
+slides. 
+
+Other income and expense was $131 million, with interest income offset by higher expenses from our FX hedging 
+program. 
+
+The effective tax rate was 21% for the second quarter. As noted in our press release, in Q2 we identified an incorrect 
+classification of certain revenues between legal entities. We revised our income tax expense for the relevant periods 
+beginning in 2008 through the first quarter of 2015, in the cumulative amount of $711 million. The income tax 
+adjustments were not material to the affected periods. More detail is available on our earnings slides. 
+
+Turning now to CapEx and cash, CapEx for the quarter was $2.5 billion, primarily for production equipment and data 
+center construction. CapEx spend was lower versus last year and last quarter, reflecting a bit of a digestion period after 
+
+
+an extended period of investment in both data centers and the requisite machine deployment. We continue to view our 
+computing infrastructure as one of our most strategic assets. 
+
+Operating cash flow was $7 billion, with free cash flow of $4.5 billion, resulting in a cash balance of approximately 
+$70 billion at the end of the quarter, of which approximately $40 billion or 58% is held overseas. 
+
+Let me close with five topics of focus for the near term. First, on revenue growth and drivers, our strong revenue 
+growth in the second quarter, notwithstanding the adverse effects of the strong U.S. dollar, evidences the health of our 
+core search business, most notably mobile, complemented by growth in YouTube and programmatic advertising. Our 
+earlier stage products such as Fiber, Google Life Sciences, and Nest serve as longer-term sources of revenue. 
+Regarding these areas, we are focused on tight governance to ensure that the resourcing for them is appropriate. And 
+we'll talk more about these products in greater detail as I get settled in. 
+
+Second, the sequential deceleration in expense growth achieved in the second quarter reflects in part the benefit of 
+expense discipline discussed in prior calls. A key focus is on the levers within our control to manage the pace of 
+expenses while still ensuring and supporting our growth. We will do this while we continue to invest in engineering 
+talent to keep us preeminent in innovation globally. 
+
+Third, the pace of growth in capital expenditures over the last several years has been significant. Although the vast 
+majority of CapEx to date has been to support our core business, growing requirements for newer products underscore 
+the increasing importance of optimization across the many opportunities ahead of us. 
+
+Fourth, our cash balance grew again this quarter, which of course gives us more strategic flexibility. We remain 
+focused on judiciously capitalizing on the strategic opportunities that we have, which are many. And a key issue is how 
+we prioritize our capital allocation given the breadth of opportunities. 
+
+Finally, as Larry has frequently noted, Google's goal is to develop great new services that significantly improve the 
+lives of as many people as possible. Solving problems for users at scale ultimately results in monetization 
+opportunities. How we prioritize and focus on these opportunities remains paramount, both for our employees who 
+remain inspired by the opportunity to work on the most cutting-edge developments with maximum global impact, and 
+for our shareholders. 
+
+I look forward to working with you. I will now turn the call over to Omid, who will cover the business details of the 
+quarter. 
+
+Omid Kordestani 
+
+Thanks, Ruth. It's great to be here to talk with everyone again. 
+
+Since we last spoke, Google has been very busy hosting our customers and developers from across the globe at events 
+ranging from I/O to the DoubleClick Leadership Summit to Brandcast. We're seeing great momentum in results across 
+the company. 
+
+As you all saw at I/O, we continue to invest in innovation across our core products. To call out just one, the new Photos 
+app is a great example of how we are combining the power of machine learning, search, and beautiful design, 
+something that Google is proud to bring together in such a great package for our users. 
+
+Our investments in machine learning have applications across the company and have real potential to improve our 
+business. For instance, machine learning helps us to improve and adds visual design to maximize its performance. 
+There's enormous opportunity here. I want to quickly share a few highlights of the past quarter and then spend more 
+time talking about our progress in what continues to be our two biggest focus areas and growth drivers, mobile and 
+video. 
+
+First, our core products continue to do well, and users love them. In fact, Google Search, YouTube, Android, Chrome, 
+and Google Maps each have over 1 billion users. We also continue to see great partner momentum across the Android 
+
+
+platform. The Android phone ecosystem started with one device, one carrier, and one OEM, the T-Mobile G1 in 2008, 
+and has grown now to over 400 OEMs and over 500 carriers who make over 4,000 distinct devices. This is a testament 
+to our great progress on both the tech and partnering fronts. 
+
+Google Play continues to grow at an impressive clip. Google Play Games has added more than 180 million new users 
+in the past six months and continues to be one of the fastest growing mobile gaming platforms in history. 
+
+In addition, we're seeing strong momentum around Google Cloud Platform, with a range of great new features, new 
+major customer announcements like HTC and JDA Software, and our collaboration with Broad Institute. 
+
+And on the advertising side, as the trend towards programmatic ad buying continues, we're helping clients succeed in 
+the multiscreen world with our DoubleClick platform. We recently expanded cross-device measurement to all of our 
+DoubleClick advertiser products, so marketers can measure these conversions for all of their campaigns. And to help 
+publishers, we recently announced full DoubleClick support for native ad formats. 
+
+Now I'll spend a few minutes diving more into the big areas of opportunity for us, the shift to mobile and the continued 
+growth of online video. I talked last quarter about the shifts we see in consumer behavior as people turn to their phones 
+throughout the day to decide what to buy or do. Google's role has always been to meet people's needs in the exact 
+moment they're looking, and those moments are increasingly happening on mobile devices. 
+
+More Google searches now take place on mobile devices than on computers in 10 countries, including the U.S. and 
+Japan, two of our largest markets. And we know that when people search on their mobile phones, they're looking for 
+immediacy and action. In fact, 30% of mobile queries are related to location and our efforts around local search are 
+helping consumers find relevant information fast. We're investing in creating great mobile experiences for people 
+across Google products. As Sundar [Pichai] and his team showed at I/O this year, there's a lot to be excited about, from 
+Now On Tap to Android Pay and much more. 
+
+As I mentioned, one of my favorites is the new Photos app, where you can keep and organize all of your memories and 
+easily share and save what matters to you. If you're like me and have an overwhelming number of photos on your 
+phone, the Photos app makes taking, organizing, and finding pictures much more manageable and enjoyable, and it's 
+getting better every day. 
+
+In addition, our teams have made great strides to help users find what they need within third-party apps through 
+indexing. We now have 50 billion links within apps indexed, and 25% of signed-in Google searches on Android now 
+return deep links, taking users right to content within an app or to a link so they can install it. 
+
+We also recently started showing such links in search results on iOS. Developers like Etsy are already seeing a boost in 
+traffic as a result of deep linking. We also added Now cards for more than 100 apps like OpenTable and Spotify, and 
+we have extended Google Voice actions to third-party developers so we can say things like, okay, Google, listen to 
+NPR. 
+
+Alongside our efforts to make mobile better for users, we're continuing to help marketers succeed in today's mobile 
+world. For instance, at I/O, we recently announced Universal Ad Campaigns, which will let developers easily reach 
+users across Google Search, the AdMob network, mobile sites, YouTube, and Google Play. Marketers just tell us what 
+their ad will say, the audience they want to reach, and how much they want to spend, and our ad systems will do the 
+rest to help them maximize performance. 
+
+We introduced new mobile ad formats like Automobile Ads, which take you directly to a carousel of vehicle images, 
+important details like estimated MPG, and links to nearby dealer listings. And just yesterday, we announced Purchases 
+on Google, which makes it easier for people searching on Google to buy things right from their mobile phones. 
+
+I want to turn now to YouTube, which is showing strong momentum with users and advertisers as we reinvent the 
+television experience for the digital age. On mobile alone, YouTube reaches more 18 to 49-year-olds in the U.S. than 
+any U.S. cable network. And the number of users coming to YouTube who start at the YouTube homepage, similar to 
+the way they might turn on their TV, is up over three times year on year. Plus, once users are on YouTube, they are 
+spending more time per session watching videos. On mobile, the average viewing session is now more than 40 minutes, 
+
+
+up more than 50% year over year. 
+
+As consumers continue to shift their content consumption from television to digital, brand dollars are following, which 
+we're seeing in upfront buying through our Google Preferred model. Compared to the same period after Brandcast as 
+last year, Google Preferred commitments of the U.S. or three times higher. 
+
+We're also seeing great adoption of our video ad formats, like TrueView, and continue to help marketers and engage 
+and connect with consumers in new ways. The number of advertisers running video ads on YouTube is up more than 
+40% year over year. And for our top 100 advertisers, the average spend per advertiser is up over 60% year over year. 
+
+We recently introduced a new feature for TrueView that allows brands to automatically insert product information, 
+images, and pricing into their video ads. And as advertising increasingly shifts towards programmatic buying, brands 
+can now easily buy TrueView ads programmatically through DoubleClick Bid Manager. 
+
+All this is helping our content creators build the next generation of media companies doing what they love, making 
+great videos. The number of channels earning six figures per year on YouTube is up 50% year over year. One of the 
+key reasons for this success is our Content ID initiative, which is used by more than 8,000 partners who have claimed 
+over 400 million videos, helping them control their content on YouTube and make money on videos containing 
+copyrighted material. 
+
+So as you can see, it's been a very busy and successful quarter. We're super-focused on our key goals of delivering 
+amazing mobile video experiences. And there's a lot more coming in the next few months, including the Android M 
+release, Now On Tap, Android Pay, and YouTube Gaming. 
+
+Thank you to all the Googlers around the world for their great work every day, now back to Ruth. 
+
+Ruth M. Porat 
+
+Thank you. In my comments, I mentioned that the gap between mobile and desktop continues to narrow. And with that, 
+I'll turn it back to Ellen. 
+
+Ellen West 
+
+Great, thank you. Operator, I think we're ready for questions. 
+
+Q&A 
+
+Operator 
+
+Thank you. [Operator Instructions] And our first question comes from Justin Post from Bank of America Merrill 
+Lynch. Your line is now open. Please go ahead. 
+
+<Q - Justin Post>: Thank you. I guess given the focus on expenses, I'll ask a capacity question. Google over the last 18 
+months really has built up head count and data center capabilities. Just where are you on capacity, and really what was 
+the purpose of this big buildup? What kind of capability does that give Google today? Thank you. 
+
+<A - Ruth M. Porat>: Thank you for that question. First, I do want to clarify one thing. In my comments on CPCs, I 
+meant to note that the gap between mobile and desktop continues to narrow, obviously an important trend. I wanted to 
+clarify that. 
+
+So look, in terms of head count and data center capabilities and what that does for us, as I said, in our view, our 
+infrastructure is one of the most strategic assets that we have. And as we talk about what happened in the second 
+quarter, it reflects the fact that there can be some variability in the cadence of spend. And so while overall capital 
+
+
+intensity was lower in Q2 than in prior year and prior quarter, it's more an issue of how spend is phased during the year. 
+
+But the main point is we view computing capacity as a strategic asset. It provides us with the flexibility necessary for 
+growth. And as I tried to convey as well, obviously, it's a priority to achieve efficiencies where possible, in particular 
+given some of the newer opportunities that we have. And so we're just beginning the 2016 budgeting process. Core to 
+that is prioritization. But it really has been about strategic flexibility and the underlying strength of all that we do. 
+
+<Q - Justin Post>: Thank you. 
+
+<A - Ellen West>: Great. Operator, we'll go to our next question, please. 
+
+Operator 
+
+And our next question comes from Ross Sandler from Deutsche Bank. Your line is now open. Please go ahead. 
+
+<Q - Ross Sandler>: Great, I just had two questions. Omid, the U.S. reaccelerated; it looked like from 12% to 16% in 
+the quarter. Can you just give us a little color of what drove that? Was it a more a function of core search and mobile 
+picking up or YouTube? 
+
+And then, Ruth, you mentioned in your prepared remarks that a lot of the expense deceleration was put in place before 
+you got to Google. So now that you've been in the seat for a couple months, can you talk about what you've seen and 
+what potentially you could do in addition to what was in place in 2015 before you got there? Thank you. 
+
+<A - Omid Kordestani>: Thank you, Ross. Our performance really reflects the fact that we have a diverse set of 
+products that are doing well. We have strength in core search, obviously. And in particular in mobile, YouTube, and 
+programmatic, we're seeing a lot of strength. We saw a nice pickup in a number of verticals in Q2 coming off 
+weather-related weakness in Q1. And this quarter we're seeing retail and travel being stronger verticals in search. 
+
+As to the second part of the question, I'll have Ruth address that. 
+
+<A - Ruth M. Porat>: And so with respect to expense gains, obviously a lot has been done on expense discipline. It's 
+been discussed on calls for a number of quarters. And I think it's fair to say proper resource allocation stretches across 
+OpEx and CapEx, and it's about prioritizing our investments and ensuring that we're being efficient and effective with 
+our spend. To be clear, the priority is revenue growth, and we have a breadth of opportunity. But pursuing revenue 
+growth is obviously not inconsistent with expense management. 
+
+And so as I noted, we're just starting the 2016 budgeting process. In my experience, the best way to slow the rate of 
+growth in expenses is to work closely with business leaders, really anchored in data, so together we can identify ways 
+to prioritize resources and really continue to extend the discipline that we've talked about. And given my early 
+conversations with our business leaders, I look forward to this exercise over the next couple of months, and we're very 
+engaged with it. 
+
+<Q - Ross Sandler>: Thank you. 
+
+<A - Ellen West>: Great. Operator, we'll take our next question. 
+
+Operator 
+
+Thank you. And our next question comes from Carlos Kirjner from Bernstein. Your line is now open. Please go ahead. 
+
+<Q - Carlos Kirjner-Neto>: Thank you, I have two questions. Ruth, can you help us understand Google's position 
+vis-à-vis debt? It's probably not controversial that your debt level is much below your capacity. Are there any reasons 
+why Google would not want to raise debt if it had to finance a large acquisition? And if yes, could you help us 
+understand what these reasons are? And secondly, how do you reconcile the strength in mobile search with the fact that 
+distribution TAC grew only 6% year on year? Thank you. 
+
+
+<A - Ruth M. Porat>: So starting with your question about cash and whether we would issue debt, I think the way I 
+look at that is you're talking about overall efficiency of balance sheet and how are we using the balance sheet. And I've 
+slightly broadened the question more than what you did. But at the end of the day, our focus, my focus is maximizing 
+shareholder value over the medium to long term. And that is about how effectively are we using our balance sheet, 
+where are we investing, and debt could theoretically be a part of that. 
+
+But if you step back, as I've looked at it, the key issue is what do we need for working capital, what do we need for 
+CapEx, what do we need for M&A, what do we need potentially for capital return? How does one think about financing 
+the various opportunities that we have? And I would say it's early days. It would be premature to be more specific than 
+that. But given this profitability of our business, we have many opportunities. Given the growing mix of our business, 
+we have opportunities. I'd say allocation decisions aren't mutually exclusive. Allocation can obviously change as 
+opportunities evolve. But as we look at it, we have a breadth of opportunities. And again, I think it's premature to be 
+more specific on debt at this point. 
+
+<Q - Carlos Kirjner-Neto>: How about the distribution TAC only growing 6% given the strength in mobile? 
+
+<A - Ruth M. Porat>: So as it relates to distribution TAC, Sites TAC dollars are up modestly year over year and 
+quarter over quarter, and that's what I would really focus you on; it's the dollar change. And obviously, [ph] it's a 12 but 
+
+(29:41) that's a good thing because with those TAC dollars comes revenue. As a reminder, TAC includes payments 
+made to search distribution partners as distinct from YouTube and Play content acquisition costs, which are in other 
+cost of revenue. So looking at this on a percentage of revenue basis, what you're seeing is the impact of YouTube 
+revenue growth. Sites revenue is up, but the associated content acquisition costs are reflected in higher other costs of 
+revenue, not in Sites TAC. 
+<Q - Carlos Kirjner-Neto>: Thank you. 
+
+<A - Ruth M. Porat>: Thank you. 
+
+<A - Ellen West>: Operator, we'll take our next question. 
+
+Operator 
+
+Our next question comes from Stephen Ju from Credit Suisse. Your line is now open. Please go ahead. 
+
+<Q - Stephen Ju>: Okay, thanks. So, Omid, big picture, the outperformance of programmatic and YouTube is 
+interesting, and it seems to beg the next question. Your current list of advertising products now seems to touch all parts 
+of the consumer purchasing funnel. So I'm wondering where you are in uniting all of the different pieces so that you 
+can walk into a large advertiser and lay out the data and show that the 15-second TrueView spot that they ran turned 
+into a lift in sales of X%. Okay, thanks. 
+
+<A - Omid Kordestani>: Sure, it's a good question. And in fact, that's one of the areas that I really focused on after I 
+came back. It is a suite of products that we're very proud of and working well for advertisers. What we like to say 
+internally is we like to have one Google represented to the customer so that in these conversations with them we really 
+understand their objectives. And really in the classic sense of the funnel, we can start from the brand journey from the 
+beginning to purchase across search, display, video. 
+
+And then, as you know, we recently brought cross-device measurement to DoubleClick, so the focus is really on all 
+aspects of this journey. Online to store, we're showing how mobile ads are driving actual store visits for our advertisers. 
+In Brand Lift studies, we're showing brands in real time, how their ads are performing. We've done over 10,000 Brand 
+Lift studies on YouTube campaigns alone. So we're really just excited about having this full suite now and being able 
+to have the full coverage of this customer acquisition journey from branding all the way to conclusion of a transaction. 
+
+<Q - Stephen Ju>: Thank you. 
+
+
+<A - Omid Kordestani>: Thank you. 
+
+<A - Ellen West>: Operator, we'll take our next question. 
+
+Operator 
+
+And our next question comes from Mark Mahaney from RBC Capital Markets. Your line is now open. Please go ahead. 
+
+<Q - Mark S. Mahaney>: Great, thanks. Omid, you gave a lot of great data points on the growth in YouTube and stuff 
+that's accelerated. Could you spend a little bit more time on the why? Why has YouTube seen this kind of 
+reacceleration and resurgence in growth? Do you think it's part of a broader industry trend? With the weakness in the 
+upfronts, offline is now coming online. What else specifically, what specifically is YouTube doing to better capture 
+those dollars? 
+
+And then, Ruth, I know somebody asked you about debt. The logical follow-on question is are there cash returns and 
+share repurchases and dividends. I know it's early days, but your thoughts on and your collective thoughts on Google, 
+how you think about that over the next few years, when if ever it makes logical sense to do that. Thank you. 
+
+<A - Omid Kordestani>: I'll start and hand it to Ruth. So I think it's really a combination of all of the strength of 
+YouTube coming together. It starts with having over 1 billion users, really almost one-third of all people on the Internet 
+every day watching hundreds of millions of hours on the service, and that creates billions of views. And as Ruth 
+mentioned, the growth in watch time on YouTube accelerated and is now up over 60% year over year, the fastest we've 
+seen in a couple years. 
+
+And I think we're doing also a much better job with our products and our salesforce to not only deliver for the creators 
+on YouTube and do a better job of helping them monetize their content, and at the same time then highlighting that 
+success through programs like Brandcast, where advertisers, agencies see that dynamic audience and service, and then 
+with the advertising products be able to then show them the real benefits of advertising and the ways that they can 
+measure its effectiveness. So it's really all the pieces coming together for us. Obviously, we have a lot of work to do, 
+and we see still a lot of opportunity to enhance the service. So I think you'll see a lot of innovation coming for us both 
+on the service front as well as on the advertising products. 
+
+<A - Ruth M. Porat>: Hey, Mark. And as you noted, it is early days. But the way I view any assessment of a return on 
+capital, my prior answer regarding balance sheet efficiency is really in the context of maximizing stakeholder value 
+over the medium to long term. And with return on capital, it gets into the context of how do you prioritize and allocate 
+cash after an appropriate reserve for working capital amongst CapEx, M&A, and then potentially that capital return. 
+And as I said, the allocation decisions aren't mutually exclusive. The profitability of our business gives us many 
+opportunities. 
+
+But the main point is to date, the biggest return on investment here has been in our core search business, including 
+mobile search, as a result of both smart M&A and CapEx. And through M&A, we built a lot of the growth engines you 
+know today. YouTube and DoubleClick are great examples. Again, this underscores the power of smart, targeted 
+acquisitions. We also have a strong track record of investment in new products, as you know well, and the 
+infrastructure to support explosive growth. Our tech infrastructure, as I've already commented on, is really unparalleled. 
+And we do view it as a great strategic asset, and we've invested in it substantially over many years. So trying to gauge 
+whether or how capital return fits in, it's premature to do that and it's really looking across these various potential uses. 
+
+<Q - Mark S. Mahaney>: Thank you, Ruth. Thank you, Omid. 
+
+<A - Ruth M. Porat>: Thanks, Mark. 
+
+<A - Ellen West>: Okay, operator. We'll take our next question, please. 
+
+
+Operator 
+
+Thank you. Our next question comes from Eric Sheridan from UBS. Your line is now open. Please go ahead. 
+
+<Q - Eric J. Sheridan>: Thanks for taking the question. Omid, you mentioned retail and travel as two of the stronger 
+verticals on the advertising front. And in the recent past, you guys have made a number of announcements around 
+products that align your interests more closely with suppliers, people who are striving to close the economic loop, and 
+you might be even moving down the funnel. How do you think about the opportunities for Google to move down 
+respective funnels and industries where you do already have a fair bit of expertise? Thanks. 
+
+<A - Omid Kordestani>: Sure. Thanks, Eric, for the question. We're really focused on connecting retailers to 
+consumers across screens and also reducing this friction involved in finding and purchasing products, including local 
+products in stores. So that entire journey and all the aspects of commerce is a great area of focus for us. And as users 
+begin to – as they start their searches on mobile phones, we're continuously trying to find ways to improve the mobile 
+shopping experience. 
+
+And as the shopping experiences on these smartphones become easier and we focus on improving mobile conversions 
+for advertisers, we're seeing great benefits from that. We just announced Purchases on Google, for example. It's a 
+smartphone-only feature of the product listing ads as an example. And all of these are really for us the building blocks 
+to help in reduction of that friction and bring the expertise we have in understanding the immediacy, the local nature of 
+these searches, and understanding conversion and how to put it all together for our users and for our advertisers and 
+merchants. 
+
+<A - Ellen West>: Okay, operator. We'll take our next question, please. 
+
+Operator 
+
+Our next question comes from Douglas Anmuth from JPMorgan. Your line is now open. Please go ahead. 
+
+<Q - Douglas T. Anmuth>: Great, thanks. Just to follow up a little bit on the last one, Omid, can you talk more 
+specifically about the cross-platform efforts and estimated conversions in particular and whether you're seeing that 
+prove more of the value across the platform? And then secondly, you commented several times that the gap is 
+tightening on pricing between mobile and desktop. Can you quantify that by any chance? And can you just talk about 
+what you think drives that to tighten further going forward? Thanks. 
+
+<A - Omid Kordestani>: Sure, maybe I'll have Ruth take that second part. On the first part, on this online to offline 
+conversion efforts, we obviously know that mobile activities are influencing offline behavior, and we're very busy 
+investing in new dynamic products that help bring mobile users to stores. We're seeing strong results from clients using 
+our tools to bridge this digital and physical world and great adoption of local inventory ads, which help advertisers 
+promote their store items to nearby shoppers. So that's how the whole cycle of usage of smartphones and the 
+immediacy come together. And then we have created a way for advertisers to measure the impact of these ads on store 
+visits. 
+
+So just to give you a couple of examples, Target, one of our advertisers, found that mobile search ads greatly 
+influenced in-store sales. And using our Store Visits data, they found that a third of their paid search ads resulted in a 
+user visiting a Target store during the 2014 holiday season. So we'd love to continue working with them and other 
+advertisers to show the results and then build on that. A Florida department store working with us found that 63% of 
+their mobile influenced sales take place offline. And so more and more, we're doing these studies. We're putting tools 
+together for the advertisers and our partners, the merchants, and finding ways for them to really quantify these benefits 
+and just scale these programs for everyone. 
+
+<A - Ruth M. Porat>: And then as it relates to the second part of your question, there are really two good stories here 
+given the importance of search, mobile CPCs up and desktop CPCs not declining, so the gap is narrowing. On the 
+mobile side, as Larry said before with respect to desktop, it took time to fully develop the pricing model. And we 
+
+
+remain focused on building the mobile ecosystem to have the right ad formats and measurement tools to take advantage 
+of all the platform has to offer. Features like estimated store visits, app install, reengagement ads, cross-device 
+conversions are all part of this strategy. 
+
+And then on desktop, the business continues to grow. It remains a good contributor to overall results. As we announced 
+at the AdWords Performance Summit in May, ongoing developments in rich and useful ads that work across all 
+screens, including desktop, enable us to deliver the right answers for our users in the right moment. In other words, ad 
+formats that accelerate time to conversion on both mobile and desktop, and that's what's really narrowing this gap here. 
+
+<Q - Douglas T. Anmuth>: Great, thank you. 
+
+<A - Ruth M. Porat>: Thank you. 
+
+<A - Ellen West>: Operator, we'll take our next question. 
+
+Operator 
+
+Our next question comes from Anthony DiClemente from Nomura. Your line is now open. Please go ahead. 
+
+<Q - Anthony DiClemente>: Hi, thanks a lot for taking my question. Ruth, given your background, I just wanted to 
+ask if you thought the regulatory backdrop for Google is in any way analogous to the financial services industry. And 
+what is your outlook for a large player like Google in an environment of increasing regulatory pressure, particularly 
+outside the U.S.? And of course specifically for Google, with the EC demanding changes to the search results, I was 
+just wondering. Should we be concerned that these regulatory pressures can ultimately have an impact on your 
+business? Thanks. 
+
+<A - Ruth M. Porat>: Look, the industries are different. But as it comes to our business, Google operates in a very 
+competitive environment. There are many windows onto the web. Choice, competition, investment are all going up, not 
+down. And we do look forward to continuing to work constructively with the EC to address any concerns they may 
+have and regulators generally. 
+
+<Q - Anthony DiClemente>: Okay, thank you very much. 
+
+<A - Ruth M. Porat>: Thank you. 
+
+<A - Ellen West>: Operator, we'll take our next question, please. 
+
+Operator 
+
+Our next question comes from Brian Nowak from Morgan Stanley. Your line is now open. Please go ahead. 
+
+<Q - Brian Nowak>: I have two. The first one, Ruth, going back to your comments on some of the earlier stage 
+projects, Fiber, Life Sciences, et cetera, and being focused on tight governance, is there any way you can help us think 
+about OpEx or CapEx related to those projects at this point, and how we should think about maintenance versus 
+investment OpEx and CapEx going forward? 
+
+And then the second one, just going back to the accelerating U.S. revenue growth, it sounds like mobile and YouTube 
+are both doing pretty well. Can you just help us understand? Are you seeing both accelerate? Is U.S. search accelerating 
+at this point, or is it more so being driven by YouTube? Thanks. 
+
+<A - Ruth M. Porat>: Sure. So let me take your first question, first part of your question first. In terms of overall the 
+framework for thinking about our businesses broadly, I think a valuable framework to use is one that Eric and Larry 
+have referred to for many years, namely the 70:20:10, 70% resources on the core, 20% on adjacent areas. At one point, 
+that included Chrome and Android, and they are now in the core, but it would include things like cloud. And then 10% 
+in additional new exciting opportunities in really sizable markets like Fiber or what we're doing with Google Life 
+
+
+Sciences. 
+
+And so in discussing this with Larry, it's clear his objective has been to instill within the culture this mission to drive 
+not just important innovation associated with our core business but also to look for what he's calling revolutionary 
+ideas, big solutions that can meaningfully contribute both to making people's lives better and to the next big revenue 
+and earnings growth opportunity for Google. And my take is that Larry views this 70:20:10 as an instructive 
+framework. He's also noted how hard it is to reach that 10% on these big new revolutionary ideas because it's tough to 
+get people to tackle big difficult new problems instead of pursuing incremental change. So human nature provides a 
+limit on how big that final bucket would be, the new opportunities. 
+
+And I think the other point to consider is that Google's core business continues to deliver strong growth. So to achieve 
+10% in the big new areas means continually trying to reach 10% of an even larger number. And the framework keeps 
+us focused on big ambitions across the company. But given the success of the core business, I think it's fair to say that 
+10% is a stretch goal for now, and it's a way to think about resources, which hopefully helps you fill in a bit there. And 
+then the second part of your question, if you could repeat that. 
+
+<Q - Brian Nowak>: Yes, it was just going back to the accelerating overall U.S. revenue. I'm just curious about a little 
+more color on the drivers there, where it sounds like both YouTube and mobile search are doing pretty well. Is it safe to 
+say that U.S. search and YouTube are both accelerating, or are you seeing YouTube drive it disproportionately? How 
+should we think about the drivers of the U.S. revenue acceleration? 
+
+<A - Ruth M. Porat>: You've covered a lot of it. The U.S. growth really reflects the fact we have a diverse set of 
+products that are doing well. We had strength in core search, particularly mobile. We had strength in YouTube and 
+programmatic, as Omid talked about. So it's really the breadth across a number of different products that delivered the 
+results that you're talking about; that we're talking about here today. 
+
+<Q - Brian Nowak>: Thanks. 
+
+<A - Ruth M. Porat>: Thank you. 
+
+<A - Ellen West>: Operator, we'll take our next question, please. 
+
+Operator 
+
+Our next question comes from Heather Bellini from Goldman Sachs. Your line is now open. Please go ahead. 
+
+<Q - Heather A. Bellini>: Great, thank you so much. I just had two quick questions. I was just wondering – you've 
+talked a lot about desktop and mobile CPCs. I was wondering if you could share with us if the narrowing of the gap 
+between the two is actually starting to accelerate. 
+
+And then the other thing I wanted to ask is just thinking about the CapEx spending waves that companies go through, 
+and clearly Google has been on one, on an accelerating spending wave for the last few years. Should we then suggest – 
+get from your comments that you're in a digestion period; that the digestion period could also be a multiyear trend as 
+well? If there are any thoughts you can share there. Thank you. 
+
+<A - Ruth M. Porat>: I think with respect to the first part of your question, we thought it was important to be clear 
+that this gap is narrowing and to give you a sense of some of the mix issues within CPCs, so mobile CPCs 
+strengthening, desktop not declining. YouTube remains lower, but we're seeing real strong growth in TrueView. And 
+so it's just really to try and dimension it as you think about what's going on with the mix change. 
+
+And then as it relates to expenses, what I was trying to convey there is that we in the second quarter had a bit of a 
+digestion period here on the back of the substantial investment spend that we've had. And I would say in terms of – if 
+you think about the second quarter in that context, there can be some variability in the cadence of spend. And so part of 
+it as we're talking about the CapEx here is really how spend is phased during the year. I wouldn't suggest that we're 
+talking about, as the way you frame the question, [indiscernible] (48:02) multi-period given just the sheer scope of 
+
+
+opportunities that we have. So as I said, at the front end with respect to both CapEx and OpEx, we're just beginning the 
+2016 budgeting process. We're very focused on prioritization, but I was trying to give you some context for what was 
+going on in the second quarter. 
+
+And then as it relates to OpEx, in terms of the back half of the year, there are seasonal fluctuations that do typically 
+impact operating expense as well. For example, head count usually picks up in the third quarter with new grad hires 
+starting, and our marketing expense also tends to be weighted toward the second half of the year. So again, I was just 
+trying to give you a sense of what's the cadence as you're thinking about the year. 
+
+<Q - Heather A. Bellini>: Great, thank you. 
+
+<A - Ruth M. Porat>: Thank you. 
+
+<A - Ellen West>: We'll take our next question, please, operator. 
+
+Operator 
+
+Our next question comes from Robert Peck from SunTrust. Your line is now open. Please go ahead. 
+
+<Q - Robert S. Peck>: Two questions, if you don't mind. The first is around the possibility of working more directly 
+with Yahoo! on search and search results. Could you tell us about any progress there or work you've done there? 
+
+And then number two, Ruth, could you talk about the future possibility of breaking out more information around your 
+businesses to a point where maybe we can break out YouTube or DoubleClick or some of these other businesses that 
+can give investors a little more clarity on the size and growth of them? Thank you. 
+
+<A - Omid Kordestani>: I'll take this part. So Yahoo! is currently testing search results and ads from a number of 
+partners, including Google as one of their options. And they have options to use search services and search ads across 
+their properties, and you may see our ads. This is a standard agreement, and many other publishers use our web search 
+and AdSense for Search. We look forward to working with them and hopefully having good performance with them. 
+
+<A - Ruth M. Porat>: And then in terms of the second part of your question, I think it's important to help our 
+stakeholders understand how we think about key drivers for the business and how we manage the business, providing 
+what I call a framework for understanding the momentum in the business, our investment choices, our capital allocation 
+decision-making. I'm committed to being direct with you. I won't give you competitively sensitive information, but my 
+goal is to help you understand the business as well as possible. 
+
+My view it's our obligation to pursue activities that maximize value over the long term and doing it in a disciplined 
+fashion. And the point I'm really trying to drive here is I need to create a framework that helps you understand where 
+we're going. So you're asking would we think about breaking about any particular business. I'm trying to understand 
+how best to provide more insight into the drivers of the business and beyond what is currently provided, and it's really 
+too early to be more specific than that. 
+
+<Q - Robert S. Peck>: Thank you. 
+
+<A - Ellen West>: Operator, we'll take our last question, please. 
+
+Operator 
+
+And our last question comes from Paul Vogel from Barclays. Your line is now open. Please go ahead 
+
+<Q - Paul Vogel>: Great, thank you, two questions on YouTube. One, there has been a lot of speculation in the past 
+about the profitability of YouTube, so I'm just curious how you think about the revenue growth versus the forward 
+spend on forward demand. And is YouTube in a position where it's starting to see leverage on the upside with the 
+strong revenue growth? 
+
+
+And then on the revenue side in particular, you talked about how YouTube has been – it's one thing that drags the 
+optics of CPC down. When mobile was doing that, I think the company believed that over time mobile would be 
+additive, and we're starting to see it, but it took some time. How do you think about YouTube in the context of is there 
+a point in time where you think YouTube will actually be additive to the optics of the CPC versus where it is right 
+now? Thank you. 
+
+<A - Ruth M. Porat>: So I think there were three parts to that question. In terms of the revenue growth in YouTube, 
+Omid hit a number of them, but we continue to have strong growth there. And it really does reflect, as he said, the sheer 
+volume of users. We have over 1 billion users, and those users are spending more time watching. Watch time growth 
+continues to accelerate, now up over 60% year over year, the fastest rate we've seen in two years. And we do view 
+watch time as the most valuable measure of engagement. And it does reflect the ongoing improvement in ads quality, 
+with more users also choosing to watch more TrueView ads. Not only do we have a huge user base that's highly 
+engaged, but data points like the fact that there are more 18 to 49-year-olds on mobile YouTube than watching cable 
+TV today really underscores the opportunity here. And our focus is the opportunity to get larger budgets moved to 
+YouTube. 
+
+And then in terms of the profitability question, as you know, we don't break out profit by product, and we view our 
+technical infrastructure as a core strategic asset that supports products across the company. I've already said that on this 
+call that it's an important point. It's fair to say that much of the network expenses supporting YouTube, it's a large user 
+of capacity, and our ability to serve high-quality HD video on demand around the world is unparalleled. 
+
+From the user's perspective, YouTube is a great example of a multi-device platform with high usage on both desktop 
+and mobile. We have one ad team that works across our various products. And when we work with the largest ad 
+partners, globally we're selling a total package. Omid has commented on some of that. Not surprisingly, if you take our 
+top advertisers, they all advertise across all our products, not necessarily at the same rate, but we have a single team 
+working with them to close the differential. We do view that as a great opportunity. And the goal, to give just a bit 
+more color on how some of our assets, technical infrastructure and ad sales team benefit a number of our different 
+products across the company. 
+
+And then I think you slipped a third part in there on the status of CPC trends and YouTube TrueView pricing, so I'll 
+just close out on that. CPC pricing on YouTube for TrueView ads, ads that users choose not to skip is lower than CPC 
+pricing on desktop and mobile, but YouTube TrueView ads represented a larger percentage of our overall clicks, so had 
+a greater impact on CPCs. And this is really about the tremendous growth in YouTube views. Again, when we see the 
+real uptake here and the extent to which users are choosing to watch more ads given our effort around ad relevance and 
+quality, advertisers want to reach these audiences. And our focus is on the opportunity to get larger budgets moved to 
+YouTube. 
+
+<Q - Paul Vogel>: Okay, thank you. 
+
+<A - Ruth M. Porat>: Thank you. 
+
+Ellen West 
+
+Okay. And with that, I want to thank everyone for joining us today. We look forward to speaking with you again next 
+quarter. 
+
+Operator 
+
+Ladies and gentlemen, thank you for participating in today's conference. This does conclude today's program. You may 
+all disconnect. Everyone, have a great day. 
+
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2015, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

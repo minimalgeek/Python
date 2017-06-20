@@ -1,0 +1,1012 @@
+Q1 2009 Earnings Call 
+
+
+Company Participants 
+
+• Kathleen Bela, Investor Relations 
+• Kevin Johnson, Chief Executive Officer 
+• Robyn Denholm, Chief Financial Officer 
+Other Participants 
+
+• Simona Jankowski 
+• Nikos Theodosopoulos 
+• Ehud Gelblum 
+• Tal Liani 
+• Sanjiv Wadhwani 
+• Jeffrey Kvaal 
+• Ittai Kidron 
+• Jeffrey Evenson 
+• Mark Sue 
+• Erik Suppiger 
+• Kenneth Muth 
+• Mark McKechnie 
+• Paul Silverstein 
+• Jason Ader 
+• Greg Mesniaeff 
+• Bill Choi 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Greetings, and welcome to the Juniper Networks' first quarter 20009 earnings results conference call. At this time, all 
+participants are in a listen-only mode. A brief question and answer session will follow the formal presentation. 
+[Operator Instructions] As a reminder, this conference is being recorded. 
+
+It is now my pleasure to introduce your host, Ms. Kathleen Bela, Vice President of Investor Relations for Juniper 
+Networks. Thank you, Ms. Bela. You may begin. 
+
+Kathleen Bela, Investor Relations 
+
+Thank you, Manny. Good afternoon, and thank you for joining us today. Here today are Kevin Johnson, Chief 
+Executive Officer, and Robyn Denholm, Chief Financial Officer. 
+
+A couple of housekeeping items before we begin. First, there is a slide deck that accompanies today's conference call. 
+To access the slides, please go to the IR section of our website at juniper.net. Second, this call will be available to 
+download as a podcast. For details, you may also visit the IR section of our website. 
+
+
+With that, I would like to remind everyone that statements made during this call concerning Juniper's business outlook, 
+future financial operating results, and overall future prospects are forward-looking statements that involve a number of 
+risks and uncertainties. Actual results could differ materially from those anticipated in these forward-looking 
+statements as a result of certain factors, including economic conditions generally or in the networking industry, changes 
+in overall technology spending, the network capacity requirements of service providers, the timing of orders and 
+shipments, manufacturing and supply chain constraints, variation in the mix of products sold, customer perceptions and 
+acceptance of our products, litigation, and other factors listed in our most recent report on Form 10-Q filed with the 
+SEC. All statements made during this call are made only as of today. Juniper undertakes no obligation to update the 
+information in this conference call in the event facts or circumstances change after the date of this call. 
+
+In discussing the financial results today, Robyn will first present results on a GAAP basis and for purposes of today's 
+discussion will also review non-GAAP results. For important commentary on why the management team considers 
+non-GAAP information a useful view of the company's financial results, please consult our filings with the SEC. For 
+the detailed reconciliation between GAAP and non-GAAP, please see today's press release. In general, non-GAAP 
+results exclude certain nonrecurring charges, amortization of purchased intangibles, other acquisition-related charges, 
+and expenses related to stock-based compensation. 
+
+In today's call, Robyn will also be providing forward-looking guidance. As a reminder, guidance is provided on a 
+non-GAAP basis. All guidance is forward-looking, and actual results may vary for the reasons I noted earlier. A GAAP 
+EPS target is not accessible on a forward-looking basis due to the high variability and low visibility with respect to the 
+charges which are excluded from the non-GAAP EPS estimates today. Please note that today's call is scheduled to last 
+for one hour. And please limit your questions to one per firm. 
+
+With that, I will turn the call over to Kevin. 
+
+Kevin Johnson, Chief Executive Officer 
+
+Well, good afternoon, everyone. Thanks for joining us today. 
+
+At the financial analysts meeting held in February, we outlined our approach to navigate this global macroeconomic 
+downturn. We are balancing the economic realities of the near term with a focus on long-term shareholder value 
+creation. Now, although many customers establish budget processes in Q1, and businesses experienced another quarter 
+to assess the impact of the recession, visibility still remains low. Therefore, we will be continuing to maintain agility as 
+we work through the economic situation quarter by quarter. We are being disciplined on cost reduction while at the 
+same time ensuring we fund strategic priorities in R&D and customer service. 
+
+As we have worked to reduce operating expenses in the quarter, you will see that we have managed to flow resources to 
+R&D in support of the investments that we believe continue to strengthen our competitive position in the market. We 
+also remain committed to preserving a strong balance sheet. 
+
+I'll take a little time to share a brief perspective on current marketplace conditions, our approach to the cost structure, 
+and some progress in R&D and partnerships before handing it off to Robyn. 
+
+Clearly, the global macroeconomic challenges impacted our Q1 performance. Consistent with Q4 of 2008, this was a 
+very back-end loaded quarter. Many customers worked through much of January finalizing their annual budgets and 
+implementing new processes to guide their capital purchase decisions. Based on many discussions I have had with 
+customers, they continue to monitor their quarterly financial performance as one factor to guide both their OpEx and 
+CapEx expenditures. 
+
+In the Service Provider segment, we continue to see customers assessing their network capacity on a weekly versus a 
+quarterly basis. With many budgets in place and management processes for decision making on CapEx and OpEx, the 
+environment seems to be more stable than it was in early Q1. From a long-term demand perspective, IP traffic drivers 
+continue to increase. More Internet users with increased usage and more bits driven by video reinforces the view of 
+several industry analysts and many customers that IP traffic is growing at rates between 40 to 60% in 2009. 
+
+
+Visibility of customer purchases on the Service Provider side are still very limited; yet in Q1, we saw some of our 
+largest Service Provider customers moving ahead with capital expenditures while others seemed more cautious. As a 
+result, we did experience a year-over-year decline of 14% in our Service Provider segment, which included declines in 
+the Americas and EMEA, while Asia Pacific delivered modest year-over-year growth. 
+
+Enterprise customers also paused a bit going into 2009, as they, too, assessed the impact of the economic recession on 
+their businesses and as they reworked their annual budgets. That said, our Enterprise revenue grew by 13% 
+year-over-year, supported by an expanded product portfolio and increased contribution from our partners. The 
+Americas, EMEA, and Asia Pacific all showed year-over-year growth in the Enterprise. Enterprise customers are 
+focused on finding more efficient ways to operate their businesses, and the network infrastructure is a key enabler of 
+productivity. 
+
+Our expanded portfolio is enabling us to deliver solutions with lower CapEx requirements through better scale and 
+integration and lower OpEx through efficiencies of a single network operating system, JUNOS. In this economic 
+period, our lower total cost of ownership value preposition is especially relevant to customer needs. 
+
+Consistent with our operating principles in this macroeconomic downturn, we've been agile in taking costs out of the 
+business. As we discussed at the financial analysts meeting, in a scenario where 2009 revenue declines, we will manage 
+OpEx to be flat to down year-over-year. 
+
+We are being surgical in our approach. We started our cost reduction actions back in Q4; we implemented a second 
+wave of these actions in Q1; and as a result, we reduced non-GAAP operating expenses by 5% quarter-on-quarter. By 
+being surgical in our approach, we've been able to reduce OpEx quarter-on-quarter while still funding the R&D agenda 
+that we outlined at the financial analysts meeting. R&D OpEx in Q1 was up year-over-year and quarter-on-quarter, and 
+we believe these R&D investments are enabling us to strengthen our product portfolio and capture share of a large 
+addressable market. Strategically, this approach should serve us well when macroeconomic conditions improve. 
+
+These R&D investments led to a number of exciting new products delivered in the quarter. We further demonstrated 
+our industry thought leadership with the announcement of core network virtualization in the TX Matrix Plus. This is 
+our next-generation multi-chassis core router platform, which brings a new dimension of flexibility and scalability to 
+the network infrastructure. The Intelligent Services Edge, which was announced in Q4 of last year, enables 
+programmability on our M and MX series routers. 
+
+In Q1, we announced a new video monitoring and analysis solution called StreamScope. StreamScope was developed 
+to run on JUNOS by Triveni Digital, a subsidiary of LG Electronics. The solution enables customers to extend the 
+capabilities of the M and MX series routers to ensure quality of video services over cable, wireless and IPTV networks. 
+
+In addition, we shipped the EX 8208 Ethernet switch, and although it's early, the introduction has been well-received. 
+We added over 150 new EX customers in the quarter, with over 50% of those customers purchasing a portfolio of 
+products from Juniper, including a mix of switches, routers, and security products. Our EX switch portfolio is enabling 
+increased functionality and lower overall total cost of ownership. Our next product in the EX family, the EX 8216, is in 
+the pipeline and will be released in the next few weeks. 
+
+Juniper also introduced the industry's first open adaptive threat management solution to help customers better prevent 
+and respond to security threats and risks. We extended the reach of the SRX family of products with the SRX 3000, 
+which delivers high-performance networking and security. This solution reduces power consumption by up to 80% and 
+lowers the customer's total cost of ownership by up to 65%. Our investments in R&D are delivering these unique and 
+compelling products to the market. 
+
+Now a comment: Partners are also key to our strategy. On the Service Provider side, we strengthened our partnership 
+with Nokia Siemens Networks with an announcement in the quarter of work we're doing for a fully interoperable 
+Carrier Ethernet solution. We're working together to combine Juniper's strength with the MX-series metro aggregation 
+applications, with NSN's, leadership in metro access and network management. Our goal is to enable customers to 
+better monetize their networks, while at the same time reducing transport costs. 
+
+
+Our partnership with IBM also continues to grow. In Q1, IBM announced their cloud computing initiative and data 
+center network portfolio, which includes Juniper switching, routing, and security technology. In February, Juniper 
+participated in IBM's CIO leadership exchange, held in Shanghai and simultaneously held a joint Cloud Day event at 
+IBM's lab in Silicon Valley, where we demonstrated for the first time how workloads can be moved across data centers 
+located around the world to better utilize computing resources. IBM and Juniper are now working together to install 
+this network capability into IBM's nine worldwide cloud labs for customer engagements. 
+
+On the go-to-market side of the relationship, our sales teams have established a set of shared goals for 2009, and we 
+continue to strengthen the field connection. We will continue to focus on expanding the breadth and depth of our 
+partnerships as we look to the future. 
+
+In summary, we continue to operate in a challenging economic climate. Q1 was a period where many customers reset 
+budgets and worked to assess the impact of the economic recession on their business. With those budgets now in place, 
+decision processes implemented, and another quarter where customers had an opportunity to assess the impact of the 
+economic recession, I think things are beginning to become more stable. 
+
+Even with that improvement in stability, visibility on revenue streams remains low. From an operating perspective, we 
+will continue to drive a disciplined approach to manage our cost structure, while at the same time ensuring that we 
+resource strategic areas including our R&D agenda and customer service. 
+
+Let me now hand over to Robyn for a more detailed commentary on the financial results and some guidance for Q2. 
+Thank you. 
+
+Robyn Denholm, Chief Financial Officer 
+
+Thanks, Kevin, and good afternoon, everyone. March was a challenging quarter from a revenue perspective, as some of 
+our customers limited investments in new network build-outs and purchases of additional network capacity. This 
+primarily affected our U.S. and EMEA Service Provider business. 
+
+On a positive note, we saw growth across all theaters in Enterprise year-over-year as our broader product portfolio 
+continues to gain traction. We also saw total product book-to-bill of greater than 1 for the quarter. Despite the shortfall 
+in total revenue, our rapid implementation of cost reduction initiatives enabled us to deliver a 16.4% non-GAAP 
+operating margin, above our guidance, and non-GAAP EPS at the high end of our original guidance range. Another 
+highlight for the quarter was that operating cash flow of approximately $164 million. 
+
+Now on to the numbers. I'm taking a slightly different approach this quarter. I'll address GAAP results first, followed 
+by non-GAAP results, including a review of OpEx, a deeper dive on revenue, balance sheet highlights, and I'll close 
+with our guidance for the June quarter. 
+
+On a GAAP basis, total revenue for the first quarter was $764 million, down 7% from the prior year and down 17% 
+sequentially from the fourth quarter. Juniper reported a $0.01 GAAP loss for the first quarter due to a non-recurring, 
+non-cash tax charge of $62 million or $0.12 per diluted share. This charge relates to a change in the California state tax 
+law enacted in Q1, which resulted in impairment of certain tax-deferred assets. We also incurred a $4.2 million 
+restructuring charge related to a targeted work force reduction, which I'll comment on in a few moments. 
+
+Turning to our non-GAAP results, I'd like to focus my discussion on gross margins and OpEx. Total gross margins for 
+the quarter were 65.6% of revenue, within our guidance range of 65 to 67%. Overall the sequential reduction in gross 
+margins reflected lower overhead absorption, a higher mix of service versus product revenue, and to a lesser extent 
+product and geographic mix. Product gross margins were 67.6% of revenue, down from 69.4% in the fourth quarter, 
+reflecting lower overhead absorption and product and geographic mix. Pricing did not have a material impact on 
+product gross margins in the quarter. Service gross margins were 58.8% of revenue for the quarter, down 1 percentage 
+point from the fourth quarter. This was primarily due to slightly higher service costs in the period. 
+
+
+During the quarter, we took several actions to reduce our operating expenses, and I'm pleased with the team's 
+commitment and discipline in managing expenses thoughtfully during this period of economic uncertainty. Our intent is 
+to deliver on the commitment we made at the financial analysts meeting in late February, specifically that in an 
+environment where revenue is down year-over-year, we will manage our full-year operating expenses flat to down 
+while maintaining our investment in our innovation roadmap. 
+
+As I mentioned earlier, we recorded a restructuring charge of $4.2 million in the first quarter in association with a 
+targeted work force reduction of approximately 140 positions, which is roughly half of our planned work force 
+reductions in 2009. Consistent with our plans to invest in R&D and customer service, we've added resources in these 
+areas and will continue to do so. As a result, at the company level, we saw a net reduction of 39 positions in the quarter. 
+As we go forward, we expect to incur additional charges related to the planned head count reductions. These planned 
+reductions will provide us the flexibility to ensure that we deliver on our operating expense goals. In addition, we are 
+reducing our real estate portfolio and anticipate a restructuring charge of approximately $5 million in the June quarter. 
+
+Non-GAAP operating expenses totaled $376 million or 49.2% of revenue. Overall, relative to the fourth quarter, 
+operating expenses decreased $22 million as a result of a reduction in variable compensation expenses, travel 
+restrictions, and other discretionary expense controls. These reductions were net of an increase of $10 million in 
+employee related benefits expenses, including FICA as is typically seen in the first quarter of the year. We will 
+continue to focus on costs and expect to see additional cost reduction activities in the quarters ahead. 
+
+R&D expenses totaled just under $171 million, or 22% of revenue. We increased our investment by 6% year-over-year 
+and 2% sequentially. Sales and marketing expenses totaled $171 million or 22.4% of revenue, a $25 million decrease 
+sequentially. This decrease was due to reductions in variable compensation, lower travel expenses, and reductions in 
+head count. General and administrative expenses totaled $34 million or 4.5% of revenue, roughly flat with the fourth 
+quarter. 
+
+Non-GAAP operating profit for the quarter was $125 million, resulting in an operating margin of 16.4% of revenue, 
+lower year-over-year and sequentially, but better than we guided in January as a result of our expense reduction 
+initiatives. Looking at operating margins for the segments, IPG operating margin was at 19.7%, and SLT operating 
+margins were at 6.6% for the quarter. 
+
+Turning to the bottom line, Juniper posted non-GAAP net income of $92 million for the quarter, a decrease of 39% 
+from the year-ago results. Non-GAAP net other income and expenses were 2 million for the quarter, down significantly 
+year-over-year, due primarily to lower interest rates. The sequential decline reflects both the interest rate environment 
+and lower gains in other income. 
+
+The non-GAAP tax rate for the quarter was 27.9%. Non-GAAP diluted earnings per share were $0.17 in the first 
+quarter, down $0.15 compared to the prior quarter and down $0.10 over the prior-year figure of $0.27. 
+
+I'll now turn to a discussion of revenue, which we look at in three dimensions: geographic, business segment, and 
+customer set. 
+
+Regionally, revenue declined on both a year-over-year and sequential basis in both the Americas and EMEA. These 
+declines were partially offset by growth in APAC on both a year-over-year and sequential basis. This growth was led 
+by Japan, which represented 10% of total company revenues in the first quarter. As a result, compared to the fourth 
+quarter, the geographic mix of total revenue reflects a 6 percentage point increase in APAC and decreases of 5 points in 
+the Americas and 1 point in EMEA. 
+
+On a segment basis, total IPG revenue of $567 million was down 9% on a year-over-year basis, and total SLT revenue 
+of $197 million was down sequentially at 2% on a year-over-year basis. IPG revenues include almost $30 million of 
+EX switch revenue. Within each of the segments, IPG product revenue was down 14% year-over-year, and IPG 
+services revenue was up 21% year-over-year. 
+
+On a year-over-year basis, the IPG product revenue decline was primarily due to the T- and a lesser extent M series 
+product families, which was partially offset by increases in EX, MX and E series products. Excluding the EX revenues, 
+
+
+IPG product revenues declined 20% on a year-over-year basis, reflecting the softness in the Service Provider market. 
+On a sequential basis, total IPG revenue was down 19%. 
+
+In SLT, product revenue was down 8% year-over-year, and SLT services revenue was up 14% year-over-year. The 
+SLT product revenue decline was attributed to branch firewall, high-end firewall, and WAN products, partially offset 
+by growth in the high-end SRX and J series products. On a sequential basis, SLT revenue was down 11%. 
+
+Overall, we're pleased to see the relatively strong contributions of product lines like the EX and SRX, which 
+demonstrate that the investments we are making in R&D are generating returns for us in both the Enterprise and 
+Service Provider markets. 
+
+Looking more closely at the markets we address, Service Provider sales were 68% of total revenue, down 14% 
+year-over-year and down 18% sequentially. As outlined earlier, Service Provider sales were challenging as a result of 
+limited investments in new network build-outs and purchases of additional network capacity in the U.S. and in EMEA. 
+Total sales into the Enterprise market were 32% of total revenue, an increase of 13% year-over-year, with growth 
+across all theaters and strength in the Americas and EMEA. The continued year-over-year growth this quarter in our 
+Enterprise business demonstrates that our increased focus of selling more infrastructure into the Enterprise market is 
+having an impact. 
+
+As anticipated, Enterprise sales were down 16% sequentially, with the largest reductions in the Americas and EMEA. 
+Verizon was our only customer at 10% of revenue for the quarter. 
+
+Looking at the balance sheet at March 31, we ended the quarter with over 2.3 billion in cash, cash equivalents, and 
+short- and long-term investments. This figure was up 14 million from the prior quarter. We generated cash flow from 
+operations in the quarter of approximately $164 million, down from the 215 million in the fourth quarter. 
+
+During the quarter, we repurchased approximately 7.5 million shares at an average price of $16.01 per share, or 
+approximately $120 million worth. Our weighted average shares outstanding for the quarter were approximately 531 
+million shares on a diluted non-GAAP basis. CapEx for the quarter totaled $34 million, and depreciation and 
+amortization was 38 million. DSOs increased to 43 days from 42 reported in the fourth quarter but were within our 
+range of 35 to 45 days. 
+
+The third revenue increased to $612 million, up from the 590 million reported at the end of the fourth quarter. 
+Sequentially product deferred revenue was down 7% or approximately 12 million, and services deferred revenue 
+increased by 8% or approximately 34 million. Year-over-year our deferred revenue balance increased by $46 million or 
+8%. At March 31, 2009, Juniper had 6,975 employees, a net decrease of 39 from the prior quarter, as I explained a 
+moment ago. 
+
+Now, let's turn to our guidance. As a reminder, guidance is provided on a non-GAAP basis except for revenue and 
+share count. For Q2, we are planning for and expect revenue to be roughly flat with Q1. However, given the visibility 
+remains low, we could see revenue range from 740 to $780 million. 
+
+Kevin noted that we are beginning to see some signs of increased stability from our customers. However, current 
+conditions remain challenging. Therefore, we will continue to manage OpEx on a quarter-by-quarter basis. Gross 
+margins for Q2 are expected to be flat with the March quarter. Our range of 65 to 67% of revenue is unchanged. 
+
+With our continued focus on operating expenses, assuming flat revenue, total OpEx for the quarter will be slightly 
+lower, with some increase in R&D and customer service. Again, assuming flat revenue, we would expect Q2 to have 
+slightly higher operating margins compared to Q1. With a revenue range of between 740 and 780 million, we expect 
+Q2 non-GAAP EPS to range between 0.16 to $0.18. This is assuming a tax rate of 28% and a share count of 
+approximately 533 million shares. 
+
+In summary, we will continue to manage our cost structure thoughtfully, while ensuring we are investing adequately in 
+our new product initiatives to prepare for a resumption of growth. 
+
+
+Kathleen Bela, Investor Relations 
+
+Manny, can you go ahead and open up the call for the Q&A session? 
+
+Q&A 
+
+Operator 
+
+Certainly. Ladies and gentlemen, we will now be conducting a question and answer session. [Operator Instructions] 
+Our first question is from a line of Simona Jankowski with Goldman Sachs. Please go ahead. 
+
+<Q - Simona Jankowski>: Yes, hi. Thank you very much. You mentioned a couple of times that you have seen some 
+signs of stabilization even though visibility remains pretty limited. Can you just give us a little more color on where the 
+signs of stabilization are coming from? And also conversely, which are the areas where you're still not seeing any such 
+signs? 
+
+<A - Kevin Johnson>: Yeah, thanks for your question, Simona. I think as compared to Q1, many customers, both on 
+the Service Provider side and on the Enterprise side, that invested a lot of time in January just redoing budgets, 
+revisiting their budgets and being thoughtful about how they're going to approach this new calendar year. And now that 
+those budgets have been put in place and the new management processes that they're using to either assess the 
+economic impact on their business or look at network traffic patterns, those are the things I think that have stabilized. 
+So where maybe there was a lot more confusion or question marks in early Q1, at least now there's some business 
+processes and some thinking on the customer side around budgets and how they're playing in this economic 
+environment, and that's what's led to the stability. So I think – or led to improved stability. And I think that improved 
+stability is a positive sign, yet visibility on revenue still remains low. And we'll have to see how things unfold in the 
+quarter. 
+
+<Q - Simona Jankowski>: So just to make sure I understand the comments correctly, it sounded like that improved 
+stability is mostly on the Service Provider side. Is that correct? 
+
+<A - Kevin Johnson>: Yeah. That's probably accurate. It's a little bit on Enterprise too, but it's primarily a set of 
+observations on the Service Provider side. 
+
+<Q - Simona Jankowski>: And that's why the quarter was back-end loaded, or was that more just the normal 
+seasonality of the March quarter? 
+
+<A - Kevin Johnson>: Well, I think that consistent with what we've seen in the last two quarters, Q4 of '08 and Q1 of 
+'09, customers are watching their financial results and using that as at least one factor to make decisions based on 
+CapEx. And I think that's part of the reason we've seen now the last two quarters be fairly back-end loaded. 
+
+<Q - Simona Jankowski>: Got it. Thanks very much. 
+
+<A - Kevin Johnson>: Thank you. 
+
+Operator 
+
+Thank you. Our next question is from the line of Nikos Theodosopoulos with UBS. Please go ahead. 
+
+<Q - Nikos Theodosopoulos>: Yes, thank you. I guess I had two quick questions. One, you mentioned on the 
+Enterprise year-over-year growth, part of it was due to partner performance. Can you give some update on some of the 
+metrics there? How is the flow of business going through IBM? Is that something that's hitting the quotas that you've 
+identified? And on the carrier side, I know at the end of the fourth quarter, you had mentioned that customers were 
+giving you bookings for shipments later than – more further out, so kind of like 2Q, 3Q. Are these carriers that gave 
+you those bookings that were kind of six, nine months out asking you to keep those dates, or are they asking you to 
+
+
+keep pushing them out? Thank you. 
+
+<A - Kevin Johnson>: Thanks, Nikos. I'll take the first question, and I'll hand over to Robyn for the second one. On 
+your question about partners, I mentioned that partnerships are key to our strategy. I characterize us as a pure play in 
+high-performance networking that embraces partnerships, and certainly we have a lot of partners. I talked a little bit 
+about Nokia Siemens Networks and IBM, and those partnerships continue to evolve. But we have a broad set of 
+partners as well. And a key data point we look at – in this quarter, for example, we added over 800 net new partners 
+into our channel, and we continue to grow the channel and the capabilities in the broad base of partnerships while we 
+continue to deepen the partnerships with larger partners such as IBM and NSN. And so there's just a couple of data 
+elements there. I'll hand over to Robyn on the questions about bookings. 
+
+<A - Robyn Denholm>: Yes, Nikos, in terms of the bookings that we saw at the end of Q1 that were requested outside 
+of – sorry, at the end of Q4 that were requested outside of the next quarter, they are scheduled in the Q2 timeframe and 
+Q3, and they're actually still there. In terms of what we saw at the end of the Q1 period of time, we also saw some that 
+were requested outside of the Q2 timeframe, not dissimilar to the pattern that we saw at the end of Q4. 
+
+<Q - Nikos Theodosopoulos>: Okay. So just to be clear, the bookings that were scheduled to ship in 2Q that you got at 
+the end of the fourth quarter, you haven't seen push-outs on those? Carriers are wanting to see those products shipped? 
+
+<A - Robyn Denholm>: Yeah, that's correct. 
+
+<Q - Nikos Theodosopoulos>: All right. Great. Thank you. 
+
+<A - Kevin Johnson>: Thanks, Nikos. 
+
+Operator 
+
+Thank you. Our next question is from the line of Ehud Gelblum with JPMorgan. Please go ahead. 
+
+<Q - Ehud Gelblum>: Hi, thank you. I'll ask a couple quick questions. Robyn, you'd mentioned that there were 140 
+head count reductions this quarter, and then you said the head count, I believe, fell by 39. Does that mean that there – 
+on a net basis you've hired 101? Just don't – maybe I got those numbers wrong, but just wanted to understand how that 
+works. And then you said that's half of the reductions that you're planning for the year. Does that mean that there are 
+another 140 million that you have planned – million, I'm sorry, 140 people that you have planned? And does that go 
+into effect in Q2, or do you hold onto those to kind of see how the year plays out and possibly do that in Q3 or Q4? 
+And then a quick follow-up on the OpEx this quarter. 
+
+<A - Robyn Denholm>: Okay. Yes, thanks, Ehud. In terms of the 140 positions that we actually reduced in Q1, you 
+were right. 140 was the gross number of reductions. We did add back in the two key areas of R&D and customer 
+service approximately 100 heads for a net of 39. So that – you've got that math right. And, yes, I did say that we were 
+halfway through our planned reductions for the year, and those will happen over the balance of the year. We're being 
+very surgical in terms of where we look at opportunities for reductions in terms of, what, productivity and those sorts of 
+things, but they are scheduled for the rest of the year. 
+
+<Q - Ehud Gelblum>: Okay. But are they scheduled already, or are they – you have them and you know, and you'll 
+use them when and if you need them? 
+
+<A - Robyn Denholm>: Yeah, we have plans so that we, as I said before, it gives us the added flexibility to meet our 
+commitment in terms of OpEx being flat to down if revenue is down for the full fiscal year. 
+
+<Q - Ehud Gelblum>: Okay. And then finally, your original guidance for Q1 talked about the 10 million extra payroll 
+taxes you'd have to pay, so it came out somewhere around 408. Your actual OpEx in your guidance now was about $30 
+million lower in round numbers, 30, $32 million. How much of that $30 million less in OpEx that you actually did in 
+Q1 versus what you thought you were going to do when you were going to do north of 800 in revenue, how much of 
+that 30 million less in OpEx came from the lower revenue, just directly from lower commissions, lower bonus accruals, 
+
+
+and things like that, and how much of it came from direct cost reductions? 
+
+<A - Robyn Denholm>: So in terms of that question, Ehud, you're right, we actually – our gross amount of expenses 
+that were reduced in the quarter were around $30 million because we did see the increase of 10 in terms of the 
+employee benefits around FICA, et cetera. And so our factors as we called them out, variable comp, both commission 
+and bonus, were a factor. That's how we designed the bonus program in terms of aligning with shareholder value. And 
+if we don't grow revenue, that actually – that portion of the bonus doesn't pay out. 
+
+So there was a component of commission and there was a component of variable comparable bonus. There were also 
+head count reductions and a lot of discretionary expenses, like travel. I call them discretionary, but travel is down 
+quarter-over-quarter, and other factors as well. The broad population base across Juniper has been very proactive in 
+cutting costs across the board. So I'm very pleased with the results for the quarter. 
+
+<Q - Ehud Gelblum>: But can you quantify how much of the 30 million came from the – automatically from the drop 
+in revenue? I guess it would be the variable comp and the bonus? 
+
+<A - Robyn Denholm>: So it's fine to say that the way in which I called them out in the script is the order of 
+magnitude. 
+
+<Q - Ehud Gelblum>: Okay, appreciate it. 
+
+<A - Kevin Johnson>: Thanks, Ehud. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Tal Liani with Banc of America. Please go ahead. 
+
+<Q - Tal Liani>: Hi, thank you. Question about service revenues. They were relatively flattish on a sequential basis 
+versus declines in product revenues. Can you discuss about the correlation between the two trends? Thanks. 
+
+<A - Robyn Denholm>: So services revenues, as you know, Tal, are actually ratably recognized over the life of the 
+contract. So you wouldn't expect a quarter-to-quarter variation because just like you saw in the deferred revenue for this 
+quarter, anytime you book a services contract, the booking is for the life of the contract, so it could be 12 months, it 
+could be three or five years. And then you bring them to account in the revenue ratably over that term. So you wouldn't 
+expect a large variation quarter-to-quarter. 
+
+<Q - Tal Liani>: Now, if I connect the dots between a few comments you said on the conference call, you said that the 
+environment now is more stable than before. Also, you said that the year started very low and orders ramped 
+throughout the year, which we don't have it now. We don't have the beginning of the year phenomena. Why are you 
+cautious with your guidance that much in the sense that why are you guiding for flat if April is substantially better than 
+January? 
+
+<A - Kevin Johnson>: Well, even with the improved stability that we're seeing now versus early in Q1, visibility 
+remains low. So you've inferred something that we didn't say, but the fact is visibility continues to remain low. And I 
+think as we see how this quarter plays out, we'll see if that improved stability leads to revenue upticks. 
+
+<Q - Tal Liani>: Great, thank you. 
+
+<A - Kevin Johnson>: Thanks. 
+
+Operator 
+
+Thank you. Our next question is from the line of Sanjiv Wadhwani with Stifel Nicolaus. Please go ahead. 
+
+
+<Q - Sanjiv Wadhwani>: Thank you. Just a couple of quick questions. Wanted to follow up on an earlier question, 
+Kevin, about IBM. Just curious to see if the partnership is sort of hitting the targets you outlined. Any color there would 
+be helpful. And then on the head count reduction, can you sort of tell us by area if it was majority in the sales side or 
+the G&A side? Any color there would be helpful also. Thanks. 
+
+<A - Kevin Johnson>: Thanks for your question. The first comment I would make is IBM is not only a very, very 
+important partner for us, they're a very good partner. And we look at this as a long-term relationship, and each quarter 
+we continue to build on that relationship. And in this last quarter with the cloud computing initiative, the event that we 
+held at the San Jose lab, the work that we're doing with them in sinking quotas in the field and sales targets in the field, 
+all of those things are very, very positive. And so I have a very positive perspective on not only the partnership with 
+IBM, but long-term the importance of that for Juniper Networks. 
+
+Second part of the question, do you want to handle that, Robyn? 
+
+<A - Robyn Denholm>: Yes. Sanjiv, on the head count, the head count reductions, we're pretty broad in terms of how 
+it impacted quite a number of the groups across the company. Very surgical in terms of how we went about those. What 
+I would say is that net reductions – because the only place that we added head count back was in R&D or customer 
+service. So it's fair to say that the reductions were primarily in the sales, marketing, and G&A areas. 
+
+<Q - Sanjiv Wadhwani>: Got it. Thanks so much. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Jeff Kvaal with Barclays. Please go ahead. 
+
+<Q - Jeffrey Kvaal>: Yes. Thanks very much. Kevin, I was wondering, or Robyn, perhaps, services backlog seems to 
+be up so I would manage that we would suspect to see the revenue up over the next couple quarters. And then 
+commensurately, would that suggest that the product revenue might be flattish or down over the next quarter? Is that 
+the way we should think of it? 
+
+<A - Robyn Denholm>: So Jeff, in terms of the services revenue, we had a good bookings quarter. You can see that 
+come through in terms of the deferred revenue. It's ratable recognition, so I wouldn't expect a significant spike up. It 
+does trend up over time, so I think that's how I would look at it. 
+
+<Q - Jeffrey Kvaal>: Okay. So then how would we then translate that into thinking about your gross margin trajectory 
+over the next quarter or next couple quarters? 
+
+<A - Robyn Denholm>: Yeah, so in terms of our guidance in terms of gross margin, what we talked about was it being 
+flat with the March quarter given a services and product split that's roughly flat. So – and the total range that we're 
+talking about is unchanged from last quarter, which is 65 to 67% of revenue. 
+
+<Q - Jeffrey Kvaal>: Do you think it's – we're approaching a spot where the product revenues will start to drift up 
+again as a percentage of the mix? 
+
+<A - Robyn Denholm>: So product gross margins are definitely affected by product mix and geographic mix. They're 
+also – in the first quarter were impacted negatively by the overhead absorption due to the lower volume. So obviously, 
+if volume picks up, that goes away as well. So any of those three factors could swing it slightly more positively than 
+this quarter. 
+
+<Q - Jeffrey Kvaal>: Okay. But it's too soon to say if that's happening or not? 
+
+<A - Kevin Johnson>: Yeah. Visibility remains low and, that's why we've guided flat revenue for the quarter, 740 
+million to 780 million. 
+
+<Q - Jeffrey Kvaal>: Okay. Thank you both very much. 
+
+
+<A - Kevin Johnson>: Thank you. 
+
+<A - Robyn Denholm>: Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Ittai Kidron with Oppenheimer. Please go ahead. 
+
+<Q - Ittai Kidron>: Thank you. Robyn, had a couple questions for you. First following up on Jeff's question on the 
+gross margin on the products side. You've managed up until these last couple of quarters to keep your gross margins 
+pretty consistently above 70%, even on much lower revenues than you have right now. So can you be a little bit more 
+specific on sort of what is the overhead absorption that you have, how quickly can you get rid of it, if the revenue levels 
+don't grow from here? How can you get product gross margin back to 70%? And then I have a follow-up on that. 
+
+<A - Robyn Denholm>: Yeah, so in terms of the Q1, given that we missed the revenue guidance that we gave, there 
+was definitely some overhead absorption that resulted from that. So the manufacturing guys are very good, they've been 
+delivering cost savings, et cetera, quarter-over-quarter, so they will work through that absorption as well. So I think 
+that's one factor. The other thing that we talked about was that mix is a significant factor on gross margin in any 
+quarter. So that is another thing that I'd look through. 
+
+<Q - Ittai Kidron>: Okay. And following up on the deferred revenue, had a nice growth there. How much of that was 
+true growth in deferred versus projects have been delayed and things have been pushed out and because of the balances 
+have been increasing? 
+
+<A - Robyn Denholm>: No, the deferred revenue, as I said in the script, most of it was due to services, bookings of 
+deferred revenue in the quarter. We had a good bookings quarter for services contracts. And therefore, that's ratable 
+recognition as we move forward. As I mentioned before, the total deferred revenue was up, and services was the main 
+contributing factor. 
+
+<Q - Ittai Kidron>: Very good. Good luck. 
+
+<A - Robyn Denholm>: Okay. Thank you. 
+
+<A - Kevin Johnson>: Thank you. 
+
+Operator 
+
+Thank you. Our next question is from the line of Paul Silverstein with Credit Suisse. Please go ahead. 
+
+<A - Kathleen Bela>: Paul, are you there? Okay, operator, let's go to the next question, and then we'll circle back with 
+Paul. 
+
+Operator 
+
+Certainly. Our next question is from the line of Jeff Evenson with Sanford Bernstein. Please go ahead. 
+
+<Q - Jeffrey Evenson>: I was wondering if you could give us a bit more details on how you're changing your real 
+estate portfolio and the $5 million charge that you expect in the second quarter? 
+
+<A - Robyn Denholm>: Yes, Jeff I can do that. So we, obviously, lease property around the world, and what we've 
+done is we've gone through that property portfolio, and we're going to abandon or trim down that portfolio over the 
+next period of time. There's a piece of it in the U.S. and a piece of it outside the U.S. So that's what we're doing. And 
+we've actually – it's not a future tense, we've actually already identified the properties and we're implementing it as we 
+speak so that in Q2 we'll take that charge. 
+
+
+<Q - Jeffrey Evenson>: And when would the cost savings start to impact your income statement? 
+
+<A - Robyn Denholm>: They will immediately after we've restructured. 
+
+<Q - Jeffrey Evenson>: Thanks. 
+
+<A - Kevin Johnson>: Yeah, I'll just add to that, Jeff. This is one of the approaches that we've taken to help restructure 
+the cost base, especially in the field where we can have our salespeople that, instead of having a full office, we have a 
+hoteling concept, it's just a lot more efficient. And so this charge is something that helps us get that efficiency and then 
+maintain that efficiency in the cost base. 
+
+<Q - Jeffrey Evenson>: Great. 
+
+Operator 
+
+Thank you. Our next question is from the line of Mark Sue with RBC Capital Markets. Please go ahead. 
+
+<Q - Mark Sue>: Thank you. Kevin, the sequence of a recovery is stabilization followed by growth. Does that mean 
+you're collecting tangible proof points that 740 million is the bottom, and should we see ongoing sequential revenue 
+growth for the balance of the year? And, Robyn, likewise, since things are stabilizing, does it mean you can plan better 
+and get operating margins back to 25%? 
+
+<A - Kevin Johnson>: Yeah, thanks for the question, Mark. I think the comments I made about observing improved 
+stability in the budgeting and the decision processes that customers are using on capital and operating expenses is a 
+positive sign, but yet it's not the complete set of things that need to give confidence that we're back in a growth mode. 
+And that's – the limited visibility that we have is just reinforcing that fact. 
+
+I think as we see Q2 unfold, number one, we grew in Q1 in the Enterprise and so I think we're on a growth trajectory 
+there. Much of that is driven by taking market share, and we've introduced the EX 8208, we've got the EX 8216 in the 
+pipeline right around the corner. We're expanding the partner base; we're going after that opportunity, and so I see that 
+as a growth driver. So the real question becomes on the Service Provider product side. How does that unfold over the 
+next quarter or two? And so I think we'll have to watch that through Q2 and see how that does. 
+
+<A - Robyn Denholm>: And Mark, in terms of the planning better, I think from a company perspective, we've been at 
+the whole planning process improvement, operational efficiencies, all of that type of activity, for quite some time now. 
+I think the fact that we were able to react as quickly as we have over the last two quarters to the current environment is 
+testament to that. And I think that, as I said in the script, that visibility is still low from a revenue perspective. So we are 
+absolutely focused on costs. And I think that will do us really well as the market recovers and the macroeconomic 
+environment changes. In terms of the 25%, we are absolutely committed to our long-term business model, 20%-plus 
+growth and 25%-plus operating margin. We just have to get through this economic period. 
+
+<Q - Mark Sue>: Got it. That's helpful. Thank you and good luck. 
+
+<A - Kevin Johnson>: Thanks, Mark. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Erik Suppiger with Signal Hill. Please go ahead. 
+
+<A - Kathleen Bela>: Erik, are you there? 
+
+<Q - Erik Suppiger>: Oh, my question's been asked. Thank you. 
+
+<A - Kathleen Bela>: Thank you. Next question, please. 
+
+
+Operator 
+
+The next question comes from the line of Ken Muth with Robert W. Baird. Please go ahead. 
+
+<Q - Kenneth Muth>: Hi, thanks. On the Service Provider segment, can you give us any insights of where you saw a 
+little more slowdown, perhaps? Was it more on the core routers or was it more on the edge, and what would you say is 
+kind of changing carriers' attitudes about those two segments? 
+
+<A - Kevin Johnson>: Well, thanks for the question, Ken. A couple of comments, that when you look at network 
+utilization, typically there's less excess capacity in the core. The core is just – if it's not distributed, it's more 
+centralized. It's a more manageable resource and tends to run at a more consistent utilization that service providers have 
+visibility to. Therefore, the question is how hot are the edge routers running in these networks. And so I think 
+consistent with that in the quarter, we saw more variability on the edge side than we did in the core, yet it also varies by 
+customer and by geography. Asia-Pacific grew in the Service Provider segment, where U.S. service providers and 
+EMEA was weak. So that – I don't know, that gives you a little bit of flavor of where the opportunities may be. 
+
+<Q - Kenneth Muth>: And last question, when you look to invest and about the future, and you mentioned your 
+partnership with Nokia Siemens Networks, I mean, how do you look at the kind of opportunities in global wireless 
+when you look at the 3G networks and all the data and video going there and then approaching the 4G, and how is 
+Juniper positioned for that? 
+
+<A - Kevin Johnson>: Well, I think clearly it's reflective of the fact that more and more traffic is moving to IP packet 
+switch networking, which plays to our strengths. And the partnerships that we have with our customers continue to 
+expand, and so I would expect that they continue to expand in new areas, in new services, that are relevant and 
+important to our customers. 
+
+<Q - Kenneth Muth>: Okay. Thanks. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Mark McKechnie with Broadpoint. Please go ahead. 
+
+<Q - Mark McKechnie>: Yes, and thanks for taking the question, and good management on the OpEx control. Hey, 
+wanted to dig in on this visibility question a little bit more. Back in February you had talked about a weaker visibility. 
+Am I right, is that visibility unchanged, or has it actually gotten a little bit better, or are you seeing more on the forecast 
+side? And then kind of associated with that, your second quarter plan, I wanted to get a sense if that guidance range is – 
+how the linearity of that compares. You might have said it already, but I might have – I missed it – but how back-end 
+loaded or how linear do you see your second quarter plan on a monthly basis? Thanks. 
+
+<A - Kevin Johnson>: Thanks for the question, Mark. I think the comments we made about limited visibility in Q1, I 
+think those – even with improved stability, as I mentioned, we still have limited visibility into what will unfold in Q2. I 
+think the fact that customers – they're a little bit more stable in their budgeting and their decision making given the fact 
+that they've put these budgets in place and their management processes in place, they've had another quarter of 
+economic recession to evaluate the implications on their business – that's an encouraging sign, yet that doesn't 
+necessarily translate to us having improved visibility. 
+
+The thing that will give me more confidence that visibility has improved is actual results at the end of this quarter. That 
+will confirm, did we have better line of sight to what we've got in our forecast or not. And so it's premature for me to 
+declare that we've seen any change in visibility at this point in time. I'm a guy that wants to look at the facts after 
+they've happened and then go back and say, Okay, that does confirm that visibility is improving. So I guess that's a 
+little bit of my thinking and a little perspective on that. 
+
+The second part of your question was do we anticipate that we'll see some consistent, or consistency of what we've seen 
+in the last two quarters where there's a portion of revenue that seems very back-end loaded. I don't have anything to tell 
+
+
+me that this quarter is going to be significantly different, yet the improved stability probably does help earlier in the 
+quarter, but I still think there's going to be an element of back-end loading in the quarter. 
+
+<Q - Mark McKechnie>: Got you. I mean on that line, I mean, as you're almost done with April, the month of April, 
+is that better than February or March? Anything you can tell us about the monthly performance would be helpful, and 
+where you stand now. And I guess you're probably seeing, what, halfway into May by now, yeah? 
+
+<A - Kevin Johnson>: Well, we've given our guidance for the quarter, and I think the flat with some downside and 
+some upside, the 740 million to 780 million, is probably the best that we're giving. And trying to offer monthly 
+guidance or monthly suggestions is just probably not a helpful thing. But I think the key points we've made is that there 
+are some signs of improvement in stability, that's a positive thing, yet visibility remains limited. And we're going to 
+continue to drive very hard with a strong product portfolio, and what I think is a good value proposition in the 
+marketplace while we continue to reduce our operating expenses. And we think that that's the right formula as we work 
+through the economic downturn. 
+
+<Q - Mark McKechnie>: Thanks for the question. 
+
+<A - Kevin Johnson>: Yep. 
+
+Operator 
+
+Thank you. Our next question comes from Paul Silverstein with Credit Suisse. Please go ahead. 
+<Q - Paul Silverstein>: Robyn and Kevin, can you hear me? 
+<A - Robyn Denholm>: Yes, Paul. 
+<Q - Paul Silverstein>: Two questions if I might. First off, can you talk about if revenues come up short, 
+
+
+notwithstanding what you're currently projecting, in terms of your variable composition <
+A - Robyn Denholm>: Paul, we've lost you. 
+<Q - Paul Silverstein>: Robyn, can you hear me? 
+<A - Robyn Denholm>: Now we can. 
+<Q - Paul Silverstein>: My apologies. On the variable compensation piece, if revenues come up short, 
+
+
+notwithstanding what you're currently looking at <
+A - Robyn Denholm>: Okay. We've lost you again. You want to try getting a better connection and – ? 
+<Q - Paul Silverstein>: Robyn, can you hear me? 
+<A - Robyn Denholm>: Now we can. 
+<Q - Paul Silverstein>: One more time, my apologies. 
+<A - Robyn Denholm>: So we got the revenue ... variable ... something. 
+<Q - Paul Silverstein>: Right. So if revenues come up short, similar to what happened this quarter, notwithstanding 
+
+
+what you're currently looking at, would the variable compensation piece kick in again? How much does that track 
+
+
+revenues on an ongoing basis? 
+<A - Robyn Denholm>: Yeah, so in terms of the variable compensation, there are two parts. Obviously sales 
+commissions are variable, right, with revenue. If they're making their quotas or they're selling stuff, they get a 
+commission. In terms of the bonus, we did talk about at FAN, our financial analysts day, that 35% of the bonus is tied 
+to revenue growth, and that's revenue growth year-over-year. And so that's why we saw an improvement in OpEx this 
+quarter, because we didn't see year-over-year revenue growth. 
+
+
+<Q - Paul Silverstein>: Well, so I guess that's my question, Robyn. I guess I'm trying to understand if this quarter, if in 
+the second quarter revenues were to go down on a year-over-year basis, or were to be down from the first quarter, 
+would the OpEx piece that's tracking, the bonus piece of the variable comp, would that go – if you're flat, does that go 
+up? If you're flat on a sequential basis, does that go up? 
+
+<A - Kevin Johnson>: No, the bonus piece is based on annual year-over-year growth. 
+
+<Q - Paul Silverstein>: Okay. 
+
+<A - Kevin Johnson>: So you have to get to a year-over-year growth scenario. 
+
+<A - Robyn Denholm>: Yeah. 
+
+<Q - Paul Silverstein>: All right. And that's on a quarter-over-quarter basis throughout the year. 
+
+<A - Kevin Johnson>: Annual, year-over-year. 
+
+<A - Robyn Denholm>: Year-over-year. 
+
+<Q - Paul Silverstein>: All right. Secondly, Japan, I know you haven't broken it out in a long time, but can you give us 
+some sense – you said Japan was over 10%, I'm trusting Q2 was a good part of that. Can you give us some sense for 
+what the sequential increase was? 
+
+<A - Robyn Denholm>: So Japan increased as a result of – there were a number of factors in Japan that are actually 
+growing. But we are continuing with a large service provider build-out in Japan, actually. And that's been going on for 
+several quarters there. The rest of the business in Japan is doing well as well. 
+
+<Q - Paul Silverstein>: Kevin, any visibility as to how much further that build-out has to go? 
+
+<A - Robyn Denholm>: So again, going back to Kevin's comment earlier, visibility is low. It's not different by 
+geography. 
+
+<Q - Paul Silverstein>: Okay. I was asking with respect to that specific build, but 
+
+
+<A - Kevin Johnson>: Yeah, I think there's many opportunities for us, not only in Japan, but throughout Asia Pacific. 
+And I think the – commenting on a specific customer project is probably not helpful, but you look at the broad 
+marketplace opportunities, there's many customers for us in Japan to continue to expand and grow into. And I think the 
+team in Asia Pacific is demonstrating our ability to grow, even – it the was one region that I think did very well on the 
+Service Provider side and the Enterprise side, even in this last tough economic period. 
+
+<A - Robyn Denholm>: Yeah, and we called out Japan because they were at 10% of total revenue this quarter. But we 
+did have growth in other parts of APAC as well. China was good growth, and so was ASEAN, all led by Singapore. 
+
+<Q - Paul Silverstein>: Okay. One last question if I might, on pricing, Robyn, you called it out it last quarter. You said 
+it wasn't material this quarter. I think last quarter you attributed it to breaking into the Enterprise, as well as to trying to 
+offset or offsetting the depreciation of the dollar in certain foreign locations, vis-à-vis LEU and other local players. Has 
+that just stopped, there's no need to do that anymore, or can you give us insight what's going on there? 
+
+<A - Robyn Denholm>: Yeah, so last quarter we did call out FX change, dramatic FX change between the beginning 
+and the end of the quarter basically, and that did cause us to discount in a couple of regions. So we obviously do 
+competitive promotions and things like that. That was also a factor last quarter, as you just alluded to. And we'll 
+continue to do that on a case-by-case basis, but it wasn't a significant factor in the quarter for the gross margin. 
+
+<Q - Paul Silverstein>: Okay. Thank you. 
+
+<A - Kathleen Bela>: Next question, please. 
+
+
+Operator 
+
+Our next question comes from the line of Jeff Lovert with Brean Murray. Please go ahead. 
+
+<Q>: Good afternoon. On the EX switch line, can you tell us how much revenue came from the 8208 in the quarter? 
+And should we expect to see a similar impact with the 8216? And then I was curious if you have a share target and 
+timeline for the Ethernet switching market that you could share with us? 
+
+<A - Kevin Johnson>: Thanks for the question, Jeff. We – on the – we're pleased with our continued progress on the 
+EX switch lineup. The EX 8208 was a significant step forward with a higher-end switch, and so I think that's what 
+generated a lot of the early interest and adoption in that particular product set. We don't have specific breakouts of 
+individual products, and so I can't comment on what percent was the EX 8208, but we now have with the EX 3200, the 
+4200, the 8208, we have the 8216 coming in the pipeline, coming around the corner, we've got the new 10 gig 
+top-of-rack switch. 
+
+And I think what's important is this concept of the portfolio play. It's not just about the switch lineup. The fact that over 
+50% of our customers who bought an EX switch are buying a portfolio of products and solutions from Juniper, 
+including switching, routing, and security. And I think a more relevant thing to look is are we growing the enterprise, 
+and how do we continue to drive on a path in strengthening the product portfolio and value proposition while at the 
+same time expanding partnerships? And I think from my perspective, there's evidence that Q1 we did expand 
+partnerships and we also continue to expand and strengthen the product portfolio. 
+
+<Q>: And just to follow up there, with the EX switch line and the broader Enterprise product portfolio, where do you 
+see yourself taking the greatest amount of share? Is it from smaller point product companies, or are you seeing the 
+relationship with IBM and others pull you into companies that are enabling you to win business versus Cisco, HP 
+ProCurve and other larger platforms plays? 
+
+<A - Kevin Johnson>: Well, I think from a value proposition standpoint there's probably three factors that resonate 
+very well with customers. Certainly number one is total cost of ownership. And there was a recent Forrester study that 
+was done on total cost of ownership that showed that using JUNOS and the Juniper Networks family of products, we 
+can deliver a significant, 40%-plus lower total cost of ownership to our customers. That resonates very well, and that's 
+across routing, switching, and security. 
+
+The second element is the fact that the solutions we have address high-performance networking needs: scale, security, 
+the performance reliability needs, and we're in a unique position delivering that into the enterprise. And many of these 
+large enterprise customers, whether it's in financial services or government, they have many of the same networking 
+needs and requirements as large service providers. And so that's number two, an area that we're differentiated and we've 
+got a value proposition. 
+
+And the third element of our value proposition is choice and flexibility. The fact that we can interoperate with existing 
+networks and we can help put the customer in control of their IT agenda and what they're trying to do and give them 
+additional choice, not only in the network platform, but in the partners that we have that have applications that run on 
+top of that network platform. So that combination of lower total cost of ownership, demonstrable high-performance 
+networking value, and enabling choice and flexibility really is what's creating the pull for our product set to succeed in 
+the marketplace. 
+
+Now, taking that value proposition and working closely with partners to help fulfill – to continue to generate demand 
+and fulfill that demand, over time is what will help boot-strap and help us really break through in a bigger way in the 
+enterprise, and that's where we're focused. 
+
+<Q>: So building on that, it took you about three years to gain 5% share in the enterprise routing market. Do you think 
+you can match that performance in Ethernet switching? 
+
+<A - Kevin Johnson>: I don't know. I don't know. I think – clearly we have big aspirations to be a significant player in 
+the enterprise. I don't know how long it's going to take us to get there, but I do believe we're doing the right things, as 
+
+
+evidenced by the progress we're making. 
+
+<Q>: Thank you. 
+
+<A - Kevin Johnson>: Thanks for the question, Jeff. 
+
+Operator 
+
+Thank you. Our next question is from the line of Jason Ader with William Blair & Company. Please go ahead. 
+
+<Q - Jason Ader>: Yes, thanks for taking my questions. Kevin, I know we've been beating the dead horse of the 
+stability versus the visibility. But one of the questions that I had for you is just when you talk about stability, are you 
+including in that the conversations that you're having with the service provider customers right now? There is, I guess, 
+a deeper level of engagement today than there was early in the year when it was kind of like "call me in six weeks"? Or 
+can you give us some color on the conversations you're having and the engagement levels? Is that contributing to your 
+comments on stability, which obviously doesn't necessarily mean they're going to place the order, but it certainly means 
+that low-level engagement is higher. 
+
+<A - Kevin Johnson>: Yeah, thanks for the question, Jason. I think, from my interaction with customers or 
+interactions in early January, or in January, a lot of what I was getting feedback from them is, hey, we're in a process of 
+formulating budgets and figuring out the management process of how we're monitoring network traffic and how we're 
+going to prioritize capital expenditures and look at OpEx. And so, we have a deep engagement with customers and 
+have had a deep engagement with customers throughout this entire period. So it's not about the level of engagement, it's 
+more about the signals of how they're focusing, and how – do they have their budgets in place, their business processes 
+in place, the priorities for decision making? 
+
+And so my comments about stability really relate to that, the fact that there was a lot of questions and business 
+processes and budgeting activity taking place early in Q1, and today I think they're beyond that. They're executing on 
+the decisions they've made and the budgets they've put in place, and so that starts to change the dynamic a bit. 
+
+<Q - Jason Ader>: Okay. Great. And then just one for Robyn, quickly. On the cash flow, you have something called 
+"net proceeds from distributor financing arrangement." What exactly is that? 
+
+<A - Robyn Denholm>: So we have had a distributor financing program through one of our partners for quite some 
+time, and so that's what that item is. 
+
+<Q - Jason Ader>: Could you tell us who that is? 
+
+<A - Robyn Denholm>: Well, I think we have previously; so it's IBM, actually. 
+
+<Q - Jason Ader>: Okay, great. Thank you. 
+
+<A - Robyn Denholm>: Yeah. 
+
+<A - Kathleen Bela>: Okay, operator, we have time for two more questions. 
+
+Operator 
+
+Certainly. Our next question is from the line of Greg Mesniaeff with Needham & Company. Please go ahead. 
+
+<Q - Greg Mesniaeff>: Yes, thank you. Can you comment on the pricing environment you're seeing in your core 
+carrier market vis-à-vis the enterprise market, if any? Any changes, any differences? 
+
+<A - Kevin Johnson>: Well, no – they're not differences from what we've seen in the past. I think, clearly in an 
+economic downturn customers are always very focused on costs, and yet we're maintaining our pricing strategy and the 
+way that we're executing. As Robyn mentioned, we do have on occasion different promotions for different things, but 
+
+
+there's not some strategic shift in pricing. 
+
+<Q - Greg Mesniaeff>: And also as you continue to pursue the enterprise space, do you have a set of priorities in terms 
+of adjacent markets, whether it be wireless mobility or storage as you broaden your influence in that area? 
+
+<A - Kevin Johnson>: Well, we've been clear that we're a pure play in high-performance networking that embraces 
+partnerships. So when you throw things out there like storage and things like that, that is not something that we're 
+looking at or considering. When you look at our priorities, our priorities are building out the offerings that round out 
+the solution set for high-performance networking. So you see us releasing higher-end switches, you see the work we 
+did on 10 gig top-of-rack, you highlighted Enterprise wireless networking, that would fall probably within the range of 
+high-performance networking. But we're building out a new set of solutions with the SRX family, an integrated set of 
+products that include routing, switching, and security. There's just a lot of opportunity for us to innovate within the 
+product sets that we have and deliver unique value in the enterprise. 
+
+<Q - Greg Mesniaeff>: Thank you. 
+
+<A - Kevin Johnson>: Thanks, Greg. 
+
+<A - Kathleen Bela>: Okay. We have time for one more question. 
+
+Operator 
+
+Yes. Our final question comes from the line of Bill Choi with Jefferies & Company. Please go ahead. 
+
+<Q - Bill Choi>: Great, thanks. I'm curious, just given the comments around variability on edge, if, Robyn, you could 
+give – you had prepared comments about how each individual product did on a year-over-year basis. If you could do 
+that on a sequential basis, particularly for edge versus core routing. And then just one final thought on stability versus 
+visibility here. How much of the visibility is limited due to ongoing projects versus timing of new projects and the fact 
+that competition has actually quite a bit increased on the edge over the past year? Thanks. 
+
+<A - Robyn Denholm>: In terms of the first question, Bill, clearly we had a large sequential decline in revenue, so 
+there was – and a lot of it was felt in the Service Provider world and in the IPG world, so we did have declines across 
+most of the products there. In terms of tying it back to what Kevin was saying earlier, the T series being the core of the 
+networking, obviously doesn't have as much variability quarter-to-quarter. We saw good strength in that 
+year-over-year. 
+
+<A - Kevin Johnson>: Yeah. And your question related to visibility, it's not lack of visibility to the projects. It has 
+more to do with timing of capital expenditures that customers are making related to those projects. And the fact that 
+we've seen two quarters that are very back-end loaded, one of the observations is that as customers are looking at their 
+revenue flow and their financial statements and timing their CapEx purchases, that's part of what creates the limited 
+visibility. 
+
+Kathleen Bela, Investor Relations 
+
+Okay. That is all the time we have for today's call. We'd like to thank all of you again for joining us today. For 
+information on our upcoming investor relations events, please visit the IR section on our website. Thank you. 
+
+Operator 
+
+Thank you. Ladies and gentlemen. This concludes today's teleconference. You may disconnect your lines at this time. 
+Thank you for your participation. 
+
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+
