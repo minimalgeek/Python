@@ -31,15 +31,33 @@ def import_transcripts():
 
     transcripts = []
     for file in files:
-        with open(file, 'r', encoding='utf-8') as opened_file:
-            url = opened_file.name
-            url_parts = url.split('_')
+        with open(file, 'r', encoding='ansi') as opened_file:
+            url = opened_file.name.split('\\', 1)[1]
+            url_parts = url.split('_', 1)
             ticker = url_parts[0]
+            date = datetime.strptime(url_parts[1], '%Y%m%d_%H%M.txt')
+            lines = '\n'.join(opened_file.readlines())
+            q_and_a = get_q_and_a(url, lines, ['\nQ&A', '\nQuestions And Answers'])
 
             transcripts.append({
                 'url': url,
-
+                'tradingSymbol': ticker,
+                'publishDate': date,
+                'rawText': lines,
+                'qAndAText': q_and_a
             })
+
+
+def get_q_and_a(url, lines, q_and_a_marker, index=0):
+    q_and_a = lines.split(q_and_a_marker[index])
+    if len(q_and_a) == 2:
+        return q_and_a[1]
+    else:
+        if len(q_and_a_marker)-1 > index:
+            return get_q_and_a(url, lines, q_and_a_marker, index + 1)
+        else:
+            logger.warning('Q&A text is empty for %s', url)
+            return None
 
 
 def main():
