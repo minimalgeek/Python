@@ -1,9 +1,10 @@
-import dataloader
-from strategy_01 import Strategy01
-from trade_signal import *
-from ib_manager import IBManager
-from datetime import datetime, timedelta
 import logging
+from datetime import datetime, timedelta
+
+from strategies import dataloader
+from strategies.ib_manager import IBManager
+from strategies.strategy_01 import Strategy01
+from strategies.trade_signal import *
 
 logger = logging.getLogger(__name__)
 

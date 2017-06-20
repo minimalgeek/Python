@@ -1,3 +1,4 @@
 from NAME import config as cfg
 
-cfg.DELETE_THIS()
+if __name__ == '__main__':
+    cfg.DELETE_THIS()

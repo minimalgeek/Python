@@ -3,13 +3,11 @@ import queue
 from threading import Thread
 
 from ibapi import wrapper
-from ibapi.wrapper import EWrapper
 from ibapi.client import EClient
-
 from ibapi.common import *
-from ibapi.contract import *
-from ibapi.order import *
 from ibapi.order_state import *
+from ibapi.wrapper import EWrapper
+
 from strategies.trade_signal import *
 
 
