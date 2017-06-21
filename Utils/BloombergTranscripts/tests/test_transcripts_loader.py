@@ -1,4 +1,3 @@
-import pytest
 from BloombergTranscripts import transcripts_loader as tl
 
 
@@ -12,10 +11,9 @@ def test_init_database():
 
 
 def test_import_transcripts():
-    tl.import_transcripts()
-    assert True
+    ret = tl.load_transcripts()
+    assert len(ret) > 0
 
 
-@pytest.mark.skip
 def test_main():
     tl.main()
