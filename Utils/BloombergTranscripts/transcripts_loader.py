@@ -8,10 +8,11 @@ logging.basicConfig(level=logging.INFO,
 logger = logging.getLogger(__name__)
 
 mongo = {
-    'host': 'localhost',
+    #'host': 'localhost',
+    'host': '192.168.137.62',
     'port': 27017,
-    'db': 'python_import',
-    'transcript_collection': 'earnings_transcript_bloomberg'
+    'db': 'insider',
+    'transcript_collection': 'earnings_call_Nas100_Broad_Manual_Update'
 }
 
 client, db, transcript_collection = None, None, None

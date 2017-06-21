@@ -14,7 +14,7 @@ class ToneCalc(object):
 
         self.client = pymongo.MongoClient('mongodb://192.168.137.62:27017')
         self.db = self.client['insider']
-        self.collection = self.db['earnings_call_Nas100_Broad_NEW']
+        self.collection = self.db['earnings_call_Nas100_Broad_Manual_Update']
         self.initialize_positive_negative_words()
         
     def initialize_positive_negative_words(self):
@@ -50,8 +50,9 @@ class ToneCalc(object):
     def process_all_and_save(self):
 
         #transcripts = self.collection.find({'publishDate':{'$gte':datetime(2017,3,31)}})
-        transcripts = self.collection.find({'tradingSymbol':'ADI'}, no_cursor_timeout=True).batch_size(30)
-
+        #transcripts = self.collection.find({'tradingSymbol':'GOOGL'}, no_cursor_timeout=True).batch_size(30)
+        transcripts = self.collection.find({}, no_cursor_timeout=True).batch_size(30)
+        
         for transcript in transcripts:
             if 'h_tone' in transcript:
                 logging.info(transcript['url'] + ' already calculated')
