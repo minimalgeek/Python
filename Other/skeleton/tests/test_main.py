@@ -1,8 +1,10 @@
 import logging
-from NAME import config
+from NAME import main
 
 logger = logging.getLogger(__name__)
 
-def test_answer(option_name):
+
+def test_main(option_name):
     logger.info('>>>>>>>> OPTION NAME: %s', option_name)
+    main.main()
     assert True
