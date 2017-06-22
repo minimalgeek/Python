@@ -13,6 +13,7 @@ from ibweb.functions import button_with_callbacks as bwc
 logger = logging.getLogger(__name__)
 
 style = {
+    'align': 'center',
     'textAlign': 'center',
     'color': '#404040',
     # 'columnCount': 3
@@ -27,14 +28,17 @@ def main() -> dash.Dash:
         style=style,
         children=
         ht.main_header() +
-        # [html.H3(i) for i in range(20)]
-        cl.layout_3([bwc.zacks()]) +
+        # cl.layout_3([html.H3(i) for i in range(20)]) +
+        cl.layout_3([bwc.zacks(),
+                     bwc.earnings_transcript_top(),
+                     bwc.tone_calc(),
+                     bwc.run_strategy()]) +
         ht.msg_div()
     )
-    bwc.setup_app(app)
+    bwc.setup_app_callbacks(app)
     return app
 
 
 if __name__ == '__main__':
     app = main()
-    app.run_server(debug=False)
+    app.run_server(debug=True)
