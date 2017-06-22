@@ -10,4 +10,4 @@ style = {
 
 def layout_3(children):
     lay = html.Div(children=children, style=style)
-    return lay
+    return [lay]
