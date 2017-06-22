@@ -6,11 +6,14 @@ import dash_html_components as html
 from ibweb import config as cfg
 
 from ibweb.graphs import graph
+from ibweb.layouts import column_layout as cl
 
 logger = logging.getLogger(__name__)
 
-colors = {
-    'text': '#505050'
+style = {
+    'textAlign': 'center',
+    'color': '#404040',
+    #'columnCount': 3
 }
 
 
@@ -19,12 +22,11 @@ def main() -> dash.Dash:
     cfg.say_hello()
     app = dash.Dash()
     app.layout = html.Div(
-        style={'textAlign': 'center',
-               'color': colors['text']},
+        style=style,
         children=[
             html.H1('IB Trader Manager'),
             html.H2('Execution steps'),
-            graph.sample_graph()
+            cl.layout_3([html.H3(i) for i in range(20)])
         ])
     return app
 
