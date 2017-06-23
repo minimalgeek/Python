@@ -5,7 +5,7 @@ import json
 
 
 def say_hello():
-    logging.getLogger(__name__).info('Hello')
+    logging.getLogger(__name__).debug('Configuration test')
 
 
 def init_logging(default_path='../logging.json', default_level=logging.INFO):
