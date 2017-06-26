@@ -11,6 +11,7 @@ def client():
     return app.test_client()
 
 
+@pytest.mark.fast
 def test_home_page_header(client: FlaskClient):
     rsp = client.get('/')
     assert rsp.status == '200 OK'

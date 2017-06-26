@@ -34,10 +34,10 @@ def run_strategy_and_process_signals(manager, strategy):
 
 
 def load_transcripts(strategy):
-    to_date = datetime(2016, 4, 10)
-    from_date = to_date - timedelta(days=10)
-    # to_date = datetime.now()
+    # to_date = datetime(2016, 4, 10)
     # from_date = to_date - timedelta(days=10)
+    to_date = datetime.now()
+    from_date = to_date - timedelta(days=10)
 
     logger.info('Load transcripts from the last 10 days')
     ret = dataloader.load_transcripts_between(from_date, to_date)
