@@ -29,7 +29,7 @@ def shutdown():
 def main() -> Flask:
     logger.debug('Enter main')
     cfg.say_hello()
-    app.run(debug=True)
+    app.run(debug=False)
     return app
 
 
