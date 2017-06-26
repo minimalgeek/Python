@@ -1,0 +1,934 @@
+Q1 2010 Earnings Call 
+
+
+Company Participants 
+
+• Michael W. Hara, Senior Vice President, Investor Relations and Communications 
+• Jen-Hsun Huang, President and Chief Executive Officer 
+• David White, Executive Vice President and Chief Financial Officer 
+Other Participants 
+
+• Daniel Berenbaum 
+• Hans Mosesmann 
+• Glen Yeung 
+• Uche Orji 
+• Rajvindra Gill 
+• Patrick Newton 
+• Jim Schneider 
+• Shawn Webster 
+• David Wu 
+• Suji DeSilva 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon. Thank you for holding. I would now like to turn the call over to Michael Hara, Vice President, 
+Investor Relations. Thank you sir, you may begin. 
+
+Michael W. Hara, Senior Vice President, Investor Relations and 
+Communications 
+
+Thank you Shannon. Good afternoon and welcome to NVIDIA's conference call for the first quarter of fiscal 2010 
+ended April 26, 2009. Today's call is being recorded. If you have any objections, please disconnect at this time. 
+
+On the call today for NVIDIA are Jen-Hsun Huang, NVIDIA's President and Chief Executive Officer, David White, 
+NVIDIA's Chief Financial Officer and Marv Burkett, Senior Advisor. Jen-Hsun is currently traveling on business in 
+Europe and in conferencing in from there. 
+
+Before we begin, I'd like to remind you that you can find copies of our SEC filings, our earnings release, and a replay 
+of this webcast on the Investor Relations page of our website at www.nvidia.com. The webcast will be available for 
+replay until our conference call to discuss our financial results for the second quarter of fiscal 2010. Also, shareholders 
+can listen to a live webcast of today's call via the Investor Relations page of our website. 
+
+During this call, we will discuss some non-GAAP financial measures about gross margin, operating expenses, free cash 
+flow, tax rate, net income or loss and net income or loss per share. You can find a reconciliation of these non-GAAP 
+financial measures to GAAP financial measures in our financial release, which is posted on our website. Unless 
+otherwise noted, all references to research, market and market share numbers throughout the call come from Mercury 
+
+
+Research or Jon Peddie Research. The content of today's conference call is NVIDIA's property and cannot be 
+reproduced or transcribed without our prior written consent. 
+
+During the course of this conference call, we may make forward-looking statements based on current expectations. 
+These forward-looking statements are subject to a number of significant risks and uncertainties, including statements of 
+our financial outlook and projections; the importance, impact and benefits of our products and technologies; our 
+competitive position and market share; our cash conservation efforts; and our growth objectives, innovations, and 
+strategies. Our actual results may differ materially from results discussed in any forward-looking statements. For a 
+complete discussion of factors that could affect our future financial results and business, please refer to our Form 10-Q 
+for the fiscal year ended in the January 25th 2009 and the reports on Form 8-K filed with the Securities and Exchange 
+Commission. All forward-looking statements are made as of the date hereof, based on information available to us today 
+and, as except as required by law, we assume no obligation to update any such statements. The content of the webcast 
+contains time-sensitive information that is accurate only as of May 7, 2009. 
+
+Consistent with the requirements under regulation FD, we'll be providing our outlook for the second quarter directly in 
+the conference call and will be unable to provide significantly more information in off-line conversations or during the 
+quarter. Therefore, questions around our financial expectations should be asked during this call. 
+
+At the end of our prepared remarks, there will be time for your questions. In order to allow more people to ask 
+questions, please limit yourself to one question. After our response, we will allow one follow-up question. 
+
+With that, let me turn the call over to Jen-Hsun. 
+
+Jen-Hsun Huang, President and Chief Executive Officer 
+
+Thanks, Mike. Good afternoon everyone and thank you for joining us today. Today we reported revenue of 664.2 
+million and a GAAP net loss of $0.37 per share. This included a one-time tender offer to purchase employee stock 
+options that were significantly underwater. On a non-GAAP basis we had a net loss of $0.09 per share. Revenues grew 
+38% over the previous quarter as we gained market share and both channels sell out and OEM inventory replenishment 
+increased. During the quarter we made good progress managing operating expenses and reducing inventory. We have 
+ongoing initiatives to reduce operating expenses further while continuing to invest in our invest in our strategic 
+initiatives, which are, one, maintaining our GPU leadership; two, driving the GPU computing revolution; three, 
+increasing the adoption of GPUs in all segments of computing; and, four, leading the mobile computing revolution. 
+
+Our discrete desktop GPU share increased again this quarter. In the discrete desktop GPU segment we gained 6% to 
+69%. Our notebook and desktop GPU share are about the same, and the desktop GPU share has exceeded our previous 
+record levels achieved during Q1 of 2008. In addition to graphics leadership, our strategy is to lead the industry to the 
+next level with physics processing. With our PhysX engine and general library, which is available for PC, PS3, Xbox 
+360, Wii and the iPhone, game developers can create amazing environments using PhysX simulations that are dynamic, 
+realistic and interactive with the player. 
+
+PhysX has been adopted by EA, THQ, 2K Games and, most recently, Sega. We have built up a rich pipeline of exciting 
+games with PhysX support. Mirror's Edge and Sacred 2 have shipped and received rave reviews, and we anticipate the 
+release of Terminator Salvation, Dark Void, Darkest of Days, Uwars and Cryostasis. Each of these titles, when run over 
+the 100 million NVIDIA CUDA GPUs in the market will experience a dramatic speed up. 
+
+PhysX processing is extremely taxing even for the highest-end CPUs. By offloading the processing to CUDA, the 
+parallel computing mode of our GPUs, we can speed up PhysX processing by an astonishing five to 20 times. And it's 
+clear now that PhysX processing is becoming a must-have technology, just as programmable shading has been the last 
+five years. 
+
+Utilizing the GPU for parallel computing is one of our most important strategic initiatives. We invented CUDA to 
+harness the massive computational resources in a GPU that is otherwise used only for 3D graphics. 
+
+
+The adoption of CUDA is now global, and GPU computing has reached the tipping point. GPU computing will be 
+incorporated into the two most important operating systems in the very near future. Windows 7 with DX Compute and 
+OS-X Snow Leopard with OpenCL will incorporate GPU computing into the core operating system, and the GPU will 
+become indispensible to achieve a great computing experience. 
+
+This quarter we released our first OpenCL drivers to developers who participated in our OpenCL Early Access 
+Program and demonstrated DirectX Compute on Windows 7 at the Game Developers Conference. 
+
+There is a growing list of consumer applications that are accelerated by CUDA. I spoke about PhysX processing that 
+will be in nearly every game. This quarter MotionDSP vReveal, ArcSoft's SimHD, Cyberlink's Espresso, Nero Move It, 
+and Super LoiLoScope announced support for CUDA. CUDA has opened up the high performance computing market 
+to our GPUs. We serve this multi-billion dollar new growth market with a product line called Tesla. This is a greenfield 
+market for us and our three-year effort has given us a significant lead to the competition. We have traction in virtually 
+every major high performance computing category from finance to oil and gas to medical imaging to supercomputing 
+centers. We have significant projects throughout the U.S., Asia, Canada, Brazil, Australia, Europe, Eastern Europe and 
+India. Success stories are surfacing from all over the world. 
+
+This quarter in China, GeoStar is transforming the search for oil and gas using Tesla. Working with the Institute of 
+Geology and Geophysics at the Chinese Academy of Sciences, GeoStar has demonstrated its solution running 600 
+times faster than what was previously possible with a CPU-based cluster. 
+
+French banking giant BNP Paribas corporate and investment banking division recently replaced 500 CPU cores with 
+just eight Tesla GPUs. They sped up response times by 15x, while consuming less than one-tenth the power. BNP 
+Paribas effectively reduced the energy consumption of performing the same calculation by nearly 200 times. 
+
+Increasing computation throughput while reducing cost and energy consumption has become a mission critical 
+imperative for nearly every company. 
+
+We announced this week the Tesla GPU Preconfigured Cluster, which increases the accessibility of supercomputing 
+clusters to the millions of engineers, scientists and researchers around the world. The Tesla Preconfigured Cluster is a 
+ready-to-install supercomputer that is available from a network of certified Tesla VARs including Cray, Penguin, 
+Appro, Colfax, James River, and many others around the world. 
+
+We believe a GPU can dramatically enhance the performance of a PC of any budget. We created ION to bring the 
+benefits of the GPU to the smallest and most affordable PCs. The recently announced ACER AspireRevo is a full Vista 
+Premium PC available at the price of a basic entry-level machine. Yet it provides everything the mainstream consumer 
+wants from a PC including very high quality Blu-Ray playback and modern DX 10 games. Because of the ultra high 
+integration and low power of ION, ACER was able to create a small, quiet, provocative industrial design that is light 
+enough to hang on the back of your display. Last week, the first 5,000 Revos delivered to Germany e-tail sold out in 
+one day. The AspireRevo has been winning rave reviews. Digital Trends predicted that it should be one of the most 
+successful desktop products released this year. 
+
+ION has forever changed what consumers can expect from a mainstream PC. Even affordable and small PCs can be 
+wonderful and deliver the full PC experience. More ION-based platforms will be available from virtually every major 
+PC OEM. We can expect to hear a great deal in the months ahead about the many ION design wins. 
+
+At the World Mobile conference in February, we revealed our Tegra Netbook. At less than 1 watt of power, Tegra can 
+surf the web and present the full high-resolution experience to the Internet. With Tegra, we are enabling a new class of 
+web-based computers that is high-resolution like a PC yet always on like a smart phone. We now have Tegra design 
+wins that range from portable media players, smart phones, netbooks and other new classes of mobile Internet devices. 
+Research from iSuppli projects shipments of Internet-enabled devices ranging from ultra-mobile PCs to portable media 
+players to increase nine-fold in the next four years. 
+
+More than 400 million of these devices will be shipped in 2012, an annual compound growth rate of better than 50%. 
+We look forward to announcing exciting Tegra devices in the coming months. Our nearly four-year investment in 
+
+
+Tegra has positioned us squarely at the center of the next computing revolution. We estimate that Tegra has opened up 
+an additional $10 billion growth market for us. 
+
+Now let me introduce David White, who succeeded Mark Burkett earlier this year as CFO. David brings 25 years of 
+experience to the role, most recently as CFO of Sanmina SCI. He is already making a big impact here. I want to take 
+this opportunity to thank Mark for his enormous contributions to NVIDIA over the past six years. Mark leaves a legacy 
+that he can be very proud of. He's continuing in an advisory role, working with David and me to facilitate a smooth 
+transition and taking on projects that can benefit from his expertise. 
+
+With that, let me turn the call over to David. 
+
+David White, Executive Vice President and Chief Financial Officer 
+
+Thanks, Jen-Hsun. My comments today will focus on a review of our first quarter results of operations, both on a 
+GAAP and a non-GAAP basis along with a discussion of selected balance sheet accounts and cash flows. I will then 
+conclude with comments regarding our outlook for the second quarter of fiscal year 2010. 
+
+As Jen-Hsun indicated in his opening comments, revenue for the first quarter of fiscal 2010 was $664 million, which 
+was up 38% from $481 million in the prior quarter and significantly higher than our estimate, which was flat to slightly 
+up. 
+
+We reported a GAAP net loss of approximately $201 million or $0.37 per share. Our GAAP net loss included a 
+one-time charge of $140 million associated with a cash tender offer we previously announced to purchase certain 
+employee stock options. This compares to a GAAP net loss of $0.27 per share in the prior quarter. Excluding the stock 
+option tender offer as well as other stock-based compensation, we reported a non-GAAP net loss for the quarter of $47 
+million or a net loss of $0.09 per share. This compares with an $0.18 non-GAAP net loss per share in the prior quarter. 
+
+Let me now turn to our individual businesses. Our GPU business, which includes desktop, notebook and memory 
+represented 53% of our total revenue and recorded a 44% revenue increase quarter-over-quarter. Much of this increase 
+was driven by the strength of the Desktop segment, which was up almost 50% quarter-over-quarter. You'll recall that 
+last quarter's revenue in this segment was negatively impacted by low sell into the channel as our channel partners 
+worked to aggressively deplete excess inventories. 
+
+Channel inventories now appear to have stabilized at slightly over one month's supply with our Q1 sales into the 
+channel roughly approximating channel sales out. As such, our desktop revenue figures in Q1 more closely 
+approximated true end market demand than what we experienced in Q4. 
+
+The notebook segment of our GPU business was up 28% quarter-over-quarter, driven primarily by increased OEM 
+demand, which comprised the vast majority of this segment. Here also, fourth quarter revenues were abnormally 
+impacted by OEM inventory corrections that have now abated. 
+
+Our MCP business, which represented 28% of our total revenue during the quarter, was up approximately 94% 
+quarter-over-quarter. Demand was primarily driven by our chipset products designed for the mainstream AMD 
+integrated desktop segment as well as our chipset products designed for the Intel-based notebook segment. 
+
+Revenue for our PSB business, which includes workstation graphics and computing, was essentially flat 
+quarter-over-quarter and represented 16% of total revenue. Our share in this segment remains stable. Corporate 
+demand, which comprises a substantial percentage of this business, has not shown any signs of economic recovery at 
+this point. This reflects constrained budgets and consumer redeployment and upgrade activity of older equipment. 
+
+Looking at the business as a whole, GAAP gross margin for the first quarter was 28.6%. Excluding charges associated 
+with a stock option tender offer as well as other stock-based compensation, non-GAAP gross margin was 30.6%. Our 
+non-GAAP gross margin, which fell short of expectations and estimates, was impacted by several items. 
+
+
+First, while revenue in our PSB business was flat quarter-over-quarter, as a percentage of total company revenue it 
+accounted for less of the total. Because our PSB business is generally more profitable than the rest of our business, this 
+had an overall negative impact of approximately four points on gross margin. 
+
+Second, gross margin was also negatively impacted by the sell-off of some of our older 65-nanometer product, the 
+effect of which was only partially offset by various reserve true-ups. 
+
+GAAP operating expenses for the first quarter were $421 million. Non-GAAP operating expenses, which again 
+excluded charges associated with the stock option tender offer, as well as other stock-based compensation, amounted to 
+$260 million, essentially flat quarter-over-quarter and consistent with our estimate. 
+
+Payroll-related expenses were up quarter-over-quarter due to the holiday shutdown in the fourth quarter and additional 
+FICA-based payroll taxes we accrued in the first quarter. However, this increase was largely offset by cost reduction 
+efforts that we realized elsewhere. 
+
+Our GAAP tax rate for the first quarter was a benefit of 10.4%, and our non-GAAP tax rate was a benefit of 7.5%. 
+NVIDIA's worldwide employment at the end of the quarter stood at 5,480, up 60 from the fourth quarter. We 
+essentially have a hiring freeze in the U.S. with only the most critical positions being filled. 
+
+Turning to the balance sheet, accounts receivable at the end of the quarter were $304 million, which equated to a DSO 
+of approximately 42 days, an improvement of approximately 18 days from the prior quarter. Inventories at the end of 
+the quarter were $327 million, down $211 million or 39% quarter-over-quarter. Inventory days at quarter end were 64. 
+This compares with 145 days at the end of the prior quarter. These reductions resulted from rescheduling actions we 
+took in response to our high inventory carryover from Q4 as well as early implementation of the staging of inventories 
+at a pre-finished state just prior to custom configuration. We believe this latter change is important to us because it will 
+enable us to better respond to changing market demand while at the same time maintaining lower overall inventory 
+levels. 
+
+Depreciation and amortization expense for the first quarter amounted to approximately $51 million, slightly up from 
+$48 million in the fourth quarter. Capital expenditures for the quarter amounted to $21 million, which, as a result of our 
+cost reduction efforts, was significantly down from the 43 million we spent in the prior quarter. 
+
+Accounts payable at the end of the quarter were $226 million, up approximately $7 million from the prior quarter, and 
+our free cash flow for the first quarter was a positive $121 million. 
+
+Cash and cash equivalents, marketable securities at the end of the quarter were approximately $1.34 billion, up 
+approximately $83 million quarter-over-quarter. This figure is significant considering we paid out approximately $82 
+million associated with the stock-option tender offer we completed in March. 
+
+In closing, let me briefly comment on our outlook for the second quarter of fiscal 2010. While it is particularly difficult 
+during these economic times to place a high degree of certainty in market demand and the pricing environment we 
+compete in, our outlook for the second quarter is as follows. We expect revenue to be up quarter-over-quarter in the 
+range of 5%. As for gross margin, while we are not expecting any near-term improvement in demand in the workstation 
+market, we do believe cost reduction efforts will allow us to improve margins. Accordingly, we expect our GAAP 
+margins to be in the range of 32 to 34%. 
+
+We expect GAAP operating expenses to be in the range of $280 million. We estimate stock-based compensation 
+expense in the second quarter to be $25 million and depreciation, amortization and capital expenditures to be 
+approximately flat when compared to the first quarter. Basic shares for the second quarter are expected to be about 548 
+million. 
+
+This concludes my remarks and I thank you for your time. And with that I'd like to open the call up for questions. 
+Operator, can we take questions at this point? 
+
+Q&A 
+
+
+Operator 
+
+Certainly. [Operator Instructions] And our first question comes from the line of Daniel Berenbaum with Auriga SA. 
+Please go ahead. 
+
+<Q - Daniel Berenbaum>: Hi, good afternoon guys. Can we talk a little bit more about the inventory? Can you talk – 
+can you give us a little more detail about were there any inventory write-downs and did you sell through any – or you 
+mentioned you sold through some previously reserved inventory. Can you quantify a little better what the write-offs 
+were, how much of the reserves that there were that you sold through with essentially zero cost, and how much still had 
+some cost associated with it? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Yeah Daniel, this is David. We have, 
+actually, a couple of situations. We have inventory that we completely wrote off in a prior period. We also have 
+inventories that we wrote down to market value. Some of those inventories in both categories were sold during the 
+quarter, some of which we had gains on, some of which we had losses on. It turns out that the losses we experienced on 
+the sale of that inventory plus some of the other products actually offset that by a greater amount. And so on a net basis 
+it was actually a negative impact to the quarter. 
+
+<Q - Daniel Berenbaum>: And was that basically because you – of the amount that you had written down, you hadn't 
+written it down enough? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: That's correct, in some cases. 
+
+<Q - Daniel Berenbaum>: In some cases? Did that then trigger any other accounting accruals on the balance sheet, is 
+that part of what explained the inventory and the Easter drop as well? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: And there was also a modest amount of 
+new lower cost to market accruals as well. On a net basis, it was negative, as I indicated. 
+
+<Q - Daniel Berenbaum>: Okay. Thanks, that makes sense. And then when you talk about the gross margin 
+improvement going into the next quarter, how much of – and number one, do you expect any additional inventory 
+write-downs or do you expect to sell through any inventory that's previously been reserved for? And then can you help 
+quantify a little bit further what that improvement is coming from? Is it just mix shift back to PSB, or is it mix shift 
+within GPU as well? Perhaps some of the newer products like the 40-nanometer products? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: So in the outlook for the second quarter, 
+we'll repeat much, I think, of the same scenario we had in the first quarter. We'll continue to sell off some inventory 
+that we've written off, and we'll continue to sell some inventory that we've written down to lower cost to market. Right 
+now, I would anticipate that the net effect of those two would be roughly a wash. 
+
+<Q - Daniel Berenbaum>: Okay. And then, what kind of improvement in gross margin do you expect from the mix 
+shift to not just the Professional Solutions business, but also from the newer products – the newer GPU products, I 
+mean? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Clearly... 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: David? Obviously, we are ramping 40-nanometer 
+very aggressively. But we haven't announced any new products yet. And so it's not appropriate to talk about new 
+products right now. 
+
+In terms of next quarter's gross margins, obviously we have consumed a lot more of our 65-nanometer inventory this 
+quarter. And I think that the amount of our 65-nanometer inventory at this point is quite negligible. And so that is going 
+to help our gross margins going forward. 
+
+Those are the biggest levers, and we are looking forward to having the PSB business coming back online as the 
+enterprise starts to buy again. We have really exciting new products for Quadro that we've launched and that the OEMs 
+
+
+have already geared up. And so, as soon as the end market comes back to life, I think that the workstation business is 
+going to do really well for us once again. 
+
+<Q - Daniel Berenbaum>: Okay, great. Thanks very much. 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Yeah, thanks a lot Daniel. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Hans Mosesmann, with Raymond James. Please go ahead. 
+
+<Q - Hans Mosesmann>: Thanks. Jen-Hsun, on the 40-nanometer, since you brought it up – I know you're not going 
+to talk about new products that are not announced, but can you give us an update on how the ramp is going relative to 
+previous process nodes and in terms of the ramp, the volumes? And can you give us an update, what percentage of the 
+mix by the end of the year could be coming from that process node? Thanks. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Let's see, the ramp is going fine. It's during the – 
+we are ramping 40-nanometer probably harder than anybody. And so we have three products in line now in 
+40-nanometer, and more going shortly. So this is a very important node. TSMC is working very hard. We have a vast 
+majority of their line cranking right now with new products. And so we're monitoring yields, and they're improving 
+nicely week-to-week-to-week. And so at this point there's really not much to report. 
+
+In terms of the mix towards the end of the year, let's see, I haven't – my rough math would suggest about 25%, is my 
+guess. There are still going to be a lot of 55-nanometer products. A lot of our MCP products – ION, for example, is still 
+based on 55-nanometer. And ION is going to be running pretty hard. I think you heard in David's comments earlier that 
+our Intel chipset product line is our fastest-growing business, and so my sense is that that's going to continue to be 
+successful, and that's still in 55-nanometer. So I would say roughly 25 to 30% is my rough estimate, going into the end 
+of the year. 
+
+<Q - Hans Mosesmann>: Thank you. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Yeah, thanks a lot. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Glen Yeung with Citigroup. Please go ahead. 
+
+<Q - Glen Yeung>: Could you just clarify again your OpEx guidance for the July quarter? Because I think I heard that 
+it's going to be up Q-on Q, and I just wanted to make sure I heard that right. 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: It's not up; it's about $280 million on a 
+GAAP basis. 
+
+<Q - Glen Yeung>: On a GAAP basis. And what would it be on a pro forma basis? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: The guidance we are giving for SBC for 
+next quarter is around 25 million. 
+
+<Q - Glen Yeung>: Okay. And then can you give us a sense, David, when you look into the end of the fiscal year, for 
+example, what are your thoughts about the kind of run rate of operating expenses you expect to be on at that point? Or 
+really what I'm asking -- you make the point in the comments that you've got OpEx programs in place. I just wanted to 
+get a sense as to maybe what those are and what the targets are for that program? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: So I think in the first quarter conference 
+call we talked about a stretch goal for the company of about $265 million, and we are still working aggressively to 
+
+
+achieve that objective. We have a lot of programs, as Jen-Hsun talked about in his comments, that we absolutely want 
+to maintain our investments in, and we feel strongly about the return we'll ultimately achieve from those investments. 
+And so our cost reduction activities are trying to balance, maintaining all of the resources we can on those investments 
+and still trying to spend our money as wisely as we possibly can. And so we're focusing on a lot of ways in terms of 
+how we manage our expenses and where our expenses are actually incurred and trying to influence them in ways that 
+won't affect those programs. So I think the $265 million target is still intact, and I assume we'll achieve that some time 
+in the next – certainly, before the end of the calendar year and our fiscal year. 
+
+<Q - Glen Yeung>: Okay. One last one maybe for Jen-Hsun. Maybe talk about the pricing environment that you're 
+seeing out there. Obviously, we're in a unique demand environment here. Any sense that you're seeing anything unique 
+on pricing as a result? 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Pricing, I would characterize as aggressive. But 
+we're at a point now with the pricing where we think that we're going to be relatively stable for some time. And our 
+products gain a premium in the marketplace relative to the competition because of the reputation of our products and 
+the performance of our product. And increasingly, the work that we do around PhysX and CUDA is being recognized 
+as important. And I commented earlier the number of games that are coming out with PhysX in the games are – it's 
+coming out in a really rich pipeline now, and we are seeing game titles coming out on a regular basis now with PhysX 
+included. 
+
+And when you compare a game with PhysX in it running on CUDA to one that's running on the CPU, the difference is 
+so substantial that our GPU is just superior on so many different fronts. And so I think that we're going to leave our 
+positioning in the marketplace with a premium to our products because it's a superior product, and I think the market is 
+recognizing that. 
+
+<Q - Glen Yeung>: Thanks. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Thanks a lot. 
+
+Operator 
+
+Thank you. Our next question comes from the line Uche Orji with UBS Investment Bank. Please go ahead. 
+
+<Q - Uche Orji>: Thank you very much. Maybe Jen-Hsun, anyone can answer. Can I please ask you about how the 
+quarter progressed? Because if I look at the DSO, it seems to have dropped off quite sharply. So can you just give me a 
+sense of how, month-by-month, the quarter progressed in terms of demand? Because looking at this one made me 
+conclude that it looks like demand tailed off toward the end of the quarter. Is that the right conclusion? 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Actually, it didn't. The quarter was a pretty solid 
+quarter, I would say. In fact, we had spot shortages of several products. And there are rumors of us pushing our supply 
+chain really hard to get products out into the marketplace, and all of that is true. And we came into the quarter looking 
+pretty good. So I think our – the market is still uncertain, and we monitor sellout in every single geography for every 
+single product like crazy these days. And so we'll continue to watch it. But so far, so good. 
+
+<Q - Uche Orji>: Just maybe going back to the margin, I think in the very first question you were explaining that the 
+impact of the inventory, products that were sold that had been reserved, was negative. So what is the clean gross 
+margin? So if I work off 30.6 and if I had to make adjustments for this inventory that was reserved and sold and had a 
+negative impact, I'm trying to get a sense of what then is a clean gross margin for the quarter that just ended? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Well, I guess it depends on what your 
+definition of clean is, I guess. Probably the single largest item that impacted margins in the quarter really is the fact that 
+our workstation business, our PSB business as we call it, was a smaller mix – percentage of the total mix. And as I 
+indicated in my comments that's about a four-point hit on margins. And it overwhelms, actually, the other factors. It is 
+the single largest item. And as we gave our guidance, we're not anticipating at this point that's going to change anytime 
+
+
+soon. So if you wanted to find a clean quarter, as our workstation business being back at the historical levels it's been, 
+you could add four points to margin. I think the other items that I indicated are of much smaller consequence. 
+
+<Q - Uche Orji>: Sure. And just last question, on the workstation business, obviously, watching the end markets 
+distort into – looks like things will look pretty challenged for some time. Let me ask you about competition in this 
+market. We've seen some of AMD's products getting designed into some HP workstations. Are you starting to notice 
+any signs of improved competition? Are these products getting any traction that may affect your longer-term market 
+share in this area? My last question. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: We're frankly not seeing competitive pressure in 
+our workstation business. I think the competition has repeatedly claimed design wins in the workstation business for 
+years now. And this is just not a chip business. This is a chip and system solution, system software. It's a complicated 
+business and you are building products that need to not only be great at Windows, but Linux and just about every 
+ancient operating system on the planet. And so it's a very, very complicated business. 
+
+And the reason why our market share is so high has a lot to do with the investment that we put into it. So this is a 
+business that is about solving some of the most challenging problems in computing in the world, and we are really, 
+really good at it. And so I think – we read about press releases from the competition from time to time, and we take it 
+all seriously. But the fact of the matter is, it just takes a lot more investment than that to be successful. 
+
+<Q - Uche Orji>: Thank you. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Yeah. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Raji Gill with Needham and Co. Please go ahead sir. 
+
+<Q - Rajvindra Gill>: Yeah. Thank you. Quick question on the ION revenue contribution. You guys had a huge 
+revenue upside in the first quarter. A lot of it was due to improving sellout demand. How much was that related to the 
+ION business? And a related question, what were the gross margins on the ION business, and what were the pricing 
+ASPs on the ION? 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: So let's see. David, what was our Intel chipset 
+business this quarter? Do you have the numbers over there for the Intel chipset business? We basically only have one 
+Intel-based chipset that we are shipping in any reasonable amounts, any meaningful amounts. 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: I don't have it broken out, Jen-Hsun, 
+between the two here with me. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: What was the total? Was it about 200 million, or 
+was it 180 million or so? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: It was 180 million, is the total. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: So I would expect about, out of then 180 million, 
+about two thirds of it, maybe a little bit less than that, comes from the ION chipset. And the way to think about that is 
+in Q2 of last year, one year ago, that amount was approximately zero. And so that gives you a sense for the adoption of 
+our products in that segment. 
+
+<Q - Rajvindra Gill>: Right. But are you including the 9400M that you're selling to Apple as ION, or is this actually 
+two-thirds of that 180 million design wins with other companies outside of Apple that are using ION? 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: We don't distinguish the two. It's the same 
+processor, from our perspective. We called the platform ION and increasingly people are calling the chip ION and so 
+we don't distinguish the two, whatever people want to call it. When people buy the chipset from us, they call it ION. 
+
+
+When they put it into the box and they brand it from the outside, because GeForce has such a terrific brand and 
+contributes so much to the brand value of the end product, people call it GeForce. Do you see what I'm saying? 
+
+<Q - Rajvindra Gill>: Yes. 
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: So people buy the ION, but they sell it as a 
+GeForce. 
+
+
+<Q - Rajvindra Gill>: Yeah. I'm just trying to get a better understanding of what additional design wins with other PC 
+manufacturers outside of Apple are you getting with ION. Like I'm trying to get on saying gaining the traction of ION 
+outside of just the Apple business that was announced a few quarters back? 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: If you estimate that Apple represents a little bit 
+north of 50% of that, then I think it's relatively correct. So the traction is good. And if you think about who the 
+fastest-growing PC companies are in the world, I think that's Apple and Acer and ASUSTeK. They are all huge ION 
+customers. 
+
+<Q - Rajvindra Gill>: Any sense of what the gross margins or ASPs on that platform were in this quarter? 
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: About or better than corporate average. 
+<Q - Rajvindra Gill>: The corporate average of this quarter of 30.6% or just what you've done historically? 
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Better than this quarter. 
+<Q - Rajvindra Gill>: All right. And then can you give us any update in terms of the GT 300 architecture or the 
+
+
+next-generation architecture? Is that on schedule for the second half of '09, or do you foresee any potential roadblocks 
+
+
+with that rollout? 
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: We don't comment about future products. Our 
+current products are doing very, very nicely in the marketplace. What's the point of talking about future products? 
+
+
+<Q - Rajvindra Gill>: Okay. And just going on in terms of the revenue guidance of up 5%, how should we be looking 
+at it in terms of like individual business units? Should we be looking at normal seasonality across the different 
+categories? And then should we be looking at the workstation business getting back up to like, say, 20% of total 
+revenue, which has historically been in that range? 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Raji, if I was modeling it out, I would assume 
+
+workstation as flat and apply the 5% ratably to the other businesses. 
+<Q - Rajvindra Gill>: So even with a flat workstation business, which carries a higher gross margin, you are still 
+expecting 32, 34% of GAAP gross margin? 
+
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: That's correct. 
+<A - David White, Executive Vice President and Chief Financial Officer>: Yes. 
+<Q - Rajvindra Gill>: What is it on a non-GAAP basis? Are you able to break that out? 
+<A - David White, Executive Vice President and Chief Financial Officer>: It's not much different. SBC is like 20 
+
+
+Bps, 0.2 – it's a small difference. 
+<Q - Rajvindra Gill>: Okay. I appreciate it. Thank you. 
+<A - David White, Executive Vice President and Chief Financial Officer>: Thank you. 
+
+
+Operator 
+
+
+Thank you. Our next question comes from the line Cody Acree with Stifel Nicolaus. Please go ahead. 
+
+<Q - Patrick Newton>: Hey thank you this is Patrick Newton in for Cody Acree. This question goes to Dave. I guess 
+if you could speak a little bit – if we started looking out at long-term gross margin, what does it take to get us back into 
+the 40% range? And I guess, is this something that you guys think is achievable in the fiscal '11 timeframe? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: I guess I would throw in a couple things 
+here. One is – and Jen-Hsun, you can jump in here, obviously – our business is – and margins are heavily influenced by 
+our high-end performance products. And clearly, as we move forward in Tesla and Tegra and some of these other 
+products that we've been talking about and we're continuing to invest in become a part of our revenue mix and so forth, 
+we believe that within that time period we can be getting our margins back up into that kind of arena. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: If you look at our history, there was a time when 
+we had rather low gross margins. And I think it was as low as 28 points or something like that. And we've, over the 
+course of about a year and a half methodically worked our gross margins back up and exceeded our record levels. I 
+have every confidence that the operational initiatives that we have in place today that looked at the reasons why our 
+gross margins are challenged right now and the new mix of products that we are bringing to the marketplace, and my 
+full confidence that the industries will be revived and will need to buy tools for their engineers who are the hearts and 
+souls of all industries, will return. And when that happens, our gross margin has every opportunity to return to its 
+record levels and potentially beyond. And so those are things that we're putting in place. The teams are executing 
+fabulously across the board. And if you watched us the last time relentlessly march up our gross margins, we intend to 
+do exactly the same this time. 
+
+<Q - Patrick Newton>: Thank you. And then moving on – so talking about some of these new products that you guys 
+just touched on, Tesla and Tegra, could you talk about what kind of revenue you saw from Tesla in this quarter and 
+maybe some kind of expectation throughout the remainder of the fiscal year? And then also in regard to Tegra, if you 
+could talk about if there's been any recent change in design win momentum and any expectations you have for Tegra in 
+the back half of the year ramping, perhaps a target run rate exiting the fiscal year? 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Tesla was many millions of dollars and next quarter 
+will be more, is my expectation. The traction that we're getting, designing them into clusters all over the world, as I 
+mentioned in my comments, are really doing terrifically. And the national labs around the world are all benefiting from 
+stimulus packages as the various governments invest in energy exploration and investing in education. And so I think 
+those are all – and Tesla is just in a fine spot at the right time. And so my expectation is that Tesla is going to continue 
+to do well, and we'll grow it into a rather nice business, hopefully within the next couple of years, into a business like 
+Quadro, and potentially larger. 
+
+Tegra has – we introduced a new category for Tegra at the World Mobile Conference, and this is a Tegra netbook. Prior 
+to that, we only had Tegra smart phones and Tegra portable media player design wins. Those products are just reaching 
+the final production, ready for final design phase and starting to ramp in production. And so I'm expecting revenues this 
+quarter and growing throughout the rest of the year. But this last quarter we introduced the Tegra netbook reference 
+platform, and we have many ODMs and OEMs working with us to bring Tegra netbook to the marketplace. 
+
+The telcos have discovered that when they can give away a computer with a subscription and that computer is a couple 
+of hundred dollars, they could really drive subscription rates. And so we're pretty excited about this and the telcos are 
+pretty excited about it as well. With 3G data modems becoming so affordable, this is really a terrific way for them to 
+increase their revenues. And the ARPU for a netbook that is high-resolution and readily accessible, so that you can 
+stream high-definition video or use Facebook wherever you are. The telcos are pretty enthusiastic about the type of 
+ARPUs that they'll generate from these type of devices. So I think this is going to be a new growth category for us, and 
+we're working really hard to get it into production. 
+
+<Q - Patrick Newton>: And Jen-Hsun, when we think about Tegra ASPs, is it right to think of smart phones and then 
+later on, maybe another $10 for mids and then some incremental, maybe $10, for netbooks on top of that? 
+
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Let's see – help me understand your algorithm 
+again. 
+
+<Q - Patrick Newton>: If I think of ASPs for smart phones maybe being in the 10 to $15 range, mids being $10 more 
+than that in a 25 type of range, and then netbooks a little bit more, is that the right way to think of the ASPs for Tegra? 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: I would think of the PMPs to be very similar to 
+smart phones. I think the mids are higher than that. I think your $10 is about right, and then I think netbooks on the 
+high end of mids. So, I agree with that. 
+
+<Q - Patrick Newton>: Perfect. Thank you very much. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Yeah. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Alex Ganna with GMP Securities. Please go ahead. 
+
+<Q>: Yes. Thank you very much. I'm wondering about, on the Tesla platforms, how you get through or how you're 
+working with potential customers to get some of the software that may be running on legacy hardware or standard 
+hardware over to be Tesla-compatible or adoptable in new systems. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: The vast majority of the serious computing clusters 
+in the world run proprietary software; Oil and gas, proprietary; finance, proprietary. And so there is large internal 
+development teams that protect these algorithms of theirs like we protect our algorithms. And so we work with each 
+one of their engineering teams or development teams to port to Tesla. And the porting process is just all over the world. 
+And you could go – and many of them, when they do a port, are so delighted by the results they publish a paper. And if 
+you go to Google and Google the CUDA GPU or NVIDIA CUDA GPU, you're going to find just reams and reams of 
+papers that show the speedups that we talked about. You can also come to CUDA Zone, do a search on CUDA Zone, 
+and you'll see a whole bunch of applications that have been ported and the results that they're seeing. 
+
+So that's one method. We also work with software developers that target the verticals, and so they could be a small 
+consulting firm for computational finance. It could be a small consulting or a large consulting firm for oil and gas 
+discovery. So we work with them to develop software. We'll also port the major software packages like MATLAB, and 
+so there is a piece of software that has been developed for MATLAB that accelerates MATLAB some 15, 20 times and 
+there are some being developed again further to accelerate even further than that. 
+
+So we approach these applications based on what we think has the greatest potential to serve the market and also the 
+greatest potential for speedup. And so we work on all of them at the same time with a rather large dev tech team, a 
+developer relations team, and we're working with the software developers all over the world. And so you've just got to 
+work on this one at a time. 
+
+Now, the exciting thing about all of this is many of them were re-factoring and redeveloping their software to run on 
+multi-core CPUs. And because they were so unsuccessful and frustrated by multi-core CPUs, Tesla showed up at 
+exactly the right time or CUDA showed up at exactly the right time. So this is really a perfect alignment of an industry 
+that's run out of choices, but still needs to see significant speedup. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Jim Schneider with Goldman Sachs. Please go ahead. 
+
+<Q - Jim Schneider>: Thanks. Good afternoon. I was wondering if you could start out on the notebook market a little 
+bit and give us a sense of what you're seeing in that market with respect to mix of discrete and integrated GPUs and 
+whether you see any shifts that would be permanent there. 
+
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Well, in the notebook market the discrete versus 
+integrated has been relatively stable, I think. Probably about 25% of the notebooks are discrete. It might have been a 
+little lower this quarter. Well, it probably is lower this quarter because of the significant growth of netbooks. And so if 
+you excluded the netbooks, my sense is that discrete has probably gained relatively to integrated graphics. But let's just 
+assume that it's relatively flat. 
+
+And going forward, the interesting dynamic is – and we are anxious to see this play out, but we are starting to hear 
+from all over the world that integrated graphics don't have DX Compute. DX Compute is the single most important 
+new API from Windows 7, and it helps you do amazing things. If you've made a home movie and you put it on your PC 
+and you wanted to do video editing and add some special effects to it and stitch a few photos and videos together and 
+you want to render it back to a DVD so you can send it to grandparents, that process without GPU computing is 
+horrific. I mean to make a one-hour movie it will probably take you 10 hours to record it. And so with DX Compute 
+that one hour has become one hour. And so it's just a revolutionary speedup when it comes down to certain types of 
+applications that are very parallel and very data-intensive, very compute-intensive. And so I think, without DX 
+Compute on integrated graphics chips, the question is, how will these PCs compete? And so we're seeing a lot more 
+interest in people who need to put GPUs in their notebooks and desktop computers when Windows 7 comes around. 
+
+<Q - Jim Schneider>: Thanks. And maybe just as a follow-up, could you give us an update on the magnitude of 
+revenues you expect from Tesla in the current fiscal year, please? 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: It's really hard to say exactly, but if we did less than 
+$50 million I'd be disappointed. And I'd be delighted if we're on a run rate of north of $100 million going out of the 
+year. 
+
+<Q - Jim Schneider>: Great. Thanks very much. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Yeah. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Craig Berger with FBR Capital Markets. Please go ahead. 
+
+<Q>: Hi, this is Robert for Craig. Thanks for taking my question. Can you give us a better idea of what ASPs did in the 
+quarter for desktops and notebooks for your chips? 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: David, you probably have that over there. 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Probably most of our compression on 
+ASPs probably came in the GPU line of our business, in select – in some select particular models and so forth. It was a 
+little bit higher this last quarter than what we've traditionally seen on some particular programs, on a 
+quarter-over-quarter basis, that is. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: And if you look at ASPs quarter-to-quarter, it 
+surely should have increased because we gained share, and most of our -- well, almost all of our share gains came from 
+the high end. So we gained about 6% share quarter-over-quarter, and so all of that is high-end share. So our ASPs 
+should have gone up. 
+
+<Q>: Going forward, do you expect your ASPs to be stable from here, I guess on the lower-and stuff? 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: I would say that ASPs are relatively stable right 
+now, and we are focused on differentiating our products with PhysX and with CUDA with GPU computing. And the 
+competition's products are really graphics only, and as more and more applications come out that have GPU computing 
+capabilities and CUDA ports and as more and more games have PhysX, we're going to focus on differentiating that 
+way. 
+
+
+<Q>: Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Shawn Webster with JPMorgan. Please go ahead. 
+<Q - Shawn Webster>: Yes. Good afternoon and thank you for taking my questions. Just honing in on the gross 
+
+
+margins for a second, can you clarify something? Did you say that the inventory you got in – you had an inventory 
+reserve benefit in Q1? Did I hear that correctly? 
+<A - David White, Executive Vice President and Chief Financial Officer>: What I indicated was that we had 
+
+
+inventory true-ups, some of which were unfavorable, some of which were favorable, the net of which, when you netted 
+that against the products that they related to and we sold, was a net unfavorable impact on the quarter. 
+<Q - Shawn Webster>: So it hurt gross margins? 
+
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Correct. 
+<Q - Shawn Webster>: Okay, and then on the segment level, given the – if you ex out the options write-down, did 
+your desktop and notebook gross margins fall sequentially? GPU? 
+
+
+<A - David White, Executive Vice President and Chief Financial Officer>: What was the first part of that, though? 
+
+So can you repeat the first part of that? 
+<Q - Shawn Webster>: If you take out that $11 million charge to COGS, and you just look at your segment gross 
+margins – desktop GPU, notebook GPU -
+
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Yes. We don't typically look at that 
+included in there, anyway. Yes, I understand what you're saying. No, they did not. 
+<Q - Shawn Webster>: They did not fall sequentially? 
+<A - David White, Executive Vice President and Chief Financial Officer>: Correct. 
+<Q - Shawn Webster>: Okay. So circling back, then, to the reserves bad news. What was the dollar magnitude of that? 
+
+
+<A - David White, Executive Vice President and Chief Financial Officer>: We've really not broken that out. 
+<Q - Shawn Webster>: I see, okay. And then as options – looking at options going forward, are they going to stay at 
+the 25 million run rate? 
+
+
+<A - David White, Executive Vice President and Chief Financial Officer>: That's about right. 
+<Q - Shawn Webster>: Okay, and then, as far as the channel inventories, Jen-Hsun, earlier you mentioned that you 
+believe that – and this is what we're all trying to figure out, is what is end demand, what is catching up with end 
+demand. How do you see channel inventories right now? And as you look at your various lines of business, including 
+
+
+chipsets, desktop, notebook, which do you think still has some catch-up to do, and which do you think has caught up 
+with end demand? 
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: It's harder for us to tell on notebooks because we 
+
+
+don't monitor sellouts on notebooks. They're OEM products. But in terms of desktop products, we know that our 
+channel inventory is near all-time lows. And so we continue to have spot shortages of products here and there. And so 
+my sense is that, based on what we're selling in and based on – and what is selling out and what we believe the channel 
+inventory to be, the market looks relatively stable right now. 
+
+<Q - Shawn Webster>: Thank you very much. 
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Yes. 
+
+
+
+Operator 
+
+Thank you. Our next question comes from the line of David Wu with Global Crown Capital. Please go ahead. 
+
+<Q - David Wu>: Yes. I'm afraid I need some help on understanding gross margin guidance for Q2. Since the 
+workstation business is not moving up or down as a percentage of revenue, I see a significant bump in your gross 
+margin guidance for Q2. Is that a function of the mix of 55-nanometer or any new products relative to 65-nanometer to 
+give you this meaningful lift in gross margin quarter-on-quarter? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: That is certainly a piece of it, yes, 
+absolutely. 
+
+<Q - David Wu>: So, that must be the biggest piece, right, because essentially we're not talking about major 
+differences between workstation business and the rest of the company? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Well, and other cost reduction measures 
+that we've taken as a company. 
+
+<Q - David Wu>: I see, okay. The other thing I was wondering is, if – essentially, to expect a nice recovery in the 
+Professional Solutions business, I guess just look to IT spending? Is that the way to look at it? If we have an IT 
+spending recovery in the second half of this calendar year, then the highest gross margin business would come back? 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: I think that's not a bad surrogate. But we also have 
+to think along the lines of creating new products that can save our customers money. We demonstrated at the National 
+Association of Broadcasters the world's first digital-in graphics composite or digital-out product, and we call it Quadro 
+DVP, digital video pipeline. And it's the first of its kind ever built, and it replaces quite a large amount of servers and 
+switches and video mixers. And the reception has been just fabulous. And so what we need to do is get it into 
+production. As you know, more and more of the broadcasters are streaming off on the web. And this product is 
+designed to be able to record in real time and composite in real-time and stream it real time on the web. And so that's a 
+growth market. 
+
+And so we think that there are opportunities for us to innovate our way out of this, even if the IT spending doesn't come 
+back in the near future. And so we have all kinds of ideas that we're working on. You've been following us a long time 
+and we're a pretty relentless bunch of guys, and we have lots of good ideas. And in spite of challenges, there are always 
+ways to grow. You look at ION; it's our fastest-growing business because we've tapped into a movement towards 
+low-end, mass mainstream computing. You saw that we're gaining share. You saw that we're creating new products like 
+Tesla and Tegra, both of which saves money. So we can find new ways to grow even if the economy is challenged. 
+
+<Q - David Wu>: Thank you. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Thanks, David. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Suji DeSilva with Kaufman Brothers. Please go ahead. 
+
+<Q - Suji DeSilva>: Good afternoon guys, nice job on the quarter and inventories there. In the 5% sequential guidance, 
+is that the linearity you are expecting that similar to typical years or is this year any different now? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Traditionally, our July quarter is 
+seasonally the weaker quarter of the year, one of the weakest quarters of the year. 
+
+<Q - Suji DeSilva>: I meant the linearity month-to-month. 
+
+
+<A - David White, Executive Vice President and Chief Financial Officer>: In terms of the second quarter or the 
+first quarter? 
+
+<Q - Suji DeSilva>: Correct; no, the coming quarter. 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: I think the second quarter will be pretty 
+close to the same linearity we had in the first quarter, which was better than average. 
+
+<Q - Suji DeSilva>: Okay. And then, as we look at the consumer ultra-low voltage, the ULV opportunity, is that 
+neutral for you guys, Jen-Hsun, or do you think that's an opportunity in terms of your content? 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: That's neutral for us because we don't participate in 
+the midrange of notebooks, anyhow. If you look at our historical notebook participation, we have been only on the top 
+third of the market. And the bottom two thirds of the market has been integrated for just about forever. We entered into 
+the low-end part of the marketplace recently with MCP 79 or ION and so we're taking share in the mainstream and the 
+low-end part of the market. What's exciting to me is, come Windows 7 and come – when DX Compute comes out, the 
+difference between a computer that has DX Compute accelerated by a GPU versus one that does not, it's not a 10, 15%, 
+it's 10, 20, 30 times. I just don't know how – and it's not for games. It's for making movies for your grandparents. And 
+we know that one of the fastest-growing consumer products right now is the flip video camera, video camcorder and 
+the Sony Webbie. Those things are selling like hotcakes, and they are HD camcorders. People are making home 
+movies, and they want to create a home movie and post it on the web or burn a DVD. 
+
+So I think finally, it's possible to do video editing because of DX Compute and because of the GPU underneath it that's 
+not excruciating. It's a delightful experience. And one of these days, if you get a chance to drop by, we'll just show you 
+how to do it. It's just incredibly easy. When you can move a video file around and store it the way that you save files, it 
+changes everything. This is going to be one of the major usage models for Windows 7, so we're excited about that. And 
+I think that all computers – and I made this comment in my remarks that we believe and certainly I believe that every 
+computer will benefit with GPUs in it. It will reduce the power. 
+
+One of the most – if you read reviews of the MacBook Air, that has a rather large GPU, a GeForce 9400, in an 
+ultra-thin and light computer. And the power is better than it was before with Intel integrated graphics. People remark 
+about that all over the web and so it's because GPUs, using the right tool to do the right job, saves power. And when 
+BNP Paribas and others discover that by using the GPU, you can save 200 times the energy because you run a process 
+faster and it consumes less power, you save a lot of energy. And energy consumption comes right out of the battery. 
+And so I think that more and more people are just starting to discover that adding another processor that does the right 
+job, using the right tool for the right jobs, it really saves power, it really saves energy. 
+
+<Q - Suji DeSilva>: Great. That's helpful color and one last question if I can squeeze it in. Jen-Hsun, in terms of Tegra 
+versus ION, which one do you think has the larger unit TAM? I'm assuming – I think it's Tegra, but confirm that. And 
+which one do you think will have more units in the marketplace in, say, two to three years, Tegra or ION? Thanks. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Oh, gosh, Tegra. Tegra – of all the products in our 
+Company, Tegra has, long-term, the largest TAM. And the number of... 
+
+<Q - Suji DeSilva>: In two or three years, you believe there will be more Tegras out there? 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Yes, I think, in two or three years – yes, surely, 
+surely. 
+
+<Q - Suji DeSilva>: Okay. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Yeah. I think the – Tegra is – we have been 
+investing in Tegra now for about four years, and we have one of our best teams in the company working on this. 
+There's 500 people working on Tegra. And to build a computer completely from scratch that fits on the size of a penny 
+and deliver a full high-definition experience, consume less than 1 watt, is just – when you see it, it's just absolutely 
+magical. And it's possible to do that, and we're just blowing people away when we show it to them. I really believe this 
+
+
+is the second personal computer revolution. This is -- we happen to be fortunate to have, in our careers, experienced 
+two computing revolutions. This is it. We want to be all over it. So this is an exciting time for Tegra. 
+
+<Q - Suji DeSilva>: Great. Thanks for the color. Good luck guys. 
+
+<A - Jen-Hsun Huang, President and Chief Executive Officer>: Yeah. Thanks. 
+
+Operator 
+
+There are no more questions at this time. I will now turn the call over to Jen-Hsun. Please go ahead. 
+
+Jen-Hsun Huang, President, Chief Executive Officer and Director 
+
+Thank you for joining us today. We look forward to reporting our progress in Q2. Thank you. 
+
+Operator 
+
+Ladies and gentlemen, that does conclude today's conference call. We thank you very much for your participation and 
+we ask that you please disconnect your lines. Have a lovely afternoon, everyone. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2009, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

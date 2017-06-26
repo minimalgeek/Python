@@ -1,0 +1,732 @@
+Q2 2011 Earnings Call 
+
+
+Company Participants 
+
+• Jeff Palmer, Vice President of Investor Relations 
+• Sehat Sutardja, Chairman, President and Chief Executive Officer 
+• Clyde R. Hosein, Chief Financial Officer 
+Other Participants 
+
+• Glen Yeung 
+• Sukhi Nagesh 
+• James Schneider 
+• Uche Orji 
+• Harlan Sur 
+• Nicholas Aberle 
+• Craig Ellis 
+• Craig Berger 
+• John Pitzer 
+• Sanjay Devgan 
+MANAGEMENT DISCUSSION SECTION 
+
+Good day, ladies and gentlemen. Welcome to the second quarter 2011 Marvell Technology Group Limited Earnings 
+Conference Call. I'll be your coordinator for today. All lines have been placed on mute to prevent any background 
+noise. After the speakers' remarks, there will be a question and answer session. [Operator Instructions] As a reminder, 
+this conference is being recorded for replay purposes. 
+
+I would now like to turn the presentation over to your host, Mr. Jeff Palmer, Vice President of Investor Relations. 
+Please proceed, sir. 
+
+Jeff Palmer, Vice President of Investor Relations 
+
+Thank you, Keisha, and good afternoon, everyone. Welcome to the Marvell Technology Group's second quarter of 
+physical 2011 earnings call. With me on the call today is Dr. Sehat Sutardja, Marvell's Chairman, President, and CEO, 
+and Clyde Hosein, Marvell's CFO. All of us will be available during the Q&A portion of the call today. 
+
+If you've not obtained a copy of our current press release, it can be found at our company website under the Investor 
+Relations section at www.marvell.com. Additionally, this call is being recorded and will be available for replay from 
+our corporate website. 
+
+Please be reminded that this call will include forward-looking statements that invoke risks, uncertainties that could 
+cause Marvell's results to differ materially from management's current expectations. The risks and uncertainties include 
+statements regarding macroeconomic trends, trends within the PC and HDD end market, our expectations about the sale 
+of new and existing products, the sustainability of our long-term business model, our ability to fund common share 
+repurchases out of current and future cash balances, general market trends, and specific statements regarding our 
+financial projections for the third quarter of physical 2011. To fully understand the risks and uncertainties that may 
+
+
+cause results to differ from our outlook, please refer to Marvell's latest Annual Report on Form 10-K and subsequent 
+SEC filings for a detailed description of our business and associated risks. Please be reminded that Marvell undertakes 
+no obligation to revise or update publicly any forward-looking statement. 
+
+During our call today, we will make reference to certain non-GAAP financial measures, which exclude stock-based 
+compensation expense, as well as charges related to acquisitions, restructuring, gains, and other charges that are driven 
+primarily by discrete events that management does not consider to be directly related to Marvell's core operating 
+performance. Pursuant to Regulation G, Marvell has provided reconciliations of the non-GAAP financial measures to 
+the most directly comparable GAAP measures in our second of physical 2011 earnings press release, which has been 
+furnished to the SEC on Form 8-K and is available on Marvell's website in the Investor Relations section at 
+www.marvell.com. 
+
+Now I'd like to turn the call over to Sehat. Sehat? 
+
+Sehat Sutardja, Chairman, President and Chief Executive Officer 
+
+Thanks, Jeff. And good afternoon, everyone. During our fiscal second quarter, we generated revenue of approximately 
+$896 million, a 5% sequential increase and a 40% increase over the same period a year ago. We delivered non-GAAP 
+earnings per share of $0.40 and generated approximately $292 million in free cash flow. 
+
+The quarter was challenging due to a softening macroeconomic environment that impacted demand for PCs, which in 
+turn led to excess inventory build-up in the supply chain. Marvell was not immune to these effects, but despite these 
+challenges we delivered excellent results. We believe this demonstrates the robustness of the Marvell business model, 
+our ability to sustain revenue growth and manage excellent profitability in spite of the challenges experienced in one of 
+the three end markets we serve. 
+
+Now let me provide some color on what transpired during the quarter, and beginning with the storage end market. The 
+sale of products into the storage end market decline approximately 15% sequentially versus our original forecast for 
+revenue to be flat to down a few percentage points. As most investors may recall, over the last year our industry has 
+been supply constraint and the hard drive industry even more so. In hindsight, we believe the PC and the hard disk 
+drive supply chain built inventory to address these constraints during what is usually the seasonally slow first and 
+second quarters, ahead of what was expected to be a normal back-to-school build period. 
+
+The assumption of a tight supply environment was the basis of our forecasts entering the second quarter. As the quarter 
+progressed, negative macroeconomic events starting in Europe began to affect the end market demand for PCs. As a 
+result, the supply chain reacted quickly, cutting build plans and tightening on-hand inventory. Marvell was subjected to 
+these inventory rationalizations and the resulting erosion of demand on us. We believe the consumption of the excess 
+inventory is largely behind us now. For example, since the middle of July, we began to experience improved 
+component pulls at the hard drive product consignment hubs, providing evidence to us that the excess inventory has 
+worked through the system. 
+
+We think it is important to note the speed by which the supply chain responded to the challenging market dynamics. 
+We see this as a positive long-term trend. We believe the destruction in the hard disk drive supply chain started and 
+ended pretty much within our second fiscal quarter. While there may be questions on the growth trajectory of the PCs 
+and the HDD, hard disk drive, going forward, we believe the inventory correction is behind us. 
+
+On a positive note, we began production shipments within the quarter and ahead of the announced schedule to a new 
+HDD supplier, the only remaining HDD supplier we did not serve. While the volumes are initially modest, the addition 
+of this customer into our roster will help to strengthen our franchise in the HDD SoC market. 
+
+Looking to the third quarter, we are anticipating revenue from the storage end market to be essentially flat. This is well 
+below typical seasonality. However, it reflects caution and conservatism given the recent events. 
+
+
+Now turning to our performance in the mobile and wireless end market, sales increased over 50% sequentially. Our 
+combined revenue from the mobile and wireless end market now represents nearly one-third of our total revenue, a 
+record level in our history. This performance is yet another clear example of the investments we have made in the 
+mobility market yielding positive returns. 
+
+Looking at the sources of the growth, it was broad-based across all our mobile and wireless product lines. 
+Approximately 15% of the sequential increase was due to the initial production revenue from our ARMADA 
+application processers, primarily as a result of a major customer preparing to launch a new gaming platform. About 
+30% of the sequential increase was due to the sale of cellular communication processors as one of our key smartphone 
+customers are preparing to ramp production of several new handset programs. And lastly, about 55% of the sequential 
+growth in mobile and wireless revenue was due to our embedded Wi-Fi products. The main drivers for Wi-Fi product 
+growth was due to new and existing gaming systems, combined with the continued product adoptions within the 
+imaging and enterprise access markets. We currently anticipate the sale of mobile and wireless products to again grow 
+in the third fiscal quarter in the range of 15 to 20% sequentially. 
+
+Lastly, turning to the networking end market, our sales grew a few percentage points, slightly lower than our original 
+expectations. The primary drivers of revenue growth were enterprise-class switches, physical layer devices, and SoC 
+products, which in total were up over 10% sequentially. This growth was offset by the sequential declines in the sale of 
+PC clients, as the previously mentioned challenges in the PC end market also impacted demand for our Ethernet 
+controllers. 
+
+Looking to our third fiscal quarter, we anticipate revenue growth on the networking market to be essentially flat on a 
+sequential basis. 
+
+Turning now to revenue from new products, which we believe is a broad metric on how our ongoing R&D investments 
+translate into customer adoption. Revenue from new products during the quarter was approximately $220 million, more 
+than a 60% increase sequentially, and represented about 25% of our total revenue. During the second quarter, new 
+product revenue was primarily due to the success of the mobile and wireless market. About half of the new product 
+revenue was a result of continued strong demand for our latest 3G communication processors; about a quarter was due 
+to demand for new Wi-Fi products; and just under 10% was related to initial shipments of our new ARMADA 
+application processors. 
+
+In summary, our second fiscal quarter results demonstrate Marvell can sustain and deliver significant shareholder 
+value, even when certain end markets we serve experience destructions. Looking into our third fiscal quarter, we will 
+continue the transformation of our business toward high-growth areas such as mobile and wireless. We will continue to 
+manage the company to deliver world-class financials, and expect to be net share gainers in our historical franchises in 
+both the networking and storage end markets. Taken together, we anticipate revenue in our third fiscal quarter to grow 
+in a range of approximately 4 to 8% sequentially. 
+
+Now, furthermore, based on the confidence we have in our long-term business model to deliver best-in-class result, we 
+announced today a share repurchase program of $500 million. We believe this is a demonstration of the value creations 
+we anticipate we can continue to deliver to shareholders. 
+
+Now like to turn the call over to Clyde to review our financial results for the second quarter and to provide a more 
+detailed outlook for the third quarter of fiscal 2011. 
+
+Clyde R. Hosein, Chief Financial Officer 
+
+Thank you, Sehat. And good afternoon, everyone. 
+
+As Sehat mentioned, fiscal Q2 revenues came in at approximately 896 million, representing a 5% sequential increase 
+over fiscal Q1 2011 and increase of 40% from the same period a year ago. Our non-GAAP gross margin for the second 
+quarter was approximately 59.3%, down 130 basis points from the first quarter, and up about 400 basis points from the 
+same period a year ago. This was just under the midpoint of our guidance of 59 to 60%. 
+
+
+Our overall operating expenses for the second quarter on a non-GAAP basis were approximately 260 million, at the 
+lower end of our earlier projected range of 260 to 270 million. As compared to the same period a year ago, operating 
+expenses were up approximately 14%, while revenues grew 40%, almost three times the growth in expenses, 
+reinforcing the leverage in our business model. R&D expenses for the quarter were approximately 205 million, an 
+increase of 2% on a sequential basis and an increase of about 19% from the same period a year ago. This was below the 
+midpoint of our original guidance of 210 million. SG&A expenses for the quarter were approximately 55 million, 
+essentially flat sequentially and from the year-ago period. This was in line with the midpoint of our prior guidance of 
+56 million. 
+
+This resulted in non-GAAP operating margin of approximately 30.3%, down about 40 basis points from the 30.7% 
+operating margin reported in the prior quarter and an improvement of nearly 11 points from the same period a year ago. 
+Net interest expense and other income was a benefit of approximately 4 million. Tax expenses were approximately 2 
+million. Our non-GAAP net income for the second quarter was approximately 273 million or 40% per diluted share, a 
+sequential increase of $0.02 per share. During the same period a year ago, we earned 119 million or $0.18 per share. 
+
+The shares used to compute diluted non-GAAP EPS during the second quarter were approximately 678 million, down 
+from 681 million shares in the prior quarter and higher than the 652 million shares reported in the year-ago period. 
+
+Let me now summarize our Q2 result on a GAAP basis. We generated GAAP net income of approximately 220 million 
+or $0.33 per share in the second quarter, up approximately 7% from the 206 million or $0.30 per share in the prior 
+quarter and significantly better than the $0.09 per share we reported in the same period a year ago. The difference 
+between our GAAP and non-GAAP results during the second quarter of fiscal 2011 was due to stock-based 
+compensation expense of approximately 31 million or about $0.05 per diluted share and amortization of intangibles 
+representing approximately 21 million or about $0.03 per diluted share. 
+
+Now I'd like to review our balance sheet as of the end of our second quarter. Our cash and short-term investments were 
+approximately 2.4 billion, up about 300 million sequentially and up about 1.1 billion from the same period a year ago. 
+Cash flow from operations for the second quarter was approximately 319 million, as compared to 256 million reported 
+in the first quarter and up from the 182 million reported in the same period a year ago. Free cash flow for the second 
+quarter was approximately 292 million, representing a 33% free cash flow margin, up 23% on a sequential basis and a 
+66% improvement from the 175 million in free cash flow reported in the year-ago period. 
+
+Accounts receivable was approximately 491 million, up about 42 million sequentially, reflecting increased shipments 
+later in the quarter, primarily from new products ramping. DSO was 48 days, up about five days sequentially and up 
+four days from the same period a year ago. Net inventories at the end of the second quarter were approximately 239 
+million, up 16% from the 207 million reported in the first quarter. Net inventories increased approximately 28 million 
+or 13% on a year-on-year basis. Days of inventory were about 55 days, down four days sequentially from the 59 days 
+reported in the previous quarter, and down 10 days from the year-ago period. 
+
+Over the last several quarters, we have been attempting to build a modest level of safety inventory to better service our 
+increasing revenues and expanding customer base. The increase we experienced during in Q2 was a direct result of the 
+impact of the PC/HDD supply chain discussed by Sehat earlier in the call. Based on the inventory post we have with us 
+in the last several weeks and the HDD comps, we believe the inventory correction is behind us, and we should be at 
+profile on drive related inventory during the third quarter. 
+
+Accounts payable was approximately 386 million, up about 97 million sequentially and up about 117 million on a 
+year-on-year basis. The increase in accounts payable was due to a combination of increased inventory receipts at the 
+end of the quarter and an expression of growth in our mobile and wireless end markets and the ramp of new wireless 
+customers where we are selling more of a system solution. Because of the business model of services customers, we'll 
+reduce our inventory risk. During significant ramp up new products, the payables tend to be higher. 
+
+Now I'd like to turn to our expectations for the third fiscal quarter of 2011. We currently project third quarter revenue 
+in the range of 930 to 970 million, a sequential increase of 4 to 8%. We currently project non-GAAP gross margins in 
+the range of 59 to 60%, in line with our long-term model. We currently anticipate non-GAAP operating expenses to be 
+
+
+in the range of 265 to 275 million. At the midpoint, we expect R&D expenses to be approximately 205 million and 
+SG&A expenses of approximately 65 million. The primary drivers of the sequential increase in SG&A expenses are 
+related to new product introductions and customer ramps, expenses related to DS2 acquisition announced earlier today, 
+and higher legal expenses. 
+
+At the midpoint of our range, our guidance will translate into a non-GAAP operating margin of approximately 31%. 
+The combination of interest expense and other income together should net out to approximately 1 million benefit. 
+Non-GAAP tax expense should be approximately 4 to 6 million. We currently believe the diluted share count will be 
+approximately 675 million shares, excluding the potential impact from any share repurchases during the quarter. This 
+yields non-GAAP EPS in a range of 0.41 to $0.44 per share. 
+
+On the balance sheet, we currently expect to generate approximately 250 million in free cash flow during the quarter. 
+We anticipate our cash balance to be about 2.6 billion, excluding any special items, M&A activity, or share 
+repurchases. Currently expect our GAAP EPS to be lower than our non-GAAP EPS by about $0.08 per share, plus or 
+minus a penny. About $0.03 of this difference is related to amortization of intangibles, and $0.05 in stock-based 
+compensation expense. 
+
+So in summary, during the second fiscal quarter, we experienced a significant inventory correction in the largest end 
+market we serve. Despite this impact, we generated increased sequential top and bottom line performance, best-in-class 
+financial performance, and 33% free cash flow margin. While we believe the inventory correction is behind us, we are 
+forecasting lower than seasonal growth in our storage and networking end markets, reflecting similar conservatism 
+from other participants in the space. Even with this conservatism, we believe our revenue can grow mid to high single 
+digits in Q3 while still sustaining the best-in-class margins and significant free cash flow. 
+
+We recognize the concern that investors have regarding our exposure to the PC and storage market. However, our 
+performance over the last two quarters should demonstrate the expanded breadth of our multi-end-market presence, 
+which provides us with the resilience to deliver world-class financials – results to our investors. 
+
+At the midpoint of our range in our guidance, storage should be approximately 40% of our revenue, demonstrating the 
+growth of our products serving the mobile communication end market. The revenue performance of our mobile and 
+wireless end markets during the last two quarters should help mitigate doubts about the transformation of our business 
+model. We continue to believe and pursue our long-term targets presented at the beginning of this fiscal year, and our 
+confidence in this in part is reflected by the share repurchase program we announced today. 
+
+Now I'd like to turn the call over to the operator to begin the Q&A portion of the call. Operator? 
+
+Q&A 
+
+Operator 
+
+Ladies and gentlemen, we would now like to open the lines for your questions. [Operator Instructions] In an effort to 
+allow as many listeners a chance to ask a question, each caller will be limited to one question and one follow-up. We're 
+now ready for our first questioner. 
+
+Your first question comes from the line of Glen Yeung with Citi. Please proceed. 
+
+<Q - Glen Yeung>: Thanks very much, and, actually, quite good results in the grand scheme of things. I wonder if I 
+could ask just on the comments that you made regarding the drive business coming into balance. I think part of that is 
+just an issue of inventory balancing there, but when you look at the underlying PC market, and you're now a month and 
+a half into what other companies are seeing as kind of their normal season, what are you now seeing from the PC 
+market as we move through August? Is your sense that we can see some degree of seasonality, or are you seeing 
+something somehow different? 
+
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: Glen, our guidance for this quarter, this – 
+we're in, is well below typical seasonality, so we'll have to stay with that. But to add color, I think since the middle of 
+July we've seen the consignment posts improve, so that's a positive indication but I still think there's a lot ahead of us 
+between now and the end of our quarter to make that call. It seems improved in the last month but still below seasonal 
+patterns. 
+
+<Q - Glen Yeung>: Hmm. OK, and then just as a follow-up, you announced a relatively large buyback today. I wonder 
+if you could maybe articulate, Clyde, what the criteria for that buyback will be, what the decision making process will 
+be for you. 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: What I'll say, Glen, is we believe that in our financial model we 
+believe that the current stock price is not reflective of what the business model is, and we intend to be active purchasers 
+around this range. That's probably the best description I could give you. 
+
+<Q - Glen Yeung>: Fair enough. Thanks very much. 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: Thank you, Glen. 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Thanks, Glen. 
+
+Operator 
+
+Your next question comes from the line of Sukhi Nagesh with Deutsche Bank. Please proceed. 
+
+<Q - Sukhi Nagesh>: Hi, guys. Thanks for taking my question. Clyde, can you just – quick question here. In terms of 
+what your TAM expectations for the disk drive business, it seems that most of your customers there are guiding for unit 
+growth in the 6 to 8% range for the third quarter, and yet you're guiding a flat quarter off of a down 15% quarter. I'm 
+trying to understand the dynamics there in terms of how conservative you could be in your outlook for the HDD 
+business. 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: Yeah, that's fair. I think we indicated in our prepared remarks that it 
+is conservative given what we've experienced in the last few months. If it plays out – if the TAM plays out as described 
+by the participants in the market, I think there'll be upsides to the midpoint of where we guided to. So I think, Sukhi, it's 
+more playing it down the middle, reflecting conservatism we've seen in the last few months. 
+
+<Q - Sukhi Nagesh>: Okay, and just a quick follow-up there. On the networking side, obviously we had some of the 
+big participants in that market, vis-à-vis Cisco, kind of being cautious in their outlooks. How are you looking at that 
+segment as we progress to the end of this year? That's all I have. Thank you. 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: Beyond – I think we said earlier – Sehat mentioned flattish, which is 
+reflective of what the participants in the space indicate. I don't think they have yet provided any forecast beyond that, 
+and I think it's remiss of us to do – to go beyond what they're doing, and certainly with our practice of just going out 
+one quarter, we feel more comfortable with that. 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Thank you, Sukhi. Operator, could we have the next 
+question, please? 
+
+Operator 
+
+Your next question comes from the line of James Schneider with Goldman Sachs. Please proceed. 
+
+<Q - James Schneider>: Good afternoon, and thanks for taking my question. Maybe just to return to the hard drive 
+theme for a second, could you talk about and give us any color on what you saw in terms of hard drives, desktops 
+versus notebooks? It seems like there was a pretty big disparity in what many of your peers saw in the June quarter with 
+
+
+respect to desktops versus notebooks. Maybe give us any color on that if you could. 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: Jim, I think what we see is probably reflective of what we've read. 
+There seem to be more desktop – which seems strange to me, but probably the '10 phenomenon. But I don't think it's 
+any – I wouldn't read any trend changes into that, so I don't think we can add any more color beyond 
+
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: Also it's hard to figure out, in some cases, 
+where the chips that we've built goes to the desktop or the mobile. In some cases they're using the same silicon into 
+those two products. The other part is the desktop space, some of these devices also goes into consumers. Well, and 
+some of the 2.5-inch notebooks also goes to consumers as portable backups. So the market's a lot bigger than just the 
+desk PC markets. 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: And I'll just add one last piece, Jim. And that is, you have 
+to remember, given our market size, our share tends to reflect the overall market split between notebook and desktop. 
+So I don't think you can really look for any real color between notebook and desktop builds from our overall numbers. 
+
+Do you have a follow-up? 
+
+<Q - James Schneider>: Yes, please. You'd mentioned that last quarter, backlog coverage entering the quarter was 
+about 90%. Can you talk about what it is this quarter? And then finally, if you can comment on the prospects of a 
+dividend in the future in addition to the buyback you just announced? 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: That was two questions. The backlog, the 
+midpoint of our range is probably in the same percentile. Hasn't moved much from the last period of time, from the last 
+quarter, so that similar percentage. 
+
+As far as a dividend or share buyback, didn't announce anything on dividend today, and I think we reserve – we'd 
+probably reserve opinion on that. I think what we should read into it is the management and the board is very interested 
+in shareholder return. And we'll pursue avenues that give them the best return of that, and I think that's going to be our 
+guiding light going forward. 
+
+<Q - James Schneider>: Great, thanks very much. 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: Thanks, Jim. 
+
+Operator 
+
+Your next question comes from the line of Uche Orji with UBS. Please proceed. 
+
+<Q - Uche Orji>: Can you hear me? 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Yes, Uche. Go ahead. 
+
+<Q - Uche Orji>: All right. So let me understand. You're saying the [inaudible] that's clear now. What did that mean 
+for ASPs for Marvell, that you cleared it? And then, in terms of how you anticipate demand going to back to school and 
+also going to seasonal Q4? Any comments will be helpful just to understand the recovery you mentioned in this space. 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Did you understand the question? 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: Well, he had two questions on ASP trends given the demand. 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Okay. 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: We didn't see any material impact on ASPs. This was more of a 
+inventory situation for us, Uche. As we just announced earlier, our gross margin was still in the 59 to 60% range, so no 
+material change in the readout. As to back-to-school in fourth quarter, I think Glen asked the same question earlier. I 
+think our forecast is conservative. It's probably flattish plus or minus. Some of our customers, as indicated earlier, are 
+
+
+more positive than that. If that plays out, that'll be more positive for us. And I don't think we've got enough insights to 
+talk about Q4 right now. 
+
+<Q - Uche Orji>: Right. And in terms of cell phones, I mean, most of these trends you talked about in your mobile 
+area was in the Wi-Fi area. Any comments as to what's happening on the cellular side, and specifically as you look for 
+China Mobile and your effort in China to start to contribute, any comments on your progress? That would be helpful. 
+Thank you. 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: So there are two questions? 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: Yeah. 
+
+<Q - Uche Orji>: Sorry. 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: So the existing customers are doing well. 
+I guess that's the easy answer, first answer. 
+
+Second answer will be for the PDS VME. I suppose related to the PDS VME 3G for the China Mobile end markets. So 
+that one is actually doing also very well. We have new risk customers in the final stage of the design phase in terms of 
+designing new headsets – handsets, sorry, not headsets, new handsets. So the timing will be probably in the next several 
+
+– two quarters or so, sometime early next year, or at least that's when we'll be starting into productions. That's my best 
+guess at this point. Be a lot of software porting into these handsets at this point. 
+<Q - Uche Orji>: Okay, thanks. 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Thanks, Uche. We'll take our next question, please. 
+
+Operator 
+
+Your next question comes from the line of Harlan Sur with JPMorgan. Please proceed. 
+
+<Q - Harlan Sur>: Hi, good afternoon, and thank you for taking my question. Just one last question on the HDD 
+business in the second quarter. You talked about excess inventories in the value chain, and so Marvell is on a hub-based 
+procurement system, so I'm assuming it was not inventory burn of your parts and that your customers just weren't 
+pulling from the hubs. Is that kind of the way to think about it? 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: Yes, but I wouldn't read too much into that. So that's correct. But I 
+think the entire PC chain had built up inventory ahead of what at the time was anticipated to be a normal second half 
+seasonal period. 
+
+<Q - Harlan Sur>: Right. 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: And so the chain responded responsibly, in our opinion, and 
+tightened things up until more clarity on the end demand plays out. 
+
+<Q - Harlan Sur>: Okay, great. Thank you for the clarification. And then on the new HDD customer that you've 
+started to ramp into, how long does it typically take to get to a normalized run rate for the platforms, for example, that 
+you're ramping out? Is it about two or three quarters to get to full run rate? 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: I'd say it's about – usually there are many 
+programs, many different mechanicals, platforms they call it – the drive guys call it platforms. So we're ramping on one 
+platform, so then, over time there will be – hopefully we'll see more and more platforms. So if you take into account all 
+the multiple platforms it has to go through, I would say around a year – four quarters or so, it will be the typical 
+patterns that we have seen in the past. 
+
+<Q - Harlan Sur>: So four quarters for one platform, but I'm assuming that over – for the foreseeable future you're 
+going to be ramping multiple platforms. 
+
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: I'm sorry. What I meant was for – when 
+you get a few platforms to ramp, it will take us about four quarters. 
+
+<Q - Harlan Sur>: Okay, I got it. All right, thank you. 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Thanks, Harlan. 
+
+Operator 
+
+Your next question comes from the line of Nicholas Aberle with Janney Capital Markets. Please proceed. 
+
+<Q - Nicholas Aberle>: Hey, guys, thanks for taking my questions. On gross margin – I mean, gross margin held up 
+fantastically well during the quarter, despite what most people would think would be a pretty big negative mix shift. 
+Can you just kind of talk about what the levers there were to kind of sustain gross margin? And as mobile wireless 
+becomes a bigger part of your business over the longer term, I mean, do you expect it to stay resilient like that over the 
+longer term? 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: Thanks, Nick. I think there might be an expectation that – well, 
+mobile and wireless has changed substantially over the last six months. It's improved 18% in Q1 and over 50% this 
+quarter, and our margins held up. So I think you can read that as indicative of what the future could hold. I do want to 
+reiterate our long-term gross margin model is 50 to 60%, so I'd encourage people to stay within that range. It's perhaps 
+
+– I think people might perceive one segment being overwhelming versus the other segment, and I think the results over 
+the last six months demonstrate the breadth of Marvell's management to deliver quality margins across all of our 
+product lines. 
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: Also as – I think I responded to this 
+several times in the last maybe several years with respect to margin as – the way I put it in the past was as products – 
+complex products requires a tremendous amount of R&D expenses. And so those products especially, it's reasonable to 
+expect that the industry will have a reasonable return on those investments. So for those kind of complex products, I 
+think we have the kind of expectations of 50 to 60% gross margins, I believe, is just quite reasonable, and it should be 
+expected throughout the industry. So I think that's the – we're consistent, and we hope in the long run it stays the same 
+as well. 
+
+<Q - Nicholas Aberle>: Got you. And then, in terms of – I mean, looking at the mobile wireless business in Q2, you 
+guys provided some color as to the contribution to that growth from ARMADA, comm processors, embedded Wi-Fi. 
+Looking into Q3, you guys guided the whole bucket up 15 to 20%. Any additional color you could provide to kind of 
+tell us maybe which pockets are growing better and contributing more growth? Thanks. 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: I think the same areas – we indicated earlier that a lot of these are 
+new product ramps. So usually these things take two to four quarters to get to maturity. So a lot of the next quarter is 
+follow-through on these new products. There's probably some new products coming out, but they're in the same buckets 
+with similar new customers. 
+
+Operator 
+
+Your next question comes from the line of Craig Ellis with Caris & Company. Please proceed. 
+
+<Q - Craig Ellis>: Yeah, thanks for taking the question. Just wanted to follow up on the mobile and wireless. The 
+performance was quite strong, I think about twice as good in the quarter as you'd expected. Appreciate all the color by 
+product area. Can you just identify where within those products you had the upside versus what you expected going 
+into the quarter? 
+
+
+<A - Clyde R. Hosein, Chief Financial Officer>: Well, I think a couple callers earlier described upside depending on 
+what your views are for the PC and PC-related markets, so that's clearly one area, and we were clear that we're being 
+more conservative about that, so there's one area for upside. 
+
+<Q - Craig Ellis>: I'm sorry, Clyde, I meant within the mobile and wireless segment. I think you had said going into 
+the fiscal second quarter that you expected 25% growth there. You delivered 50, so I was trying to understand which of 
+the product groups gave you that incremental upside. 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: It came from all areas. It came from both the cellular side of it, as 
+well as the Wi-Fi side of it. Both areas came on – these are new products, so it's sometimes hard to – it's often very hard 
+to predict new products, how fast these ramps would happen, and that's why you have over 50% sequential growth 
+versus our initial guidance of over 25. Technically, you're correct, it was over 25. But, Craig, sometimes it's difficult to 
+predict. With new products there's so many things that needs to be tightened up as these products come just before they 
+launch, and so that creates more volatility prediction of it. 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: That's right. So the hard part is for us to 
+predict – when a customer wants to introduce new handset, for example, the customer typically will have to prebuild 
+enough handsets for the launch. So probably because some of – some of it is because of that, I will assume. 
+
+<Q - Craig Ellis>: Okay, those are fair points. And then as the follow-up, Clyde, versus this same time about two years 
+ago, I just sense a lot more confidence in your tone about Marvell's ability to grow despite an uncertain macro 
+backdrop. So is that because of what you're seeing in your hub pulls? Is that because of the enhanced breadth in the 
+product portfolio and the momentum that you have in your new products? Can you just talk about what's giving you the 
+confidence to guide to 4 to 8% growth? 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: There's a third one: I've been here for two years versus 
+
+
+<Q - Craig Ellis>: Fair enough. 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: – two months the same call two years ago. I think it's the breadth of 
+the product line. And we've been describing this – Sehat's been doing this long before I came here – we've been doing 
+this over the last two years. And I think my opinion is people underestimate the strength of the technology and the 
+products that Marvell has. And we keep delivering, again and again. So to me, the confidence comes from the products 
+that we have that this team has been working on – and the management team and employees have done such a great job 
+working hard to bring these products to market. We've said six months ago at the beginning of our fiscal year that we 
+have an inflection point, and we've begun to prove it. So I think it's the breadth of the product line. I mean, [inaudible] 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: Yeah, obviously as Clyde mentioned a lot 
+of people underestimated the strength of our technology. The amount of investment that we have invested, put into – in 
+the last three, four years, our investment in smartphones, our investment in advanced application processors for 
+high-end smartphones, tablets – markets. So a lot of these investments takes times to materialize, product to 
+materialize. Takes times for the revenue to ramp up. 
+
+But regardless, we're a strong believer that the – we as a company, Marvell as a company, will benefit significantly 
+[inaudible] is gating to the face of – devices get into various extremely small geometries where we can put many, many 
+functions on a single piece of device, thus allowing consumers to reap the benefits of the technology they've been 
+investing – the industry have been investing in the last five to 10 years. And he volume will just – the consumer will 
+just be able to get by significant of this – I mean, large volume of those devices, all it takes is – or requires is for 
+companies like us to develop these technologies. 
+
+And we're talking about not just 3G, we're talking about Wi-Fi, we're talking about Bluetooth, we're talking about 
+HDTV, we're talking about 3-D graphics, we're talking about HDMI, multicore processors. So all the different types of 
+interfaces, and all of these things have to be integrated. Power management, [inaudible] we talk about this for several 
+years. And then all the adjacent technology that needs to be there, because the device is not just for mobile devices, the 
+device also needs to go into the living room. And they all want to have similar look and feel, whether it's a living room 
+
+
+or on a mobile device. 
+
+So all these things, actually, is huge opportunity beyond the traditional PC market that we serve historically. So the 
+market – the way I look at it, the market that we're addressing in the future is significantly bigger than the traditional 
+PC market, so this is why we're excited. This is what we invested in, developing those technologies. 
+
+<Q - Craig Ellis>: Very helpful color. Thanks, guys. 
+
+Operator 
+
+Your next question comes from the line of Craig Berger with FBR Capital. Please proceed. 
+
+<Q - Craig Berger>: Hey, guys. Thanks for taking my question; nice job. My first question is on the baseband 
+business, which is your main comm processor customer, recently launched a new product that has been getting 
+mediocre reviews. Without getting into any customer specifics, when can we expect to see a 1-gigahertz processor out 
+from you guys that's competitive with the likes of a Qualcomm? 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: Let me answer this one. Firstly, I 
+understand some people may have – skeptical about the success of our customers. I've seen the products, and I thought 
+the product was really, really excellent. I do believe they'll be very successful with those products. 
+
+Now, with regards to gigahertz, our products, we do have – you feel free to come to Marvell to visit us, and then we'll 
+show you all the gigaprocessors. In fact, if you want to see a 2-gigas processor, we also have a 2-gigas processor in a 
+different class of product line. So we do have that. And I think the important part is not just we have the biggest 
+processor, we also have a – the solution that works well once this processor integrated into a device. 
+
+Many of the devices that people talk about gigahertz, once they – you look at the overall system performance, they 
+behave as if they're running on a – like half of the frequency that you expect from those gigaprocessors. And you will 
+not see this kind of performance from ours. Our processor will shine, and they'll be able to run HDTV and 3-D graphics 
+all simultaneously on the device. You won't be able to see that from – without naming names – from anybody else in 
+the market. Feel free to stop by and to see the demo. 
+
+<Q - Craig Berger>: OK, thank you for that detail, and I look forward to seeing some of that product hit the market. I 
+guess as a follow-up, in mobile, how do you guys have confidence that the strength – I think it's up to 50% over the last 
+couple quarters including guidance – how do we have confidence that that strength isn't going to require an inventory 
+adjustment later or lumpiness with some of your big customers there? And as part of that, if gross margins were 
+towards the lower end of your guidance range this quarter and mobility increases, isn't that going to put pressure on 
+gross margins potentially to dip below that 59% level? Thank you so much. 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: Yeah. I'll take the gross margin question. All guidance this quarter 
+is similar to last quarter. And so in spite of the growth of one segment over another one. And it is consistent, albeit at 
+the high end of our long-term model, and I think, Craig, that speaks for itself. As the mix changes, there is that 
+perception that things will trail off, and hopefully we've pleasantly surprised people in that respect. 
+
+As to your first part of your second question, the – you know, there's no assurance that there'd be inventory. When we 
+entered the market last quarter, I don't think anyone in the entire food chain anticipated inventory. So no one could give 
+you assurances that they won't be. What gives us the confidence, though, is these are new products that are ramping. 
+We believe these programs – they're multiple programs. 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: The key is that they're multiple programs. 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Right. 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: There are multiple programs in there. We, obviously, hopefully 
+have demonstrated our ability to manage through tough situations and still deliver these results. But – so we think – the 
+
+
+assurance we can – whatever assurance that we can give, understanding that there's no absolute assurance that can be 
+given, is that these are multiple programs that have follow-on devices that's going to come through on these, so we 
+aren't dependent on any single device being successful for the broad range of Marvell to be successful. And I think 
+we've demonstrated that successfully two or three quarters in a row. 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Thanks, Craig. Could we have the next caller, please? 
+
+Operator 
+
+Your next question comes from the line of John Pitzer with Credit Suisse. Please proceed. 
+
+<Q - John Pitzer>: Yeah, guys, thanks for taking my questions. I guess, guys, a lot of times when your drive 
+customers go through an inventory correction, they use pricing to try to accelerate kind of the unit cleanup. I'm just 
+kind of curious, can you remind me what happened to your guys' pricing through such an event? And is that something 
+we have to become incrementally more concerned about in the near term or not? 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: No, I think we answered that question earlier, John. There were no 
+material changes in pricing. We do support our customers. They're very happy with the quality, the technology that we 
+deliver, and that speaks for itself. So there aren't any material changes in pricing. We don't anticipate any significant 
+changes. Our gross margin performance has been extremely consistent north of 59%, I believe about a year now in 
+spite of all of these and in spite of the mix that people perception would be. I think the numbers speak for themselves. 
+
+<Q - John Pitzer>: And then, Clyde, as my follow-up, the mix in the July quarter was clearly impacted by the 
+inventory correction on the storage side, but I'm kind of curious given the sustainable growth you're seeing in the 
+wireless and the mobility, is this the right kind of structural mix for us to think about for the company, or do you think 
+there's still growth left in the hard drives and the storage space as that recovers and you bring on new programs? And 
+how do we think about a longer-term mix for the company? 
+
+<A - Clyde R. Hosein, Chief Financial Officer>: I think – at the beginning of the year we provide input and our 
+estimates on that to you, and we still believe that's true, albeit two quarters in since then, there's been correction. I think 
+the PC market will improve. I think near-term issues aside, we are still optimistic about that. 
+
+But I think the Marvell story has always been about new product introduction, new technologies, and the breadth of it, 
+as Sehat described [inaudible] earlier. So, I've said this to a number of investors repeatedly: We're not subject to any 
+single segment. We're not subject to any single product. I think we've demonstrated the business model we have today 
+can withstand a lot. There's no guarantees in the future, but this is a big company with a broad breadth of product, 
+excellent products, excellent engineering team, that is going to continue to deliver. And I expect that to change – not to 
+change in the future. 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: Yeah, and another part that I guess 
+people need to be – another part people need to be aware is the broad industry is not just serving the PC market. My 
+guess is at this point, the drive industries, about two-thirds of the drive industry – maybe less than two-thirds – is 
+addressing the PC and the rest for other things, other than PCs, consumer devices. And you cannot say the same thing 
+about 10 years ago. 
+
+So as we progress this, we do expect to see more and more application for hard drives outside the PC markets. So the – 
+we had the same questions 10 years ago – five, 10 years ago – on how big the drive industry could grow, and what 
+always surprised us is that they always have new applications for hard drives. And the hard drives, OK, being able to 
+build higher and higher capacities for the same price seems endless, so there's still a lot of room to grow in this space, 
+at least in the next several years. 
+
+<Q - John Pitzer>: Great, guys. Very helpful, thank you. 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Thanks, John. Operator, we'll take one last call today, 
+please. 
+
+
+Operator 
+
+Your next question comes from the line of Sanjay Devgan with Morgan Stanley. Please proceed. 
+
+<Q - Sanjay Devgan>: Hey, guys, thanks for squeezing me in. Hey, just wanted to touch on your new products. You 
+noted that that was up 60% quarter on quarter. It's now about a – or it was about a quarter of your revenue. Could you 
+kind of talk through – obviously, a big portion of that likely came from the mobile and wireless, but outside of mobile 
+and wireless, can you give us a sense of kind of the networking opportunities, how that kind of fared in terms of new 
+product developments? And then beyond networking, can you give us a sense of new products that may have come out 
+that don't fit into one of your three major buckets, i.e., storage, mobile and wireless, or networking. 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: That's a complicated – I'll give you a 
+flavor of the networking. Normally it will take a while to explain this. One of the opportunities networking is as more 
+and more of these devices that we – mobile devices or these – as more people wants to deliver video on demand to the 
+homes, there will be an increased demand of switching networking equipments in the data centers in the cloud. So more 
+and more of those devices would need to have 10 gigabits or 40 gigabits of throughput per port. So the chips they 
+would need to build becomes more multiplex. 
+
+For example, sometime last year we introduced a 48-port 10-gigabit switch. So basically it has 48 ports of 10 gigabits 
+on a single-switch device, and these devices usually can be cascaded to make an even bigger system. So there's a lot of 
+
+– the good thing is the customers are demanding more complex products, on one hand. On the other hand, there are 
+fewer and fewer suppliers that can do this. We are one of the – one of the less than a handful of companies in the world, 
+maybe one of the two companies in the world that could build this. So this is the – the nature of this business is very 
+quite interesting. And a little bit hard to explain. 
+<A - Jeff Palmer, Vice President of Investor Relations>: And I'll just add to that. Sanjay, as you know, the definition 
+of new products are products we've introduced over the last 12 months that are in volume production. In the networking 
+space, the design to revenue cycle can be anywhere from 18 to 24 months at a minimum. So while design win activity 
+is very, very strong, with the products like Sehat's talking about, the Prestera switches, those products have not gone 
+into volume production on certain programs. As they go to volume production, they get included into new product 
+revenue and that metric. 
+
+Do you have a quick follow up? 
+
+<Q - Sanjay Devgan>: Great. No, that's all I had. Thanks so much, guys. 
+
+Jeff Palmer, Vice President of Investor Relations 
+
+Great. Thanks, Sanjay. And I'd like to thank everyone for their time today and their continued interest in Marvell. As a 
+reminder we'll be attending several investor conferences over the next couple weeks. On September 8, we will be 
+attending the Citi Technology Conference in New York City. On September 14, we'll be attending the Deutsche Bank 
+Technology Conference in San Francisco. 
+
+We thank you for your interest in Marvell and look forward to speaking with you at these upcoming conferences in the 
+coming months. Thank you very much. Have a good day, everybody. 
+
+Operator 
+
+Thank you for your participation in today's conference. This concludes the presentation. You may now disconnect your 
+lines. Good day. 
+
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2010, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

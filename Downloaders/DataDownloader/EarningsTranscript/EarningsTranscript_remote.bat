@@ -1,1 +1,1 @@
-scrapy crawl EarningsTranscript -s MONGO_URI=mongodb://192.168.137.62:27017 -s MONGO_DATABASE=insider
+scrapy crawl EarningsTranscript -s MONGO_URI=mongodb://192.168.137.62:27017 -s MONGO_DATABASE=insider -s MONGO_COLLECTION=earnings_call -s MODE=SINGLE -s TICKER=TGT

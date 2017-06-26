@@ -1,0 +1,741 @@
+Q3 2009 Earnings Call 
+
+
+Company Participants 
+
+• Michael W. Hara, Vice President, Investor Relations and Communications 
+• Jen-Hsun Huang, Co-founder, President and Chief Executive Officer 
+• Marvin D. Burkett, Chief Financial Officer 
+• <A – Jen-Hsun Huang>: I would think that with -- I'm hoping that we grow next year and I think we have a good 
+shot at growing next year. But considering there are so many people who are backing out of orders and reducing 
+inventory and slowing wafer starts and things like that, I would think that getting capacity would be of lesser concern 
+than before. And 40 nanometers is a solid node but so is 55 nanometer and we will use as much of both as we can. And 
+so we will continue to work with TSMC and they're a wonderful partner and we both obviously want to make sure that 
+whatever opportunities are there in the marketplace for us that we're both thoughtful about going after it. So I think 
+we're both on the same side of the table. 
+• <A – Jen-Hsun Huang>: Tim, I have to admit, I didn't completely understand your English, the first part of it. I'm 
+sorry about that. The second question I think I do know the answer to. We have completely transitioned out of that 
+material set. All of our OEMs are perfectly comfortable with the new material set and we're seeing no impediments and 
+issues anywhere as a result of that. If anything at all, our OEMs are pleased that we stand behind our products and that 
+we're working with them to overcome the issue for both of us. 
+• <A – Marvin Burkett>: What was the first question? 
+• <Q – Tim Luke>: So you think that the 196 million is going to cover it for sure? 
+• <A – Jen-Hsun Huang>: Well, we don't know until we are done but our – nothing that we have seen so far would 
+suggest that we should change it at this time. What was the first question? 
+• <Q – Tim Luke>: The first question was in terms of the major offering initiative, you go from 65 to 55 then down to 
+40. You have in terms of new products, a new architecture I believe that's likely to come out in the middle of calendar 
+'09. Do you have any updates there in terms of A, the timeline; and two, what some of the milestones may be for that 
+offering? 
+Other Participants 
+
+• Glen Yeung 
+• Jim Schneider 
+• Mark Lipacis 
+• Krishna Shankar 
+• Brian Piccioni 
+• Uche Orji 
+• Shawn Webster 
+• David Wu 
+• Doug Freedman 
+• Hans Mosesmann 
+• Tim Luke 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+
+Good afternoon. Thank you for holding. I would now like to turn the call over to Michael Hara, Vice President, 
+Investor Relations. Thank you sir. You may begin. 
+
+Michael W. Hara, Vice President, Investor Relations and Communications 
+
+Thank you Tim. Good afternoon and welcome to nVIDIA's Conference Call for the Third Quarter ended October 26, 
+2008. Today's call is being recorded. If you have any objections, please disconnect at this time. 
+
+On the call today for nVIDIA are Jen-Hsun Huang, nVIDIA's President and Chief Executive Officer; and Marv 
+Burkett, nVIDIA's Chief Financial Officer. Before we begin, I would like to remind you that you can find copies of our 
+SEC filings, our earnings release and a replay of this webcast on the investor relations page of our website at 
+www.nvidia.com. The webcast will be available for replay until our conference call to discuss our financial results for 
+the fourth quarter of fiscal 2009. 
+
+Also, shareholders can listen to a live webcast of today's call via the investor relations page of our website. During this 
+call we will discuss some non-GAAP financial measures about diluted net income per share, tax rate and gross margin 
+when talking about our results. You can find a reconciliation of these non-GAAP financial measures to GAAP financial 
+measures in our financial release which is posted on our website. 
+
+Unless otherwise noted, all references to research market and market share numbers throughout the call come from 
+Mercury Research or John Petty Research. The content of today's conference call is nVIDIA's property and cannot be 
+reproduced or transcribed without our prior written consent. 
+
+During the course of this conference call, we may make forward-looking statements based on current expectations. 
+These forward-looking statements are subject to a number of significant risks and uncertainties including statements 
+about our financial outlook and projections, importance of and uses for the GPU and CUDA; the impact, performance 
+and availability of and demand for our products and technologies, our competitive position and our growth and 
+strategies. 
+
+Our actual results may differ materially from results discussed in any forward-looking statements. For a complete 
+discussion of factors that could affect our future financial results and business, please refer to Form 10-Q for the fiscal 
+period ended July 27, 2008 and the reports on Form 8-K filed with the Securities and Exchange Commission. All 
+forward-looking statements are made as of the date hereof based on information available to us today and as except 
+required by law, we assume no obligation to update any such statements. The content of the webcast contains 
+time-sensitive information that is accurate only as of November 6, 2008. 
+
+Consistent with the requirements under Regulation FD, we will provide you public guidance directly in the conference 
+call and will be unable to provide significantly more information in offline conversations or during the quarter. 
+
+Therefore questions around our financial expectations should be asked during this call. At the end of our prepared 
+remarks there will be time for your questions. In order to allow more people to ask questions, please limit yourself to 
+one question. After our response, we will allow one follow-up question. With that I will hand the call over to Jen-Hsun. 
+
+Jen-Hsun Huang, Co-founder, President and Chief Executive Officer 
+
+Thanks Mike. Good afternoon and thank you for joining us. We reported revenue of 898 million and GAAP diluted 
+earnings per share of $0.11 in line with our expectations. Non-GAAP diluted EPS was $0.20. 
+
+During the quarter we accomplished several important objectives that position us to return to growth. We improved our 
+financial performance by increasing our non-GAAP gross margins from 39.1% to 41.9% while managing our operating 
+expenses tightly. We transitioned our performance segment GPUs to 55 nanometer and now have the fastest products at 
+each price point, positioning us to recapture share. 
+
+
+Together with Apple, nVIDIA launched a new GeForce 9400M motherboard GPU for its new lineup of Mac 
+Notebooks. The GeForce 9400M is the industry's first processor to integrate three complex chips, the Northbridge, the 
+IO and network processor, and a GeForce GPU into a single chip and it delivers up to five times performance 
+improvement over Intel integrated graphics in one half the space. 
+
+The MacBook and MacBook Air come standard with the 9400M. The MacBook Pro comes standard with a hybrid 
+combination of two GeForce GPUs where the 9400M is used for maximum battery life and a GeForce 9600M GT for 
+high-performance mode. 
+
+We announced the nVIDIA Quadro CX, the industry's first accelerator for Adobe's Creative Suite 4 content creation 
+software. nVIDIA specifically designed and optimized the Quadro CX to enhance the performance of the CS4 product 
+line and give creative professionals the ultimate in performance and productivity. 
+
+CUDA continues to gain momentum all over the world. There are now well over 750 research papers published on how 
+GPU computing with CUDA can dramatically accelerate computing intensive algorithms such as n-body simulations 
+for molecular dynamics and astrophysics, linear algebra, CT image reconstruction, image and video processing such as 
+image recognition and search, string processing for gene sequencing and string search and so on. 
+
+CUDA has received PC Magazine's Technical Excellence Award. There are now over 50 universities around the world 
+teaching CUDA in their computer science curriculum. And we have now shipped over 100 million GPUs with CUDA. 
+At this year's Siggraph NVIDIA set a new milestone in computer graphics by demonstrating the world's first real-time 
+fully interactive ray tracer. Our interactive ray tracing solution adds a new capability to our Quadro visual computing 
+solutions and will enable customers like the auto industry to preview car designs and demonstrate new cars to 
+customers. 
+
+Visual computing took center stage during the presidential election television coverage. Every dynamic graphic was 
+rendered live on NVIDIA Quadro. The underlying applications from our close ISV partners, Vizrt, Brainstorm and 
+Reality Check used NVIDIA technologies including CgFX for shader effects and NVIDIA Scene Graph to deliver what 
+broadcast experts are calling one of the most successful election broadcasts in history. 
+
+Perceptive Pixel's interactive touch displays were even the highlight of a skit on Saturday Night Live. CNN pushed the 
+boundary even further with holographic projections of its newscasters from remote locations. Leveraging 
+camera-tracking technology used in sports and film, they composited NVIDIA real-time rendered virtual sets with live 
+video to enable effects never seen before. 
+
+All of these effects and experiences were made possible by Quadro. Visual computing is revolutionizing many aspects 
+of our lives from broadcasting to the PC to mobile devices and to the Internet. NVIDIA is at the center of this 
+revolution. I will return later to highlight a number of our key initiatives later in the call. 
+
+Let me now turn the call over to Marv to discuss our financial results. 
+
+Marvin D. Burkett, Chief Financial Officer 
+
+Thanks Jen-Hsun. My comments today will cover the third fiscal quarter of fiscal year '09 that ended October 26 
+including comments on both GAAP and non-GAAP results. A full reconciliation between GAAP and non-GAAP is 
+included in our press release and on our website. 
+
+As Jen-Hsun stated earlier revenue for the quarter was 898 million up $5 million or less than 1% from the second 
+quarter. With all the turbulence in the financial markets in Q3, we might have expected our business to be even more 
+impacted. That is not to say that our business wasn't impacted, it's merely to say that our markets showed some 
+resiliency in the face of disruptions in the financial markets. Revenue in our GPU business, which includes desktop, 
+notebook and memory was down 8% quarter to quarter or $42 million. Desktop was down 12% and notebook was 
+down 4%. Within desktop, the softness was unit related as ASPs actually increased slightly from the second quarter. 
+
+
+As we transitioned our performance segment GPUs to 55 nanometer, we re-established performance leadership which 
+helped ASPs. Within notebook it was the reverse as units increased but there was a slight decrease in ASPs. 
+
+ASPs for the Montevina refresh are lower in general but gross margin is still good. GPU gross margin improved in the 
+quarter from the low levels in Q2. MCP showed strong growth of nearly 19% quarter-to-quarter or $31 million as we 
+ramped volume production of MCP79, which is the GeForce 9300 and 9400 series. Total MCP79 revenue was more 
+than $75 million in the quarter. 
+
+Professional solutions including our workstation business grew by 11% or $20 million quarter to quarter. The consumer 
+business was relatively flat quarter-to-quarter and had growth in the Sony royalties offset by a decline in the mobile 
+business. For gross margin we improved our GAAP gross margin to 41% and our non-GAAP to 41.9%. The difference 
+between GAAP and non-GAAP is stock based compensation of 3.6 million and 4.5 million for our royalty dispute. 
+
+Operating expenses in the quarter were 311 million, which includes 8.3 million of restructuring cost. We're pleased 
+with our progress in restraining our OpEx. Headcount at the end of the quarter was 5,293, which is down by 260 from 
+the end of the second quarter. Depreciation was 49.3 million up 3 million from Q2 and capital expenditures were 109 
+million. That includes the transmittal license. 
+
+Within the interest and other income, there were three discrete items that caused an impairment charge totaling 8.8 
+million. On the tax rate the renewal of the R&D tax credit resulted in a tax benefit for the quarter of $745,000 and a 
+year-to-date tax rate of 7.7%. The result of all of this is that GAAP diluted earnings per share was $0.11 for the quarter 
+and non-GAAP diluted earnings per share was $0.20. On the balance sheet cash and equivalents and marketable 
+securities were 1.3 billion, which is down by $352 million from the second quarter. 
+
+We repurchased $300 million worth of stock during the quarter. The operating cash flow was a positive 43 million for 
+the quarter. Accounts Receivable were 608 million, which is down 72 million from the second quarter and DSO was 62 
+days also an improvement from the second quarter. Inventory grew by 92 million quarter-to-quarter and the DSI grew 
+to 90 days. The growth in inventory was primarily in new GPU products and in MCP79 as we ramped volume. We 
+believe the channel inventory decreased slightly from Q2. 
+
+And 90 days of DSI is about as high as we would want and we will work to bring down the inventory levels in Q4. 
+Accounts payable and accrued liabilities declined by 131 million during the quarter. On the outlook, given the 
+economic uncertainty it is probably unrealistic to give any outlook at all and certainly a precise one. So I would caveat 
+our outlook that there can be a wide range on the outcome. I also believe it is unrealistic to expect any sort of robust 
+Christmas spending on the part of the consumer. 
+
+Therefore we believe our revenue will be down for the fourth quarter and appoint an estimate with a wide range of 
+approximately 5%. The revenue line is the most difficult to forecast. We believe gross margin will be relatively flat and 
+operating expenses will also be relatively flat. This means that gross margin in the range of 41% and operating 
+expenses of approximately 310 million. Other income should improve over Q3 and the tax rate for the fourth quarter 
+should be approximately 13%. With that I will turn it back over Jen-Hsun. 
+
+Jen-Hsun Huang, Co-founder, President and Chief Executive Officer 
+
+We are driving several initiatives to strengthen our competitive position while expanding into new segments and 
+markets. First we captured lost share in the performance segment. We have superior performance and market changing 
+differentiators like CUDA. With our efforts this quarter we're now properly cost positioned as well. 
+
+Second, increase our exposure to the notebook market by using our new motherboard GPU to bring five times better 
+graphics performance to Intel notebook platforms, the fastest-growing segment of the PC market. 
+
+Third, with the announcement of Adobe's Creative Suite 4 and our Quadro CX accelerator for CS4, we have expanded 
+our market footprint beyond gamers and industrial designers to include the creative generation. Gamers want 
+performance and with the GeForce GTX 280 and 260 and the recently announced three-way SLI, GeForce delivers the 
+
+
+best performance at each price point. And gamers buy new GPUs to play the latest games. The top games this fall are 
+Crysis Warhead, Far Cry 2, Call of Duty, World at War, Fallout 3, and Dead Space. Gamers will experience up to 30% 
+faster frame rates with GeForce GTX GPUs. Enthusiasts want the fastest machines. This fall that machine is built on 
+Intel's new Core i7 Bloomfield CPU and our new three-way SLI technology. 
+
+And for the first time, SLI is available on SLI licensed Intel X58 motherboards as well as nForce. Reviewers all over 
+the world have concluded that a three-way SLI configuration with GeForce GTX 280 is unambiguously the fastest. Fast 
+3D graphics is important but the market wants and needs more than just more of the same, more than just graphics. We 
+believe the industry must deliver new and surprising capabilities that delight and awe the world again. To do so 
+requires revolutionary technology. With NVIDIA's CUDA parallel computing architecture inside every new GeForce, 
+we believe we can. 
+
+There are amazing software algorithms for applications like computer vision, image recognition, physical world 
+simulations that are possible but only if computers have 100 times faster. With CUDA, those capabilities are possible 
+today. In this new GPU era, the GPU does more than just graphics. Whereas the competition has just graphics, GeForce 
+with CUDA gives you Graphics Plus. Graphics Plus means that your GeForce has lightning fast graphics and because 
+of CUDA, you get much more, you get physics processing on the GPU. Our PhysX physics engine enables games to do 
+realistic simulations of physical properties in a world 20 times faster than the CPU alone like dust blowing in the wind, 
+water running in a stream and natural looking cloth. 
+
+The PhysX engine has been adopted by game studios all over the world. It's incorporated into the number one game 
+engine in the world, Epic's Unreal Engine. PhysX is free to developers and is the only physics engine that is accelerated 
+by the 100 million GeForces in the world. A pipeline of developers in games supporting PhysX will be announced in 
+the near future. 
+
+With Graphics Plus you get image and video processing. There is a ground swell of new applications enabled by 
+CUDA from digital photography to the excruciating process of converting movies for your iPod. Users are performing 
+more processing intensive tasks than ever. 
+
+Elemental Technologies announced BadaBOOM transcoder. Pegasus, Nero, CoreCodec have announced plans or 
+demonstrated CUDA acceleration in their video processing players. RSoft, CyberLink and Corel have announced 
+applications that utilize the massively parallel array of CUDA processors in our GPUs to do sophisticated 
+computational super resolution algorithms to magically enhance DVDs to 10 ADP HD resolution. The result is simply 
+awesome and frankly surprising. 
+
+And finally, this quarter we will announce a groundbreaking product that is starting to create buzz throughout the 
+industry – Stereoscopic 3D glasses for GeForce. This is a product we have been working on for over three years. 
+
+We're going to bring the 3-D experience that is sweeping the movie industry to PCs. We will reserve the exciting 
+details for launch but we previewed this at NVISION and the enthusiast press was entranced. Bidtech wrote that 'I have 
+to say, the effect is amazing. I seriously did not want to stop playing.' GotGame said that 'what they were seeing was 
+pure, undiluted awesome'. 
+
+Software developers are thrilled too. Mark Rein the CEO of Epic Games stated that the Age of Empire's Stereoscopic 
+3D demo they showed in the NVISION keynote looked absolutely amazing. Stereoscopic 3D is a great example of how 
+consumers continue to demand more of graphics hardware. 
+
+With our Graphics Plus initiative, we are moving the industry forward and bringing new and exciting innovations to 
+delight the world again in a way that just graphics simply can't. The fastest-growing segment in the PC market today is 
+notebooks. Notebooks are now 55% of all PCs shipped, 140 million units this year and growing at 25%. 
+
+Although visual computing is also important for notebook users, the tight space and power constraints have caused the 
+adoptions of GPU in notebooks to lag desktop PCs. We are addressing this by creating evermore power efficient GPUs 
+and by integrating all of the chipset functionalities into the GPU that conserve space. 
+
+
+A couple of weeks ago, Apple was the first company to announce our new GeForce 9400M design for Intel processors 
+and which integrated three chips into one for amazing space savings. It performs five times faster than current 
+integrated graphics. Apple was the first company to announce and today Toshiba announced new notebooks based on 
+the 9400M. Toshiba announced a gaming notebook that has three NVIDIA GPUs inside of them, the 9400M and two 
+9800 GTEs in SLI. 
+
+There is a pipeline of design wins and new design win momentum for the 9400M is extremely strong. With the 9400M 
+and others on our roadmap, we now have exposure to the growing notebook market like we have never had before. 
+Another brand-new market for us is the creative professionals and consumers. 
+
+These are professionals who use Adobe's award-winning tools to create digital content such as movies, commercials, 
+ads, games and websites or consumers making home movies – digital photo albums, or the millions of movies that are 
+being shared on YouTube. 
+
+As the resolution of images and movies increase, and as the image processing effects become evermore sophisticated, 
+the editing experience is painful even with the fastest quad core CPUs. That's why Adobe and NVIDIA engineers 
+worked so closely for the past several years to GPU accelerate all of the CS4 applications. 
+
+The result is amazing. John Loiacano, Senior Vice President of Creative Solutions at Adobe said that a critical element 
+of CS4 was to capture the enormous power of the GPU. The difference is astounding. Performance is important to 
+creative professionals and with the NVIDIA GPU they are sure to be able to interact with images and videos in a much 
+faster, smoother more engaging way. 
+
+The creative generation is a significant expansion of our TAM. Adobe estimates the addressable market to be 6 million 
+creative professionals and over 38 million creative nonprofessionals. To put these numbers in context, the total Quadro 
+professional industrial design TAM today is only 4 million units. 
+
+So another 44 million potential new users represents a very significant addition. We still have much work to do to be 
+where we would like to be. But we made great strides this quarter. We transitioned to 55 nanometer and have a great 
+lineup with Graphics Plus. 
+
+With our single chip notebook GPU, we have a market changing offering for notebooks, the fastest-growing segment of 
+the PC market. And with Adobe and Quadro CX, we have expanded our TAM by over 40 million people, 40 million 
+new visual computing users. 
+
+We're happy to take your questions now. 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions] our first question comes from the line of Glen Yeung with Citigroup. Please proceed. 
+
+<Q - Glen Yeung>: Thanks. I guess my first question is around your gross margin outlook; Marv, maybe a question 
+for you. We've been hearing a lot about 55-nanometer and a lot of discussion about what the yields look like. I wonder 
+if you can address that issue and also talk about what your ASP assumptions are in the gross margin outlook? 
+
+<A - Marvin Burkett>: Well we're doing just fine with 55-nanometer. The yields are just fine. The assumption with 
+regard to ASP is that I think it's exactly like we told you last quarter. We don't see major changes in ASPs in any 
+particular segment going forward. The issue is what is the volume of each of those segments. And now I said with 
+regard to the outlook – probably a lot of variability in those segments. I think that Jen-Hsun would tell you that we are 
+focused on regaining some market share in what I would call the performance and high-end portion of the desktop GPU 
+market that would enhance ASPs. So I guess that I feel comfortable with our outlook on ASPs. 
+
+
+<Q - Glen Yeung>: Okay. Maybe as a follow-up also for you Marv, as you look out over the next four quarters or so, 
+pick a timeframe, what is the potential for NVIDIA to do incremental cost cutting versus what you've already 
+announced and beyond what's just the potential, what's the intention? 
+
+<A - Marvin Burkett>: The intention is to hold the line on operating expenses and grow revenue. We're totally 
+focused on our opportunities to grow revenue. We have some significant opportunities and we don't want to jeopardize 
+those by doing something foolish in cutting operating expenses. I'm happy with the job we have done so far, but I'm not 
+focused on further cuts in operating expenses. I'm focused on revenue growth. 
+
+<Q - Glen Yeung>: Okay. Thanks. 
+
+Operator 
+
+Our next question comes from the line of James Schneider [Goldman Sachs]. Please proceed. 
+
+<Q - Jim Schneider>: Good afternoon and thanks for taking my question. Maybe just as a follow-up to the gross 
+margin question, could you talk about your progress in the 55-nanometer ramp? When do you feel you will be at fully 
+on production of 55-nanometer and how much 65-nanometer inventory do you have remaining? 
+
+<A - Jen-Hsun Huang>: We have 65-nanometer inventory remaining but everything we are ramping now is 55 and 
+everything on the high-end that we're shipping now is 55. 
+
+<Q - Jim Schneider>: Okay. Fair enough. And I guess as a follow-up, in terms of the market data we've seen over the 
+last few quarters, notwithstanding the macro weakness affecting desktop GPU demand, there seems to be a pretty 
+precipitous share shift between desktops and notebooks. Can you address your outlook over the next several quarters 
+whether you think that there is some kind of break point where the rate of desktop share continues or doesn't decline as 
+much going forward? 
+
+<A - Jen-Hsun Huang>: The desktop – what the market shows is the desktop units are relatively flat and that the 
+growth is coming from notebooks. It's not so much that the total units are flat and there is a shifting of units from 
+desktop to notebooks. And so desktop units are relatively flattish and notebook growth is clearly much more 
+significant. And our focus on the desktop is continuing to bring exciting new products and ideas to the marketplace that 
+causes people to want to come back and buy new PCs. We have to recapture our share. We lost some market share 
+recently and as we were transitioning. But those things are all behind us now and we are focused on going after the 
+share that we lost. 
+
+In terms of the notebook market, we recently introduced the 9400M. This is the chip that was in the MacBook and the 
+MacBook Air and also the MacBook Pro. And this particular chip is really amazing. It integrates three chips into one, a 
+lot less real estate on the motherboard; much, much lower power. And as a result – and it's also our first Intel processor 
+notebook GPU, the first one we have ever built for a motherboard GPU. And so this is a very new market for us that 
+we're growing into. You already saw the initial success that we've announced and there are many more that we would 
+like to announce in the near future. But this is a very important growth opportunity for us. And so for the first time, we 
+have exposure to the vast majority of the fastest-growing segment in the PC industry. 
+
+<Q - Jim Schneider>: Thank you. 
+
+Operator 
+
+Our next question comes from the line of Mark Lipacis with Morgan Stanley. Please proceed. 
+
+<Q - Mark Lipacis>: Thanks for taking my question. First question perhaps for Marv. Can you give us a sense of a 
+more normalized gross margin and operating margin target that you guys have and if you care to take a stab at when 
+you might be able to reach that? 
+
+
+<A - Marvin Burkett>: No, I won't take a stab as to when we might be able to reach it. I don't see anything long-term 
+that is an impediment for us getting back to where we were before in the mid to higher 40% range. And obviously we 
+are focused on that. In Q2 we took a step backwards. Now we have to recover. Part of that recovery is going to be 
+regaining market share in the performance and enthusiast segments. Part of that recovery is going to be transitioning to 
+55 nanometer and beyond. So we are focused on gross margin improvement but I don't have a timetable for when we 
+get back. 
+
+<Q - Mark Lipacis>: Fair enough. Second question – you're successfully transitioning to 55 nanometers now. When 
+would be a reasonable time to expect to see 40 nanometer products hit the market? Thank you. 
+
+<A - Jen-Hsun Huang>: We haven't announced any 40 nanometer products yet. 
+
+Operator 
+
+Our next question comes from the line of Krishna Shankar with JMP Securities. Please proceed with your question. 
+
+<Q - Krishna Shankar>: Yes, Marv, can you give us the revenue mix in the quarter between desktop, notebook and 
+CPs and professional solutions just as approximate percentages? 
+
+<A - Marvin Burkett>: Wow. I think I did that because we said that the total GPU business was down quarter to 
+quarter and the MCP business was up. So, if you'll take your base line that you had last quarter in that data and put 
+those growth rates or decline rates on them, you'll come to the breakout of the revenue for the quarter. I don't have the 
+percentage of the revenue within those that totals up to 100%. 
+
+<Q - Krishna Shankar>: Okay. And then your guidance for the January quarter, are you saying basically flattish to 
+plus or minus 5% for revenue? 
+
+<A - Marvin Burkett>: No, I think I said the point estimate was a decline of 5%. 
+
+<Q - Krishna Shankar>: Okay, all right. And then just a final question on the performance and enthusiast graphics, 
+with the new product line on 55 nanometer, do you feel that you can continue to gain market share here in the January 
+quarter and what is the outlook for that segment of the market given consumer spending patterns? 
+
+<A - Jen-Hsun Huang>: We absolutely will regain market share and we have – this is a segment where technology 
+matters, performance matters, architecture matters and we have the best lineup. Our challenge was never architectural 
+leadership. Our challenge was that we were caught flat footed at 65 and our chip and board solution was just too 
+expensive. And so we have made that transition in Q2 and we are in Q3 and we are through that transition and we are 
+off and running. 
+
+With respect to the robustness of the segment, historically this segment has responded to new games. Gamers buy 
+graphics cards to play new games and this Christmas we're going to have five very, very exciting new games coming 
+out. And if you were fortunate to have a GeForce GTX, your experience would be the best. And that is our focus now is 
+to ship all these GeForce's and get back to taking back share. 
+
+<Q - Krishna Shankar>: Great, thank you. 
+
+<A - Jen-Hsun Huang>: Yeah. 
+
+Operator 
+
+Our next question comes from the line of Brian Piccioni with BMO Capital Markets. Please proceed. 
+
+<Q - Brian Piccioni>: Thank you for taking my call, my question. I noticed that your days receivable seems to be 
+contracting and of course one of the concerns that many people have in this environment is bad debt expense from 
+customers being unable to pay. We have had some – we have seen some smaller companies reporting similar type 
+
+
+experiences. Are you making an effort to tighten your exposure to customers or is it basically business as usual? 
+
+<A - Marvin Burkett>: We've always watched our receivables very, very closely – been very diligent about credit 
+terms and payments. So, I would say it's business as usual. We're not doing anything any differently. Our receivables 
+even in this environment are in very good shape, very current, no overdue receivables. 
+
+<Q - Brian Piccioni>: I see and you mentioned a fairly sizable impairment to your interest and other income. Would 
+that be related to your portfolio management efforts or were these just other sort of charges that jumped out of 
+nowhere? 
+
+<A - Marvin Burkett>: No, I mean it's a little bit of everything. There was some impairment on some investments that 
+we made. There was some impairment on some of our cash investments and there were some realized losses. But each 
+of them individually was not significant. 
+
+<Q - Brian Piccioni>: And just as a final comment I guess, more or less to be viewed as hopefully nonrecurring. 
+
+<A - Marvin Burkett>: I certainly hope so, Brian. 
+
+<Q - Brian Piccioni>: Okay. Thank you. 
+
+Operator 
+
+Our next question comes from line of Uche Orji with UBS Investment Bank. Please go ahead. 
+
+<Q - Uche Orji>: Thank you very much. Marv, let me just go back to the subject of the guidance. I know you said the 
+midpoint is down five. Just considering the way most people are – companies are guiding recently, can you give us 
+some color as to what could drive the range? I know you're not disclosing what that range is but give us some color as 
+to what could drive the range because it's really tough to understand how because with minus five midpoint, that's 
+coming out much better than most of companies within the industry or anywhere within the tech sector is guiding. So, 
+can you just give us a little bit of color as to how to handicap that range please? 
+
+<A - Marvin Burkett>: Okay. You have got to understand that there's some businesses that are less impacted by the 
+volatility out there today. Our workstation business is very solid. And obviously have had a very good quarter last 
+quarter. And so, I view that as solid going forward. I would expect another solid area to be our MCP business with the 
+products that Jen-Hsun talked about the 9300 9400M products. Those would do well and could even indicate some sort 
+of revenue growth. The big swing factor in all of this is what happens to desktop revenue. And as Jen-Hsun says, we're 
+focused on regaining some market share in that area. But my caution tells me that it could be a weak market in the 
+fourth quarter. So, those are sort of the factors driving that outlook. 
+
+<Q - Uche Orji>: That's helpful. Let me just ask you another question. Was there any impact from licensing SLI for 
+the X58 motherboard within this quarter? 
+
+<A - Marvin Burkett>: There was no revenue impact. 
+
+<Q - Uche Orji>: Okay. And then just another question. This is for Jen-Hsun. With the three GPU notebook 
+announced today by Toshiba, how much more of this type of notebook should we expect to see? Is there any pipeline 
+for such coming Jen-Hsun please? 
+
+<Q - Jen-Hsun Huang>: We probably shouldn't announce our customer's products on their behalf. But the basic 
+technology is combining SLI and hybrid GPU into one system. So in one mode the 9400M is a chipset, is an SLI 
+chipset and it communicates with the external dual GeForce 9800 GT GPUs. And in another mode, the 9400M is a 
+graphics chip so that the two 9800 GTs could be shut off and conserve battery power. And so this is a way, this 
+technique is a way to both get very, very high performance for gamers while conserving – considering that battery life 
+whenever they're not playing games. So it's a really fabulous technique for delivering that discontinuity, if you will. So 
+this is a technique I think other people may decide to adopt. 
+
+
+<Q - Uche Orji>: All right. And then one last question, Marv. Your inventory exiting next quarter if you do hit the 
+minus five-midpoint guidance, how should we think about inventory given the jump we have seen in the current quarter 
+to 91 days? Why should we be – is there a target for where we should model inventory for next quarter? 
+
+<A - Marvin Burkett>: I don't know about the end of next quarter. If we achieve that target, we would see inventory 
+coming down probably. So, we still have the same target of inventory in the 60 to 75 days of DSI. That is still our 
+target. 
+
+<Q - Uche Orji>: Okay. Well. Good. Thank you. 
+
+Operator 
+
+Our next question comes from the line of Shawn Webster with JPMorgan Securities. Please proceeds. 
+<Q - Shawn Webster>: Yeah, thank you. Hi guys. I would like to I guess poke around on gross margins a little bit 
+
+
+more. What percentage of your mix in Q3 was 55 nanometer GPUs? You mentioned the high end you were moving 
+over aggressively. I'm just trying to get a quantitative sense as to the mix now and for Q4. 
+<A - Jen-Hsun Huang>: Wow. Most of our high-end was 65 nanometer in Q3. 
+<A - Marvin Burkett>: I would say across the board, most of our volume was 65 nanometer. You're talking about 
+
+
+what we shipped? 
+<Q - Shawn Webster>: That's right. 
+<A - Jen-Hsun Huang>: Yeah, What we shipped was 65. What was built was all 55 and what we're shipping now is 
+
+
+mostly 55. 
+
+
+<Q - Shawn Webster>: Okay. Is it true that the chipset gross margins right now are greater than your desktop gross 
+margins? 
+<A - Marvin Burkett>: They're close. 
+<Q - Shawn Webster>: They're close? 
+<A - Marvin Burkett>: I would say that you're probably right but it's not a huge difference. 
+<Q - Shawn Webster>: Okay then what <
+A - Jen-Hsun Huang>: – backward looking for the quarter. 
+<A - Marvin Burkett>: For Q3. 
+<A - Jen-Hsun Huang>: Backward looking for the quarter. I would be surprised if forward-looking it is the same way. 
+<A - Marvin Burkett>: Yeah. What Jen-Hsun is saying is he expects improvement in the GPU margins going forward 
+
+
+and the MCP margins are going to be relatively flat. 
+<Q - Shawn Webster>: Okay. And as it relates to the sequential change in your gross margins, is that mostly mix or is 
+
+
+there segment-by-segment unit cost reduction or changes in things sequentially? Can you kind of walk us through the 
+moving pieces? 
+<A - Marvin Burkett>: There's all of the above. In some cases you are getting transition, more 55 nanometer, less 65 
+
+
+nanometer. That helps. In other cases you're ramping up and experiencing revenue growth and a lower gross margin 
+line i.e. MCP. You're going to have lower revenue in a high gross margin line, Sony royalties. And so it's all mixed 
+together. 
+
+<Q - Shawn Webster>: Okay and what were your memory sales in Q3? 
+
+
+<A - Marvin Burkett>: 22.3 million. 
+
+<Q - Shawn Webster>: Okay and then last one for me. When you look at your order book and your visibility right 
+now, is it the same, better or worse than this time when you set your guidance last quarter? 
+<A - Marvin Burkett>: No visibility in either case. 
+<Q - Shawn Webster>: Okay so no change then? Thank you. 
+<A - Jen-Hsun Huang>: Thank you. 
+
+
+Operator 
+
+Our next question comes from the line of David Wu with Global Crown Capital. Please go ahead. 
+<Q - David Wu>: Yes, I was just curious that you haven't really talked about a lot of products but we haven't talked 
+about consumer products and in particular Tegra. Can you talk about – those kind of products tend to have a good 
+
+
+Christmas. Maybe this year is different and I was wondering when Tegra will begin to contribute to revenue and what 
+about design win activities, that kind of stuff? 
+<A - Jen-Hsun Huang>: Tegra is doing really well and I have said that Tegra was not ready for production this year 
+
+
+because the design win process tends to be longer and I also have said that Tegra's coming out party is really spring of 
+next year and so I look forward to talking to you much more about that spring of next year. 
+<Q - David Wu>: Okay. How is the consumer business in the mean time? 
+<A - Marvin Burkett>: What do you mean by consumer business David? 
+<Q - David Wu>: You folks still have some graphics business with Motorola? 
+<A - Marvin Burkett>: It's insignificant, insignificant, David. 
+<Q - David Wu>: Essentially I shouldn't worry about that at all in Q4? 
+
+
+<A - Jen-Hsun Huang>: No, it's been insignificant for a long time. 
+<Q - David Wu>: Been insignificant for a long time. Okay. Marv, if I look at next year, your different segment of the 
+business, I would assume that I should get growth out of your chipset. That's the highest probably of absolute revenue 
+growth and then Tegra should be behind that. In a difficult economic environment if you execute well on GPU side, can 
+you actually grow revenue at all? 
+
+
+<A - Marvin Burkett>: The answer I think is yes. But don't forget Tesla. In terms of significant revenue growth, 
+obviously Tegra and the MCP business, but Tesla is also in that same category. 
+
+<Q - David Wu>: That's tens of millions of dollars? 
+<A - Jen-Hsun Huang>: We hope it's more than that. Here's the way I would break it down. GeForce desktop, our 
+growth opportunity comes from capturing share back. Our MCP business, obviously greater exposure to notebook is a 
+wonderful thing. And then Quadro is a growth business, Tesla is a growth business and Tegra is a growth business. We 
+know those three product lines are all going to grow next year. 
+
+<Q - David Wu>: I see. Okay. Thank you. 
+<A - Jen-Hsun Huang>: Thank you, David. 
+
+Operator 
+
+
+Our next question comes from the line of Doug Freedman with American Technology Research. Please proceed. 
+
+<Q - Doug Freedman>: Hi, guys, thanks for taking my question. Last quarter you made a significant comment about 
+the demand you were seeing in the marketplace regarding mix shift. Can you tell us if you've seen a continuation there, 
+any changes and just an update? 
+
+<A - Marvin Burkett>: I don't think I have seen any change. Are you referring to, Doug, what we call the sort of 
+disappearance of the low-end of the discrete desktop? 
+
+<Q - Doug Freedman>: Correct. 
+
+<A - Marvin Burkett>: I don't think we've seen any change to that. That's becoming in our view a mobile market. 
+
+<A - Jen-Hsun Huang>: A lot of people have called it the carving out of the mid-range and whether it's the mid-range 
+PC market or mid-range other markets. And what we're seeing is that the mid-range PC market is either moving to 
+lower-end or it's moving to notebooks. And that's why it's so important for us to have the 9400M Intel notebook 
+platform exposure because that's a lot of the growth is in notebooks right now as you know. 
+
+<Q - Doug Freedman>: All right. Can you update us as far as ongoing negotiations to secure capacity at leading-edge 
+nodes going forward? I know there was some concern about your partner committing enough capital to meet the 
+demands of a $4 billion company. Can you discuss any progress you may have had there? 
+
+<Q - Doug Freedman>: And my last one, Marv, just a little bit of a housekeeping question for you. You've spent $300 
+million buying back shares. Did you have an average share price to that or can you offer us some guidance on where 
+you think the share count will be next quarter? 
+
+<A - Marvin Burkett>: The price was $12.99. I thought it was a bargain at the time. No I have no comment about the 
+shares going forward. That would be a function of a lot of different things, options issued, people leaving, 
+repurchasing, anything. 
+
+<Q - Doug Freedman>: What is left on the repurchase authorization? 
+
+<A - Marvin Burkett>: About 1.3 billion. 
+
+<Q - Doug Freedman>: Great. Thank you. 
+
+<A - Jen-Hsun Huang>: Thanks, Doug. 
+
+Operator 
+
+Our next question comes from the line of Hans Mosesmann with Raymond James. Please proceed. 
+
+<Q - Hans Mosesmann>: Thanks. Jen-Hsun how defensible is a single chipset as you guys are doing it? How long will 
+it take for the competition to do that? It seems to me it kind of locks you in in a way that it's very difficult for some of 
+your competitors to do multi-GPU type functionality on a notebook. Thanks. 
+
+<A - Jen-Hsun Huang>: It's really, really hard to do. If you think about the current PC architecture to deliver that 
+functionality requires four chips and now with the new laptops with the 9400M it only requires two chips -- the CPU 
+and the GPU. We know that Intel is working towards a two-chip architecture as well, the CPU and then the chipset. 
+And as you know by now that project has been delayed by a year now. And so it is hard to do. It's a lot of functionality 
+to integrate into one chip and it took us a fair amount of work to build something like that for the notebook as well. 
+
+And so now we have a chassis. It sits next to an amazing processor, the Core 2 Duo, the best processor that frankly 
+anybody in the world has ever built. And it's fast and it's low-power and so between the Core 2 Duo and 9400M it 
+makes a wonderful notebook. And so our intention is to introduce a few more versions of this chassis and continue to 
+enhance the experience of notebooks going forward. So I am really really excited about 9400M. This was a very, very 
+hard project for us and for anybody in the world to have accomplished. And so I think this is an investment that is 
+
+
+going to pay off for several years. 
+
+<Q - Hans Mosesmann>: Okay thanks and as a quick follow-up, is there any update or status on the notebook GPU 
+recall that you guys took a charge for last quarter? Is there any risk to a desktop recall on that same topic? 
+
+<A - Jen-Hsun Huang>: It's been relatively quiet actually. And we're working with all the OEMs still. Nothing has 
+really changed. And so I don't know that there is anything new to report. We're working everything was so far things 
+are consistent with our model if not a little bit better than that. And so we're just working with our OEMs and making 
+sure that number one, they understand the issues and that they are taking immediate and appropriate steps to improve 
+whatever thermal management techniques are available in the notebooks and then working with them to support the 
+end users if an end user were to report a problem. And so that is our strategy and we're focused on that. Nothing has 
+really changed this quarter. 
+
+<Q - Hans Mosesmann>: Okay thank you very much. 
+
+<A - Jen-Hsun Huang>: Yeah thanks a lot Hans 
+
+Operator 
+
+Our next question comes from the line of Tim Luke with Barclays Capital. Please go ahead. 
+
+<Q - Tim Luke>: Thank you so much. Could you just kind of remind us with respect to the new architecture what sort 
+of timeline you're looking at in terms of introducing that next year? And then just a follow-up on the prior question – 
+what are the key milestones in terms of getting through the clearance associated with any of the issues lingering from 
+the recall, all the issues that you had in terms of the write-down that you've already taken I think of 196 million? 
+
+<A - Jen-Hsun Huang>: I see, if I told you, then the competition would know too. So I find myself – I want to tell 
+you, I can't wait to tell you. It's going to be a fabulous processor. It is – we're working really hard on it. It's a very, very 
+large undertaking and building a new architecture of this magnitude is a multi-hundred million dollar undertaking any 
+more. So it's a big, big deal. I'm very excited about it and I can't wait to tell you about it hopefully next year. 
+
+<Q - Tim Luke>: Do you think that that is the key point in terms of shares either increasing again for you? Or do you 
+think the 40 nanometer introduction before that may be a turning point in terms of market share dynamics? 
+
+<A - Jen-Hsun Huang>: We lost some share recently because of our transition and our competition surprised us with a 
+significantly lower cost and we were caught off guard and we shouldn't have been. But we're not caught off guard now 
+and it's time for us to go get our market share back. We have better architecture and our architecture is much, much 
+more robust in a lot of different ways; much more features, it's not just graphics. It has physics processing and has 
+image processing and video processing. And I mentioned earlier that we're going to introduce a really amazing new 
+capability called Stereoscopic 3D. 
+
+And – so those capabilities are simply not available when you just have a graphics chip. And so our focus as a 
+Company is to expand the GPU market. We're trying to expand the GPU market by enabling the GPU to do more than 
+just graphics. And so we're going to continue to do that. And over the years we've increased the size of the GPU market 
+beyond anyone's expectations. And I think that our imagination surely at the moment exceeds everybody's expectation 
+in the world today. And so I think that you're going to find GPUs in supercomputing clusters. You're going to find 
+GPUs, multiple GPUs in your workstations, some of it for graphics, the some of it for computing. You're going to see 
+GPUs used for video editing and image processing and physics simulations. And so GPUs will become more and more 
+valuable and do more and more competition for your PC. And so I think that that is our primary focus. I expect that 
+we're going to continue to grow our GPU business and grow the overall GPU TAM because of our innovations. 
+
+<Q - Tim Luke>: Thank you guys. 
+
+<A - Jen-Hsun Huang>: Thank you. 
+
+
+Operator 
+
+We have no more time for questions. I'll now turn the call over to Jen-Hsun. Please go ahead. 
+
+Jen-Hsun Huang, Co-founder, President and Chief Executive Officer 
+
+Thank you for joining us today and we look forward to reporting our progress for Q4. 
+
+Operator 
+
+Ladies and gentlemen, that does conclude the conference call for today. We thank you all for your participation and ask 
+that you please disconnect your lines. Have a great day everyone. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2008, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

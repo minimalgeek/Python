@@ -1,0 +1,738 @@
+Q2 2011 Earnings Call 
+
+
+Company Participants 
+
+• Michael W. Hara, Senior Vice President, Investor Relations and Communications 
+• David White, Executive Vice President and Chief Financial Officer 
+• Jen-Hsun Huang 
+Other Participants 
+
+• Rajvindra Gill 
+• Hans Mosesmann 
+• Daniel Berenbaum 
+• Ross Seymore 
+• Shawn Simmons 
+• Krishna Shankar 
+• Alex Gauna 
+• Craig Berger 
+• Glen Yeung 
+• Arnab Chanda 
+• Jim Schneider 
+• Shawn Webster 
+• Kevin Cassidy 
+• Patrick Wang 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon. Thank you for holding. I would now like to turn the call over to Michael Hara, Vice President, 
+Investor Relations. Thank you, sir, you may begin. 
+
+Michael W. Hara, Senior Vice President, Investor Relations and 
+Communications 
+
+Thanks, Will. Good afternoon, and welcome to NVIDIA's conference call for the second quarter of fiscal 2011. With 
+me on the call today from NVIDIA are Jen-Hsun Huang, President and Chief Executive Officer and David White, 
+Chief Financial Officer. After our prepared remarks, we will open up the call to a question-and-answer session. Please 
+limit yourself to one initial question with one follow-up question. 
+
+Before we begin, I would like to remind you that today's call is being webcast live on NVIDIA's Investor Relations 
+website and is also being recorded. A replay of the conference call will be available via telephone until August 19, 
+2010. And the webcast will be available for replay until our conference call to discuss our financial results for our third 
+quarter of fiscal 2011. The content of today's conference call is NVIDIA's property and cannot be reproduced or 
+transcribed without our prior written consent. 
+
+
+During the course of this call, we may make forward-looking statements based on current expectations. These 
+forward-looking statements are subject to a number of significant risks and uncertainties, and our actual results may 
+differ materially. For a discussion of factors that could affect our future financial results and business, please refer to 
+the disclosure in today's earnings release, our Form 10-Q for the fiscal period ended May 2, 2010, and the reports we 
+may file from time to time on Form 8-K filed with the Securities and Exchange Commission. All of our statements are 
+made as of today, August 12, based on information available to us as of today and except as required by law, we 
+assume no obligation to update any such statements. Unless otherwise noted, all references to market research and 
+market share numbers throughout the call come from Mercury Research or Jon Peddie Research. With that let's begin. 
+
+Rapidly changing market conditions made Q2 a challenging quarter. We experienced softness in PC consumer demand 
+in Europe and China, our largest GeForce regions. Weak consumer markets and the weak euro shifted demand away 
+from the premium experience PC segment that GeForce serves. 
+
+At the end of Q1 we began selling our new Fermi-based GeForce GTX 480 and 470 GPUs and to strong demand. And 
+saw healthy in channel sell-out for GeForce products across our lineup. We entered Q2 with high expectations. As the 
+quarter progressed, rising memory costs and the weakness of the euro increased end-market prices of graphics add-in 
+cards. In addition, the growing economic concerns in Europe and China began to create pressure on discretionary 
+spending. Because discrete GPU attach rates in Europe and China are among the highest in the world, and our share in 
+both of these regions is also very high, these factors hit our consumer business particularly hard. 
+
+Today we also announced an additional charge to cover costs resulting from a weak die packaging materials set in 
+certain GPU and MCP products shipped before July 2008. This is the same issue we disclosed previously. We provided 
+more detail in the CFO commentary which we released prior to the call. 
+
+Although the end markets remain uncertain, we have exciting new products that can drive revenue and share growth. 
+We are continuing to regain our GeForce consumer GPU leadership position across the entire product staff. The GTX 
+480 has claimed the top spot in the enthusiast segment. Our focus now is on the gamer sweet spot, the $199 
+performance segment. In July, we launched the GTX 460. GTX 460 uses our second-generation Fermi architecture and 
+delivers the perfect balance of price, performance and power specifically for the 199 segment. The industry reviews 
+underscore the 460's unrivaled competitive position. [audio gap] It performs admirably, it's dead quiet, it sips power, it 
+runs cool and it overclocks like a monster without voltage modification. End quote. 
+
+GameStar hardware explained, quote, NVIDIA is back. The GPX 460 is fast, really fast and at the same time, enjoyably 
+quiet, has much lower power consumption. End quote. [inaudible] also wrote in the following report, quote, if our 
+earlier articles have not proved it yet, this one surely puts the final nail in the coffin. The GTX 460 1 gig SLI real-world 
+gaming performance is superior to even AMD's fastest high-end single GPU video card in a CrossfireX configuration. 
+End quote. AnandTech put it simply, quote, NVIDIA's GeForce GTX 460, the $200 king. End quote. GTX 460 is a 
+showcase of the revolutionary Fermi architecture designed from the ground up for DX11. We are now ramping the rest 
+of the Fermi GPUs from top to bottom and including notebooks and workstations. 
+
+At SIGGRAPH, we launched the era of computational visualization for designers, engineers, researchers and animators 
+with the introduction of our Fermi class Quadro GPUs and new NVIDIA 3D Vision Pro solution. Computational 
+visualization combined with the parallel computing power of the Fermi architecture with visualization to enable a 
+breakthrough capability for designers. Powered by our new Fermi-class Quadro, artists can create photo-realistic 
+imageries for print ads, commercials and movies in minutes rather than hours. Car designers can simultaneously 
+optimize design for beauty, as well as for aerodynamics. 
+
+The new family of Quadro GPUs deliver performance that is up to 5 times faster for graphics, and up to 8 times faster 
+for performance for computational simulation than our previous Quadro generation. Fermi-class Quadro is the biggest 
+discontinuity we have introduced since Quadro FX introduced geometry processing over 10 years ago. Our workstation 
+partners Dell, HP, and Lenovo are all racing to engage new markets, as well as upgrading a large installed base of 
+Quadro workstations. 
+
+
+Tesla achieved another record quarter, and continues to make further inroads into our targeted verticals. Last week 
+DARPA announced that NVIDIA has been awarded a $25 million [audio gap] the agency calls, quote, a crisis in 
+computing. Today's conventional computers are starting to hit practical limits, since they can only do so much 
+computation given a certain amount of energy. For DARPA to recognize that NVIDIA should take the lead to discover 
+the computing architecture of the future is a recognition of the impact of GPU computing and NVIDIA's contribution to 
+computing. Under a 4-year contract, the team plans to build a new class of XO-scale supercomputers that are 1,000 
+times more powerful than today's supercomputers using similar amounts of energy. Our team includes Cray, Oak Ridge 
+National Laboratory, and several top universities. 
+
+The enthusiasm for our upcoming GPU technology conference in September is another example of the momentum we 
+are seeing behind GPU computing. Last year, we exceeded attendees' expectations. This year we have 4 times the 
+number of papers submitted, 3 times the sponsorship levels, and are expecting twice the number of registered attendees. 
+Industry speakers will discuss the use of CUDA in fields ranging from cloud computing, computer vision, energy 
+exploration, life sciences, medical imaging to finance. It is very clear now that parallel computing has reached the 
+tipping point, and is accelerating the discovery in a broad range of important industries. 
+
+Finally, in one of our most important initiatives, we need to execute to help our Tegra customers ship their 
+next-generation smartphones, tablets, netbooks, and cards. These devices will be the industry's first to offer Tegra's 
+dual-core CPUs and HD resolution graphics and video. We will begin production shipments for some of our customers' 
+key projects this quarter. We are in the home stretch. 
+
+Regaining GPU leadership and share, ramping Fermi-based Quadro, continued adoption of Tesla, and shipping Tegra 
+customers, these are the immediate growth opportunities we are focused on. With that, let me turn the call over to 
+David. 
+
+David White, Executive Vice President and Chief Financial Officer 
+
+Thanks, Mike. Revenue was $811.2 million, down 19% sequentially. GAAP gross margins was 16.6%. GAAP OpEx 
+was $309.5 million. And GAAP net loss was $141 million, or $0.25 per share. 
+
+Reflected in these results is the net charge of $193.9 million related to the weak die packaging materials set. 
+Non-GAAP net income, which excludes the net charge was $20.1 million, or $0.03 per diluted share. GAAP gross 
+margin of 16.6% for the second quarter was unfavorably impacted by two significant events. First, GAAP gross profit 
+was impacted by the aforementioned charge; second, the market shift in our consumer GPU business resulted in excess 
+inventory of certain primarily older generation products. As a consequence, our second quarter results include charges 
+for a large inventory write-down. Excluding each of these items, gross margin would have exceeded our outlook. 
+
+The inventories at the end of the quarter were $434.2 million, up 11.9% over the prior quarter. Notwithstanding the 
+inventory write-down, inventory was up as a result of lower actual revenue than was planned early in the first quarter 
+when we made wafer start commitments. Our manufacturing cycle time is approximately 4 months. We made 
+appropriate adjustments to our build plans over the course of the second quarter, but we don't expect these corrections 
+to have a meaningful impact on our inventory levels until the fourth quarter. Net of the inventory write-down we took 
+in the second quarter, we believe the inventory mix and our current pipeline is aligned with current market demand. 
+
+Revenue for the GPU business was down 29.5% due to reasons discussed earlier. We do not expect the market 
+conditions to change dramatically, but we expect our competitive position to improve and regain some segment share. 
+We launched our new GTX 460 into the $199 performance segment, and it has received outstanding industry reviews 
+and continues to sell well and gain share. 
+
+Revenue for our Quadro professional solutions and Tesla computing solutions represented 26.5% of total revenue, and 
+was up 13.4% over the prior quarter. Tesla achieved another record quarter. Revenue for the consumer products 
+business was up 46.5% over the first quarter. Substantially all of the increase was attributable to Tegra. 
+
+
+Cash and cash equivalents and marketable securities at the end of the quarter were $1.77 billion, up modestly from the 
+first quarter. Our outlook for the third quarter of fiscal 2011: revenue is expected to be up 3 to 5%, GAAP gross margin 
+is expected to increase to 46.5 to 47.5%. GAAP operating expenses are expected to be approximately $300 million. Our 
+tax rate is 17 to 19%. That includes our prepared remarks and at this point, we'll now take questions. 
+
+Q&A 
+
+Operator 
+
+Thank you. [Operator Instructions] Our first question comes from the line of Raji Gill with Needham & Company. 
+Please proceed with your question. 
+
+<Q - Rajvindra Gill>: Yes, thank you, 2 questions. One on the revenue guidance of up to 3 to 5%. Maybe you could 
+provide a little bit more color on where you see that guidance given the weakness in the PC supply chain. Also on the 
+margins, significantly, the guidance significantly higher, what gives you confidence that you would be able to get the 
+margins back up to the level? Would you not expect price competition to come back into the market may be just some 
+more details on the gross margin guidance would be helpful. Thank you. 
+
+<A - Jen-Hsun Huang>: So we are assuming the consumer PC market to remain uncertain. And all of the – the growth 
+that we talked about in Mike's previous comments are the ones that we are focused on. GeForce GTX 460 goes into a 
+segment of the marketplace that is really about gamers. And gamers come out to buy new graphics cards when there are 
+new great games. And this last month we saw the launch of StarCraft II, which is arguably one of the most important 
+video games in the entire video game, in the entire PC industry with some 12 million-plus gamers around the world. 
+And StarCraft II, for all of the people that are on the phone that knows about it, obviously hasn't been refreshed since 
+1998. I think that is over 12 years or something like that. And so the market has been extremely enthusiastic about it 
+and the sell through has been really fabulous. And so I think this is a pretty good season for gaming graphics cards and 
+GTX 460 is the really the best graphics cards we've ever built for gamers in the history of our company. So, that's one. 
+
+The second one is Quadro Fermi. Fermi-based architecture Quadro is just ramping into production now and the OEMs 
+are really enthusiastic about it. The end users are clamoring for it, and so I think this is an opportunity for us to upgrade 
+the installed base of Quadro workstations around the world with a revolutionary new architecture. Mike already talked 
+about in his comments pretty substantial speed ups from generation to generation. I don't think we have ever seen a 5x 
+speed up from one generation to another generation so this is a very, very big deal. 
+
+And then the third thing is Tesla. We had a record quarter in Tesla this last quarter. We've got some exciting new 
+products that we're going to ship into the marketplace imminently. And so I think this is a marketplace that is clamoring 
+for more processing capability and we are not seeing any effect from the consumer marketplace because of it. 
+
+And then the last part is Tegra. As you know, the most important and probably the fastest growing market computer 
+market today is the smartphone and the tablet market and Tegra is our entry into that. We are seeing customers trying to 
+pry these chips out of our hands and we have got to get these things shipped into production and they are really exciting 
+new products. So, those are the 4 areas where we are confident to see growth, GTX 460, Quadro, Fermi-based Quadro, 
+Fermi-based Tesla and our Tegra SoC. 
+
+With respect to gross margins, all of those products that I just mentioned are either at or above the corporate gross 
+margins that David talked about. 
+
+<Q - Rajvindra Gill>: And if I could just follow – I appreciate that – just follow up on the consumer PC, the GTX 460 
+really driving a lot of this growth. Given the uncertainty in Europe and China and given the fact that you are talking 
+about attach rate for discrete graphics potentially coming down or came down this quarter and the exchange rate, what 
+makes you confident that you can get the attach rates up or improve demand in those 2 key segments for you? 
+
+<A - Jen-Hsun Huang>: There's really 2 GeForce markets. One GeForce market is the gamers. It's the GeForce GTX 
+market. They are not sold to OEMs, they are not really sold to system builders, they are sold to end users. Most of it is 
+
+
+sold through e-tail or retail, or the large, the vast majority of it is sold as a retail-based add-in card. In a way, the way 
+you can think about GeForce GTX is that it's the game console within the PC. And what really drives the sales of that 
+segment of the marketplace is games. 
+
+There is another part of our GeForce business, the lower end GeForce business that is sold to OEMs. The way that the 
+OEMs think about GeForce is in those markets, is that it's the ultimate if you will, or the premium – the ultimate 
+upgrade or the premium experience PCs. Every PC is built from either AMD or Intel CPUs and various integrated 
+graphics. And if you wanted to create a product line with, you know, basic and competitively priced PC on the bottom 
+and premium experience PCs on top, the best way to do that is to put a high resolution display on it, and then maybe 
+you add 3D Blu-ray to it and you add a discrete GPU to it. And that's really how the vast majority of the PC OEMs, as 
+you look around the world, differentiate their premium PCs from the commodity or the baseline PCs. 
+
+And so if you look at that marketplace, that's what I think is uncertain and will continue to assume that it is uncertain 
+until it is not. We saw it probably – we saw it before everybody else did and the reason for that is because we are in the 
+high-end consumer PC segment. And as memory prices went up and as the euro got weak, and the various end markets 
+got soft, the first thing that people did was shifted down price and into integrated graphics. And then, of course, if the 
+weakness persists, eventually the number, the total number of units of PCs will decline, which is what people are 
+starting to see now. And so I think we are taking a relatively conservative posture with respect to the PC OEM 
+business, but the 4 businesses that I talked about just now, I think are business that we feel pretty good about. 
+
+<Q - Rajvindra Gill>: Okay, thank you. 
+
+<A - Jen-Hsun Huang>: Yes. 
+
+Operator 
+
+Our next question comes from the line of Hans Mosesmann with Raymond James. Please proceed with your question. 
+
+<Q - Hans Mosesmann>: Yes, thanks a couple of questions. Can you comment on how you saw PC seasonality 
+generally and also, can you comment on the prospects of you doing a buyback? Thank you. 
+
+<A - Jen-Hsun Huang>: The second question I will just take very quickly. We talk about these topics at our board 
+meeting every board meeting. And the use of cash is a topic that comes up on a regular basis. And so we'll have that 
+conversation again at the next board meeting and do the appropriate thing. 
+
+With respect to seasonality, for the overall consumer PC market, we are taking a rather conservative posture about it. 
+And we're assuming that what we saw before everybody else – this is, we started seeing weaknesses in the end market 
+probably starting in May, and May/June timeframe, late May, early June timeframe. And it's persisted since and I think 
+other people are starting to see it across the board now. But we're going to take a relatively conservative posture with 
+respect to that segment of the market. 
+
+The 4 businesses that we see growth in, we feel pretty good about. And they are not affected by the end consumer 
+market, the vast majority of that is enterprise business. And although the consumer GeForce business or the GeForce 
+GTX business is targeted at gamers, what really drives the sales of that is great games. And it's hard to find a better 
+game than StarCraft II to propel the upgrade of graphics cards for gamers. 
+
+And then the last one, smartphone growth and tablet growth. That is the most important segment of the computer 
+industry today. And it's a segment that we're entering for the first time starting this last quarter in a small way and then 
+with this quarter hopefully in a much larger way. 
+
+<Q - Hans Mosesmann>: Thank you. 
+
+<A - Jen-Hsun Huang>: Yes, thanks a lot, Hans. 
+
+
+Operator 
+
+Our next question comes from the line of Daniel Berenbaum with Auriga SA. Please proceed with your question. 
+
+<Q - Daniel Berenbaum>: Yes, hi guys, thanks for taking my question. Just to clarify, you talked about gross margin 
+would have been above expectations if not for the inventory charge. What was the inventory charge? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Hans [sic – Daniel] as a company in our 
+business, we have inventory write-offs every single quarter. And so the question then becomes what is extraordinary 
+and rather than be subjected to how we determine that, I think the easiest thing for us to do is we just simply say that no 
+matter how you might calculate what the exceptional piece was, it was large and excluding it we would have exceeded 
+our guidance. And as far as the specific amount, that all depends on how you want to make the calculation. 
+
+<Q - Daniel Berenbaum>: Okay so then just on my rough calculations, if I back you out to get to above 47% gross 
+margin, that sort of gets me to a place where you had a 75 million inventory charge and your days of inventory would 
+have been around 110 days. Is that the right order of magnitude and the right way to think about? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: It's in the range. 
+
+<Q - Daniel Berenbaum>: Okay. And then just to follow up, you had commented that we've got these new games, 
+there's StarCraft coming out. How do you think about the advent of programs like OnLive which centralizes all of the 
+compute and graphics functions and where I am told that you don't need a strong GPU at the local desktop where you 
+can stream HD graphics straight to the desktop without actually having a graphics card on your PC. How does that 
+affect how you think about games going forward? 
+
+<A - Jen-Hsun Huang>: Well, the way to think about online is imagine it's like subscription TV. And many people 
+have subscription TV, as well as premium content. The way that OnLive works is fabulous and we are wonderful 
+partners with them. What you see in the servers is a bunch of GeForces. So, we are excited about the work that they are 
+doing. We're excited about getting video games to a larger number of people and making video games much more 
+accessible. So, all in all I think it's a fabulous development to have cloud-based GPU computing, if you will, emerge. 
+
+But, the services still needs to reach a much broader audience. Latency matters. And so as OnLive builds out their 
+servers and server farms around the world over the course of the next several years or a decade, people still need to be 
+able to enjoy games wherever they are. And so I think that's one factor. The other factor is not all games will be 
+available from OnLive. StarCraft II for example, is not and WoW will likely not be. And so if you want to enjoy a 
+broad range of games, having the ability to play the game on your local PC, as well as being able to serve it off the 
+cloud is a wonderful way to enjoy more games. And so we are a huge proponent of it and we work closely with them to 
+make the service as good as possible. And in the short term what we see is a growth opportunity in putting GPUs into 
+the cloud. 
+
+<Q - Daniel Berenbaum>: Okay, great. Thanks very much. 
+
+<A - Jen-Hsun Huang>: Yes, thanks a lot, Daniel. 
+
+Operator 
+
+Our next question is comes from the line of Ross Seymore with Deutsche Bank Securities. Please proceed with your 
+question. 
+
+<Q - Ross Seymore>: Hi, guys can you hear me okay? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Yes. 
+
+<Q - Ross Seymore>: Just on the inventory charge side of things in the gross margin, is the gross margin benefiting at 
+all in the third quarter because of written-off inventory? 
+
+
+<A - David White, Executive Vice President and Chief Financial Officer>: No. We wrote off what we anticipated 
+would not be sellable, right, and so it would be inconsistent to assume in one quarter you're going to write it off and the 
+next quarter you're going to sell it. So, we wrote off what we believed was in excess, and so our guidance doesn't 
+include any of that selling through. 
+
+<Q - Ross Seymore>: And again, I heard the earlier question about you not really want to sizing things precisely, but 
+could you give us an idea of what the average charge for inventory or write-down would have been over the last few 
+quarters just so we can kind of get a ballpark estimate about what it was this time? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: No, I don't think we have disclosed that. 
+
+<Q - Ross Seymore>: Okay, maybe last question then, a quick one, any help on the graphics side versus the chipset 
+side? Any difference in trends in the quarter there, sizing the remaining chipset business you have? 
+
+<A - Jen-Hsun Huang>: The vast majority, our chipset business was okay, and I think it's dynamic. It's a little bit 
+different than the overall discrete consumer PC GPUs. Our chipset business is predominantly chipsets that go into 
+Apple computers and that's one way to see its progress. 
+
+Operator 
+
+Our next question comes from the line of Rick Schafer with Oppenheimer and Company. Please proceed with your 
+question. 
+
+<Q - Shawn Simmons>: Hey guys, this is Shawn Simmons calling in for Rick. Just had a couple of questions here. 
+What do you guys see the impact from the Intel and FTC settlement recently announced? Is that going to help you with 
+your ongoing trial with Intel? 
+
+<A - Jen-Hsun Huang>: The two different cases are independent and not the same. The first case is obviously the U.S. 
+government finding Intel to have practiced businesses and conducted itself in an improper way. And so whatever it is 
+that the government does to enforce, you know whatever remedies that they have suggested to Intel or compelled Intel 
+to follow are all good things. To the extent that Intel becomes a much better citizen in the ecosystem and conducts 
+business in a proper way, that's good for the entire ecosystem. It's good for us, it's good for AMD, it's good for 
+customers, OEMs, it's ultimately good for consumers. Our case with Intel is not related to that and it is strictly related 
+to a contract dispute related to on one hand chipset license to us and on the other hand a cross-license to them. And so 
+particular dispute goes to court, goes to trial I guess towards the end of the year. And so we're looking forward to that. 
+
+<Q - Shawn Simmons>: Okay, great. And then I guess looking at your just core GPU business, you have been talking 
+a lot about the consumer side and then the gamers side. Is there any way we can figure out how much of percentage of 
+your sales comes from I guess the gamers side and how much you have to the PC OEM side? 
+
+<A - Jen-Hsun Huang>: I would say that it fluctuates from time to time. Obviously, Fermi was late. And GTX 470 
+and GTX 480 was about 6 months late, later than we liked, so we lost share in the Q1 timeframe. We started gaining 
+share back in Q2 and we're going to gain a lot more share back this quarter with our GeForce GTX business, which is 
+targeted at gamers. And so it's hard to say based on the last several quarters with the percentage is. What we do know is 
+that we're likely grow into that market place and continue to take share for the remainder of the year as far as we can 
+see right now. 
+
+<Q - Shawn Simmons>: Okay, great. Thanks, guys. 
+
+<A - Jen-Hsun Huang>: Yes, thanks a lot. 
+
+Operator 
+
+Our next question comes from the line of Krishna Shankar with ThinkEquity. Please proceed with your question. 
+
+
+<Q - Krishna Shankar>: Yes, going forward, what do you think is the attach rate of discrete GPUs now in notebooks 
+and desktops and how do you see that trending over the next 12 months or so especially with the coming Sandy Bridge 
+and Fusion platforms targeted at low to mid-range PCs from both Intel and AMD? 
+
+<A - Jen-Hsun Huang>: The attach rate of discrete GPUs this last quarter, I believe actually went up. The number of 
+GPUs, discrete GPUs in the marketplace was about the same. And so for the last several quarters I don't believe – I was 
+shown some Mercury numbers, which unfortunately, doesn't account for our fiscal quarter versus AMD's calendar 
+quarter. But anyways, the basic math here is still relatively the same, that the discrete GPU marketplace is the number 
+of discrete GPUs totally ship is about the same from the last several quarters and our expectations remains the same the 
+next several quarters. Notebooks is way up. Discrete GPUs for channel desktops was down. We believe that a lot of 
+that has to do with the fact that DRAM prices had gone up. The euro had weakened. And so people had skewed down. 
+
+And so looking forward, my expectation is that OEMs are going to continue to want to segment their PCs. And for the 
+mainstream segment, where the basic performance is what comes with integrated graphics, they will continue to use 
+integrated graphics. And for the premium segments, for the premium experience PCs, they will want to have a discrete 
+GPU to both differentiate that platform, as well as deliver a better experience. And so my expectation is that that desire 
+by the OEMs to differentiate, to segment, to offer a premium experience is not likely to go away. 
+
+Sandy Bridge is going to increase integrated graphics performance just as every generation they have increased 
+integrated graphics performance. And so by the time that Sandy Bridge ships, there is going to be some pretty fabulous 
+discrete GPUs that ranges from the basic levels that we offer today to the high end. And so we'll see how it turns out, 
+but my expectation is that the OEMs will continue to want to segment and differentiate the platforms. 
+
+<Q - Krishna Shankar>: And my follow-on question is on Tegra. Can you give us some sense for the higher volume 
+production here in the October quarter? Is this more smartphones, web tablets? Can you give us some color as to the 
+kinds of OEMs you're engaged with? 
+
+<A - Jen-Hsun Huang>: Yes. Just like you said. 
+
+<Q - Krishna Shankar>: So both smartphones and web tablets? 
+
+<A - Jen-Hsun Huang>: We hope so. They won't be of equal proportion right off the bat, but we will see which 
+devices ship first. But whatever devices ship, they're going to be pretty amazing. 
+
+<Q - Krishna Shankar>: Thank you. 
+
+<A - Jen-Hsun Huang>: Yes. 
+
+Operator 
+
+Our next question comes from the line of Alex Gauna with JMP Securities. Please proceed with your question. 
+
+<Q - Alex Gauna>: Yes, thanks very much. Jen-Hsun, I believe you mentioned your confidence that you can take 
+share back in the back half of the year, but you admittedly said that your products are skewed towards the high end. I 
+wouldn't argue that the 460 is going to be a category killer. Can you really take share broadly with your product lineup 
+the way it is, or should we expect that we're going to see Fermi get into some of the more mainstream SKUs? 
+
+<A - Jen-Hsun Huang>: We are ramping Fermi from top to bottom on desktop, on notebook, on workstations. With 
+respect to market share, we lost – we probably lost a couple, 2, 3 million units, if you will, in market share, and that's a 
+lot. That's a lot when you think about it that way. The vast majority as you mentioned of all of that is low-end discrete. 
+The price of those GPUs are low teens, anywhere from 10 to, call it, 12, $14. And the gross profit dollars on those 
+devices are not extremely high. And so we know how to go win that business back. During the first quarter or so, 
+because we were so constrained in supply and the market was so robust, we were reluctant to be too aggressive in 
+capturing business that we wouldn't later be able to fill. 
+
+
+As it turns out, as the market softened in the May timeframe and the June timeframe, that turned out to have been a bad 
+decision. And so we're in pretty good posture now and we know how to go take share back in the low end. So, we'll 
+take some share back in the low end. And, but more importantly, the profitable segments and the high ASP segments, 
+we have a great product line. And so that's our basic approach is to offer the best products in the segments that are 
+targeted to gamers, and for the segments that are targeted at OEMs for their premium upgrades and premium 
+experience PCs, we have very price competitive products that we can go take share back with. 
+
+<Q - Alex Gauna>: In that OEM category, does that start by Q4 or does that wait more until Sandy Bridge in 2011? 
+
+<A - Jen-Hsun Huang>: It starts right away. [inaudible] 
+
+<Q - Alex Gauna>: Thank you very much. 
+
+Operator 
+
+And our next question comes from the line of Craig Berger with Friedman Billings and Ramsey. Please proceed with 
+your question. 
+
+<Q - Craig Berger>: Hey guys, thanks for taking my question. I guess, can you help us understand how big the chipset 
+business is at this point, and how that should trail off over the next say year or 2? 
+
+<A - Jen-Hsun Huang>: Let's see, it's less than $200 million a quarter, and we'll remain at that rate for probably 
+through Q1, or maybe even Q2 of next year, and then it will start trailing off. Not completely to zero because we will 
+continue to have AMD integrated graphics solutions in the marketplace, and our expectation is that we're going to 
+continue to sell those for, probably through the end of next year. So, that's my expectation of it. 
+
+<Q - Craig Berger>: Great. 
+
+<A - Jen-Hsun Huang>: It'll start declining call it Q2-ish, and then decline towards something a lot less than that by 
+the end of the year. 
+
+<Q - Craig Berger>: As a follow-up, the workstation business has ramped pretty meaningfully. Is this a run rate 
+sustainable level of business here? Is there some catch-up that is benefiting the numbers right now? And then just one 
+last follow-up after that, thanks. 
+
+<A - Jen-Hsun Huang>: Our workstation business has been growing consistently quarter to quarter, but it hasn't 
+reached the record levels that it was at a couple of years ago. And so my expectation is that the workstation business is 
+going to continue to grow. It's going to continue to grow for two reasons. One, more and more people are upgrading to 
+Windows 7 and that upgrade process will affect workstations as well. 
+
+The second reason is, during this time, this last couple years, we have invested in expanding the reach of our 
+workstation solutions. Whereas it was predominately used for manufacturing in the past, our workstations are now used 
+for broadcast workstations, for 3D television streaming, for postproduction, for video editing, medical imaging, gosh, 
+the computational simulations of fluid dynamics. There's all kinds of things that our workstations are now being used 
+for. And so, on the one hand, I think that the upgrade cycle is – we're benefiting from the upgrade cycle and then 
+secondarily we've invested in expanding the reach of our workstation solution. So, we're just exposed to a much larger 
+market. And so my expectation is that our workstation business will surely recover to its record highs and go well 
+beyond that. 
+
+<Q - Craig Berger>: My last question is, you guys referenced macro weakness in May and June. Your largest 
+competitor did not have similar commentary, and I'm wondering if there's other dynamics at play or what might drive a 
+difference between you guys? Thanks. 
+
+<A - Jen-Hsun Huang>: I think that, well first of all, I don't completely know. We're going to see all of this stuff sort 
+out as we see their Q3s. You have to remember that our business is skewed off by a month. And being skewed off by a 
+
+
+month this last quarter is a pretty big deal, as it turns out, because the market softened in the second month of our 
+quarter, which was practically the end of theirs. And so, I think what we're going to find out, how it really sorted out 
+probably by the Q3 timeframe. But we saw market weaknesses, not just for ourselves in the end markets, we saw it for 
+other people. And we were frankly, surprised by their guidances. But so be it. We'll find out when everything sorts out. 
+
+<Q - Craig Berger>: Do you think the weakness is driven by demand, or is it supply chain adjustments? 
+
+<A - Jen-Hsun Huang>: It's end market weakness. I think that at this point, I think most of us believe that Europe in 
+Q2 was soft, that the euro was weak. And that naturally would cause some skew downward. And China, they reducing 
+their stimulus to the economy has slowed down the market a bit. Now, of course, our business is – we have a much 
+larger exposure in Europe and China because our brand is so useful, and so powerful to help the local OEMs enhance 
+their brand. And also, because consumers are much more – find video games and content much more appealing out in 
+the other markets. I think that those are just incredibly important markets to us. And so our exposure is probably larger 
+than theirs. Overall, I think that that we're just going to have to wait and see how their Q3s shake for us to really know. 
+
+Operator 
+
+Our next question comes from the line of Glen Yeung with Citigroup. Please proceed with your question. 
+
+<Q - Glen Yeung>: Thanks. Jen-Hsun can you discuss whether or not in your past experience, in periods where the 
+economy seems to be decelerating, whether gamers are resilient to that or do they have to follow the economic 
+conditions? 
+
+<A - Jen-Hsun Huang>: Hi, Glen. Well I think that there is some impact surely to the economy. But there's nothing 
+like great games. And to the extent that – it's kind of hard to think about StarCraft II as a game. I really think of 
+StarCraft II as an event. This is a once-a-decade refresh to one of the most important video games of all time. This is – 
+StarCraft, as you know, is a cultural phenomenon in many countries. They watch StarCraft competition on TV. There's 
+a StarCraft channel. There are StarCraft teams. So, in many countries, StarCraft is just a very, very big deal. And so 
+this is a very welcome upgrade. And the game is absolutely beautiful and GTX 460 is perfect for it. And so my sense is 
+that for the 12 million StarCraft players out there, there is some serious upgrading to do. And my sense is that that 
+should far overcome any softness in the marketplace. 
+
+<Q - Glen Yeung>: Okay. Thanks. You also sound quite confident that Tegra will grow in the quarter. And I wonder if 
+that prompts you to adjust your Tegra run rate forecast? 
+
+<A - Jen-Hsun Huang>: I'm not sure I understood the question. 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Glen, I think we've given guidance on 
+that in the past and I think at this point it would be early to call whether we're going to exceed that or not. So, I think 
+we hold to that. We still feel very bullish about the product obviously. 
+
+Operator 
+
+Our next question comes from the line of Arnab Chanda with Roth Capital Partners. Please proceed with your question. 
+
+<Q - Arnab Chanda>: Thank you. I have 2 questions. One is, Jen-Hsun, I know you don't want to give specific 
+guidance, but could you talk a little bit about by the time your chipset business either becomes really small or maybe 
+even goes away, do you think Tegra and Tesla would be big enough to offset that? And I have a follow-up please. 
+
+<A - Jen-Hsun Huang>: My sense is that the chipset business will be, you know, about 0.5 to 0.25 its size in Q4 of 
+next year. And so if you roughly said, it's about 0.25 of its size. Would Tegra and Tesla be able to make up for the 
+difference, both in revenues and surely much, much more in terms of gross profit dollars, my sense is yes. 
+
+
+<Q - Arnab Chanda>: Okay great, and then one other question about your sort of Quadro and Tesla business. Do you 
+think that, is Quadro, are you at a point where you have basically completed the penetration in the market and it's really 
+more about Tesla for that entire product line? Or do you think there is multiple opportunities left in terms of the growth 
+in that business? 
+
+<A - Jen-Hsun Huang>: Quadro has wonderful growth opportunities ahead of it. First of all, people where buy 
+workstations and upgrade their workstations on the rhythm of the companies themselves. The automobile industry that 
+uses Katea or the airplane industry or the tennis shoes industry or, they all upgrade on different cycles and they use 
+different packages and more and more industries are using digital approaches to prototype or style or simulate just like 
+we do. In your industry you use computational finance, in my industry we used DDA simulations and EMI simulations 
+and we use all kinds of simulations to predict the outcome of our product. And whether it's in design or manufacturing 
+or advertising or broadcast or medicine, more and more people are using digital approaches to predict the outcome of 
+their products. And so I think that the market is surely expanding. 
+
+The other factor that's really exciting for us and what's so great about Fermi Quadro is that it's such a great 
+discontinuity relative to anything that we've shipped before. I don't know that we've ever shipped a product that is 5 
+times faster in the type of applications that it's used in from generation to generation. And so we're looking forward to 
+upgrading the installed base in addition to the natural growth and the natural upgrade of the workstation market. So, I'm 
+really excited about Quadro and we're looking forward to seeing how it goes in the marketplace. The OEMs are really 
+excited about it as well. We have HP and Dell and Lenovo are geared up. Fujitsu seems all geared up to – these are our 
+workstation partners – geared up to take Quadro Fermi to the market. 
+
+Operator 
+
+Our next question comes from the line of James Schneider with Goldman Sachs. Please proceed with your question. 
+
+<Q - Jim Schneider>: Good afternoon. Thanks for taking my question. I guess to start off on the notebook GPU 
+business for a second. Can you give us a sense if I just isolate that, you mentioned that the market itself for notebooks 
+was up in the quarter. Was your business also up for notebooks in the quarter and then do you expect the notebook 
+business in Q3 to be better or worse than your guidance for the corporate in Q3? 
+
+<A - Jen-Hsun Huang>: What was the last part of that question? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Are you talking about, James you're 
+talking about the Q3 guidance? 
+
+<Q - Jim Schneider>: Yes, your Q3 guidance. Do you expect notebooks to be up in Q3 or essentially better than your 
+corporate guidance for Q3? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Okay, so you look at Q2 notebooks and 
+desktops were both down. Obviously, we missed our original guidance by a fairly large amount and both of those were 
+key contributors to that. If you look at our guidance into Q3, we're expecting both of them to be up, obviously not by a 
+lot given that we're only guiding 3 to 5%. 
+
+<Q - Jim Schneider>: Okay, fair enough. And then it looks like your OpEx ticked down a little bit in the Q2. Can you 
+give us a sense of what expenses you may have kind of cut back on in Q2 and then how we'd expect – what markers 
+you look for as business recovers, how you bring back spending incrementally and what are the things you'd bring back 
+first versus later? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Well, if you look at the expenses that 
+we worked on reducing, and so forth they cover a broad range of things. They cover things in terms of how we tape out 
+products, how we kit prototypes for engineering test vehicles, it covers the minutia of things like travel and the things 
+that are not very exciting. But we have been fairly diligent across the entire business trying to figure out how do we 
+reduce waste, how do we economize in terms of our expenses without naturally impacting our development plans, and 
+
+
+so forth. And going forward, right now certainly in the environment we are in today, we don't see our attention on 
+expenses abating anytime soon. We do have continued efforts in reducing costs, but we also have cost pressures going 
+in the other direction. And so our guidance is kind of a recognition of the fact that we think for the time being at least 
+that the cost reductions that we will implement in the third quarter will offset some of the upward cost increases that are 
+going in the other direction. 
+
+Operator 
+
+Our next question comes from the line of Shawn Webster with Macquarie. Please proceed with your question. 
+
+<Q - Shawn Webster>: Yes, thank you. Within the cost of goods sold for that $181 million, how much of that was due 
+to the product recall charge? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: You mean that versus the litigation, is 
+that what you mean, Shawn? 
+
+<Q - Shawn Webster>: Is there litigation within the cost of goods sold as well? Yes, how much were those 2 
+combined? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: We don't really break that out, but let 
+me be a little bit clear. When we talk about litigation, there's the cost of the litigation itself, but then there's also the cost 
+of the remedies. All right, and so the remedies have to do with repair costs, and so forth. And so there is a piece of it 
+associated with cost of goods that's naturally as a result of the settlement itself. And we don't break that out. 
+
+<Q - Shawn Webster>: Okay. And for your inventories going into Q3, do you expect them to be flat, down or up? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Probably modestly, a modest change 
+only at this point. 
+
+<Q - Shawn Webster>: A modest change up? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: When I say modest, it'll be either 
+modestly up or modestly down. I'll basically say it's basically flat. 
+
+<Q - Shawn Webster>: Okay, got you. And I understand there was a mix effect happening in the quarter. Can you tell 
+us what your GPU ex the MCP business, the pricing bid sequentially for Q2? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: No, we don't disclose that. 
+
+<Q - Shawn Webster>: Okay. How about the tax rate? So the tax rate is coming up, can you share with us why that's 
+popping up? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Yes, so if you look at our business, our 
+taxes are basically a function of how much income we make. And as our income goes down, some of the jurisdictions 
+where we operate and pay taxes in, that income doesn't necessarily go down, and so the taxes there, you might almost 
+view as a fixed cost to the company. And so as our total overall income goes down, those taxes stay flat and hence, our 
+rate goes up. And vice versa. When our income goes up the rate goes down. 
+
+Operator 
+
+Our next question comes from the line of Kevin Cassidy with Thomas Weisel. Please proceed with your question. 
+
+<Q - Kevin Cassidy>: Hi, yes, just 2 quick questions. On enterprise, last night we heard from Cisco saying that they 
+are seeing a slowdown in enterprise. Can you describe what's different? Maybe the product refreshes causing more 
+demand for your products or maybe if you could describe what's happening geographically? 
+
+
+<A - Jen-Hsun Huang>: Well, our enterprise business is a little different than an enterprise desktop or a router per se. 
+If you look at our workstation business, the workstations are used to create the essential products of those companies. 
+And to the extent that those companies believe that their workstations are no longer high-performance enough or 
+capable enough to handle the level of complexity or the amount of simulation they would like to do in simulation, they 
+will naturally upgrade. Frankly, most of these workstations these days, by buying the workstations, you're reducing the 
+cost of development of most of your projects. PC users are able to do more of it in the digital world where virtual 
+prototyping is much just much more cost-effective than real prototyping. And so, you know, it's not a clear comparison 
+to us. And right now we are not seeing, we are not seeing changes in the nature of the business in the various markets. 
+We are frankly, too busy right now ramping Quadro based on our Fermi architecture, and so the enthusiasm is quite 
+high right now. 
+
+<Q - Kevin Cassidy>: Okay, great. And maybe if there – do you see any new competition or any changes in the 
+landscape there? 
+
+<A - Jen-Hsun Huang>: The workstation market is not about a graphics chip and is not about a graphics card. And 
+this is something that the vast majority of our competition just no longer understands. People aren't buying our Quadro 
+solution a chip at a time. They are trying to solve a problem and it could be that they are trying to ray trace a car so that 
+they could see a photorealistic image of it while they're trading off various designs. It could be that the data set is just 
+absolutely enormous and they need to have the scalability and the scalable solutions that we provide. It could be that 
+somebody's workstations needs to be virtualized and have a Windows XP – excuse me, Windows NT on one or 
+Windows, or Linux on the other and both of them has to be accelerated. And the fact that we have the best software 
+stack for both Linux, as well as Windows in the world makes a huge difference. And so the list of reasons why people 
+choose Quadro is quite deep. This is an area where we have a great deal of passion for it and one in which we do an 
+extremely good job. And so the bar is pretty high. And we're not seeing any significant competitive changes out there 
+that we notice right now. 
+
+Operator 
+
+And our last question comes from the line of Patrick Wang with Wedbush Morgan. Please proceed with your question. 
+
+<Q - Patrick Wang>: Great. Thanks so much. Hey Jen-Hsun, can you talk about your, I guess just a high-level view of 
+the competitive landscape in graphics? I guess what's your best sense in terms of the pricing trends and I guess what 
+kind of pricing you're baking into your gross margin guidance? 
+
+<A - Jen-Hsun Huang>: What kind of pricing. Well we have more high-end exposure today than we've had in a 
+couple of quarters, and so that's a positive thing. On the mainstream product, if we want to go gain share back, we'll sell 
+several million more lower ASP products, and so that will have a negative trend on ASPs. And so we'll see how they all 
+add up. But we're relatively comfortable with the gross margin guidance that David gave earlier. 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Yes, the guidance contemplates that. 
+
+<Q - Patrick Wang>: I see, got you. That's helpful. Okay, and then just for a follow-up, I guess in your prepared 
+comments you stated that channel inventory levels had come down. Can you help us understand how much the product 
+mix of that inventory and how that compares to I guess levels that are comfortable or maybe historical for you guys? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: So we get inventory reports out of the 
+channel on a fairly regular basis. So, I can't tell you other than from an aggregate standpoint that generally the trend has 
+been down for the last 3 months. We expect it to go down again in the third quarter. But even though it is trending 
+down, it's relatively at levels that would be consistent with historical averages in the industry over time, which have 
+been traditionally somewhere around in the 7, 8-week type of level. We certainly have periods when it's been a lot 
+lower than that. We've had periods when it's been well above that. But today it's relatively close to the historical 
+averages. 
+
+
+<A - Jen-Hsun Huang>: And Patrick, if you think about channel inventory, because most of the inventory is traveling 
+by sea for the lowest possible cost freight, some 3 to 4 weeks of that 7 to 8 is material that is sitting in the ocean going 
+across, right. And so what's really available in the channel is 3 to 4 weeks or so. And so I think if we're seeing these 
+levels, we all feel pretty good about it. 
+
+Operator 
+
+And there are no further questions at this time. I'll now turn the call back over to you, sir. 
+
+Michael W. Hara, Senior Vice President, Investor Relations and 
+Communications 
+
+Thanks, everyone. We look forward to talking to you at our next quarter results. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2010, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+
