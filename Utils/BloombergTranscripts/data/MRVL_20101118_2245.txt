@@ -1,0 +1,705 @@
+Q3 2011 Earnings Call 
+
+
+Company Participants 
+
+• Jeff Palmer, Vice President of Investor Relations 
+• Sehat Sutardja, Chairman, President and Chief Executive Officer 
+• Clyde R. Hosein, Chief Financial Officer and Secretary 
+Other Participants 
+
+• Harlan Sur 
+• Sukhi Nagesh 
+• Ambrish Srivastava 
+• James Schneider 
+• Chris Caso 
+• Uche Orji 
+• John Pitzer 
+• Sanjay Devgan 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good day, ladies and gentlemen, and welcome to the Third Quarter 2011 Marvell Technology Group Ltd. Earnings 
+Conference Call. I'll be your coordinator for today. All lines have been placed on mute to prevent any background 
+noise. After the speakers' remarks there will be a question and answer session. [Operator Instructions] As a reminder, 
+this conference is being recorded for replay purposes. 
+
+I would now like to turn the presentation over to your host for today, Mr. Jeff Palmer, Vice President of Investor 
+Relations. Please proceed, sir. 
+
+Jeff Palmer, Vice President of Investor Relations 
+
+Thank you, Amanda, and good afternoon, everyone. Welcome to Marvell Technology Group's third quarter of fiscal 
+2011 earnings call. With me on the call today is Dr. Sehat Sutardja, Marvell's Chairman, President and CEO, and Clyde 
+Hosein, Marvell's CFO. All of us will be available during the Q&A portion of the call today. 
+
+If you have not obtained a copy of our current press release, it can be found at our company website under the Investor 
+Relations section at www.Marvell.com. Additionally, this call is being recorded and will be available for replay from 
+our corporate website. 
+
+Please be reminded that this call will include forward-looking statements that involve risks and uncertainties that could 
+cause Marvell's results to differ materially from management's current expectations. The risks and uncertainties include 
+statements regarding revenue trends within our end markets, our expectations about the sale of new and existing 
+products, sustainability of our long-term business model, general market trends, and specific statements regarding our 
+financial projections for the fourth quarter of fiscal 2011. 
+
+
+To fully understand the risks and uncertainties that may cause results to differ from our outlook, please refer to 
+Marvell's latest annual report on Form 10-K and subsequent SEC filings for a detailed description of our business and 
+associated risks. Please be reminded that Marvell undertakes no obligation to revise or update publicly any 
+forward-looking statements. 
+
+During our call today we will make reference to certain non-GAAP financial measures, which exclude stock-based 
+compensation expenses, as well as charges related to acquisitions, restructuring, gains and other charges that are driven 
+primarily by discrete events that management does not consider to be directly related to Marvell's core operating 
+performance. 
+
+Pursuant to Regulation G, Marvell has provided reconciliations of the non-GAAP financial measures to the most 
+directly comparable GAAP measures in our third quarter of fiscal 2011 earnings press release, which has been 
+furnished to the SEC on Form 8-K and is available on Marvell's website in the Investor Relations section at 
+www.Marvell.com. 
+
+I'd like to now turn the call over to Sehat. 
+
+Sehat Sutardja, Chairman, President and Chief Executive Officer 
+
+Thanks, Jeff, and good afternoon, everyone. During our fiscal third quarter we generated revenue of approximately 
+$959 million, a 7% sequential increase and a 20% increase over the same period a year ago. We delivered non-GAAP 
+gross margin of 59.5% and an operating margin of 32.4%, resulting in non-GAAP earnings per share of $0.45. Again, 
+we generated significant free cash flow of approximately $338 million, equivalent to a 35% free cash flow margin. We 
+delivered excellent performance during the quarter across most of our end markets. We continued to deliver substantial 
+profitability and cash flow generation, highlighting the long-term leverage of our business model can deliver. 
+
+Now let me provide some color on what transpired during the quarter. In the mobile and wireless end market, sales 
+increased about – over 20% sequentially, and it presented about 35% of our total revenue during the quarter. This was 
+above our prior guidance of 15% to 20% growth. Looking at the sources of the growth, about two-thirds of the 
+sequential increase was due to continued demand for our cellular communication processors. About one quarter of the 
+sequential increase was due to strong seasonal demand for our embedded wireless LAN products. The remainder of the 
+sequential growth was due to continued demand for our ARMADA application processors. 
+
+After three consecutive quarters of significant growth, we are anticipating our embedded wireless LAN business, 
+particularly our game console business, to experience normal seasonality. As you're aware, the game console market 
+has a heavy build schedule in calendar Q2 and Q3, ahead of the seasonally strong holiday selling season. In addition, 
+over the last couple of quarters, we have increased our position in this market, which gives us a dominant share in this 
+space. This has the effect to exacerbate the seasonal impact on our wireless LAN revenue. The remainder of our mobile 
+and wireless business is expected to be essentially flat on a sequential basis. Taken together, we believe our mobile and 
+wireless business will decline approximately 10% at the midpoint of our overall guidance. 
+
+To further our leadership during the third quarter, we introduced several important new products in the mobile and 
+wireless market. First, we announced the world's first tri-core application processor, the ARMADA 628. This is a 
+highly integrated SoC with 3 SMP ARM v7 CPUs, two high performance symmetric multi-processing engines capable 
+of up to 1.5 gigahertz, and a third CPU capable over 600 megahertz. The device is designed to operate similar to a 
+hybrid car. In normal situations like processing e-mail or texting, the CPU relies on the lower performance core, saving 
+significant power. When increased processing horsepower is needed, like when playing advanced 3D graphics games, 
+the device could rely on the two high performance multi-processing CPUs. 
+
+In order to deliver high quality videos, graphics and audio performance, there are additional processing engines. They 
+are four-seaters operating at over 500 megahertz, capable over 300 million triangles per second 3D graphics, and a full 
+1080p video anchor decode engine, which can simultaneously support two H.264 high profile video streams. This 
+enables the device to support 3D video and Blu-ray quality. 
+
+
+The second significant product introduction was the Avastar 8764, the world's first 802.11n 4x4 single chip wireless 
+LAN device. This product is targeted at the enterprise and high end wireless access point market. With four 
+independent transmit-receive RF chains, supporting three MIMO spatial streams, this device is the first in the world 
+that can deliver up to 450 megabit per second data rates over a wide range of operating conditions. We are getting 
+significant interest from both of these new products from new and existing customers. 
+
+Now turning to the networking end market, our sales declined approximately 9% and now it represents about 70% of 
+total revenue. This was lower than our original guidance for flat sequential growth. The weakness was concentrated in 
+the enterprise networking end market and was primarily due to inventory reductions at our customers. The decline in 
+the enterprise market was partially offset by sequential increases in the sale of Internet client products. Looking into the 
+fourth quarter, we believe revenue from the networking end market will be about flat on a sequential basis. 
+
+Lastly, turning to our storage end market, revenue increased about 3% sequentially, better than our original guidance 
+for flat sequential growth, and represented just over 40% of total revenue. Our growth in the storage end market was 
+consistent with trends in the overall HDD industry. Looking in the fourth quarter, we believe end in the storage end 
+market will continue to track the end markets, essentially flat on a sequential basis as our official quarter includes the 
+January month. 
+
+Turning now to revenue from new products, which we believe is a broad metric of how our ongoing R&D investments 
+translate into customer adoption. Revenue from new products during the quarter was approximately $87 million and 
+represented about 9% of our total revenue. During the third quarter, new product revenue was primarily due to our 
+success in the mobile and wireless market. About 40% of the new product revenue was a result of increased traction of 
+our embedded wireless LAN devices, and about 20% was related to strong shipments of our new ARMADA 
+application processors. New products in our storage end market accounted for about 15% of the total, with the 
+remainder from networking and printer products. 
+
+In summary, our third fiscal quarter results demonstrate that Marvell continues to deliver long-term growth in our target 
+markets. We believe that our business continues to become more diversified as we – as we become more diversified, 
+we should be better positioned to withstand quarter-to-quarter fluctuations in the various end markets we serve. We 
+believe we are making progress across all our served end markets in alignment with our R&D investments. 
+
+Our positive customer engagements should help fuel our future growth consistent with long-term goals. Lastly, we 
+continued to deliver results, which validate our long-time business model, a clear demonstration that Marvell can 
+deliver positive earnings leverage and significant free cash flow. 
+
+Now I would like to turn the call over to Clyde to review our financial results for the third quarter and to provide a 
+more detailed outlook for the fourth quarter of fiscal 2011. 
+
+Clyde R. Hosein, Chief Financial Officer and Secretary 
+
+Thank you, Sehat, and good afternoon, everyone. As Sehat mentioned, fiscal Q3 revenues came in at approximately 
+959 million, represented a 7% sequential increase over fiscal Q2 2011, an increase of 20% from the same period year 
+ago, and at the upper end of our earlier guidance. 
+
+On non-GAAP gross margin for the third quarter was approximately 59.5%, up 17 basis points sequentially and up 
+about 170 basis points from the same period a year ago. Our results were in line with the midpoint of our guidance of 
+59% to 60%. 
+
+Our operating expenses for the third quarter on a non-GAAP basis were approximately 260 million, lower than our 
+earlier projected range of 265 to 275 million. As compared to the same period a year ago, operating expenses were up 
+approximately 12%, while revenues grew 20%. 
+
+R&D expenses for the quarter were approximately 198 million, a decrease of 3% on a sequential basis. As compared to 
+the same period a year ago, R&D increased about 6%. This was below the midpoint of our original guidance of 205 
+
+
+million. 
+
+SG&A expenses for the quarter were approximately 61 million, an increase of approximately 11% sequentially, below 
+the midpoint of our prior guidance of 65 million. As compared to the same period a year ago, SG&A was up about 
+40%. However, it was essentially flat if you exclude legal expenses. 
+
+This resulted in non-GAAP operating margin of 32.4%, up 210 basis points sequentially and an improvement of 340 
+basis points from the same period a year ago. Net interest and other income was an expense of approximately 2 million. 
+This included approximately 6 million of expenses due to currency translation effects on our tax reserves in foreign 
+jurisdictions resulting from the decline from U.S. dollar. Tax expenses were approximately 2 million. 
+
+Our non-GAAP net income for the third quarter was approximately 307 million, or $0.45 per diluted share, a sequential 
+increase of $0.05 per share. Through the same period a year ago, we earned 232 million, or $0.35 per share. 
+
+The shares used to compute diluted non-GAAP EPS during the third quarter were approximately 677 million, 
+essentially flat sequentially, and higher than the 64 million shares reported in the year-ago period. During the third 
+quarter, we spent approximately 61 million to repurchase 3.6 million shares at an average purchase price of 
+approximately $17 per share. 
+
+Let me now summarize our Q3 results on a GAAP basis. We generated GAAP net income of approximately 256 
+million, or $0.38 per share in the third quarter, up approximately 16% from the 220 million, or $0.33 per share in the 
+prior quarter. As compared to the year-ago period, GAAP net income increased nearly 27% from 202 million, or $0.31 
+per share. 
+
+The difference between our GAAP and non-GAAP results through the third quarter of fiscal 2011 was due to 
+stock-based compensation expense of approximately 30 million, or about $0.04 per diluted share, and amortization of 
+intangibles represented approximately 22 million, or about $0.03 per diluted share. 
+
+Now I'd like to review our balance sheet as of the end of the third quarter. Our cash and short-term investments were 
+approximately 2.7 billion, up about 300 million sequentially, and up about 1.2 billion from the same period a year ago. 
+Cash flow from operations for the third quarter was approximately 368 million, as compared to 319 million reported in 
+the second quarter, and up from the 204 million reported in the same period a year ago. 
+
+Free cash flow for the third quarter was approximately 338 million, representing a 35% free cash flow margin, up 16% 
+on a sequential basis, and a 73% improvement from the 196 million in free cash flow reported in the year-ago period. 
+
+Accounts receivable was approximately 468 million, down about 23 million sequentially, reflecting improved linearity 
+during the quarter. DSO was 45 days, down about two days sequentially, and up five days from the same period a year 
+ago. 
+
+Net inventories at the end of the third quarter were approximately 228 million, down 5% from the 239 million reported 
+in the second quarter. Net inventories declined approximately 11 million, or 5% on a year-on-year basis. Days of 
+inventory were about 54 days, essentially flat sequentially, and down six days from the year-ago period. Accounts 
+payable was approximately 352 million, down about 33 million sequentially, and up about 35 million on a year-on-year 
+basis. 
+
+Now I'd like to turn to our expectations for the fourth fiscal quarter of 2011. We anticipate revenues to be in the range 
+of 900 to 950 million. At the midpoint of this range, our guidance represents a decline of just over 3%, all of which is 
+attributable to the seasonal declines related to the gaming console portion of our mobile and wireless end market. As 
+Sehat indicated earlier, this seasonal decline should be expected. We have experienced similar declines in the past, 
+although the extent is larger now that we are serving more gaming console customers, with approximately 75% share of 
+this space. Beyond this, revenue in our other addressable end markets taken together is expected to be essentially flat. 
+
+Our sequential revenue trends in Q4 may be lower than historical norms. However, given the weaker trends in the PC 
+market we have experienced for the past six to nine months combined with the recent subdued demand in the 
+networking space, accounts were for the lower than normal trend we are experiencing. We consider these effects to be 
+
+
+near term, not company-specific, and should be resolved within the next year. 
+
+We project non-GAAP gross margin to be 59.5% plus or minus 50 basis points, in line with our long-term model. We 
+currently anticipate non-GAAP operating expenses to be in the range of 260 to 270 million. At the midpoint, we 
+anticipate R&D expenses to be approximately 202 million and SG&A expenses of approximately 63 million. At the 
+midpoint of our range, our guidances translate to a non-GAAP operating margin of approximately 31%. 
+
+The combination of interest expense and other income together should net out to approximately a $3 million benefit, 
+without consideration for currency translation impacts. Non-GAAP tax expense should be approximately 3 million. We 
+estimate that the diluted share count will be approximately 687 million shares excluding the potential impact from any 
+share repurchases during the quarter. This yields non-GAAP EPS in the range of $0.40 to $0.44 per share. 
+
+On the balance sheet, we currently expect to generate approximately 250 million in free cash flow during the quarter. 
+We anticipate our cash balance to be about $3 billion excluding any special items, M&A activity or share repurchases. 
+We currently expect our GAAP EPS to be lower than our non-GAAP EPS by about $0.06 per share plus or minus a 
+penny. About $0.02 of this difference is related to amortization of intangibles and $0.04 is stock-based compensation 
+expense. 
+
+In summary, during the third fiscal quarter we delivered excellent business results with revenues, operating margins 
+and free cash flow at historical highs. Our anticipated results for the fourth quarter are reflective of the typical 
+seasonality we expect as we increase our presence in more consumer-centric businesses. In spite of this, our margins 
+and earnings continue to sustain at high levels. 
+
+Now I'd like the turn the call over to the operator to begin the Q&A portion of the call. Amanda? 
+
+Q&A 
+
+Operator 
+
+Thank you, sir. [Operator Instructions] Your first question comes from the line of Harlan Sur of JPMorgan. Please 
+proceed. 
+
+<Q - Harlan Sur>: Hi, thank you for taking my question. On your mobile and wireless business, I can clearly see your 
+embedded Wi-Fi business being seasonally weaker in the fourth quarter, but your largest handset customer is seeing 
+solid handset shipment growth in both their November and February quarters. So, I'm just trying to figure out where the 
+disconnect is in terms of your flat guide for your comps processor business relative to your largest customer, which is 
+going see two quarters of pretty strong handset shipment growth looking out here over the next few months. I mean, is 
+there an additional component there like inventories, which need to be burned off? Any color there would help. Thank 
+you. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Yeah, Harlan, I don't think there's any disconnect. I 
+think you've got to look at the supply chain and I think you might be reflecting consumer purchases as opposed to in 
+the supply. So, if you look back, we had 20% sequential growth in this end market in the most recent Q3, and over 50% 
+in the quarter before that. So, I don't think there's any disconnect. If you aggregate them over say a four quarter period, 
+you'll find out there is no other color other than timing perhaps of supply and end consumption. 
+
+<Q - Harlan Sur>: Okay. And then my next question is on the HDD front, I mean, I think the recent sort of TAM 
+outlook for industry shipments is looking something like up 2% to 3% sequentially here in the December quarter. And I 
+know that the team also has Hitachi ramping in two platforms now. Is it still conservatism that drives sort of the flat 
+growth outlook or again, is there some other factor that we're kind of overlooking here that leads to sort of the flattish 
+growth outlook for your January quarter? 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Yeah, we got accused last quarter of conservatism 
+and I think people unfortunately came back to our forecast. I think you need to consider – we don't disagree with the 
+
+
+December numbers, but Sehat mentioned in his prepared remarks that you have to consider we have a January month in 
+our fiscal quarter. And I think the same data point you refer to would have declining Q1 typical seasonality. So, when 
+you add that up together, Harlan, I think you'll find that our forecast is consistent with the end markets we serve. 
+
+<Q - Harlan Sur>: Okay, thanks – okay, thanks, Clyde. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: You're welcome. 
+
+Operator 
+
+Your next question comes from the line of Glen Yeung of Citibank. Please, proceed. 
+
+<Q>: Hi, can you – sorry, this is Ji for Glen Yeung. Can you talk about the mix of gaming versus comp processor and 
+handset within mobile and wireless? And what is your expectation for the mobile and wireless division next year? 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: To the first part of the question, we don't disclose 
+the mix within the end market because it's collectively in that space, so sorry I can't help you with that, although the 
+dynamics within it, we tried as best we can explain on the call. At mobile and wireless next year, was your question, Ji, 
+end market or Marvell? 
+
+<Q>: Oh, sorry, for Marvell – and the end market. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: [Laughter] I think – I was reading recently that end 
+markets is expected – we participate in smartphones, and that smartphone market is intended to grow fairly 
+substantially next year. I was reading a report this morning I think on the same effect, that it's planning to grow. So, we 
+think that market is going to grow substantially next year and at Marvell we intend to grow at least at the market, if not 
+better. 
+
+<Q>: Okay, thank you. And then the second question is, you discussed some weakness in enterprise networking with 
+some inventory reduction at customers. Have you seen the inventory work through so far? 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Well, we're only one month into that quarter, so it's 
+still early. I think this – I don't think this is going be a prolonged inventory workout. The supply chain as we've 
+demonstrated early in the year on the PC side of it is fairly efficient about working through inventory so I don't think 
+this is going be prolonged. Whether it's going be one quarter or so, I don't think it's going be a prolonged effect for that. 
+
+<Q>: Okay, thank you. 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Thanks, Ji. 
+
+Operator 
+
+Your next question comes from the line of Sukhi Nagesh of Deutsche Bank. Please proceed. 
+
+<Q - Sukhi Nagesh>: Thanks for taking my question. Clyde, I think recent commentary suggests that the market for 
+the Microsoft Kinect actually is better than expected, and yet you're guiding your wireless LAN business on the console 
+side to decline significantly here. Maybe you can help us explain, maybe is there other platforms that are going down 
+other than Microsoft? And what kind of dynamics are taking place in that area? 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: I would agree. I think Kinect is an exciting one, 
+Sukhi. I just bought one a couple days ago, so I'll be dancing this weekend to that, but 
+
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: And we have three employees buy them. 
+We have – my employees buy three. [Laughter] 
+
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: There you go, so it is. You know, that's very good 
+product and all our customers in this space seem to be doing very well, but I think you got to look at it in the aggregate. 
+Most of these guys as we've indicated earlier, build it up, get it on a boat or plane, however, they deliver it to you 
+consumers here, and then they take a pause. So, there's potential to be upside. I don't think it's going to move the needle 
+for that one part of that product, but we're happy to hear that our customer products are doing well. 
+
+<Q - Sukhi Nagesh>: Got it, okay. And then switching over to the operating expenses side of things, your R&D was 
+lower in the October quarter, and yet you're guiding your R&D – your overall OpEx to increase in the January quarter, 
+despite your revenue being down. Was there something that happened in the October quarter that's pushing your R&D 
+into the current quarter? Can you help us, explain why your overall OpEx is going up? Thanks. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: No, there's nothing that was pushing through the 
+quarter. We've described to you guys our model. We are very excited about the long-term prospects. We have a ton of 
+new products in the pipeline that we need to invest in and will continue to invest. And obviously, Sukhi, I know you 
+know this, we don't invest in the company on a quarter by quarter basis. As both Sehat and I indicated earlier, we think 
+this is more of a seasonal trend. So, we'll continue to invest in the company, we'll continue to increase R&D, and that's 
+pretty much where that is. There was no management as such, as your question might imply. I think we intend to 
+continue to grow R&D to sustain the revenue growth we see ahead of us. 
+
+<Q - Sukhi Nagesh>: Great, thank you, guys. 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Thanks, Sukhi. 
+
+Operator 
+
+Your next question comes from the line of Ambrish Srivastava [BMO Capital Markets] Please proceed. 
+
+<Q - Ambrish Srivastava>: Hi, thanks. Clyde, just to follow up on Harlan's earlier question on the disk drive, and I 
+guess expectations are anywhere from flat to up a little bit Q-over-Q. But what does it say of the ramp that you are 
+undergoing at one of your customers, is there some implication that the ramp is falling out, or is there a pricing issue 
+here that we might be seeing? And then I had a follow-up as well for you, Clyde. Thanks. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Sure, no, this doesn't say anything about a ramp. Just 
+like with the previous question, one customer, one product isn't going to move the needle when you're looking at $900 
+million cost of revenues. So, there's no message in the ramp at that particular customer. We started off a couple quarters 
+ago. That continues. We expect that to continue into next year and typically, takes a few quarters for that to improve. 
+So, there's nothing, no change from where we are. 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: I can give some additional some color to 
+that. This is – okay, the drive industry is an industry that's misunderstood by many people, including our own people 
+internally. So, it takes a long time to get the design win, and it takes – it seems – and usually it takes times – longer 
+time to get new design wins to ramp up. And then – especially at the early times, early days of the ramp-up schedule. 
+And then also on the other hand, okay, at the tail end of the ramp-up, usually takes a faster ramp-up than expected. So, 
+you have these – fact that is quite unique in this industry. 
+
+So because of this, in the last 15 years, okay, we are doing this business, we never look at this backlog or – this profile 
+as a measure of success into this business. But the way we measure it is by the design wins, okay, whether we have the 
+design wins or not. When we get the design wins, okay, that is sufficient to make us feel comfortable then. When the 
+designs fully ramp up, we will have significant market share, as usually those programs will take over the older 
+products. So, I think at the end of the day, that's what matters. 
+
+<Q - Ambrish Srivastava>: Okay, and I'll raise my hand first that I don't understand the industry that well either, but 
+thanks for the clarification and your track record is there, so. As a follow-up real quick, Clyde, on the buyback, could 
+you help us understand what kind of parameters are you using to start implementing the 500 million that you 
+
+
+announced last quarter? Thank you. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Sure, the parameters are simple. We're going to buy 
+
+– what we announced is 500 million. And we bought just over 10% of that last quarter, and we'll continue to buy in the 
+market going forward. There's no other parameters other than those metrics. 
+<Q - Ambrish Srivastava>: Okay, great, thanks. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Okay. 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: Thanks, Ambrish. 
+
+Operator 
+
+Your next question comes from the line of Jim Schneider of Goldman Sachs. Please proceed. 
+
+<Q - James Schneider>: Good afternoon, thanks for taking my question. I was wondering on your guidance of down 
+3% at the midpoint, if you could help us understand what's baked into that guidance in terms of both end demand, 
+sell-through during the holiday season, as well as Chinese New Year heading into January? Thank you. And what 
+swing factors could cause that to be up or down on either end of that range? 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Good question, Jim. The end demand sell-through, 
+which all of us looks at, probably maybe a little bit earlier than Black Friday this time around, won't have as much 
+effect, because if things are doing well, it's hard to go back into the supply chain, affect supply, which still fairly decent 
+lead times to be able to turn that around into the quarter. So, it would have an effect in perhaps the next quarter, or 
+obviously long term, and hopefully it's a positive thing for all of us. But it's unlikely to have an effect for us in this 
+quarter. With respect to Chinese New Year, we don't 
+
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: It's harder – that's harder to – I think with 
+Chinese New Year, it's a little bit harder to predict what the effect's going to be. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Right, so – right. So, it is harder and it's in early 
+February this year, so it would have the timing of when people either consume products, or build ahead for the factory 
+shutdowns would have an effect, and we've tried our best to accommodate some of that into our forecast. 
+
+<Q - James Schneider>: Okay, great, that's helpful. And then as a follow-up, I'd really like to get your opinion on how 
+you see the potential for cannibalization of the hard drive market overall. Whether that's tablets cannibalizing netbooks 
+or even within – excuse me, notebooks, or even within notebooks, solid-state drives versus hard drives? And any kind 
+of quantification you can provide on that would be very helpful. 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: Yes, I think we – okay, we talk about this 
+many times in the last few quarters. I still believe in the same comments that we've been always saying. The hard drive 
+markets will – okay, well, the – the tablets is going to have some impacts on the hard drive markets. That's clear, but – 
+because the form factor requires that, because the tablets have to be much, much thinner than the notebooks. 
+
+However, having said that, the notebooks market will also – will continue to grow as the pricing of the notebooks are 
+significantly lower price than the tablets. And there's significant numbers of users around the world that today do not 
+have yet PC exposure. So, there's a lot of greenfield markets for notebooks, as well as for tablets. So, I'll say that both 
+have opportunities. So, now – so because this – because of these dynamics of tablets getting – some people in the 
+developed world, they already have a PC, already have notebooks, maybe they will buy – for a change, they will buy 
+tablets. 
+
+For people that have older – especially if it's laptops are pretty new already, it's only like a year old, so they'll probably 
+wait and buy tablets. But as these lower power, higher performance PCs, laptops come into the market, they also buy – 
+they have to replace that to buy more laptops. So, okay, our projection is that the HDD will – initially – okay, for now, 
+
+
+okay, it's going to be flattish. But the growth, okay, because of the economy and – but in the long run this will continue 
+to grow. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: And if I may, add to that, to the other part of your 
+question, Jim, is with respect to SSD in – even within notebooks, we are very strong in SATA-based controllers. We 
+have that product, so to some extent, we are agnostic when that transition happens. Whether somebody buys a drive and 
+we sell them HDD controller into that drive or they sell a SSD that likely will have SATA-based stuff, we are very, 
+very strong in that space. And I think we will fare very well if that part of the transition happens. 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: I think maybe I forgot to mention if that 
+happens, if there are more SSDs sold because we have very strong presence in the controllers on the SSD side, the fact 
+that the SSD controllers are sold at higher price than the HDD controllers, okay, the net effect actually we should be – 
+we'll be in a better position. 
+
+<Q - James Schneider>: Thanks very much. 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Thanks, Jim. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Thanks, Jim. 
+
+Operator 
+
+Your next question comes from the line of Chris Caso of Susquehanna Financial Group. Please proceed. 
+
+<Q - Chris Caso>: Hi, thank you. I wonder if I could just follow up to an earlier inventory question and just make sure 
+I got the understanding correctly. Being, if you could address where you think you're shipping against consumption in 
+both the hard drive markets, and the networking markets? Do you think there's still inventory to burn off on those 
+markets? Or as you go forward, should your revenue really be tracking what's going on in those end markets? 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Thanks, Chris. On the hard drive market, I think we 
+said on the last call on the supply chain side of it, we think the inventory issue has been, so there might have been some 
+still on the OEM side in the PC side of it, but even then I believe that's pretty much worked past us. And as we've 
+demonstrated in Q3 results and our Q4 forecast albeit with that January month, we ship into consumption. So, short 
+answer to the drive side of it is we believe the inventory is behind us and we're back to consumption levels, whatever 
+that translates into. 
+
+On the networking side, that's more recent and it's hard to say because it's a bigger, longer, I think more complicated 
+supply chain. So, it's hard to say where we are in that thing. But I think – I said earlier that I believe the participants in 
+that space are reacting very well. So, I don't think it's going be prolonged, but it's hard for us to say exactly where we 
+think we are in that cycle. 
+
+<Q - Chris Caso>: Okay, that's fair. As a follow-up, is there any update you could provide us with what's going on 
+with China Mobile now and your design engagements for them? 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Hey, okay, so I guess the question's related to the 
+TD-SCDMA single chip communication processors for the smartphones. So, that – okay, that's going actually very 
+well. The first customer they'll be – there'll be a first customer starting shipping this quarter, and the rest are expected – 
+we expect the rest to be shipping in the next half a year – I mean, the first half of the year, the first half of the next year. 
+So, various different customers obviously. 
+
+<Q - Chris Caso>: Great, thank you. 
+
+Operator 
+
+
+Your next question comes from the line of Uche Orji of UBS. Please proceed. 
+
+<Q - Uche Orji>: Can you hear me? 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Yes, Uche. 
+
+<Q - Uche Orji>: Cool, okay. Let me just – probably as a follow-up to Jim's question about how the tablet market 
+impacts you, can you talk about any traction that your ARMADA chip could be having in the tablet market? I mean, 
+you have talked about so many SKUs of tablets that will be coming. Any comment at all as to Marvell's positioning in 
+that market? And then I have a follow-up as well. 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: Okay, so maybe I can cover part of it and 
+not miss anything, we can slide maybe on to – certain part of the ARMADA devices are targeted for the tablet market. 
+We – also a certain portion of the products that we build for the ARMADA family is targeted for set-top box, Blu-ray 
+player, application processor for the TV, as well as for other smart display-type applications. 
+
+So if you look at the family of those products, we have – really you can consider targeting for consumer, consumer 
+grade types of devices that drives web-types of services, as well as providing HD videos, HD audios and 3D gaming 
+capability. So, the – this is a newer part of our target market, but we are very excited because this is – it's a huge market 
+opportunity for the future growth of Marvell. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: The only thing I'd add, Uche, as you very well 
+know, the tablet market as shipping today is dominated by one company, and the supply chain for that is well 
+documented. But I think this is an opportunity ahead for us and I think we're comfortable that we have designs that 
+should come to market next year. And I think we'll improve our hand as the future unfolds. 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: I also forgot to mention and maybe I 
+should mention a little bit, in – also in certain parts of the tablet market where they need the built-in modem 
+functionality, we are also well-positioned because we have integrated communication processors there that also can be 
+used in that market. 
+
+<Q - Uche Orji>: I see, I see, okay, that's helpful. Clyde, let me just ask you about – I think it was something you had 
+said in fiscal fourth quarter when you provided medium- to long-term revenue CAGR for the company, I think it was 
+something in the order of 20%, 25%. As we start to look at various factors in the business today, is that still something 
+you're willing to reiterate? And if that's the case, as we look down at the future, can you kind of help us walk through 
+where the most significant revenue growth opportunities for Marvell will come from? Without necessarily providing 
+specific guidance, just how we should think about the medium- to longer-term growth outlook for the company? 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Yeah, I think we said that we usually provide that 
+business model at the beginning of the quarter so we'll do it on the next call. The last one was about nine months ago. 
+We haven't changed our views. These are three-year growth models. We haven't changed our views on it and shouldn't 
+do that in any given quarter, whether it's a good quarter or not so good quarter. So, we still believe that's the right target 
+model for us. We believe we are tracking to that. 
+
+And the areas where it would come is still the same. We expect all three end markets that we serve and plus a fourth 
+emerging one that – we call it Other, but there's a number of products in there, we expect all of those to contribute to 
+the top-line. So, I don't think anything has changed nor would I encourage any investor to think that we've changed any 
+of the view. You shouldn't change – those views are long term. We shouldn't change it. We don't manage the business 
+on a quarter basis with respect to our long-term models. 
+
+<Q - Uche Orji>: Sure, sure, fair enough. And just one last question, your inventory was down for the quarter. If we 
+look – if you look into the channel, any commentary you can make about inventory and other aspects apart from the 
+networking area, where obviously what's good on there was well documented, what sense can you give us as to the 
+inventory within storage and also, within the mobile and wireless area? Just to get a sense of whether it's declining 
+eventually – you've seen it – is it something that is expected to going forward in the channel? Thank you. 
+
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Yeah, Uche, we tried to answer it a couple of times 
+in the call so nothing – no different. I think on the storage side or the drive side, I think the inventory issue is well 
+behind us. We ship into end markets. Networking, same comment as before. It's still early and a complicated food chain 
+for us to predict, so can't give you more color than that. And don't see anything in mobile and wireless right now that 
+concerns us, so I'd reiterate what we said earlier in the call. 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Amanda, we'll take the next call, please. 
+
+<Q - Uche Orji>: Thank you. 
+
+Operator 
+
+Yes, sir. Your next question comes from the line of John Pitzer of Credit Suisse. Please proceed, sir. 
+
+<Q - John Pitzer>: Yeah, good afternoon, guys. Thanks for taking my question. Clyde, you mentioned that your 
+guidance for the January quarter for networking to be flat was somewhat a function of what you think's going to be 
+kind of a short-lived inventory situation. But when you go back and look over the last several quarters, that business 
+has been kind of flattish. And I'm just kind curious, I know there's some of the Ethernet controller on the PC side, 
+which was related to PC weakness. But what are some of the bottoms up product cycles you see on the enterprise side 
+that's going to help drive sequential growth from here? 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: So we still have – we are up and up at customers on 
+the enterprise switches and that I think will continue to grow. We have very competitive products. We announced I 
+believe a year ago-ish, some PON products and you should see that starting to ramp. We have customer design wins in 
+that space, and that should start ramping up next year and those are just two examples of stuff in that space. This end 
+market is characterized 
+
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: High capacity, high end top of the rack 
+switches like 10 gigabits and beyond switches, 40 gigabit. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Right 
+
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: So again, that's for next year types of 
+revenue. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: So we have a number of good products, including 
+what Sehat mentioned, John. For this market, the latency period from designs to production is a lot longer than say a 
+PC or consumer type market. So, you can't judge it on a quarter by quarter basis. 
+
+<Q - John Pitzer>: That's helpful. Then I guess, guys, when you look at the ARMADA relative to the guidance for the 
+January quarter, could – given the design wins you guys see, could ARMADA be up sequentially? Or just help me 
+understand how I should think about that relative to new product ramps? 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: John, we don't describe within the thing by product 
+and part of it is I try not to remember it so I don't inadvertently tell you. So, honestly I don't know. 
+
+<Q - John Pitzer>: I guess 
+
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: It's trending positively, I would do that. As some – 
+one of the callers earlier mentioned, one of the products we're in there is doing very well so it's trending positively. But 
+I really couldn't give you any more color than that. 
+
+<Q - John Pitzer>: Great, thanks, guys. 
+
+<A - Jeff Palmer, Vice President of Investor Relations>: Thanks, John. 
+
+
+Operator 
+
+Your next question comes from the line of Sanjay Devgan of Morgan Stanley. Please proceed. 
+
+<Q - Sanjay Devgan>: Hey, guys, thanks so much for taking my call. Just a question on your handset business, your 
+comm processor, your wins with RIM, and the China Mobile engagement are well documented. I was just wondering if 
+you can give us an update on kind of your efforts with Tier 1 handset OEMs outside of the China Mobile relationship? 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: I think it's too early to talk any specific 
+names, but you can – if you're talking about outside the China Mobile, means outside TD-SCDMA or outside specific 
+
+
+<Q - Sanjay Devgan>: Talking mainstream outside of China, outside of TD-SCDMA with Tier 1 handset OEMs, any 
+kind of color you can give us there in terms of potential engagements or when we should kind of look to kind of new 
+growth opportunities? 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: I think it's probably – it's too early to talk 
+about it at this point 
+
+
+<Q - Sanjay Devgan>: Okay. 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: I think that's probably the 
+
+
+<Q - Sanjay Devgan>: And then I guess maybe then kind of following up with the ARMADA, just standalone 
+ARMADA, following up with what Uche and John Pitzer said, if you can kind of give us some color, how has that kind 
+of tracked relative to your expectations internally? Have you guys been pleased with the uptick of that? And I'm talking 
+specifically outside of comm processors and outside of the gaming platforms. 
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: Well, compared to our aggressive 
+internal expectation, obviously we are always usually – usually the real life answer is to be slower than our most 
+aggressive expectations. Compared to our conservative expectation, I would just – I will say we are quite in line. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: And, compared to reality. So, for that expectations, 
+compared to reality, that is ramping up very well. But as Sehat indicated, we always try to drive 
+
+
+<A - Sehat Sutardja, Chairman, President and Chief Executive Officer>: Yeah, clearly we always try to drive 
+things to be more aggressively. 
+
+<Q - Sanjay Devgan>: Sure, sure, okay. I guess just lastly, in closing, quick question for Clyde, now it's the obligatory 
+uses of cash question. You're coming up on 3 billion in cash. Was wondering when you guys would revisit the share 
+buyback or potential dividend? Is that something more a 2011 or when can we expect some more news on that? 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: We are in the middle of a share buyback program. 
+
+<Q - Sanjay Devgan>: Sure. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Still in the early stages of it. So, I think the direction 
+on that is to continue and fill that out and we'll deal with as we get to the end of it what next to do. With respect to a 
+dividend, it's always on our radar. We have discussions inside the company, but obviously nothing to announce today 
+about it. But we do – are having more and more discussions today than say a year or two ago about it obviously, and 
+that's probably as much as I can say right now. 
+
+<Q - Sanjay Devgan>: Okay, thank you very much, guys. 
+
+<A - Clyde R. Hosein, Chief Financial Officer and Secretary>: Thank you. 
+
+Operator 
+
+
+This concludes the question and answer session for today's call. I'll now turn the call back over to Mr. Jeff Palmer for 
+closing remarks. 
+
+Jeff Palmer, Vice President of Investor Relations 
+
+Thanks, Amanda. I'd like to thank everyone for their time today and continued interest in Marvell. As a reminder, we'll 
+be attending several investor conferences over the coming weeks. On December 1, we will be attending the Credit 
+Suisse Annual Technology Conference in Scottsdale, Arizona. And on December 8, we'll be attending the NASDAQ 
+OMX Technology Conference in London, England. We thank you for your interest in Marvell and look forwarded to 
+speaking with you at these upcoming conferences over the coming months. Thank you very much for your interest in 
+Marvell. Bye now. 
+
+Operator 
+
+This concludes today's presentation. You may now disconnect. Have a good day. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2010, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

@@ -1,0 +1,639 @@
+Q2 2009 Earnings Call 
+
+
+Company Participants 
+
+• Michael W. Hara, Vice President, Investor Relations and Communications 
+• Jen-Hsun, Huang, Co-founder President and Chief Executive Officer 
+• Marvin D. Burkett, Chief Financial Officer 
+• Jen-Hsun Huang, President and Chief Executive Officer 
+Other Participants 
+
+• Daniel Berenbaum 
+• JoAnne Feeney 
+• Joanne Feeney 
+• Patrick Wang 
+• Arnab Chanda 
+• Daniel Ernst 
+• Hans Mosesmann 
+• Doug Freedman 
+• David Wu 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon, ladies and gentlemen. Thank you for holding. I would now like to turn the call over to Michael Hara, 
+Vice President, Investor Relations. Thank you, sir. You may begin. 
+
+Michael W. Hara, Vice President, Investor Relations and Communications 
+
+Thanks, Kevin. Good afternoon and welcome to nVIDIA's conference call for the Second Quarter ended July 27, 2008. 
+On the call today for nVIDIA are Jen-Hsun Huang, nVIDIA's President and Chief Executive Officer, and Marv 
+Burkett, NVIDIA's Chief Financial Officer. 
+
+Before we begin today's call, I would like to take care of some general administrative items. Your lines have been 
+placed on a listen-only mode until the question-and-answer segment of today's call. 
+
+During this call, we will discuss some non-GAAP financial measures about diluted net income per share, tax rate and 
+gross margin when talking about our results. You can find a reconciliation of these non-GAAP financial measures to 
+GAAP financial measures in our financial release, which is posted on the Investor Relations page of our website at 
+www.nvidia.com. 
+
+Unless otherwise noted, all references to research, market and market share numbers throughout the call come from 
+Mercury Research or Jon Peddie Research. 
+
+This call is being recorded. If you have any objections, you may disconnect at this time. Please be aware that if you 
+decide to ask a question, it will be included in both our live transmission as well as any future use of the recording. 
+
+
+Also, shareholders can listen to a live webcast of today's call via the Investor Relations page of our website. The 
+webcast will be available for replay until our conference call to discuss the financial results for the third quarter fiscal 
+2009. The content of today's conference call is nVIDIA's property and cannot be reproduced or transcribed without our 
+prior written consent. 
+
+During the course of this conference call, we may make forward-looking statements based on current expectations. 
+These forward-looking statements are subject to a number of significant risks and uncertainties, including statements as 
+to our financial outlook and projections, digital computing, the GPU and CUDA; the impact, performance and 
+availability of and demand for our products and technologies; our competitive position; and our growth and strategies. 
+Our actual results may differ materially from results discussed in any forward-looking statements. 
+
+For a complete discussion of factors that could affect our future financial result and business, please refer to our Form 
+10-K for the fiscal year ended January 27, 2008 and the reports on Form 8-K filed with the Securities and Exchange 
+Commission. All forward-looking statements are made as of the date hereof, based on information available to us today 
+and except as required by law, we assume no obligation to update any such statements. The content of the webcast 
+contains time-sensitive information that is accurate only as of August 12, 2008. 
+
+Consistent with the requirements under Regulation FD, we will be providing public guidance directly in the conference 
+call, and will be unable to provide significantly more information in off-line conversations or during the quarter. 
+Therefore, questions around our financial expectations should be asked during this call. 
+
+At the end of our remarks, there will be time for your questions. In order to allow more people to ask questions, please 
+limit yourself to one question. After our response, we will allow one follow-up question. 
+
+With that, I will now hand the call over to Jen-Hsun. 
+
+Jen-Hsun, Huang, Co-founder President and Chief Executive Officer 
+
+Thanks, Mike. Good afternoon, and thank you for joining us. Q2 was a challenge for nVIDIA. We reported revenue of 
+893 million and non-GAAP diluted earnings per share of $0.13, significantly below our original expectations. 
+
+The simultaneous impact of desktop PC end market weakness around the world, adjustments of our desktop GPU 
+ASP's in response to competitive pricing, and the delayed ramp of our next generation MCP substantially contributed to 
+our revenue shortfall. 
+
+We also noted that we would be taking a non-recurring charge against cost of revenue to cover anticipated customer 
+warranty, repair, return, replacement and other associated costs resulting from a weak die/packaging material set in 
+certain previous generation GPU and MCP products used in notebooks. 
+
+Although the failures are only seen in small percentages of all the chips we shipped with this material set, the repair 
+costs of a notebook can be expensive. In total, we took a charge of $196 million. We will continue to support our OEM 
+partners on responding and resolving end customer issues. 
+
+We underestimated the price performance of our competitor's most recent GPU, which led us to miss-position our fall 
+lineup. The first step of our response was to reset our price to reflect competitive realities. Our action put us again in a 
+strong competitive position, but we took hard hits with respect to our overall desktop GPU ASP's and ultimately, to our 
+gross margins. 
+
+The price action was particularly difficult since we are just ramping 55-nanometer and the weak market resulted in 
+taking longer than expected to work through our 65-nanometer inventory. Throughout the second quarter, we observed 
+a general weakness in the desktop GPU segment. Consistent with the results published in Mercury Research Q2 '08 
+graphics report, desktop standalone GPU shipments declined over 23% from the first quarter, mostly in the low end 
+GPU segments. 
+
+
+We believe the decline was primarily due to a weak economic environment driving a mix shift to lower priced PCs, as 
+well as a continued mix shift to notebook PCs. Until we can offer motherboard graphics for Intel platforms, our 
+penetration of notebooks in low cost PCs will remain low. We hope to start production this quarter. 
+
+There were several bright spots in our business. We see continued strength in our Professional Solutions business. The 
+Quadro business grew 38% over last year. The mobile workstation marketplace is growing at 30% a year, and over the 
+last 18 months, we've gone from around 40% share of this market to over 90% share. 
+
+Despite the challenges we faced in the second quarter, we remain optimistic about our growth opportunities. There are 
+a number of steps we're taking now and in the next several quarters to regain our growth momentum, which I will 
+outline later in the call. 
+
+Let me now turn the call over to Marv to discuss our financial results. 
+
+Marvin D. Burkett, Chief Financial Officer 
+
+Thanks, Jen-Hsun. My remarks today will cover the second quarter of fiscal '09, including comments regarding both 
+GAAP and non-GAAP results for the quarter. 
+
+Included in the quarterly results is a charge of 196 million to cost of revenue for a warranty issue, which we previously 
+disclosed. The difference between GAAP and non-GAAP is this warranty charge and the charges for stock-based 
+compensation. A full reconciliation is included in our press release and on our website. 
+
+As Jen-Hsun stated earlier, revenue for the quarter was 893 million, which is down 23% from Q1 and down 5% from 
+the prior year. The issues with regard to revenue in the quarter are almost entirely focused on the desktop GPU 
+segment. Desktop GPU revenue was down 40% quarter-to-quarter and down 25% year-to-year. The remainder of the 
+business combined was down 10% quarter-to-quarter and up 11% year-to-year. Desktop GPU units declined by 20% 
+but more importantly, desktop ASPs declined by 25% quarter-to-quarter. Jen-Hsun has already gone over the issues 
+here, so I won't repeat them. 
+
+Notebook GPU revenue was actually up quarter-to-quarter by 8% and up 43% year-over-year. Professional Solutions 
+revenue decreased by 12% quarter-to-quarter as expected after an exceptionally strong Q1. Memory in the quarter was 
+down by 40% to 21 million. The decline in both desktop unit volume and ASPs created significant pressure on margins. 
+The 25% decline in ASPs falls directly to the margins. 
+
+As a result, overall corporate margin decreased to 16.8% for GAAP and 39.1% for non-GAAP. The decline in desktop 
+ASPs did not carry over into notebook. Notebook ASPs were relatively flat quarter-to-quarter. GAAP operating 
+expenses were 305 million, down almost 7 million quarter-to-quarter. We were able to start the process of limiting 
+OpEx growth. During the quarter, we added 195 new employees and ended the quarter at 5,553 employees. Much of 
+the growth in the quarter was new college graduates. 
+
+Depreciation in the quarter was 46 million, up about 5 million from Q1. Capital expenditures were 63 million, which is 
+down 139 million from Q1. However, the Q1 capital additions included 150 million for the purchase of property in 
+Santa Clara. The Q2 additions of 63 million included 25 million of test equipment. Despite all of the issues, cash flow 
+from operations was still positive in the amount of $90 million for the quarter. Interest income and other was 9 million, 
+which is down about 1 million from the first quarter, primarily due to lower than average cash balances and lower 
+interest rates during the quarter. 
+
+The non-GAAP tax rate for the quarter was 17%, while the GAAP tax rate was a benefit. Going forward, we expect the 
+GAAP tax rate to be 23% and the non-GAAP tax rate to remain at 17% for Q3, unless the R&D tax credit is renewed in 
+the quarter. GAAP EPS for the quarter was a negative $0.22 per diluted share and non-GAAP EPS for the quarter was 
+$0.13 per diluted share. 
+
+There were no stock repurchases during the quarter, however, this week our Board of Directors approved an increase in 
+our stock repurchase program from 1.7 billion to $2.7 billion. Through July 27, 2008, we had repurchased 68 million 
+
+
+shares under our existing stock purchase program for a total cost of 1.16 billion. 
+
+On the balance sheet, cash and marketable securities were 1.66 billion, which is up $36 million quarter-to-quarter. 
+Accounts receivable were 679 million, up $28 million, and DSO was at 69 days. This reflects the profile of shipments 
+during the quarter. We have not experienced any problems with receivables. Inventory was 432 million, up only 12 
+million quarter-to-quarter, as we did a good job moderating production volumes. 
+
+Accrued liabilities, which is up 247 million in the quarter, includes the accrual for the warranty charge. There are no 
+other highlights on the balance sheet. On the outlook, revenue will be the most difficult to forecast. We are expecting 
+our market for desktop PCs to grow less than seasonal. While we expect growth in MCP, Sony and desktop, other 
+business units may be flat to slightly down therefore, we expect total revenue to grow slightly. 
+
+For gross margins, we would expect small improvements until we can make the transition to 55-nanometer. This is in 
+process, but we have inventory of the 65-nanometer parts, which will have to be sold first. Operating expenses will be 
+up from the second quarter approximately 5%, but we will try to reduce that growth as much as possible. The GAAP 
+tax rate will be 23% and the non-GAAP tax rate will be 17%. 
+
+With that, I'll turn it back to Jen-Hsun. 
+
+Jen-Hsun Huang, President and Chief Executive Officer 
+
+Thanks, Marv. The visual computing universe is expanding and is driving exciting growth opportunities for the GPU. 
+Visual computing is no longer just about graphics. We are driving revolutionary advances in four distinct areas, 
+photorealistic rendering; image processing, such as video processing and computational photography; parallel 
+processing for the complex -- for the simulation of complex algorithms like real world physical properties; and rich 
+displays, such as 3D Touch UI and 3D stereoscopic displays. We have been innovating and investing in these four 
+areas for some time, and plan to launch products and initiatives soon. 
+
+At the core of these growth strategies is CUDA, our general-purpose, massively parallel computing architecture. 
+CUDA is a new mode in all of our GPUs, starting with the GeForce 8 family. CUDA is not GP GPU. The 
+programming model is not triangles and texture maps. 
+
+When in the CUDA mode, our GeForce Quadro Tesla processors behave like a general-purpose processor and is 
+programmed using C and a C compiler. Nearly 100 million CUDA-compatible processors have already shipped in 
+desktop PCs, notebook PCs and workstations. Our GPUs are CUDA compatible from top to bottom and the many years 
+of products on our development pipeline are all CUDA compatible. CUDA is already the world's highest volume 
+parallel computing architecture, and the adoption of CUDA is accelerating. 
+
+Developers all over the world are using CUDA to dramatically accelerate their applications, ranging from 
+nano-molecular dynamics, computational photography, N-Body simulation for astrophysics; computational fluid 
+dynamics; computational finance, such as options risk analysis; and tomographic reconstruction. 
+
+Developers are seeing accelerations ranging from 10-x to 300-x. CUDA is clearly revolutionizing supercomputing 
+around the world, and dramatically accelerating the time to discovery from life sciences research to the search for 
+alternative energy sources. 
+
+Over 100,000 copies of the CUDA C compiler have already been downloaded since we launched CUDA almost two 
+years ago; and nearly 52,000 copies of the CUDA C compiler were downloaded in Q2 alone. And the rate continues to 
+grow rapidly. 
+
+HPCwire Readers chose CUDA as the most significant HPC, which stands for High Performance Computing, software 
+of 2007. Our website links to over 100 published papers that reference CUDA, but we estimate many times that have 
+been published worldwide. Over 50 schools and universities worldwide now include CUDA as part of their computer 
+science curriculum or in their research. 
+
+
+We recently sponsored a new parallel computing lab at Stanford University, and appointed the first two CUDA Centers 
+of Excellence, the University of Utah and the University of Illinois at Urbana-Champaign. Both universities are leaders 
+in parallel computing, and like many others, have adopted CUDA. We are honored by their investment around CUDA 
+and thrilled by the work that they're doing in parallel computing. 
+
+CUDA has opened up a new and exciting market to us. With our Tesla product line, we are poised to revolutionize a 
+new class of personal supercomputers. Through CUDA, we have discovered a pent-up demand of researchers around 
+the world desperate for supercomputing performance, but cannot afford the enormous expense to run and maintain a 
+supercomputing cluster. 
+
+We will even revolutionize supercomputing clusters. Because of the dramatic acceleration using CUDA, our Tesla 
+product line will reduce the space and power consumption of clusters by 10 to 20 times. This translates to either more 
+performance possible in any server room or millions in energy savings each year. 
+
+Linux Magazine likened the introduction of GPU computing to the great cluster disruption that transformed data 
+centers in the '80s. They added that we could be at the beginning of another paradigm shift. We will start to ship our 
+Tesla processors this quarter. The Tesla C1060 computing is the world's first teraflops processor. While, the S1070 
+teraflops -- S1070 -- a few missing words there -- delivers four teraflops per one new configuration. Tesla and CUDA 
+look to be change agents for a multi-billion dollar market. 
+
+One of the most important applications of CUDA is the simulation of physical properties of objects and environments. 
+The most popular demo at the press launch of the GeForce GTX 280 was the Natural Motion's Backbreaker. 
+Backbreaker uses NVIDIA's PhysX engine to simulate the motion of players. 
+
+PhysX is the world's most pervasive PhysX engine, available on Xbox 360, PlayStation 3, Nintendo Wii and PC. 
+PhysX allows game developers to use physical world simulation on the GPU to create content automatically, making 
+the game feel and behave like the real world. 
+
+We have registered over 26,000 developers using PhysX and are seeing over 4,000 PhysX SDK downloads per month. 
+Nearly every game in development today will incorporate PhysX simulation to enhance realism, while moderating the 
+escalating cost of game art. 
+
+The PhysX engine runs on any PC. However, when accelerated by a CUDA compatible GPU, effects like cloth, soft 
+body, particle and fluid simulations can speed up 10 times over a Quad core CPU alone. 
+
+PhysX adoption is accelerating rapidly. Game engines, including Unreal Engine 3, Gamebryo, Tradgy use it. 
+Middleware developers such as NaturalMotion, AIseek, SpeedTree are licensees. There are over 150 titles shipping and 
+well over 200 titles currently in development. 
+
+The visual computing revolution is happening and is all around us. On August 25 to 27, along with companies 
+worldwide contributing to the visual computing universe, we are hosting NVISION 2008, the world's first mega event 
+dedicated to the visual computing movement. This will be one of the largest events ever held in San Jose, and will be 
+attended by game developers, designers, artists, programmers, engineers, scientists, researchers, system OEMs and 
+gamers and technology enthusiasts from all over the world. For gamers, NVISION '08 includes a massive LAN party 
+and the finals of the Electronic World Sports World Cup. For artists, we're hosting Demoscene, machinima using 
+games to create movies and digital art events. 
+
+We'll have an exclusive showing of the new 3D movie, Fly Me to the Moon, hosted by Buzz Aldrin, and its director, 
+Ben Stassen. We'll have Technical Tracks for content creators, developers, artists and scientists. We're also hosting the 
+Emerging Companies Summit, in which 60 new companies meet the financial community to discuss breakthrough 
+products using the power of visual computing. 
+
+We got tripped up in Q2. Some things we can't control but there are many things we can. We've dusted ourselves off 
+and we are now intensely focused on change, changes and improvements that will enhance our performance in the 
+future. For all who have followed nVIDIA over the years, you know what we can achieve when challenged. We will 
+surely overcome this challenge as well, meanwhile, continuing to drive the visual computing revolution we started. 
+
+
+We'd be happy to take your questions now. 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions] It will be just one moment for our first question and it comes from the line of Daniel 
+Berenbaum, Cowen and Company. Please proceed. 
+
+<Q - Daniel Berenbaum>: Yeah. Hi. Thanks very much. Jen-Hsun, when you talk about gross margin improvement, 
+and you talk about improving slightly until you fully get to 55-nanometer, how should we think about that trajectory 
+over the next couple of quarters? And then how much of the gross margin improvement is going to be because pricing 
+has now stabilized because you've readjusted your products to the right price points? And how much of that comes 
+from cost improvements? 
+
+<A - Jen-Hsun Huang>: First of all, with respect to the price adjustment, our price going into Computex, which was 
+around the June timeframe was just wrong and we miscalculated the competition. And now that we've properly 
+calculated and gauged the competition, we've reset our price to it, and we have a strong position going into the fall. So 
+my expectation is that pricing is going to be stable going forward. From this point out, I guess the real focus is gross 
+margins improvement. 
+
+Now, there's all kinds of levers we could pull and we ought to be working on all of them. You've seen us improve our 
+gross margins in the past and we'll improve our gross margins going forward. And so the company is, as you can 
+imagine, very, very focused in this area now and even more focused than in the past. So we just have to go figure out 
+how to get our costs in line and our gross margins back up. And so it's not a singular thing that explains it all away. 
+
+Our situation was particularly aggravated because we were the first to 65. We had such a large momentum of 
+65-nanometer products. And when the market slowed down unexpectedly for us, we ended up with a lot more 
+65-nanometer capacity or inventory than we'd like. All of our products are now 55-nanometer and all of them are ready 
+to ramp and many of them have ramped. But until we consume the 65-nanometer capacity – or inventory, excuse me – 
+we're not really going to be able to benefit from the cost reductions of the 55. But that's not the only thing that we need 
+to do. The company needs to do a lot more. And I expect the various groups around the company to be doing a lot more 
+in gross margin improvements. 
+
+<Q - Daniel Berenbaum>: Okay. Thanks very much. 
+
+Operator 
+
+Our next question comes from the line of JoAnne Feeney with FTN Midwest Research. Please proceed. 
+
+<Q - JoAnne Feeney>: Thanks guys. I have a question about the charges and your view of what might still be out 
+there; there's some concerns that there may be more product failures. And in your opening remarks, Jen-Hsun, you 
+remarked that you felt like you're going to continue to support the partners. Do you see that support leading to potential 
+more write-downs in the future? 
+
+<A - Jen-Hsun Huang>: We're not expecting more write-downs in the future. When we scoped out the problem, we 
+had -- we felt we had enough data to project out the anticipated failures from the various platforms that are out there. 
+This doesn't happen to all of our chips and it doesn't happen to most of the notebooks that are out there. There's only a 
+few examples of them and of all the notebooks that have shipped. And so we think we have a pretty good handle on the 
+situation, but -- and we thought that we were relatively conservative, but we'll see how it goes. 
+
+<Q - Joanne Feeney>: Okay. And then if I could, just a question on the motherboard GPU product. You remarked that 
+you were ramping production. When do you think that becomes -- could you give us a timeframe for when that 
+
+
+becomes a more significant share of your revenues? And perhaps give us some numerical targets that we should expect 
+in terms of the share of output? 
+
+<A - Jen-Hsun Huang>: I can tell you that we're building a lot of them right now. I can tell you that, from a 
+technology perspective, it is a solid year to maybe year and a half ahead of what the competitor has in the space. In 
+terms of GPU computing and many core programmable processing on the motherboard, it is the only solution for, from 
+what I can tell, several years out. And so we have – we have a very significant advantage relative to the competition. 
+We also have some very exciting design wins; nothing that we can announce today but hopefully we'll learn about them 
+in the near future. And so this is an important project for us. We put a lot of engineering into it and I'm expecting it to 
+be a really exciting product. 
+
+Operator 
+
+Our next question comes from the line of Patrick Wang with Wedbush Morgan. Please proceed. 
+
+<Q - Patrick Wang>: Yes. Hi. I just wanted to talk real quickly about Desktop GPU again. Can you help us better 
+understand what you're expecting in terms of timeline for the Desktop GPU business to stabilize? 
+
+<A - Jen-Hsun Huang>: Well, I wish I could tell you. And part of it has to do with the economy. Some of it has to do 
+with the US currency. And what we've found is that there was a pretty strong shift from mid-range desktop PC 
+segments or products to entry PC and some of it's notebook. And so -- and we also saw that the US OEMs were 
+stronger because of the weak dollar relative to the European system builders. And our European business tends to be 
+substantially larger in terms of GPU attach. And so there's a lot of things that conspired against us. But at the core of it, 
+I think that the weak economy played a pretty significant role. We didn't really -- we didn't lose any share; the 
+marketplace just -- the market just got soft on us. And so it's hard to say exactly when it's going to recover, but I think 
+that time will tell. 
+
+<Q - Patrick Wang>: Gotcha. And then just a quick question on gross margins in, I guess, two parts here. First off, I 
+understand you guys have some 65-nanometer inventory to work through. How much is there and how long does it 
+take? And then second, if – Marv, I guess you can talk about some of the moving parts on gross margin in Q3 – fiscal... 
+
+<A - Marvin Burkett>: Well, how long does it take us to work through it depends on how many we sell in each 
+quarter. I think we'll see some improvement in Q3 and some improvement in Q4 from the transition to 55-nanometer. 
+We'll have to see how quickly we work through that inventory. 
+
+Some of the moving parts on gross margin going forward is that I think that Jen-Hsun said that we see prices is 
+stabilized and the desktop GPU area, so the improvement in gross margin there is going to have to come from cost 
+reduction. In MCP, which will become we think an increasing portion of our business; obviously, it is not at the gross 
+margins of the rest of the company so that could be a slight drag. Offsetting that we expect nice growth from the Sony 
+arrangement which is obviously very, very high gross margins, so that would be a benefit. So there is lots of moving 
+parts when you put it all together we expect some slight improvement in gross margins. 
+
+Operator 
+
+Our next question comes from the line of Arnab Chanda with Deutsche Bank Securities. Please proceed 
+
+<Q - Arnab Chanda>: Yes. A couple of questions. One, could you talk a little bit about your handheld and Tesla and 
+Tegra product line what sort of revenue expectations you have either for later this year for maybe possibly next year? 
+And I have a follow-up, please. 
+
+<A - Jen-Hsun Huang>: Tegra is doing very, very well. The design wins are – I think everybody would be excited 
+about the design wins when they come out. And the engineering teams are heads down, trying to ship these products. 
+They won't ship until early part of next year. And so I'm not expecting any revenue contribution from Tegra this year. 
+
+
+But hopefully next year, it becomes a real business and hopefully a real substantial business. 
+
+Tesla, this is a brand-new category for the world. And this is not a – this is using GPUs for supercomputing. And it's 
+not GP GPUs, as I explained earlier, but it's the CUDA mode of GPUs. It's an array of general purpose processors with 
+a modern CPU instruction set that's compileable by C and C++ in the future. And this is a revolutionary product. When 
+you look at the speed ups, it took us nearly 20 years to improve the performance of computers by 1,000 times. And yet 
+over the course of one year, researchers are discovering they can speed things up by 20, 50, 300 times using one GPU. 
+And when you put more GPUs in a system, you get linear speed up. 
+
+And so this is revolutionary stuff. And we're getting just enormous amounts of enthusiasm around the world. And 
+despite the availability of Tesla, people are building homemade supercomputers in universities all over the world. I 
+mean, as I travel the world, this last summer, every university I went to had a homemade supercomputer based on 
+nVIDIA's technology. And so I think that this is a market that is eager for disruptive products. And as such, it's kind of 
+hard to predict exactly how big the markets going to be. 
+
+But I think that there is – there are quite a few researchers around the world, and they're all desperate for more 
+supercomputing horsepower to advance their research. And so I think – my back of the envelope would suggest this is a 
+multi-billion dollar business opportunity and if you look at the number of CPUs that are sold into clusters, we have an 
+opportunity to really, really dramatically capture a lot of that share. 
+
+<Q - Arnab Chanda>: So I have one follow-up about your GT200 series. I think you said that you haven't lost share, 
+it's been a pricing issue? It seems like your competitor is getting reasonably good reviews. So do you think that you're 
+going to maintain your share but you're going to be – your gross margins are going to be lower because of having to 
+lower prices? Or does 55-nanometer kind of correct that where your margins will go up and your share will be 
+maintained? What sort of dynamics do you expect there? 
+
+<A - Jen-Hsun Huang>: Our competition has built a nice product, but nobody ever said that our product isn't 
+awesome. And the nice things that people write about their products is that it's well priced. But if you take a look at our 
+products, GeForce GTX, it's not only a great graphics products, right, because of CUDA we're going to be able to 
+accelerate PhysX into hundreds of games that are out there. And you saw early reviews – or you should be seeing early 
+reviews of our PhysX processing and all of the reviews are fabulous. I mean, what's not to like about increasing 
+performance by 10 times? And so there's a lot of exciting things that we're doing around PhysX. 
+
+CUDA also enables transcoding and video processing and we know that video transcoding is probably one of the killer 
+apps around the world today. I don't know how many million PCs are running all night long transcoding a movie to put 
+onto an iPod. If we could just make it super, super real-time, just think about the amount of energy we're going to save 
+for the world. And so millions and millions and millions of PCs are spending all their nights cranking on video 
+transcoding. And we're going to make it so that you can transcode faster than real-time. And that's a capability that we 
+have. 
+
+And we invested in CUDA and so our GPU is slightly larger. Our computing performance, if you look at using folding 
+at home as a surrogate, which is a Stanford approaching folding application that – it's the only application, in fact, that 
+runs on a CPU, a cell processor and GPUs. And if you compared our performance to that of our competition, it's not 
+just 50% faster, it's four times faster and so our computing performance is really, really good. And that's – it's an area 
+that we've invested a great deal in. And it makes our die size a little larger, but I also believe that this is how we're 
+going to revolutionize visual computing. 
+
+We can't just keep selling chips that makes graphics run faster and cheaper. I mean, that's all very nice and it's all good, 
+but we need to advance the visual computing field in some remarkable and important way and parallel computing is 
+one of the most important investments that we're making. So take a look at the stuff that we are rolling out now. People 
+are really excited about the price points that they see. And then on top of that, you get all the benefits of CUDA and 
+GPU processing that we bring, and PhysX processing that we bring. 
+
+
+Operator 
+
+Our next question comes from the line of Daniel Ernst with Hudson Square Research. Please proceed. 
+
+<Q - Daniel Ernst>: Thanks for taking the call. Three quick questions, if I might. Do you see any second-order 
+impacts from the chip packaging issue on notebooks? Is there any loss of design wins that could come out of that issue 
+with your OEM partners? 
+
+And then two, with the rise of the ASUS Eee PCs and all the many look-alikes from Aspire one to the new Dell 
+netbook out today, do you see that having an impact on your overall notebook market share? Or do you think you have 
+a role in those ultra-lite portables? And then I have a quick follow-up. Thanks. 
+
+<A - Jen-Hsun Huang>: Frankly, on the work that we're doing supporting our OEMs to help them repair and to 
+support their end users, frankly, all of our engagement with all of our OEMs, they've been just delighted by the work 
+that we're doing. Obviously, this isn't something we absolutely need to do but we stepped up to do it, because we think 
+it is the right thing to do. So each case is a little different. So we have to look at each case carefully. But our 
+open-minded approach and our good partnership approach is welcomed by all the OEMs. So if this is going to be 
+anything at all, it should be a positive. 
+
+I missed some of the early parts of your second question. But I think it is related to the ultra-mobile PC [UMPC]. We 
+don't really have any offerings in that space. We have offerings in a space that I think is probably even more important, 
+which is the mobile Internet device [MID]. The single most important mobile Internet device today is the iPhone. And 
+that is much, much smaller and has a much more rigorous thermal and computing requirement than what is possible for 
+a UMPC, if you will. And I know exactly how to use an iPhone. And I know exactly what kind of enthusiasm the 
+market has for it. But a UMPC, I haven't figured out exactly how to use. So I think that the MID is a real important 
+area. We are going to see hundreds and hundreds of millions of MID/smart phones that come out over the course of the 
+next several years. And I think this is going to be the second personal computer revolution and Tegra is designed to hit 
+that sweet spot. And so that is our focus. 
+
+<Q - Daniel Ernst>: Understood. So, a follow-up on both of those – maybe just a few more – on the back end, is there 
+an opportunity to recoup some of the costs that you're having on fulfilling the OEM replacement programs, either 
+warranty or for recoupment from your packaging partners where the issue derived from? 
+
+And then a follow-up on the MID question -- so Jen-Hsun, are you saying that you don't believe the ultra-mobile, 
+UMPC market, will be large enough to address? Or you just don't think your technology addresses that type of 
+computer? 
+
+<A - Jen-Hsun Huang>: We have no comment about the recouping; we don't know. And it is too early to tell. 
+
+With respect to UMPC, that is just not our target. There a lot of things that are not our targets. That just happens to be 
+one of the things that isn't our target. We're much more targeted at the MID and the smart phone marketplace, where we 
+think the segment is desperate for a well designed computer on a chip and that is what Tegra is. And we also think that 
+that's an area that is where growth could be really significant. And so that's our target and that's our focus. And frankly, 
+from our initial engagements with the marketplace, we're delighted by that. 
+
+Operator 
+
+Our next question comes from the line of Hans Mosesmann with Raymond James. Please go ahead. 
+
+<A - Hans Mosesmann>: Thanks. Jen-Hsun, a couple of questions. The way nVIDIA introduces GPUs into the 
+marketplace, single GPU at the high end and you cascade going forward into the higher volume segments, is that 
+strategy changed in relation to what AMD has done here with their strategy? 
+
+<A - Jen-Hsun Huang>: You know, Hans, you might recall we were actually the world's first GE X2. And I forget 
+which chip we did it with -- was it 7900? I think it was 7900, we introduced the world's first GX2. We've got nothing 
+
+
+against GX2s and recently we just had another GX2; it was a 9800 GX2. It has its advantages and disadvantages. And 
+so I don't know that there is any particular philosophical approach that we take here. We just have to look at the market 
+and build the right product. 
+
+From a scalability perspective, a single chip is always better than two. I mean, it's -- if you take a look at the scalability 
+of CrossFire and you compare that to SLI, if you take your top 200 most popular games, SLI or GeForce GTX 280, the 
+scalability across those 200 games is 100%. 
+
+Every one of those 200 games are going to scale when you put a GTX on it. When you put SLI on it, those 200 games, 
+the vast majority of them will scale; maybe 90% of them scale. And with CrossFire, a lot less will scale. And so when 
+you use a X2 with CrossFire, you're just going to see a lot less scalability. There are many games that don't scale. And 
+there's some games that even get worse in scaling. 
+
+And so you just have to take it case-by-case. But we think our approach is the right approach. The best approach is to 
+do both. If we could offer a single chip solution at 399, it certainly doesn't preclude us from building a two-chip 
+solution at something higher. And so I think that having the right product at each price point and the best performing 
+product at each price point is the most important thing. 
+
+<Q - Hans Mosesmann>: Okay. And a quick follow-up then. Thanks, Jen-Hsun. The current head count, are you guys 
+comfortable with that, given the current environment. A lot of Silicon Valley companies have cut heads, and just 
+wondering if that's something you guys are thinking about? 
+
+<A - Jen-Hsun Huang>: Our OpEx is too high. And we need to moderate that and the management team is very 
+focused on moderating that. The first thing to do is just stop growing the OpEx. Now, we had a lot of things that were 
+scheduled for the second half of the year that we're very committed to. And we think it's the right thing to do. One of 
+which is NVISION 2008. 
+
+This is a very, very important event for the visual computing industry to have. It's the first one. And it's a recognition 
+that the visual computing industry, the visual computing ecosystem or the visual computing universe or movement is 
+here, that there are hundreds of companies that can participate in visual computing and come to a conference that's 
+dedicated to visual computing. And so I think that that's a really, really important investment to make. And we're going 
+to continue to do that. 
+
+There are other initiatives that we're really committed to do. For example, the launch of all of the CUDA applications 
+and products that are derived from CUDA are just coming out. Although researchers around the world have been 
+benefiting from CUDA, most consumers have not. And we're going to launch exciting products the second half related 
+to that and so that's really, really important for us to do. And it's going to really significantly differentiate our products. 
+Instead of just graphics processing, we are going to do parallel processing and physics processing and image processing 
+and video processing. And we're just going to keep rolling those things out because CUDA makes it possible. 
+
+And so those efforts need marketing support and we are committed to do that. So there is some pre-planned OpEx 
+increases already. But aside from that, we need to make sure that we do our best to moderate or improve our OpEx and 
+bring it back in line relative to our business. 
+
+Operator 
+
+Our next question comes from the line of Doug Freedman with American Technology Partners. Please proceed. 
+
+<Q - Doug Freedman>: Great. Thanks for taking my question. Jen-Hsun, just building off of sort of that OpEx 
+question, you talked also about reducing costs. Are there some cost savings to be done in the cost of goods sold side for 
+the gross margin improvement going forward, other than just straight shrinks? Are there are architectural things here 
+that can be done? 
+
+<A - Jen-Hsun Huang>: There are all kinds of ways to improve costs. Yes. How I start? Holy cow, as I'm trying to 
+answer your question, a list of 2,000 things just popped up in my head. And so the answer is yes. Improving gross 
+
+
+margins is not just my job or Marv's job. This is the job of 5,553 employees. And anybody who is on our payroll needs 
+to be figuring out how to improve our gross margins. And people who aren't on our payroll ought to figure out how to 
+improve our gross margins. 
+
+And so, the answer is, Doug, it's an enormous issue. And we are frustrated as hell that we got ourselves in this position. 
+Some of it we can control, some of it we couldn't. But we should have done the things and we could have done the 
+things that we could have controlled. And so we're going to go do it. And so the beautiful thing about a disruptive 
+quarter like this, from a company's position perspective and the type of work that we're doing, nothing has changed. 
+And our opportunity hasn't changed. But this is a wonderful wake-up call for all of us. And it's – no greater time to 
+heighten the awareness of gross margin improvement at nVIDIA. 
+
+<Q - Doug Freedman>: In recent analyst days you've put up some slides showing how increasing GPU and taking 
+down the CPU actually improves the user experience. Have you seen any change from the system configuration side 
+that that's starting to happen? Any way that we can track that or anything you can do to help us understand the 
+marketplace? 
+
+<A - Jen-Hsun Huang>: Yes, it's possible. If you take a look at our performance segment, I think the performance 
+segment – hey, guys, help me if – I think I'm right here – but our performance segment, the performance segment 
+increased year-over-year by about 40%. So the performance segment is growing. Now this last quarter, the midrange 
+PC market really declined. And the midrange desktop PC market happens to be our low end GPU market and that part 
+of the marketplace really, really collapsed during the second quarter. And so – but the high end marketplace was 
+healthy. There we were – we had to adjust our ASPs, but the high end PC marketplace or – not the high end PC 
+marketplace, the high end GPU marketplace, the performance GPU marketplace, from $149 and above, is robust and it 
+grew a lot year-over-year. 
+
+So I think – I don't know if it's related to shifting, nor is it that important. The most important thing is that our initiative 
+is really about helping people understand that there are a lot of different ways to design computers. And a lot of 
+different ways to improve your user experience and that's really ultimately our focus, is to enhance user experience. 
+
+Operator 
+
+Our next question comes from the line of David Wu, with Global Crown Capital. Please proceed. 
+
+<Q - David Wu>: Yes. On the transition to – I know this is not the only problem that you have, but let's say by the end 
+of your fiscal '09 year, from what I piece together, actually the whole company top to bottom on a GPU side would be 
+on 55-nanometer. So the die shrink part of the problem should be behind you. And I was wondering about this testing 
+problem that you had in the last six months. Would that be behind you as well? 
+
+<A - Jen-Hsun Huang>: Testing problem? 
+
+<Q - David Wu>: Well, I think you weren't able to test enough good chips and some of those chips got thrown away. 
+
+<A - Jen-Hsun Huang>: Oh, that's improved a lot. The ops team is very focused on that David and I think that that has 
+improved a great deal. In fact, I looked at the metrics just this morning, it has improved a lot quarter-over-quarter. So I 
+think there's still a lot of work to do. And that's one of the areas where gross margins can improve. We need to 
+dramatically reduce the amount of scrappage that we have as a company. And those are great opportunities for gross 
+margin improvement that doesn't affect price and it doesn't affect our market position. And it only improves our 
+earnings. And so on – and with respect to your first comment, hopefully by the end of the year, we should be top to 
+bottom 55. 
+
+<Q - David Wu>: Can I follow up with just one quick one? I understand from various websites that the tape-out has 
+already occurred for the 40-nanometer part that you have been designing out of your lead foundries I assume that 
+means you'll be going to production in the new fiscal year fairly early, is that more or less correct? 
+
+
+<A - Jen-Hsun Huang>: Well, we made the mistake of having a bad quarter. Let's not make the mistake of 
+pre-announcing our products. 
+
+<Q - David Wu>: Okay. 
+
+<A - Jen-Hsun Huang>: Yes. 
+
+Operator 
+
+Okay. There are no more questions at this time. I will now turn the call over to Jen-Hsun. Please go ahead. 
+
+Jen-Hsun, Huang, Co-founder President and Chief Executive Officer 
+
+Well, thank you all for joining us this quarter. And we look forward to talking to you again next quarter. 
+
+Operator 
+
+Ladies and gentlemen, that does conclude the conference call for today. We thank you all for your participation and we 
+ask that you please disconnect your lines. Have a great day, everyone. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2008, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

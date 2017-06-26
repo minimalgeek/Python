@@ -1,0 +1,861 @@
+Q3 2010 Earnings Call 
+
+
+Company Participants 
+
+• Paresh Maniar, Executive Director of Investor Relations 
+• Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer 
+• Tunç Doluca, President and Chief Executive Officer 
+Other Participants 
+
+• John Barton 
+• Tore Svanberg 
+• Terence Whalen 
+• Blaine Curtis 
+• Mahesh Sanganeria 
+• Christopher Danely 
+• John Pitzer 
+• Shawn Webster 
+• Ross Seymore 
+• Craig Berger 
+• Steven Smigie 
+• Mark Lipacis 
+• Sumit Dhanda 
+• Sean Conner 
+• Doug Freedman 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good day ladies and gentlemen and welcome to the Maxim Integrated Products Third Quarter 2010 Earnings Release 
+Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer 
+session and instructions will follow at that time. [Operator Instructions]. As a reminder, this program is being recorded. 
+
+I would now like to introduce your host for today's program, Mr. Paresh Maniar. Please go ahead, sir. 
+
+Paresh Maniar, Executive Director of Investor Relations 
+
+Thank you, Jonathan and welcome everyone to our fiscal third quarter 2010 earnings conference call. With me on the 
+call today are Chief Executive Officer, Tunç Doluca, and Chief Financial Officer, Bruce Kiddoo. 
+
+There are some administrative items that I'd like to take care of before we cover our results. First, we will be making 
+forward-looking statements on this call and in light of the Private Securities Litigation Reform Act, I'd like to remind 
+you that statements we make about the future, including our intentions or expectations or predictions of the future, 
+including but not limited to possible statements regarding bookings and turns orders, revenues and earnings, inventory 
+and spending levels, manufacturing efficiency or capacity, projected end-market consumption of our products, 
+anticipated tax benefits and any other future financial results are forward-looking statements. 
+
+
+If we use words like anticipate, believe, project, forecast, plan, estimate or variations of these words and similar 
+expressions relating to the future, they are intended to identify forward-looking statements. It's important to note that 
+the company's actual results could differ materially from those projected in the forward-looking statements. During the 
+quarter, Maxim's corporate representatives may reiterate the business outlook during private meetings with investors, 
+investment analysts, the media and others. 
+
+Additional information about risks and uncertainties associated with the company's business are contained in the 
+company's SEC filing on Form 10-K for the year ended June 27, 2009. Copies can be obtained from the company or the 
+SEC. 
+
+Second, in keeping with the SEC's fair disclosure requirement, we have made time available for a question-and-answer 
+period at the end of the call today. This will be your opportunity to ask questions to management concerning the 
+quarterly results and expectations for the next quarter. An operator will provide instructions at that time. We again 
+request that participants limit themselves to one question and one follow-up question during the Q&A session. 
+
+I will now pass the call over to Bruce. 
+
+Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer 
+
+Thanks, Paresh. We are once again pleased with our quarterly financial results. We continue to have good relative 
+revenue growth. Bookings were very strong, even after adjusting for extending lead times. Gross margin remained in 
+our target range in the low 60s. Operating margin, excluding special items, exceeded 25%, the fourth consecutive 
+quarterly increase. We believe our sustained financial performance is continued evidence that our strategy to target 
+both high growth and high margin markets while investing in innovation and integration is working. 
+
+Let me review our third quarter financial results. Revenue for the third quarter was 508.9 million, an increase of 7.5% 
+from the second quarter. Revenue increased in all four major markets. Industrial increased the most, followed by 
+consumer and communication markets. Our revenue mix by major market in Q3 was approximately 31% for consumer, 
+26% industrial, 24% computing, and 19% communications. 
+
+As expected, the industrial market had robust growth, due to broad-based demand increases. control and automation 
+and medical were the strongest segments. The communications market grew in all segments. Sales into fiber optic 
+modules were particularly strong in the quarter. The consumer market returned to growth due to continued solid sales 
+in LCD TVs. And finally, the computing market grew in both the financial terminal and the notebook segments. 
+
+Gross margin was 60.7%, in line with our guidance. As expected, we did not get the same level of favorable inventory 
+reserve credit recorded in Q2. Operating expenses, excluding special items, were 180 million, flat with the prior 
+quarter. Our bonus accrual increased as our forecasted annual operating income continues to increase with our strong 
+financial performance. 
+
+R&D also increased due to accelerating design activity. These increases were offset by a $7 million reduction in 
+stock-based compensation expense, primarily due to a one-time true-up from a change in assumptions. Overall, we 
+continue to tightly manage spending. 
+
+Special items in Q3 operating expenses were primarily related to stock option litigation. Q3 GAAP operating income, 
+excluding special items, was 129 million, or 25.3% of revenue. The Q3 GAAP tax rate, excluding special items, was 
+36.4%. The Q3 GAAP tax rate of 47.6% included an additional provision of $14 million for our new international 
+structure. GAAP earnings per share, excluding special items, was $0.27, up 13% from Q2 due to higher revenue and 
+flat operating expenses. 
+
+Turning to the balance sheet, cash flow from operations was 165 million. Free cash flow was 140 million, or 28% of 
+revenue. Inventory declined by 5 million with days of inventory decreasing to 87 days, well within our target of less 
+than 100 days. 
+
+
+Capital expenditures totaled 21 million in Q3, supporting our target of 5 to 7% of revenue for the year. Share 
+repurchases totaled 49 million in Q3, as we bought back 2.6 million shares. In Q3, we paid dividends to our 
+shareholders of $61 million. As a result, total cash, cash equivalents and short-term investments increased by $20 
+million in the third quarter to 859 million. 
+
+Moving onto guidance, it will not include our recently announced acquisition of Teridian. The acquisition has not yet 
+closed and the timing is dependent on several factors outside of our control, including the HSR anti-trust review. 
+
+During Q3, our bookings increased by 43%. The increase is partly due to customers placing orders with longer lead 
+times. On average, lead time is extended by approximately two weeks, which results in higher bookings and backlog. 
+
+Excluding the effect of lead time extension, sequential bookings would have increased by 21% in the March quarter. 
+Our beginning Q4 backlog is 480 million, an increase of 44% from the prior quarter. Based on our beginning backlog 
+and expected terms, we forecast Q4 revenue to increase to a record 550 million to 570 million. 
+
+We expect strong growth across all four major markets. Our Q4 revenue will be supply limited, as demand has 
+increased faster than our ability to ramp our manufacturing capacity. We continue to ramp manufacturing capacity both 
+internally and at current and new foundry partners. We expect another 50 to 75 million in quarterly revenue capacity to 
+ramp in the second half of the calendar year. Additional capacity to support Teridian is available, as Teridian uses 
+merchant foundries. 
+
+Q4 gross margin is estimated at 60 to 62% within our target range. Product mix, potential utilization benefits and 
+inventory reserves are some of the variables that will influence Q4 gross margin. Operating expenses are expected to 
+increase to 188 to 192 million, primarily because the one-time credit for stock-based compensation expense recorded in 
+Q3 will not repeat in Q4. 
+
+Our expected tax rate, excluding special items for Q4, is approximately 36%. In addition, we expect approximately 19 
+million additional tax provision for international restructuring. Q4 is expected to be the last quarter that includes the 
+special expense item for the international restructuring tax provision. In fiscal year '11, we expect the international 
+restructuring to begin to lower our tax rate below 36%. 
+
+For Q4 GAAP earnings per share, excluding special items, we again expect a range $0.30 to $0.33. In Q4, we again 
+expect strong cash flow from operations, due to increasing profitability and improving working capital as DSO 
+continues to decline and days of inventory declines due to supply constraints. 
+
+Capital expenditures in Q4 will increase as we ramp capacity. Overall, for fiscal year '10, we still expect to be within 
+the high-end of our target of 5 to 7% of revenue. Also in Q4, we expect to close and pay for the $315 million 
+acquisition of Teridian Semiconductor. 
+
+On April 28, our Board of Directors authorized a cash dividend for the third quarter of fiscal 2010 of $0.20 per share, 
+approximately a 4% yield at yesterday's closing stock price. 
+
+Looking forward, our balanced business model and continued investment in innovation and high integration products 
+position us well for the future. 
+
+I will now hand the call over to Tunç to discuss our business. 
+
+Tunç Doluca, President and Chief Executive Officer 
+
+Thank you, Bruce, and thank you all for joining our call and good afternoon. I'm pleased that Maxim's revenue and the 
+March 2010 quarter exceeded our pre-recession sales level. This was our fourth consecutive quarter of strong revenue 
+growth, primarily due to customers regaining confidence and design wins we achieved over the past year. We are 
+increasing production capacity to support our continued strong growth. 
+
+
+Moving onto recent highlights, we signed a definitive agreement to acquire Smart Meter systems-on-chip leader, 
+Teridian Semiconductor. We enjoyed very strong bookings increases in all four major markets and our operating 
+margins continued to improve. 
+
+Turning to channel inventory and lead times, inventory at Maxim declined by 3% to meet increasing demand for our 
+products. Inventory at our distributors was up 5%, but this was well below the 11% increase in distributor resales. 
+
+Unfortunately, the rapid surge in demand exceeded our ability to ramp production in the short term. We are addressing 
+this challenge. Specifically, first we hired fab operators to increase output from internal fabs and cancelled our 2009 
+year-end fab shutdowns. Second, we are adding equipment at our internal fabs to optimize existing production lines. 
+Third, we increased loading to our strategic foundry partner, Epson. Fourth, we are adding a new strategic foundry 
+partner to support existing products and plan to complete qualification by the September quarter. And fifth, we ordered 
+and scheduled sufficient capacity to test ramping output from wafer fabs. 
+
+Even with these actions, manufacturing cycle times limited our revenue in the March quarter. However, these actions 
+do enable us to project all time record revenue of 550 million to $570 million in the June quarter, excluding the 
+Teridian acquisition. 
+
+Finally, our 0.18-micron BCD technology qualifications at two external foundry partners are on schedule to complete 
+in the summer. One foundry partner is 200 millimeter, while the second is 300 millimeter. This will enable us to begin 
+shipping new generation, mixed-signal products from a 300 millimeter source during the second half of calendar 2010. 
+
+Now looking at bookings, orders from all four major markets grew strongly in the March quarter, even after adjusting 
+for the lead time extension Bruce talked about. I will next provide color regarding these markets and a few 
+representative segments in each, based on lead-time adjusted bookings. 
+
+First, consumer. We saw meaningful growth in consumer market bookings. This was led by the home entertainment 
+segment, primarily due to strength in LCD TVs. In the LCD TV market, booking strength was driven by increased 
+market share in power management products, level shifters and programmable gamma buffers. Maxim provides faster 
+time-to-market, higher integration, better performance and lower bill of materials cost than the competition. New 
+design wins in TV tuners are also ramping into production, including Maxim's first silicon tuner design win in LCD 
+TVs. 
+
+In cellphone battery packs, we are receiving orders in strong acceptance for a couple of different types of products at 
+both domestic and international handset OEMs. One type of product resides in the phone and provides a fuel gauging 
+and monitoring function, reducing cost and size by eliminating the current sense resistor. The other type of product sits 
+in the battery pack and provides a low-cost and superior authentication function for batteries. 
+
+We continued to win several additional designs in the cellphone segment. First, we were chosen to supply a PMIC to 
+power Samsung's proprietary applications processor. Second, our micro-USB interface product, which allows audio 
+and data to be transferred over a single port has won new sockets. Third, a major cellphone manufacturer has selected a 
+Maxim device that enables charging through the USB port in addition to multiplex and data transfer and audio on a 
+single port. Fourth, we've seen strong adoption at multiple customers of our power amplifier power management 
+technology, due to the significant power savings versus competing parts. 
+
+Next, I'll talk about computing. In this market, orders increased in line with corporate average, led by the rising market 
+demand in the notebook segment. The server and data storage segments also enjoyed very strong orders. In servers, a 
+Maxim device that restores high-speed signals from one end of the PC board to the other before redriving the output is 
+winning many designs. 
+
+In the data storage space, our power supply products saw strong bookings as enterprises have started to spend on 
+infrastructure. We're also seeing continued order strength in our 3G expanded products and our new 6G expanded 
+products are now shipping final hardware and firmware engineering sample kits to customers. 
+
+Within financial terminals, secure microcontroller products that we added via the acquisition of Zylog's product lines 
+contributed to significant order growth as we gained more share within our customer base. 
+
+
+Third, communications. Of the four major end markets, communications orders were up the most. All three segments, 
+base station, networking datacom, as well as telecom, witnessed substantial growth. In the telecom and networking 
+datacom segments, orders for fiber optic modules that use our optical transceivers, amplifiers and sensors rose as 
+customers stepped up their purchases to support the next phase of 3G deployments in China. 
+
+To standardized performance, a major OEM has asked all its module suppliers to use our microprocessor based optical 
+control products. This has resulted in share gains for Maxim. Additionally, in the optical module space, recent design 
+wins for power management products are ramping into production. 
+
+In addition to China's 3G deployment, 2G deployment in both China and India gave a boost to our bookings in the base 
+station segment. Here, we saw a significant percentage increase in orders for our RF power supply, as well as data 
+converters for system monitor and control functions. Looking ahead, one of our key base stations customers is 
+preparing for new 4G buildouts in the U.S. 
+
+Finally, industrial. Industrial major market had solid bookings growth during the March quarter. The most significant 
+order increases came from the medical, control and automation as well as automotive segments. In the factory 
+automation space, we saw increased orders for interface products for use in heating, ventilation and air-conditioning 
+equipment as China continues to build up its infrastructure. 
+
+In the automotive segment, Maxim PMICs are winning sockets. These PMICs are unique, full-featured devices capable 
+of maintaining reliable operation of multiple outputs while consuming low quiescent current in very harsh automotive 
+environments. These environments include low voltage cold crank, extreme temperatures and reverse battery 
+conditions. 
+
+Additionally for automotive entertainment, Maxim has developed a series of unique USB port protection products. In 
+addition to data line production, these products provide both diagnostics and a controlled charging feature for attached 
+equipment while protecting the head unit in the car. 
+
+In closing, I would like to state that the Teridian acquisition embodies the approach that we are taking in various 
+markets, having the key products in an application such as the PMIC and the analog base band in cell phones, the video 
+compression chip in security cameras, the secure microcontroller in financial terminals and now the key 
+system-on-a-chip in smart meters allows Maxim to control the design process and to pull through other Maxim ICs into 
+the total system solution. 
+
+The natural progression is to then integrate as many of these external functions into a future generation IC as possible. 
+This will give our customers additional cost and size advantages and will keep Maxim in a very strong competitive 
+position. 
+
+I will now turn the call back to Paresh. 
+
+Paresh Maniar, Executive Director, Investor Relations 
+
+That's the end of our prepared comments. We would now welcome your questions. Please limit yourselves to one 
+question with one follow-up. Operator, please begin polling for questions. 
+
+Q&A 
+
+Operator 
+
+Certainly. [Operator Instructions] Our first question comes from Uche Orji from UBS. Your question please. 
+
+<Q>: Hi. This is [inaudible] for Uche. Looking at your guidance – as you said, your guidance would be at a 
+pre-recession level and given the second half seasonality, what do you think – how the second half is going to shape 
+
+
+out? And secondly, given that the lead times are extending, do you see any evidence of double booking? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Okay. I'm not sure we completely understood the first 
+section of the question. You were asking about the second half of the calendar year? 
+
+<Q>: Yes, second half of the calendar year. Because first half has been really strong and how do you think the second 
+half seasonality will be, as compared to the normal seasonality? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Yeah, that actually is too far out. We don't have enough 
+visibility to be able to very strongly give you any indication of what the second half is going to look like. I think your 
+second question was related to lead times? 
+
+<Q>: Lead times and double booking. 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Yes. So in terms of lead times, we continue to have 
+pressure on lead times in the company. And that pressure really won't be relieved until our ability to support the 
+demand from the customers matches what the customers want. So I think the lead time pressure will continue. 
+
+And when we look at what does that mean to our bookings that we get, it's very hard for us to be able to tell if the 
+customers are double booking on us. However, we do know that we are shipping at a level that is under the 
+consumption in the market right now. So it is highly unlikely, even if they are double booking or double ordering from 
+us, that we are able to ship it anyway. So we don't really think that that's impacting us too much at this time. Bruce, do 
+you want to add anything to that? 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: No, I think exactly as Tunç said. 
+Whereas booking were up 43%, about half of that was due to lead time. And from a revenue point of view, we're only 
+giving guidance that, at the midpoint, is up 10%. And so that's just kind of put some numbers behind what Tunç said, 
+that of that 10% that we're shipping, I think we feel very confident just from kind of the tension in the system, that 
+we're shipping to end demand and that we're not building up inventory. 
+
+Additionally, just when we look out, certainly our inventory was down. Distribution channel inventory was up about 
+5%, but resales were up 11%. Therefore, days of inventory actually declined in the quarter. And when we even go out 
+and look in our ODM channels, we're not seeing any meaningful buildup there. So at this point in time, our supply 
+limitations are preventing any shipment buffer or inventory build. 
+
+<Q>: Okay. And the second question is related to the gross margin. You are seeing a 10% increase in revenue, but 
+gross margin seemed to be range bound between 60 and 62. How would you explain that? 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: Yeah, so when we look at our gross 
+margin, this quarter it was down slightly just because we didn't – we had talked about last quarter, we got the favorable 
+inventory reserve credit. We didn't get that same level of credit this quarter and so that's why we were down a little bit. 
+From a utilization point of view, were basically sold out right now from a fabs point of view. And any upside that we're 
+getting is really coming through our foundries. And so from that point of view, the incremental gross margin benefit is 
+less. Certainly, we'll be seeing some utilization benefit on the back end, but that's within the range of the 60 to 62% that 
+we gave. And if you recall, that is our target. That's where we think is the sweet spot. Obviously we're showing very 
+strong revenue growth relative to the industry and we're able to achieve that while staying in our target gross margin 
+range. 
+
+Operator 
+
+Thank you. Our next question comes from John Barton from Cowen. 
+
+<Q - John Barton>: Thank you. Could you quantify the amount of dollars left in the table at the end of the quarter 
+because of the supply limitation? And what you've received for the June quarter, please? 
+
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Let me take that one. So I think that what we can tell 
+you is that we probably could have shipped another 10% in each quarter. 
+
+<Q - John Barton>: And is it particular product types? Or is it safe to assume it's kind of spread across the product 
+portfolio? And if you could just quantify how many customers you think you have in a lines down position? Are we at 
+that point? And then kind of what is the reaction, please? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: First of all, the portion that we're unable to ship is pretty 
+widespread. It's spread across all of the markets, basically. We're obviously managing the deliveries to our customer to 
+try to make sure that we keep everybody lines ups condition, but that is pretty challenging. I don't have any numbers to 
+give you on what the effect was on how many customers. 
+
+But clearly, the whole company is mobilized to make sure we can do everything possible for each one of the customers. 
+Understanding their minimum requirements, regardless of what their backlog is on the company to be able to run their 
+product lines. So it is a challenge but the whole company essentially is marching to make sure that we give the best 
+service we can under these tough situations to our customers. 
+
+<Q - John Barton>: Last part of the question is – I know it's got a lot of multiple inputs to it. But at what point in time 
+in a calendar do you think you can match the demand and get yourself out of that situation? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: That's very difficult to say and the reason – we have 
+specific plans as to how we're going to increase our capacity and I'm confident that we're going to meet those goals that 
+we've internally set. But it is also dependent on how the demand changes and that's the piece that we've always had a 
+lot of difficulty predicting. So it's tough to say when the two will meet each other. But it is – at the current picture, it's 
+going to be in the second half of the year. 
+
+<Q - John Barton>: Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from Tore Svanberg from Thomas Weisel Partners. 
+
+<Q - Tore Svanberg>: Yes. My first question is, just looking at your backlog, it looks like you're assuming about 15% 
+turns to hit the midpoint. Would that be accurate? 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: Yeah, that's about right, Tore. 
+
+<Q - Tore Svanberg>: And if that turn is realistic, based on your current lead times, maybe you can talk a little bit 
+about how those turns have done so far in the quarter, meaning this month of April? 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: Those turns are purely supply limited. 
+We'll have available turns at a much higher percent. 
+
+<Q - Tore Svanberg>: Okay. And can you maybe quantify your lead times at this point? And what's going to be your 
+goal in the second half? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Can you just hold on? Let's – we'll look it up. So 
+currently, if you look at the company average, the lead times, they're stretching towards the mid to low teens. That's the 
+customer requested lead time and our – the gap between what they request and us is about two or three weeks. 
+
+<Q - Tore Svanberg>: Great. Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from Terence Whalen from Citi. Your question please. 
+
+
+<Q - Terence Whalen>: Hi, thanks for taking my question. This one is on distributor inventory. It sounds like the 
+sell-through was quite healthy. At what point do you think your shipments into the channel will actually exceed 
+sell-through? In other words, when will days of channel inventory begin to increase? Is it going to be in June? Or is it 
+going to have to be in a seasonally slower period, like in December? Thanks. 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: Yeah, I think it's going to be some 
+period later than June. I think there is still very strong demand. If we look at bookings, even adjusted for lead times – 
+bookings were up 53%. Adjusting that for lead times, they're up about 30%. We look at the end market bookings on our 
+distributors and those were up 26%. So there is still very strong demand for the product on a pull through basis. So I 
+think at this point there what we shipped to them, they're shipping through. 
+
+<Q - Terence Whalen>: Okay. Great. And then my follow-up question is regarding some of the strength that you're 
+seeing in industrial. I guess given the backlog coverage for June, what's your expectation for growth in that market? 
+And then with industrial, in particular, typically that's a March, June seasonality, do you expect that seasonality to 
+stretch further this year, given the tightness? Thanks. 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: Yeah, I think the demand we're seeing 
+in June is really strong across-the-board. I think Tunç talked about whereas communications had the strongest bookings 
+quarter in the third quarter, even adjusted for lead times. That said, all of the four major markets had bookings on an 
+adjusted basis still on double-digits sequential growth. So it's strong kind of across-the-board. As far as industrial in 
+later quarters, I think it's just too difficult to predict that at this point in time. 
+
+<Q - Terence Whalen>: Okay. Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from Blaine Curtis from Jefferies. Your question, please. 
+
+<Q - Blaine Curtis>: Hey, guys. I wonder if you can give provide us some color, when did you start to see lead times 
+flip out? And then second, if you can just maybe frame – people are concerned about double ordering. What percent of 
+your products are second-sourced or more catalog type? 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: So I'll handle the first one, Blaine. So 
+we talked last quarter in our earnings call that lead times had pushed about a week. And I think that's the first time we 
+started to really see that. And then of course this quarter they pushed out about another two weeks. 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: So in terms of what percentage of our products are 
+second source, we don't have an exact number on that, but it's a pretty small percentage. I know that because when we 
+do work through some of the supply tightness for customers and we try to find alternate sources, it's not easy to find. So 
+I think the second sourceable portion of Maxim's product line is fairly small. And even in cases where there are second 
+sources, what we usually find is we have the qualified and better performing products, so the customer is not willing to 
+switch. 
+
+<Q - Blaine Curtis>: Okay. Got you. And the tightness, is it primarily your – you said you're adding capacity. Is it 
+primarily fab? Or is it back end, or both? Any clarity there? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: I can clarify that some more. Most of our – the primary 
+portion of our tightness or of our constraint is coming from wafer fabs, whether internal or external. So that's the 
+biggest attention in the company right now on how quickly we can ramp our fabs faster, get test and loading to the max, 
+which we've already achieved, as well as adding this new foundry partner that I talked about. So that's the primary. 
+
+But I do want to make sure in the company that there are no other constraints. So we essentially have ordered and are 
+receiving enough test equipment to be able to test what's ramping coming out of fab. So we don't expect test to be our 
+issue, it's going to be fab. 
+
+
+<Q - Blaine Curtis>: Got you. Thanks, Tunç. 
+
+Operator 
+
+Thank you. Our next question comes from Mahesh Sanganeria from RBC Capital Market. 
+
+<Q - Mahesh Sanganeria>: Yeah, thank you. So one more question on the capacity side. Last quarter you said your 
+internal capacity is 400 million and external 150 million. Does that increase? Has that increased? And how is the 
+product mix helping that, in the sense that most of your internal capacity is for the industrial and common. You're 
+outsourcing most of the consumer and computing. So is it true that you are missing most of your revenues on consumer 
+and computing side? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Well, no. The last part of your question is not true. So 
+we do – you're absolutely right, most of our products in industrial and coms are done in our internal fabs. And most of 
+the other products are done in our more modern newer technologies. However, we do have flexibility in moving these 
+technologies between our two internal fabs. So we've been very successful in actually keeping our wafer start queues in 
+balance between all of our process technologies, meaning all of our end markets. So we're not really seeing particular 
+pressure in one area or shortness in one market or another. It's really – we've pretty much distributed it out to most of 
+the markets. 
+
+<Q - Mahesh Sanganeria>: And the $50 million or so – $50 million you are not able to ship. What's the feedback 
+from the customers in terms of – is it that they're not able to ship parts because of that? Or they're not able to get to the 
+desired level of inventory they will feel comfortable with? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Well, it really depends. It changes from customer to 
+customer. In some cases, we've found that they can't get other parts either that they need on their – whatever they're 
+building. So they're really trying to optimize their production lines. 
+
+We've seen many cases where a Maxim product is not the only one that they can't get for a model. So they're essentially 
+building the models where they can get supply. And that's enabling them to keep producing and keep selling. And it's 
+not creating a complete big issue for them. However, having said that, they are concerned about our ability to ramp our 
+production and we have communicated to them our plans and they're looking forward to us being able to increase 
+what's coming out of our fabs and our production lines. But the tightness in supply, as you know, is not just in 
+semiconductors. It's in all kinds of products right now. 
+
+<Q - Mahesh Sanganeria>: Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from Christopher Danely. We didn't hear your company name on the recording. 
+
+<Q - Christopher Danely>: It's J.P. Morgan. Okay, thanks guys. I guess just another question on capacity. So it 
+sounds like you're taking it up a little more than 10%. However, your sales are going up 10% this quarter, and I think 
+typical seasonality for the next quarter would be up in the low to mid single digit. So I guess I'm wondering why you 
+wouldn't have plans to increase your capacity by a larger amount? And when do we get to the tipping point when you 
+guys need to build another fab or acquire another fab or increase the internal capacity more? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Okay. So first of all, we are working on plans to 
+increase capacity, but it's going to take until the second half of the year. And that will give us more revenue capacity, 
+especially from this new strategic foundry that I spoke about earlier. We also have the two other strategic foundries that 
+I talked about to supply us on our newer technologies. That will also give us more capacity. 
+
+But that's mostly in newer technologies. So that effect will come in more like in the one to three year type range from 
+now. So we're being very aggressive in actually adding capacity. However, most of this capacity being added is coming 
+
+
+from the outside. We did not – we took a decision not to, for instance, fire up the Irving fab because that's going to take 
+a lot longer than putting our process up in an external foundry. So most of our capacity additions are going to come 
+from the external strategic foundry arrangements for the coming year. 
+
+<Q - Christopher Danely>: Okay. So when could we see you guys fire up the Irving fab or what would it take to go 
+internal? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: It's very early to decide that right now. And I think that 
+we have got the first see things settle down from us catching up and then we can take a decision on whether to go 
+forward with it or not. 
+
+Operator 
+
+Thank you. Our next question comes from John Pitzer from Credit Suisse. Your question, please. 
+
+<Q - John Pitzer>: Yeah, thanks guys for taking my question. Tunç, I just want to go back to your comment earlier 
+that you think you were shipping below consumption. And I guess I understand the relationship between what you're 
+shipping to your disties and what's being pulled from your disties. I guess I'm just curious. When I look at your overall 
+growth rates to the ultimate end consumptions in the markets you participate in, you seem to be growing significantly 
+faster on a sequential basis. So I guess I'm wondering if you guys are at all concerned that there is inventory build 
+going on ahead of your distribution partners elsewhere down the food chain? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Well, okay. So I understand your concern. First of all, 
+clearly, the best visibility we have is our inventory. Second best we've got is the distribution inventory. We also have 
+pretty good visibility, at least at our large customers, as to what inventory they have. But when you get further than 
+that, it gets more difficult, when you go to retail channels and so on. 
+
+So we have done a very good job in the past year, year and a half. We've got a good product lineup. I think those 
+products have been well accepted by our customers. So I think that we believe that the demand that we're seeing right 
+now is not just the result of people trying to build inventory, but because we have been successful in the market and we 
+have won a lot of designs. And that's why we think that this demand we are seeing is not going into an inventory to 
+buffer stock. It's really customers trying to build new products that have embedded more Maxim parts in. So that's why 
+we feel better that the products are really being consumed and we actually can't produce enough of them, frankly. So 
+that's the issue that we got right now. It's not the fact that a customer is trying to build any kind of inventory or buffer in 
+their factories. 
+
+<Q - John Pitzer>: Perfect. That's helpful. I guess as my follow-on, just on the gross margin front for Bruce. Kind of 
+curious, given how tight things are, why pricing wouldn't be a better leverage point on gross margins near-term? And I 
+guess as you qualify and ramp 300 millimeter, how do we think about cost savings or gross margins around that event? 
+I appreciate it. 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: So certainly from a pricing point of 
+view, to the extent that we're selling through distribution or some of the smaller customers, certainly, you would not 
+expect that we would be providing any level of discount that maybe we would do normally. As far as the large OEMs, 
+there is always going to be quarterly price negotiations with them and so that dynamic really doesn't change too much. 
+And so from that point of view, we really haven't seen a big noticeable change from an ASP point of view. And then 
+what was the second question? 
+
+<Q - John Pitzer>: Just, as you start to qualify and ramp 300, how we should think about costs and margins around 
+that? 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: Sure. I think from a 300 millimeter 
+point of view, certainly that's going to allow us to compete in some of these very high-volume consumer markets and 
+that will allow us to compete in these markets and maintain our target range of 60 to 62% gross margin. Ultimately, we 
+
+
+don't win business because of cost, right, or because of price. We win business because we have the better product. We 
+have a more highly integrated, more highly innovative product. What the 300 millimeter does is allow us to participate 
+in those markets and stay within our target range. 
+
+Operator 
+
+Thank you. Our next question comes from Shawn Webster from Macquarie. Your question please. 
+
+<Q - Shawn Webster>: Hi. Yeah, thank you. Just circling back up to the inventory question. Are there any end 
+markets that you see that appear normal in terms of their inventory levels? Or does everything that you look at out there 
+seem lean? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Well, okay. So when you say end markets, you're just 
+talking about the four major ones? 
+
+<Q - Shawn Webster>: Yeah. 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Yeah. It's really tough for us to say. When I said we 
+look at inventories that our customers have, we can only do that look at customers that are large and those customers 
+happen to be in computing and consumer. So in terms of our visibility into what inventory exactly is at the customer, in 
+the other two markets, it's a lot more difficult to establish. 
+
+<Q - Shawn Webster>: Okay. 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: But I think the amount of questioning that we're getting 
+from customers in those markets leads me to believe that they really are pretty low on inventory. 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: Shawn, if you want to use distie as a 
+proxy for industrial, we know our distie inventory right now. So, it's probably in the low 50s from a days of inventory 
+point of view, when historically it runs around 60 days. So we know on that point of view, industrial as well, as Tunç 
+said, we get a view into some of the large ODMs for consumer and computing, and we're not seeing the inventory – 
+any excess inventory there. And then of course our own inventory at 87 days is well below our target of less than 100 
+days. So where we do have visibility, it looks lean in those areas. 
+
+<Q - Shawn Webster>: Okay. And then my follow-up. Should we assume that the high end of the range that you gave 
+to us is your capacity constrained range? And can you give us any color on how you expect your OpEx trajectory to 
+look in the back half of the calendar year? Thank you. 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: Yeah. I do think it's probably fair to 
+say, since we are supply limited that the high end is sort of what we think we can do. From a – within the quarter, it's 
+really dependent on mix and how any turns that do come in, how those line up with available supply and available 
+inventory that we have. And so, that's really what determines where we're going to come within that range. 
+
+As far as OpEx for the back half of the year, we continue to grow our OpEx at a rate slower than revenue. And that's 
+clearly kind of what we've been achieving every quarter here and we expect to continue to do that in the back half of 
+the year. Probably the only item of note there is we do have a merit increase that starts in the month of September and 
+then has the full impact in the December quarter. But in general, you should assume, like we've demonstrated now over 
+a multiple quarters that OpEx will grow at a rate slower than revenue. 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Just to give an example on that OpEx, unfortunately this 
+quarter we had this one-time stock-based compensation accounting recording. But if you look at Q2 to Q4 projections, 
+revenue is going to grow – we've guided to grow about 18% over two quarters. And OpEx is projected to grow about 
+6%. So we're pretty much sticking to our plan to have OpEx grow slower than revenue. And that's what we expect to do 
+in the second half of the year. 
+
+
+<Q - Shawn Webster>: Okay. Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from Ross Seymore from Deutsche Bank. Your question please. 
+
+<Q - Ross Seymore>: Hi, guys. Just a question on the cellphone side of things. Tunç, you highlighted a lot of design 
+wins there. Can you talk about just roughly what percentage of your total sales it represents? And what's the normal 
+seasonality that we should think of for you guys in that space next quarter and even into the back half, given that it's a 
+relatively newer space for you? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Well, first of all, the cellphone space, our revenue is at 
+about 20% of our revenue. We do expect the revenue itself to keep growing. Whether that percentage changes will 
+depend on how all the other markets are growing, frankly. But I think that the demand is strong and we expect it 
+actually to continue, at least our forecasts that we see from our major customers and our business units say that it will 
+continue to be strong through this quarter and through the September quarter as well. 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: And Ross, this is Bruce. I think right 
+now we're still in the early ramp stage such that design wins and new product introductions are really driving our 
+growth, more so than seasonality. It's not a mature business yet, so as we get new design wins and new phones at 
+multiple customers, that's really what's driving our growth right now as opposed to normal seasonality. 
+
+<Q - Ross Seymore>: Great. And the one follow-up, switching gears over to the gross margin side and kind of layering 
+on top of the stock-based comp that you talked about. It looks like that was about a benefit of maybe a point, with 
+stock-based comp going down to the gross margin in your prior quarter. That's going to go against you in this next 
+quarter, but your gross margin guidance is actually a little bit higher than it was last quarter. What's the driver of the 
+upside? 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: Primary driver is utilization. When we 
+look at that from the Q3 to Q4, we'll see the potential product mix. But for the most part, it's the utilization that's going 
+to drive that up. If you remember, there is always a little bit of a lag on that and utilization continues to improve. It was 
+81% in December for our fabs, 87% in Q3 and we're basically running them as fast as we physically can right now. So 
+we'll continue to get some benefit there. 
+
+<Q - Ross Seymore>: Great. Thank you. 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: Yeah. 
+
+Operator 
+
+Thank you. Our next question comes from Craig Berger from FBR Capital Markets. 
+
+<Q - Craig Berger>: Hey, guys. Thanks for taking the question. I guess the first one is a general question and that is 
+given the strength, the sizeable strength we're seeing here in the first half, how should we be thinking about modeling 
+the second half? Do we expect continued growth? And can you also tie in any potential design win commentary? Are 
+you seeing more design wins? Is that the why we should continue to model growth? Thank you. 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: First of all, Craig, we don't have enough visibility for 
+the second half. All we can do from a company standpoint is make sure that we got enough flexible capacity in place so 
+that if it continues to be strong in the second half, we can support the customers. Now we have had a very successful 
+year last year in terms of design wins for our products. 
+
+So from that viewpoint, I think we're going to see a lot of these new products continue to ramp in the second half. But 
+being able to say that with a lot of confidence is not that easy at this point. All we know is that the customers have 
+
+
+accepted our products as being very competitive and adding value to whatever they build and they've designed them in. 
+And some of what happens is going to depend on how those end products are successful at the end customer space. So 
+it's very hard, I think, to quantify the second half of the year. But at least from inputs I get from a lot of people, 
+including our customers, they think the strength is going to continue. 
+
+<Q - Craig Berger>: Thank you. And then just the follow-up is just on the mini analog base band and signal analog 
+base band products. Where are you with those products? Which customers are you ramping into? What type of 
+contributions should we expect? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Well we're – essentially I think, we've given some of 
+this feedback in the past. We've had – many of those products are being successful, especially at our major Korean 
+customers. We've also winning some other sockets at some new customers in the U.S. We have design wins now next 
+to many different types of communications and apps processors. I think I mentioned a new one today, which was the 
+Samsung apps processor. So our goal really is to have a analog based band chip or a power management IC that can 
+power up as many of the applications processors and counts processors that are available out there. 
+
+And we've really successfully been able to do that. And each quarter almost, where it seems like we're adding another 
+apps processor that we can power. And I still believe though, we're at the early stages of all the design wins. We still 
+really have major penetration into a couple of customers. And as you know, there are a lot more than a couple in that 
+market. So I still believe that we're in the early stages of getting many more design wins with this high integration 
+approach and strategy that we've taken. 
+
+<Q - Craig Berger>: Thank you so much. 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: You're welcome. 
+
+Operator 
+
+Thank you. Our next question comes from Steve Smigie from Raymond James. Your question please. 
+
+<Q - Steven Smigie>: Great. Thanks a lot. I apologize for returning to the capacity again, but as you mentioned, it 
+seems like you've got a bunch of new products that could have some very nice ramp. Also, it seemed like you were 
+mentioning that extra capacity you're bringing online could be done sometime December. Does that mean if some of 
+these products can ramp strongly into the back half of the year that you could add additional capacity even in, say, the 
+fourth quarter beyond just the third quarter? Again, part of the reason I'm asking too, as somebody else pointed out 
+earlier, it sounded like you only got 10% upside even with the new capacity you're brining on line? 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: Yeah. So as we have said, there is the 
+50 to 75 million in additional revenue capacity per quarter that will be coming kind of ramping in the back-half of the 
+year. And then beyond that, when we get out into calendar year '11 to the extent that as required, obviously we have 
+plans to ramp beyond that as well. And so certainly we think half off the 560, 570 current capacity that we have and 
+adding that additional 50 to 75 in just the back-half of the year, we think that by any measure should normally be 
+adequate and then we'll continue to ramp as required in calendar 2011. 
+
+<Q - Steven Smigie>: Okay. And I was hoping you could talk a little bit more about the financial terminals business. 
+Where is that now as a percentage of your computing revenue? And what sort of growth rates are you seeing out there 
+based on customer forecast at this point? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Well, we're seeing some solid design wins in that space. 
+We actually – I'd rather not break down exactly what our revenues are in that area. But it is – we have been successful 
+with the plan that we started last year. We've got great – essentially applications and softwares and reference designs 
+from the Innova Card acquisition and the more powerful processors from the Zylog acquisition. And those products are 
+being well accepted at our customers. 
+
+
+I'd still say we're in the early phases still, though. That revenue is going to continue to grow into the future. One thing 
+that I do want to add that I think Bruce and I did not mention before – this is back to your capacity question. Remember 
+that all these numbers also do not including contributions from the Teridian acquisition, as well. So we'll get revenue 
+from that because that is using external merchant foundries, so it's not limited by our capacity. 
+
+<Q - Steven Smigie>: Okay. Great. Congratulations on the good numbers. Thanks. 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Okay. Thanks. 
+
+Operator 
+
+Thank you. Our next question comes from Mark Lipacis from Morgan Stanley. 
+
+<Q - Mark Lipacis>: Thanks for taking my question. Bruce, what's the framework for modeling the tax rate going 
+forward? 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: Sure. As we said, in the fourth quarter 
+we'll have our last special expense item related to our international restructuring. And then when we look at fiscal year 
+'11, starting in July, we'll now be getting – be able to get the – starting to get the benefits of our international structure 
+and so you should expect that the tax rate for fiscal year '11 should probably be in the 30 to 35% range. When we then 
+go out to fiscal year '12, it should be in the high-20s and fiscal year '13 should be in the mid-20s. 
+
+And the way to think about that is you record your effective tax rate on an annual basis and so you'll see that rate pretty 
+consistent throughout – say, the 30 to 35% consistent throughout fiscal year '11. So it will be good. The 15 million, the 
+19 million a quarter that we've been seeing, that goes away completely. And then the 36% starts coming down every 
+year such that by fiscal year '13 will be operating in the mid-20s. 
+
+<Q - Mark Lipacis>: Okay. And then the cash after you closed the acquisition, how do you think about how much 
+cash you like to have on the balance sheet? Thanks. 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: So our target range for cash has always 
+been around 500 to 700 million, and after we close the deal we'll still be within that range. So we're still comfortable. 
+
+Operator 
+
+Thank you. Our next question comes from Sumit Dhanda from Bank of America. 
+
+<Q - Sumit Dhanda>: Yes, hi. Bruce. first question, I guess I'm a little bit confused. I think earlier on the call, you had 
+said that you were "sold out on capacity." But then I think in response to another question you said you're running 87% 
+internal utilization in Q1. So I'm curious as to why you don't have at least some more modest upside from a capacity 
+perspective, especially to drive sales in segments which seem to be doing very well in which you manufacture products 
+internally? 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: So the 87% is a utilization against 
+available tooling. And so you're never – both from an operator point of view, we've been ramping up operators. And 
+just from the ability to run every line efficiently, you're not going to have a perfect mix of running through each one of 
+our lines from that point of view. And you should assume that in the June quarter, it's probably gone over 90%. And so 
+we are clearly running as hard as we can on the factories. 
+
+<Q - Sumit Dhanda>: Okay. Got you. Second question [inaudible] again in response to a question on second half 
+visibility. One of the things you said was it's hard to tell beyond the June quarter. But given that your customers are 
+placing longer lead time backlog on you, would you care to take a second stab at what September might look like? I 
+was assuming you'd have more confidence in the outlook for the back half of the year based on that? 
+
+
+<A - Tunç Doluca, President and Chief Executive Officer>: No. It's really – they are placing longer lead time orders, 
+but they are still not really that long. So they're still reaching. And as I said, it's in the low-teen, which is only about 
+three months or so, three, four months. So I think it's really, it's still difficult to call. I think as I said anecdotally, when I 
+talk to customers, they're still pretty bullish about the second half of the year. 
+
+But usually you don't know until you hit some kind of a snag either in the economy or somewhere where things change. 
+But I think that, as I said before, the demand for our products is pretty strong right now and it's going to depend on how 
+successful all those products are in selling into the end-market. And I can't really go much beyond saying that what the 
+customers tell me, which is that they're pretty bullish. 
+
+<Q - Sumit Dhanda>: Okay. Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from Sean Conner from FAF Advisors. 
+
+<Q - Sean Conner>: Hi, guys. Thanks for taking my call. Just a couple of quick ones. First of all, from an inventory 
+standpoint, what percentage of your OEM customers are on a hubbing system? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Yeah, hold down. Let's look at that. Do you mean a 
+[inaudible] system? 
+
+<Q - Sean Conner>: Yeah. 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: It's about 10%. 
+
+<Q - Sean Conner>: And then as far as ramping the new capacity with your foundry customers, are you getting 
+basically the same type of pricing that you're getting on your current external wafers? Or are you having to pay up for 
+kind of this expedited capacity? 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: You're talking about the new foundry partner – ? 
+
+<Q - Sean Conner>: Yes. 
+
+<A - Tunç Doluca, President and Chief Executive Officer>: Their prices are competitive. There's no premium. 
+
+<Q - Sean Conner>: All right. Thank you guys very much. 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: Thanks. 
+
+Operator 
+
+Thank you. Our next question comes from Doug Freedman from Broadpoint. Your question please. 
+
+<Q - Doug Freedman>: Hi, great. Thanks for taking my questions guys. Bruce, could you focus in a little bit on the 
+OpEx? There has been a pretty good shift going on in terms of stock comp. So, if you look at it on a pro forma basis, 
+the OpEx is actually rising, but it's coming out of the reducing stock comp. What's your outlook for stock comp going 
+forward as a percent there? Is that a number that's going to continue to come down? And also how much of the OpEx is 
+profit-based accruals for higher bonuses? And how quickly, if we needed to, could you reverse that trend line? 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: So stock-based comp, we've given 
+them all to about 5% of revenue. Currently, we're below that right now. And as we said, this quarter it was abnormally 
+low, due to this true-up and we would expect in Q4, it probably goes back to the Q2 level. Maybe even actually one or 
+2 million above the Q2 level. And so that's really kind of where we see it. 
+
+
+So we're going to target this 5% or less and it might press down slowly a little bit, just because revenue is going to be 
+growing, to the extent that revenue growth faster. So from that point of view, that is where we see stock-based comp. 
+From a bonus accrual, it is difficult to break that out. Obviously. its based on – it's a percent of operating income. But 
+to the extent that, for any reason, there was a double dip or something like that in the economy and the business slowed 
+down, then the profit accrual adjusts automatically with our forecast for profit. 
+
+<Q - Doug Freedman>: All right. Great. Thank you. 
+
+<A - Bruce E. Kiddoo, Senior Vice President and Chief Financial Officer>: Yeah. 
+
+Paresh Maniar, Executive Director of Investor Relations 
+
+At this point, we conclude our earnings call. Thank you all for participating, and your continued interest in Maxim. 
+
+Operator 
+
+Thank you, ladies and gentlemen for your participation in today's conference. This does conclude the program. You 
+may now disconnect. Good day. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2010, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

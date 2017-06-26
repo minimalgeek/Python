@@ -1,0 +1,796 @@
+Q4 2009 Earnings Call 
+
+
+Company Participants 
+
+• J. Eric Bjornholt, Vice President and Chief Financial Officer 
+• Ganesh Moorthy, Executive Vice President 
+• Steve Sanghi, President and Chief Executive Officer 
+Other Participants 
+
+• Romit Shah 
+• John Barton 
+• Christopher Danely 
+• Brendan Furlong 
+• Ian Ing 
+• John Pitzer 
+• Kevin Cassidy 
+• Ruben Roy 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good day, everyone, and welcome to this Microchip Technology Fourth Quarter and Fiscal Year 2009 Financial 
+Results Conference Call. As a reminder, today's call is being recorded. At this time, I would like to turn the call over to 
+Microchip's Chief Financial Officer, Mr. Eric Bjornholt. Please go ahead, sir. 
+
+J. Eric Bjornholt, Vice President and Chief Financial Officer 
+Good afternoon, everyone. During the course of this conference call, we will be making projections and other 
+forward-looking statements regarding future events or the future financial performance of the company. We wish to 
+caution you that such statements are predictions and that actual events or results may differ materially. We refer you to 
+our press release of today, as well as our 10-K for the fiscal year-ended March 31, 2008, and our 8-K current reports 
+that we have filed with the SEC that identify important risk factors that may impact Microchip's business and results of 
+operations. 
+
+In attendance with me today are Steve Sanghi, Microchips' President and CEO; Ganesh Moorthy, Executive Vice 
+President and Gordon Parnell, Vice President, Business Development and Investor Relations. Steve is traveling in 
+Europe this week and is participating in this conference call from the UK. 
+
+I will comment on our fourth quarter and fiscal year 2009 financial performance. Then Steve and Ganesh will then give 
+their comments on the results, discuss the current business environment, discuss our internal plans for the June quarter, 
+and update other pertinent matters regarding our business. We will then be available to respond to specific investor and 
+analyst questions. 
+
+Net sales for the March quarter were 173.3 million, down approximately 9.8% from net sales of 192.2 million in the 
+immediately preceding quarter, and down approximately 33.5% from net sales of 260.4 million in the prior year's 
+fourth quarter. Net sales for fiscal 2009 were 903.3 million, down approximately 12.8% from the fiscal 2008 levels. 
+
+
+We are continuing to include information on our press release on various GAAP and non-GAAP measures. 
+Management believes that the non-GAAP measures are useful to investors, because they enhance the understanding of 
+our historical financial performance and comparability between periods. Non-GAAP results in fiscal 2009 and fiscal 
+2008 exclude share-based compensation expense, gains and losses on trading securities, non-recurring tax events, an 
+acquisition of a patent portfolio license, the sale of Fab 3 and acquisition-related expenses. We have posted the full 
+GAAP to non-GAAP reconciliation on our Investor Relations page on our website at www.microchip.com, which we 
+believe you will find useful when comparing GAAP and non-GAAP results. 
+
+Non-GAAP net income for the fourth quarter of fiscal year 2009 was 27.9 million, or $0.15 per diluted share, a 
+decrease of 32.2% from non-GAAP net income of 41.2 million, or $0.23 per diluted share in the immediately preceding 
+quarter, and down 64.8% from non-GAAP net income of 79.2 million, or $0.42 per diluted share in the prior year's 
+fourth quarter. 
+
+GAAP earnings per share for the March quarter were $0.12 per diluted share, but after tax impact on the March 
+quarterly earnings that have been excluded from our non-GAAP results on an after-tax basis include 7.2 million in 
+share-based compensation expense, 7.4 million in gains from trading securities, a $3.6 million cost associated with the 
+acquisition of a patent portfolio license and a 1.7 million in charges associated with our acquisition activities. 
+
+For fiscal 2009, non-GAAP earnings per share were $1.27, compared to $1.57 in fiscal 2008. GAAP earnings per share 
+were $1.33 for fiscal 2009, compared to $1.40 for fiscal 2008, and include on an after-tax basis, 27.2 million in 
+share-based compensation, 4.5 million in losses on trading securities, a $3.6 million cost associated with an acquisition 
+of a patent portfolio license, 2.4 million in acquisition-related expenses and 51.3 million in benefits from various tax 
+matters. 
+
+On a geographic basis, revenue in the Americas was down 7% in the March quarter. Europe was up 1.2% and Asia was 
+down 18.1%. Asia continues to be our largest geography, representing approximately 41.9% of total sales. Revenues 
+from Europe represent 30.9% of our business and the Americas is the balance at 27.2% of total sales. These 
+measurements are based on where the product is delivered for manufacturing purposes for our customers, but does not 
+necessarily represent where the design activity is taking place, or where the end product consumption is occurring. 
+
+I will now go through some of the operating results for the March quarter. I'm using gross margin and operating 
+expenses information prior to the effect of share-based compensation, acquisition-related expenses and the acquisition 
+of a patent portfolio license. Gross margins were 49.3% in the March quarter, compared to 55.2% in the December 
+quarter. The quarterly reduction in gross profit margin was primarily driven by costs related to reduced production 
+levels at our manufacturing facilities being charged to cost of goods sold during the quarter. During the March quarter, 
+we operated our fabs at about 57% of what the peak loading levels were in the September 2008 quarter. 
+
+Total operating expenses were 30% of sales in the March quarter, compared with the prior quarter, which were 29.4% 
+of sales. Research and development costs were 22.8 million, representing 13.2% of sales. Sales and general and 
+administrative expenses were 29.1 million, representing 16.8% of sales. Operating expenses were reduced by 4.6 
+million over the prior quarter levels, and by 18.6 million from the levels in the September 2008 quarter, an overall 
+reduction of 26.4% over the two quarters. 
+
+On a full GAAP basis, gross margins, including share-based compensation and amortization of acquisition-related 
+intangibles were 48.5%. Total operating expenses were 64.9 million, or 37.5% of sales, and include share-based 
+compensation of 6.9 million, acquisition-related expenses of 2.1 million, and a 4 million cost associated with an 
+acquisition of a patent portfolio license. 
+
+On a non-GAAP basis, the tax rate for the March quarter was 11%. The GAAP effective tax rate for the March quarter 
+was 21.1%. The difference in the GAAP and non-GAAP tax rates was driven primarily from the gains on our trading 
+securities being taxed at US rates, versus our overall worldwide effective tax rate. Our tax rate is impacted by the mix 
+of geographical profits, and the percentage of our cash that is invested in tax-advantaged securities. The dividend 
+declared today of $0.339 per share will be paid on June 5, 2009 to shareholders of record on May 22, 2009. The cash 
+payment associated with this dividend will be approximately $62 million. 
+
+
+Moving on to the balance sheet, inventories on Microchip's books were 131.5 million, representing approximately 134 
+days as of the end of March. Inventory on Microchip's balance sheet was reduced by $5 million, or nine days in the 
+March quarter. Deferred income on shipments to distributors was 83.9 million, down by 14.5 million from the balance 
+in December. At March 31, distributors were holding about 38 days of inventory, compared to 41 days at the end of 
+December. With inventory days and dollars declining on our balance sheet and in the distribution channel, we continue 
+to make good progress in right sizing our inventory position. 
+
+At March 31, our receivables were 88.5 million, an increase of 10 million, or 12.7% from the balance as of the end of 
+December. The increase in receivables is attributable to the back-end nature of shipment activity in the March quarter, 
+driven by the Lunar New Year holiday in Asia, compared to a more front-end weighted shipment activity in the 
+December quarter. 
+
+We have not experienced any material deterioration in the payment performance from our customers, and believe that 
+our receivable balances are in good condition. We continue to closely monitor customer activity to ensure we are 
+protecting the receivable assets on our balance sheet, and customer balances beyond terms continue to be at low levels. 
+
+As of March 31, Microchip's cash and total investment position was approximately 1.441 billion, a decrease of 33.2 
+million from the December quarter, including 61.7 million dividend payment made in February. There were several 
+significant factors driving the reduction in our cash and investment balance during the quarter, including our business 
+and patent portfolio acquisition activity. For fiscal 2009, our cash and total investment position decreased by 78.3 
+million. During fiscal 2009, Microchip funded $246.7 million of dividends, repurchased 123.9 million in common 
+stock, and made three small acquisitions. 
+
+We are confident that our free cash flow can support our current level of dividend payments in fiscal 2010. Capital 
+spending was approximately 10.5 million for the March quarter, and 102.4 million for fiscal 2009. Depreciation 
+expense for the March quarter was 22.9 million, compared to 23 million in the same quarter last fiscal year, and 23.2 
+million in the December quarter. Our fiscal 2010 capital expenditures forecast is currently 15 million, a reduction of 
+85.4% from the fiscal 2009 levels. 
+
+One final note relates to Microchip's convertible debt. GAAP after-tax earnings in the quarter-ending June 30, 2009 
+will be impacted by approximately 0.9 to 1.2 million from the adoption of FSP APB14-1 accounting for convertible 
+debt instruments that may be settled in cash upon conversion. This pronouncement will require us to record non-cash 
+interest expense of approximately 1.5 to $2 million in the quarter ended June 30, 2009, which we will exclude from our 
+non-GAAP results. Additionally, this FSP will require a portion of the convertible debt on the balance sheet to be 
+reclassified to equity, with the remaining debt balance accreting to the 1.15 billion principal amount over the remaining 
+life of the convertible, which is more than 28 years. 
+
+I will now ask Ganesh to give his comments on the performance of the business in the March quarter. Ganesh? 
+
+Ganesh Moorthy, Executive Vice President 
+
+Thank you, Eric, and good afternoon, everyone. I will now comment on the individual product lines, and let's start with 
+microcontrollers. Reflecting the current challenging macro conditions, our microcontroller business was down 9.5% on 
+a sequential basis. Flash microcontrollers represented approximately 78% of our microcontroller business in the March 
+quarter. 
+
+About a month ago, Gartner Dataquest released their Microcontroller Market Share report for 2008. For the third 
+consecutive year, Microchip retained the number one position for 8-bit microcontrollers. While the overall 8-bit market 
+was down 5.4% in 2008, Microchip declined less than the 8-bit market as a whole, reflecting continuing share gains 
+against the overall market. Even more impressively, the gap between Microchip and the number two 8-bit competitor 
+grew from 19% in 2007 to 25% in 2008. 
+
+
+Although we don't subscribe to the SIA numbers, we are aware that some investors and analysts do follow the reports. 
+For the recently published SIA report, 8-bit plus 16-bit microcontroller revenue for the March 2009 quarter was down 
+46%, as compared to the March 2008 quarter. In the same periods, Microchip's microcontroller revenue was down 
+33%. So by the SIA data, we outperformed the market over the last year by 13 percentage points. 
+
+As we've explained before, the housing segment led the current global financial crisis. Microchip saw the impact of the 
+housing crash starting in 2007, leading some investors and analysts to interpret those events as a weakening of 
+Microchip's competitive position, and thus translating to market share loss. As the rest of the industry segments like 
+cell phones and PCs have joined in the global financial crisis, Microchip's relative performance is much clearer now. 
+Based on the SIA March quarter data, our 8-bit microcontroller market share is in the high-teens, an all-time record 
+high market share for Microchip. 
+
+So whether one measures by the SIA yardstick or the Gartner Dataquest yardstick, Microchip's relative performance 
+over the last year looks positive, as compared to the overall market. In these difficult times, we are especially humbled 
+and gratified that customers continue to vote overwhelmingly that Microchip is their supplier of choice for 
+microcontroller solutions. 
+
+While some of our large competitors continue to tout their revenue growth and market share gains, it is illustrative to 
+compare this performance against their profitability over an extended period of time. In the 8-bit microcontroller 
+market, we estimate that after Microchip at number one, the next profitable competitor is not until one gets to number 
+14 in the Gartner Dataquest 2008 rankings. Anyone can grow revenue by selling dollar bills for $0.90. The conscious 
+path Microchip has taken is to balance growth and profitability, and avoid the perils of profitless prosperity that some 
+of our large competitors seem to revel in. Over time, the markets and our investors have recognized the strength of our 
+operating model, but a reminder, particularly in these difficult economic times, helps ensure that our core values are 
+being appropriately recognized. 
+
+Moving on to our 16-bit microcontroller business, despite the challenging macro environment, this business performed 
+much better comparatively. 16-bit revenue was up 6% sequentially, and was up 21% from the year-ago quarter. New 
+customers and new designs going to production continued to help drive growth in the current environment, as the 
+number of volume 16-bit customers grew to approximately 1,700. On a fiscal year basis, our fiscal year '09, 16-bit 
+microcontroller business was up 43%, as compared to fiscal year '08. 
+
+Our 32-bit microcontroller business in the meanwhile, continues to make good progress. Customer interest remains 
+high, and we have a large number of designs incubating across the broad range of customers and applications. The first 
+designs are starting to ramp into production, and we expect the 32-bit product line to start contributing to our 
+microcontroller revenue in fiscal year '10. 
+
+Two weeks ago, Microchip introduced the industry's lowest-power microcontrollers with our announcement of 
+nanoWatt XLP, standing for extreme low-power, microcontrollers. The combination of high functionality and low 
+power offered by Microchip is unparalleled among microcontroller suppliers, and capitalizes on an increasing trend of 
+battery-powered and power-constrained applications. 
+
+Microchip also continues to make significant strides in establishing our leadership in the growing area of user-interface 
+solutions for the embedded marketplace. Our capacitive and inductive touch-sensing solutions, introduced within the 
+last two years, are now designed into over 100 customer applications. The acquisition of Hampshire Company, a leader 
+in the touch screen controller market back in October 2008 has enabled us to tap into a growing trend of touch screens 
+in embedded applications. We are excited by the market interest, the customer acceptance, and design win momentum 
+of our broad range of user interface solutions, and their potential for growth. 
+
+Moving to development tools, we shipped 33,514 development tools in the March quarter, the highest number of tools 
+we have ever shipped in a fiscal fourth quarter. In fiscal year '09, we shipped 136,531 development tools, 17% higher 
+than what we shipped in fiscal year '08. Even in these challenging business conditions, we see no slowdown from our 
+customers in their designing activity, reflecting their continued desire to differentiate their end products to extract 
+themselves out of this recession, which should all bode well for future growth. 
+
+
+In February, Microchip acquired HI-TECH Software, a world-class provider of development tools that is based in 
+Brisbane, Australia. The HI-TECH acquisition extends Microchip's leadership in compiler technology, and offers our 
+customers the benefit of highly-efficient, industry-leading code density for our microcontrollers. 
+
+Let's now move to our analog products. Our analog business was down 13% sequentially. On a fiscal year basis, our 
+fiscal year '09 analog business was essentially flat, as compared to fiscal year '08, among the very best performances 
+for analog businesses over the last year. As per the SIA data, the analog market segments was down 9.6% from April 
+'08 to March of '09, while we were flat. So, we continue to gain market share in our analog business, too. 
+
+Late in March, we completed the acquisition of R&E International, a leader in providing innovative solutions for 
+security and sensing systems that is based on Norristown, Pennsylvania. The R&E International acquisition 
+complements Microchip's existing leadership position, providing both microcontrollers and analog products to security 
+and sensing applications, and now enables us to offer an enhanced solution base to a broader range of customers 
+worldwide. We expect this acquisition to be immediately accretive to Microchip's non-GAAP earnings. 
+
+Last but not least, our serial e-squared memory products. This business was down 9.5% sequentially. Although market 
+conditions were challenging, we continue to run this business in a disciplined fashion that maintains consistent 
+profitability and serves our microcontroller customers to complete their solutions. 
+
+Let me now pass it to Steve for some general comments and our guidance for the June quarter. Steve? 
+
+Steve Sanghi, President and Chief Executive Officer 
+
+Thank you, Ganesh, and good afternoon, everyone. I'm speaking to you today from London, where I'm visiting our 
+customers and distributors getting first-hand impression of the market situation here. Today, I would like to first reflect 
+on the results of the March quarter, then I will talk about our internal plan for the June 2009 quarter. 
+
+The March quarter saw a steady improvement in the business environment. Our total backlog bottomed out early in the 
+quarter, and then gradually improved through the quarter, albeit at a very slow pace. We provided guidance to our 
+investors on March 9, 2009 which was consistent with our internal plans that we had shared back in late January. We 
+ended the March quarter very slightly north of the midpoint of our guidance from a revenue standpoint. 
+
+Our earnings per share reached the high-end of guidance, mainly on the strength of excellent cost control on the 
+operating expense side. Our worldwide non-manufacturing employees took one week off unpaid, in addition to being 
+on a 10% pay-cut and zero bonuses worldwide. On the gross margin front, we came in at 49.3% in non-GAAP gross 
+margin versus 50% internal plan. During the quarter, we ran the fabs at 57% utilization, versus the 60% that we had 
+guided to. 
+
+The silver lining is that we put the trough of the gross margin behind us in the March quarter. Secondly, our inventory 
+came down from a high of 143 days to 134 days at the end of March. The inventory is expected to continue to come 
+down in subsequent quarters. 
+
+From a product line perspective, 16-bit microcontrollers turned in a respectable performance being up 6% sequentially, 
+and up 21% from a year-ago quarter. The backlog on 16-bit microcontroller is up significantly from last quarter, and 
+we expect continuing good growth ahead. At the Embedded Systems Conference a month ago Electronic Design 
+Magazine gave our 32-bit product line, the PIC32, the Innovation Award in the microcontroller category for 2008. At 
+the same conference, Microchip also won the EE Times ACE Award in the Company of the Year category. 
+
+Reflecting on our fiscal year '09 new product performance, we introduced 125 microcontrollers, analog products, and 
+memory products. In addition, we expanded our product portfolio through the acquisition of the Hampshire Company 
+for touch screens, HI-TECH in software, and R&E International in the security and sensing area. As you heard from 
+Ganesh, we have been introducing industry-leading solutions in the area of extreme low-power capacity with 
+touch-sense and inductive touch-sense that are all gaining significant customer traction. By staying invested in the new 
+product development during this down cycle, we expect to introduce approximately 150 new products over the next 
+
+
+year that will offer superior value to our customers. We will also continue to make selective, 'elbow out' type of 
+acquisitions that broaden our product portfolio, and can rapidly be accretive to our earnings. 
+
+Now, I will discuss our internal plan for the June quarter. The semiconductor industry is still suffering from the global 
+financial crisis. While our starting backlog for the June quarter is higher than our starting backlog loss for the March 
+quarter, the visibility is still low relative to a historical basis. Our book-to-bill ratio for March quarter was 1.04, but 
+bookings in April were substantially higher than that of January. With that backdrop of mixed indicators, we will 
+continue to not provide guidance for the June quarter. We have set our internal plan for revenue for the June quarter at 
+$182 million, or up about 5% sequentially. 
+
+Our internal plan for non-GAAP gross margin is about 50%. Our internal plan for non-GAAP earnings per share is 
+$0.16. Our plan for GAAP earnings per share is $0.11, and as Eric pointed out, this has about a little less than a penny 
+impact, because of the adoption of this new FASB regulation. In both GAAP, as well as non-GAAP earnings, internal 
+plan assumes no effect of mark-to-mark considerations on public securities owned. 
+
+Now, reflecting further, our financial results clearly indicate that our business model is working, and it's profitable even 
+at the bottom of this deep recession. None of our competitors, including Atmel, STMicro, Cypress, Freescale, NXP 
+Semiconductors, Infineon, NEC or Renesas were profitable on an operating basis in the March quarter. And Texas 
+Instruments was essentially breakeven. These companies combined lost an astounding 2 billion in the March '09 
+quarter. 
+
+During the same quarter, Microchip posted 19.3% operating profit, a testament to the resiliency of our business model, 
+the hard work of our employees worldwide, and the competitive advantage of our company culture. We have been 
+profitable now for 74 consecutive quarters, and the June quarter will be our 75th. 
+
+We recently heard that NEC and Renesas are combining their operations, and substantial restructuring of the product 
+lines, organizations, and factories is expected. Similarly, most of the other competitors that I mentioned are all in the 
+mode of significant restructuring. Microchip sees a significantly weakened competitive landscape, in which we are 
+boldly making new investments and product lines, people, distributors, and acquisitions. And we see continued market 
+share gains ahead. 
+
+And as Ganesh pointed out, the Semiconductor Industry Association data recently released confirmed a record market 
+share for Microchip in 8-bit microcontrollers and continued market share gains in both eight and 16-bit 
+microcontrollers. 
+
+On the dividends, we have said enough about dividends, and will not continue to belabor the point. We will add, 
+though, that we expect the June quarter operating cash flow to come very close to covering the dividend payment. We 
+expect fiscal year '10 free cash flow to cover the dividend payment. This will obviously be aided low capital 
+expenditures, decreasing inventory, increasing gross margins, and operating margins and growing revenue. 
+
+With that, operator, would you please poll for questions? 
+
+Q&A 
+
+Operator 
+
+Thank you. [Operator Instructions] And our first question will come from Romit Shah from Barclays Capital. 
+
+<Q - Romit Shah>: Good afternoon. Thanks for taking my question. You guys are forecasting gross margin to increase 
+modestly in the June quarter. Does that assume – or are you factoring – should we factor in any increase in production 
+levels as well? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: The gross margin improvement is driven by several 
+factors. While the factory utilization in our fabrication facilities is expect to be about the same as we had last quarter, 
+because we are still trying to burn off significant amount of inventory. The gross margin improvement is driven by 
+
+
+increased activity in our back-end operations, where the utilization will increase, continuing richening of our product 
+mix, and various other cost reductions quarter-over-quarter that will impact the gross margins. 
+
+<Q - Romit Shah>: And Steve, with inventory days down to around the mid-130s level, where are you in terms of 
+right-sizing inventories back to, I guess, your target range? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Well, we have historically said that the right inventory 
+was in the 115 days, although with increasing number of line items, with all the analog products, and now 16-bit and 
+32-bit products. And the distributors – traditionally carrying lower inventory, the end customers, really at an all-time 
+low inventory, one could make the case that even a slightly higher level of inventory would be appropriate. So we are 
+at 134. 
+
+With the internal plan we have, it takes us to about another 9, 10 days down to about – to 124 or so at the end of June 
+quarter. And we are starting to get in the range. So, we will start to increase production past the June quarter, and then 
+bring the rest of the inventory down by another 10 days or so more slowly. 
+
+<Q - Romit Shah>: Okay. And then, just a final question from me. You sort of noted that some of your competitors are 
+not in great financial health today. Do you think customers are taking note of that, and looking at your offering more 
+closely than they might have in the past? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: I would say historically, they didn't care. Historically, 
+the customers haven't really cared whether their supplier makes money or not. Because many of the customers in 
+various markets, automotive and others themselves don't make money. And – few customers obviously did, but with 
+the depth of the financial crisis, and number of companies in various industries going bankrupt and all the money 
+squeeze, I'm seeing significant increase in number of customers that are asking those questions, and reviewing our 
+balance sheets, and making comments in the meetings with them – regarding how they feel comfortable doing business 
+with Microchip. And we got an overtures from customers who are concerned about continuing supply from some other 
+customers – from some other competitors. 
+
+<Q - Romit Shah>: Okay. And just last question from me. Ganesh, could you give us what 16-bit tool shipments were 
+in the quarter, and how many 32-bit products you have? 
+
+<A - Ganesh Moorthy, Executive Vice President>: I don't have the 16-bit number off the top of my head. The 32-bit 
+products in production, I believe, are at 18. 
+
+<Q - Romit Shah>: Okay. Thank you. 
+
+Operator 
+
+Our next question will come from John Barton from Cowen. 
+
+<Q - John Barton>: Thank you very much. Steve, if you could just go back to your last response regarding gross 
+margins, looking at the June quarter, you talked about fab utilization being basically flat, the back end being up, 
+helping gross margins. The delta between those two – do I infer from that you're going to pull stuff out of die bank? Is 
+that the difference? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Yeah, so we own a large back end facility in Thailand 
+for assembly and test, and we cut back on the utilization for the assembly and test facility also. And we had number of 
+small shutdowns last quarter. In fact, as we speak, just in the last week – leading up to building this kind of internal 
+plan, as we see strengthening of the business, we have cancelled one other shutdown in Thailand. 
+
+So when you produce more output, then you have higher utilization, and there is the accretive effect of that in the gross 
+margin. And there are other moving parts, quarter-after-quarter, larger portion of the business moves to a newer 
+product, shrink product with higher margins, and some other – lots of discretionary expenses that we have taken out. 
+Last quarter, which didn't have effect for the full quarter, will have effect for the full quarter this quarter. So it's a 
+
+
+combination of all that. We're talking 70 basis points target improvement, and it has a lot of moving parts. 
+
+<Q - John Barton>: And just to clarify it a slightly different way, I believe fab utilization remains flat in June. 
+Assembly utilization goes up – one would think they're directly correlated, unless you're moving something from a 
+contract manufacturer in-house, or again, maybe you're pulling out of a die bank. What I'm really 
+
+
+<A - Steve Sanghi, President and Chief Executive Officer>: We're pulling out of a die bank. Yeah. We have a large 
+
+– we keep most of our inventory in die bank. 
+<Q - John Barton>: Got it. 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: So yeah, we're taking inventory down in our pipeline, 
+by taking inventory out of the die bank, yes. 
+
+<Q - John Barton>: Understood. You commented about the success of the 16-bit design wins, number of volume 
+customers et cetera. Are there any trends there worth highlighting, meaning particular end verticals that you're being 
+most successful with, particular applications where you're beating out the competition – or any way we should be 
+thinking about that? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Usually we don't really signal that, because we don't 
+want to tell the competition where we're winning, but Ganesh, you want to answer that question? 
+
+<A - Ganesh Moorthy, Executive Vice President>: Yeah, I think the best way think about it is, the 16-bit business, in 
+many ways, resembles our 8-bit business. It is across a broad, broad range of applications. And within that, we have 
+some of the best performance 16-bit applications in terms of how well they can operate, how good the code efficiency 
+is. So to the extent that our applications that are sensitive to needing higher performance, needing good code efficiency, 
+we're able to easily win those out. And they compete quite well with the whole broad range of both 16-bit and some of 
+the low end of the 32-bit product lines as well. So I can't pick a single application as leading the growth. It's really 
+across a broad range of both customers and applications. 
+
+<Q - John Barton>: Last question. On the M&A front, you talked about using that as a strategic front, so to speak, as 
+some of other competitors are challenged, et cetera. How should we think about potential magnitude and direction of 
+your M&A activity? I mean, could we potentially see 
+
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Our M&A activity, what I call internally here is 'elbow 
+out' strategy. After really being unsuccessful in trying to buy a large company, Atmel, that we abandoned back in 
+February, the new strategy we're on is really for a – elbow out. And these are very small bite-size acquisitions, trivial in 
+terms of the revenue contribution on the size of Microchip. Many of them are just a few million dollars, single-digit. 
+But they have significant capability, sometimes in a narrow market, it could be they're touch-sense or security and 
+sensing, one in the case of compiler and so – these are really all these small acquisitions which allow us to sort of 
+elbow out where we are the microcontroller and they're the things occupying next to our microcontroller, either a 
+front-end analog chip, or a better compiler capability, or some other touch screen kind of capability, and we simply 
+elbow out into adjoining spaces where our parts are already being used, and we build up really strength. So that's sort of 
+the strategy we're on right now. So these are not sizeable acquisitions, but they're going to be several small ones. 
+
+<Q - John Barton>: Thank you very much. 
+
+Operator 
+
+[Operator Instructions] Our next question will come from Chris Danely from JPMorgan. 
+
+<Q - Christopher Danely>: Thanks, guys. How much of the revenue increase that you're seeing in the June quarter do 
+you think is increased demand versus some inventory replenishment out there? 
+
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Well, I don't know what the difference is, Chris. I think 
+it's little bit of both. The run rates went down certainly lower than the actual demand, which always happens in an 
+inventory correction environment. So some of that is bounceback, but I think where the growth is coming from is really 
+all Asia. 
+
+We expect our Europe business to be down further this quarter from last quarter. Out of the three geographies, Europe 
+has the most economic challenges. We're looking at US business being flattish to up maybe just a little bit, and most of 
+the growth is really coming out of Asia. China has done a marvelous job in their stimulus plan. I mean, they're taking 
+empty factories and building stuff, building brown goods, white goods, and discounting them and selling them to the 
+rural communities, and taking these capabilities to the farmers, Internet to TVs to refrigerators to metering, and all that. 
+
+And we are participating in that significantly so we're really seeing real gross domestic product going up in China 
+through their stimulus package. Obviously, in US, the brighter minds have chosen to do something different, and its 
+impact is not yet understood yet. 
+
+<Q - Christopher Danely>: Great. And then, on these – this flurry of acquisitions you guys did, is there any change to 
+the microchip long-term business model in terms of your gross margin or operating margin or operating expenditure 
+goals and target? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: No, these acquisitions are very small. Like I said, these 
+are – some of these are low single-digit sort of annual revenue, and you're talking about a few people, handful of 
+people, eight, 10, 12. So, they don't really move the needle, but they give us a significant capability on which we, 
+embedded into our products, we can really grow that quite substantially over the years. 
+
+Over the years, we have developed – a lot of those capabilities are self-pictured which are still revenues for us today. 
+And we continue to do so, but on such a large revenue, we just need more tentacles, and so we are using that capability 
+to acquire additional capability, but they don't – they're not really the model movers. 
+
+<Q - Christopher Danely>: Great. And that leads into my last question. So, given that we're coming out the bottom 
+here, and hopefully things steadily improve in the second half of the year, how would you expect your operating 
+expenditures and your gross margins to trend after the June quarter? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Well, our gross margin should continue to increase. So, 
+like I said, if we – if you get to like a 124, 125 kind of inventory days at the end of June quarter, which is quite likely 
+here, you are really within the striking range. If we run the factory at the current utilization, then in the following 
+quarter we'll be below 115. And it's really almost really corrected, so we have to significantly start increasing 
+production here, maybe late part of this quarter into the next quarter. 
+
+So, that will have very accretive effect on the gross margins. And, same thing would be in the back end, continue to 
+really – have to produce more product – we burned down the inventories – so, that will again, have accretive effect. In 
+terms of the operating expenses, what we have said is that the operating expenses should very much track as a 
+percentage of revenue to where we are today. We have taken operating expenses down about 25 to 27%. I think – 
+what's the exact number right now? 
+
+<A - J. Eric Bjornholt, Vice President and Chief Financial Officer>: I believe it's 26.9. 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Yeah, so 27%, we've taken it down, and we have done 
+that all really through cutting the pay, removing the bonuses, moving other discretionary expenses, and the intent of 
+that is so our worldwide sales force, product development teams stay deployed. So, we're going to produce 
+substantially larger number of new products, compared to competitors who are laying off lots of people. We're calling 
+on record number of customers, our salespeople, application people have engaged, winning new designs, filling up the 
+funnel – because getting bigger and bigger. And this result would be that we'll get good growth out in time. 
+
+However, as we start to get that growth, we have to pay these people back with our gratitude, with extreme thanks, 
+because everybody in Microchip, on the average – lots of these people I'm talking to are on 20, 25% pay cut, if you 
+combine the combination of a 10% pay cut, plus we didn't allow their bonuses and no 401(k) matching and all that. 
+
+
+And I'll be glad to give them that money back, not the past money back, but to really reverse their pay back to normal, 
+with my extreme gratitude. 
+
+<Q - Christopher Danely>: And so none of these OpEx cuts are going to come back, I guess, inside the September 
+quarter? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: No, no – you shouldn't expect that we will lift a finger 
+up, and let them come back faster than the growth of the revenue. So what you should expect is that about 30% 
+operating expenses, which we roughly are now, that kind of operating expense percentage should continue. 
+
+<Q - Christopher Danely>: And then, Eric, do you guys have any figure or estimate for your incremental gross 
+margin after the June quarter? 
+
+<A - J. Eric Bjornholt, Vice President and Chief Financial Officer>: No. It really depends on what the shape of that 
+revenue curve is going to be. So, we won't guide on that until we guide for the September quarter. 
+
+<Q - Christopher Danely>: Okay. Thank you very much, guys. 
+
+Operator 
+
+Our next question will come from Brendan Furlong from Miller Tabak. 
+
+<Q - Brendan Furlong>: Good afternoon, thank you. Couple of quick questions on the – kind of going back to the 
+gross margin, the out-performance of the 16-bit in the March quarter, did that help your blended gross margin in the 
+quarter? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: By product line, within the microcontroller, the gross 
+margin doesn't move much. Don't make the automatic assumption that 16-bit makes higher-margin than 8-bit, and 
+32-bit makes higher margin than 16-bit. If that was to be the case, all these leaders in the 32-bit micro, Freescale on 
+down, would be very, very profitable. 
+
+These higher end micros are much more complex, they are larger die sizes, bigger packages, and more complex 
+technology. So their cost is higher, and their ASPs are higher, but the margin profile business model we're shooting for 
+is roughly equivalent. 
+
+<Q - Brendan Furlong>: Okay. And then, on the things that are over there in Europe, what are your – customers 
+you're visiting, I know obviously, right now the industrial and auto markets are the weakest place – in end markets and 
+globally, what are they saying about six months from now? Do they think they'll be out of this? Three months from 
+now, six months from now? Thank you. 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Well, I mean, the more customers and distributors you 
+talk to, the more varied opinion you'll get, and Europe is still not a monolith, it's not like the US. I got slightly different 
+answers from Germany, versus UK, versus France, versus Italy, versus Norway, versus Russia. But they're all down – 
+nobody's up – they're all down, all market segments are down. 
+
+And Europe is – continues – Europe takes longer to take actions usually. It's just that, because they're all not one 
+country, and they can't make decisions and interest rates as quickly as we can make in US, as quickly as they can make 
+it in China. So, we are seeing the effect of stimulus packages to be best in China. US comes much further down, and 
+Europe, I think, has just barely begun. So I think it will take a while. 
+
+<Q - Brendan Furlong>: Thank you. 
+
+Operator 
+
+Next we'll go to Douglas Freedman from Broadpoint. 
+
+
+<Q - Ian Ing>: Hi, it's Ian Ing for Doug Freedman. Thanks for taking my question. I'm wondering if you can provide 
+more color on the opportunity to take share in the landscape. You mentioned that – Renesas being acquired by NEC. 
+However, these two very large companies do have a lot of internal customers, like the Hitachis and Mitsubishis and 
+NECs. What sort of target markets would you go after? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Ganesh, you will take that? 
+
+<A - Ganesh Moorthy, Executive Vice President>: Yeah – certainly they have a large capital market and a large 
+percentage of their market that is in Japan, but they're also present in geographies, and other customers where we see 
+them. And typically, when these type of combinations happen, roadmaps will change, product lines will come to an end 
+that cannot be continued to be invested in at the rate when they were losing money. And as those transitions happen, 
+they all present opportunities for microchip solutions to be in contention. And as we are investing in our product lines, 
+as well as our customer support, we're better positioned to be able to identify and capitalize when those opportunities 
+present themselves. 
+
+<Q - Ian Ing>: Great. And as a follow-up, the 32-bit processors, you mentioned that this year they'll be starting to have 
+some material ramps. When do you think it'll start becoming worthy of reporting, like looking at sort of 
+mid-double-digit growth rates. You're obviously much higher now? 
+
+<A - Ganesh Moorthy, Executive Vice President>: I think as we go through the fiscal year '10 quarters, at an 
+appropriate time, when it makes sense, we will begin to provide some of that detail. Really, I think it's probably less 
+important from our perspective, we're looking at 8s, 16s, and 32s as a portfolio that solve customer applications, and in 
+many cases, a 16-bit can go into a 32-bit application, or a 32-bit could fit into 16-bit location. It becomes less and less 
+meaningful, I'm sure at some point we can provide you the data, but as we think about it, don't look to just grow 32-bit 
+or grow 16-bit, we're trying to grow them all, and identify the right solution for the customer be it 8, 16, or 32. 
+
+<Q - Ian Ing>: Great, thank 
+
+
+<A - Steve Sanghi, President and Chief Executive Officer>: We won't break out the 8, 16, 32-bit revenue for 
+competitive reasons, but like we tell you that 16-bit growth rate will tell you that 32-bit rate quarter-over-quarter. Right 
+now, it doesn't help. I mean 32-bit grew 400% sequentially last quarter. Where does that help you? That doesn't help, 
+because it's very small base. So, in the next two or three quarters, by the end of this year, we'll start to start to tell you 
+consistently the number of large customers, the development tools shipped, and some other growth rate parameters on 
+32-bit like we do on 16-bit. 
+
+<Q - Ian Ing>: Exactly, that's helpful, thank you. And then, final question, like a housekeeping question here, are you 
+guiding interest income for June quarter? The pro forma? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Are we what? 
+
+<Q - Ian Ing>: The pro forma interest income for June? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Eric, do you have that? 
+
+<A - J. Eric Bjornholt, Vice President and Chief Financial Officer>: Yeah, so the net will be of interest income, 
+interest expense will be somewhere in the minus $2 million range. 1.5 to $2 million. 
+
+<Q - Ian Ing>: I see. That's all I had. Thank you very much. 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Versus what this quarter? 
+
+<A - J. Eric Bjornholt, Vice President and Chief Financial Officer>: This past quarter was about the same range, 
+Steve, it was minus 2.1. 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Okay, so about the same. 
+
+
+Operator 
+
+Our next question will come from John Pitzer from Credit Suisse. 
+
+<Q - John Pitzer>: Yeah, good afternoon, guys. Steve, thanks for taking my questions. Steve, just a little bit – you 
+talked about linearity in the March quarter improving month on month, I think you mentioned that April bookings, a lot 
+higher than January. I'm just kind of curious, when you look at the 5% sort of internal guidance for the June quarter, 
+does that assume that linearity continues to improve month on month? Or are you already at a run rate where you don't 
+need that to hit that guidance? 
+
+And then, I guess on the same vein, book-to-bill ratio in the quarter was 1.04. Given that you're expecting June to grow 
+5%, implicitly, are you expecting more turns in the quarter? Or just help me understand that. 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Well – Eric, do you remember what our book-to-bill 
+was a quarter ago? 
+
+<A - J. Eric Bjornholt, Vice President and Chief Financial Officer>: Not off the top of my head. 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Wasn't it like 0.97 or something? Yeah, it was – no, it 
+was less than that. It was 0.77 or something. 
+
+<A - J. Eric Bjornholt, Vice President and Chief Financial Officer>: Well 
+
+
+<A - Steve Sanghi, President and Chief Executive Officer>: December quarter bookings were very, very low. I'm 
+sorry, when we came to March quarter in the beginning of January, we had just come off a quarter with the book-to-bill 
+ratio very, very low, yet we grew. No, I'm sorry – we did much better than the book-to-bill ratio would show. And we 
+have said repeatedly, book-to-bill ratio doesn't really track with the end revenue. 
+
+So the book-to-bill being 1.04, it doesn't really – is not a proxy on – you can't really calculate what your growth rate 
+would be. I mean, it just has – never had any correlation. You can get a large amount of bookings, they just don't age in 
+the quarter, they age in the following quarter, or the bookings at Disti but they don't ship out. So I guess – I have never 
+been able to correlate those numbers. They don't correlate. 
+
+<Q - John Pitzer>: And then Steve, just around linearity I'm just kind of curious – to hit that 5% sequential in June, do 
+you need monthly linearity to improve, or are you already at a run rate where that's not necessary? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Well, bookings are not a problem, bookings are very 
+good – we want them to continue to improve, because bookings are still low on a historical basis. But the linearity 
+doesn't really have to improve to hit the numbers, the aging has to be right. 
+
+<Q - John Pitzer>: And then, Steve, just back to Chris's earlier question about inventory versus end-demand, I know 
+you gave us some explicit guidance on what you thought your own internal inventory would do in June. I'm kind of 
+curious, any comments around Disti inventory in the June quarter relative to end consumption. Do you expect that to 
+move higher, stay the same, or continue to bleed lower? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Our model in our guidance assumes the Disti inventory 
+going down further. About a month ago, our assumption was the Disti inventory would go down much further. And 
+even in the month starting April 1 to the announcement of these numbers, we have revised that twice, feeling that the 
+Disti inventory is not going down as much. But we still have a Disti inventory drain dialed in, whether it will go down 
+even less than that, we can't control. But it shouldn't affect our revenue, because we don't take that as a shipment. 
+
+<Q - John Pitzer>: And then, my last question, just back on the market share gains and the comments you made, is the 
+expectation steady, consistent share? Or do you actually see opportunity out there where bigger chunks of share might 
+come your way on a more near-term basis? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Ganesh, you want to take that one? 
+
+
+<A - Ganesh Moorthy, Executive Vice President>: In the embedded business, market share does not move that 
+dramatically in short periods of time. It's a sustained battle that you have to win. So I would expect that market share 
+gain happens over a period of time, but happens on a more sustained basis. 
+
+<Q - John Pitzer>: Great. Thanks, guys, appreciate it. 
+
+Operator 
+
+Next we'll go with Kevin Cassidy from Thomas Weisel Partners. 
+
+<Q - Kevin Cassidy>: Thanks for taking my question. I wonder if you can give a little more color on your plans for the 
+touch marketplace. What applications are you targeting, and what markets? 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Ganesh? 
+
+<A - Ganesh Moorthy, Executive Vice President>: When we talk about touch, there's two parts of touch. There's 
+touch-sense and then there's touch screens. Touch-sense is any time you have a human interface, a button, a slider, that 
+can go into a broad range of products, they can be in consumer products, they can be in home appliances, they can be in 
+printers, they can be – so it has a very, very broad range of places where people are replacing mechanical buttons and 
+replacing them with the kind of touch solutions that Microchip has. And we see it in industrial, we see it in consumer, 
+we see it in automotive, in medical. So in all of these application segments there are opportunities. 
+
+Touch screen, on the other hand, is similar to what touch-sense does, except there's now a visual screen and the 
+interface – so if you think of a navigation system in a car, for example, you're making an interface through that screen. 
+There's information that is on that screen that you're interacting with. But it also goes into many, many embedded 
+applications, and it's a richer data that the customer's interacting with, with touch screen. 
+
+<Q - Kevin Cassidy>: Okay. And do you plan on just – are you going to be selling the silicon and then going to a 
+module maker, or are you going to sell the whole solution? 
+
+<A - Ganesh Moorthy, Executive Vice President>: No. Our solution is really the silicon and all the other software 
+pieces that a customer needs. But the integration and the modules and the final products are really what our customers 
+do. 
+
+<Q - Kevin Cassidy>: Okay. Great. And do you expect us to be in the – I imagine you're seeing about the same gross 
+margin as any microcontroller? 
+
+<A - Ganesh Moorthy, Executive Vice President>: Yeah, we expect that these will fit into the profile of where our 
+microcontroller margins typically run at. 
+
+<Q - Kevin Cassidy>: Okay. Great. Thank you. 
+
+Operator 
+
+We have a follow-up from Romit Shah of Barclays Capital. 
+
+<Q - Romit Shah>: Hi. Eric, just, I had a couple of housekeeping questions on – just on other income. You guys 
+reported 9.9 million. There was a one-time gain, is that right, from the fab sale, and from some trading securities? 
+
+<A - J. Eric Bjornholt, Vice President and Chief Financial Officer>: Yeah, there was a one-time gain from trading 
+securities, and that was $12 million. 
+
+<Q - Romit Shah>: Okay. And your 
+
+
+<A - Steve Sanghi, President and Chief Executive Officer>: There was no fab sale, where are you reading fab sale? 
+
+
+<A - J. Eric Bjornholt, Vice President and Chief Financial Officer>: That's last fiscal year, Steve. 
+
+<Q - Romit Shah>: Oh, okay. And then, why are you forecasting a loss, again, in the June quarter? 
+
+<A - J. Eric Bjornholt, Vice President and Chief Financial Officer>: Well, just because interest income is lower 
+than interest expense. 
+
+<Q - Romit Shah>: Okay. So, this is something that's going to persist through fiscal '10? 
+
+<A - J. Eric Bjornholt, Vice President and Chief Financial Officer>: That's correct, unless something changes 
+dramatically with interest rates. 
+
+<Q - Romit Shah>: Okay. Thank you. 
+
+Operator 
+
+Our next question will come from Gill Alexandry from Garfield Associates. 
+
+<Q>: Question was just answered, thank you. 
+
+<A - Steve Sanghi, President and Chief Executive Officer>: Thank you, Gill. 
+
+Operator 
+
+Next we'll move on to Ruben Roy from Pacific Crest Securities. 
+
+<Q - Ruben Roy>: Yes. Thank you. I just had a quick question. Ganesh, sorry if I missed this, but did you give out the 
+16-bit development tool shipments for the quarter? 
+
+<A - Ganesh Moorthy, Executive Vice President>: I apologize, I did not, and we will get back to you, and I think 
+there was a question earlier on from somebody else. And we'll get back to both folks on it. 
+
+<Q - Ruben Roy>: Okay. Thanks very much. That's all I had. 
+
+Operator 
+
+And at this time, our question-and-answer session has concluded. Now, I'll turn it back over to you, gentlemen, for any 
+closing or additional remarks. 
+
+Steve Sanghi, President and Chief Executive Officer 
+
+Well, thank you for all the investors for joining us. I think it's been a difficult fiscal year, fiscal year '09. But we're still 
+profitable, we're still doing well, we'll put the bottom behind us, we're growing and we performed better than lot of our 
+competitors, and the outside data is now starting to confirm that. So, our biggest objective here is to put in kind of 
+market share concern to rest, which had been the concerns of many of the investors and analysts over the last year, 
+which started with the crash of the housing market. And I think, now as everybody else has joined in the fray, our 
+numbers look substantially better than our competitors, and we boldly look ahead, and putting the bottom behind us, 
+and we will start to grow from here. Thank you very much. 
+
+Operator 
+
+That concludes today's presentation. Thank you for your participation. 
+
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2009, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

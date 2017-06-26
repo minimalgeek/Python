@@ -1,0 +1,808 @@
+Q3 2007 Earnings Call 
+
+
+Participants 
+
+• Michael W. Hara, Vice President, Investor Relations and Communications 
+• Jen-Hsun Huang, Co-founder, President and Chief Executive Officer 
+• Marvin D. Burkett, Chief Financial Officer 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon and thank you for holding. I would now like to turn the call over to Michael Hara, NVIDIA's Vice 
+President of Investor Relations. Thank you. Sir, you may begin your conference. 
+
+Michael W. Hara, Vice President, Investor Relations and Communications 
+
+Thank you. Good afternoon and welcome to NVIDIA's conference call for the third fiscal quarter ended October 29, 
+2006. On the call today for NVIDIA are Jen-Hsun Huang, NVIDIA's President and Chief Executive Officer and Marv 
+Burkett, NVIDIA's Chief Financial Officer. 
+
+Before we begin today's call, I would like to take care of some general administrative items. Your lines have been 
+placed on a listen-only mode until the question and answer segment of today's call. During this call, we will discuss 
+some non-GAAP measures about net income, net income per share, and gross margin, and other line items from our 
+consolidated statements of income when talking about our results. You can find the full reconciliation of these 
+measures to GAAP in our financial release which is posted on the Investor Relations page of our website at 
+www.nvidia.com. This call is being recorded. If you have any objections, you may disconnect at this time. Please be 
+aware that if you decide to ask a question, it will be included in both our live transmission as well as any future use of 
+the recording. Also, shareholders can listen to a live webcast of today's call and view our financial release at the 
+NVIDIA Investor Relations website. The webcast will be available for replay until the company's conference call to 
+discuss its financial results for its fourth quarter fiscal 2007. 
+
+During the course of this conference call, we may make forward-looking statements based on current expectations. 
+Forward-looking statements including statements as to our fourth quarter 2007 outlook, the review of the stock options 
+practices by our Audit Committee, the restatement, the use of non-GAAP measures, the benefit and impact of the 
+acquisition of PortalPlayer, new and forthcoming products, our products and technologies, growth, growth drivers, 
+market share, Windows Vista, PlayStation 3, design wins, strategic focus and customers and partners pertained to 
+future events that are subject to a number of significant risks and uncertainties. The company's actual results may differ 
+materially from results discussed in these forward-looking statements. For a complete discussion of factors that could 
+effect the company's future financial results and business please refer to the company's Form 10-K and Annual Report 
+for the fiscal year ended January 29, 2006, quarterly reports on Form 10-Q; and the reports on Form 8-K filed with the 
+Securities and Exchange Commission. 
+
+All forward-looking statements are made as of the date hereof, based on information available to us today, and except 
+as required by law the company assumes no obligation to update any such statements. The content of the webcast 
+contains time-sensitive information that is accurate only as of November 9, 2006. Consistent with the requirements 
+under Regulation FD, we will be providing public guidance directly in the conference call, and will be unable to 
+provide significantly more information in offline conversations or during the quarter. Therefore, questions around our 
+financial expectations should be asked during this call. At the end of our remarks, there will be time for your questions. 
+
+
+In order to allow more people to ask questions, please limit yourself to one question. After our response, we will allow 
+one follow up question. 
+
+As previously announced in June 2006 the Audit Committee of the Board of Directors of NVIDIA began a review of 
+the company's stock option practices based on results of an internal review voluntarily undertaken by management. The 
+Audit Committee's review covers the time from the company's initial public offering in 1999 to the current fiscal year 
+and as previously disclosed found instances of the use of incorrect measurement dates for certain option grants. The 
+Audit Committee is being assisted by independent legal counsel and outside accounting experts. At this time, the Audit 
+Committee has completed its forensic review of the option grants and is now working with company's management to 
+finalize the financial impact of using incorrect measurement dates. NVIDIA will published the balance sheet as of the 
+end of the third quarter and the statement of income for the nine-months ended October 29, 2006 as well as restated 
+statements of income for the comparable periods of fiscal 2006 as soon as practical upon the completion of the Audit 
+Committee's review. 
+
+The company's current and former independent registered public accounting firms have not completed their review of 
+their findings of the Audit Committee. Our financial results for the second and third quarters of fiscal year 2007 are not 
+audited and may change as a result of the ongoing Audit Committee review. The stock option practices under review 
+and related matters could also lead to potential claims and proceedings relating to such matters including litigation or 
+actions by the Securities and Exchange Commission and/or other regulatory agencies. I will now hand the call over to 
+Jen-Hsun. 
+
+Jen-Hsun Huang, Co-founder, President and Chief Executive Officer 
+
+Thanks Mike. Good afternoon and thank you for joining us. Today, we are pleased to report record revenue of 820.6 
+million for our third quarter. This is our third consecutive record quarter. Year-over-year, third quarter revenue grew 
+nearly 41%. Our growth was driven by strong performance in share gains from numerous product lines. Desktop GPU, 
+notebook GPU and MCP, resulting in record revenue for the quarter that is well above normal seasonal patterns. Let me 
+review the highlights and achievements for each of our business units during the quarter. 
+
+Our Desktop GPU business continued to deliver strong results in Q3. In addition to the seasonal strength of the PC 
+market, we increased our Desktop GPU share 5 points to 56%. GeForce achieved 89% share of the performance 
+segment. Our Desktop GPU revenue grew 13% year-over-year. With over 265 media awards worldwide in Q3 demand 
+for our GeForce 7 Series GPU remained very strong even as we launched our next generation GPU. Yesterday, we 
+announced GeForce 8800 to the world, held in secrecy for four years and code-named G80. This is the most ambitious 
+undertaking in our history. G80 is the product of hundreds of the world's best engineers, over 1000 man years of effort 
+and over $400 million to develop. G80 is a revolutionary architecture and a completely ground-up design. This is only 
+the third fundamentally new architecture in our 13-year history. The last fundamentally new architecture was GeForce 
+256, the now famous GeForce introduced in 1999. 
+
+G80 is based on a unified shader architecture instead of separate vertex and pixel shading processors, G80 has 128 
+stream processors operating at 1.35 gigahertz that can process either vertex or pixel shader programs. With a unified 
+architecture, G80 can adapt its vast computational resources to the changing vertex or pixel shading workload from 
+scene to scene. G80 is the world's first DX10 GPU. DX10 is a major new API from Microsoft Windows Vista and 
+includes many new important features. One of the most exciting DX10 and G80 feature is the geometry share. By 
+programming the unified shader processors of G80, designers can programmatically create, destroy and manipulate 
+geometric mesh. Game designers can do amazing things by procedural geometry to programmatically generate 
+landscapes, particle systems to create realistic looking smoke and clouds, displacement maps to create incredibly high 
+geometric fidelity, fast environment mapping and even motion blur. 
+
+Yesterday we also announced CUDA, a new mode of operation on GPUs where the massive computational power of 
+GPU can be utilized for computation intensive applications. We envision CUDA enabling PCs to solve problems 
+traditionally solved on supercomputers and custom ASICs. This breakthrough architecture is complemented by another 
+
+
+first, the NVIDIA C compiler for GPUs. We envision CUDA will open a whole new field called GPU Computing, 
+providing for engineers and scientists, digital content creators, tools they need to solve computation intensive problems. 
+The performance of GeForce 8800 is simply awesome. A single 8800 GTX has twice the performance of our 7950 
+GTX, our previous flagship GPU. In fact, 8800 GTX is faster than two 7950 GTX in SLI. GeForce 8800 GTX is also a 
+breakthrough in power efficiency. Although, 8800 GTX has twice the performance and tons more features, the power is 
+just a bit higher than 7950 GTX. Our focus on architectural efficiency and low power design has really paid off. The 
+GeForce 8 architecture is twice the performance per watt of GeForce 7. The most exciting news about GeForce 8800 is 
+that it is available in stores now and will soon be shipping from nearly every PC supplier around the world. 
+
+Our notebook GPU business achieved a major milestone in Q3. We achieved record revenue for the third consecutive 
+quarter and grew share to 52% and became the number one notebook GPU supplier for the first time in our history. 
+
+Our notebook GPU revenue grew 47% – 46% quarter-over-quarter and over 100% year-over-year. We expect our share 
+gain to continue through the year and then accelerate as we ship design wins based on Intel's Santa Rosa platform. 
+
+The nForce MCP product line achieved record revenue for its eighth consecutive quarter. The MCP business doubled in 
+revenue from the same quarter of last year and grew 33% sequentially from Q2. Mercury Research now ranks NVIDIA 
+the second largest PC core-logics supplier with 17% of the total volumes and 61% of all AMD core-logic. Our AMD 
+share grew 9 points and our overall share grew 5 points. Our MCP growth was driven in part by the increased adoption 
+of our nForce notebook solutions by large PC manufacturers including HP, Acer, Fujitsu-Siemens, and Gateway. 
+OEMs have embraced our unique strategy of offering single-chip MCPs, designed specifically to reduce space and 
+power consumption. 
+
+This week, we are also pleased to announce Dell shipping nForce products in their new AMD-based OptiPlex 740 
+commercial PC. These new Dell OptiPlex products are specifically offered to large corporations who demand the 
+highest quality platforms deployed with stable software drivers designed to lower support cost. One of the major 
+reasons Dell selected nForce was the high level quality of our NVIDIA stable image software drivers that we developed 
+as part of our NVIDIA Business Platform. NVIDIA Business Platform or NBP is the platform level commercial PC 
+solution we introduced last year for smaller PC manufacturers and has been adopted by over 100 companies in North 
+America, Europe, and Asia. 
+
+This week, we are expanding our nForce products for Intel CPUs with the announcement of what many customers 
+claim to be the best performance platform for Intel's Core 2 Duo and new Core 2 Quad CPUs. Our new NVIDIA's 
+nForce 680i SLI MCPs delivered top performance in Intel CPUs and are designed specifically for enthusiasts with 
+features as such as SLI, DualNet Gigabit Ethernet, and MediaShield RAID. A particularly exciting feature of nForce 
+680i SLI is its ability to allow the most enthusiastic of PC customers to overclock their CPUs, which offer to users the 
+benefit of tapping into additional CPU performance. These new nForce 680i SLI products are immediately available 
+from e-tailers to retailers. 
+
+NVIDIA's Quadro professional business had another sequential strong quarter with shipments up nearly 25% 
+year-over-year. Our professional business continues to be strong in all segments; particularly with new notebook 
+workstation design wins with HP and shipments for high-end workstations solutions and system products. 
+
+In August at SIGGRAPH we launched NVIDIA Quadro Plex, an entirely new category of professional digital 
+computing solutions. Any SLI ready server or workstation can now support two external Quadro Plex – Quadro Plexes 
+to build an 8 GPU graphic supercomputer solution, and when clustered able to offer up to 25 times more graphics 
+compute density than traditional data center solutions. We began volume shipments of Quadro Plex in September; 
+acceptance is strong in key markets like simulation, medical, styling design and oil and gas. It enables thousands of 
+engineers and designers to experience advanced personal visualization solutions, previously only accessible in large 
+visualization centers. We also unveiled a new version of Gelato 2.1, final-frame, film-quality rendering software, which 
+includes next generation features such as texture baking, enhanced raytracing performance and improved lighting 
+functionality for 3D rendering. To date we've surpassed 70,000 downloads Gelato. We anticipate putting this 
+technology in the hands of many users will usher in a wave of new high quality rendered content. 
+
+
+Our hand-held GPU business achieved another strong quarter. We saw continued demand for DVB-H services even 
+after the initial demand generated by the World Cup. Our flagship DVB-H design wins, the Samsung P910 and P920 
+handsets have been adopted for further trials in Sweden and in South Africa. The launch of the first North American 
+rollout of DVB-H services have publicly confirmed by Crown Castle who will launch the Modeo mobile TV services in 
+New York City before the end of the calendar year. The HTC manufactured Modeo phone is powered by the NVIDIA 
+GeForce 5500 GPU. 
+
+During the quarter we began shipping our first North American market phone, the iconic Motorola Razr V3x. Our 
+handheld GPU will power upcoming Motorola RAZR MAXX targeted at the international market. 
+
+As you can see, NVIDIA has become far more than a PC graphics chip company. We are passionately focused on being 
+the world's premier provider of visual computing solutions, whether it's on PCs or consoles, the most powerful image 
+generators to miniaturized mobile devices. 
+
+Let me turn the call over to Marvin to discuss our financial results in more detail. I will return in a moment to highlight 
+our growth opportunities. 
+
+Marvin D. Burkett, Chief Financial Officer 
+
+Thanks Jen-Hsun. Today we are reporting GAAP and non-GAAP P&Ls for both Q2 and Q3 as we do not believe the 
+restatement that is in progress will have a material impact on our current fiscal 2007 P&Ls. We will not be able to 
+report a balance sheet until the restatement is completed, although we will comment on select balance sheet items that 
+we do not believe will be impacted by the restatement. I am going to focus most of my comments on Q3 results, but we 
+have included both GAAP and non-GAAP P&L for Q2 as well. 
+
+GAAP results for the three months ended October 29, 2006 show revenue of 820.6 million and net income of 106.5 
+million or $0.27 per diluted share. This compares to revenue of 687.5 million in Q2 and net income of 86.8 million or 
+$0.22 per diluted share. 
+
+The non-GAAP statement for Q3 removes non-recurring expenses up 42.6 million net of tax, which is comprised 
+primarily of stock compensation expense plus a one-time charge associated with a confidential patent licensing 
+arrangement. This results in a non-GAAP P&L net income of 149 million or $0.39 per diluted share. Revenue for the 
+third quarter as I said was 820.6 million; the quarter-to-quarter growth in revenue of approximately 130 million or 19% 
+was composed of several business units, which grew significantly. Year-to-year growth for Q3 was 41%. Desktop GPU 
+grew $49 million quarter-to-quarter with most of that growth in the mainstream and performance segments. ASPs held 
+flat in all segments. We had initial shipments of GeForce 8800 but it was not a big impact to revenue. Growth in 
+GeForce 7 series products accounted for almost all of the 49 million. 
+
+As Jen-Hsun noted notebook grew 46% quarter-to-quarter and is now more than 80 million in revenue per quarter. All 
+of this growth is in GeForce 7 series products. MCP continued its string of record quarters and also grew by 48 million 
+quarter-to-quarter and is up by more than 100% year-to-year. Both Professional Solutions and handheld GPUs were 
+slightly down in the quarter. Memory grew by 20 million quarter-to-quarter and was slightly more than 50 million. 
+Consumer electronics was relatively flat quarter-to-quarter but we recognized our first royalties for PlayStation 3 even 
+though it was at a very low level. 
+
+On the gross margin side GAAP gross margin was 40.7% in the quarter including the one-time charge associated with 
+licensing certain patents and the stock compensation expenses. On a non-GAAP basis, gross margin was 42.9%. The 
+gross margin percentage was negatively impacted by the higher growth in the lower margin businesses such as 
+memory, mainstream, desktop GPUs and MCP. Each of the individual business units continues to make progress in 
+improving gross margins but the overall margins were affected by the mix. The revenue increase in memory alone 
+would account for almost a full percentage point reduction in gross margin. So despite what might appear to be 
+relatively flat margins, we believe we are continuing to make progress in improving gross margins. 
+
+
+I will only be able to comment on selected items on the balance sheet until the restatement is completed. We do not 
+believe these items will be affected by the restatement. Cash at the end of the quarter was 1.174 billion, up more than 
+300 million quarter-to-quarter. Obviously this was led by profits but we also decreased both receivables and inventory. 
+Accounts receivable were down by 20 million and inventory was down by 5 million. Receivables now stand at 439 
+million and DSO for the quarter is at 49 days, which is down from 60 days in the prior quarter. Inventory was at 373 
+million and days sales and inventory were at 70 compare to 87 in the prior quarter. 
+
+There was no stock repurchases during the quarter. Headcount at the end of the quarter stood at 3627, which is up 200 
+from Q2. Of the 200, approximately 150 were added internationally. Year-to-year head count is up by 1033 of which 
+735 were international hires. 
+
+I would like to give you an update on the restatement. We are making good progress and are receiving excellent 
+cooperation from both PwC and KPMG. I wish I could give you a precise filing date for our restated and delinquent 
+SEC fillings, but we can't be precise at this time. We have an internal plan to complete the work before the end of the 
+month, however neither PwC nor KPMG has completed their work and there are unresolved items. We're committed to 
+refiling as soon as possible. 
+
+Now, for the outlook, on the revenue side, because of our strong competitive line up and new products including the 
+GeForce 8800, we expect revenue growth in the fourth fiscal quarter. The magnitude maybe difficult to forecast but we 
+feel comfortable with 5% growth over Q3 even if memory declines. We expect growth in Desktop GPUs, continued 
+growth in MCP and resumed growth in professional solutions. We expect handheld to be relatively flat and consumer 
+electronics to be up slightly but with increased gross margins. For gross margins we expect continued improvement. 
+While we may not achieve our internal goal of 45% by year-end, we are comfortable with a gross margin increase of 
+100 basis points or more in Q4 from Q3. 
+
+New products including GeForce 8800 and the new MCP products will help gross margin and the incremental royalties 
+from Sony will also be a benefit. Even though 44% gross margins might be admirable we do not believe we are done. 
+There are further improvements to be made and we are pursuing them. We believe that a gross margin of 45% in the 
+near future is certainly not impossible. Operating expenses will increase in Q4 on the order of 3 to 5% as we continue 
+to hire. We believe the tax rate will hold at 17% for GAAP and 16% for non-GAAP. We have not included any Portal 
+Player revenue or expenses in this outlook. Depending on when the acquisition closes there could be both revenue and 
+expenses in our fourth quarter results. 
+
+Now, I'll turn it back over to Jen-Hsun. 
+
+Jen-Hsun Huang, Co-founder, President and Chief Executive Officer 
+
+Thanks Marv. On Monday of this week we announced the signing of a definitive agreement to acquire PortalPlayer the 
+pioneer of application processors for portable media players. Their products power many of the world's most 
+recognized digital music players. Their processors also power the upcoming Vista Sideshow, a secondary display for 
+notebooks. With this acquisition, we are combining two essential technologies for next generation mobile devices, 
+PortalPlayer's application processor and NVIDIA's handheld GPU. IDC predicts that the combined market for 
+application processors of GPUs will growth to approximately 4.1 billion by 2010. 
+
+Semiconductors that enable connectivity and multimedia features in handsets are expected to show the greatest growth 
+over the next several years. We are very excited about our growth opportunities for the year ahead. 
+
+The reviews of our new products are fabulous. Let me give you a flavor. According to PC Perspective, 'in my seven 
+years of covering the world of PC hardware, no other graphics architecture shift has been as dramatic as the one we are 
+seeing here today with NVIDIA's GeForce 8800 GTX." And quoting Kyle Bennett at [H]ardOCP, "the EVGA nForce 
+680i motherboard is easily one of the best enthusiast motherboards I have ever used. The 680i and video reference 
+motherboard will make it into my – next system build, no question at." We expect a rapid production ramp of the new 
+GeForce 8800 and NVIDIA nForce 680 SLI product families to drive Q4 growth. In Q4, we will also witness the 
+
+
+launch of the most anticipated next generation video game console, the PlayStation 3. 
+
+We expect our notebook GPU share increase to continue as we fully ramp our Napa design wins. Our share increase 
+should continue through the spring Santa Rosa cycle as we achieve an even higher level of success than Napa. We 
+expect our Santa Rosa design wins to ramp in Q1. Q1 will also benefit from the continuing ramp of the 2.5G North 
+American phone design wins in our handheld GPU business. 
+
+And with the recent acquisition of AMD – recent combination of AMD and ATI, we are in a unique position to offer 
+branded integrated graphics for the Intel processor market. Market demand for our product has been very high. We will 
+respond to the market demand and offer our first Intel integrated solution early next year. We expect this will 
+significantly increase our addressable market for MCPs. 
+
+Finally, we are about to experience the biggest combination of discontinuities to simultaneously impact our ecosystem 
+in over 10 years. Next generation Microsoft DX10-based games, Vista and high definition DVD; each of these 
+discontinuities by themselves significantly increase the amount of graphics processing power necessary to deliver a 
+compelling end user experience. As the adoption of each of these grows throughout the year and beyond, so will the 
+need for next generation GPUs like the nForce, like the GeForce 8 family. 
+
+It is very evident that 3D graphics and GPU is becoming an ever more central part of our computing experience. Some 
+of the most exciting and popular applications are enabled by 3D including Google Earth, Microsoft's new Virtual Earth 
+3D, Apple's iTunes 7 uses 3D to elegantly render album covers, with Vista providing a 3D foundation for all future 
+applications we expect developers will find many more innovative ways to use 3D. This is truly a great time to be the 
+single most focused GPU company in the world. 
+
+Thank you and we would be happy to take your questions now. 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions]. Your first question comes from the line of Shawn Webster with J.P. Morgan. 
+
+<Q - Shawn Webster>: Good afternoon. Can you comment at all first off on any guidance you can give us on 
+PortalPlayer, what you expect in terms of revenues maybe a run rate and OpEx? And then I have a follow-up please. 
+
+<A - Jen-Hsun Huang>: I guess the answer is no. First of all the deal is not done yet. We've just signed a definitive 
+and so it's probably too early to do that. 
+
+<A - Marvin Burkett>: Yeah, I think so Shawn. It requires shareholder vote and we will see, we are very excited 
+about acquiring them but it does require shareholder vote. 
+
+<Q - Shawn Webster>: Okay. Well maybe turning into the PC end demand environment, you guys are obviously 
+gaining share, is there any color you could give us on how you see PC and demand going in as we move through Q4 
+actually and maybe into calendar Q1? 
+
+<A - Jen-Hsun Huang>: You know, there is a whole lot of different dynamics that are going on. There is – obviously 
+Q4 is seasonally a large quarter. But there are some concerns about Vista, but we are not seeing that. You know most of 
+the PC OEMs that we work with and most of the channel are relatively comfortable with the transition at this point. Our 
+biggest focus right now is just ramping GeForce 8800 and nForce 680 and the market demand for both products are 
+incredibly high. And so, we are going to focus on ramping those products and that should be the focus of our growth 
+drivers in the Q4 timeframe. 
+
+<Q - Shawn Webster>: Okay. Thanks. 
+
+
+Operator 
+
+Your next question comes from Mark Edelstone with Morgan Stanley. 
+
+<Q - Mark Edelstone>: Well, first off, congratulations on another outstanding quarter guys. 
+
+<A - Jen-Hsun Huang>: Thanks a lot Mark. 
+
+<Q - Mark Edelstone>: Jen-Hsun, you talked a little bit about Quadro Plex and that certainly is a whole new strategy 
+for the company, can you talk a little bit about the opportunity you see there, just maybe size of market and how we 
+should think about that from a business model perspective as you go forward? 
+
+<A - Jen-Hsun Huang>: Yes, the – first of all, Quadro Plex leverages off of our SLI presence, and our workstation 
+presence, and the vast amount of software that we've developed over the years for workstation applications and SLI 
+applications. Quadro Plex is a external standalone image generator that allows our customers to scale their rendering 
+density by just enormous factors. And the application of course is targeted within all of the same customer bases that 
+historical image generators have gone into. In addition to desk-side workstations that would have wanted image 
+generator type capability but just simply couldn't afford it. 
+
+There's been several billion dollars worth of image generators that have been installed into the world of over the last – I 
+guess decade and a half. And all of those image generators still require quite a bit of maintenance. They are pretty 
+outdated. They consume a great deal of power. And I think that replacing those over time is just going to be a really 
+huge opportunity for us. Not to mention creating a whole new class of desk-side imaging workstations that weren't 
+possible to afford. 
+
+It's hard exactly for us to scope up how big the opportunities are, but it's quite significant. It's certainly several times 
+larger than the workstation business it is today. And in combination with the GPU computing technology that we 
+recently – that we announced yesterday called CUDA, we think that these desk-side image generators or 
+supercomputers by your desk are going to be really interesting applications for us to grow into. 
+
+The business model with Quadro Plex is based off of system sales. The configuration is proprietary. It's based off of 
+SLI and it goes with quite a large suite of software to enable scalability. And so, we will sell systems through our 
+OEMs. They are branded Quadro Plexes. We would also sell it through VARs and it's also sold directly on our website 
+to professionals who work directly with us. 
+
+<Q - Mark Edelstone>: I guess it would seem like that business would have the potential to be pretty chunky over 
+time? Would that be your expectation? And if so would you have visibility as the sort of backlog begins to build for 
+that business over time? 
+
+<A - Jen-Hsun Huang>: You know, our expectation is that it's going to be a very large business. I don't know exactly 
+how large it's going to be yet, but you know it's, I agree with you, it's going to be a very chunky business, it should be a 
+very significant business. I mean that the number of installation of image generators in the world, just thinking through 
+that, you know large workstation companies used to, multi-billion dollar workstation companies used to serve that 
+market and so we're going to replace those aging image generators. We're going to create new categories of desk size 
+super workstations and then in combination with GPU computing I think it's a, you know, it's a whole new computing 
+model that we are exited about. So it's hard for us guess exactly what it is right now but I think it's going to be very 
+large, Mark. 
+
+<Q - Mark Edelstone>: And then just one last question on memory, as you are ramping up the G80 family here over 
+the next couple of quarters should we see memory going up or do you think it can hold here at current levels? 
+
+<A - Marvin Burkett>: Well, I guess my feeling Mark is that we hope it's down in Q4. And that's our current 
+expectation. We had to ramp up for the 8800 launch but we don't anticipate that that goes up. 
+
+<Q - Mark Edelstone>: Okay, thanks a lot. Nice job guys. 
+
+
+<A>: Thanks Mark. 
+
+Operator 
+
+Your next question comes from the line of Daniel Ernst [Hudson Square Research]. 
+
+<Q - Daniel Ernst>: Thanks for taking the question. Just, I'm not looking for guidance on the PortalPlayer revenues 
+but just thinking about the opportunity there. How quickly could you realistically integrate your videographics 
+processing capabilities with their ARM based SoCs and then what are you thinking is the best opportunity there, is it 
+still would they be focused on the standalone media players or you think it's in mobile phones? And then secondly on 
+that how serious do you think OEMs are about adopting the SideShow technology? Thanks. 
+
+<A - Jen-Hsun Huang>: So what I am going to do is I am going to answer the question probably from a more strategic 
+perspective and the reason for that is because the deal is just not done and any speculation about our businesses, about 
+their business and our combination of the businesses is just a little too premature. 
+
+But I think if you look at it strategically, we feel that future mobile devices will become more and more intelligent, will 
+incorporate operating systems, will be multitasking, will support all kinds of rich media, and over the course of, 
+certainly by within the next 10 years, these mobile devices are going to become amazing little portable computers that 
+allows you to do everything that you can imagine a digital device to be able to do today, whether it's music or movies 
+or television or web viewing or 3D games or whatever it happens to be and certainly within – well within the next 10 
+years this dynamic will happen and these portable devices will become your most personal computer. And we expect 
+that this is going to be, when these various dynamics come together particularly as a rich operating system becomes 
+available for these mobile devices, it's really going to become the second PC revolution and so we're excited from that 
+perspective. 
+
+The two really critical ingredients to enable this new era to happen is application processors in combination with GPUs, 
+the base stand processor is innovating quite nicely and I think that the technology is maturing and the capability is 
+certainly available on the every single phone already, obviously and so where we need to innovate is application 
+processors and GPUs and that's the reason why we were so excited about the PortalPlayer opportunity. 
+
+How excited is, are people about Sideshow? I believe they have numerous number of designs wins and they are real 
+OEM's and they are really going to ship with it. And the way I think about it is utility to the end user. You know how 
+many of us frequently carry our notebooks around and just want to quickly glance at the calendar, or the time, or send a 
+very quick message or receive a quick message, I think that all of us would like to do that. And so without having to 
+boot up and log in to your personal computer and so this, I think this is a capability that's a real differentiator for the 
+notebook. And if a cell phone has two displays and some of them have three displays, why shouldn't notebook have a 
+couple of two, three displays. 
+
+<Q - Daniel Ernst>: Great. That's helpful color. And then just a follow up to your new platform launch and your 
+comments on GPU based computing. Earlier this year at NAB, Sony and IBM showed off a prototype cell based media 
+server for the broadcast industry as video is increasingly going digital and not tape-based, is that an area that since you 
+would be competing with that platform on where you'd have GPU-based media servers? 
+
+<A - Jen-Hsun Huang>: You know, it's too early to tell whether we are going to compete or not, but I think what's 
+interesting is that there is a whole new area of computing that is just not well served today. Some people think that 
+supercomputers ought to serve it. We all know that over the course of the last 15 years there has been a drought of 
+supercomputer technology and the reason for that of course is it's been really the workstation and the PC era. And now 
+the world knows that there is a – we have a supercomputer crisis if you will, that there are so many problems that are 
+very, very data intensive, very compute intensive, but the innovation and the investment around supercomputers has 
+really lagged over the years. 
+
+We think that we can transform the PC into a supercomputer and this is a wonderful opportunity for the entire PC 
+ecosystem and by adding a GPU with a technology like CUDA, we can turn the PC with the addition of GPU 
+
+
+computing into a desk side supercomputer. You can do this obviously in a server configuration as well with a bunch of 
+blades. And the applications for these are wherever all these supercomputers are required and where people are using 
+FPGAs potentially or even designing custom ASICs to do the intensive number crunching. And so I think this is going 
+to be opening up a whole new era of new style of computing and we called that GPU computing. 
+
+<Q - Daniel Ernst>: Great, sounds exciting. Thank you. 
+
+<A>: Yes, thank you. 
+
+Operator 
+
+Your next question comes from Doug Freedman with AmTech Research. 
+
+<Q - Doug Freedman>: Thanks for taking my question. Quick one for you, can you give us a little bit more color on 
+the chipset business and what you are doing there to improve the gross margins and where you think you can take those 
+gross margins over the longer term? If you could just describe the landscape of the chipset market that I think is 
+changing quite a bit recently? 
+
+<A - Jen-Hsun Huang>: Well, I think gross margins could be achieved, could be improved in a lot of variety of ways 
+but number one best way is architectural, and I'd probably prefer to keep them as trade secrets, but architectural 
+efficiency, doing more with less or doing more through extreme high integrations or whatever the technology is, 
+approach is, are very important, so architectural. 
+
+The second thing is operational. We have to make sure that the products are built just in time to benefit from the lowest 
+wafer cost. We have to make sure that the yields are as high as we can make it; the scraps are as low as we can make it 
+and the quality as high as we can. People have always known that through perfect quality is your best way to improve 
+profitability and the rest of it the market dictates. 
+
+We don't set the price, the competition and the customer set the price. And so we on our side have to make sure we 
+develop products that the market really highly desires, and that's one of the advantages of nForce. Our brand – our 
+nForce brand is really becoming if not already the number one brand of core-logic. If you are somebody who cares 
+about the performance and stability and the availability of the best technology on a motherboard, nForce is really your 
+choice. And I think we have demonstrated that on both the Intel as well as the AMD platforms. And so, between the 
+combination of great architecture, efficient architecture, operational excellence, and building brands that the market 
+highly desires, those are basically our approach and we hammer on all three everyday. 
+
+<Q - Doug Freedman>: What do you see is the price trend in that marketplace and then if you could give us an idea of 
+when we can – when you believe you will see revenue from the Intel integrated solutions? 
+
+<A - Jen-Hsun Huang>: The pricing trend in core-logic – I don't know if there is a particular trend. It depends on what 
+products and what segments we launch at any given point in time. This quarter we are launching our nForce 680i and 
+the 680a and both of them are targeted at the enthusiast market. They tend to have higher ASPs, and so because we are 
+ramping those products, there is probably a good likelihood that we trend upward. So, it has a lot to do with what we 
+introduce more than what is happening in the marketplace. With respect to the Intel chipset, my expectation is that we – 
+well, I guess the market's expectation, which is customers would like us to be in the marketplace by spring of next year 
+and we are working as hard as we can to do that. 
+
+<Q - Doug Freedman>: All right, great. Thank you so much. 
+
+<A>: Yeah, thanks Doug. 
+
+<A>: Thanks Doug. 
+
+Operator 
+
+
+Your next question comes from the line of Tayyib Shah with Longbow Research. 
+
+<Q - Tayyib Shah>: Hi guys, congratulations on the quarter. 
+
+<A>: Thank you. 
+
+<Q - Tayyib Shah>: In the past, you guys have kind of restricted yourself to the high end of the Intel platform MCP 
+market. Now you are talking about significantly expanding your footprint there. Can you maybe talk about, do you see 
+yourself going after the mainstream Intel MPC segment in a major way in 2007? And if so how much of that change 
+was because of the AMD-ATI merger? 
+
+<A - Jen-Hsun Huang>: The answer to your question is yes, we are going to go after the mainstream part of the 
+market with our GeForce and nForce branded integrated graphics. And that market is obviously very, very large and the 
+opportunity to us is now quite significant and the reason for that is directly related to ATI being sold to AMD. Now 
+there is a really a void of a branded integrated graphics supplier in the Intel market and that's an opportunity that we've 
+stayed away from because there were other players that were serving that market before. But now with DX10 and 
+high-definition and Blu-ray video and Vista, the bar for graphics capability has gone up so high in just one year's time 
+we believe that raised bar as well as the fact that there is now a vacuum because ATI has left that market. It's just a 
+wonderful opportunity for us; this is just a perfect time for us to enter it. 
+
+<Q - Tayyib Shah>: Okay. And then can you talk about the supply situation for graphics memory. How do you see 
+that shaping up over the next quarter and if Marv can put this in the context of gross margins, have you had to absorb 
+some of the memory cost increase in the last quarter? 
+
+<A - Marvin Burkett>: What was that last portion? I didn't hear that. 
+
+<Q - Tayyib Shah>: Have you had to absorb some of the memory cost increase in the fiscal third quarter? 
+
+<A - Jen-Hsun Huang>: Well, I guess the first thing is to comment about the memory shortage. There is a memory 
+shortage or a memory tightness. But the memory tightness is by and large alleviated at this point. But during the 
+tightness we worked really closely with all of our Add-in-Card partners and OEMs. And because we are such a close 
+partner of all the memory suppliers, we've been helpful in helping them secure the memories that they needed at a price 
+that was fair to the marketplace. And so, we were frankly very, very helpful to the profit seekers to help them secure 
+memories during Q3, but I think the shortage is by and large stabilized at this point. 
+
+<Q - Tayyib Shah>: Thank you. 
+
+<A - Marvin Burkett>: On the comment with regard to gross margins, obviously our gross margins were impacted by 
+the increase in memory last quarter. If you look at it very, very simplistically, a $20 million increase in memory 
+business, which we had Q2 to Q3, if you had gotten 40% margin on that, that's $8 million, and that's a full percentage 
+point in gross margin. Now that's not quite what happened. We do get some margin off in memory. So to answer the 
+other portion of your question, no, we don't lose money on memory. But it's just not a high margin business. 
+
+<Q - Tayyib Shah>: Thank you. 
+
+<A>: Thanks Tayyib. 
+
+<A>: Thank you. 
+
+Operator 
+
+Your next question comes from the line of Pranay Laharia with Deutsche Bank. 
+
+<Q - Pranay Laharia>: Hi guys. A question on die size, so your G80 die size looks to be a lot larger than your G70, 
+and it also appears likely that in this new generation you will lose the die size advantage that you guys had over your 
+competition last time around. Can you talk about what gross margin impact these two factors will have? 
+
+
+<A - Jen-Hsun Huang>: Well, first of all, I guess, I will answer the second question first. This time around the 
+competition hasn't even shown their products yet. I guess at this point, their die size would be infinitely large. And so, I 
+would say that we have – we still have a competitive advantage relative to that. The die size is larger, but the ASP is 
+also higher. And so, you have to balance those two things. GeForce 7900 is now well into the $299 segment and I have 
+seen some prices down that are even below that. But that's not where GeForce 8800 is positioned right now. The 
+GeForce 8800 is positioned at the enthusiast segment and the very high performance segment where either the gamer or 
+the enthusiast demands to have the absolute best and has a real need to run games at extreme high resolutions and the 
+most modern games. We repositioned the 7900 starting last quarter into the lower parts of the performance segment and 
+it's now solidly there and is doing fabulously. And so, the two products are simply positioned at different price points 
+and different parts of the marketplace. 
+
+<Q - Pranay Laharia>: Let me just sort of follow up on that. Do you think when your G80 line ramps up across the 
+stack, on a full stack-for-a full stack comparison, will you be sort of the same die size as you were with G70 or will you 
+be higher, I was – thinking logically that ought to dictate your gross margins for the next one year? 
+
+<A - Jen-Hsun Huang>: Yeah, so that's a good question. It's – G80 is just the first of the G8x family and there are 
+many other G8x families, probably nine others. We are going to have all the numbers in between and so, the GPU is 
+designed to be scalable in architecture and our engineers are very, very rapidly and very hard at work and building all 
+kinds of products derived from the G8x family. 
+
+<Q - Pranay Laharia>: Okay, and then just one last question. For the Santa Rosa platform did you compete with G70 
+or with G80 derivatives? And where do you think your product, where do you think your market share goes in 
+notebook discrete graphics with Santa Rosa? 
+
+<A - Jen-Hsun Huang>: Santa Rosa notebooks are DX10 notebooks. There are Vista DX10, Blu-ray disc 
+high-definition video notebooks. And we are the only supplier of DX10 GPUs today and the only one sampling 
+notebook GPUs. And my expectation is that our success on the Santa Rosa transition should be quite a bit higher than 
+our success even with Napa. 
+
+<Q - Pranay Laharia>: Okay, thank you. 
+
+<A>: Yeah. 
+
+Operator 
+
+Your next question comes from the line of Rick Schafer with CIBC World Markets. 
+
+<Q - Daniel Morris>: Good afternoon guys, congratulation. This is actually Dan Morris calling for Rick. 
+
+<A>: Thanks Dan. 
+
+<Q - Daniel Morris>: First question, your guidance for the consumer division looks slightly up. I might have expected 
+that to be a little bit higher, is there something going on with maybe the NREs and the levels that you're getting there, 
+maybe if you can give an update there? 
+
+<A - Marvin Burkett>: Yeah, the NREs are rolling off and until we have other programs that replace it, we don't 
+anticipate, you know that – we're anticipating a roll off, so you will see a decline in NRE offset by the increase in 
+royalties. 
+
+<Q - Daniel Morris>: Okay. And how is the NRE recognized and about how much is left? 
+
+<A - Marvin Burkett>: Small amount is left and it's recognized on a percentage of completion basis. 
+
+<Q - Daniel Morris>: Okay. Good. 
+
+
+<A - Jen-Hsun Huang>: If I could just add to that, there are ongoing projects with, on an NRE basis. It's just that it's 
+recognized on completion basis and some of the projects we're currently working on right now are further away from 
+completion, but we are working on those projects. 
+
+<Q - Daniel Morris>: Thank you. 
+
+Operator 
+
+Your next question comes from the line of Glen Yeung with Citigroup. 
+
+<Q - Peter Karazeris>: Hi, this is Peter Karazeris for Glen Yeung. Put up a good quarter, I am just curious actually for 
+your inventory it looks like it's down a bit quarter-on-quarter. You have the new product launch and you've been seeing 
+some substantial share gains. What is your ability to I guess service potential upside for next quarter if you had to? And 
+I have something to follow it up. 
+
+<A - Jen-Hsun Huang>: First of all I think we're actually as passionate as you guys are in reducing our inventories 
+and still be able to run our business. I know that, I know what you're saying is true too; having inventory allows you to 
+address unexpected demand. But what we're trying to do operationally is to put ourselves in a position where we can 
+continue to address unexpected demand but work down our inventory. And so that's, those are, that's an intense focus in 
+our company and our expectation and our goal is to reduce our inventory even further and yet still be able to address 
+unexpected demands. 
+
+<Q - Peter Karazeris>: So, let me ask just a little differently. 
+
+<A>: I guess maybe I will say – let me just say just one more thing; it reduced not by accident. 
+
+<Q - Peter Karazeris>: Right. 
+
+<A>: And it didn't reduce unexpectedly and we hope that it in fact goes down even further in the future, that was our 
+hope – that's our goal. 
+
+<Q - Peter Karazeris>: So, I guess – let me ask slightly differently. It looks like this quarter one of the places you had 
+upside was in mainstream, you have new products out there. Can you give me a sense of the mix of your inventory and 
+how it's changed? 
+
+<A - Marvin Burkett>: The mix of our inventory is weighted heavily to the new products. And so, are we going to be 
+in perfect mix, probably not, never happen. But we think we are in a good shape from an inventory standpoint to 
+support upside. 
+
+<Q - Peter Karazeris>: Thank you. 
+
+Operator 
+
+Your next question comes from the line of Michael McConnell with Pacific Crest. 
+
+<Q - Michael McConnell>: Thank you. Jen-Hsun, if we look maybe a little bit longer out to next year and look at the 
+growth drivers kind of by a – from a product segment, what do you – it sounds like notebooks are only going to get 
+better next year with Santa Rosa. Should we be looking at notebooks and chipsets being on a year-over-year basis 
+probably the two major product drivers next year or can we lump wireless in there as well? 
+
+<A - Jen-Hsun Huang>: Let's see, lots of comments here. I think GPUs will grow next year because Vista, high-def, 
+DX10, there is amazing things happening in our PC industry. I haven't felt as excited about all the new technologies 
+coming since Windows 95. And Windows 95 was big big you know, as you recall. And so I think that's going to 
+happen next year. Our handheld business should continue to grow substantially, in fact it should accelerate its growth, 
+you know, next year because of our entry into 2.5G. I think our chipset business is going to grow and the reason for that 
+
+
+is partly because of the dynamics that I have explained already about Vista and DX10. 
+
+You know, Vista, DX10 and high-def has just raised the bar so that second tier core-logics suppliers are going to have a 
+much-much harder time competing in the future and you know they either had – they either would have had to invest 
+already hundreds of millions of dollars to get here with DX10 or they're just not going to be able to compete next year. 
+So I think that our core-logic, our core-logic business will do very well. 
+
+I also think that our serviceable market is going to grow dramatically with the branded Intel core-logic business. And so 
+I think that's going to be big for us. I can't help but believe that Sony is going to do incredibly well next year. The early 
+reviews are already very exciting and so and then workstations. You know, frankly, my psychology right now is that 
+we are in a position to grow all of our businesses next year. We have strategies to grow all of our businesses next year 
+and we have a reason to believe that the market dynamics will allow us to grow every single one of our businesses next 
+year. 
+
+<Q - Michael McConnell>: If we look at the Desktop CPU business you have obviously got a pretty significant 
+head-start here with G80 architecture relative to competition and you had said in your prepared remarks that you have 
+89% share in performance segment. Your share relatively in the mainstream segment is below that level, so with this 
+head-start do we have an opportunity to take some share in that segment relative to competition as well next year given 
+the head-start? 
+
+<A - Jen-Hsun Huang>: Well, you know, that's a good point and we're certainly still focused on increasing share. 
+We're also focused on increasing revenue TAM [Total Available Market]. I want to continue to emphasize that we – 
+although we enjoy talking about share and we enjoy gaining share, where the focus of our company has always been is 
+creating a larger market for all of us to share. And SLI certainly created a larger TAM. The introduction of DX10 will 
+increase the revenue TAM hopefully because DX10 is so exciting and Vista is so exciting and high-definition video is 
+so exciting, it might drive the ASP up, people looking for more GPU experience, more GPU performance to get the 
+best experience. That would increase the TAM and so we look for ways to increase the unit attached. We look for ways 
+to help consumers experience better content and those things always increase TAMs, but we're still very hyper focused 
+on increasing share. 
+
+<Q - Michael McConnell>: Thank you. That was very helpful. 
+
+Operator 
+
+Your next question comes from the line of Devan Moodley with Scotia Capital. 
+
+<Q - Devan Moodley>: Hi, guys, great quarter. 
+
+<A>: Thank you. 
+
+<Q - Devan Moodley>: You guys almost delivered a Q3 that's kind of what the Street was expecting for next year. 
+You know in that context obviously things are going pretty well ahead of expectations. What have you done to secure 
+the wafer capacity you think you are going to need – clearly that's changed from even two quarters ago? 
+
+<A - Jen-Hsun Huang>: Well, we are being one of the largest and I think we probably are at this point from a wafer 
+consumption perspective, the largest in the world and having such close relationships with TSMC our single largest 
+foundry partner and others, I think that that really plays a role in this. We have a vigorous forward-looking and forward 
+planning process. Internally we've expected to be here for some time to be honest. And so, if it happened accidentally, 
+we expected to be here. And it's – so, we've been planning for that, and we are planning for next quarter, we are 
+planning for next year, and our alignment with TSMC and other foundries is excellent. We have – they have a perfect 
+understanding of exactly what we need and there is no evidence whatsoever that they are not going to be able to 
+support us in every way. 
+
+<Q - Devan Moodley>: And just one follow up, if we look out a year from now, where would you like the percentage 
+of your desktop GPU business to be in terms of the GeF – G80 family? 
+
+
+<A>: Marv, go ahead, go ahead. 
+
+<A - Marvin Burkett>: The normal transition would put it above 50%. 
+
+<Q - Devan Moodley>: Sorry, desktop and mobile? 
+
+<A - Marvin Burkett>: Yeah. I don't know about mobile, maybe that lags; I am talking about desktops, that's where 
+you asked. 
+
+<Q - Devan Moodley>: Okay. Thanks guys. 
+
+<A>: Yes, thank you. 
+
+Operator 
+
+Your next question comes from the line of Robert Dennison with UBS. 
+
+<Q - Robert Dennison>: Thanks guys, good quarter. I am wondering if you can give me just a little bit more color on 
+the patent license fee. I don't need to know what it's about or what it's for, but I am not understanding how it's a 
+one-time item and it would seem to me that it would be meaningful for gross margin if you guys had to pay patent 
+license fees? 
+
+<A - Marvin Burkett>: Yeah, I wish I could give you more information but it's a confidential arrangement; it includes 
+payments for use of those patents. It's a significant number of patents, beyond that I really don't think we can comment. 
+
+<Q - Robert Dennison>: So is it something that you've used this technology for in the past and so it didn't show up in 
+past margins and you are putting it in this margin or is it for the future or? 
+
+<A - Marvin Burkett>: It is primarily for the past. 
+
+<Q - Robert Dennison>: Okay. And Jen-Hsun I heard you say that you are getting into the Intel integrated MCP 
+market and I also heard Marv say that MCP margins should come up, this is a notoriously tough margin business this 
+Intel integrated. Can you give me a little color on how you guys expect to bring margins up in that business, 
+particularly given the 44% range you are talking about next quarter? 
+
+<A - Jen-Hsun Huang>: Yeah. I am not sure yet. It's kind of the truth. I don't have a product to sell yet and so I really 
+don't have very much experience there. But my general experience with – and you know that gross margin 
+improvement has been a passion of mine and our company's for quite a few years now and we've been increasing it 
+quarter-by-quarter and we are doing all kinds of great stuff. What I have learned about it is there is probably on balance 
+about three major factors; one of them is architecture, and so that relies on just really the innovative and talented, the 
+really creative engineers that we have to come up with an innovative architecture. 
+
+Now the second one is operational excellence, and that one just goes from the front of the company all the way to the 
+back of your company because you just have no waste whatsoever and perfect yields, no waste, perfect quality if you 
+just hit everything at 100% and everything at 0% you are going to be in, everything else at 0%, you'll be in good shape. 
+and the last part of it, it's just building a great product. I think you need to have a great brand in this marketplace. And 
+the market that we'll serve, the market we will continue to serve is where we believe we can capture the value from the 
+products that we sell. 
+
+You know, that we – we are not fanatical about revenues. We are fanatical about profits, and we don't need to go chase 
+profitless prosperity, we are just not going to do it. So, we are going to target the segments in the marketplace where 
+our work and our brand is valued and we'll leave the other segments to other people. 
+
+<Q - Robert Dennison>: Okay, great, and then finally, I know you guys aren't offering much in the way of color on 
+PortalPlayer but do you expect this to be helpful or a drag on margins going forward, should the deal go through? 
+
+
+<A - Jen-Hsun Huang>: It should be slightly dilutive in the first year and in the second year I hope it is wonderfully 
+accretive. 
+
+<Q - Robert Dennison>: Thank you very much. 
+
+Operator 
+
+Ladies and gentlemen we have reached the end of the allotted time for questions and answers this afternoon. I'd now 
+like to turn the call back over to Jen-Hsun Huang for closing remarks. 
+
+Jen-Hsun Huang, Co-founder, President and Chief Executive Officer 
+
+I want to thank all of you guys for joining us today. We look forward to reporting our progress for Q4. Thank you. 
+
+Operator 
+
+This concludes the fiscal year 2007 third quarter financial results conference call. You may now disconnect. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2007, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

@@ -1,0 +1,944 @@
+Q1 2009 Earnings Call 
+
+
+Company Participants 
+
+• Michael W. Hara, Vice President, Investor Relations and Communications 
+• Jen-Hsun Huang, Co-Founder, President and Chief Executive Officer 
+• Marvin D. Burkett, Chief Financial Officer 
+Other Participants 
+
+• Quinn Bolton 
+• Arnab Chanda 
+• Gary Mobley 
+• James Schneider 
+• Peter Karazeris 
+• Tayyib Shah 
+• Michael McConnell 
+• Shawn Webster 
+• Heidi Poon 
+• Uche Orji 
+• Tim Luke 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Ladies and gentlemen, good afternoon, thank you for holding. As a reminder, today's conference is being recorded May 
+8, 2008. I would now like to turn the conference over to Mr. Michael Hara, Vice President, Investor Relations. Thank 
+you, sir. You may begin. 
+
+Michael W. Hara, Vice President, Investor Relations and Communications 
+
+Thank you operator, good afternoon and welcome to NVIDIA's conference call for the first fiscal quarter ended April 
+27, 2008. On the call today for NVIDIA are Jen-Hsun Huang, NVIDIA's President and Chief Executive Officer; and 
+Marv Burkett, NVIDIA's Chief Financial Officer. 
+
+Before we begin today's call, I would like to take care of some general administrative items. Your lines have been 
+placed on a listen-only mode until the question-and-answer segment of today's call. 
+
+During this call, we will discuss some non-GAAP financial measures about net income, diluted net income per share, 
+and gross margin when talking about our results. You can find a reconciliation of these non-GAAP financial measures 
+to GAAP financial measures in our financial release, which is posted on the Investor Relations page of our website at 
+www.nvidia.com. 
+
+Unless otherwise noted, all references to market research and market share numbers throughout the call come from 
+Mercury Research or Jon Peddie Research. 
+
+
+This call is being recorded. If you have any objections, you may disconnect at this time. Please be aware that if you 
+decide to ask a question, it will be included in both our live transmission as well as any future use of the recording. 
+Also, shareholders can listen to a live webcast of today's call via the Investor Relations page of our website. The 
+webcast will be available for replay until the company's conference call to discuss its financial results for the second 
+fiscal quarter of 2009. 
+
+During the course of this conference call, we may make forward-looking statements based on current expectations. 
+These forward-looking statements are subject to a number of significant risks and uncertainties, including statements as 
+to the importance of and uses for the GPU and CUDA, our financial outlook and projections, the impact, performance 
+and availability of and demand for our products and technologies, the impact of PPL [Pervasive Parallelism Lab], our 
+growth and strategies, and the future of computing. The company's actual results may differ materially from results 
+discussed in any forward-looking statements. For a complete discussion of factors that could affect the company's 
+future financial results and business, please refer to the company's Form 10-K for the period ended January 27, 2008, 
+and the reports on Form 8-K filed with the Securities and Exchange Commission. 
+
+All forward-looking statements are made as of the date hereof based on information available to us today and except as 
+required by law, the company assumes no obligation to update any such statements. The content of the webcast 
+contains time-sensitive information that is accurate only as of May 8, 2008. 
+
+Consistent with the requirements under Regulation FD, we will be providing public guidance directly in the conference 
+call and we will be unable to provide significantly more information in offline conversations or during the quarter. 
+Therefore, questions around our financial expectations should be asked during this call. 
+
+At the end of our remarks, there will be time for your questions. In order to allow more people to ask questions, please 
+limit yourself to one question. After our response, we will allow one follow-up question. 
+
+I will now hand the call over to Jen-Hsun. 
+
+Jen-Hsun Huang, Co-Founder, President and Chief Executive Officer 
+
+Thanks, Mike, good afternoon and thank you for joining us. Today we reported revenue of 1.15 billion for our first 
+quarter. Compared to last year, revenue grew 37% and GAAP net income increased 34%. Year over year, our GPU 
+revenue grew 55%. MCPU revenue grew 31%. PSB revenue grew 44%. Our overall GPU units grew 42% while ASPs 
+grew 10% year over year, a trend reflecting the growing importance of the GPU. 
+
+We gained share in virtually every graphics category year over year: in desktop GPU, notebook GPU, and notebook 
+integrated graphics. For the Performance segment, which is a reflection of technology leadership, we estimated our 
+segment share is 90%. Overall, our graphics market share grew from 30 to 33% year over year. However, if we 
+accounted for double-attach, which happens when a PC has both integrated graphics and GPU, our market share is 
+approximately 42%. Double-attach happens because integrated graphics chipsets are often the same price as discrete 
+chipsets. The market buys an integrated graphics motherboard but then turns it off when a GPU is added. 
+
+Our first quarter reflects the growing importance of the GPU as our computing experience becomes increasingly 
+visually rich. 
+
+Let me turn the call over to Marv to discuss our financial results. I will return in a moment to talk about how we will 
+continue to lead the visual computing revolution and shape the computer industry. 
+
+Marvin D. Burkett, Chief Financial Officer 
+
+Thanks, Jen-Hsun. Today, we will be discussing both GAAP and non-GAAP results for the first quarter of fiscal year 
+2009. The difference between GAAP and non-GAAP is stock-based compensation and its tax effect. 
+
+
+As Jen-Hsun stated, revenue for the first quarter was 1.15 billion, which is up 37% year to year and down 4% quarter to 
+quarter. Our revenue was in line with our expectations. 
+
+For the first quarter, GPU revenue, which includes desktop, notebook, and memory, grew 45% year to year but 
+declined by 8% from the fourth quarter. The components of GPU had significant growth year to year. Desktop GPUs 
+grew 44% year to year. Notebook grew 99%, and memory declined 36%. Quarter to quarter, both desktop and 
+notebook declined by about 8%, and memory was down 22%. MCP grew 31% year to year and declined 4% quarter to 
+quarter. 
+
+The star for the first quarter was the Professional Solutions business, which includes workstation products. It grew 44% 
+year to year and 21% quarter to quarter. The Consumer business declined by 24% quarter to quarter and 37% year to 
+year. All in all, most of the revenue was in line with our expectations at the beginning of the quarter. 
+
+ASPs held relatively flat quarter to quarter. 
+
+Gross margin was disappointing. We didn't manage our product transitions as well as we would have liked, and this 
+resulted in a decline in gross margin to 44.6%. We can do better. The issues in gross margin were focused primarily in 
+product transition issues in the GPU business. Therefore, margin for the GPU business segment declined by almost 2 
+full percentage points quarter to quarter. Again, it was not an ASP issue as ASPs held relatively flat. We had hoped and 
+expected to make progress in improving the yields for the new products. This did not happen. 
+
+Margin in the Professional Solutions business remained very good. Margin in MCP were down because of the 
+movement to the integrated chipsets, but that was expected. 
+
+GAAP operating expenses were 312 million, which is up 8.6% quarter to quarter and in line with our expectations. 
+Most of increase was in R&D as we absorbed several acquisitions that we made recently. 
+
+Headcount grew by 373 during the quarter and our ending head count was 5,358. Year to year, the head count is up by 
+1,284. 
+
+Depreciation in the quarter was $41.4 million, up by around $4.5 million from the previous quarter. 
+
+Capital expenditures were 202.2 million, which included a purchase of property in Santa Clara for approximately 150 
+million. 
+
+Cash flow from operations was 143 million for the quarter. 
+
+Stock-based compensation was 42 million for the quarter, up from 34 million in Q4, as we had stock options issued for 
+the new hires and the semi-annual grants, and the volatility portion of the binomial calculation has increased based on 
+what is happening in the stock market. 
+
+Other income dropped by 7 million quarter to quarter. This was a combination of several factors. The impact of the 
+continuing weakness of the dollar on our foreign currency denominated liabilities resulted in foreign exchange losses of 
+approximately 4 million in the quarter. Also, the lower cash balance and the lower interest rates drove down interest 
+income. 
+
+As we expected, the tax rate was 17% for the quarter. The lack of a renewal of the R&D tax credit will cause our tax 
+rate to remain at this level until the renewal is passed. When it is passed, we would expect the tax rate to drop to the 13 
+to 14% level. 
+
+The end result was that GAAP EPS was $0.30 per share and non-GAAP was $0.36 per share. 
+
+On the balance sheet, ending cash was $1.62 billion. We completed three acquisitions for cash during the quarter as 
+well as paying the 150 million for the property and 124 million for stock repurchases. None of our marketable 
+securities required any valuation adjustments. 
+
+Our accounts receivable ended at 652 million, down 15 million from the prior quarter, and DSO was 51 days, up from 
+50 days in the fourth quarter. There are no issues of delinquent receivables. 
+
+
+Inventories were 420 million, up 62 million from Q4, as we built inventory of new products both announced and 
+unannounced. The older inventory declined as we had expected. The result is that days sales in inventory ended the 
+quarter at 60 days, which is more than the last two quarters of DSI of less than 50 days. These inventory levels are in 
+line with our DSI targets. 
+
+Net property, plant, and equipment increased by 162 million, which included 150 million for the property purchase that 
+I mentioned earlier. 
+
+Both accounts payable and accrued liabilities decreased for the quarter, and the total decrease was 91 million. 
+
+On the outlook, Q2's revenue was historically the most difficult to forecast. In the past, we have been surprised both 
+favorably, as in last year, and unfavorably, as in five years ago. Having said that, we have no reason to believe that Q2 
+will be anything other than seasonal. Seasonal to us means a decline of 5%, plus or minus. 
+
+As I stated previously, we were disappointed in our gross margin for Q1, and we intend to correct some of the issues. 
+Therefore, I would expect that gross margin will increase and while the exact magnitude may be difficult to predict, 
+something in the 100 basis point range is not unreasonable. 
+
+Operating expenses stepped up in Q1 as a consequence of the acquisitions, new hires, and other reasons. As I've said 
+before, we intend to moderate any increases going forward. Therefore, operating expenses for Q2 should be flat to very 
+slightly up. We will still be hiring, but the rate will moderate, and other expenses will decrease. The result should be 
+flat to slightly up. 
+
+Other income should recover in Q2 unless the dollar continues to weaken. If it is stable, other income will be up in Q2. 
+The tax rate should stay at 17% until the R&D tax credit is renewed. I don't expect that to happen in Q2. 
+
+With that, I'll turn it back over to Jen-Hsun. 
+
+Jen-Hsun Huang, Co-Founder, President and Chief Executive Officer 
+
+Thanks, Marv. The transition from G80 to G92 was challenging and dragged our margins. Every few generations, 
+because of how our new products are aligned with process nodes, a new GPU is both faster and cheaper. As a result, it 
+is difficult to move the stack down to layer the new GPU on top of the stack. This was the case in the G80 to G92 
+transition. G92 was both lower cost and higher performance than G80, so therefore, repositioning G80 while ramping 
+G92 aggressively forced us to sell our G80s at lower margins. Going forward, although we still have some G80 
+inventory to work through, we believe we are in an excellent competitive position. We are also launching new and 
+exciting products in Q2, and the move across the board to 55-nanometer is expected to help margins. 
+
+At our Analyst Day in April, I outlined NVIDIA's basic strategies. One, focus on visual computing and be the 
+unambiguous world leader. Two, continue to create GPU, software, or system architecture innovations that deliver the 
+wonderful user experiences that we are famous for. And three, make the GPU ever more programmable and more 
+useful for general purpose computing. 
+
+Our strategy is driving growth in several ways. Our innovations are growing TAM and driving share in the visual 
+computing centric markets like gaming PCs and workstations. We are also seeing increasing ASPs as more of the total 
+system spend is shifting to the GPU. We're seeing this trend all over the world. We call this the Optimized PC Design 
+movement, where OEMs are rebalancing their system spend to optimize performance for applications that are 
+increasingly visual. 
+
+As GPUs become more programmable and general purpose and are now used to enhance photo and video processing, 
+we are starting to see growth from broad adoption of GPUs in mainstream consumer PCs. Consumers now use their 
+PCs to create and enjoy their home movies and photos. They use their PCs to watch high-definition movies, gather with 
+friends and hang out in an online virtual world, or enjoy some crazy videos on YouTube. And at the home base of your 
+iPod, many are using the PC to convert movies into a format that can be played on their iPods. This is called 
+
+
+transcoding. We call this new generation of consumer PCs lifestyle PCs. This segment of the PC market is one of the 
+fastest growing, as we can see by the success of Apple and Adobe. This new PC segment is a growth segment for 
+GPUs. 
+
+The GPU's ability to manipulate images, video, and graphics dramatically enhances the computing experience. And as 
+we recently demonstrated at our Analyst Day, the GPU can speed up transcoding, one of the most processor intensive 
+applications, by nearly 20 times. 
+
+The marketplace is clearly bifurcating into generic PCs and those that are built for specific needs of the users. PC 
+manufacturers worldwide are no longer designing PCs based simply on their speeds and feeds, but with a total user 
+experience in mind. As for large segments in the marketplace like CAD workstations, gaming PCs, video editing, video 
+photo editing workstations for creative professionals, media centers and now lifestyle PCs, the visual experience is 
+front and center and cannot be compromised. 
+
+Globally, we see the movement towards usage-optimized PC design taking hold and increasing momentum. Here are 
+some quotes from the press around the world. Here in the United States, Popular Science: "But in some cases, the GPU 
+makes a big difference. 3D video games are a given, but intensive graphics are creeping into many other applications." 
+
+Computer Resellers News in India: "Are graphics chips the better CPUs? More and more experts support this thesis. 
+Many system builders supposedly recognize the trend already and would assemble PCs with better GPUs because the 
+CPU is losing its importance, while the meaning of the GPU is increasing continuously." 
+
+Vlast Dinta, Poland: "When creating optimal PC set, it's totally pointless to equip your computer with expensive CPU 
+and add integrated or slow graphics solutions. You should do the other way around. Install inexpensive dual-core CPU 
+and support it with more expensive GPU. 
+
+Morden a Tour Individuo (My daughter should be happy about me speaking French.) France: "It is true that since the 
+PC has existed, only the processors seem to be important, to the point of often giving its name to the computer. But 
+we're now in the era of the visual PC. All applications starting with Windows Vista and the Aero interface exploit in an 
+intensive way the graphics capabilities of the machines, no longer using the CPU, but the GPU." 
+
+The growth of GPUs reflect these market dynamics and a new conventional wisdom. As I mentioned earlier, our 
+desktop and notebook GPU units grew 42% year over year, and our GPU ASPs increased 10% from a year ago. 
+
+In addition to visual computing driving our GPU growth, we have a new growth driver with the invention of CUDA. It 
+is important to understand that CUDA is not in just any GPU. CUDA is a C-programmable general purpose computing 
+mode, available only in our GPUs, from GeForce 8 and beyond. In the CUDA mode, our GPUs transform and 
+reconfigure shader processors into a many-core parallel computing processor. For example, the GeForce 9800 GT has 
+128 processor cores. CUDA enables a new parallel computing model that the industry calls heterogeneous multi-core 
+computing, where the vastly different architectures of the CPU and GPU are used in a collaborative way to achieve 
+huge speed-ups in computing. 
+
+CUDA has raised the attention of programmers and researchers all over the world. Since its launch, over 60,000 
+downloads of the compiler, over 10,000 per month, have been downloaded by software developers, scientists, students, 
+game developers, and researchers around the world that have started programming with CUDA. We recently 
+
+released beta version of CUDA 2.0 and for the Mac. 
+
+We are constantly seeing reports of astounding application speed-ups. We are routinely seeing 20 to 200 times 
+speed-up over multi-core CPU alone. Chevron has shown excellent performance using GPUs for computing in oil and 
+gas exploration. Jack Collins, from the National Cancer Institute, recently reported excellent results on AutoDock, a 
+key application in cancer drug discovery. Gauda and Nascentric announced EDA tools using GPU for computing 
+optical proximity correction, or OPC, and Spice modeling for design. CEA, the French Atomic Energy Authority, and 
+Bull released news of a design win in supercomputing using NVIDIA GPUs. 
+
+
+Last week we announced our sponsorship of Stanford University's new Pervasive Parallelism Lab, or PPL. The PPL 
+will develop new techniques, tools, and training materials to allow software engineers to harness the parallelism of 
+heterogeneous multi-core computing. Stanford now joins the growing list of prestigious research programs including 
+the Universal Parallel Computing Research Center, UPCRC, both at Berkeley and the University of Illinois at 
+Urbana-Champaign, each designed to accelerate developments in mainstream parallel computing. We see computer 
+scientists all over the world jumping into heterogeneous multi-core computing research. 
+
+As the world's leading supplier of GPUs, we are in truly exciting times. The new sensibility of OEMs optimizing PCs 
+for visually rich applications is driving GPU adoption and spend. And with CUDA, we have transformed our GPU into 
+a general purpose parallel processor at precisely the time when the CPU performance improvement is slowing and the 
+industry is moving full force to parallel computing. We believe the GPU will be the most important processor of this 
+new era and will be a major driving force of visual computing and parallel computing revolution. 
+
+We're happy to take your questions now. 
+
+Michael W. Hara, Vice President, Investor Relations and Communications 
+
+Operator, we can take questions now. 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions] Our first question comes from the line of Quinn Bolton from Needham & Company. Please go 
+ahead. 
+
+<Q - Quinn Bolton>: Hi guys. I was just wondering on the gross margin, it sounds like it's just some transitional 
+issues, but you had mentioned some new products that you built up in inventory. And as you look forward into the July 
+and future quarters, can you talk about as you roll out these new products, is the architecture similar, different? What 
+can we be expecting about gross margin with some of these new products that you're building up in inventory? 
+
+<A - Jen-Hsun Huang>: We are not ready to announce any new products yet, but the gross margins of the new 
+products are better than the gross margins of existing products. 
+
+<Q - Quinn Bolton>: Okay. So think about it as more transitions that as you introduce on your products, they tend to 
+carry the higher than corporate gross margins? 
+
+<A - Jen-Hsun Huang>: Yes. 
+
+<Q - Quinn Bolton>: Okay, great. Then as you look into the second quarter, can you just talk about linearity of orders 
+that you've seen over the past month or two that gives you the sense that Q2 looks seasonal at this point? 
+
+<A - Jen-Hsun Huang>: I guess I'm trying to figure out – we haven't seen Q2 yet. We're still going through Q2. And 
+Q2 is a seasonal quarter for the industry, on the one hand. On the other hand, this is also the quarter that we sometimes, 
+out of the last several years, we have many times announced new products during Q2 as we go into the back-to-school 
+season. And so you know the back-to-school season starts I guess around late May and June and ramps pretty hard into 
+July, and our fiscal quarter ends at the end of July, and so it includes July. And so that tends to balance each other, so 
+it's hard to exactly tell how Q2 will turn out because it just happens to be a seasonal quarter. But we have the benefit of 
+new products, and we have the benefit of back-to-school typically. And so we'll report on Q2 when we're done with it. 
+
+<Q - Quinn Bolton>: Okay, and possibly any comments on how you feel inventory in the channel is, especially on 
+some of the older products ahead of these product transitions you just mentioned? Do you feel pretty comfortable with 
+where inventory is? 
+
+
+<A - Jen-Hsun Huang>: The products that we're going to announce in Q2, there are no products – we're done with our 
+product transitions in Q1, and so the products in Q2 will layer into the existing product line. 
+
+<Q - Quinn Bolton>: Okay, thank you. 
+
+<A - Jen-Hsun Huang>: Yes, thanks a lot, Quinn. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Arnab Chanda from Deutsche Bank Securities. Please go ahead. 
+
+<Q - Arnab Chanda>: Thank you. Question for either Jen-Hsun or Marv, when do you expect significant revenues 
+from your Tesla product and the application processor product? 
+
+<A - Jen-Hsun Huang>: I would think significant, I guess, later this year. Those design wins tend to be a lot longer, 
+Tesla, because they go into servers and supercomputers and scientific computing applications or desktop workstations, 
+so they tend to have a longer design cycle. We're seeing a lot of enthusiasm out there, but it just takes a little longer. 
+And then as you know application processors definitely take longer. Their design cycles are consistent with the design 
+of the device itself. So we're really enthusiastic about both of them and they have been wonderful investments for us 
+and I think they are going pay off wonderfully and so we just have to wait until the end of the year. 
+
+<Q - Arnab Chanda>: Thanks, Jen-Hsun. One other question about the CUDA platform, could you help us understand 
+what portion of the computing market if you include both PC as well as high performance computing is open to the 
+heterogeneous computing model that you are recommending and maybe it's difficult to give an exact number but how 
+should we think about how big that market can be? 
+
+<A - Jen-Hsun Huang>: I think that's a good question. I happen to think that within the next 5 to 10 years, no longer 
+than 10 years and probably around 5 years, heterogeneous multi-core computing will be the way of computing for all 
+computers, whether it's video processing or image processing; whether it's in the area of games obviously for graphics 
+but more importantly, in the future for simulation, physics simulation, artificial intelligence simulation. 
+
+You've been hearing about how the expense of creating content continues to go up. The reason for that is because these 
+worlds are more and more expansive and it's hard for artists to create the entire world. And so just like movies, movies 
+use simulators for cloth simulation. Otherwise, they would have to animate all of the clothes that the actors wear, or 
+hair simulation or, in large crowds, they use crowd simulators, which is basically a form of artificial intelligence. And 
+so we're going to see more and more simulations as a way of creating content in online games, in virtual worlds, in 
+video games and, of course, in the area of mainstream users. You know that video games isn't really a mainstream 
+application anymore. But in the area of photos and videos, you're going to see a lot of computational techniques starting 
+later this year from some very important applications. So I ought not to preannounce some of their exciting products, 
+but consumer applications, lifestyle applications are going to start showing – using GPUs in some really, really exciting 
+ways. 
+
+So I think heterogeneous computing is the future. It is obvious that it's using the right tool to do the right job, and 
+there's no reason why heterogeneous computing can't be available to everybody. We've shipped 60 million CUDA 
+GPUs already and we're on track to ship 100 – 150 million GPUs a year, and in a couple, two, three years, that's several 
+hundred million PCs will have heterogeneous computing in it. So I think it's a foregone conclusion that heterogeneous 
+computing is here. The question now is what are the exciting applications that are going to come. 
+
+Now, just one more comment; in the last 20 years that I've been in the computer industry, the CPU or the computer has 
+improved in performance a staggering 1,000 times. It's a staggering 1,000 times. And that's clearly one of the most 
+aggressive improvements in performance of any technology or anything that humanity has ever seen. Yet CUDA, in the 
+hands of all these 60,000 software engineers around the world and it's easy for you to find applications and reports of 
+CUDA applications written, people are seeing 20, 50, 100, 200, 300 times speed-up. In just one year, we've helped the 
+computer improve its performance by 100 times. That kind of a step up and that kind of a discontinuity in performance, 
+
+
+computing performance, has just never happened. And so that's the reason why Stanford and Berkeley and UIUC and 
+just about every supercomputing center on the planet and scientists all over the world and software engineers in all the 
+major software companies that you and I both know are all looking into heterogeneous multi-core computing. I think 
+this is clearly the future. 
+
+<Q - Arnab Chanda>: Last question, Jen-Hsun. Maybe a little difficult to answer in a public forum, but in the past, 
+you haven't been too shy. Your best friends in Santa Clara, have any of their actions, public talk, et cetera, affected 
+either pricing or any success or future potential of the chipset business? Thank you. 
+
+<A - Jen-Hsun Huang>: I think any dialogue around GPUs is welcome for me. I would love to have Good Morning 
+America cover GPUs. If any city, Santa Clara, Toronto, Austin, any city who would like to have a dialogue around the 
+importance of heterogeneous computing, GPUs, and what we can do as an industry to advance computing, it's a 
+welcome conversation. So I think all of that conversation around GPUs and graphics is all good for us. I welcome all of 
+it. 
+
+<Q - Arnab Chanda>: Thanks Jen-Hsun. 
+
+<A - Jen-Hsun Huang>: Yes; thanks, Arnab. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Gary Mobley from Piper Jaffray. Please go ahead. 
+
+<Q - Gary Mobley>: Hi, guys. I had a couple of questions relating to balance sheet items. Are there any troublesome 
+production lead times still out there? And your inventory turns are still above the historical norm of five to six. I'm just 
+curious whether we might see a continued rise in the NVIDIA held inventory. 
+
+<A - Marvin Burkett>: Our days sales in inventory are 60, and that's where I had hoped to get it because when it's 
+down at 50 or below, that's too little inventory. So once you have it at 60, the real issue is what is in the inventory. Is it 
+old stuff that's moving slowly or is it new stuff where you don't have enough of it? And I would say at this stage that 
+I'm very comfortable with the inventory, both the profile and the amount of it. Are we going to build inventory? Yes, I 
+think we'll build inventory as we go into Q3 and Q4, and with the expectation that revenue usually increases 
+significantly in Q3 and Q4. So I wouldn't have any trouble at all with building inventory in Q2, providing it's the right 
+inventory. 
+
+<Q - Gary Mobley>: Okay. Production lead times, are there any issues still there? 
+
+<A - Jen-Hsun Huang>: We're still growing as a company, so production lead times continue to be a challenge for us. 
+But our fab partners are working hard for us, and they are doing their best for us. But you heard me say that our GPUs 
+and GPUs, just so you know, are the most complex -recognized now as the most complex processors the world makes. 
+We ship 100 million a year, so we make it look easy. But it is the largest pieces of silicon that anybody makes, period. 
+And so when I said that we grew our GPU units 50% year over year... 
+
+<A - Marvin Burkett>: 42. 
+
+<A - Jen-Hsun Huang>: ...42% year over year, that's a very large number. I know that none of the foundries grew 
+42% year over year, and I know that the PC industry didn't grow 42% year over year. And so you can just imagine our 
+wafer starts. And so our fab partners are really working hard for us. I would love to grow another 50% year over year 
+and there's certainly every opportunity for us to do that. And our fab partners just have to – they all have to pitch in and 
+help us get there. 
+
+<Q - Gary Mobley>: Lastly, could you provide some comment on the consumer business, the ebbs and flows going on 
+there with the different components of that revenue? And might we see some stabilization in this business going 
+forward? 
+
+
+<A - Jen-Hsun Huang>: I think stabilization and consumer businesses are, that's probably a – what do they call it, an 
+oxymoron, jumbo shrimp? That's the nature of the consumer business. And the thing that I do know is this; that PS3s 
+are doing great. The Blu-ray/HD war is over. The PS3 is benefiting from both second generation titles. They're 
+benefiting from first-party titles that are coming out in the near future. That's going to be pretty hot. And they have 
+Blu-ray. If you don't know this, you should go get one. It's pretty affordable. PS3 is the world's best Blu-ray player, 
+period, flat out. It's just a fabulous Blu-ray player. And so I think PS3s are going to do great. They're in the process of 
+transitioning to a new process node, and so we're looking forward to how they ramp into the holiday season. 
+
+<Q - Gary Mobley>: Thanks guys. 
+
+<A - Jen-Hsun Huang>: Yes. Thanks a lot, Gary. 
+
+Operator 
+
+Thank you. Our next question comes from the line of James Schneider from Goldman Sachs. Please go ahead. 
+
+<Q - James Schneider>: Hi, good afternoon. Could you maybe within the desktop GPU segment comment on your 
+expectations for Q2 in terms of pricing and whether or not you've seen any incremental pricing actions by some of your 
+competitors there? 
+
+<A - Jen-Hsun Huang>: It's hard to exactly predict what happens in the short term, but I know what the general trends 
+are. The general trends are the GPU is benefiting from an industry-wide recognition that visual computing is important. 
+The GPU is doing more and more things because it's more and more programmable. And with CUDA, we've made the 
+GPU a completely general purpose parallel processor. And so these things will cause it to be adopted more, and 
+therefore that will increase units. It will increase its TAM, places that you would have never thought a GPU would go 
+would include a GPU. And it would also increase its ASP because it's more and more useful. So we're seeing all of 
+those mega-trends. And so I think that with respect to Q2, we know we're announcing new products, and so that's 
+always helpful. But I can't control what the competition does. 
+
+<Q - James Schneider>: Okay, that's helpful. And then secondly, on the R&D spending, Marv, do you expect that you 
+can hold that to roughly flattish levels from Q2 and then through the rest of the year? Or, do you expect that would tick 
+up a little bit as we move into the back half? 
+
+<A - Marvin Burkett>: I think if we continue to hire, it's going to tick up in the back half. I mean, we have a very 
+strong focus on trying to hold it as flat as possible in Q2. I think at the Analyst Day, I said the same thing, so our focus 
+now is holding it flat for Q2. We'll see how successful we are. I would think it will tick up slightly, as I said before. I 
+think we'll moderate the growth throughout the rest of the year. 
+
+<Q - James Schneider>: Thanks very much. 
+
+<A - Jen-Hsun Huang>: Thanks, James. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Glen Yeung from Citigroup. Please go ahead. 
+
+<Q - Peter Karazeris>: Hi, this is Peter Karazeris for Glen Yeung. In the guidance for gross margin being up 100 
+basis points next quarter, can you give me some sense of how much of that is your thinking on the improvement from 
+manufacturing and how much of it would be coming from product mix? 
+
+<A - Marvin Burkett>: 100 basis points should be – we can do a lot better in terms of the manufacturing side, so I 
+think that we don't need significant uplift in other areas in order to achieve the 100 basis point increase. What we do 
+need is really superb execution internally. We're going to have to work very hard for that to happen. 
+
+
+<Q - Peter Karazeris>: So the 100 is really driven by – it's correct for me to say it's driven primarily by the 
+improvement in manufacturing. Any mix would be upside to that. Is that correct? 
+
+<A - Marvin Burkett>: Yes, probably. We'll see. 
+
+<Q - Peter Karazeris>: And SG&A, should I assume that more closely tracks revenue? You've given us some detail 
+around R&D spend, but should I be thinking that SG&A then next quarter could be down a bit with the revenue and 
+then it comes up in the second half of the year? 
+
+<A - Marvin Burkett>: Our OpEx is not closely tied to revenue. It's closely tied to the number of people we have and 
+the projects we have going on. So if revenue goes up or declines, our SG&A doesn't track right along with it. 
+
+<A - Jen-Hsun Huang>: We won't give everybody a salary reduction. 
+
+<A - Marvin Burkett>: No, I think they're independent movements. 
+
+<Q - Peter Karazeris>: All right, thanks. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Tayyib Shah from Longbow Research. Please go ahead. 
+
+<Q - Tayyib Shah>: Hi, guys. Jen-Hsun, you are guiding to revenues in line with historical seasonality for PC space. 
+With the 9000 series ramping, it puts you in a strong competitive position in the desktop space. Do you expect to gain 
+some share in the back-to-school season? And if so, shouldn't you be guiding above historical seasonality? 
+
+<A - Jen-Hsun Huang>: Did I mention Q2? I think we've got to treat Q2 with respect. I think you're right that we have 
+a very strong, a very good competitive position. We have fabulous products, top to bottom. And we're also announcing 
+several new initiatives that you guys heard about at Analyst Day. One of the things is, the modern benchmark is out. 
+We have been using – the benchmark that the industry has been using has been around since 2006. And in graphics 
+years, that's – wow, that's a long time. So the new benchmark is out. It's called 3DMark Vantage, and it's a modern 
+benchmark. Because our GPUs, our modern GPUs are designed for modern applications, you would think that our 
+position on the 3DMark Vantage should be extraordinary, and it is. So that's one thing, and that's in the process of 
+rolling out. The market doesn't really know it yet, and I think you could see some early websites, go see some – you 
+might just be able to Google it and find some reviews, and you'll see that the reviews are really fabulous with GeForce 
+8 and GeForce 9. So that's one. 
+
+The second thing is we are going to announce this quarter probably the highest volume parallel computing application 
+or software in the world, and that's physics processing. It's used in almost every modern game, and it is one of the most 
+computationally intensive things that you can do in a game. And it now runs on CUDA, on GeForce GPUs. Then we're 
+going to add on top of that hopefully, we'll go into production later on in the quarter, our transcoding. It is probably the 
+killer app today with the number of iPods that are being sold and iPhones that are being sold. People are downloading a 
+lot of videos onto their portable media players, and the transcoding of videos takes forever. You have to start it up at 
+night and give up your PC and go to bed and hope that it's done before you wake up. And so we're going to accelerate 
+the transcoding of movies to what is called Super Real Time. It's much, much faster than it takes for you to watch it. So 
+I think transcoding is just going to – people are going to be nuts over the work that we're doing in this area. So not only 
+do we have a fabulous position with our GPU lineup, but we're adding three major things to it this quarter. And I think 
+that that can't but help. But having said all that, I think we ought to show Q2 its due respect. 
+
+<Q - Tayyib Shah>: Okay. And then the share shift in the notebook space – is that going to play out in the July quarter 
+and then return the company to a normal seasonal trend in October quarter? Or are we likely to see a drag from 
+notebook share shift in the October quarter as well? 
+
+<A - Marvin Burkett>: It will certainly play out in Q2. You'll see that share shift start to take place in Q2. There will 
+be a little bit of drag in Q3. But the major portion of it is in Q2. 
+
+
+<A - Jen-Hsun Huang>: I think it's all important to keep it all in perspective. I think first of all, the notebook GPU 
+business is a lot smaller than the desktop GPU business and the market share that we lost is mostly in the entry level 
+segment. And so it's a small percentage of a small percentage. And so I'd just put it in perspective. I think in the final 
+analysis, we like to have all the business in the world, but sometimes the profitability doesn't suggest that it would be 
+the most prudent thing to do. So we're going to keep fighting for our share. But I'd urge you to keep that in perspective. 
+
+<Q - Tayyib Shah>: Thank you. 
+
+<A - Jen-Hsun Huang>: Thanks, Tayyib. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Mike McConnell from Pacific Crest Securities. Please go ahead. 
+
+<Q - Michael McConnell>: Thank you. Marv, if we look at the – I'm just a little surprised at the commentary on the 
+margin guidance, just with respect to the entire benefit being from manufacturing. I guess if I looked at your Q1, you 
+did have some favorable mix in the sense that workstation being up 21%. That's a 70% gross margin business. And 
+then your memory was down 20%, yet you were light on margins, as you alluded to. So as we move into July, is there 
+going to be another element that's going to be really helping the margin because I can't imagine that we're going to have 
+the same favorable mix on those two product segments carrying into July. And then as we – is it just a matter of getting 
+
+– you've gotten through the excess inventory in the GeForce 8X family and now you're going to have new products as 
+well ramping. So the GPU margins should also improve on top of that manufacturing improvement? Any color there 
+would be helpful. 
+<A - Marvin Burkett>: Yes, Jen-Hsun outlined this. The G80 to G92 transition has been difficult for us and has 
+certainly impacted the GPU margins. As I mentioned, the overall GPU margins were down two percentage points 
+quarter to quarter. Now, that's a combination of both of those factors. But what I was referring to is that you're going to 
+get the benefit of one of those because you don't have to repeat them. The other one of the manufacturing 
+improvements that we have to do is going to drive the other portion of it. So yes, I anticipate that we won't get the lift 
+that we got from the PSB business unit in Q1, and we won't get perhaps the lift in some other areas. But even taking 
+that into consideration, we still believe that 100 basis points is reasonable. 
+
+<A - Jen-Hsun Huang>: Michael, I think just to help amplify that, and Marv and I both talked about it. But let me just 
+add a fine point to our review. Typically, when you introduce a new product, it's either more expensive, but it's much 
+higher performance. Or another way of saying it, it's much higher performance, but it typically is higher cost. Or, you 
+introduce a product that goes into the midrange or the entry segment and it's lower performance, but it's definitely 
+lower cost. And so those are the typical product transitions, I mean typical as in out of every nine product transitions – 
+out of every 10 transitions, nine will be that way. 
+
+But every so often, the moon and the stars and everything align, and you get a situation like the G80 to G92, where G92 
+is both faster and cheaper. It's a combination of both process improvement and also the midlife kicker syndrome in the 
+sense that, G80 was the first implementation of that CUDA architecture. So G92 had the benefit of learning from big 
+brother, and we've fixed a lot of the architectural things that we left on the table. So G92 has that added kicker. So 
+when you're presented with a situation where something is cheaper and higher performance, it's really tough to manage 
+through the transition. 
+
+<Q - Michael McConnell>: And I guess how much of what occurred with the G92 – was this more of a function – we 
+had, obviously, some manufacturing constraints in late fiscal 2008. I mean were the forecasts just overly optimistic, or 
+was there maybe an air pocket of soft demand as we went through April? Any comments there, please? 
+
+<A - Jen-Hsun Huang>: We were in allocation on G80 – holy cow – until the day we had a bunch of inventory left to 
+sell at a lower margin. So part of it is the cycle times aggravate that. Part of it is seasonality, and a large part of it is 
+G92. G92 was such a good product and you probably remember the reviews. G92 when it came out – the reviews were, 
+
+
+this is the perfect product because it was affordable and it was so high performance. So it's tough for G80 to compete 
+against that, especially when the manufacturing was running full steam right when G92 came out. It's just hard to 
+manage those kinds of transitions. 
+
+<Q - Michael McConnell>: And last thing, Jen-Hsun, with respect to these low-end notebooks that are coming into the 
+market, if you talk to the channel, they're somewhat concerned about potentially desktop cannibalization accelerating 
+this year. Intel has talked about actually their crossover occurring this year as opposed to next year. What does that 
+mean for the GPU industry? Is that even a threat at all or do you feel comfortable with what you're doing with hybrid, 
+the hybrid graphics technology, that over time your attach rate, the GPU attach rate in notebooks will continue to 
+increase and this really isn't that much of a threat as some of the channel is making it out to be with their own business? 
+
+<A - Jen-Hsun Huang>: First of all, the crossover, be sure to understand what it actually says. As far as all the data 
+shows, and certainly we did sell 40-plus percent more GPUs this year than last, so they are going somewhere. What the 
+data shows is that desktop PC growth is small, but notebook PC growth is fast and notebook PC growth is mostly an 
+extremely low-cost notebook growth. And so what it basically tells me, and my family is probably similar as other 
+families, where people buy one or two desktop PCs but everybody has their own laptop. So I think that increasingly 
+more and more families are that way. So we're seeing that basic trend that for every desktop PC, you might see one plus 
+notebooks and that those notebooks will tend to be for personal use. But I think the mega-trend, though, that we are 
+seeing – so that's one trend that you are recognizing, in that the notebooks – there are just more and more notebooks 
+sold. 
+
+But the second thing that you're noticing is that in the markets that we serve, there is increasingly -increased ASP and 
+increased adoption of GPUs. We are not in the vast majority of the world's PCs yet. We still have a pretty large TAM to 
+grow into. So within that TAM, I expect that the ASPs of GPUs will continue to grow as the usefulness of GPUs 
+continue to grow and that as people recognize that their PCs are more visual than ever, they will use more GPUs. So I 
+think the growth opportunity is still pretty healthy out there. 
+
+<Q - Michael McConnell>: Thank you. 
+
+<A - Jen-Hsun Huang>: Thanks, Mike. 
+
+Operator 
+
+[Operator Instructions] Our next question comes from the line Shawn Webster from JPMorgan. Please go ahead. 
+
+<Q - Shawn Webster>: Yes, good afternoon. Thanks for taking my question, a couple on inventory. Did you guys 
+write down inventory in Q1? 
+
+<A - Marvin Burkett>: Shawn, we always write down inventory. 
+
+<Q - Shawn Webster>: Beyond normal? 
+
+<A - Marvin Burkett>: No, it was normal. 
+
+<Q - Shawn Webster>: Okay, thank you. And on the channel inventories, can you describe how the inventories at 
+your OEM and channel partners are looking right now? Is it normal, a little higher than normal, and maybe give some 
+color on trends there? 
+
+<A - Jen-Hsun Huang>: It's higher than normal, but I think that during this time of the year, it tends to be higher than 
+normal, and it's the opposite of saying – corollary of saying seasonality. But don't forget that this is also the time right 
+before back-to-school season. So if you recall last year about this time, inventory grew in the channel. And then shortly 
+after that, back-to-school ramps up, and then we went into June and July and back-to-school and before you know it, 
+it's fall. 
+
+
+<Q - Shawn Webster>: Right, so higher than last quarter, but not higher than what you would normally expect this 
+time of year? 
+
+<A - Jen-Hsun Huang>: I don't think so. 
+
+<Q - Shawn Webster>: Okay, and then as far as the guidance for Q2, the down 5%, if I'm reading my notes correctly, 
+it looks like you've guided over the last three years for a flattish to slightly up for Q2. Is the visibility you have now less 
+than normal? Are you trying to branch predict what's going on in notebook? What is making this year a little bit 
+different from the last several years? 
+
+<A - Jen-Hsun Huang>: First of all in notebooks, the share loss we've talked about in notebooks doesn't represent 5% 
+of our top line, as I have already explained. I don't think there's – I feel like I'm the only person that's maybe watching 
+CNBC, but there's no harm in a little caution in this Q2. 
+
+<A - Marvin Burkett>: We are as nervous as the stock market. 
+
+<A - Jen-Hsun Huang>: I feel like maybe I just ran into another planet. But we have a great product position. We 
+have a great product position, and we have really exciting products coming out, and there are two major trends that are 
+happening that's going to drive GPU growth. One of them is visual computing, and the other one is parallel computing. 
+They're not related. They're completely different things that are happening, and we find ourselves at the epicenter of 
+both. So I'm excited about our growth prospects. But Q2 is Q2 and we ought to just – if we come out at the other end of 
+it and surprise ourselves, so be it. But a little conservatism going into it is not a terrible thing. 
+
+<Q - Shawn Webster>: Okay, thank you very much. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Heidi Poon from Thomas Weisel Partners. Please go ahead. 
+
+<Q - Heidi Poon>: Hi, guys. I'm wondering if you could give us an update about the motherboard GPU business in 
+terms of where you see pricing going to in the second half. Also you announced the VIA platform on the Analyst day, 
+so could you give us an update on the design activities? 
+
+<A - Jen-Hsun Huang>: Let's see, Marv, you already mentioned about the MCP business, where we grew MCP 
+business over 30% year over year... 
+
+<A - Marvin Burkett>: We were only down 4% quarter to quarter. 
+
+<A - Jen-Hsun Huang>: I don't know of any major reasons why the MCP business would change in terms of it's 
+characteristics, and let me tell you why. I think the DX10, in order for you to be Vista Premium certified by Microsoft, 
+you have to have DX10 capability, I think it's by August or something like that, I think it's either July or August. So 
+DX10 – and the second thing is that the new benchmark is out. It is the benchmark that the entire PC industry, the 
+entire supply chain uses to determine the worthiness of a product. So you need to have DX10 to have any meaningful 
+capability on that benchmark. And so you have to put DX10 onto every GPU. My sense is that our leadership in DX10 
+is going to be pretty substantial, and so we expect to bring that onto the motherboard in the near future, and so we're 
+excited about that. So I think – I don't anticipate anything except that graphics will be harder and harder to do. Our 
+separation relative to the rest of the industry in terms of graphics leadership, as you have been tracking and others have 
+been tracking, is diverging. Our lead is increasing. The rate of our lead increase is increasing I think. And so I'm 
+enthusiastic about the work that we're doing there. 
+
+The VIA platform – we're still in design, and so it's a little bit too early to make any significant announcements. We're 
+not planning to have production until spring next year. I think it highlights that the VIA processor is very good and it 
+runs Vista Premium. It tells you that if you want a Vista Premium platform in a processor at less than $20 certainly, and 
+soon, in another year or so, less than $10 with a sufficient GPU, we'll give you a great experience on Vista Premium. 
+And so that tells you something about the future of computing. It's just the business shift, the first signs of it, that visual 
+
+
+computing and computing can be done quite nicely in even very cost-effective solutions. 
+
+<Q - Heidi Poon>: Great. And lastly, just a little bit more on mobile. When you talk about having more substantial 
+revenue in mobile by the end of the year, is that mostly related to the portable navigation device platform win that you 
+discussed at the Analyst Day or are there more things to explain? 
+
+<A - Jen-Hsun Huang>: We have some interesting announcements that we'd like to make, and give me an opportunity 
+to make those announcements properly, so just watch this spot. I think mobile computing, and you've seen the 
+demonstrations of APX 2500. I mean, everybody I've shown it to, everybody who has seen it is just amazed at what 
+capability you can put into a chip; a full computer that can fit on a chip that is smaller than the size of a dime. The 
+entire computer, including the CPU and the GPU and the video encoder and decoder and high-definition video and the 
+whole computer can fit on the surface smaller than a dime and so – and draw milliwatts. So imagine what you could 
+build with something like that, and give us an opportunity to announce it properly and get you excited about it. 
+
+<Q - Heidi Poon>: Thanks. 
+
+<A - Jen-Hsun Huang>: Thanks, Heidi. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Uche Orji with UBS Investment Bank. Please go ahead. 
+
+<Q - Uche Orji>: Thank you very much. Can you hear me? 
+
+<A - Marvin Burkett>: Yes, Uche, go ahead. 
+
+<Q - Uche Orji>: Yes, thanks a lot, Marv. Question for you, Marv, if I look at PSB, how much of the revenue this 
+quarter was already Tesla that was recognized for the quarter? 
+
+<A - Marvin Burkett>: First of all, the PSB revenue does not include Tesla. 
+
+<Q - Uche Orji>: Okay, the second question is if I might just pull off on that, if I look at PSB, one would think that 
+given all issues that's associated with financial services and advertising that may affect that revenue, but obviously that 
+hasn't. Can you just talk me through a little bit more what is just driving the resilience of this business? Obviously, this 
+has been a great business for you, both top line and margins. And also on the competitive front, are you seeing anything 
+given that AMD talked about reviving or driving their FireGL brand? I don't think it's that significant, but if you can 
+just say anything on the competitive front, Jen-Hsun, that would be helpful. Thanks. 
+
+<A - Jen-Hsun Huang>: Sure. At the highest level, the most important thing to recognize is that in every single 
+industry, they are going digital. So where people used to use drafting boards and paper and pencil, they are going 
+digital. Whether you're making comic books or designing buildings in China or designing the next airplane or car or 
+whatever it is, everything is going digital. So I think that that's a perfectly conventional wisdom and observation. And 
+as more and more of the digital – the pipeline can go digital because technology affords it to, we have to make 
+technology good enough so that you could do more things in digital. 
+
+Let me give you one example. We have to create amazing technologies in order to replace clay modeling of cars 
+because it has to be so realistic that you no longer have to build the entire model. That saves millions of dollars. It cuts 
+an enormous amount of time off the design cycle for these car designers, but it requires an enormous amount of 
+technology. And so whenever we reach those plateaus with technologies like Quadro Plex or some of the work that 
+we're doing with our Scene Graph, a lot of it has to do and software and multi-GPU scaling. They are all systems or 
+system architecture or a software solution. When we can reach these new plateaus, all of a sudden we convert an entire 
+pipeline, work pipeline that an industry has, into digital. And that increases the TAM of workstations. 
+
+I think we're still very well into the early days of it, and the reason for that is because what all of these companies want 
+to do, they want to visualize, they want to design, they want to simulate. To simulate the dropping of a cup or a toaster 
+
+
+or a cell phone, simulate the electromagnetic emissions of a cell phone, simulate a car crashing, and doing all of that 
+from the comfort of an engineer's desk and not have to share a supercomputer with people. Styling, showrooms; we're 
+starting to see Quadros showing up in showrooms, so that you can pick your own color and choose your car. This is a 
+new application. I have no idea how many showrooms there are all over the world, but every car company wants to do 
+this now, put digital displays into showrooms. And their powerwalls are enormous, enormous amounts of technology. 
+And I've just talked about the car industry; and then further, they want to do inventory management. They want to do 
+training so that the mechanic can have interactive displays of the manuals instead of out-of-date prints. There are so 
+many different ways that visual computing can still transform the industrial workflow. And so we're really just seeing 
+the beginning of it. 
+
+And then, once you are done transforming the workflow, then you have to duplicate it. Don't forget outsourcing. 
+Whenever you have a German company, an auto company has a manufacturing plant in Asia and then they put one in 
+India, guess what? They've got to install the same workflow in those two countries. You could make the data virtual, 
+but you can't make the computer virtual yet. So there's still that globalization factor. And so there's quite a bit of growth 
+yet, I think in PSB and I'm enthusiastic about our position within it. 
+
+With respect to FireGL, our workstation business is not called the GPU business, as you probably noticed. You called it 
+PSB. It's a solutions business. And a solutions business entails a lot more than building a chip. It's about understanding 
+the processor, having an extraordinarily deep understanding of the software and the workflow and the pipeline, having 
+experts all over our company and all over the world for our company who are assisting these designers work through 
+their design pipeline, design problems. So it's a – and our entire ecosystem of partners where Quadro certification and 
+being Quadro compatible is now the way people talk – I want Quadro-compatible workstation, or my software is 
+Quadro compatible, or this workflow is Quadro compatible. And so, these investments took us 10 years to get here. 
+And it's just not about a graphics chip. It's not about an add-in card. It's not about how big your frame buffer is. All of 
+that just shows that people don't understand how these designers think. 
+
+<Q - Uche Orji>: All right. Okay, that's helpful, Jen-Hsun. It's amazing this business can continue to defy and still 
+shoot for strong organic growth. In terms of your ability to allocate capacity to keep driving this business, do you think 
+there is any constraint in the future from a capacity standpoint that could become an issue, especially if you had to 
+balance this against your G92 series that's ramping as well? So are there any capacity constraint issues to think about 
+for the near term? 
+
+<A - Jen-Hsun Huang>: I'm not sure I understood the question. 
+
+<A - Marvin Burkett>: PSB business? Is that what you're asking? 
+
+<Q - Uche Orji>: I'm asking because given the strength of the underlying growth in this business, are there – because I 
+remember a couple of quarters ago where you had to make some decisions in terms of allocating resources capacity to 
+PSB, and that bounced back. If I look forward in the future, do you think that there is enough foundry capacity to keep 
+driving the underlying growth in this business along with your other businesses also, especially on the G92 that's 
+ramping? 
+
+<A - Jen-Hsun Huang>: I see. The PSB business is not a – when I heard capacity, I was surprised by that because in 
+terms of total units, it's not insignificant; it's very large. We ship more Quadro solutions in one year than all of the other 
+workstation companies in the history of workstations ever shipped, so it is a large number. However, in the totality of 
+all of our units shipped, it would never get in the way. The only thing that, when you said capacity, that comes to mind 
+for me, was intellectual capacity business. This is an intellectual capacity business. And I would love to have 100% 
+more people who understand this business and have the skill sets of the people that are in that business instantaneously 
+tomorrow. So if you find those people, let me know right away. 
+
+<Q - Uche Orji>: Okay, that's great. Thank you very much, Jen-Hsun. Thanks for the time. 
+
+<A - Jen-Hsun Huang>: Thanks, Uche. 
+
+
+Operator 
+
+Thank you. Our next question comes from the line of Tim Luke with Lehman Brothers. Please go ahead. 
+
+<Q - Tim Luke>: Thank you. Can you hear me? 
+
+<A - Jen-Hsun Huang>: Hi, Tim; yes. 
+
+<Q - Tim Luke>: Hey guys, just in the April quarter, you obviously had very robust sequential strength in 
+workstations, and I was wondering if you could give any color on how – what had driven that sequential uptick. And 
+then as you go into the July quarter, do you have any color on how you would expect some of the different segments to 
+look? Or do you think it's going to be fairly even in terms of the 5% seasonal decline between the core units? And then 
+lastly for Marv, I was wondering if you could just remind us how you've perceived normal seasonality for the back half 
+of the year and what you think – how you think that may shape within the current macro context? Thank you. 
+
+<A - Marvin Burkett>: I don't think there was any one particular segment of the workstation business that drove the 
+growth quarter to quarter. I think it was across the board. They did well in all kinds of areas in Q1. Jen-Hsun, do you 
+have any comment about that? 
+
+<A - Jen-Hsun Huang>: The only thing that I would say about our workstation and our Professional Solutions 
+business is it has exceeded everybody's expectations, and it's still growing. I think that we're not following any market 
+research in terms of the size of the market. We are beyond market research. I think that there's – when you're the 
+market leader and you've grown the market as large as it has ever been and yet you still see headroom for growth, you 
+just never know how big it's going to be. Our customers don't know how big it's going to be. Many of our salespeople 
+don't know how big it's going to be, and you just have to go back to first principles I think to figure out how big it's 
+going to be. 
+
+So I think it's not really that easy to predict what PSB will do this year or next quarter. But we just have to look at the 
+underlying foundations of what makes the PSB business grow and what that business is all about, and you'll see the 
+significant opportunities ahead of it. 
+
+<Q - Tim Luke>: Any other segment color for July; it sounds like you are saying that notebooks will be slightly 
+towards the lower end of any guidance – and desktops; any color on notebooks or workstations for July? 
+
+<A - Marvin Burkett>: I think that notebook as it makes the transition to Montevina, will probably decline more than 
+corporate, so we outlined a 5%. It's probably going to decline more than that. I mean that... 
+
+<A - Jen-Hsun Huang>: Just to make sure, that's not because of share. That's just a transition thing. Everybody's 
+notebook business is in this transition going to be slightly down. But in terms of stabilized share, you just don't want to 
+communicate that it's going to be off by so much. 
+
+<A - Marvin Burkett>: No, it's a transition quarter. So I think that's the color for notebook. I think the big swing factor 
+that you have no idea on or great difficulty in projecting is what happens in desktop. We have some new product in 
+there which could surprise us, both in strength, and we'll see as we go through the quarter. I don't think that in our 
+projections we're expecting huge growth in anything, but also not huge declines. I guess it's more what we'd call 
+seasonal. 
+
+<Q - Tim Luke>: And what about second half seasonality? 
+
+<A - Marvin Burkett>: The normal seasonality that we see after I'll call it the 5% decline in Q2 is 10% plus growth in 
+Q3. That's what normally happens. We've had many years of 20% quarter to quarter. So it's 10% plus. And then you go 
+into Q4, and it's slightly up from Q3, single digits. 
+
+<Q - Tim Luke>: Do you feel you wouldn't get that this time? 
+
+<A - Jen-Hsun Huang>: There's no way to know. 
+
+
+<A - Marvin Burkett>: You tell me what's going to happen to the consumer worldwide. 
+
+<Q - Tim Luke>: Fine, but as of now, you are planning for that fairly broad but normal seasonal range, or how should 
+we think about framing expectations? 
+
+<A - Marvin Burkett>: We have no reason to have any different plans this year. 
+
+<Q - Tim Luke>: And margins, gross margin for the continuation of the year? How should we think about framing 
+expectations for that after this weakness in the first quarter? You think you'll see steady improvement through the 
+calendar year? 
+
+<A - Marvin Burkett>: We'll talk to you in mid-August about Q3 margins. 
+
+<Q - Tim Luke>: And lastly if I may, so you're saying channel inventory is slightly higher, and your inventory is – you 
+would look to build some further inventory for the sequential improvement in the calendar third quarter? Is that 
+correct? 
+
+<A - Marvin Burkett>: Correct. 
+
+<Q - Tim Luke>: Excuse me. Lastly if I may, the ASPs in general, they seem to be solid this quarter. How do you 
+generally see the framework for ASP through the calendar year; i.e., through this second quarter with the lower 
+revenue? And how should we think about it, should we think about it being stable from here? 
+
+<A - Marvin Burkett>: ASPs have been stable to slightly up for years now. So if you look back over what Jen-Hsun 
+has talked about, 10% growth in ASP year to year, I don't know why it would change. 
+
+<Q - Tim Luke>: All right, that's excellent. Thank you very much guys. Good luck. 
+
+<A - Marvin Burkett>: Thanks a lot, Tim. 
+
+Operator 
+
+Thank you. At this point, it's now my pleasure to turn the conference back over to Mr. Mike Hara. Please go ahead. 
+
+Michael W. Hara, Vice President, Investor Relations and Communications 
+
+Thank you all for joining us today and we look forward to reporting on our progress for Q2. 
+
+Operator 
+
+Ladies and gentlemen, that does conclude the conference call for today. We do thank you for your participation and ask 
+that you please disconnect your line. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2008, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

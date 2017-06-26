@@ -1,0 +1,831 @@
+Q4 2009 Earnings Call 
+
+
+Company Participants 
+
+• Kipp A. Bedard, Vice President – Investor Relations 
+• Ronald C. Foster, Chief Financial Officer 
+• Mark W. Adams, Vice President of Worldwide Sales 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon. My name is Catolla. I'll be your conference facilitator today. At this time I would like to welcome 
+everyone to Micron Technology fourth quarter and fiscal year end 2009 financial release conference call. All lines have 
+been place on annuity to prevent any background noise. After the speakers' remarks there will be a 
+question-and-answer period. If you would like to ask a question during this time press star then the number one on your 
+telephone keypad. [Operator instructions]. 
+
+Thank you. It is now my pleasure turn the floor over to your host Kipp Bedard. Sir you may begin your conference. 
+
+Kipp A. Bedard, Vice President – Investor Relations 
+
+Thank you, welcome to Micron Technology's fourth quarter and fiscal year end 2009 financial release conference call. 
+
+On the call today is Steve Appleton, chairman and CEO. Mark Durcan. Ron Foster, chief financial officer and 
+vice-president of finance. And Mark Adams. Vice-president of worldwide sales. This conference call it including audio 
+and slide is also available on Micron's web site at micron.com. If you have not had an opportunity to review the fourth 
+quarter 2009 financial press release, it is also available on our web site at micron.com. 
+
+Our call will be approximately 60 minutes in length there. Will be an audio replay of this call access bid dialing 
+706-645-9291. With a confirmation code of 30898947. This replay will run through Tuesday, October 6th, 2009 at 5:30 
+
+p.m. mountain time. Webcast will be available on the company's web site until September 29th, 2010. 
+I encourage you to monitor our web site at micron.com for the most current information on the company including 
+information on various financial conferences we'll be attending. Please note the following safe harbor statement. 
+
+During the course of this meeting we may make projections or forward-looking statements regarding future event or 
+performance of the company and the industry. We wish to caution you that such statements are predictions and that 
+actual event or results may differ materially. We refer you to the documents the company files on a consolidated basis 
+from time to time. With a Securities and Exchange Commission. Specifically the company's most recently form 10-K 
+and form 10-Q. These documents contain and identify important factors that could cause actual results for the company 
+on a consolidated basis to differ materially from those contained in our projections or forward-looking statements. 
+
+These certain factors can be found in the investor relations section of Micron's web site. Although we believe that the 
+expectations reflected in the forward-looking statements are reasonable, we cannot guarantee team future results, levels 
+of activity, performance or achievements. 
+
+We're under no duty to update any of the forward-looking statements after the date of the presentation to conform these 
+statements to actual results. 
+
+
+I'll now turn the call over to Mr. Ron Foster. Ron. 
+
+Ronald C. Foster, Chief Financial Officer 
+
+Thanks, Kipp. Our press release is available on our web site and it includes the reconciliation of the non-GAAP 
+numbers discussed on this call. Let me provide a brief summary of the financial results of the fourth quarter which 
+eastbound ended September 3rd, 2009. For the fourth quarter the company reported a net loss of $88 million or 10 cents 
+per diluted share on net sales of 1.3 billion and cash generated from operating activities of $357 million. 
+
+These compared to third quarter results of net loss of it 290 million or 36 cents per diluted share on net sales of 1.1 
+billion, and cash generated from operating activities of 151 million. 
+
+The results for the fourth quarter reflect improving conditions in the memory markets particularly for DRAM. No lower 
+cost markdown is required in the fourth quarter and gross margins reflected estimated benefits of $91 million and $242 
+million in the fourth quarter and third quarter respectively from sales of products previously written down. 
+
+Cost of goods sold also include charges of $37 million, and $25 million in the fourth quarter and third quarter 
+respectively. For idle capacity from Minotera [ph] and IM Flash Singapore. The charges from Minotera [ph] are 
+expected to decrease over the future quarters as Micron steps further into the capacity previously dedicated to Kimona 
+[ph]. For the 2009 fiscal year, the company reported net loss of $1.8 billion, or 2.29 per diluted share on net sales of 
+$4.8 billion and cash generated from operating activities of 1.2 billion. 
+
+Sales in fiscal 2009 decreased 18%, compared to fiscal 2008. Resulting primarily from declines in average selling price 
+force both DRAM and RAM flash memory products in excess of 50%. Across the same period sales volume increased 
+over 50% for DRAM and more than double for NAND. 
+
+Recall that 1/3 of the way through the fourth quarter, we closed on the sale of a majority interest in our imaging 
+business to private equity owners. Micron will account for the retained 35% interest under the equitable method while 2 
+month lag from Micron's fiscal calendar. 
+
+Micron is continuing to provide manufacturing services including waiver fabrication to Aptina the results of which 
+continue to be reported in imaging business segment. The fourth quarter financial results include one move Aptina 
+results with sales to customers and two months of the company's results of wafer foundry for Aptina. Wafers are sold to 
+Aptina under volume adjusted pricing model based on processing technology. Since we now have a few less than 
+wholly owned operations let me summarize how these appear in our financial statements. Consolidated entities are 
+fully represented in Micron's balance sheet and income statement with the interest attributed to other partners backed 
+out of the balance sheet and income statement in the non-controlling interest line. Entities in this category are IM flash, 
+both U.S. and Singapore operations. Text semiconductor Singapore and our MP mask operation. 
+
+Entities which are not consolidated are accounted for under the equity method and presented in a single line on the 
+balance sheet and income statement. 
+
+INOTARA [ph] and Aptina are our two equity method investments. Total sales in the fourth quarter increased 18% 
+compared to third quarter primarily as a result of higher sales of memory products. 
+
+Comparing the fourth quarter to the third quarter, sales of memory products increased 20% while sales of image 
+sensors decreased slightly -- sales in fourth quarter include royalty and technology fees of $34 million compared to 32 
+million in the third quarter. D ramp sales increased 28% compared to third quarter to $708 million primarily due to 
+19% increase in BICH shipments and 8% higher average selling prices. Sales of NAND flash products are increased 
+10% compared to third quarter to $469 million primarily due to a 23% increase in sales volume. Partially offset by a 
+11% decrease in average selling prices. 
+
+Imaging revenue was $123 million in the third quarter, and represented 10% of the Micron consolidated net sales. 
+
+
+The quarter we DRAM average selling price increased in the fourth quarter for the first time in 11 quarters. Pricing for 
+core DRAM products as well as specialty DRAM products both increased in the fourth quarter. The overall 8% DRAM 
+ASP increase in the fourth quarter occurred despite effect shift in mix away from DRAM products which generally 
+higher ASP than core DRAM products. All -- in shipments in fourth quarter came in core D ramp products primarily 
+due to increased production from 300 millimeter facilities while specialty products primarily produced 200 millimeter 
+products remained relatively flat compared to third quarter. 
+
+DRAM production costs excluding lower of cost or market write-downs and idle charges from INOTARA decreased 
+21% compared to third quarter resulting in positive margin in the fourth quarter. 
+
+This substantial decrease in per bit cost was achieved through increased bit production from continued transitions to 
+advanced process technology and the effects of the mixed shift towards lower cost core DRAM products. The supply 
+from Minotera [ph] constituted 10% of DRAM bits produced in fourth quarter. The production costs in the fourth 
+quarter decreased approximately 45% compared to the fourth quarter of fiscal year 2008. 
+
+Fiscal Q1 of 2010 DRAM cost reductions are expected to be in low top mid teens t and bit production is forecast to 
+increase in the mid 20s percent raining including volume we purchased from MINOTARA. 
+
+Looking at demand in more detail, overall NAND flash bit costs in the fourth quarter excluding inventory many 
+write-downs and idle costs decreased approximately 13% compared to the prior quarter and 62% compared to the 
+fourth quarter of fiscal 2008. 
+
+NAND cost reductions in the first quarter of 2010 are expected to be in the low to mid teens again, and bit production is 
+forecast to increase in the mid to high teens as our 34 and in meter NAND process technology achieves mature -
+
+
+The decrease in NAND flash average selling prices in the fourth quarter compared to the third quarter was largely 
+attributable to the dilutive effect of NAND flash sales to Intel our NAND flash manufacturing partner. At long-term 
+negotiating prices approximating cost. 
+
+Selling prices for products sold to Intel declined significantly in line with our decline in costs. As the transition to 34 
+nanometer NAND process technology was substantially completed allowing us to achieve industry leading cost per bit 
+to these products. 
+
+Trade ASPs on sales to customers other than Intel were relatively stable in the fourth quarter compared to the third 
+quarter. 
+
+Our cost reduction efforts from the operating expense areas are enabling to us near our long-term targets for SG&A and 
+R&D as a percent of sales. SG&A and R&D costs decreased 23% and 17% respectively in looking at a year-over-year 
+comparison of the fourth quarter. 
+
+Cost reduction activities have included lower personnel costs as well as cancellation and deferral of other spending 
+activities. 
+
+Staffing levels in SG&A and R&D levels decreased 9% and 16% respectively comparing their levels at the end of Q4 
+to the end of Q3. 
+
+Principally resulting from the spin-off of Aptina. 
+
+We anticipate SG&A expense in the first quarter of fiscal 2010 to be around 80 to $85 million. And R&D expense to be 
+in the 130 to $135 million range. Other operating income in the fourth quarter includes a credit of $12 million which is 
+a true-up of our estimated lost on the spin-off of Aptina to the final amount of $41 million. 
+
+Now to the balance sheet. Fourth quarter ended with $1.5 billion of cash which includes the cash flow from operating 
+activities of 357 million in the fourth quarter. Or $1.2 billion for the whole fiscal year. The growth of our cash balance 
+during the fourth quarter reflects the operating results including our cost reduction efforts and a focus on working 
+capital management. Days sales outstanding and accounts receivable declined from 49 days at the end of the third 
+quarter to 41 days at year end. Inventory decreased slightly in the fourth quarter reflecting lower costs per bit, partially 
+
+
+offset by a higher level of bits in inventory as production outpaced sales in the fourth quarter. 
+
+The cost per bit reductions overcame the effect of selling products in the fourth quarter that were subject to previous 
+lower cost or market write-downs. 
+
+In addition, finished goods inventories were reduced by $56 million with a spin-off of Aptina. Excluding the effects of 
+inventory write-downs in both periods, total inventory turns improved from 4.2 at the end of the third quarter to 4.6 at 
+the end of the fourth. 
+
+We estimate the effect of previous inventory write-downs is less than 4$0 million in the year end inventory balances. 
+
+We paid down $429 million in debt in fiscal 2009. The year end balance of short-term debt is 424 million, which is 
+scheduled to be paid down in the coming fiscal year. 
+
+Capital expenditures during the fourth quarter were 66 million, and were 632 million for the fiscal year. Capital 
+expenditures for fiscal 2010 are expected to be between 750 million and 850 million, loaded more towards the back end 
+of the year. 
+
+With respect to our joint ventures in the fourth quarter we made a capital contribution of $60 million, to continue the 50 
+nanometer conversion at TECH semiconductor -- net distributions were made to JV partners of approximately $950 
+million in the fourth quarter and 681 million for the fiscal year which consists primarily of payments from IM flash to 
+Intel. 
+
+With that I'll close here and turn the commentary over to mark Adams. 
+
+Mark W. Adams, Vice President of Worldwide Sales 
+
+Thanks Ron. The second straight quarter we experienced a strong increase in bit shipments in both our DRAM and 
+NAND businesses. The bit increase was driven by better than anticipated demand across most our key markets 
+including computing, special did I D the RAM and the consumer market. In addition to the bit shipment growth in 
+DRAM and -- we saw as ASP improvement in our business and trade NAND business which when combined leads us 
+to be optimistic about Micron's core memory business through calendar Q4. 
+
+Our overall bit shipments grew 19% quarter over quarter. Ref our computing business which includes desktop 
+computing and notebooks was up 41% and bits were up 22%. It is worth noting we shipped our first product from 
+[inaudible] in fiscal Q4. Coming off strong Q3 in our server business we continue to see growth quarter over quarter 
+with 11% in bits shipped, [inaudible] 28%. Our networking business achieved a 34% increase in bits and remain a 
+strong market for Micron specialty DRAM products. All-in-all demand for Micron DRAM products has increased and 
+put news a position where we'll be challenged to meet all customer demand throughout the remainder of calendar year 
+2009. 
+
+As I mentioned in our last call, saw a market shift in DDR 3 memory for server and PC applications. Bit shipments of 
+DDR 3 product increased 30% quarter over quarter in Q4 and this is after Q3 before we experienced 70% increase. 
+Micron and -- puts us in unique position to capitalize on the growth in demand coming from both PC and server bit 
+related customers. 
+
+In addition t to the continued strength in DDR 3 we saw increased demand for DDR 2 components with increased bit 
+shipments 14% fiscal quarter over quarter. 
+
+The mobile business saw a strong rebound in bit shipments up 60% quarter over quarter. Our NCP multi-chip package 
+business increased 81% increase from previous quarter bit shipments. 
+
+We feel Micron's portfolio products aims at this mobile products including. DS RAM products. NAND based 
+technology and mobile memory cards put us in a strong position to grow significant share in fiscal year, 2010. 
+
+
+From a pricing perspective ASP for DRAM were up 8% which is especially strong performance given the mixed shift 
+driven by DDR -- lower ASP per portfolio average to go along with lower cost per bit. 
+
+In the fourth quarter, our trade NAND bit shipments increased 23% from the previous quarter due to strong demand 
+from mobile, USB. MP3 -- we closed -- all NAND based products on 34 nanometer technology. We feel this puts us in 
+industry leading performance position vis-à-vis our competition. Our retail business which includes an election arb 
+flash memory products, [inaudible] D ramp module business and crucial dot-com continues to make -- [inaudible] very 
+tough year in retail. Achieve market share gains in Americas and internationally. 
+
+Trade component -- for NAND memory remains stable in Q4 following increase in prices in Q3. As I mentioned on our 
+Q3 call flash industry continues to my great to higher density chips and we field bit consumption will continue to grow. 
+We main optimistic -- net books and [inaudible] will drive strong bit consumption and demand market will be in a 
+fairly balanced supply and demand position throughout the remainder of calendar year 2009. 
+
+We remain pleased with our performance and work with constrained market conditions to best serve our valid 
+customers. In Q4 we were encouraged by strong demand signal across most if not all channel segments. One month 
+into fourth quarter of fiscal year 2010 we have seen strong demand on DRAM and NAND uptick when we left Q4 with 
+additional demand from our customer base. 
+
+In the meantime it appears industry supply growth in capital spending remain at historically low levels leaving many 
+products on a occasion. We remain optimistic these trends will continue and Micron will continue to -- in overall 
+performance. 
+
+With that I'll hand it back over to Kipp. 
+
+Kipp A. Bedard, Vice President – Investor Relations 
+
+Thanks mark. We'll take questions from callers. If you are using a speaker phone please pick up the handset and ask 
+any questions so we can hear you clearly. With that lets open it up to questions. 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions]. 
+
+Our first caller is Tim LUKE from Barclays. 
+
+<Q>: Thank you very much. Perhaps you could remind us based where we are now in the quarter where you perceive 
+ASPs would be if they remained flat from here -- basically NAND -- and the DRAM side. And then separately as we 
+move forward, could you give us some color in terms of key variables associated with the gross margin dynamics given 
+that you are describing in a somewhat firmer pricing backdrop and some growth in the -- [inaudible] as well. Thank 
+you. 
+
+<A>: So the first part of the question, it remained flat the rest of the quarter both NAND and DRAM would be up about 
+5% for us. Can you repeat the second part of your question for me? 
+
+<Q>: I just wanted to get some color on the key variables for the progression of the gross margin for the overall 
+company. 
+
+<A>: Sure. The way we address that is driving with the cost downs. We're looking at DRAM and NAND down 
+sequentially in low to mid teens. 
+
+<Q>: Okay. Separately, as you move forward, you talked about the TECH JV. Could you give us some sense what 
+your plans may be there in terms of capacity in NAND. And perhaps also give us some color on the progress on 34 and 
+
+
+how, timelines associated with 22. Thank you. 
+
+<A>: All right. Thanks. This is Mark. Relative to the TECH JV there are no plans for NAND as tech. That's a DRAM 
+only facility, AMS. Intend to keep it that way on go forward basis. Relative to NAND technology we're essentially 
+complete with 34-nanometer at this point. We have our true X mode T characterize exactly what that is but our T 2 
+mode in fill and manufacturing and running today -- we would plan to sample it that and ramp it in in 2010, calendar 
+'10. 
+
+<Q>: With the CapEx numbers could you remind us what you had outlined previously for the coming fiscal year, and 
+just give us some sense t looks like it is edging up somewhat since the 750, 850 level. Where that is likely to be 
+principally directed. I think you suggested it was going to be second half weighted. Thank you. 
+
+<A>: Yes. That's correct. This is Ron. We were guiding about 750, $850 million partly related to carry over from 2009 
+where we came in at 66 million in the fourth quarter, down from what we had originally estimated some of that flowed 
+into 2010, and it's heavily back-end loaded and always a little hard to call exactly how much of that will fall into the 
+fiscal year which is fallout. 
+
+<A>: And this is Mark. Relative to use -- to the extent there is additional incremental CapEx it is primarily around 
+optimizing existing facilities in particular. You know, a few more -- data existing operation in both Virginia and 
+Singapore as well optimizing the mix at IMFP. 
+
+<Q>: Thanks so much. 
+
+Operator 
+
+Our next caller is Jim Covello from Goldman Sachs. 
+
+<Q>: Good afternoon. Just a couple of questions around CapEx and industry supply. I guess what are your current 
+expectation pursuant to bit growth heading into next calendar year. And where do you guys think you might come out 
+as you intend to pick up share in the industry? 
+
+<A>: Jim, we won't give you year-over-year yet for Micron other than Mark's reference before for our sequential 
+growth. But in terms of industry t it seems like most of the third party looks at this or DRAM somewhere up between 3 
+and 50% and NAND up somewhere between probably 60 and 80%. 
+
+<Q>: For people who, as you guys commented CapEx is historically low levels it. Has been the last couple of quarters 
+so the tight supply is likely to continue the next couple of quarters. How quickly t or when is the soonest an 
+incremental. Meaningful incremental supply can be brought online if not from Micron from the rest of the industry? 
+
+<A>: Well, I think there is a couple of different parts to that, Jim. One is, how much supply can come back online from 
+existing capacity. And that was, or still is in place. Obviously there is not going to be the in-coming out of Kimona is 
+doing [indiscernible]. With respect to Micron itself, you know what our plans are. [indiscernible] mostly optimizing. 
+And then when you look at what's going on with ALPITA [ph] and probably [indiscernible]. I don't think there is a lot 
+of new wafers or there is a lot of discussion around trying to bring them up to generation of technology that will we're 
+already on. 
+
+But you know, that's pretty limited. And then when you talk about the come along in general. Mark just got back from 
+there and he knows probably more than any of us at the moment. Essentially when you think about ProMOS and power 
+chip there is no capital available to do either an upgrade of the current technology or any kind of additional wafers into 
+the marketplace. So you know, really just needs, what Sam -- [indiscernible] which is not a whole lot. The kind of in 
+line with what we have always done. So in terms of new facilities being built for capacity there just aren't any. There 
+are not any that exist. And in terms of optimizing some of the facilities that were in place, there's not a lot of capital for 
+that to happen outside of what we're probably doing and, you know, obviously ALPITA is out trying to raise money but 
+if you look at the debt structure it is obvious -- what we have to deal with in the next few months. We're not sure how 
+they do both. We talked about CapEx being historical lows. There's been clearly at the CapEx at the moment for the 
+
+
+DRAM world. No one has seen it this low before. But what's happening, is that there is not a lot of capital involved -change 
+that metric at the moment. And so when you look at bit supply coming from industry in general, we don't, you 
+know, we don't see that much activity that could happen actually any time in the next, call it probably one, two years. 
+
+Because -- part of the equation you have got to look at, assume the equipment guys and what's interesting there is, you 
+know, this downturn's has been obviously hard on us but it was particularly hard on them as well. They went to a model 
+where they enlarged part outsourced a lot of their manufacturing and really focused on the, you know, the technology 
+involved in design. And when you look at how that got outsourced it got outsourced to a lot of these very small -- I 
+don't want to characterize them as mom and pop shops but a lot of people with small business it is that were doing 
+specialty stuff color coding material and so forth. And this downturn had -- I mean, it -- these people, it is just gone. 
+24th don't exist anymore. That's where you read about these 50-year old business, 100-year old business. People just 
+gone. I actually don't think there is a whole lot of quick recovery in the equipment supply chain either. In the event that 
+there is some additional need for capital. And so I think it's -- you know, of course we all predict the economy. And we 
+can't as to what's going to happen there. But it doesn't take whole lot of demand in this environment to consume 
+whatever supply exists or -- [indiscernible] probably the next year. Mark, did you want to add a couple of comments. 
+
+<A>: Mark W. Adams: I wanted to add a couple more Micron specific things. Relative to Micron I commented on 
+previous calls I just want to reiterate. We can get a long way on relatively little capital at Micron. Primarily because a 
+lot of our capacity is relatively new and we feel like we have invested that capital pretty wisely so that, you know, on a 
+go forward basis, the leverage we can get in terms of technology migration is maybe a little bit better than others. And 
+in particular, I would point you to, you know, the scanner situation which I think is probably key bottleneck for the 
+industry generally and where a lot of the capital dollars are going today. We feel like we played that about right in 
+terms of positioning our capacity so that we have the minimal spend there relative to others. Having said that it is 
+probably going to limit the amount that the industry in general can spend. 
+
+<Q>: It is incredibly helpful. Thank you so much. Good luck. 
+
+Operator 
+
+Our next caller is Tristan Gerra from Robert Baird. 
+
+<Q>: Good afternoon. Can you provide an update on the manufacturing [indiscernible] in terms of ramp curve we can 
+expect the next few quarters? 
+
+<A>: Tristan, we're having a difficult time understanding you. Could you repeat the question one time please. 
+
+<Q>: Oh, sure. Apologize that the question -- if was already asked. Can you provide us with a -- [indiscernible] on the 
+manufacturing transition [indiscernible] and basically [indiscernible] production ramp the next few quarters. 
+
+<A>: Sure, this is Mark. Let me handle that and make sure I heard it properly. You know, if the question is how's the 
+transition amount INOTERA with a schedule for that generally. We're in pilot production now on our 50 and in 
+nanometer process. That is progressing smoothly. We're happy with the results in the module how those are coming 
+together. It is a mixed tool set so it is not a direct copy from Micron but so far we're not -- any show stoppers and we're 
+very encouraged with the way that's going. Our plans are to have our first real significant output in calendar Q1 and be 
+approximately 50% transitioned by the summer. As we move through the rest of the year it is likely we would complete 
+that towards the end of calendar 2010. 
+
+<Q>: Okay. And also could you remind us what percentage of your [indiscernible] production is going to be at 50 
+nanometer end of this -- year. 
+
+<A>: By the end of this calendar year, on a bit basis, I can -- this is Ron, I can tell you, Tristan, that you know, it was a 
+little bit under 10%. This latest quarter in terms of production. And it's going to approximately double in the next 
+quarter. Then it will ramp up some from there. But it will be a significant jump this next quarter. 
+
+
+<A>: Let me add, let me add one more thought on the technology transition. I spoke to 50 nanometer a moment ago it 
+is highly likely as we get into the summertime frame, we'll also be introducing a 4 X mode in midterm. 
+
+<Q>: Okay. So maybe about a quarter should -- [indiscernible] production at 50 nanometer by year end. Calendar year 
+end? 
+
+<A>: We think we heard you right. 10% in the current quarter we just reported doubling as a percent of total bits out in 
+Q1. 
+
+<Q>: Okay. Thank you. 
+
+<A>: You bet. Our next caller is Glen young from Citi. 
+
+<Q>: Just in response to one of your responses earlier. Is it safe to say that Micron does not view this period of low 
+capital spending by the industry as an opportunity to maybe get more aggressive here and try to take share? 
+
+<A>: Well, we, I think if you look at the numbers, we have been taking share. Over the last, I don't know how many 
+few quarters you want to try to measure it over. The low CapEx numbers, I think are reflective of the difficulty the 
+industry faced. Even though, you know, we're able to, increase our CapEx to some degree, I suppose we could think 
+about doing it more of it. But as Mark already noted, as you know from our CapEx, prior two years we're spending 
+quite a bit of money to position ourselves to have a pretty good leverage model. With respect to the rest of the industry, 
+most of them, they don't have any money. They just don't have any access to capital. And by the way, let me point one 
+more thing. And then you can jump back in. 
+
+The equipment financing market. The equipment leasing market was a huge part of what a lot of these companies did 
+when they went out and spent CapEx. They basically got the equipment companies in cooperation with the GD capital 
+guys and many quarry and those guys to finance it. 
+
+That market is just closed. There is no equipment financing available to anybody, and if you -- or if you were able to 
+find some it is incredibly expensive. So it's gone. It is just not available. If you can't generate the cash internally, and 
+you have not a very difficult time trying to raise the money obviously because of the shape some of these companies 
+are in and it's just not available. So I think that's why you are seeing in general the low CapEx numbers. 
+
+And if you are a company like Micron, we actually view it as pretty advantageous to be in the position we're in, not 
+having to spend a lot of CapEx and already being in the advanced -- mode which is the exact opposite of what a lot of 
+our competitors are facing right now. 
+
+<Q>: Okay. Thanks for that. Maybe a question on the demand side of the house. Thinking near-term about any effects 
+you may or may not be seeing from the pre Window 7 builds. As you think about next year and the potential for 
+windows 7 to be more a 64 bit operating system. What are your -- bit per box growth and is it accelerating because of 
+Win 7 or not? 
+
+<A>: Yes, this is mark. I think we have seen a later back to school drive a lot of that anticipation. We feel pretty good 
+about it going forward. 
+
+The type of growth we see in total PC bit per box is that may be you know mid 20s. An lot of that is -- the net book 
+business. The net book business -- architecture of that product. But we feel pretty good about it given the kind of 
+current results we're seeing today and what we're hearing from our customers. 
+
+<Q>: Right. Thanks a lot. And the last question is thinking about the, in between supply and demand how inventories 
+look to you. You made the point you grew a little bit of inventory on a unit basis in the quarter. What's your sense of 
+overall industry levels of inventory, what you see in the channel and your level of comfort with the visibility on it? 
+
+<A>: Well, my earlier comments and my message earlier was that it is pretty tight. We are, you know, when you see 
+inventory build, that you you are referring to earlier, it is around us making strategic decisions on serving key markets 
+and mix. 
+
+
+But the overall inventory in the channel is pretty tight. And it's causing us some problems, allocation how we serve our 
+customer base. 
+
+<Q>: Great thanks a lot. 
+
+<A>: Ron, I just might add one other point. And that is that our inventory on a volume basis was only mildly up. And 
+actually finished goods were down. As I mentioned our inventory turns are up significantly so I would characterize the 
+inventory movement as being more the production volume related to the business versus any build-up. 
+
+<Q>: Got it. Thanks. 
+
+Operator 
+
+Our next caller is Shawn Webster from JP Morgan. 
+
+<Q>: Yeah, good afternoon. Thank you for taking my questions. Can you share with us what your bit production for 
+DRAM and NAND was for your August quarter? 
+<A>: Sure. We had, we had DRAM bit growth about 20% in Q4. And NAND was up around 10%. 
+<Q>: 10%? Okay. Thanks. And on the -- so you were talking about just now the tightness in the channel inventory. Do 
+
+
+you guys have an expectation on when that tightness will be alleviated? 
+<A>: Right now, we can't see that far out. And we think the -- you know, our current supply output and demand profile 
+
+
+looks pretty tight, at least through the rest of the calendar year 2009, as best we can see. So I hesitate to try to guess on 
+that brakes. 
+<Q>: Okay. And then what are, what are the your early in customers telling you to expect in turns of PC DRAM bit 
+
+
+demand in calendar Q4 and maybe even calendar Q1 to the extent they have given you visibility there. 
+<A>: So on the demand side. 
+<Q>: Yes. 
+<A>: The PC -- ins are right in line with my earlier comment. We have had customers come back and ask almost 2 X 
+
+
+what their forecast was 60 days ago. That is causing tightness. It doesn't stop with PCs T our server business side has 
+been dramatically up from forecasting in July timeframe and networking bits is up. So it has been up all over but the 
+PCOMs are impressing upon us they need more in terms of output. 
+
+<Q>: Okay. And then on the pricing side, you said that if things stay flat with where they are today on pricing for, I 
+think both DRAM and NAND you said it would be up 5% or so. That, when you look at the spot in the contract pricing 
+that we observe on DRAM exchange and other sources it would suggesting something significantly higher than that. 
+Can you walk us through why you think it will be 5% versus 25% plus? 
+
+<A>: Sure. Shawn. Same as last quarter what we have done is quarter to date by -- we're not predicting it will only be 
+at 5%. Quarter to date it is at 5% and it really reflects the -- coming out of UNITERA which have lower core than 
+specialty memory do. 
+
+<Q>: Okay. And maybe one last one for me. On the wafer side, what is your wafer production do sequentially in Q4? 
+<A>: It was up low teens. Including -<
+Q>: Thank you very much. 
+<A>: Yeah, you bet. 
+
+
+
+Operator 
+
+Our next caller is Danielle Berenbaum from -- USA. 
+
+<Q>: Thanks guys it is from UREGA. Quick question on cost reduction for the year. I think a couple of questions 
+danced around this. But would you care to talk about how much you can reduce cost on per bit basis on DRAM and 
+NAND other the over the course of the next 12 months. 
+
+<A>: Not at this time. We're going to keep you on quarter to quarter basis for now. 
+
+<Q>: Okay. Would you expect to be better or worse than industry average cost reduction and is there any reason we 
+should think about things a little differently for Micron versus your competitors. 
+
+<A>: Yes. It is tough to know exactly what our competitors are going to do. But if I were to going to venture a guess on 
+that I would say we're probably going to be better on both counts. NAND and DRAM. 
+
+<Q>: Is there a reason why you will be about better can you be more specific. I would love to give you credit but I got 
+to pull that string. 
+
+<A>: If we move it, as this alluded to -- we think that's a significant sell size reduction and could drive out-performance 
+on NAND cost per bit reductions relative to competitor. We many heard anecdotally struggling a little bit on the shall 
+[inaudible]. We had a significant decrease coming out of [indiscernible] and we think that will drive out-performance 
+on [indiscernible]. 
+
+<A>: 
+
+<Q>: Thanks. Back on Aptina. How should I think about revenue and maybe you could give guidance even one quarter 
+out for the Aptina segments either in pricing or units or both. And then how is the revenue that's going to be 
+consolidated now, I mean, the revenue that is Micron revenue, the sell in of the units to the spin-off, is that a break even 
+business? You know, what's kind of the structure there. And do I -- model that revenue trailing off at some point or 
+how should I think about that moving forward? 
+
+<A>: Well, let's see. I'm going to let Ron, answer, I think, somehow we account for it. Essentially think of that 
+converting from a component sales business to a wafer selling business. So we're still mastering the wafers. 
+
+And we sell to the partnership on a wafer basis. And that -- like you would expect, another -- arrangement. That pricing 
+will vary on volume. But that's how we're going to account for it. And in terms of forecasting the revenue, that's hard 
+for us to do, because -- nobody really forecast much revenue with much accuracy because of volatility. Now, remember 
+it is season for them right now. So we would expect this quarter we're in right now to be seasonally strong. What 
+happens after that will depend upon what happens in, I think primarily the consumer market. So we're going to know, 
+you know, the search what happens -- but we are manufacturing the wafers and we're selling them on a wafer basis. So 
+I think our revenues won't fluctuate as much as you might think over, or expect them to had we be selling the end 
+product to the customer because we're selling on a wafer basis. They may fluctuate based on volume changes but not 
+based on pricing or margin changes. -- did you have any to add on that. 
+
+<A>: Yes. Daniel this is Ron. In terms of projection, obviously we're a supplier to Aptina now so they are working the 
+volumes and we're delivering supply to them. As Steve mentioned if you look at the structure, two out of the last three 
+months of this last quarter, we were on a foundry basis. So quarter this last quarter in terms of the structure is 2/3 of the 
+way to what you would expect to see which is somewhat lower gross margin if you will, and also correspondingly 
+lower OpEx both in R&D and SG&A which has been told to the Aptina operation. So we're 2/3 of the way there in the 
+fourth quarter and going into first quarter are it would be a full three months worth. But a similar kind of construct 
+would play out. 
+
+<Q>: Okay. Great. And then one just longer term question. I mean, when you talk about guiding for CapEx, the 750 to 
+850 million and obviously fiscal '09 came in a little bit lower than expected. A lot lower -- in terms of CapEx to sales 
+than it was in fiscal '06/fiscal '07. How do you think what a sustainable capital intentionity -- level is for Micron and 
+
+
+more broadly for the memory industry? 
+
+<A>: Well, the, I think fundamentally, the answer to that question is primarily associated with how long do you think 
+the equipment will be -- what's a useful life of the equipment. We had done studies historically in the -- industry and 
+that number was in the neighborhood of 3.6 to 3.8 years. And so that means you, in general will have a capital 
+replacement every 3.6 to 3.8 years. So you can do the math and that says that you need to spend 20% of your revenues 
+or somewhere in that neighborhood to continue to stay up with -- current. That curve, I think most people think that that 
+curve is probably slowing. 
+
+And that a lower CapEx number will sustain, you know, a nor useful life if you will on the equipment -- longer. It is 
+hard for us to know exactly what the number S if you look at the data on average that number we're hitting a historical 
+low this year. Probably in the neighborhood of maybe, 11, 12%. At least for the memory industry. I'm speaking about 
+the memory industry, not the broader industry. 
+
+And you know, you -- [indiscernible] high end, 22, 23%. You know. And being -- being overspent. I think you would 
+expect it to settle out somewhere in between. You know in our particular case you can run the math and obviously we 
+were down, too, like everybody else. 
+
+But yeah, I think in general, the precise answer is going to be dependent upon how long the useful life in equipment is, 
+you know and how long it takes to us make these generation switches. 
+
+<Q>: Okay, great. Thanks. That's helpful. 
+
+Operator 
+
+Our next caller is Vijay Rakush [ph]. 
+
+<Q>: Just a couple of questions. Wandering what the bit growth should be for NAND and DRAM as you look at the 
+next quarter here, and also what were the licensing revenues for the August quarter and where do you see that as you 
+look at fiscal '10. 
+
+<A>: So, the first part of that I think we're looking at up mid 20% for DRAM and mid to high teens on NAND bit 
+growth. And I don't think any of us caught the second part of your question. 
+
+<Q>: Just the licensing -- where it was for August quarter and how you see licensing kind of going -- [indiscernible] 
+picks up. How you see that for fiscal '10. It? 
+
+<A>: Vijay, this is Ron. We had $34 million in licensing revenue in the fourth quarter. 32 million in the third quarter. 
+That was related it to technology fees. Going forward we expect to see ongoing technology fee licensing as we have 
+seen here in recent quarters in '09. In addition, as we migrate in owe Tara stack technology there will be licensing fees 
+coming along on a volume basis or per unit basis related to the ramp of it that production used by others. So that would 
+come on at the -- technology transition occurs as Mark articulated earlier. 
+
+<Q>: Got it. And as you ramp in your data and -- [indiscernible] what do you see as a stable OpEx level for Micron, as 
+you -- call next couple of quarters here. 
+
+<A>: Well, we said that -- this is just historically. We said we think -- in a normalized market, not one that rapidly 
+increase and not one rapidly declining. We think an OpEx model that would be benchmark is somewhere in the 15% 
+range total. [Range] tan is that will be split between SG&A and R&D at this point in time. But essentially think of it as, 
+I think -- in the neighborhood of, call it, 10, 11% on R&D and maybe 5% on SG&A and the combination being 15% 
+benchmark. It was tough to achieve that with obviously falling revenues. But we think that again is probably the right 
+level of benchmark for the industry. 
+
+<Q>: Got it. Okay. And moving on to the NAND side you said the 30 nanometer transition going on -- industry. Where 
+do you see -- nanometer output in March, June quarter of next year. Where should that be as person -
+
+
+
+<A>: I think we're going to hold off on any output numbers relative until we see how the ramp -- [indiscernible]. 
+
+<Q>: Okay. Great. Thanks a lot, guys. 
+
+Operator 
+
+Our next Q&A is Uche Orji. 
+
+<Q>: Thank you very much. I hope you can hear me. I'm still very sure I'm convinced as to why bit box will not 
+[indiscernible] near-term come down. Now I understand that there is a supply shortage. But at the same time, we have 
+seen back-to-school numbers t PCss are coming down N accurate where market is rising -- so, you know, how 
+vulnerable should we think about your -- comments in the light of the fact that your OEM margins are struggling. And 
+and if you don't think vulnerable what components do you think are vulnerable that can provide -- OEM that may be -[
+indiscernible] because of declining [indiscernible] that's my first question. 
+
+<A>: Let me make sure I summarize and turn it over to mark for the answer. It sounds like you are interested in the 
+bomb. So the cost of memory today versus maybe historical and is there something penning that might trigger that. And 
+B, kind of the general role question is convincing you of the growth of memory per box. Is that -
+
+
+<Q>: That is correct. That is correct, thank you. That's correct. 
+
+<A>: Maybe on the bomb, where's Steve. There is a, I think a couple of ways to look at it. One is, there is no question 
+that the memory comp in the box even today is lower than it has been in the prior few years it was one year 8, 9% 
+range. Today it is more around the 4 and 5% range. If you look at net books it is 3 or 4%. And in the desk tops, you 
+know, characterize, something in the 5%. But if you go back to the '06, kind of '05, '06 seven times it was up 8%, 9%. 
+So the economy -- where the economy -- margins are struggling. So, you know, what's the appetite to keep it where it is 
+at today or have it slightly go up. I don't s you know, I don't know of course -- I think it is segment-dependent and 
+customer dependent. And you know, is I think more predicated on -- [indiscernible] you look at enterprise guys doing 
+pretty well as compared to guys on the consumer segment. I guess I'll turn it over to Mark and have him comment on it 
+that. 
+
+<A>: The other only other comment I would make is while we have seen some positive movement from a pricing 
+standpoint, you have got to, you know -- go back a year ago, last August. And we're still not at the crisis of that level. 
+And the dense -- box was slightly below where it is today. So before we overreact to increasing pricing on DRAM per 
+box, I think it is fair to say we're right where we were a year ago and certainly -- improved cost around [indiscernible] 
+but I don't think we're seeing a dramatic shift away from densities. I think it is a little ahead of ourselves here and I 
+think that certainly from the demand side, all the signals we're getting are consistent with that. 
+
+<Q>: All right. That's helpful. Let me ask you a different question. If I look at the inventory comments you have made. 
+Obviously looks like the OEMs ODMs may not have a lot of inventory. Can you tell me what's happening, what your 
+view is -- internet -- I'm talking about module guys, distributors, all the DRAM companies and OEMs. Can you give 
+me a comment it is a to what your -
+
+
+<A>: Sure. Sure. My sense is that given the pressure on the OEMs, what you are referring to is kind of the after-market 
+channel. That's even tighter because the OEM are getting preferential treatment in most cases. So my suspicion is that 
+the after-market module makers, card makers are in a tighter position and thus one of the reasons why you see us stock 
+market pricing higher than where the OEM prices are. 
+
+<Q>: Right. Right. Okay. And then just finally, you know -- [indiscernible] in terms of availability of the equipment. 
+You know and your ability to spend the CapEx. Especially -- [indiscernible] comment about, you know -- times and 
+delays in delivery of equipment. Is this a concern for Micron? 
+
+<A>: It is not a concern for us currently. As we, you know, we have got a pretty good forecast out there and good 
+relationship with our suppliers. So we think we have got the slots we need to execute to our plan. I would say, you 
+know, for people coming in now, with new plans and trying to get new slots, you know, it's not going to be easy 
+
+
+because there is, that is a constraint in the marketplace. 
+<Q>: Thank you very much. 
+
+Operator 
+
+Our next caller is Hans Mosesmann of Raymond James. 
+
+<Q>: Most of my questions have been answered. But the one regarding the situation, or the situation regarding 
+shortages I think Mark may have mentioned there are some shortages. Can you explain, give more granularity in what 
+was in shortage, was it DDR 3, NAND, what flavors and so on. Thanks. 
+
+<A>: Sure. So I think where we have seen shortages early on was in some of the, especially in server market 
+opportunities. And what we have seen lately has been consistent that staying course where we real tight there but then 
+pretty heavy request for some DDR 2 parts from one of our commodity side. On the DDR 2, started out with DDR 3 
+and DDR 2 has caught up a bit. On NAND beside it has been really tight. You see a little more uptick both on the 
+mobile side of the business. And I would suggest that, you know, Mark's -- has the healthy of all the segment and that's 
+where box on NAND has driven appetite and couple situation but for us the board has been really taught TDDR first 
+TDDR 3 caught up to it. The NAND side has been more consistent. Little more consistent throughout the back half of 
+the year. 
+
+<Q>: Okay T thanks. And then one last one. DDR 3 in terms of Micron's overall mix and how does that compare to 
+industry mix. And that's it, thanks. 
+
+<A>: So of our core commodity DRAM parts, DDR 3 comes in about 35%. And it's good top note though that that's 
+still a pretty, you got a factor in the inTara piece of that would have been higher Pre Inotara [ph]. If you are going back 
+a quarter and looking that in, tough to factor that in. 
+
+<Q>: How does that compare to industry mix. 
+
+<A>: I think ours is -- my sense is, based on our Mark channel is, our mix is significantly higher than our competition. 
+
+<Q>: Okay. Fair enough. Thanks. 
+
+<A>: Sure. 
+
+<Q>: Our next caller is Bob chivaridy from Deutsche Bank. 
+
+<Q>: I was curious -- in Singapore. You mentioned Inotara [ph] was underutilization. How about Singapore side will 
+that be relatively constant or how do you see that coming up. 
+
+<A>: We're fully utilized in Singapore and have been we're continuing to equal a few more wafers out as we optimize 
+[indiscernible] equipment utilization, et cetera, but that has been running fully utilized. Relative to IMF much S that fab 
+is in idle state. 
+
+<Q>: For that we can think of modest underutillization continuing the next quarter or two. 
+
+<A>: Yes, it is empty. And it will stay that way for sure for a quarter. 
+
+<Q>: Okay. 
+
+<A>: It takes a lot longer than that if we already had things in place. 
+
+<Q>: Fair enough. Just a quick question about what your view is about Fungible capacity between Dand and RAM. 
+Given the technology each is on. But could you talk a little bit about, if that's an issue that affects supply and demand 
+across DRAM and NAND now and for Micron and the industry. 
+
+
+<A>: You know, I think it is still possible to flex capacity back and forth with enough lead time the plan. And that's a 
+relatively small amount of capacity. It is not sort of wholesale plans that people would be table to switch back and 
+forth. Because there is, you know t a significant divergence I think as we move to more advanced modes in terms of the 
+tool sets that are applied. So while you know -- you may be able to flex small amounts of capacity to take advantage of 
+market opportunities. Running both in the same -- as we do in Virginia. It is a relatively limited opportunity. 
+
+<Q>: Great. Thanks a lot. 
+
+<A>: With that we have time for one more call. 
+
+Operator 
+
+Our final question is from Bill Velum [ph] from capital title development. 
+
+<Q>: I'm going to try to make it two questions, please. The first one I think you may have partially addressed before 
+because I don't have -- feel I have great clarity still yet. This quarter you had mid $60 million CapEx run rate. And if 
+we take the mid point of your fiscal '10 CapEx of 800 million that's roughly 200 million on quarterly basis. And you 
+said it would ramp as the year progressed. What is it that you are going to be doing with that significant increase in 
+capital as the year progresses? And secondarily, I think Steve -- Mark to talk about Taiwan since you were just there 
+and we would like to hear your insights as to where the various companies are at in the process of thinking about 
+consolidation or not. And how the government is thinking about it also. 
+
+<A>: All right. I'll take the first part Bill and I'll let Steve take the second part. 
+
+<Q>: Relative to CapEx, I think first of all, I think, the 60 million in the current quarter is probably a slight aberration 
+and abnormal depression relative to sort of the ongoing spin we have been experiencing. But having said that, where's 
+the money going? It's probably likely 1/3 to NAND and 2/3 to DRAM. The -- and it's, the vast majority is around just 
+moving technology forward to either 2 X mode on NAND or 5 X or 4 X node on DRAM. And in terms of where that 
+spend is going as I've alluded to, you know, the advance step or takability -- is expensive and adds up quickly. So that's 
+a significant piece -
+
+
+Well, you know, if you want to take the second part, too. Relative to what's going on in, you know, the competitive 
+arena, you know, I think clearly in Taiwan, everyone pretty much back on hair heels with the exception of our partners 
+who I think have renewed energy at think look how the technology deployment is going I think they feel pretty good at 
+that and you can look for a resurgence -- INOTERA and in -- [indiscernible] high mix they clearly have spent some 
+capital. Whether they can get efficient use of that I'm not 100% convinced yet but you guys probably have a better read 
+on that than me. And LP, I think is very challenged relative to their technology position. -- [indiscernible] is always a 
+very strong competitor. 
+
+Bill it is probably worth adding that you know, both -- [indiscernible] were talking to a lot of the investment 
+community, our most recent financing -- I would comment the time I think it is even more so now that it doesn't appear 
+that there is some grand, large activity that's going to happen in Taiwan, you know, that the government participating in 
+terms of supporting all these companies and trying to figure it all out. [indiscernible] for any dollars. So as Mark said 
+we feel great actually about the relationship we have and what we have got going there. We think that's clearly going to 
+emerge as the leading entity in Taiwan for, you know, for many manufacturing and the debtors are significantly 
+challenged in this environment and will likely continue to be for quite some time. 
+
+<Q>: With that in mind are you inclined to be thinking that the corporate activity within Taiwan has already taken 
+place meaning that your tie-up with INOTERA and INANIA and nothing else is going to take place for now? 
+
+<A>: Well, I think that's -- I'll let you make those comments Bill. It is hard to speak on behalf of the Taiwan east 
+government. But I think the recent investment in LP and the Chinese government and the solid relationship we have 
+with NANIA and fermosa [ph] and Taiwan. That entity is viewed as -- solution for Taiwan in terms of having access to 
+development technology -- and there is less if any other need to do something else. There might be something -
+
+
+
+[indiscernible] scale. So I think that's, I think that, you know, is probably a pretty good base to think about it. 
+
+<Q>: That's helpful. I would like to follow up, Mark, in terms of the comments that you made relative to your CapEx. 
+And also, tying that in with comments that have been Madame sporadically throughout this call. Would it be fair 
+[made] would it be fair to say you are believing over of the course of the next year you will be improving your 
+competitive position relative to where you are at today versus the industry both on the DRAM and the NAND side of 
+the house. 
+
+<A>: Yes that would be my view. 
+
+<Q>: Thank you both. 
+
+<A>: Thanks Bill. With that Woo would like to thank everyone for participating on the call today. If you will please 
+bear with me of I need to repeat the safe during the course of this call we may have made forward-looking statements 
+regarding the company and industry. These particular forward-looking statements and all other statements that may 
+have been made on this call that are not historical and actual results may differ materially. For information on the 
+important factors that may cause actual results to differ materially please refer to our filings with the SEC includes the 
+companies's most recent 10-Q and 10-K. Thank you for joining us. 
+
+Operator 
+
+Thank you. This concludes Micron Technology fourth quarter and fiscal year end 2009 financial release conference 
+call. You may now disconnect. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2009, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

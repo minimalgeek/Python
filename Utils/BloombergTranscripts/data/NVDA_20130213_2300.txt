@@ -1,0 +1,708 @@
+Q4 2013 Earnings Call 
+
+
+Company Participants 
+
+• Robert Csongor 
+• Karen Burns 
+• Jen-Hsun Huang 
+Other Participants 
+
+• Betsy Van Hees 
+• Steven Eliscu 
+• Christopher Caso 
+• Doug Freedman 
+• Blayne Curtis 
+• Kevin E. Cassidy 
+• Shawn R. Webster 
+• James E. Schneider 
+• Patrick Wang 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon. My name is Andreca and I will be your conference operator today. At this time I would like to 
+welcome everyone to the NVIDIA Fourth Quarter Earnings Conference Call. All lines have been placed on mute to 
+prevent any background noise. After the speakers' remarks there will be a question-and-answer session. [Operator 
+Instructions] Thank you. 
+
+I would now like to turn the call over to your host, Mr. Rob Csongor. Sir, you may begin your conference. 
+
+Robert Csongor 
+
+Thank you. Good afternoon, and welcome to NVIDIA's conference call on the annual and fourth quarter of fiscal 2013 
+results. With me on the call today from NVIDIA are Jen-Hsun Huang, President and Chief Executive Officer; and 
+Karen Burns, Interim Chief Financial Officer. After our prepared remarks, we will open up the call to a 
+question-and-answer session. Please limit yourself to one initial question with one follow-up. 
+
+Before we begin, I'd like to remind you that today's call is being webcast live on NVIDIA's investor relations website 
+and is also being recorded. A replay of the conference call will be available via telephone until February 20, 2013 and 
+the webcast will be available for replay until our conference call to discuss our financial results for our first quarter of 
+fiscal 2014. The content of today's conference call is NVIDIA's property and cannot be reproduced or transcribed 
+without our prior written consent. 
+
+During the course of this call, we may make forward-looking statements based on current expectations. These 
+forward-looking statements are subject to a number of significant risks and uncertainties and our actual results may 
+differ materially. For a discussion of factors that could affect our future financial results and business, please refer to 
+the disclosure in today's earnings release, our Form 10-Q for the quarterly period ended October 28, 2012, and the 
+
+
+reports we may file from time-to-time on Form 8-K filed with the Securities and Exchange Commission. 
+
+All our statements are made as of today, February 13, 2013, based on information available to us as of today and except 
+as required by law, we assume no obligation to update any such statements. Unless otherwise noted, all references to 
+market research and market share numbers throughout the call come from Mercury Research or Jon Peddie Research. 
+
+During this call, we will discuss non-GAAP financial measures. You can find a reconciliation of these non-GAAP 
+financial measures to GAAP financial measures in our financial release which is posted on our website. With that, let's 
+begin. 
+
+We are pleased to report a record year for the company. Despite significant headwinds, we achieved record annual 
+revenues and gross margins for fiscal year 2013. Excluding chipset revenue, which we exited, we grew our GPU 
+business 8% last year and for the third consecutive year. We increased overall GPU market share from 53% to 65% and 
+our notebook share by almost 20 percentage points from 47% to 66%. 
+
+Tegra, Tesla, and notebook GPUs all achieved record revenue. We invested in new growth products that are now 
+sampling, including Tegra 4 i500 4G LTE modem, Project SHIELD and GRID while controlling OpEx at target for the 
+year. 
+
+This year, we transitioned Kepler across our GPU businesses. Gaming was a key area to benefit. Massively multiplayer 
+games or MMOs continued to drive a robust PC gaming market. Worldwide MMO revenues grew 21% last year to $13 
+billion according to market research firm, Newzoo. And GeForce is the gamers' choice of GPU by a margin of almost 2 
+to 1 according to gamers on Steam. 
+
+Our notebook share is near our record high. Kepler is also starting to shift into Quadro with revenues up 10% this 
+quarter. With Tesla, we are leveraging GPUs beyond graphics into massively parallel processing and supercomputers. 
+Just three years after we entered the market, 50 of the world's top 500 fastest computers are now powered by NVIDIA 
+GPUs, including the fastest and the most energy-efficient. 
+
+We introduce NVIDIA GRID visual computing appliances. GRID is a first of its kind graphics system that serves 
+graphics' intensive applications to many concurrent users at once. One of the major applications is cloud gaming. More 
+than a dozen cloud gaming trials are up and running around the world and others will be announced by more telcos as 
+the year progresses. 
+
+At CES, we announced Tegra 4, the world's fastest mobile processor. It is the first 4-PLUS-1 quad-core A15 processor 
+with an extra energy saving core and 72 graphics cores compared with Tegra 3's 12 cores. It delivers the world's fastest 
+web-browsing performance and new, always-on high-dynamic range computational photography. At this point in time, 
+we already have more design wins with Tegra 4 than we had in total with Tegra 3. 
+
+We see significant new growth opportunities in the LTE-connected device market which is projected to be 150 million 
+units in 2013 and growing at 50% a year. We are now sampling our i500 4G LTE multi-band multimode voice and data 
+modem. More efficient and 40% the size of conventional modems, i500 delivers four times the processing capability of 
+its predecessor. This is the first result of our Icera acquisition. Icera is the first company to successfully create and 
+commercialize a software-defined radio modem and has been building modems since 2006. 
+
+And we announced Project SHIELD, an NVIDIA-branded open platform gaming device. A pure Android device 
+connected to the Google Play Store and TegraZone, Project SHIELD is able to play any Android application and game 
+and can also stream PC games from a nearby GeForce GTX PC. Powered by a Tegra 4 processor, Project SHIELD 
+integrates a five-inch Retina Display, a console-grade game controller, and a first mobile tuned port bass reflex 
+speakers. We believe SHIELD will be attractive to modern gamers who want to play on open platforms and have great 
+gaming experiences while tethered to their TVs or PCs. 
+
+SHIELD will enhance the strategic position of Tegra. Besides highlighting the capabilities of Tegra, SHIELD will 
+attract great games to TegraZone, which can then be enjoyed on every Tegra powered device. TegraZone has already 
+been downloaded 6 million times. 
+
+
+Looking forward, our company is shifting gears to accelerate. Our GPU business remains strong while we extend our 
+visual computing technology leadership. Tegra 4 is ramping into production for mobile devices this year, while 
+growing into embedded devices such as cars and gaming devices. We will engage the LTE-connected devices market 
+aggressively this year. And we will add new system products incorporating our processors and software, the NVIDIA 
+GRID graphics appliance, and SHIELD Android gaming device. We are excited by the investments we are making into 
+these very large markets where our expertise in visual computing can make unique contributions. 
+
+With that, let me turn the call over to Karen. 
+
+Karen Burns 
+
+Thanks, Rob. NVIDIA had record revenue for the year of $4.3 billion, up 7% from fiscal 2012. At the start of the year, 
+we set out a number of financial objectives. It's satisfying to note that we achieved many of them. Among these goals 
+were the following: gain share in our GPU business. Driven by the introduction of our new Kepler architecture, we 
+gained share in both desktop and notebook and delivered record revenue for our notebook products. Grow Tegra 
+revenue at least 50%; revenue for Tegra products sold into smartphones and tablets increased by $181 million to a 
+record $541 million, up 50% year-on-year. Grow Quadro and Tesla revenue; revenue for Tesla products increased 37% 
+year-on-year as we shipped our first Kepler products, Tesla K10 in Q3 and Tesla K20 in Q4. 
+
+Quadro revenue was down roughly 6% year-on-year. In October, we shipped Quadro K5000, our first Kepler-based 
+Quadro product in limited volume. This year, we will launch Kepler for Quadro and volume top-to-bottom into the 
+professional market. We expect Kepler for both Quadro and the Tesla to do very well. Exit the year with gross margin 
+of approximately 52%; we exceeded our target exiting Q4 with a gross margin of 52.9% and non-GAAP of 53.2%. We 
+had record gross margin for the full-year with GAAP gross margin at 52%, up 60 basis points from the previous year, 
+and non-GAAP gross margin, up 52.3%, up 40 basis points. 
+
+Manage our OpEx investment at approximately $1.56 billion on a GAAP basis and $1.4 billion for non-GAAP. GAAP 
+OpEx was $1.58 billion, up $20 million from our original expectations. This was due to a $20 million expense for a 
+corporate donation made in the second quarter. On a non-GAAP basis, which excluded this $20 million charge, as well 
+as stock-based compensation and acquisition-related costs, we successfully managed to our target of $1.4 billion. 
+
+Before moving on, I'd like to provide more background on OpEx as we continued to invest in our key growth strategy. 
+Our OpEx is comprised primarily of employee-related costs. This includes compensation and benefits, as well as other 
+related expenses and supporting costs largely infrastructure for facilities and IT equipment. GAAP and non-GAAP 
+OpEx were both up 12% from fiscal 2012. Of the year-on-year OpEx increase for GAAP, 86% related to these 
+employee-related costs, 12% to a contribution expense or corporate donations, and 2% related to all other costs. 
+
+With non-GAAP OpEx excluding the contribution expense, as well as stock-based comp and acquisition related costs, 
+which were flat year-over-year, 98% of the increase came from employee and supporting infrastructure costs. The 
+remaining 2% related to all other operating expenses. 
+
+We are investing in the new products and major growth opportunities Rob talked about. Icera i500, [ph] Project Gray 
+
+(11:55) and SHIELD and NVIDIA GRID. We added about 840 new staff in fiscal 2013 giving us a total of nearly 
+8,000 employees at the end of the year. Of our new staff, 88% joined our engineering teams, 12% joined our operations 
+and SG&A organizations. 
+We also invested in an annual pay increase for existing employees and began a 401(k) match in Q4. We believe our 
+focused investment and our growth strategies and our core businesses are critical to our future growth. 
+
+Now onto revenue by business segment for the full fiscal year. Beginning this quarter, we changed our financial 
+reporting segments to reflect the way we are now managing our business. We now have two primary reporting 
+segments, GPU and Tegra Processor. This new segmentation recognizes that we have two fundamental technologies, 
+GPUs and SOCs, which we leverage across several markets under different brands. 
+
+
+Revenue for the GPU business, which includes GeForce, Quadro and Tesla-based GPUs was at 2% year-on-year. This 
+increase was achieved despite $173 million decline in chipset products, which we discontinued. Excluding chipset 
+product revenue, our GPU business grew 8% representing our third consecutive year of GPU growth. 
+
+Revenue for the Tegra Processor business was up almost 30% from the previous year driven by the 50% increase in 
+revenue for Tegra sales shipped into smartphones and tablets including WinRT devices referenced earlier. 
+
+Full details of our new reporting segments, as well as historical revenue segmentation can be found in my CFO 
+commentary posted on our website. Now I'd like to talk briefly about the fourth quarter. Apart from our tax rate, Q4 
+results were in line with our expectations at the beginning of the quarter. Revenue was $1.11 billion, down 8% 
+sequentially, and up 16% year-on-year. Gross margins remained at record levels. GAAP gross margin was 52.9%. 
+Non-GAAP was 53.2%. 
+
+Operating expenses were $402 million for GAAP and $360 million for non-GAAP. GAAP and non-GAAP tax rates 
+were both below our expectations at roughly 7% in Q4 as we benefited from the extension of the U.S. research tax 
+credit. Extension of this credit was enacted during our fourth quarter bringing our effective tax rates down for the year 
+to roughly 15% for GAAP and non-GAAP, in line with our outlook with the inclusion of this credit. 
+
+Turning to the balance sheet, our position remains strong in the quarter and throughout the year. Cash increased each 
+quarter reaching a record $3.73 billion at Q4, up 9% sequentially, and up 19% on fiscal 2012. In Q4, we initiated 
+quarterly cash dividends and extended our share repurchase program. We returned $147 million of cash to shareholders 
+in the quarter with $100 million of stock repurchased and $47 million in dividends paid. 
+
+Accounts receivable at Q4 was up $9 million over the prior-quarter on slightly less shipment linearity. Conversely, 
+inventory was down $9 million from the prior quarter at $420 million. Regarding the first quarter outlook, for fiscal 
+2014, our expectations for GAAP are as follows. Revenue is expected to be $940 million plus or minus 2%. We expect 
+revenue for the first quarter to be less than Q4 reflecting lower GPU sales in line with expectations for the PC industry 
+and lower Tegra sales as customer devices based on Tegra 3 ramp down ahead of Tegra 4 production. 
+
+We expect gross margin of approximately 52.9%, flat from Q4. OpEx of approximately $430 million and a tax rate of 
+approximately 16% plus or minus 1%. We expect the same for the annual effective tax rate for fiscal 2014. For 
+non-GAAP we expect the following differences from our GAAP outlook. Gross margin of approximately 53.2%, flat 
+from Q4 and OpEx of approximately $395 million. This excludes stock based compensation and certain charges related 
+to acquisitions in the aggregate of approximately $35 million. 
+
+The increase in OpEx for Q1 over the fourth quarter is primarily due to the employee related costs including planned 
+hiring for our key growth businesses with the addition of a large FICA tax reset that occurs each first quarter. 
+
+Depreciation and amortization are expected to be in a range of $59 million to $61 million and capital expenditures of 
+$55 million to $65 million. Diluted shares are expected to be approximately $619 million. 
+
+Lastly, we will pay our next quarterly cash dividend of $0.075 per share in the first quarter of fiscal 2014. On an annual 
+basis, this is equivalent to $0.30 per share and approximates an annual yield of about 2.4% based on yesterday's closing 
+price of $12.43. 
+
+That concludes our prepared remarks. We will now take questions. 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions] Your first question comes from Betsy Van Hees with Wedbush Morgan Securities. 
+
+<Q - Betsy Van Hees>: I was wondering if you could help us understand in terms of the guidance from the revenue, 
+which business segment – is it going to be equally down as a percentage basis? Or is one going to be down more than 
+
+
+the other in your reporting segments? 
+
+<A - Karen Burns>: So as I mentioned, we expect that our GPU business will be down very much in line with the PC 
+industry. And as you know, Intel, AMD and other companies have already disclosed. And then the other component 
+will be Tegra related, which will be larger, and that again is the transition effect from before from T4 – from T3 to 
+Tegra 4. 
+
+<Q - Betsy Van Hees>: Okay. Thanks very much. And so my follow-up question has to do with OpEx. That's a pretty 
+big jump up in the GAAP OpEx, $430 million from your $402 million, and then your $384 million in the prior quarter. 
+So, as we are looking at the July and October, are we going to see OpEx sort of flattening out? Or are we going to 
+continue to have these incremental increases? And I was wondering if you could help us a little bit with the OpEx? 
+
+<A - Karen Burns>: Sure. So, as you saw last year, we had a similar jump, and we have it every first quarter. As I 
+explained, it's really the FICA tax reset that hits us hard in the first quarter. And just like in fiscal 2013, OpEx levels off 
+for the rest of the year. So we expect a similar type of impact this year. 
+
+<Q - Betsy Van Hees>: Okay. Thanks for answering my questions. 
+
+Operator 
+
+Your next question comes from Steven Eliscu with UBS. 
+
+<Q - Steven Eliscu>: Yes. Thank you. Last year just more specifically you gave us full year guidance for both OpEx 
+and the percentage growth on Tegra, which was very helpful in terms of thinking about where NVIDIA was going to 
+land in fiscal 2013. Slide 12 in your presentation talks about your growth drivers. Can you give us a sense as to what 
+Tegra will grow the OpEx number? And just review some of those other growth drivers, so we have a sense as to where 
+you'll end out for the full year? 
+
+<A - Jen-Hsun Huang>: Steve, first of all, thank you. I think – we haven't decided yet whether to guide full year or 
+not. At the moment we've decided to guide a quarter out. And to tell you the truth I' not sure how helpful it was to all of 
+you that we guided the whole year. And so I think that at the moment we are still thinking through it. But some of the 
+comments that you heard related to, and Rob's comments, were that specific to Tegra that at this point we have more 
+design wins than we had at this point with Tegra 3. You also heard that we're now sampling our 4G LTE modem, and 
+this is a pretty large market. It's still early in the modem – overall modem market. There's about 150 million units large 
+projected this year, growing about 50% per year. The overall connected device market is probably about 1 billion – 
+north of 1 billion units. And so, there's still a lot of LTE 4G modems that need to be shipped. And this is really the first 
+year where we have the ability to engage that market, so we're really super excited about it. We're going to engage it 
+very, very hard, and we're sampling modems around the world now. 
+
+And so, those are good growth indicators for Tegra 4, with the first quarter, always, we ramp down Tegra 3 as we ramp 
+up Tegra 4. And hopefully in the future, as we get more and more into lower-end devices where the lifecycle is a little 
+longer, this transitional effect would be a lot – would be less pronounced. But this is something we expected and it's 
+something that we'll transition into Tegra 4 as fast as we can. 
+
+<Q - Steven Eliscu>: Well, and as far as feedback, as far as the guidance, the first time you provided it, it was probably 
+a bit premature. But when you provided it a year ago for fiscal 2013, it was extremely helpful, so we appreciate that. 
+Just as a follow-up question here, we've heard about one of your primary competitors in the ARM processor area talk 
+about cleaning clocks of Tegra. Can you give us a sense as to, given some of the slippages that the trade press has 
+reported with Tegra 4, that – how – to give us confidence that indeed, you will be able to maintain a performance 
+leadership when we see Tegra 4 come out? 
+
+<A - Jen-Hsun Huang>: Well, I guess I won't comment on his comment. And I don't know how he could possibly 
+know the performance of Tegra 4. No one outside the company knows the performance of Tegra 4. And so, that's 
+number one. I'll refrain from going any further. I'd like to. But with respect to Tegra 4, I guess you're just going to have 
+
+
+to wait just a little longer, not much longer, and you'll see performance evaluations of Tegra 4, and I think you'll be 
+quite pleased with them. Tegra 4 is many times higher performance than Tegra 3 in many areas. And it's designed to be 
+very high-performance. There's a lot of confidence in why we can deliver that performance leadership. We said that 
+about Tegra 3, and I think we delivered on that. This is an area that we're quite good at. So whether it's CPU 
+performance or GPU performance or camera performance, these are three areas that we've made big breakthroughs on. 
+
+But the two areas that are super-important to our customers have to do with the battery life that we can sustain, despite 
+the fact that our performance is really high. And it has to do with two very unique features. One is our 4-PLUS-1 
+energy-saving core. We invented this technology, and we're still the only company in the world shipping this 
+technology. And none of our competitors has this technology as of yet, although some of them are talking about it in 
+the future. Second, it's a technology that's related to modulating the backlight on a per-pixel-per-frame level, that is 
+something that's very unique to Tegra, and it saves hundreds of milliwatts. Because as you could imagine how much a 
+display backlight consumes, it's getting higher and higher, because the resolutions are getting higher and the displays 
+are getting brighter and people expect more from their display. This is a technology that is quite unique to us. And this 
+is where, with Tegra 4, we have our second generation of that. 
+
+And so we've introduced not only performance capabilities, but as well as battery-saving capabilities and new 
+functionalities, like our camera. And so I'm looking forward to the reviewers, which ultimately the reviewers will tell 
+us how their processor compares to ours. But based on everything we know about crate, I think our position of Tegra 4 
+is going to be pretty extraordinary. 
+
+<Q - Steven Eliscu>: Great. Thank you. 
+
+Operator 
+
+Your next question comes from Chris Caso with Susquehanna Financial. 
+
+<Q - Christopher Caso>: I wonder if you could give a little more color about the Quadro business? I think in your last 
+quarter comments you were expecting some weakness in that business. And it looked like from the commentary that 
+that grew in the quarter despite some limited quantities of the K5000. Can you talk about that a little bit? And what 
+your expectations are – that for the April quarter? 
+
+<A - Jen-Hsun Huang>: I will let Karen talk about the April quarter. But what I will do is I'll talk to you about the 
+dynamics of that business. We're gaining share in that business, because our position in graphics is getting stronger 
+than ever. Our technology leadership position is pulling ahead, whereas graphics is important, and it continues to be, 
+we've introduced new ways of rendering graphics, ray tracing and other computational graphics capabilities. 
+
+We've added simulation technology related to, made possible by GPU computing so that you can stimulate and 
+visualize at the same time. So the capabilities that we provide is increasing. We're just transitioning Kepler into our 
+entire enterprise product line. And Kepler, as you know, is just a wonderful GPU. It's the best GPU we've ever built, it's 
+the best GPU the industry has ever built. And we're in the process of transitioning that into Quadro. That's been offset. 
+There is some offsetting dynamics related to the weakness of the enterprise market in some areas around the world. 
+There were some delays related to the next generation workstation motherboard from Intel. But I think their people are 
+working through those issues, and I think the dynamics will play out. 
+
+<A - Karen Burns>: Yes. So, to answer the second part of the question. So, for this quarter, Q4, we saw some nice 
+strength in Quadro. Quarter over quarter Quadro was up about 11%. So as Jen-Hsun mentioned, we have great plans 
+with Kepler and our market opportunities. For next quarter, Q1, we are expecting relatively flat. As Jen-Hsun 
+mentioned again, there is some offsetting forces, and we are being a little bit conservative perhaps, but we had a really 
+strong quarter in Q4. 
+
+<Q - Christopher Caso>: Okay. Great. As a follow up, could you help us to calibrate our expectations for the PC 
+graphics business as we go through the year? I understand you don't want to provide full-year guidance right now, but 
+what you guys told us in the past is that your growth in PC graphics is not necessarily mirroring what's happening in 
+
+
+the PC market. There's gaming product cycles, your own product cycles there. Could you give some color on that? And 
+in addition, what your expectations are for market share, particularly the notebook side this year where you gained 
+some market share last year? 
+
+<A - Jen-Hsun Huang>: My expectation is that we'll gain market share this year, or will continue to gain market share 
+this year. With respect to PC graphics, PC graphics has two components to it. I am excluding the Tesla GPU product 
+line, and I'm excluding the workstation product line for Quadro. But PC graphics, the consumer product line has really 
+two components. The larger component – or there's two components. There's the OEM graphics, where the OEMs use 
+our GPUs to differentiate their notebooks or differentiate their PCs. They add our GPUs, and because it's clearly 
+additive and the performance is so much better, they can provide the same basic platform with a premium SKU. That 
+dynamic hasn't really changed, and my guess is that an OEMs desire to create premium products will continue to be 
+there. 
+
+But the larger dynamic, the larger market for PC graphics, is related to PC gaming. We've always said that PC gaming 
+is vibrant. We've said that PC gaming is in fact growing, and the reason for that is because the PC platform is open. 
+And it allows for a lot of innovation, not only for technology, but also for business models. One of the most important 
+-important new growth dynamic has to do with free-to-play. Free-to-play is really a wonderful business model, and it's 
+a business model that doesn't serve as well a proprietary and a closed platform model where royalties are – or where it's 
+royalty-bearing. And so these free-to-play platforms are fabulous for PCs. And it attracts new gamers, it costs nothing 
+to try it, and unless you really enjoy the game, that's when you really get in and buy up virtual goods, where you can 
+differentiate your outfit, your costume, differentiate your weapons, play new levels. 
+
+And so it's – the more you enjoy the game, the more you're welcome to spend in the game. And I think that that kind of 
+a business model really tailors nicely to PCs. It's also much more associated with MMOs, massively multi-player online 
+games. And so, these dynamics continue to help drive our PC graphics business, the gaming graphics business. For the 
+year, I think that these dynamics will remain true, that the MMO and the free-to-play business models are going to 
+continue to drive and help grow the PC graphics business. 
+
+<Q - Christopher Caso>: Thank you. 
+
+Operator 
+
+Your next question comes from Doug Freedman with RBC Capital Markets. 
+
+<Q - Doug Freedman>: Great. Thanks, guys, for taking my question. Jen-Hsun, when we look at the business model 
+and the OpEx growth last year, you grew OpEx at a rate above the revenue growth. But you were able to offset it with 
+gross margin leverage. Looking forward, if I run the numbers, it looks like we're going to see about 15% OpEx growth 
+year-on-year, even if you hold Q1's level pretty stable for the balance of the year. How should we think about that 
+going forward? Are you going to – should we think about revenue leverage here, or is there gross margin leverage 
+potential to hold onto your earnings column? 
+
+<A - Jen-Hsun Huang>: Yeah, Doug, I appreciate the question. I think first of all, we just – we have to recognize that 
+we're investing into a once-in-a-lifetime and very large market opportunity. We weren't the first modem company in the 
+world, but we need a modem, a 4G LTE modem, to address the very large LTE connected devices market. And if we're 
+able to deliver that, we're in a pretty special place. And the reason for that is because we have a great application 
+processor, we have a great application processor roadmap, because we have the technology capability to sustain it. One 
+of the most important areas – one of the most important capabilities in the mobile market is the ability to have software. 
+There are so many different operating systems, and Microsoft does a great deal in the PC industry that's not afforded to 
+in the rest of the embedded markets. 
+
+And this is a market where, in the connected marketplace – connected device marketplace where there is Android and 
+Chrome and WinRT and Linux and QNX, and all these different operating systems require a world-class system 
+software team. And so, if we have those two things and we combine it with LTE, which we're now sampling, the 
+
+
+combination of these three things could put us in a very special place. And so, we want to go after that large and 
+fast-growing LTE marketplace, and investment is necessary. So the answer to your question is revenue leverage. We're 
+looking forward to revenue leverage. 
+
+Now our GPU business of course is still growing as well. And there are opportunities to grow there. The last year we 
+grew 8%, if you excluded the chipset business that we exited, and this year we added a new type of GPU product. We 
+incorporated our GPUs into a first-of-its-kind graphics appliance that's a graphics computing system. It's dedicated to 
+doing graphics, and we've described a few applications for the NVIDIA GRID. And I think that this type of a 
+computing appliance, this graphics appliance, is for GPU is very similar to a router as router is for networking chips, or 
+a network-attached storage is for SATA chip. At some point when you want to share these resources with a larger 
+workgroup or with a lot of different people, these graphics appliance – these computing appliances are really a perfect 
+fit. 
+
+And we see a lot of people wanting to go to SaaS, but they can't do it with graphics-intensive applications. And now 
+with the NVIDIA GRID they can finally do that. And so, I'm excited about the GPU growth opportunities still, but one 
+of the areas where we are investing heavily, and that's the reason why you saw the investments from the last couple 
+years is really to put us in a place where we can engage the LTE market. And this year we will aggressively do that. 
+
+<Q - Doug Freedman>: I guess as my follow-up, I have a good understanding of where the growth is going to come 
+from on the Tegra [indiscernible] (38:42). Clearly it sounds like you want to, with the LTE modem you want to grow in 
+the handset side of the market to take advantage of that. And when you look at all the other investments that you're 
+making, as you just ran through a pretty healthy list there of new products that you've introduced recently, what's 
+number two and three on the list as far as revenue contribution? 
+
+<A - Jen-Hsun Huang>: Well, I really listed two just now. I listed LTE, and that's LTE – when I say LTE I mean 
+Tegra LTE. You have to invest in Tegra, and you have to invest in LTE in order to engage that LTE-connected device 
+market. There is no standalone modem business anymore. And many of these new 4G connected device marketplace an 
+integrated approach is necessary. And that's why we bought us Icera, and that's the reason why we're investing in LTE. 
+
+That is really one investment. You have to do it altogether, or you don't do it at all. So that's one of the reasons why all 
+of the standalone modem companies really have gotten out, and that's the reason why most of the standalone 
+application processor companies have gotten out, because unless you have the combination of these three things, the 
+Tegra, something like a Tegra application processor, a 4G modem and a software stack, you really can't play the big 
+games. I think we are rather uniquely positioned to be a great challenger here. 
+
+And the number two is GRID. That particular investment is really about taking our GPU and taking it out of the box. If 
+you take the GPU out of the box, then you can grow independent of the box. GRID is going to make it possible for us 
+to put our GPUs, if you will, on a network. And whether it is a Mac network, or a PC network, or an Android network, 
+or whatever devices you've got networked onto it. So those were two investments that I've described. And both have 
+exciting growth opportunities ahead. 
+
+<Q - Doug Freedman>: Great. Thank you. 
+
+Operator 
+
+Your next question comes from Blayne Curtis with Barclays Capital. 
+
+<Q - Blayne Curtis>: Thanks for taking my questions. [ph] I was wondering if you could [indiscernible] (41:15). I was 
+wondering if you could provide any color as to the make of that, with tablets, phones or Windows versus Android 
+(41:28)? Thanks. 
+
+<A - Jen-Hsun Huang>: I'm sorry. That was really, really difficult for us to understand. Could you try saying that 
+again? Or calling in on a landline? Just try it one more time. 
+
+
+<Q - Blayne Curtis>: I apologize. I'm traveling. I was wondering if you could provide some color as to [indiscernible] 
+
+(41:48) makeup of whether you see tablets or smartphones a bigger driver for you as well as Windows versus Android? 
+Thanks. 
+<A - Jen-Hsun Huang>: Okay. I'm going to take a swing at that. I think you asked, what is likely to be a larger growth 
+driver for us, is it tablets or phones? And number two is it Android or WinRT? And so that's a good question. And let 
+me see if I can try to dissect that. First of all, on a yearly basis although the quarters have been a little choppy, on an 
+annual basis all of our – most of our growth, not all of our growth, but a vast majority of our growth has come from 
+tablets. Whereas people were rather skeptical about Android tablets, we really stuck with it. And we stuck with it 
+because we believed not in whether a tablet, an Android tablet, is going to be useful or not or successful or not. We 
+believed in the Google cloud. We believed that people will buy books and music and games and movies and store their 
+photographs up in the cloud. And when you put all of your personal content in the cloud, you want to enjoy it on your 
+phone, you want to enjoy it when you're home in a larger format. And in which case, an Android tablet. 
+
+We also believe that you would want to enjoy playing the games with a device that's designed and dedicated to play 
+games, and that's the reason why we built SHIELD. And so I think the tablet market has turned out to exceed most 
+people's expectations. And we grew a lot in Android tablets this last year, and my expectation is that there will be more 
+Android tablets built this next year. And so, so the first thing is, yes, I believe in tablets. I believe in tablets 
+wholeheartedly, and it's an area, it's a segment of the marketplace that we're going to continue to invest in and be quite 
+successful in. 
+
+WinRT, I believe it is essential – strategically essential for Microsoft, to be on all of the major processors in the world, 
+surely the highest-volume processor in the world, as a software company that – and an operating system company it's a 
+market they can't afford to ignore. And so, WinRT is surely going to be an important area for them. Now, whether 
+people see WinRT as a consumer tablet or as a PC is yet to be determined. But at the very minimum, if you extrapolate 
+it forward by a few years, it's hard to imagine how WinRT can't possibly – well, possibly, be a wonderful PC. We know 
+exactly what it feels like on top of the Tegra 4, and it rocks, it's fantastic. And so, WinRT, I think will be successful as 
+well. Microsoft will have no choice but to continue to invest in it, and it's a great company. They'll do something great 
+with it. 
+
+With respect to tab – so that's Android and WinRT. I already commented on tablets. Smartphones, super phones, this is 
+an area that we will likely need to have an LTE modem in order to be successful. And that's the reason why we've 
+worked so hard to accelerate our LTE modem to market. We're working around the clock. And this is, with an LTE 
+modem, the Tegra Processor, and our software capability, we will be able to address a much larger phone opportunity 
+going forward. And so, we'll have some phone success this year. But we're not expecting to have a whole lot of phone 
+design wins until we engage the market with LTE. Okay? 
+
+<Q - Blayne Curtis>: Thank you. 
+
+Operator 
+
+Your next question comes from Kevin Cassidy with Stifel Nicolaus. 
+
+<Q - Kevin E. Cassidy>: – the question. I wonder if you could give us a more of a timeline on the grid development, 
+and when we could see significant revenue for that product. What are some of the obstacles in front of you still? 
+
+<A - Jen-Hsun Huang>: Thanks a lot, Kevin. I think the GRID comes in three flavors. GRID, the architecture, comes 
+in three flavors. One, and the one – and that we developed first, is grid for Enterprise VDI. We've been working with 
+Citrix, VMware and Microsoft for quite a long time. And in that particular application, by installing our graphics cards, 
+the GRID VGX graphics cards, into an industry-standard OEM server, you could deploy it in enterprises and accelerate 
+the VDI installations that you have. And so, if you had a Citrix desktop, it would just be much snappier. 
+
+We could also address markets where the current VDI solutions aren't sufficiently good enough because the graphics 
+performance isn't good enough, it doesn't accelerate – it doesn't run certain applications, like workstations. And so, we 
+
+
+could expand the market for VDI. Our three partnerships are going fabulously. Everybody is very excited about that, 
+and that is likely the first area of growth this year for GRID. 
+
+The second component of growth has to do with cloud gaming. We have about six partners, and we are evaluating new 
+ones, who are middleware partners, who service Telcos and MSOs around the world to provide cloud gaming to these 
+Telcos and MSOs. They would like to provide gaming as one of the channels of cable television. And, so, it's another 
+way for them to monetize a subscriber base they already have. 
+
+It's another way for Telcos to provide content that could be enjoyed over the LTE networks. So you could imagine this 
+is creating new content, adding content inventory to their subscriber base is something that of course every Telco and 
+every MSO would more than love to do. 
+
+And so there – we have six partners partnered with us around the world. The trials are going on at 12 of the Telcos – 12 
+Telcos around the world. And there are more coming online as we speak. So that evaluation will take longer, because 
+the quality of service has to be proven, and these large networks have to be tested. So that is the second that we've 
+started. I'm not expecting large revenue contribution this year, but it's really, really important that we do proof of 
+concepts and trials at every Telco this year. So that's our primary focus. 
+
+The third has to do with that SaaS. There's a – as you know, most of the software companies would like to move to a 
+SaaS model, it is – from whether it's monetization or just being able to access new customers more quickly. Not having 
+to install a heavyweight application in somebody's network is one of the fastest ways to capture new subscribers or new 
+customers, new licensees. So being able to literally put a heavyweight application like an Adobe or Autodesk or a 
+SolidWorks application workstation application, as an icon you double-click and boom, you're are in that application, 
+because that application is being served on a network. It's a real benefit to them. And so this is a new market as well for 
+us. 
+
+Obviously, GRID is the first of its kind device. It is a graphics, it's a GPU, it's a massive collection of GPUs in a 
+computing device. And, so, we're very good at GPUs of course, and all the software is in house, but we are cultivating 
+that marketplace now, and we'll see how it goes. And, so, I wish I had crisp answers on GRID, but this is a first of its 
+kind device, and we have enthusiastic partners, because it provides a benefit to all of them in the ecosystem. And as 
+soon as we can, we'll report on the actual business component of it. 
+
+<Q - Kevin E. Cassidy>: Okay. Great. Thanks for those details. Have you seen any competition or any other 
+alternative solutions for this type of application? 
+
+<A - Jen-Hsun Huang>: Well GRID is the first of its kind, and my expectation is that it will be the only one of its kind 
+for a while, and the reason for that is because in order to create GRID, we had to create a new architecture for a GPU, 
+create a new system architecture, create new systems software architecture to virtualize, to share, to connect, to 
+remotely render onto devices of all kinds. And so this is – we own the entire stack. So it's easy for us to do it. I don't 
+really know how other people, somebody else would independently cut across that many layers of the architecture and 
+system and system software to achieve it. But at the moment, everything I know and what I see in the horizon, GRID is 
+really the only one in the market. 
+
+<Q - Kevin E. Cassidy>: Okay. Great. Thank you. 
+
+<A - Jen-Hsun Huang>: Yeah, thanks a lot, Kevin. 
+
+Operator 
+
+Your next question comes from Shawn Webster with Macquarie. 
+
+<Q - Shawn R. Webster>: – much. I was wondering if you could help me understand the gross margins? You did a 
+very good job keeping then stable in a down revenue environment, but it seemed like you had a healthy mix up in 
+high-margin areas like workstations, and even going into Q1 where you're expecting flattish gross margins. Again, it 
+sounds like workstations again will be kind of flattish, where you'll see declines elsewhere. Are using gross margin 
+
+
+declines elsewhere? Or maybe price declines? Just help me understand that. Thank you. 
+
+<A - Karen Burns>: I'm sorry. I missed the first party your question. Can you give me the first part please? 
+
+<Q - Shawn R. Webster>: I'm trying to figure out the flat gross margins where you have what seems like a positive 
+mix effect happening underneath your revenues to workstation? 
+
+<A - Karen Burns>: For this quarter or next? 
+
+<Q - Shawn R. Webster>: For both Q4 as well as your guidance for Q1. 
+
+<A - Karen Burns>: Okay. So the mix is quite, as I explained in the commentary, it's really stable. Yes, Quadro was 
+up, but there's always some offset. Quadro was up in Q4, but probably one of the larger areas is memory. When 
+memory moves around, that can basically drag our margins a bit. So, but overall, the blend is pretty stable, and that's 
+just how it is. And next quarter we're expecting about the same. 
+
+<Q - Shawn R. Webster>: Okay. As it relates to the desktop segment, you had pretty good share gains this year. Can 
+you talk about what some of the dynamics are in the channel currently, as far as like how inventories are looking, and 
+maybe what your expectations are in terms of market share for the full year? 
+
+<A - Jen-Hsun Huang>: Well inventory levels tend to be slightly up when the revenues are down, as you can imagine. 
+And so, we're expecting next quarter, or this coming quarter, to be seasonal as well as consistent with the overall PC 
+market. And so, inventory will likely be slightly – will be up a tad. But we watch it very, very closely. The channel is 
+very important to us and all of our partners, and the flow of goods is important to us. And in order to control and 
+manage your gross margins, it's vital. It's vital not to have too much inventory, as you know. And so, we watch that like 
+a hawk, and that's one of the reasons why our gross margins are stable and well-managed and improving. 
+
+As far as the year goes, our position in Graphics is as good as it's ever been. And my expectation is that our position in 
+graphics will improve this year. SHIELD will help GeForce. The ability to stream your – remotely, your PC game, and 
+to be able to enjoy it on your SHIELD, is quite a magical new experience. And the enthusiasm from our GeForce 
+customers around the world is really quite spectacular. We've had more, more press written about SHIELD than just 
+about anything in the history of our company. And so, so I think the enthusiasm is quite high, and SHIELD is intended 
+to be – one of its intentions is to be a companion device for GeForce. And so that's going to enhance our GeForce 
+position. And so throughout the year, my expectation is that our position will continue to improve. But with respect to 
+market share, we're just going to have report that when we get there. 
+
+<Q - Shawn R. Webster>: Thank you. 
+
+<A - Jen-Hsun Huang>: Yeah, thanks a lot. 
+
+Operator 
+
+Your next question comes with Jim Schneider with Goldman Sachs. 
+
+<Q - James E. Schneider>: Good afternoon. Thanks for taking my question. I was wondering, if you could look at 
+your pipeline for Tegra 4 design wins throughout the year, should we expect any kind of meaningful increase in Tegra 
+as we head into the July quarter? Is this going to be more back-half loaded in Q3 and Q4? 
+
+<A - Jen-Hsun Huang>: I'm sorry, but it's impossible to hear you at all. 
+
+<A - Robert Csongor>: Yeah, Jim, you're really faint. Is there any way you can increase your volume somehow? 
+
+<Q - James E. Schneider>: Yeah, I can try. I'm just wondering, in terms of the design win ramp you see for Tegra 4 
+this year, do you think that will be increasing any in the July quarter, or do you expect that all to come in the back half 
+of the year? 
+
+<A - Robert Csongor>: [indiscernible] (56:50) coming in the July quarter or back half of the year? 
+
+
+<A - Jen-Hsun Huang>: We start – we ship Tegra 4 starting in Q2. We're ramping production now, and we have full 
+production release. And so, we're ramping production. Q2 is when we ship to customers. Q2 is also when we ship the 
+Tegra 4-based SHIELD device, and so we also start shipping in Q2. Although it's in the latter part of Q2, it's going to 
+be in Q2. 
+
+<Q - James E. Schneider>: That's helpful, thanks, and a follow-up. [indiscernible] (57:30) look at your R&D spending 
+throughout the year, you talked about modest declines – modest decreases as we head into the end of the year, but 
+could you talk about any new initiatives, whether that's for GRID or SHIELD or [indiscernible] (57:45) increases we 
+had through the year? 
+
+<A - Jen-Hsun Huang>: Any new initiatives or... 
+
+<A - Robert Csongor>: Hey, Jim, this is Rob. Did you ask are there any new initiatives on OpEx other than GRID? Is 
+that what you asked? 
+
+<Q - James E. Schneider>: [ph] Is that what had caused for the repeat (58:00) through the year? Yes. 
+
+<A - Jen-Hsun Huang>: There are three things that our new businesses, if you will, not new businesses, but additions 
+to our businesses this year. The first edition is LTE modems. LTE modems by itself is not a new business, but LTE 
+modem will allow Tegra to enter into new markets where LTE is necessary. We already have many LTE design wins 
+on i500. Our expectation is that this is going to be quite a good trend for us. That's one additive additional part of our 
+business. The second additional part of our business is using our own Tegra processor and utilizing our own proprietary 
+technologies and software and such to build an Android device we call that SHIELD. 
+
+The third additional to our business – addition to our business is GRID, which is a GPU. It's a network attached GPU. It 
+is not a new business. It is a GPU business. It's packed with GPUs. And it is served – it serves our existing marketplace, 
+partnered with our existing partners. It's sold into the same ecosystems. So we have three things this year. LTE – Tegra 
+LTE. Number one, Tegra LTE. Number two, SHIELD; and number three, is our GRID graphics appliance. 
+
+<A - Robert Csongor>: Hey, Jim, I hope we answered your question. We will follow up with you and make sure we 
+got that. I think we have time for one more. 
+
+Operator 
+
+Your next question comes from Patrick Wang with Evercore Partners. 
+
+<Q - Patrick Wang>: Thanks. Hi, so, just two questions. First off, I was hoping you could talk a little bit more about 
+your design traction on your modem business. You talked about i500. The Icera acquisition is definitely a key part of 
+that. Just curious if you could help us maybe understand maybe the shape of the growth this year and perhaps the 
+sizing? Is it something that grossed you $100 million this year? Is it something that's a lot bigger than that? 150 million 
+units a year is a big TAM so I just wanted to think about that the right way. 
+
+<A - Jen-Hsun Huang>: Well, let's see. The first thing is it's important to note that the previous generation of our LTE 
+modem, the i410 is the first and currently still the only WinRT LTE modem certified by AT&T. It is currently shipping 
+in the ASUS Vivo Tablet. And if you get it chance to try it, it's really wonderful. It stands to reason that there are many 
+other WinRT Tegra 4 tablets in development. And we would transition them to the i500 modem. We don't sell the 
+modem separately. It's sold as a kit. It's sold with Tegra 4. And so it's hard to break it out per se. But more and more of 
+our business will include LTE, because we had no LTE penetration in the past, and this year we're going to be shipping 
+LTE modem. So I don't know exactly how much. We are trying to make it as much as possible, but at this point we're 
+not guiding the whole year. 
+
+<Q - Patrick Wang>: Got you. And then just for my follow up, I was curious – when we take a look at the full year 
+you've got a lot of great stuff happening on Tegra outside of handsets, you've got tablet traction, you've got SHIELD, 
+you've got automotive that did well last quarter. When we look at a full year here, I mean, you guys did a great job 
+
+
+hitting 50% growth last year. Could you care to maybe give us some help in terms of ballpark how much growth we 
+should be thinking about this year in fiscal 2014, given the transition and the fact we're kind of starting off a little bit 
+light as we enter the April quarter? 
+
+<A - Jen-Hsun Huang>: Well, the way we enter the April quarter is I guess similar during every transition. I'm hoping 
+that over time as we – although we've had this transition now for all three generations, each one of the transitions, the 
+peaks have become much higher. The revenues of the whole business has become much larger. And so our position in 
+the marketplace is growing. Our footprint is growing, and our position is more strategic to the marketplace than ever. 
+But we haven't decided to guide the whole year. We're going to go through to this transition one more time, and we will 
+start shipping in Q2, but we haven't decided to guide for the full year. 
+
+What you recognize are the same things we observe as well. Whereas before we really only had Android tablets. Now 
+we have a much larger Android tablet market, we have WinRT PCs, we have SHIELD, and we have automotive. So 
+Tegra is not just a smartphone. And of course we have Tegra LTE, which will be great for connected tablets as well 
+smartphones. And so we have more than just Android application processors now. We have much more than that. But 
+it's hard to say exactly how much for the year, and we are just going to do as best we can. 
+
+<Q - Patrick Wang>: Okay. Great. Thanks a lot. 
+
+Robert Csongor 
+
+Okay. I think that will do it for today. We're going to have to wrap it up. Thank you, everyone. We look forward to 
+talking to you next quarter at our Q1 results. Thank you. 
+
+Operator 
+
+This concludes today's conference call. You may now disconnect. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

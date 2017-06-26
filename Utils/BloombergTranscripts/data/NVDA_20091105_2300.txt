@@ -1,0 +1,853 @@
+Q3 2010 Earnings Call 
+
+
+Company Participants 
+
+• Michael W. Hara, Senior Vice President, Investor Relations and Communications 
+• David White, Executive Vice President and Chief Financial Officer 
+• Jen-Hsun Huang 
+Other Participants 
+
+• Doug Freedman 
+• Ross Seymore 
+• Jim Schneider 
+• Uche Orji 
+• Glen Yeung 
+• Hans Mosesmann 
+• Daniel Berenbaum 
+• David Wu 
+• JoAnne Feeney 
+• Tim Luke 
+• Robert Pikover 
+• Simran Brar 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon. Thank you for holding. I would now like to turn the call over to Michael Hara, Senior Vice President, 
+Investor Relations. Thank you, sir. You may begin. 
+
+Michael W. Hara, Senior Vice President, Investor Relations and 
+Communications 
+
+Thank you. Good afternoon, and welcome to NVIDIA's conference call for the third quarter of fiscal 2010. With me on 
+the call today from NVIDIA are Jen-Hsun Huang, President and Chief Executive Officer; and David White, Chief 
+Financial Officer. After our prepared remarks, we will open the call up to question-and-answer session. Please limit 
+yourself to one initial question with one follow-up. 
+
+Before we begin, I would like to remind you that today's call is being webcast live on NVIDIA's Investor Relations 
+website and is also being recorded. A replay of the conference call will be available via telephone until November 12, 
+2009, and the webcast will be available for replay until our conference call to discuss our financial results for our fourth 
+quarter fiscal 2010. The content of today's conference call is NVIDIA's property and cannot be reproduced or 
+transcribed without our prior written consent. 
+
+During the course of this call, we may make forward-looking statements based on current expectations. These 
+forward-looking statements are subject to a number of significant risks and uncertainties, and our actual results may 
+differ materially. For a discussion of factors that could affect our future results and businesses, please refer to the 
+
+
+disclosure in today's earnings release on our Form 10-Q for the fiscal period ended July 26, 2009, and the reports on 
+Form 8-K filed with the Securities and Exchange Commission. 
+
+All of our statements are made as of today, November 5, 2009, based on information available to us today and, except 
+as required by law, we assume no obligation to update any such statements. Unless otherwise noted, all references to 
+research market and market share numbers throughout the call come from Mercury Research or Jon Peddie Research. 
+
+During this call, we will discuss non-GAAP financial measures. You can find a reconciliation of these non-GAAP 
+financial measures to GAAP financial measures in our financial release, which is posted on our website. 
+
+We are making a few changes to our format, moving forward. As you may have noted, we posted David's financial 
+overview on our website prior to today's call. In addition, I will be providing the corporate overview, and Jen-Hsun will 
+be available for the question-and-answer portion. With that, let's begin. 
+
+We continued to make good progress in the third quarter. GP demand continued to steadily increase, driven by a 
+healthy marketing environment and new applications that require GPUs. Our unprecedented investments in parallel 
+computing are creating change and opportunity, and are the foundation of our growth in the coming year. 
+
+We believe we are in the midst of a giant leap in computer graphics. The GPU continues to advance the most parallel of 
+applications, 3-D graphics. And it is now poised to revolutionize a wide range of industries by making parallel 
+computing mainstream. Consumers' needs have changed, and the GPU is key to meeting them. The internet is today's 
+killer app, and social media, video, and digital photography have seen massive growth. These are highly parallel tasks 
+that are much better suited to a GPU than a CPU. From handhelds to data centers, today's most important computing 
+problems are parallel. 
+
+For handheld devices, parallel computing on GPUs delivers rich media and enables an uncompromised internet 
+experience. The first Tegra devices, the Microsoft Zune HD and the Samsung M1, started shipping in Q3. 
+
+PC gamers are aggressive adopters of new technology. Just as SLI permanently changed the meaning of high-definition 
+gaming, PhysX and 3-D stereo are bringing an even more profound change, making games surprising and magical 
+again. Because of the extraordinary impact PhysX has on game-playing experience, it has the potential to be a defining 
+feature of gaming PCs, just as SLI is today. 
+
+Parallel computing also provides 3-D stereo for movies and photos, and remarkable speed-ups for photo and video 
+editing. In the future, even PCs that already have a graphics controller integrated with the CPU will require a GPU to 
+compute. Professional users will greatly benefit from the combination of computational graphics and parallel 
+computing. Even for pure graphics applications, parallel computing is being used to make images more realistic by 
+simulating the real world from PhysX to photons. Movie production houses that worked on Terminator Salvation and 
+Star Trek ran color grading and image processing 20 times faster using parallel computing on NVIDIA GPUs. 
+
+Our leadership position in innovative software, parallel programming languages, development environments, libraries 
+for PhysX, ray tracing, scene management, and many other aspects of a visual computing solution will not only solidify 
+our market share; it will expand the size of the business. 
+
+Data centers are constrained by space, power, and cooling. So the improvements from parallel computing in 
+performance per watt and performance per cubic foot are game changing. Tesla development clusters are at 33 of the 
+top 500 supercomputing sites. Oak Ridge National Labs announced in September that it plans to build the world's most 
+powerful supercomputer with our GPUs. 
+
+But GPUs in the data center represent more than just evolution. They are a discontinuity that opens up new application 
+and grows the entire market. For example, we've recently announced RealityServer, a powerful combination of GPUs 
+and software that streams interactive, photorealistic 3-D applications to any web-connected PC, laptop, netbook, or 
+smart phone from the data center. A rendering that used to take hours and require highly skilled technical specialists 
+can now be developed interactively by designers and artists. RealityServer is an example of the future of 3-D web 
+applications. 
+
+
+Momentum behind parallel computing is unlike anything in the industry. We held our first GPU technology conference 
+last month, and even after closing registration early, we were oversubscribed by 50%. 1,500 people from over 40 
+countries listened, learned, and shared during 200 hours of sessions. At one point, more than 35,000 people were 
+watching online. 
+
+Also at GTC, we announced our revolutionary Fermi compute architecture. Fermi-based products will become the 
+foundation of our most powerful processors ever, targeted for both graphics and computation. We continue to invest 
+deeply in programmability, and Fermi now provides the capability to write applications in C++. 
+
+We've created a development environment, code-named Nexus, which integrates into Microsoft Visual Studio and is 
+the world's first unified programming environment for a color computing architecture with a CPU and GPU in a 
+co-processing configuration. 
+
+NVIDIA's growth strategy is simple and singular: be the absolute best in the world in visual and parallel computing to 
+use GPUs to transform computing experiences. The GPU will be incorporated into all kinds of computing platforms 
+beyond PCs. By focusing our R&D efforts to advance visual and parallel computing, we are creating breakthrough 
+solutions to address some of the most important challenges in computing today. 
+
+Let me now hand the call over to David. 
+
+David White, Executive Vice President and Chief Financial Officer 
+
+Thanks, Mike. Q3 was a strong quarter, driven by an improving PC market and better mix. Revenue was $903.2 
+million, above our guidance and up 16% sequentially, making the third consecutive quarter of top line strong growth. 
+
+Gross margin was 43.4%, 41% on a non-GAAP basis, significantly higher than guidance. GAAP operating expense 
+was just under $284 million, marginally above guidance. And GAAP net income was $107.6 million or $0.19 per 
+diluted share. Non-GAAP income was also $0.19 per diluted share. 
+
+Our core GPU business was particularly strong, up almost 25% sequentially. Within that, our desktop and notebook 
+GPU segments were up 19% and over 41% respectively quarter-over-quarter. While demand was strong, we were 
+supply-constrained throughout the quarter, particularly in our 40-nanometer products. 40-nanometer products for 
+desktop and notebook constituted 19% of our total GPU revenue in the quarter. 
+
+Our professional business saw another quarter of growth, up 11% sequentially. While revenues in this business are still 
+well below their levels of a year ago, quotation activity continues to gain momentum and is encouraging. 
+
+Gross margin improved sequentially as a result of several factors: significantly higher than anticipated unit sales of 
+GPUs; improved 55-nanometer yields, as well as other cost reductions; and more favorable product mix across 
+businesses, and particularly better mix within the GPU business itself. 
+
+Inventories at the end of the quarter were essentially flat compared with the prior quarter. Inventory days on hand 
+improved to 47, calculated on a non-GAAP basis, a four-day improvement over the second quarter. Inventory in the 
+channel remains very low at around a month. With demand outstripping supply, we don't see OEMs at the channel 
+building inventory. 
+
+Our outlook for the fourth quarter of fiscal 2010 is as follows. Revenue is expected to be up slightly, approximately 2% 
+from the third quarter. While revenue from 40-nanometer products is expected to grow significantly 
+quarter-over-quarter, we expect 40-nanometer products to be supply-constrained throughout the quarter. 
+
+GAAP gross margin is expected to be 40 to 42%, essentially flat with Q3, excluding the insurance reimbursement. 
+GAAP operating expenses are expected to be in the range of 305 million. This is up from the third quarter, due 
+primarily to our fourth quarter comprising 14 weeks versus the usual 13 weeks, as well as costs relating to a record 
+number of product bring-ups. 
+
+
+This concludes our formal remarks. So at this time, we'd like to open the call up for questions. Operator? 
+
+Q&A 
+
+Operator 
+
+Thank you. [Operator Instructions]. Our first question comes from the line of Doug Freedman with Broadpoint 
+AmTech. Please go ahead. 
+
+<Q - Doug Freedman>: Hi, thanks for taking my question, guys. First off, congratulations on a very strong quarter. I 
+guess I would start with – we've seen several quarters now where you've significantly exceeded your guidance. Can you 
+talk a little bit about the business processes that you have in place to forecast your business and whether you're finding 
+yourself sort of short of product going forward as a result of not really getting accurate forecasts from your customers 
+in your channel? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: So, Doug, our process starts really at the 
+very baseline of our field sales force, and we gather forecasts from the field, both the OEMs and to the extent we can 
+through the channels. We also at the same time try and correlate that with what market forecasters expect to be growth 
+rates in the various end markets we participate in. And from that, we set revenue plans. And from that, we set wafer 
+start plans ultimately. 
+
+I think the challenge for probably everyone in the industry right now is that demand has been more robust than what 
+anyone has been able to particularly foresee. And given that you've got a 12-to-13-week lead time from the date you 
+decide that you want more volume to the date that you can ship that volume, we're being surprised by robust demand 
+within that lead time. 
+
+And so it's a good thing in some respects. I think the downside for us has been that, as a result, we have been 
+supply-constrained. But we do look at a number of different inputs as it relates – in terms of compiling our forecasts 
+and trying to challenge our crystal ball, so to speak. 
+
+<Q - Doug Freedman>: All right, if we could sort of move in and sort of focus in on one segment of the business, the 
+chipsets, it appears during the quarter you guys have made a little bit of a change in tone towards the outlook for your 
+chipset business. Can you talk about that? And can you talk a little bit about what's going on over with the AMD 
+chipsets, the downturn there you attribute to their supply constraints? Is there any thought that you might be also 
+possibly experiencing some share loss in that piece of business? 
+
+<A - Jen-Hsun Huang>: Yes, Doug, this is Jen-Hsun. Our primary AMD chipset today is a chipset called the MCP61. 
+The MCP61 is the only single-chip solution in the marketplace today, and it enables the lowest cost solution for an 
+AMD platform. There's really at this point nothing that I know how to do, nor do I believe anybody else can build a 
+chipset that is as low cost at a system level as MCP61. 
+
+You know that the AMD market is primarily mainstream desktop. And then you also know that for a variety of reasons 
+AMD CPUs lost share last quarter. And so when AMD CPU loses share, they lose share primarily in the mainstream 
+market, and so that's basically what we experienced. I don't think we lost any share within the AMD CPU market. I 
+think the AMD CPU lost share in the mainstream desktop PC market. 
+
+If the AMD CPU recovers in share, relative to Intel, we'll grow the MCP61 business again. And so my expectation is 
+that for the foreseeable future, certainly well beyond several quarters, the MCP61 is going to be a wonderful chipset for 
+AMD processors. 
+
+The second question is longer term about our chipset. You know that we have a dispute with Intel. And it is now 
+impossible for us to build next-generation chipsets with all the allegations that they're making in the market and with 
+the dispute hanging over it. We have one major generation of the current architecture post MCP79. It is a really 
+exciting new MCP next-generation, and we're expecting it to be very successful. The customer feedback has been quite 
+
+
+wonderful. 
+
+And while MCP79's GPU capability already far exceeds that of Arrandale, MCP89 will take it that much further. And 
+so MCP89 is our next major generation of this architecture. And so we're expecting our chipset business overall to do 
+quite nicely through next year and beyond. 
+
+The only thing that I have said, and I want it to be very clear, is that we have no intentions at this point of building a 
+DMI-based chipset. But otherwise we have ongoing investments, as well as chipset developments in the current 
+architecture. 
+
+<Q - Doug Freedman>: Great, thank you for that clarity. And I'll jump back in the queue for the follow-ups that I do 
+have. 
+
+<A - Michael W. Hara, Senior Vice President, Investor Relations and Communications>: Thanks a lot, Doug. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Ross Seymore with Deutsche Bank Securities. Please go ahead. 
+
+<Q - Ross Seymore>: Hi, guys, and congrats as well. Very strong quarter, especially on the margin side. I guess from 
+an end demand perspective, first and foremost, beyond the limitations on the supply side, are you seeing any sort of 
+abnormal seasonality or inventory-related impact on demand as we look into the fourth quarter? 
+
+<A - Jen-Hsun Huang>: Well, demand is really strong. We came into this quarter with very, very strong demand 
+again. Last quarter, we were supply-constrained from the very first day of the quarter, and it got more and more 
+challenging as demand continued to grow. I think that Mercury Research showed that we lost market share. I think we 
+did lose market share. We came out of the quarter not being able to fulfill several million units of demand on us, not to 
+mention the terms business that would've been on top of that. And so the demand on our GPUs at the moment is very, 
+very, very, very high. 
+
+Is it because of Windows 7? It could be. I hope that it is. And I hope that it's because people's PCs are getting rather 
+old, and they could use a refresh. I hope that it's because the adoption of GPUs is higher than before. 
+
+And so we're seeing very, very strong demand at the moment. I expect us to be supply-constrained, and the projections 
+that we're giving you guys are the supply-constrained forecasts. And so I'm expecting us to be supply-constrained, and 
+we're going to fight really hard to make up as much as we can. But the demand is pretty strong out there right now. 
+
+<Q - Ross Seymore>: I guess as a follow-up, also looking at your MCP business, it was helpful to hear how you think 
+it's going to play out. But if we try to get a little more granular on that, the fact that you're not planning to do any of the 
+DMI side of things – you're at 250 million in revenues now. When do you think it starts to impact your overall chipset 
+business that you're making the choice, or Intel's forcing the choice, that you won't be supporting the new architecture? 
+When would we start to see that on the revenue side of the equation? 
+
+<A - Jen-Hsun Huang>: My sense is that we'll see our – and I'm just giving you my crystal ball. Who knows? But 
+based on our analysis, my sense is that our chipset business ought to peak probably around Q3, Q4 next year. And then 
+they'll ramp-down from there. And it just depends on available CPUs that we can connect to, customer demand for Ion, 
+so on so forth, our competitiveness relative to Arrandale, Arrandale CPUs. 
+
+Arrandale has integrated graphics, but MCP79 already has better GPU technology, and MCP89 takes that even further. 
+And because Windows 7 requires direct compute and open CL and direct compute are becoming increasingly 
+important, what we call GPU computing, I think that the disparity between our MCP and Intel's integrated graphics is 
+growing, not shrinking. And it's growing by leaps and bounds at the moment. 
+
+And so I think those are all play factors. But without much estimation, I think that our chipset business is likely to 
+continue to grow for the foreseeable future, or has the opportunity to grow certainly. 
+
+
+<Q - Ross Seymore>: Great. Thank you very much. 
+
+<A - Michael W. Hara, Senior Vice President, Investor Relations and Communications>: Yes. Thanks a lot. 
+
+Operator 
+
+Thank you. Our next question comes from the line of James Schneider with Goldman Sachs & Company. Please go 
+ahead. 
+
+<Q - Jim Schneider>: Good afternoon. Thanks for taking my question. I guess first of all on the gross margins, could 
+you maybe give us some quantification about how much of that improvement was driven by improved mix with the 
+transition to 55- and 40-nanometer and how much was driven, sorry, by better product costs based on that or better mix 
+based on more workstations or just higher-end GPUs? 
+
+<A - Jen-Hsun Huang>: We haven't broken that stuff out, but I think that this quarter it's pretty clear that everything 
+grew. If you were following us in previous quarters, you knew that 65-nanometer was an element of our gross margin 
+drag that we had to work through. And as of last quarter, we had worked that mostly out of our system. And so we are 
+freshly – we are all 55- and all 40-nanometer. 
+
+Gross margins on 55- and 40-nanometer products are similar. There's more – 55 is fine, is a perfectly fine gross margin, 
+and so will 40 be. And so that I think in terms of our main business, core mainstream business, it would be not having 
+any 65s or having very little 65s that plays the biggest factor. 
+
+The second thing is PSG overall growing is very high leverage for us. You know that our position in the workstation 
+business is very high, and that it's high not because we have a fast chip only. It's high because the workstation business 
+is really a solutions business. And we offer tools and compilers and what we call application acceleration engines like 
+ray tracing engines and scene graphs and shader compilers. And they're integrated into design tools and CAD 
+applications all over the world, not just the ones that are available on the open market, but the ones that are indigenous 
+to the OEMs themselves. 
+
+And so Quadro FX and all of the software that we've developed over the years, of which we make enormous 
+investment, it has assured us a position that is very, very high in that marketplace. We just add a ton of value. It's not 
+just a graphics chip. And so when that market recovers, and it looks like it's recovering slowly every quarter, the 
+margin leverage is very high. 
+
+And lastly, the consumer electronics market also can generate royalty payments and such, and its gross margins are 
+high, too. And so I would attribute most of that to be the gross margin drivers. 
+
+<Q - Jim Schneider>: Thanks. That's very helpful. And then I guess as a follow-up, could you talk about the Tegra 
+business, maybe update us on your expectations for the revenue for Tegra next calendar year and then give us a sense 
+for the split of applications you expect – handsets versus the rest of the consumer electronics base? Thank you. 
+
+<A - Jen-Hsun Huang>: We have over 50 projects that we're working on at the moment to get shipping, and that 
+consists of portable media players, smart phones, what some people call tablets, what some people called pads, internet 
+television, and automobile. The automobile projects will ramp up starting 2012, in a couple of years. The other projects 
+will ramp up – we already shipped Zune and Samsung. The portable media players tend to go through shorter 
+certification cycles, as you know. And then the others, you're going to start seeing projects ramping out into the 
+marketplace starting in Q1. And so that's a very important part of our business. 
+
+And we invested for quite a long time in this area we call mobile computing. And we were just certain that someday the 
+vast majority of us are going to demand computing everywhere. We're going to demand internet access everywhere and 
+the full web experience whenever we can. And so this is an investment that I think is really, really starting to come 
+home to roost. 
+
+
+We're experiencing as an industry the second personal computing revolution. And I think everybody would agree that 
+this second personal computing revolution will likely be more important and larger than the first one. 
+
+And so how would I see the near-term revenues? It's doubling every quarter off of a small base, and it's going to be a 
+significant part of our business in the near term. And as soon as it becomes a sizable part of our business near term over 
+the next quarter or two, we'll break it out and report it separately. But at the moment, it's just growing nicely. 
+
+<Q - Jim Schneider>: Thanks very much. 
+
+<A - Michael W. Hara, Senior Vice President, Investor Relations and Communications>: Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Uche Orji with UBS Investment Bank. Please go ahead. 
+
+<Q - Uche Orji>: Sure. Thank you very much. David, let me just ask you about the impact of the extra week in Q4 on 
+the revenue line. I can see the impact on the expense line, but should we assume that it's a linear progression such that it 
+has an impact on the revenue line, just to make sure I can put your guidance in context? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Well, I think the 14th week wasn't as 
+much of an impact on revenue as much as supply constraints was an impact on it. 
+
+<Q - Uche Orji>: Sure. 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: So the extra week didn't actually buy us 
+really anything from a revenue standpoint. 
+
+<Q - Uche Orji>: Okay, just wanted to clarify that. Jen-Hsun, on professional solutions, I mean, just knowing how 
+important this is for your margin, you said it looks like it is recovering. When you say that, what are the metrics that 
+lead you to conclude that? So is it book-to-bill? Is it inquiries from customers? And if you can also shed some light as 
+to what end markets we are seeing some recovery on the professional solutions, just so we can get a sense as to the 
+sustainability of the growth we saw this last quarter 
+
+
+<A - Jen-Hsun Huang>: Yes, two good questions, two parts. For our OEM business, most of that business is pulled 
+from hubs. So we just have to monitor the hub pulls. And so whenever they deplete the hubs, we fill the hubs. And so 
+monitoring the hub pulls is a good indicator of the business rate, and the hub pulls are surely up. 
+
+And the second thing is what we call differentiated solutions. And they're things like digital video pipeline that we 
+announced at NAB recently, which allows you to stream live video, high-definition live video right into a compositor 
+for graphics like you see on TV. We composite the 3-D graphics, and then we stream that right out into broadcast. That 
+used to require many racks of computers, and now we literally do it using one Quadro Plex format, one little tiny box. 
+
+So for a DDP and then SVS, which is our scalable visual solution, you know how cheap, how inexpensive flat-panel 
+displays have become. And so many companies are starting to put multiple flat-panel displays into a power-wall 
+configuration because of its resolution and productivity capability, and also mostly because it's just become so 
+inexpensive. We created a scalable visual solution that allows you to span a single application virtually across many, 
+many computers and displays, or put many applications up on that power wall. And so the thing that we see there is just 
+the traction of the interest there and the design pipeline that is building there. 
+
+And then starting at the end of this coming quarter and the next quarter, we're going into a new product cycle, and that 
+new product cycle is based on Fermi. And we're going to bring to the market for the first time in history the ability to 
+do ray tracing interactively in every single workstation. Customers are really ecstatic about that capability, and I can't 
+wait to revolutionize graphics again. 
+
+And so short term, it's the pull and the design pipeline, which we track very carefully, and then shortly after that, the 
+ramping of Fermi GPUs. 
+
+
+<Q - Uche Orji>: That's great. Thank you very much. Can I just ask one last question, David? Let me just ask you 
+about – so if I look at the chipset business, moving the mix more to the Intel versus AMD, did that have any impact on 
+ASPs? And by extension, did that have an impact on margins? And that's my last question. 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Well, yes, the MCP61, which Jen-Hsun 
+talked about earlier, is a low-end product for us and it does have lower ASPs than the Ion does obviously. And the Ion 
+does have higher margins, and so that did help uplift margins, yes. 
+
+<Q - Uche Orji>: Okay, great. 
+
+<A - Jen-Hsun Huang>: I think – just let me clarify. MCP61 has lower ASP, but higher gross margins. And MCP79... 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Less gross profit. 
+
+<A - Jen-Hsun Huang>: Gross profit dollars, right. 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Right, right, right, gross profit margin. 
+
+<A - Jen-Hsun Huang>: Yes, that's what he meant, but I just wanted to clarify. 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Yes. 
+
+<Q - Uche Orji>: That's great. Thank you very much. Congrats on the good numbers, Jen-Hsun. Thank you. 
+
+<A - Jen-Hsun Huang>: Yes, thanks a lot, Uche. 
+
+Operator 
+
+Thank you. Our next question comes from the line Glen Yeung with Citigroup. Please go ahead. 
+
+<Q - Glen Yeung>: Thanks. I wanted to ask a question about the supply constraints that you're seeing today across 
+three different vectors. One, does it seem to give you better visibility now that you're getting some backlog going up? 
+Two, is there a point at which it's going to cap your ability to grow your sales? And then, three, do you think there's any 
+impact to market share because of those constraints? 
+
+<A - Jen-Hsun Huang>: All good questions. One, I'm about to give visibility all the way through next year, it seems. 
+And so, yes, when we're this constrained, customers have to work with us really carefully to make sure that their needs 
+are well understood by us. And we are short of those needs. We came out of last quarter several million units short. 
+That's a lot of PCs. And we came into this quarter several million units short, and my expectation is we don't make it 
+up. 
+
+So the answer to your number two question is it surely constrains our growth. I think that we should have made – 
+there's probably an opportunity for us to have done somewhere between 50 to $100 million more last quarter and 
+certainly this quarter. So it's certainly constraining our growth. 
+
+Is it contributing to – would it contribute to share loss? I'm not sure. We demonstrated that this quarter. We lost, 
+according to Mercury Research, I think it was sure two or three points of market share, and it was completely attributed 
+to lack of supply. 
+
+<Q - Glen Yeung>: Okay, that's helpful. Thanks. And then just as a follow-up, when I think about your business over 
+the next four quarters, even over the next eight quarters, it sounds like we'll have a chipset business which peaks in the 
+second half, then goes down – Tegra, which is growing; workstation, which can recover; PCs, which are generally 
+recovering. But I wonder if you can specifically point to revenue growth that's attributable to GPU compute 
+specifically? 
+
+
+<A - Jen-Hsun Huang>: So let me see if I can break that down a bit. I expect GeForce to grow next year, not only 
+because the market will be healthier next year. There is real evidence that GPU adoption is increasing. And the 
+enthusiasm behind Fermi, our next-generation GPU architecture, is just out of this world. I mean, it's just way over the 
+top. And the reason for that is because this is the first brand new architecture we've created in four years. And instead 
+of an incremental change to DX11, this is a fundamentally new architecture, and the performance is fabulous. And so 
+we're expecting to be very successful with Fermi and all of its derivatives. 
+
+And so that's one. The second thing is Quadro, my expectation, will do much, much better next year than this year by 
+several hundred million dollars. 
+
+And number three, Tesla, which is our GPU computing product for supercomputing and for high-performance 
+computing and cloud computing, I believe that's going to be a growth market. And there's every evidence that with all 
+of the adoption out in the marketplace and the OEMs finally realizing that this is the architecture of the future, they are 
+all ramping up to build heterogeneous computing, or GPU computing-based servers. So I expect Tesla to grow. 
+
+And then I expect Tegra to grow a lot next year, and so not to mention our core logic. There's a very good bet that it's 
+going to grow next year. And obviously it won't be our last generation. We'll make modifications and adjustments to it. 
+And so it's hard to say whether it'll ship for two years or 2.5 years or three years, but surely it'll be more than 1.5 years. 
+
+<Q - Glen Yeung>: Jen-Hsun, I just need you to clarify one thing, if you might. When you say performance of Fermi 
+is great, are you saying that relative to your previous architecture or also relative to the current competition? 
+
+<A - Jen-Hsun Huang>: Both. 
+
+<Q - Glen Yeung>: Great, thanks. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Hans Mosesmann with Raymond James. Please go ahead. 
+
+<Q - Hans Mosesmann>: Thanks. A couple of questions – regarding 40-nanometer, when does the situation get 
+better? How are the yields coming along? And what's your allocation from your foundry? Is it something that would 
+allow you to get out of this perhaps earlier than your competition? 
+
+<A - Jen-Hsun Huang>: Hi, Hans. The yields are improving. I would say that without exception yields are better 
+today than it was at the beginning of last quarter. TSMC and Morris and his entire management team are just intensely 
+focused on this. And they're making progress every single day. 
+
+Yield enhancement and working with TSMC is NVIDIA's number one strategic objective now. It is all we do. It floods 
+my entire email. That's all I talk about. That's all I think about. That's all we meet about. And so it is of vital interest to 
+both of us that we get 40-nanometer yields up to the levels, that are at – that is absolutely world class. And I have no 
+question whatsoever that it will. Based on the work that, and the effort that, the TSMC team is putting into it, I have 
+every confidence, complete confidence that we'll get there, and soon. 
+
+Relative to the allocation, obviously I don't know what other people are allocated. All I know is this. We're not 
+allocated enough. 
+
+<Q - Hans Mosesmann>: Okay, and then a follow-up. Thanks, Jen-Hsun. A follow-up on your commentary that 
+you're going to make modifications to your core logic, or your MCP89 I suppose. Does that mean you're going to come 
+out with an MCP99, and what would that product look like if it's not DMI-based? 
+
+<A - Jen-Hsun Huang>: Well, Hans, one of the things you can count on with NVIDIA is that we're always really 
+clever. And we have to be clever because we don't target the mainstream market. The baseline market is 
+Intel-integrated graphics, and it's kind of like the house brand. When you go to Safeway, that's kind of like Safeway 
+Select. It's the house brand. 
+
+
+Our brand is the differentiated brand. And when you put GeForce with an Intel processor, you get the differentiator 
+product. And that's our business; it's differentiation. And we're going to keep working hard to look for ways to 
+architecturally enhance the PC experience and the PC platform so that our OEMs and ultimately the end users would 
+have the benefit of a differentiated platform over the generic baseline Intel-integrated graphics. And so that's our 
+strategy, and we've not run out of ideas by a long shot. 
+
+<A - Michael W. Hara, Senior Vice President, Investor Relations and Communications>: Operator? 
+
+Operator 
+
+Great. We'll go to the next question. Our next question comes from line of Daniel Berenbaum with Auriga USA. Please 
+go ahead. 
+
+<Q - Daniel Berenbaum>: Yes, hi, guys. Thanks very much. Just quickly on the – and I apologize. I'm in an airport. I 
+missed some of this, but did you say that there was any sell-through of previously reserved inventory in the quarter, and 
+did that help gross margin at all? And if so, do you plan on selling through – is there more previously written-down 
+inventory which there's a chance of selling through next quarter? And then if the January quarter wasn't going to be a 
+14-week quarter, what would revenue guidance have been? Thanks. 
+
+<A - Jen-Hsun Huang>: So the answer to your first two questions is no and no. We shipped everything we had. We 
+shipped everything we had in Q2. We shipped everything we had in Q3. And if our customers were willing to take 
+chairs and furniture, I would've shipped that, too. And so there was just nothing left. And we were still short by a few 
+million parts. 
+
+In terms of next quarter, our guidance would be exactly the same, whether it was a 14-week or a 13-week. And that 
+basically tells you we are completely supply-constrained. 
+
+<Q - Daniel Berenbaum>: Okay, I guess I'm a little bit confused by that. I mean, because certainly if there's an extra 
+week, then you produce an extra week's worth of stuff. So if you're selling it as fast as you're producing it, is there not 
+an extra week's worth of stuff to sell through? 
+
+<A - Jen-Hsun Huang>: Like I said, it is all supply-constrained. And if we have more time to build it, we would 
+certainly build more. But our demand is sufficiently high. And you probably already also know that we can only ship 
+wafers that are outputted from the factory several weeks in advance. And so if you cut one of my weeks short, but the 
+wafers came out of TSMC, we'd just rush it through the back end and ship it. And so if you cut our quarter down by 
+three weeks, then it would surely affect our output, but if you cut it back by a week, we'll just increase our back-end 
+capacity and ship more wafers that came out the week before that. 
+
+<Q - Daniel Berenbaum>: Okay. Thanks. 
+
+Operator 
+
+Thank you. Our next question comes from the line of David Wu with Global Crown Capital. Please go ahead. 
+
+<Q - David Wu>: Yes, thank you for taking my question. Can you talk a little bit about the professional business 
+prospects? Because I don't think those are 40-nanometer parts, and I assume those are more available. And if John 
+Chambers is right, supposedly these enterprise kind of projects should be loosening up, as your first quarter numbers 
+show. How much could you grow that professional business in Q4? And I have a quick follow-up after that. 
+
+<A - Jen-Hsun Huang>: Our PSG business is demand-constrained, not supply-constrained. So I agree with you there. 
+And so we will ship as much as the market – we will replenish as much as the market pulls. 
+
+<Q - David Wu>: Okay, that's good. Jen-Hsun, you showed – I was at the show when Fermi was previewed, and you 
+showed very good numbers on the computing slide. Relative to your competition that is shipping products, you didn't to 
+
+
+talk anything about the graphics side. Should I assume that the graphics performance is equally superior to the 
+competition that's shipping right now? 
+
+<A - Jen-Hsun Huang>: We didn't announce anything on graphics because it wasn't graphics day. When we announce 
+GeForce and Quadro, we're going to talk about the revolutionary graphics ideas that are designed into Fermi. And so 
+we're looking forward to do that in the near future. And so please be patient with us. The market is anxiously waiting, 
+and we have enthusiasts all over the world that are waiting for us to ship it. 
+
+Every four years or so, we revolutionize the GPU with a brand new architecture. If you remember the G80, what 
+became GeForce 8800, was probably one of the most successful products in the history of our company. And we've 
+been doing incremental changes to G80 since then. And now with Fermi, it's another revolutionary architecture, and I'm 
+expecting to take the GPU market up another notch. 
+
+And relative to the competition, the market has really spoken. Although it's a fast chip, it's not that fast. And it's 
+basically an RV770 with DX11. And I think that you could incrementally make changes for a number of years, but 
+certainly not forever. And we're only going to change the marketplace going forward with Fermi. And so that's our 
+focus, and we're trying to get it shipped as soon as possible. The demand is really, really strong for it. And we'll tell you 
+about all the great graphics features when we launch. 
+
+<Q - David Wu>: The chip is a very big one. I was wondering, can you strike it quickly? 
+
+<A - Jen-Hsun Huang>: Well, there are many derivatives of Fermi. And so each one of the processors are designed to 
+be the right size of its market. Back in the good old days, everybody used to tell me that MB10 was too big and then 
+MB20 was too big and MB40 was too big. MB30 was too big. It's only too big if it doesn't do anything. But if the 
+performance is excellent, what consumers enjoy is something that is surprising and delightful and shocking. It's just the 
+next level. And that's what we've built for them. 
+
+<Q - David Wu>: Thank you very much. 
+
+Operator 
+
+Thank you. Our next question comes from the line of JoAnne Feeney with FTN Equity Capital Markets. Please go 
+ahead. 
+
+<Q - JoAnne Feeney>: Hi. Good afternoon, folks, and congrats on a nice quarter. 
+
+<A - Jen-Hsun Huang>: Thank you, JoAnne. 
+
+<Q - JoAnne Feeney>: You're welcome. I wanted to try to get into the issue we've been hearing about in the market. 
+It's been noted that your higher-end discrete graphics processors, the 270, 285, 295, that line, has been in short supply. 
+And I'm sort of wondering if you've made a strategic decision to deemphasize that segment of the market, or if you're 
+supply constrained even at 55-nanometer, or if you've just seen demand tail off and that's why we've seen supply slow 
+to a trickle here? 
+
+<A - Jen-Hsun Huang>: Well, the demand for GTX 275 and 285 and 295 is really high. We have nothing left. We've 
+just got nothing left. 
+
+<Q - JoAnne Feeney>: So this is a supply 
+
+
+<A - Jen-Hsun Huang>: We shipped everything we could last quarter. 
+
+<Q - JoAnne Feeney>: Okay. 
+
+<A - Jen-Hsun Huang>: And we're not trying to keep any for a rainy day. And so customers are just yanking parts out 
+of our hands. And so we're just trying to keep up. And our focus is just to keep up with our demand across the board. 
+And the sacrifices that we have to make sometimes in our own channel products, particularly the high end, so that we 
+
+
+can fulfill OEM demand is a sacrifice that we have to make. And we made plenty of that this quarter, and we'll have to 
+make some of it next quarter. 
+
+<Q - JoAnne Feeney>: Okay. And then if I could, a follow-up circling back to the chipset question – I just wanted to 
+make sure I understood correctly. So your view on chipsets for next year is that you have a competitive advantage in 
+your MCP79, 89 that delivers graphics that's better than what Intel will even deliver on its Arrandale platform. And so 
+are you thinking that PC bakers may want to have an NVIDIA chipset even alongside Arrandale? Or are you thinking 
+that attach rates for discrete graphics will be rising on notebooks and that's how you plan to sort of replace those chipset 
+revenues? 
+
+<A - Jen-Hsun Huang>: I was just talking about chipsets. And MCP79 and MCP89 do not connect to Arrandales. 
+
+<Q - JoAnne Feeney>: So when Intel switches to Arrandale, do you have a substitute? Or do you just not think that 
+chipset business or the switch to Arrandale is going to occur quickly enough to materially affect your chipset business 
+over the next calendar year? 
+
+<A - Jen-Hsun Huang>: It will not switch over quickly enough. 
+
+<Q - JoAnne Feeney>: Can you give us a... 
+
+<A - Jen-Hsun Huang>: The market demand for Core 2 Duos are still really, really strong because Core 2 Duo, as you 
+know, is the best CPU that's probably been designed by anybody on the planet in the last 10 years. The Core 2 Duo is 
+not just fast, but it's fast and low power and it's just exquisitely engineered. Core 2 Duo is what's put Intel... 
+
+<Q - JoAnne Feeney>: So it sounds like you're assuming that Intel might... 
+
+<A - Jen-Hsun Huang>: ...where it is today, right? And so Core 2 Duo is what we connect to. Core 2 Duo, Celerons, 
+Pentium Ds, Atoms, so on, so forth, that's where MCP79 and 99 – 89 are targeted. 
+
+<Q - JoAnne Feeney>: Okay, I think I understand better now. So you're thinking that Intel may not transition as 
+quickly over the next calendar year as they have in the past when they've introduced new chips. 
+
+<A - Jen-Hsun Huang>: They don't ever transition as fast as you characterize it. They're transitioning, and they're 
+transitioning as fast as they can. And some people might want to go to Arrandale and some people might want to stay 
+with Core 2 Duo with an MCP79, and some people might stay with Core 2 Duo and an MCP89. And then some people 
+might want Atom plus 79. And so the market's a big and differentiated place. Everybody doesn't want to build exactly 
+the same thing. And the benefit of MCP79 and 89 is it allows customers to build different types of devices. 
+
+The HP Mini-Note that has the Ion chip in it – talk about the recognition that HP is getting. I think it's the only box 
+from HP that I see reviewed. I don't remember a Lenovo notebook ever getting reviewed with the exception of the Ion 
+netbook that they recently shipped. I think that the market is dying for differentiated type products. And so many 
+OEMs will choose to choose different strategies. I don't think everybody wants to build exactly the same thing. 
+
+<Q - JoAnne Feeney>: Okay. Thanks. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Tim Luke with Barclays Capital. Please go ahead. 
+
+<Q - Tim Luke>: Thank you very much. Can you hear me, David? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Yes. 
+
+<Q - Tim Luke>: David, I was just wondering if you could give some color with respect to your revenue guidance, 
+what you guided up 2%. Of the businesses, which ones do you think would be up in the January quarter? 
+
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Well, we don't typically break it out 
+separately, one business versus another. But certainly our GPU business would be up higher if we had more supply 
+available to us than what we've guided. As I think we indicate in our commentary and so forth, our PSB business, we're 
+seeing some positive traction there. We would expect it to be up. So I think our business across most of our platforms 
+will all be up. It's just that they're going to be modest as a result of supply constraints. 
+
+<Q - Tim Luke>: Just to get back to this issue on the guidance and the capacity strain -constraints, which you've had 
+somewhat longer now to address and you have the extra week. Should we construe then that your guidance, given the 
+description of I think Jen-Hsun said very, very strong demand, is conservative, as it was last quarter? Or how should we 
+think about that? And beyond that, do you have any sense of how we should think about normal seasonality at the 
+beginning of the next year? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: So if you look at historical quarters and 
+so forth, we have much more turns business generally to generate than what we have in the last few quarters. And as we 
+have ramped our products and so forth, we had sufficient inventories in the past, you might say, to respond to some of 
+the ramp that we've seen in the second quarter and the third quarter. But now we're to a point where we're really 
+supply-constrained. 
+
+I mean, my revenue is going to be determined not so much by our turns – business we generate this quarter. It's not 
+going to be determined so much by the opening backlog we've got. It's really determined by the amount of supply 
+we've got available to us. And we think we have a clearer picture at least of what that is today and our ability to build 
+against that supply. 
+
+<Q - Tim Luke>: Do you have a framework for how should we think about seasonality for the beginning of next year? 
+
+<A - Jen-Hsun Huang>: Next year is going to be an interesting first quarter because in fact we'll need more wafers 
+than ever in Q1. And the reason for that is because – and I mean, more 40-nanometer wafers than ever in Q1 because 
+we're obviously fully ramping Fermi for three different product lines, GeForce, Quadro, and Tesla. We'll be fully 
+ramping MCP89. We'll be fully ramping Tegra, not to mention the 40-nanometer products that we currently have that 
+are fully ramped up. And so I'm expecting Q1 to be a pretty exciting quarter for us because we just have so many new 
+products. 
+
+<Q - Tim Luke>: So, Jen-Hsun, you feel it's going to be a growth quarter or you think there'll be the normal 
+seasonality? 
+
+<A - Jen-Hsun Huang>: I think we have a shot at having a growth quarter, but again it's going to be completely 
+supply determined. 
+
+<Q - Tim Luke>: Just on the expense side where you guided it to 305, David, I think in prior updates you've been 
+saying that you thought that the January period would be more like 270. You have the extra week, but what are the 
+other elements that have changed the expense guidance? And also it looks like you're guiding the gross margin 
+somewhat lower despite higher revenues. Could you talk about what are the elements of the mix that are suggesting that 
+it'll be lower? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: So let me go to your operating expense 
+question first. If you look at our operating expenses and the guidance we gave in the quarter, it's really – the 14th week 
+is a fairly sizable element of the increase from Q3 to Q4. 
+
+But there are a couple of other pieces that kind of enter into it as well that was listed in the commentary. And one of 
+them is the fact that we are in the midst of launching and bringing up a record number of new products right now. And 
+those new products each require engineering wafers. They incur expenses for tape-outs. They incur expenses for 
+marketing materials and launches and so forth. 
+
+And so all of those things combined have our bring-up expenses running at roughly 2X the rate that they were just a 
+couple of quarters ago. That will not be permanent. We would expect that to go down sometime in the second quarter 
+because we'll still be bringing up some of these products in the first quarter. But we would expect it to come down. 
+
+
+And then the other piece, as I think we also indicated, is our legal expenses have gone up as well during some of this 
+time period. And so those are the primary elements of the bridge. But I do believe it'll come down in Q1, and I do 
+believe it'll come down again in Q2 as we get some of these bring-ups behind us. 
+
+Going back to your question as it relates to gross margins, our non-GAAP gross margins for the third quarter were 
+41%. And we basically guided 40 to 42, so I would say we guided flat. I wouldn't say we guided down. The extra... 
+
+<Q - Tim Luke>: Oh, I'm sorry. I thought it was the GAAP gross margin that you were guiding at 40 to 42 from the 43 
+level. 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: We're guiding flat with the GAAP gross 
+margins. And the non-GAAP gross margins would be pretty much the same if you pull out the insurance 
+reimbursement we got. So if you pull out the insurance... 
+
+<Q - Tim Luke>: How big was that? 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: It was $25 million. So if you pull the 
+insurance reimbursement out, whether you look at it on a GAAP or non-GAAP basis, it's roughly flat 
+quarter-to-quarter. 
+
+<Q - Tim Luke>: Okay. Just last thing... 
+
+<A - Michael W. Hara, Senior Vice President, Investor Relations and Communications>: Tim, we need to move 
+on to another question. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Craig Berger with Friedman Billings and Ramsey and Company 
+(sic) [Friedman, Billings, Ramsey & Co.]. Please go ahead. 
+
+<Q - Robert Pikover>: Hey, guys. This is Robert Pikover in for Craig. Thanks for taking my question. I guess 
+understanding that demand is strong and the environment with component shortages out there, do you see any risks that 
+the PC supply chain potentially overheated in 3Q due to a Windows 7 build-ahead possibly spurring any kind of double 
+ordering? 
+
+<A - Jen-Hsun Huang>: Well, we're really not that close to meeting anybody's demand. So I'm not really too worried 
+about them ordering more. And so I just don't think it's an issue at the moment. Everybody is being allocated. I don't 
+have a single customer who's not being allocated. And so that's the first thing. 
+
+The second thing is that our growth is also coming from our professional solutions business, which I expected to grow, 
+continue to grow. Our growth and therefore top line and margins will come from Tegra, which consumes very little 
+wafers but generates a lot of earnings. And so those two things, between Tegra, our mobile computing business, and 
+our Tesla server and cloud computing business, and our professionals business, I think we have a shot at growing 
+through it all, despite the supply constraints. 
+
+<Q - Robert Pikover>: Okay, that's helpful. And can you guys talk about what you're seeing in terms of pricing within 
+your desktop and notebook GPU products in the quarter? 
+
+<A - Jen-Hsun Huang>: I think as you can imagine, the conversation is really on supply. And most of our 
+conversations with our customers are all very emotional and all related to supply. We wish we could give them more. 
+They wish we could get them more. And this is a conversation we have with 100% of our customers. There's not a 
+single customer that we have not at some level let down during the quarter, and there's not one customer we will not let 
+down in Q4. And we all feel terrible about it. And we're beating ourselves up over it. And you can tell from my tone 
+that this is something that I'm obviously not very happy about. But we're doing everything we can. And I know that all 
+of our suppliers are doing everything they can. 
+
+
+<Q - Robert Pikover>: Does that imply that you're able to raise prices in this environment? 
+
+<A - Jen-Hsun Huang>: We don't raise prices. There's no such thing. I mean, raising prices because demand is high is 
+just bad mojo, man. You don't want to go there. 
+
+<Q - Robert Pikover>: Okay. Thank you. 
+
+Operator 
+
+Thank you. Our next question comes from the line of Raj Seth with Cowen and Company. Please go ahead. 
+
+<Q - Simran Brar>: Good evening. This is Simran Brar in for Raj Seth. Thank you for taking my question. I had a 
+couple of quick questions. The first is on the chipset business. Based on what you've said in the call, it seems like you 
+expect that the business could grow in 2010. I know that there are a lot of moving parts here, but assuming that you 
+don't get access to win those new bus how do you think about revenues over the next few years? Are they expected to 
+gradually roll off, or do you expect a cliff in revenues based on transition from one processor family to the other? 
+
+And the other question is on Tegra. Previously you've indicated that Tegra could possibly do close to 100 million per 
+quarter exiting 2010. Based on the wins that you have right now, I just wanted to get an idea of what your visibility is 
+on that sort of revenue number. Thank you. 
+
+<A - David White, Executive Vice President and Chief Financial Officer>: Why don't we skip the first part of the 
+question, if you will, because we answered that previously at length. But I'll let Jen-Hsun answer the Tegra part. 
+
+<A - Jen-Hsun Huang>: So the Tegra part, the Tegra question, we have all these different projects in the pipeline, and 
+all of these projects are rather engineering-intensive. One of the things about the embedded business is that it takes 
+longer to get into. It takes longer to ramp. We've been working on these projects now for – some for almost a year. And 
+these embedded projects just take a lot of custom engineering. And the benefit of the embedded business, of course, 
+and the integrated business is that once you get designed in, then you ship for a lot longer. And it's just a very, very 
+different business than the PC industry, which has very rapid turns and very rapid cycles. 
+
+And so it has some benefits, and it has some dis-benefits. And I think that long term – long term being a year, this is 
+going to be just a spectacular business. I think that Tegra is one of – we are one of two or three companies that is at the 
+epicenter and the strike zone of mobile computing. And I think that I don't know how many companies wouldn't want 
+to be in our position with the Tegra processor right now. But it is just right down the middle of where the most 
+important areas of innovation and where the most exciting areas of computing's happening right now. So I can't be 
+more pleased. We just have to be patient. 
+
+Operator 
+
+Thank you. There are no further questions at this time. I will now turn the call over to Michael. Please go ahead. 
+
+Michael W. Hara, Senior Vice President, Investor Relations and 
+Communications 
+
+Thanks, everyone. We look forward to talking to you next quarter. 
+
+Operator 
+
+
+Ladies and gentlemen, that does include today's conference call. We thank you very much for your participation, and 
+we ask that you please disconnect your lines. Have a lovely evening, everyone. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2009, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+
