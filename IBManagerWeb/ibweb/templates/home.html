@@ -4,12 +4,24 @@
     <meta charset="UTF-8">
     <title>IB Manager</title>
     <style>
+        body {
+            margin: 0 auto;
+            max-width: 50em;
+            font-family: "Helvetica", "Arial", sans-serif;
+            line-height: 1.5;
+            padding: 4em 1em;
+            color: #555;
+        }
+        h1,h2 {
+            color: #333;
+        }
         .function {
             margin: 10px;
-            background: #CACACA;
+            background: #eee;
             padding: 10px;
-            width: 30%;
         }
+
+
     </style>
 </head>
 <body>
@@ -20,7 +32,8 @@
             <button name="func" value="{{executor.ZACKS}}">Refresh report dates (zacks.com)</button>
         </div>
         <div class="function">
-            <button name="func" value="{{executor.EARNINGS_TRANSCRIPT}}">Download new transcripts (seekingalpha.com)</button>
+            <button name="func" value="{{executor.EARNINGS_TRANSCRIPT}}">Download new transcripts (seekingalpha.com)
+            </button>
         </div>
         <div class="function">
             <button name="func" value="{{executor.TONE_CALC}}">Calculate Henry tone</button>
