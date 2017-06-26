@@ -4,17 +4,17 @@ import pandas as pd
 import os.path
 from nltk import word_tokenize
 import logging
+import sys
 
 
 class ToneCalc(object):
-    def __init__(self):
-        # self.client = pymongo.MongoClient('mongodb://localhost:27017')
-        # self.db = self.client['python_import']
-        # self.collection = self.db['earnings_transcript_bloomberg']
-
-        self.client = pymongo.MongoClient('mongodb://192.168.137.62:27017')
-        self.db = self.client['insider']
-        self.collection = self.db['earnings_call_Nas100_Broad_Manual_Update']
+    def __init__(self,
+                 url='mongodb://localhost:27017',
+                 db='python_import',
+                 collection='earnings_transcript_bloomberg'):
+        self.client = pymongo.MongoClient(url)
+        self.db = self.client[db]
+        self.collection = self.db[collection]
         self.initialize_positive_negative_words()
 
     def initialize_positive_negative_words(self):
@@ -81,5 +81,9 @@ class ToneCalc(object):
 if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO,
                         format="[(%(threadName)s) - %(asctime)s - %(name)s - %(levelname)s] %(message)s")
-    tone_calc = ToneCalc()
+    if len(sys.argv) > 1:
+        logging.info('Start tone calculation with arguments: %s', str(sys.argv[1:]))
+        tone_calc = ToneCalc(sys.argv[1], sys.argv[2], sys.argv[3])
+    else:
+        tone_calc = ToneCalc()
     tone_calc.process_all_and_save()

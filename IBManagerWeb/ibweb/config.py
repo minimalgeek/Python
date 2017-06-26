@@ -3,6 +3,9 @@ import logging.config
 import os
 import json
 
+PROJECT_ROOT = os.path.dirname(__file__)
+OTP_ROOT = os.path.abspath(os.path.join(PROJECT_ROOT, '..', '..'))
+
 
 def say_hello():
     logging.getLogger(__name__).debug('Configuration test')

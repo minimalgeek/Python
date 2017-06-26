@@ -1,20 +1,20 @@
 import logging
 from flask import Flask, request, render_template
-from ibweb import config as cfg
+from ibweb import config as cfg, bat_executor
 
 logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
 
 
-@app.route('/')
+@app.route('/', methods=['GET', 'POST'])
 def hello():
-    return render_template('home.html')
+    ret_code = None
+    if request.method == 'POST':
+        logger.info('Request to execute [%s]', request.form['func'])
+        ret_code = bat_executor.run_bat(int(request.form['func']))
 
-
-@app.route('/zacks', methods=['POST'])
-def zacks():
-    return render_template('home.html')
+    return render_template('home.html', ret_code=ret_code, executor=bat_executor)
 
 
 @app.route('/shutdown')

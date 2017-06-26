@@ -3,13 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <title>IB Manager</title>
+    <style>
+        .function {
+            margin: 10px;
+            background: #CACACA;
+            padding: 10px;
+            width: 30%;
+        }
+    </style>
 </head>
 <body>
 <h1>Execution steps</h1>
 <div class="function-panel">
-    <div class="function">
-        <button>Refresh report dates (zacks.com)</button>
-    </div>
+    <form method="post">
+        <div class="function">
+            <button name="func" value="{{executor.ZACKS}}">Refresh report dates (zacks.com)</button>
+        </div>
+        <div class="function">
+            <button name="func" value="{{executor.EARNINGS_TRANSCRIPT}}">Download new transcripts (seekingalpha.com)</button>
+        </div>
+        <div class="function">
+            <button name="func" value="{{executor.TONE_CALC}}">Calculate Henry tone</button>
+        </div>
+        <div class="function">
+            <button name="func" value="{{executor.STRATEGY}}">Run IB strategy</button>
+        </div>
+    </form>
 </div>
+{% if ret_code %}
+<h2>Result: {{ ret_code }}</h2>
+{% endif %}
 </body>
 </html>
