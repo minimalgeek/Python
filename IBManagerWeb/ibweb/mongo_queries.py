@@ -11,7 +11,11 @@ def latest_zacks_report_dates(days=10) -> Dict:
     from_date = to_date - timedelta(days=days)
     logger.info('Load report dates between %s and %s', str(from_date), str(to_date))
 
-    result = cfg.zacks_collection.find({'nextReportDate': {'$gte': from_date, '$lte': to_date}})
+    result = cfg.zacks_collection.find(
+        {'nextReportDate':
+             {'$gte': from_date, '$lte': to_date}
+         }
+    ).sort('nextReportDate', direction=-1)
     return list(result)
 
 
