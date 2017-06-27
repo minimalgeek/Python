@@ -86,6 +86,7 @@ def print_enter_exit_error(fn):
 class IBManager(TestWrapper, TestClient):
     MAX_WAIT_SECONDS = 10
     OPEN_ORDER_END = 'OPEN_ORDER_END'
+    POSITION_END = 'POSITION_END'
 
     def __init__(self, host, port, client_id):
         TestWrapper.__init__(self)
@@ -97,7 +98,7 @@ class IBManager(TestWrapper, TestClient):
         self.callback_holder = {}
 
         # holders for shitty functions, like openOrder+openOrderEnd
-        self.id_to_order = queue.Queue()
+        self.universal_queue = queue.Queue()
         # threading shit
         self.connect(host, port, client_id)
         thread = Thread(target=self.run, name='IBManager')
@@ -113,21 +114,27 @@ class IBManager(TestWrapper, TestClient):
 
     @print_enter_exit_error
     def load_portfolio(self):
-        self.id_to_order = queue.Queue()
-        self.reqAllOpenOrders()
+        self.universal_queue = queue.Queue()
         portfolio_list = []
+
+        self.reqAllOpenOrders()
+        self.fill_return_list_from_queue(IBManager.OPEN_ORDER_END, portfolio_list)
+
+        self.reqPositions()
+        self.fill_return_list_from_queue(IBManager.POSITION_END, portfolio_list)
+
+        return portfolio_list
+
+    def fill_return_list_from_queue(self, terminating_string: str, portfolio_list):
         try:
             while True:
-                item = self.id_to_order.get(timeout=IBManager.MAX_WAIT_SECONDS)
-                if item == IBManager.OPEN_ORDER_END:
+                item = self.universal_queue.get(timeout=IBManager.MAX_WAIT_SECONDS)
+                if item == terminating_string:
                     break
                 else:
                     portfolio_list.append(item)
         except queue.Empty:
             self.logger.error("Exceeded maximum wait to respond")
-            portfolio_list = None
-
-        return portfolio_list
 
     @print_enter_exit_error
     def place_test_order(self, ticker):
@@ -151,13 +158,25 @@ class IBManager(TestWrapper, TestClient):
     def openOrder(self, orderId: OrderId, contract: Contract, order: Order,
                   orderState: OrderState):
         self.logger.info('Open order: %d', orderId)
-        self.id_to_order.put((contract, order, orderState))
+        self.universal_queue.put((contract, order, orderState))
 
     def openOrderEnd(self):
         self.logger.info('Open order end')
-        self.id_to_order.put(IBManager.OPEN_ORDER_END)
+        self.universal_queue.put(IBManager.OPEN_ORDER_END)
 
     def nextValidId(self, orderId: int):
         self.logger.info("Setting next valid order id: %d", orderId)
         self._next_valid_order_id = orderId
         self._started = True
+
+    def position(self, account: str, contract: Contract, position: float,
+                 avgCost: float):
+        self.logger.info('Position')
+        if position != 0.0:
+            order = Order()
+            order.totalQuantity = position
+            self.universal_queue.put((contract, order, OrderState()))
+
+    def positionEnd(self):
+        self.logger.info('Position end')
+        self.universal_queue.put(IBManager.POSITION_END)

@@ -6,8 +6,8 @@
     <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-<h1>Execution steps</h1>
 <div class="function-panel, panel">
+    <h1>Execution steps</h1>
     <form method="post">
         <div class="function">
             <h3>Refresh report dates (zacks.com)</h3>
@@ -27,61 +27,61 @@
         </div>
     </form>
 </div>
+
 {% if ret_code %}
 <h1>Result: {{ ret_code }}</h1>
 {% endif %}
-<h1>List of Zacks report dates and transcripts</h1>
 <div class="panel">
-<table id="trs_table">
-<thead>
-    <tr>
-        <th>Ticker</th>
-        <th>Next report date</th>
-        <th>Url</th>
-        <th>Order ID</th>
-        <th>Quantity</th>
-        <th>Action</th>
-    </tr>
-</thead>
-<tbody>
-  {% for tr in trs %}
-    <tr>
-        <td>{{ tr['ticker'] }}</td>
-        <td>{{ tr['nextReportDate'] }}</td>
-        <td><a href="{{ tr['url'] }}" target="_blank">{{ tr['url'] }}</a></td>
-        <td>{{ tr['pos_orderId'] }}</td>
-        <td>{{ tr['pos_totalQuantity'] }}</td>
-        <td>{{ tr['pos_action'] }}</td>
-    </tr>
-  {% endfor %}
-</tbody>
-</table>
+    <h1>List of Zacks report dates and transcripts</h1>
+    <table id="trs_table">
+        <thead>
+        <tr>
+            <th>Ticker</th>
+            <th>Next report date</th>
+            <th>Url</th>
+            <th>Order ID</th>
+            <th>Quantity</th>
+            <th>Action</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for tr in trs %}
+        <tr>
+            <td>{{ tr['ticker'] }}</td>
+            <td>{{ tr['nextReportDate'] }}</td>
+            <td><a href="{{ tr['url'] }}" target="_blank">{{ tr['url'] }}</a></td>
+            <td>{{ tr['pos_orderId'] }}</td>
+            <td>{{ tr['pos_totalQuantity'] }}</td>
+            <td>{{ tr['pos_action'] }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
 </div>
 
-<h1>List of positions</h1>
 <div class="panel">
-<table id="positions_table">
-<thead>
-    <tr>
-        <th>Order ID</th>
-        <th>Ticker</th>
-        <th>Quantity</th>
-        <th>Action</th>
-    </tr>
-</thead>
-<tbody>
-  {% for pos in positions %}
-    <tr>
-        <td>{{ pos[1].orderId }}</td>
-        <td>{{ pos[0].symbol }}</td>
-        <td>{{ pos[1].totalQuantity }}</td>
-        <td>{{ pos[1].action }}</td>
-    </tr>
-  {% endfor %}
-</tbody>
-</table>
+    <h1>List of positions and orders</h1>
+    <table id="positions_table">
+        <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Ticker</th>
+            <th>Quantity</th>
+            <th>Action</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for pos in positions %}
+        <tr>
+            <td>{{ pos[1].orderId }}</td>
+            <td>{{ pos[0].symbol }}</td>
+            <td>{{ pos[1].totalQuantity }}</td>
+            <td>{{ pos[1].action }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
 </div>
-
 
 
 </body>
