@@ -35,10 +35,13 @@ class Strategy01(Strategy):
             in_portfolio = self.portfolio.get(symbol)
             if in_portfolio is not None:
                 self.info('%s exist in portfolio', symbol)
-                prev_signal = in_portfolio.get('signal')
-                order_id = in_portfolio.get('order_id')
+                prev_signal: Signal = in_portfolio.get('signal')
+
                 if prev_signal.direction != signal.direction:
-                    close_signal = Close(ticker=symbol, order_id=order_id)
+                    close_signal = Close(ticker=symbol,
+                                         order_id=in_portfolio.get('order_id'),
+                                         value=prev_signal.value,
+                                         prev_direction=prev_signal.direction)
                     self.add_and_log(close_signal)
                 else:
                     signal = None

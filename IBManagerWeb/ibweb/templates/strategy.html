@@ -1,15 +1,15 @@
 {% extends "home.html" %}
 {% block strategy %}
 <div class="panel">
-    <h3>Executable signals</h3>
-    <form method=post action="/strategy">
+    <h1>Executable signals</h1>
+    <form method="post" action="{{ url_for('strategy') }}" class="strategy-form">
         {% for signal in signals %}
-        <div>
-            <input type="checkbox" value="true" name="{{ signal['ticker'] }}"/>
-            <span>{{ signal['ticker'] }}</span>
+        <div class="form-item">
+            <input type="checkbox" name="{{ signal.id }}"/>
+            <span>{{ signal.direction }} {{ signal.value }} <b>{{ signal.ticker }}</b></span>
         </div>
         {% endfor %}
-        <button type="submit" name="place-orders">Run selected</button>
+        <button type="submit">Run selected</button>
     </form>
 </div>
 {% endblock %}

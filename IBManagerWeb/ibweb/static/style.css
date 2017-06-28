@@ -12,7 +12,7 @@ button {
     color: #555;
 }
 
-h1,h2 {
+h1,h2,h3,h4 {
     color: #333;
 }
 
@@ -55,4 +55,17 @@ tbody tr:nth-child(even) {
 }
 tbody tr:hover {
     background-color: #ffff99;
+}
+
+.strategy-form {
+    margin: 1em;
+}
+
+.form-item {
+    margin: 1em;
+    padding: 0.4em 0.4em 0.3em;
+    color: crimson;
+    background-color: antiquewhite;
+    border-radius: 15px;
+
 }

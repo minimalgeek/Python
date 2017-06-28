@@ -143,13 +143,19 @@ class IBManager(TestWrapper, TestClient):
     @print_enter_exit_error
     def process_signals(self, signals: queue.Queue):
         while not signals.empty():
-            signal = signals.get()
+            signal: Signal = signals.get()
             if signal.direction != Close.direction:
                 self.placeOrder(self.next_order_id(),
                                 USStock(signal.ticker),
                                 MarketOrder(signal.direction, signal.value))
             else:
-                self.cancelOrder(signal.order_id)
+                if signal.order_id != 0:
+                    self.cancelOrder(signal.order_id)
+                else:
+                    direction = Sell.direction if signal.prev_direction == Buy.direction else Sell.direction
+                    self.placeOrder(self.next_order_id(),
+                                    USStock(signal.ticker),
+                                    MarketOrder(direction, signal.value))
 
     ############################
     # All the overridden stuff #
@@ -175,6 +181,7 @@ class IBManager(TestWrapper, TestClient):
         if position != 0.0:
             order = Order()
             order.totalQuantity = position
+            order.action = 'BUY' if position > 0 else 'SELL'
             self.universal_queue.put((contract, order, OrderState()))
 
     def positionEnd(self):
