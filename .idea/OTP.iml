@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Transformers/ToneCalculator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Utils" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/IBManagerWeb" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Other/FlaskR" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

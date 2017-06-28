@@ -16,7 +16,7 @@ config = {
     'install_requires': required,
     'packages': ['NAME'],
     'scripts': [],
-    'name': 'projectname',
+    'name': 'skeleton',
     'setup_requires': ['pytest-runner'],
     'tests_require': ['pytest']
 }
