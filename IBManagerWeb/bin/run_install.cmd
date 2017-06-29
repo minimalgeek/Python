@@ -1,2 +1,4 @@
+REM cd..
+REM python setup.py install
 cd..
-python setup.py install
+pip install --editable .
