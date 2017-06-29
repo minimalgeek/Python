@@ -1,4 +1,7 @@
 setuptools==36.0.1
+pymongo==3.4.0
 splinter==0.7.5
-Flask==0.12.2
 pytest==3.1.2
+Flask==0.12.2
+strategies==0.2.3
+typing==3.6.1
