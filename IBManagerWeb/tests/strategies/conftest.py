@@ -1,14 +1,19 @@
 import pytest
 from datetime import datetime
 from ibweb import config
+from random import randint
 
 
 @pytest.fixture(scope="session", autouse=True)
 def before_all(request):
     config.mongo['transcript_collection'] = 'earnings_transcript_test'
+    config.mongo['zacks_collection'] = 'zacks_earnings_call_dates_test'
+
     config.init_database()
 
     config.transcript_collection.delete_many({})
+    config.zacks_collection.delete_many({})
+
     add_test_data()
 
 
@@ -50,7 +55,7 @@ def add_test_data():
     }
     )
     config.transcript_collection.insert_one({
-        "url": "ibm_01",
+        "url": "ibm_02",
         "tradingSymbol": "IBM",
         "publishDate": datetime(2016, 1, 5),
         "rawText": "hello bello",
@@ -62,7 +67,7 @@ def add_test_data():
     }
     )
     config.transcript_collection.insert_one({
-        "url": "ibm_02",
+        "url": "ibm_03",
         "tradingSymbol": "IBM",
         "publishDate": datetime(2016, 4, 8),
         "rawText": "yoyo",
@@ -74,7 +79,7 @@ def add_test_data():
     }
     )
     config.transcript_collection.insert_one({
-        "url": "goog_02",
+        "url": "goog_01",
         "tradingSymbol": "GOOG",
         "publishDate": datetime(2015, 3, 12),
         "rawText": "a",
@@ -83,5 +88,47 @@ def add_test_data():
             "positiveCount": 20,
             "negativeCount": 46
         }
+    }
+    )
+
+    config.zacks_collection.insert_one({
+        "ticker": 'AAL',
+        "nextReportDate": datetime(2016, 1, 1),
+    }
+    )
+
+    config.zacks_collection.insert_one({
+        "ticker": 'AAL',
+        "nextReportDate": datetime(2016, 3, 30),
+    }
+    )
+
+    config.zacks_collection.insert_one({
+        "ticker": 'IBM',
+        "nextReportDate": datetime(2015, 10, 2),
+    }
+    )
+
+    config.zacks_collection.insert_one({
+        "ticker": 'IBM',
+        "nextReportDate": datetime(2016, 1, 5),
+    }
+    )
+
+    config.zacks_collection.insert_one({
+        "ticker": 'IBM',
+        "nextReportDate": datetime(2016, 4, 8),
+    }
+    )
+
+    config.zacks_collection.insert_one({
+        "ticker": 'IBM',
+        "nextReportDate": datetime(2016, 7, 12),
+    }
+    )
+
+    config.zacks_collection.insert_one({
+        "ticker": 'GOOG',
+        "nextReportDate": datetime(2016, 8, 26),
     }
     )

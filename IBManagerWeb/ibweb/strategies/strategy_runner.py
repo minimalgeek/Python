@@ -19,8 +19,6 @@ def run_strategy(manager):
 
 
 def load_transcripts():
-    # to_date = datetime(2016, 4, 10)
-    # from_date = to_date - timedelta(days=10)
     to_date = datetime.now()
     from_date = to_date - timedelta(days=10)
 

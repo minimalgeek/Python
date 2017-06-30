@@ -1,5 +1,7 @@
+from typing import List
+
 from .. import config as cfg
-from datetime import datetime
+from datetime import datetime, timedelta
 import pymongo
 import logging
 
@@ -28,3 +30,74 @@ def load_transcripts_between(from_date: datetime, to_date: datetime):
         ret.append(transcript)
 
     return ret
+
+
+def load_all_next_zacks_date():
+    """
+    Query only the latest report date for all tickers
+    :return: List of tickers with a date
+    """
+    pipeline = [
+        {
+            '$group': {
+                '_id': "$ticker",
+                'nextReportDate': {'$max': "$nextReportDate"},
+                'count': {'$sum': 1}
+            }
+        },
+        {
+            '$sort': {
+                'nextReportDate': -1
+            }
+        },
+        {
+            '$project': {
+                '_id': 0,
+                'ticker': "$_id",
+                'nextReportDate': 1
+            }
+        }
+    ]
+    lst = list(cfg.zacks_collection.aggregate(pipeline))
+    return lst
+
+
+def load_all_next_zacks_date_filtered(filter_list=None):
+    zacks_list = load_all_next_zacks_date()
+    if filter_list is None:
+        return zacks_list
+    ret = list(filter(lambda x: x['ticker'] in filter_list, zacks_list))
+    return ret
+
+
+def load_transcripts_and_zacks_list(day_limit=4, filter_list=None):
+    zacks_list = load_all_next_zacks_date_filtered(filter_list)
+
+    for zacks_date in zacks_list:
+        ticker = zacks_date['ticker']
+        current_transcript = cfg.transcript_collection.find_one({
+            'tradingSymbol': ticker,
+            'publishDate':
+                {'$gt': zacks_date['nextReportDate'] - timedelta(days=day_limit),
+                 '$lt': zacks_date['nextReportDate'] + timedelta(days=day_limit)}
+        })
+
+        previous_transcript = _load_previous_transcript(current_transcript, ticker)
+
+        zacks_date['current_transcript'] = current_transcript
+        zacks_date['previous_transcript'] = previous_transcript
+
+    return zacks_list
+
+
+def _load_previous_transcript(current_transcript, ticker):
+    if current_transcript:
+        previous_transcript = cfg.transcript_collection.find_one({
+            'tradingSymbol': ticker,
+            'publishDate': {'$lt': current_transcript['publishDate']}
+        }, sort=[('publishDate', pymongo.DESCENDING)])
+    else:
+        previous_transcript = cfg.transcript_collection.find_one({
+            'tradingSymbol': ticker
+        }, sort=[('publishDate', pymongo.DESCENDING)])
+    return previous_transcript
