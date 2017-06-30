@@ -1,0 +1,1 @@
+python tone_calc.py mongodb://localhost:27017 python_import earnings_transcript

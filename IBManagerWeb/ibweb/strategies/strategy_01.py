@@ -1,5 +1,5 @@
-from strategies.strategy import Strategy
-from strategies.trade_signal import *
+from .strategy import Strategy
+from .trade_signal import *
 
 class Strategy01(Strategy):
     def __init__(self, *args, **kwargs):

@@ -1,7 +1,10 @@
-from strategies import dataloader
+import pytest
+
+from ibweb.strategies import dataloader
 from datetime import datetime, timedelta
 
 
+@pytest.mark.fast
 def test_load_transcripts_between():
     to_date = datetime(2016, 4, 10)
     from_date = to_date - timedelta(days=10)

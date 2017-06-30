@@ -7,7 +7,6 @@ from ibweb import config
 ZACKS = 1
 EARNINGS_TRANSCRIPT = 2
 TONE_CALC = 3
-STRATEGY = 4
 
 
 class Runner(object):
@@ -39,9 +38,9 @@ class Runner(object):
 
 
 runner1 = Runner(path='\\Downloaders\\DataDownloader\\EarningsTranscript\\Zacks_remote.bat', name=ZACKS)
-runner2 = Runner(path='\\Downloaders\\DataDownloader\\EarningsTranscript\\EarningsTranscriptTop_remote.bat', name=EARNINGS_TRANSCRIPT)
+runner2 = Runner(path='\\Downloaders\\DataDownloader\\EarningsTranscript\\EarningsTranscriptTop_remote.bat',
+                 name=EARNINGS_TRANSCRIPT)
 runner3 = Runner(path='\\Transformers\\ToneCalculator\\tone_calc.bat', name=TONE_CALC)
-runner4 = Runner(path='\\IB\\bin\\run_main.cmd', name=STRATEGY)
 
 
 def run_bat(selector):

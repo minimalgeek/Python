@@ -32,10 +32,6 @@ def init_database():
     logging.getLogger().info('Database initialized')
 
 
-def say_hello():
-    logging.getLogger(__name__).debug('Configuration test')
-
-
 def init_logging(default_path='../logging.json', default_level=logging.INFO):
     directory = os.path.dirname(__file__)
     path = os.path.join(directory, default_path)

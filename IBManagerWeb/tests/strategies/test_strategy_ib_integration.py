@@ -2,10 +2,10 @@ import pytest
 from datetime import datetime, timedelta
 import logging
 
-from strategies.strategy_01 import Strategy01
-from strategies import dataloader
-from strategies.trade_signal import *
-from strategies.ib_manager import IBManager
+from ibweb.strategies.strategy_01 import Strategy01
+from ibweb.strategies import dataloader
+from ibweb.strategies.trade_signal import *
+from ibweb.strategies.ib_manager import IBManager
 
 logger = logging.getLogger(__name__)
 manager = None

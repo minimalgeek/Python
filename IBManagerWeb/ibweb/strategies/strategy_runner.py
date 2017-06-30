@@ -1,26 +1,12 @@
 import logging
 from datetime import datetime, timedelta
 
-from strategies import dataloader
-from strategies.ib_manager import IBManager
-from strategies.strategy_01 import Strategy01
-from strategies.trade_signal import *
+from . import dataloader
+from .ib_manager import IBManager
+from .strategy_01 import Strategy01
+from .trade_signal import *
 
 logger = logging.getLogger(__name__)
-
-
-def main():
-    logger.info("Connecting to IB...")
-    manager = IBManager("127.0.0.1", 7497, 0)
-    logger.info("Server version: %s, connection time: %s",
-                manager.serverVersion(),
-                manager.twsConnectionTime())
-    strategy = run_strategy(manager)
-    manager.process_signals(strategy.signals)
-    strategy.reset()
-
-    logger.info('Trying to close IB connection')
-    manager.disconnect()
 
 
 def run_strategy(manager):
@@ -55,7 +41,3 @@ def load_portfolio(manager):
         }
 
     return portfolio
-
-
-if __name__ == '__main__':
-    main()

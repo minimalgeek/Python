@@ -1,9 +1,9 @@
 import pytest
 from datetime import datetime, timedelta
 
-from strategies import dataloader
-from strategies.strategy_01 import Strategy01
-from strategies.trade_signal import *
+from ibweb.strategies import dataloader
+from ibweb.strategies.strategy_01 import Strategy01
+from ibweb.strategies.trade_signal import *
 
 
 

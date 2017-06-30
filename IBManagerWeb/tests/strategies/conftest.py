@@ -1,6 +1,6 @@
 import pytest
-from strategies import config
 from datetime import datetime
+from ibweb import config
 
 
 @pytest.fixture(scope="session", autouse=True)

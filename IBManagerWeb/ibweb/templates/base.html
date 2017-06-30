@@ -6,6 +6,12 @@
     <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-{% block content %}{% endblock %}
+<nav class="topnav">
+    <a href="/" class="{% if request.path=='/' %}active{% endif %}">Home</a>
+    <a href="/strategy" class="{% if request.path=='/strategy' %}active{% endif %}">Strategy</a>
+</nav>
+<div class="panels">
+    {% block content %}{% endblock %}
+</div>
 </body>
 </html>

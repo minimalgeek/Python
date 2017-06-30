@@ -1,9 +1,9 @@
 import queue
 
 import pytest
-from strategies.ib_manager import IBManager
+from ibweb.strategies.ib_manager import IBManager
 import logging
-from strategies.trade_signal import Buy, Sell
+from ibweb.strategies.trade_signal import Buy, Sell
 
 logger = logging.getLogger(__name__)
 manager = None
