@@ -3,7 +3,7 @@ from queue import Queue
 
 from flask import Flask, request, render_template, redirect, url_for, g
 from ibweb import config as cfg, bat_executor, mongo_queries
-from ibweb.strategies import strategy_runner
+from ibweb.strategies import strategy_runner, dataloader
 from ibweb.strategies.ib_manager import IBManager, Buy, Sell, SignalFactory
 from ibweb.strategies.strategy import Strategy
 from ibweb.strategies.strategy_01 import Strategy01
@@ -57,12 +57,16 @@ def index():
 def strategy():
     logger.info('Strategy route entry')
     signals = Queue()
+    dates_and_transcripts = []
     if request.method == 'GET':
         g.strategy = strategy_runner.run_strategy(get_manager())
         # strat = Strategy01()
         # strat.signals.put(Buy('NVDA', 20))
         # strat.signals.put(Sell('ATK', 40))
         signals = list(get_strategy().signals.queue)
+        tickers_to_filter_by = [row['ticker']
+                                for row in list(cfg.tickers_collection.find({'group': 'NASDAQ'}))]
+        dates_and_transcripts = dataloader.load_transcripts_and_zacks_list(filter_list=tickers_to_filter_by)
     else:
         data = request.form.to_dict()
         for key, value in data.items():
@@ -74,6 +78,7 @@ def strategy():
         get_manager().process_signals(signals)
     return render_template('strategy.html',
                            signals=signals,
+                           dates=dates_and_transcripts,
                            nav='strategy')
 
 

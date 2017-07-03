@@ -14,21 +14,24 @@ mongo = {
     'port': 27017,
     'db': 'python_import',
     'transcript_collection': 'earnings_transcript',
-    'zacks_collection': 'zacks_earnings_call_dates'
+    'zacks_collection': 'zacks_earnings_call_dates',
+    'tickers_collection': 'tickers'
 }
 
 client = None
 db = None
 transcript_collection: Collection = None
 zacks_collection: Collection = None
+tickers_collection: Collection = None
 
 
 def init_database():
-    global client, db, transcript_collection, zacks_collection
+    global client, db, transcript_collection, zacks_collection, tickers_collection
     client = MongoClient(host=mongo['host'], port=mongo['port'])
     db = client.get_database(mongo['db'])
     transcript_collection = db.get_collection(mongo['transcript_collection'])
     zacks_collection = db.get_collection(mongo['zacks_collection'])
+    tickers_collection = db.get_collection(mongo['tickers_collection'])
     logging.getLogger().info('Database initialized')
 
 

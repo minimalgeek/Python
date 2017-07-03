@@ -15,11 +15,11 @@ mongo = {
     'transcript_collection': 'earnings_call_Nas100_Broad_Manual_Update'
 }
 
-client, db, transcript_collection = None, None, None
+client, db, tickers_collection = None, None, None
 
 
 def init_database():
-    global client, db, transcript_collection
+    global client, db, tickers_collection
     client = MongoClient(host=mongo['host'], port=mongo['port'])
     db = client.get_database(mongo['db'])
     transcript_collection = db.get_collection(mongo['transcript_collection'])
@@ -42,9 +42,9 @@ def save_transcripts_to_database(transcripts):
     for ts in transcripts:
         if len(ts['rawText']) > 5000:
             if 'url' in ts:
-                old = transcript_collection.find_one({'url': ts['url']})
+                old = tickers_collection.find_one({'url': ts['url']})
                 if old is None:
-                    transcript_collection.insert_one(dict(ts))
+                    tickers_collection.insert_one(dict(ts))
                     logger.info('%s transcript inserted', ts['url'])
                 else:
                     logger.info('%s transcript is already in the collection', ts['url'])

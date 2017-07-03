@@ -57,3 +57,5 @@ def test_load_transcripts_and_zacks_list():
     assert len(ret) == 3
     aal_object = next(filter(lambda x: x['ticker'] == 'AAL', ret), None)
     assert aal_object
+    assert aal_object['previous_transcript']
+    assert aal_object['current_transcript']

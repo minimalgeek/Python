@@ -39,6 +39,13 @@ def load_all_next_zacks_date():
     """
     pipeline = [
         {
+            '$match': {
+                'nextReportDate': {
+                    '$lt': datetime.now() + timedelta(days=3)
+                }
+            }
+        },
+        {
             '$group': {
                 '_id': "$ticker",
                 'nextReportDate': {'$max': "$nextReportDate"},
@@ -70,7 +77,7 @@ def load_all_next_zacks_date_filtered(filter_list=None):
     return ret
 
 
-def load_transcripts_and_zacks_list(day_limit=4, filter_list=None):
+def load_transcripts_and_zacks_list(day_limit=10, filter_list=None):
     zacks_list = load_all_next_zacks_date_filtered(filter_list)
 
     for zacks_date in zacks_list:
@@ -96,8 +103,23 @@ def _load_previous_transcript(current_transcript, ticker):
             'tradingSymbol': ticker,
             'publishDate': {'$lt': current_transcript['publishDate']}
         }, sort=[('publishDate', pymongo.DESCENDING)])
+        if 'h_tone' in current_transcript:
+            current_transcript['ratio'] = round(
+                current_transcript['h_tone']['positiveCount'] / current_transcript['h_tone']['negativeCount'], 2)
     else:
         previous_transcript = cfg.transcript_collection.find_one({
             'tradingSymbol': ticker
         }, sort=[('publishDate', pymongo.DESCENDING)])
+
+    if previous_transcript and 'h_tone' in previous_transcript:
+        previous_transcript['ratio'] = round(
+            previous_transcript['h_tone']['positiveCount'] / previous_transcript['h_tone']['negativeCount'], 2)
     return previous_transcript
+
+
+def load_tickers_by_group_name(group_name='NASDAQ') -> List:
+    cursor = cfg.tickers_collection.find({
+        'group': group_name
+    })
+    ret = [row['ticker'] for row in list(cursor)]
+    return ret
