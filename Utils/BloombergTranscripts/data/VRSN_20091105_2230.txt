@@ -1,0 +1,594 @@
+Q3 2009 Earnings Call 
+
+
+Company Participants 
+
+• Nancy Fazioli, Investor Relations 
+• Mark D. McLaughlin, President and Chief Executive Officer 
+• Brian G. Robins, Executive Vice President and Chief Financial Officer 
+Other Participants 
+
+• Todd Raker 
+• Philip Winslow 
+• Steven Ashley 
+• Katherine Egbert 
+• Rob Owens 
+• Shaul Eyal 
+• Sarah Friar 
+• Kerry Rice 
+• Sterling Auty 
+• Scott Kessler 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good day, and welcome to the Third Quarter 2009 Earnings Call. Today's conference is being recorded. At this time, I 
+would like to turn the conference over to Miss Nancy Fazioli in Investor Relations. Please go ahead, ma'am. 
+
+Nancy Fazioli, Investor Relations 
+
+Thank you, operator. Good afternoon, everyone, and thank you for joining us for VeriSign's third quarter 2009 earnings 
+conference call. I'm Nancy Fazioli in Investor Relations, and I'm here today with Mark McLaughlin, President and 
+CEO, and Brian Robins, Executive Vice President and CFO. 
+
+Please note that this call and accompanying slide presentation are being webcast from our Investor Relations website 
+located at investor.verisign.com. Please refer to our website for important information including the Q3 2009 earnings 
+press release, and a reconciliation of our GAAP to non-GAAP information. A replay of this call will be available on 
+our website within a few hours. Today's slide presentation will also be available for download after the call. 
+
+Financial results in today's press release are unaudited, and the matters we will be discussing today include 
+forward-looking statements and as such, are subject to the risks and uncertainties that we discuss in detail in our 
+documents filed with the SEC, specifically the most recent report on Forms 10-K and 10-Q and any applicable 
+amendments which identify important risk factors that could cause actual results to differ materially from those 
+contained in the forward-looking statements. 
+
+Additionally, financial results in today's press release and the matters we will be discussing today include non-GAAP 
+measures used by VeriSign. Our non-GAAP income statement and a description of items excluded from our 
+non-GAAP financial information are located on the VeriSign Investor Relations website. 
+
+
+In a moment, Mark and Brian will provide some prepared remarks, and afterward we will open up the call for your 
+questions. 
+
+Unauthorized recording of this conference call is not permitted. 
+
+With that, I would like to turn the call over to Mark. Mark? 
+
+Mark D. McLaughlin, President and Chief Executive Officer 
+
+Thanks, Nancy. Good afternoon, everyone. 
+
+Before jumping into the results for the quarter, I'm pleased to tell you that with the early fourth quarter closings of 
+Global Security Consulting and Messaging and Mobile Media Services, we've now essentially completed the 
+significant restructuring that we took on as a company two years ago this month. We're in active negotiations to sell 
+MDG services, the one small business remaining. We expect that prepay billing services and Content Portal Services 
+will be wound down and the transition service agreements will be completed by the end of 2010. 
+
+Aggregate proceeds from the sale of these 13 assets, in addition to the sale of our remaining interest in Jamba, are 
+approximately $750 million. We're happy to be closing out this chapter in VeriSign's history. I'd like thank our entire 
+team for two years of hard work in negotiating and finalizing these sales, as well as having both our core and non-core 
+businesses continue to deliver strong results throughout this transformative period for VeriSign. 
+
+Also, as we discussed in the last earnings call, on June 5, the Ninth Circuit Court of Appeals reversed an appeal, the 
+May 2007 U.S. District Court dismissal of a case filed against VeriSign by the Coalition for ICANN Transparency, or 
+CFIT. In the opinion, the case was remanded to the U.S. District Court for the Northern District of California for 
+further proceedings. On July 2, 2009, VeriSign filed in the Ninth Circuit a petition for rehearing which is still pending. 
+We have no further updates at this time. There is no proscribed timeframe for the Court to respond to our petition. We 
+are able to say very little about pending litigation matters, but we remain confident in our position and will continue to 
+defend this case vigorously. 
+
+Now turning to the results for the quarter. Overall I'm pleased with the performance this quarter. We met our revenue 
+guidance for Q3, while tight expense management enabled us to continue to increase profitability. Third quarter 
+revenue in our core business was $257 million, which represents 6% year-over-year growth. Our non-GAAP operating 
+margin for the quarter was 38.6%, a slight improvement over last quarter as we continue to focus on core expense 
+reductions from our last few remaining divest businesses, as well as tight expense controls. 
+
+Non-GAAP earnings per share was $0.33, which represents strong year-over-year growth. We repurchased 
+approximately 1.2 million shares of common stock in the quarter for an aggregate of $25 million. 
+
+On the cash side, our year-to-date operating cash flow was approximately $222 million, and we have over $1.4 billion 
+in cash on the balance sheet. 
+
+With that, I'll now turn to the business unit operating results for the quarter. We're pleased with our naming results this 
+quarter. The base of registered names in .com and .net totaled 94.9 million names at the end of the quarter. This is an 
+increase of 1.4 million net names added to the domain name base quarter-over-quarter, and a 6% increase in net names 
+year-over-year. We ended the quarter with registered domain names ahead of our forecast, as we saw strengthening in 
+renewal rates. In the third quarter we processed 7 million new names. This is flat quarter-over-quarter, and up from 6.9 
+million names in Q3 2008. 
+
+The Q2 renewal rate rounded up to 70%. While renewal rates are not fully measurable until 45 days after the end of the 
+quarter, we believe that the renewal rate for Q3 will also be 70%. As we look forward, given the data we have at this 
+point in the quarter, we would expect the Q4 net names added to the domain name base to be consistent to slightly up 
+from Q3. As such, we believe that the Q4 domain name base will grow by a net change of 1.2 to 1.5 million names. 
+
+
+On the infrastructure side of the naming business, our average daily query load during the quarter increased from 49 to 
+54 billion per today, with continued 100% uptime. We continue to demonstrate VeriSign's ability to operate global 
+networks at massive scale with exceptional reliability. 
+
+And before I conclude my update on naming, I wanted to note that – the joint partnership agreement, or JPA, between 
+the Department of Commerce and ICANN expired on September 30 and was replaced by the Affirmation of 
+Commitments, or AOC. Under the terms of the AOC, the U.S. Department of Commerce will continue its involvement 
+with ICANN. The adoption of the AOC does not impact our existing registry agreements with ICANN for the operation 
+of .com and .net, nor does it impact our existing agreement with the Department of Commerce. 
+
+Now moving on to Authentication Services. While pleased with unit growth in our Authentication Service business, we 
+continue to feel some pressure in the current environment. In Business Authentication, we saw the installed base of 
+SSL certificates increased to 1.2 million certificates in the third quarter, compared to 1.17 million last quarter, and 
+approximately 1.1 million certificates in Q3 2008. This represents a 9% year-over-year growth in the base. The 
+annualized average unit revenue, or AUR, for the installed base of VeriSign, GeoTrust, and thawte-branded certificates 
+for the third quarter was $234, which compares to $241 for the prior quarter. We continue to see increased price 
+pressure as customers request discounts. Also, the AUR decline continued to be impacted by mix shift, as GeoTrust 
+brand grows faster than our overall portfolio. We are focused on reversing these AUR trends, and we look forward to 
+outlining our current and planned efforts in this regard at our Analyst Day later this month. 
+
+In the last earnings call, you may recall that we mentioned that we'd be focusing our efforts in our User Authentication 
+business and partnerships, specifically to have VeriSign Identity Protection, or VIP, more tightly integrated into 
+applications that can drive demand. Jim Bidzos in particular has been focused on utilizing his relationships in this 
+regard. The partnership with RSA that we announced in October is a great example of this effort, and we'll continue to 
+look for additional partnership opportunities that make sense for this business. 
+
+I also want to take this opportunity to let you know that Chris Babel, the general manager of the Authentication 
+business, will be leaving VeriSign. We want to thank Chris for his 10-plus years of hard work and contributions to 
+VeriSign and wish him well in his new endeavors. 
+
+In general, we are pleased with our results for the quarter and excited about the future. Having substantially completed 
+our divestitures in our core product strategy, we are looking forward to 2010. We're also looking forward to outlining 
+our strategy and plans later this month at Analyst Day. 
+
+I'll now turn the call over to Brian for a review of our financial results for the third quarter. Brian? 
+
+Brian G. Robins, Executive Vice President and Chief Financial Officer 
+
+Thanks Mark, and thanks to everyone for joining us this afternoon. Before I get into the details of our results for our 
+core business, I'd like to update you on a change to our presentation of the non-cash interest expense related FSP APB 
+14-1; the amortization of the debt discount on our convertible bonds. In order to provide greater transparency, non-cash 
+interest expense is now excluded from the non-GAAP presentation. We feel the non-GAAP presentation is more 
+reflective of our operating results and more in line with our peers. 
+
+Moving on to the Q3 results. Revenue for our core business was 257 million, up 1% sequentially and up 6% 
+year-over-year. Growth was largely driven by continued strength in Naming Services, with revenue up 10% 
+year-over-year, and Authentication Services revenue was up 2% year-over-year. In Q3, there was no material impact to 
+revenue from FX changes. 
+
+Our non-GAAP core operating margin was 38.6%. As we have completed our last major divestiture, we have taken out 
+substantially all of the duplicative shared services costs. We expect fourth quarter margin to be in line with third 
+quarter. As we continue to look for and execute against greater efficiencies across the company, we will aim to 
+incrementally increase margins throughout next year. 
+
+
+In non-GAAP other income and expense, we incurred a loss of approximately 7 million for our core operations. This 
+excludes 1.7 million in non-cash interest expense related to FSP APB 14-1. This loss was roughly in line with what we 
+expected and what we continue to expect next quarter. 
+
+Non-GAAP net income for the third quarter was 64 million, resulting in non-GAAP earnings per share of $0.33. The 
+diluted share count used in EPS calculations was 193 million shares, flat quarter-over-quarter. We have existing 
+authorization for $905 million for additional share repurchases that we periodically consider in the form of open market 
+purchases, ASRs, and other strategies. In Q3, we did share repurchases of approximately $25 million, or 1.2 million 
+shares. 
+
+Moving on to the cash flow and balance sheet items. Operating cash flow was approximately 105 million in the third 
+quarter and was 222 million year-to-date. The 222 million year-to-date excludes $101 million of excess tax benefit 
+associated with tax – associated with stock-based compensation that appears in financing cash flow. At Analyst Day, 
+I'll be introducing a cash flow metric that will help you to better track changes in cash flow. With the majority of the 
+divestitures behind us, there will be less noise and greater consistency in cash flow in 2010. 
+
+Consolidated capital expenditures were 25 million in the quarter, and 66 million year-to-date. Of the 25 million, 
+approximately 80% represents capital expenditures for core services. 
+
+We ended the quarter with a strong balance sheet, with ending cash, cash equivalents, and restricted cash of $1.4 
+billion, up approximately 124 million from the prior quarter. During the quarter, we repurchased $25 million worth of 
+stock and received divestiture proceeds of approximately $45 million. There were no distributions in Q3 from the 
+reserve funds, and there remains 32 million in these funds that are currently classified in other current assets. 
+
+Net consolidate DSO for the fourth quarter was 29 days, down one day from last quarter. Deferred revenue from 
+continuing operations ended the quarter at $881 million, up 3 million from Q2. We ended the quarter with 
+approximately 2,650 employees, down 150 from last quarter, primarily stemming from the divestitures. 
+
+Moving on to our outlook. For Q4, we expect revenue for the core businesses will be 258 to $262 million, flat to up 
+2%. As previously indicated, we expect Q4 non-GAAP operating margin and other income to be in line with Q3. 
+
+We're looking forward to our Analyst Day in two weeks and the opportunity to present to you our go-forward strategy 
+and vision for the company. The event will be webcast via a link on our Investor Relations website as well as available 
+for replay. 
+
+We'd now like to open the call for your questions. Operator? 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions] And we'll go first to Sterling Auty with JPMorgan. Mr. Auty, please go ahead, your line is 
+open. 
+
+And due to no response, we'll move on to Todd Raker with Deutsche Bank. 
+
+<Q - Todd Raker>: Hey, guys. Two questions for you. First, 1.4 billion of cash on the balance sheet. Can you talk 
+about stock buyback versus acquisitions and what you're thinking strategically with such a strong balance sheet? 
+
+And secondly, can you just talk about – at your Analyst Day two years ago, you kind of hinted that you thought the 
+employee run-rate would be about 2,000 employees when the divestitures were all done. You're still well above that 
+level. On an employee base, where do you see this thing going over the next 12 to 18 months? Thanks. 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: Yeah, hey Todd, it's Mark. On the use of cash, 
+as I think – as we mention in the past, we take a pretty conservative view on cash, given the economic outlook. Given 
+what appears to be a turning point in the economy, we feel better on that aspect when we consider the use of cash. As 
+
+
+Brian said, we have about 900 million in buyback authorization the Board, currently we purchased about $100 million 
+of this to date, and we'll talk more about use of cash and proceeds at Analyst Day coming up in later November. 
+
+<A - Brian G. Robins, Executive Vice President and Chief Financial Officer>: And I'll take the employee one. 
+There's about – as I said, we have 2,650 employees at the end of the quarter. About 600 are those related to the 
+divestitures. And so I estimate that our end-of-year head count will be right at about 2,000, maybe about 2,050. 
+
+<Q - Todd Raker>: Okay. Thanks, guys. 
+
+Operator 
+
+And we'll go next to Phil Winslow with Credit Suisse. 
+
+<Q - Philip Winslow>: Hi, guys. Yeah, just a question on just the pricing trends on the SSL certificates base. 
+Obviously you continue to get good growth in GeoTrust, but last quarter you commented on some pricing pressure at 
+the high end of the core VeriSign base. Any changes there this quarter, and how would you just sort of expect ASPs to 
+trend? We saw a slight re-acceleration in sort of the year-over-year decline this quarter. Thanks. 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: Yeah, Phil, thanks. Yeah, we still see 
+continued pressure, particularly in the high end at the VeriSign brand from an ASP basis. So as I mentioned, we're 
+pretty focused on reversing those trends. And we'll get into some of the actions we're going to take at Analyst Day as 
+far as services and different strategies. So we'll talk more about that later this month. 
+
+<Q - Philip Winslow>: And then your change on the accounting for the convert, that occurred this quarter, in Q3, 
+correct? 
+
+<A - Brian G. Robins, Executive Vice President and Chief Financial Officer>: Yes, that's correct. 
+
+<Q - Philip Winslow>: All right. Thank you. 
+
+<A - Brian G. Robins, Executive Vice President and Chief Financial Officer>: Thank you. 
+
+Operator 
+
+And we'll go next to Steve Ashley with Robert W. Baird. 
+
+<Q - Steven Ashley>: On the certificate side, can you talk about, number one, kind of just generally what kind of 
+growth you're seeing in organizational-validated certs versus domain-validated certs? In terms – your revenue growth? 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: Sure. Yeah, so, Steve, that kind of breaks 
+down almost exactly along a – the end of high-end versus low-end. So it's – on a revenue basis, you'll see more revenue 
+associated with organizational-validated certificates just because they're more expensive than domain-validated. And 
+then on a unit basis, you'd see more units being moved for domain-validated than organizational-validated, because it's 
+at the low end of the market. 
+
+<Q - Steven Ashley>: Can you say if domain-validated revenue is up year-over-year, and is organizational-validated 
+down year-over-year? 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: No. So it would be the case that both are up 
+year-over-year, but the – on a relative – they're both up in year-over-year. On a relative basis, the DV would be 
+growing at a faster rate than the organizational-validated. 
+
+<Q - Steven Ashley>: Can you talk about plans – are there plans to replace Chris Babel in his role? 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: Yeah, sure. So Chris will leaving us in 
+mid-November. I'm currently instituting a search for his replacement. I don't have an answer for that yet, but I hope to 
+
+
+shortly. 
+
+<Q - Steven Ashley>: Thank you. 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: Yes. 
+
+Operator 
+
+And we'll go next to Katherine Egbert with Jefferies. 
+
+<Q - Katherine Egbert>: Hi, good afternoon. Can you talk about the 70% renewal rate? That's a little bit on the low 
+end of your historic rate. Is there anything to be concerned about there? You said it rounded up to 70, I believe. 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: Yeah, Katherine. So if you look back 
+historically – I mean if you go way back, for more than a number of years, you see the renewal rate growing from in the 
+60s, up into the 70s, into the high 70s, around 76% I believe was probably rough watermark, up in that neighborhood. 
+And then dropping down into what we currently see it, around a 70, 71% range. 
+
+So we're up by – we [inaudible] forecasted that, because of the renewal rate, these are in terms of basis points of 
+increase over what it was last quarter. So we see it stabilized right now at around 70 – between 70, 71%. 
+
+<Q - Katherine Egbert>: Okay. And then you had a nice lift in the operating margin for the quarter, and you guided to 
+a nice margin next quarter. What about 2010? Can you just directionally tell us if those margins have any room to 
+increase? 
+
+<A - Brian G. Robins, Executive Vice President and Chief Financial Officer>: Yes, this is Brian. So on fourth 
+quarter we'll be flat over third quarter or slightly up, and we aren't giving guidance for 2010 yet. We'll provide that at 
+Analyst Day, but you can expect to see incremental margin improvement over 2009. 
+
+<Q - Katherine Egbert>: Okay. Thanks a lot, Brian. 
+
+Operator 
+
+And we'll go next to Rob Owens with Pacific Crest. 
+
+<Q - Rob Owens>: Great. Couple of questions. First, on the growth in deferred, it was fairly flat sequentially. With 
+any of the divestitures, was there any deferred that went away? I was just a little surprised, especially given the growth 
+in the domain names this quarter. 
+
+<A - Brian G. Robins, Executive Vice President and Chief Financial Officer>: Hey, Rob, this is Brian. There's a 
+couple things. That is a continuing operation, so it doesn't include our prepaid business as well which we're in the 
+process of winding down. And so, every quarter, we have a wind-down event. There was, as Mark alluded, some 
+softness in the Authentication business, so there was a use of deferred revenue there as well. And then we had a smaller 
+increase in deferred revenue pickup than we've typically seen in prior quarters from our Japan subsidiary. 
+
+<Q - Rob Owens>: Okay. Is there any way you can get us to kind of a continuing deferred, Brian? 
+
+<A - Brian G. Robins, Executive Vice President and Chief Financial Officer>: Continuing deferred? 
+
+<Q - Rob Owens>: Yeah. If you were to take – if you were to net out the prepaid business? 
+
+<A - Brian G. Robins, Executive Vice President and Chief Financial Officer>: Yeah, I don't have that off the top, 
+but it's – there was – you'd call it a 0.5 million to $1 million decrease related to the prepay business. 
+
+<Q - Rob Owens>: Great. And then second, with new gTLDs being pushed out, any thoughts, is this a positive for 
+VeriSign over the next year? 
+
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: Yeah – Rob, it's Mark. Yeah, I think it's a 
+positive for VeriSign. I think what we're going to see from – as far as when they would come out, likely that all the 
+guidelines and specifications will be done sometime in mid-2010. But I wouldn't expect to see actual rollouts of these 
+things till the end of 2010 and probably into 2011. 
+
+<Q - Rob Owens>: Great. Thanks, Mark. 
+
+Operator 
+
+And we'll go next to Shaul Eyal with Oppenheimer. 
+
+<Q - Shaul Eyal>: Thank you. Hi. Good afternoon. A quick question, guys. I think ICANN recently passed some sort 
+of a resolution that allows domain name in Chinese and other kind of non-Latin script. Is that a positive? Is that an 
+opportunity for you guys, or is that some sort of a threat? 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: No, Shaul, it's – we look at that as an 
+opportunity. So what ICANN just did was they said they were going to allow the introduction for international domain 
+names, starting with country code domain names. So think of .china, .germany. So that's likely to come out sometime 
+next year. That won't impact us because it's highly – we don't play in the ccTLD space, so we don't – unlikely we'd do 
+that. 
+
+But, following that, most likely into 2011, then ICANN would allow for the rollout of the international domain name 
+version of ASCII domain names, or gTLDs. So like .com and .net. So in that case, of running .com and .net, in those 
+localized versions in different countries, we see that as an opportunity for us. 
+
+<Q - Shaul Eyal>: Got it. Thank you very much. 
+
+Operator 
+
+And we'll go next to Sarah Friar with Goldman Sachs. 
+
+<Q - Sarah Friar>: Great, thanks for taking my question. Just on the gross margin side, gross margins have been 
+ticking very nicely upwards here, and this quarter, down a little. I mean, I know we're nitpicking a little. But is there 
+anything that impacted the gross margins? And as you look forward, would you continue to expect to see expansion 
+from here? 
+
+<A - Brian G. Robins, Executive Vice President and Chief Financial Officer>: Hi, Sarah. This is Brian. 
+
+<Q - Sarah Friar>: Hi. 
+
+<A - Brian G. Robins, Executive Vice President and Chief Financial Officer>: We really tend to focus more on the 
+operating margin, and don't focus sort of on the cost categories between gross margin, sales and marketing, R&D, and 
+G&A. There are some things that – on prior quarters, we had this statement of work that had some fluctuations in the 
+cost of revenue. And you can expect gross margin to be in the 79 to 80% range. 
+
+<Q - Sarah Friar>: Okay, terrific. And then the same, just on your – I know you said you don't want to focus 
+line-by-line, but in G&A, you're showing a very nice progression there. As the heads come out through next quarter, is 
+there a reason why that shouldn't continue to go down? I know you guided more flat, but as the heads come out, 
+shouldn't we see kind of a bunch of costs come out in Q4? 
+
+<A - Brian G. Robins, Executive Vice President and Chief Financial Officer>: Yeah, we've taken – as I alluded to 
+in my prepared remarks, we've taken out a lot of the shared services costs out of the business already -
+
+
+<Q - Sarah Friar>: Okay. 
+
+
+<A - Brian G. Robins, Executive Vice President and Chief Financial Officer>: – and so as we account for the 
+businesses that are being divested, that got included in the discontinued operations, and so there won't be additional 
+large decreases. 
+
+With that said, we're focused like a laser on cost containment and where we can take cost out of the business, so I 
+would expect G&A to decline as a percentage of revenue, and – on an absolute basis, not increase. I think there's one or 
+two things that we may have next quarter where it may bump up just a tad, but I don't think – long term, you can expect 
+it to remain at that level or decline. 
+
+<Q - Sarah Friar>: Terrific. Thank you. 
+
+Operator 
+
+And we'll go next to Kerry Rice with Wedbush. 
+
+<Q - Kerry Rice>: Thanks a lot. Drilling down a little bit on domain names first, can you talk a little bit if you saw 
+more advertisers come back because of the economy, buying domain names this quarter? 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: Yeah, Kerry. That's kind of hard to tell 
+because – with the financial distinctions gone between purchasers of what we would call traditional and what we used 
+to call advertising folks, it's difficult to tell for what purpose people are buying, because they're buying at the same 
+price now. So specifically, no, I couldn't tell you the difference between the two. 
+
+One thing that is heartening is that we've heard folks who are in the online advertising business and the search business 
+say that they're either seeing stabilization or starting to see some increase, and we think that we have some level of 
+correlation related to that on a lagging basis. So if that's true and continues to go up, we would expect to see that help 
+us. 
+
+<Q - Kerry Rice>: Could you characterize the kind of acceleration in domain name growth from last quarter, driven by 
+any particular trend, then? Or group? 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: So, on a new named – or the added names into 
+the base, those were flat on quarter-over-quarter, so on the renewals, we saw a bit of an increase on renewals. That was 
+pretty much across the board. So we took that as just a general – good news, probably due to the economy improving. 
+
+<Q - Kerry Rice>: Okay. And then on the certificates, can you talk a little bit about the demand for EV certs? I know 
+that you said the high end was still seeing some pressure from pricing, but what about demand for EV certs? Is that 
+picking back up or how would you characterize that? 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: Yeah, EV continues to grow well 
+quarter-over-quarter, but as a percent of the base, it's not yet providing significant positive impacts to the ASP. So we 
+continue to market and sell it very aggressively, but you're viewing it as more closely in line with our high-end 
+certificate offerings in the SGC, or Server-Gated Cryptography, base. And I'll talk more about this and the strategies 
+around SSL at Analyst Day. 
+
+<Q - Kerry Rice>: And then, last question, the – your VeriSign Internet Defense Network Services, is there – can you 
+quantify what that was during the quarter, revenue-wise? 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: We don't have that quantified. We gave some 
+direction previous – earlier in the year as far as iDefense and the bundled services around that, but for Internet Defense 
+Network, we've got good response, have a solid pipeline for that, and again, I'll be getting into new services at – in a 
+couple weeks. 
+
+<Q - Kerry Rice>: Okay. Thank you. 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: Yeah. 
+
+
+Operator 
+
+And we'll take a follow-up from Sterling Auty with JPMorgan. 
+
+<Q - Sterling Auty>: Hey, thanks, guys. Sorry about earlier. Too many earnings all at once. 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: Yeah, glad to see you awake. 
+
+<Q - Sterling Auty>: So hopefully, somebody didn't ask it in this way, but if I look at the deferred revenue, can you 
+give us some characterization in terms of what the impact on deferred revenue? Because it looked a little light to me, in 
+terms of the SSL unit volume, versus maybe duration from either SSL or the naming business. Or was there actually 
+any adjustment that was done for any of the divestitures? 
+
+<A - Brian G. Robins, Executive Vice President and Chief Financial Officer>: Hey, Sterling. This is Brian. On the 
+deferred revenue, as I went through a little earlier, there was – it's continuing operations, and so it includes some 
+businesses that we're winding down such as prepay. And so every quarter, you'll see – we see, if you look at the 
+line-level detail, a decrease as that business continues to wind down and we aren't going after new sales. 
+
+Additionally, in our Authentication business, there was some weakness, as Mark alluded to in his prepared remarks, 
+which had a decline quarter-over-quarter. And in Japan, we saw a smaller increase due to the economic softness we're 
+seeing over there. 
+
+<Q - Sterling Auty>: Okay. And then in terms of – I think you've gone into some detail on the pricing, you're holding 
+off for the Analyst Day, which I understand. But if you were to look at the – looking at just a pure number that you had, 
+the 1.2 million. So if you look at the volumes, when you look at the volumes in the high end versus volume in the low 
+end, and setting EV aside, how would you kind of characterize the – if you want to call it a shortfall, relative to your 
+own expectations, where was the bigger kind of pressure seen? From a volume perspective? 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: At the high end, Sterling. So we're – all 
+segments continue to grow, but they – they're growing at different rates, and it sort of falls out as the slowest rate at the 
+high end, kind of medium at the mid to – middle end, at the low end, grows at a much faster than the – either of those 
+two. 
+
+<Q - Sterling Auty>: All right. Thanks. 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: Yes. 
+
+Operator 
+
+And we'll go next to Scott Kessler with Standard & Poor's Equity. 
+
+<Q - Scott Kessler>: Thanks a lot. Can you guys talk a little bit about the pipeline, and potential revenue wins, with 
+respect to the government vertical more specifically? Thanks? 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: Yeah, sure, Scott. So on the government side – 
+well, I'll put this into a couple categories. A number of our services are sold and have been sold for awhile directly to 
+the government related to PKI, SSL, and the security side of the business. And that continues to be a nice business for 
+us. We have a renewed focus on the government side in terms of having kept iDefense and now our DDoS mitigation 
+service, so we're pretty targeted at the government with those things. And then the third thing is, as Brian mentioned 
+earlier, we have occasionally we have some opportunities with the government that we take – we take when we get 
+them, for different services, but those tend to be one-time in nature and not a recurring basis. 
+
+<Q - Scott Kessler>: So if I could follow-up, Mark. So would you indicate that your business in government-related 
+offerings is outperforming, say, the non-government operations at this point? 
+
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: No. No, I wouldn't say that. I'd say we have a 
+nice, steady business in the government, but it's – that's not a major part of our business. You have to remember, Scott, 
+one thing is that everything we sell is on a services basis, and usually, as a generalization, the government likes to buy 
+products. It's a little hard to sell services into the government anyway. 
+
+<Q - Scott Kessler>: Okay. Thanks a lot. 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: Okay. 
+
+Operator 
+
+[Operator Instructions] And we'll take a follow-up from Katherine Egbert with Jefferies. 
+<Q - Katherine Egbert>: Hi. I'm just wondering, did I miss it? Did you give out the revenue by segment? 
+<A - Brian G. Robins, Executive Vice President and Chief Financial Officer>: Hi, Katherine. This is Brian. The – 
+
+
+on the revenue side, the breakdown's about 61% for Naming, and 39% for Authentication, and the Authentication 
+includes VeriSign Japan. 
+<Q - Katherine Egbert>: Okay. 
+
+
+Operator 
+
+And we'll take a follow-up from Phil Winslow with Credit Suisse. 
+
+<Q - Philip Winslow>: Hi guys. Just a quick question on the pricing front. In .com and .net, any sort of change in your 
+thought process about when we might or might not see any sort of change there with your contract? Thanks. 
+
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: No, Phil. So if I take the question as how we're 
+looking at potential price increases, no change in that. We continue to watch that closely, take those one at a time. So – 
+if that's what you meant. 
+
+<Q - Philip Winslow>: Thanks, guys. 
+
+Operator 
+
+And we'll go next to Steve Ashley with Robert W. Baird. 
+
+
+<Q - Steven Ashley>: Just if I could follow up on domain names, on the renewal rate. As the PPC names have run off, 
+shouldn't we see renewal rates kind of improve as we move into 2010? 
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: That's possible, Steve, yeah. So like I said, 
+
+
+we're – we saw, quarter-over-quarter, an improvement in renewal rates, and again, it's a little difficult to get into the 
+base now and say what was advertising and traditional, but as a general matter, both appear to be improving slightly. 
+<Q - Steven Ashley>: And in terms of – on the certs side, at the high end, how are renewal rates running there? 
+<A - Mark D. McLaughlin, President and Chief Executive Officer>: In the mid 50%. 
+
+
+<Q - Steven Ashley>: And is that normal? Is that -<
+A - Mark D. McLaughlin, President and Chief Executive Officer>: Yeah, that's in line with the entire brand of 
+offerings. 
+
+
+<Q - Steven Ashley>: Thank you. 
+
+
+Operator 
+
+[Operator Instructions] And it appears we have no further questions. At this time, I would like to turn it back over to 
+Miss Nancy Fazioli for any additional or closing remarks. 
+
+Nancy Fazioli, Investor Relations 
+
+Thank you, operator. We anticipate that our next quarterly conference call, which will reflect our fourth quarter 2009 
+results, will be held on Thursday, February 4, at 2 PM Pacific time. 
+
+I would like to remind in you that in light of Regulation FD, VeriSign plans to retain its long-standing policy to not 
+comment on its financial guidance during the quarter unless it is done so through a public disclosure. 
+
+Please call the Investor Relations department with any follow-up questions from this call. Thank you for your 
+participation and continued support. This concludes our call. Thank you, and good evening. 
+
+Operator 
+
+And that concludes today's conference. Thank you for your participation. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

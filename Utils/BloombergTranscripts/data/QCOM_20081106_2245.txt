@@ -1,0 +1,916 @@
+Q4 2008 Earnings Call 
+
+
+Company Participants 
+
+
+• Dr Paul E. Jacobs 
+• William E. Keitel 
+• Steve Mollenkopf 
+• Steven Altman 
+• John Gilbert 
+Other Participants 
+
+• Maynard Um 
+• Peter Karazeris 
+• Ittai Kidron 
+• Tim Long 
+• Mark McKechnie 
+• Ehud Gelblum 
+• James Faucette 
+• Paul Jacobs 
+• Tim Luke 
+• T. Michael Walkley 
+• David Wong 
+• Mike Alexander 
+• Brian Modoff 
+• Kulbinder Garcha 
+MANAGEMENT DISCUSSION SECTION 
+
+John Gilbert 
+
+GAAP and Non GAAP Financial Measures 
+
+During this conference call if we use any non-GAAP financial measures as defined by the SEC and Regulation G, you 
+can find the required reconciliations to GAAP on our website 
+
+Dr Paul E. Jacobs 
+
+Business Highlights 
+
+I’m very pleased with the performance of our business this past year, particularly the strong execution of our chipset 
+business and our successful settlement with Nokia 
+
+While we continue to see strong growth in 3G CDMA, the current macroeconomic conditions and potential for further 
+economic slowdown creates an uncertain business environment for the next few quarters 
+
+
+Before I comment further on our business going forward, I would like to highlight what was a very successful FY2008 
+for Qualcomm 
+
+We had three important transitions in our executive team this past quarter 
+
+I’m very pleased to welcome Len Lauer as COO, Steve Mollenkopf as President of QCT, and Derek Aberle as 
+President of QTL. 
+
+• 
+We look forward to their continued contribution and leadership in these new roles 
+FY 
+
+• 
+FY2008, we achieved record pro forma revenues, up 25% y-over-y; record pro forma EPS, up 12% y-over-y; and 
+our operating cash flow remained strong at 32% of revenues 
+• 
+Our fourth fiscal quarter includes revenues and EPS related to our completion of the settlement and license 
+agreements with Nokia 
+• 
+In addition, the quarter also includes impairments of our marketable securities portfolio that are related to the 
+impact of the recent disruption in the financial markets 
+• 
+The GAAP y-over-y comparison is also affected by a one-time tax benefit in Q4 FY 2007 
+• 
+As of the end of October, out of a total treasury portfolio of approximately $13B, we had approximately 1.3B in 
+net unrealized losses on marketable securities which could result in additional impairments if financial markets 
+do not improve 
+• 
+These potential impairments are excluded from our guidance as global financial markets are too volatile to 
+predict in the near term 
+Portfolio 
+
+• 
+Over the last year, we have consciously improved the defensive posture of our portfolio, including a significant 
+movement from equities to short-term debt 
+• 
+And in addition, the recent $2.5B payment from Nokia has been placed in short-term instruments 
+• 
+Bill Keitel will comment in more detail on our investment strategy, but we remain very well positioned with a 
+strong balance sheet and operating cash flow 
+• 
+In fact, this FY, we returned a record $2.65B of capital to our stockholders through our dividend and stock 
+repurchase programs 
+• 
+And through the end of FY2008, we have returned over $9.2B of capital to our stockholders 
+Key Business Highlights 
+
+• 
+Some of our key business highlights in FY2008 include a record 336mm CDMA baseband chips shipped by 
+QCT, an increase of 33% from the prior year 
+• 
+QCT also achieved important product and technical milestones that Steve Mollenkopf will cover in more detail 
+later in the call 
+• 
+In our licensing business, we completed our settlement and licensing agreements with Nokia, which we believe 
+will benefit both our companies and the broader wireless industry for years to come 
+
+• 
+We now have over 155 licensees including over 95 WCDMA and TD-SCDMA licensees 
+• 
+We also continue to make progress in signing single-mode OFDMA licensees and now have eight royalty 
+bearing single-mode OFDMA licensees including with Nokia and one other major handset OEM. 
+Technical Leadership 
+
+• 
+We continued our technical leadership with implementation of base station interference cancellation to 
+significantly improve the uplink performance of CDMA networks 
+• 
+This innovative feature will be available in upcoming EV-DO CSM products in 2009 
+• 
+Just a few weeks ago, Telstra in Australia announced it performed HSPA+ interoperability testing on their 
+networks using our HSPA+ chipset solution 
+• 
+With respect to LTE, our R&D efforts continue to remain on track with plans to sample our multi-mode 3G LTE 
+chips in Q2 2009 
+Outlook 
+
+FY2009 
+
+• 
+Turning to FY2009, we anticipate the challenging global economic environment will impact our business and 
+industry as well as many other companies around the world 
+• 
+I thought it would be helpful to share how we were thinking about the business prior to the recent unprecedented 
+events 
+• 
+This past August, our internal planning process driven by our views of the global macro environment at that 
+time yielded a pro forma EPS target of approximately $2.60 per share for FY2009 
+• 
+However, since that time and specifically during the last several weeks, we have received information from 
+our customers and industry partners that have led us to lower our estimate substantially 
+• 
+We’re seeing a very significant contraction in channel inventory which is impacting demand for our chipsets 
+• 
+Our chipset shipment estimate for Q1 FY2009 is 60 to 65mm units, down from 86mm in the previous quarter 
+Current Economic Environment 
+
+• 
+We’ve incorporated a significant amount of information in our modeling efforts, including comparing the current 
+economic environment to previous downturns, such as the downturn and resulting rebound in 2001 
+• 
+Our current view is that the reduced inventory levels projected are not sustainable and therefore, we are 
+forecasting a modest recovery of inventory levels in H2 
+• 
+While we are estimating strong growth for CDMA-based devices in CY2009 driven by a shift to emerging 
+markets, this growth is less than we would have forecast several weeks ago 
+• 
+We’re also expecting the average selling prices of CDMA-based devices to drop below $200 as a result of the 
+emerging market growth as well as the impact of a strengthening dollar in some markets 
+• 
+While we expect our operating expenses to grow in FY2009, it is at a significantly lower rate than previous 
+years and is primarily due to the carryover of resources added in FY2008 
+
+• 
+We have built a very strong research and development team and believe we can leverage our past investments to 
+address the market opportunities ahead while also continuing to invest to outpace our competitors 
+New Resources 
+
+• 
+Specifically, we put in place a cap on new resources for FY2009 
+• 
+In order to manage to this cap, we have worked across the company to prioritize our investments and move 
+resources among projects 
+• 
+This has been and will continue to be an ongoing process 
+• 
+The highest profile example is the cancellation of our UMB commercial development and reallocation of those 
+resources into accelerating LTE and LTE Advanced 
+Strategic Investments 
+
+• 
+We will continue to make strategic investments in long-term programs to capitalize on opportunities we see in 
+new geographies, with new partners, in new devices such as mobile computing and network consumer 
+electronics, and in new applications of wireless technologies 
+• 
+As the market leader, we can adapt to the changing economic conditions and make the appropriate investments to 
+enhance our leadership in the marketplace and emerge from these challenging times in a stronger competitive 
+position 
+Current Economic Conditions 
+
+• 
+Despite the current economic conditions, we continue to remain positive about the future of 3G. 
+• 
+According to the CDG and the GSA, there are over 500 CDMA-based 3G networks that have been launched as of 
+October 2008 and operators continue to deploy HSUPA and EV-DO Revision A. 
+• 
+Over 800 HSDPA devices and over 525 EV-DO devices have been introduced into the market cumulatively 
+• 
+In addition, nearly 100 HSUPA devices and over 90 EV-DO Revision A devices have been introduced for 
+subscribers to utilize the latest in mobile broadband networks 
+Broad 3G Network Deployments 
+
+• 
+As a result of the broad 3G network deployments and wide variety of feature rich and competitively priced 
+devices worldwide, 3G subscribers grew 33% y-over-y according to Wireless Intelligence 
+• 
+As of September, there were over 705mm 3G subscribers and it’s forecasted that this number will grow to 1.6B 
+by 2012 
+• 
+In addition, Strategy Analytics estimates that for the December to June quarters, the total handset market grew 
+14% y-over-y 
+• 
+But in particular, CDMA-based handset unit shipments grew 27% y-over-y compared to just 9% growth for 
+GSM 
+• 
+While we are seeing some trends emerge as a result of the economic climate such as inventory contraction, 
+operators reevaluating their device subsidy strategies, and lower replacement rates, there are also many 
+positive trends 
+
+Markets 
+
+• 
+In developed markets, we continue to see strong demand for smart phones and connectivity for computing 
+devices 
+• 
+Data revenues continue to represent a key growth driver for operators as consumers’ appetite for Internet 
+access, multimedia messaging, and value-added services increase 
+• 
+In developing markets where 3G has been deployed, we are seeing 3G help serve unmet demand for 
+broadband access 
+• 
+The world’s two largest wireless markets, China and India, represent significant growth opportunities for 3G 
+• 
+Once 3G licenses are assigned and networks are deployed, we expect technology competition between 
+operators and consumer demand for mobile broadband will benefit the industry and our business 
+Closing Remarks 
+
+In the difficult economic conditions we’re facing today, we will likely witness companies cut back on R&D 
+investments or look to exit businesses to compensate for lack of scale or traction 
+
+Our scale, solid balance sheet, and strong operating cash flow provides us the unique ability to continue to improve our 
+technology leadership and competitive positioning that will further drive earnings growth as we exit this downturn 
+
+• 
+We will provide further updates and additional details at our Analyst Day in New York on Thursday, November 
+13, and we look forward to seeing you there 
+Steve Mollenkopf 
+
+Q4 Highlights 
+
+This has been an excellent quarter and a great year for QCT 
+I would like to share the highlights 
+We shipped approximately 86mm chipsets in Q4 FY2008, representing a 26% increase y-over-y 
+For the entire FY, we delivered a record 336mm chipsets, which represents 33% growth from FY2007 
+QCT’s FY2008 revenues were also at record levels for the year and reflects growth of approximately 27% over 
+
+FY2007 
+Our forecast assumes our MSM shipments for the next few quarters will be impacted by a significant contraction in 
+channel inventory 
+
+• 
+We believe this inventory contraction is driven by the current macroeconomic conditions and not a shift of 
+market share 
+CDMA2000 Product Portfolio 
+
+• 
+Our CDMA2000 product portfolio continues to perform well, with the volume being helped by our high end 
+MSM7000 Series chipsets 
+• 
+This trend also helped QCT to maintain consistent average ASPs in a price competitive environment 
+
+• 
+CDMA2000 EV-DO shipments increased 8% sequentially and 19% on an annual basis for the FY2007 to 
+FY2008 
+• 
+Our QSC single-chip solutions for CDMA2000 are making strong inroads in emerging markets 
+• 
+More than 20 customers have launched over 50 handset models 
+• 
+We expect our single-chip customers to launch over 30 more new handset models in the near future 
+• 
+Finally, we shipped a record number of CSM base station channels this past quarter, which indicates the 
+CDMA2000 ecosystem that we expect will continue to expand 
+UMTS Products 
+
+• 
+Our UMTS products also continue to gain traction as we solidify our strong position with WCDMA, HSPA, and 
+HSPA+ technologies 
+• 
+Our UMTS shipments grew by 11% over the previous quarter and more than doubled in FY2008 as compared to 
+2007 
+• 
+Market traction for our single-chip UMTS products continues to be strongly driven by worldwide migration of 
+2G users to 3G. 
+• 
+There are currently 31 handsets in design by over 10 customers based on our QSC solutions 
+• 
+Our MDM 8200 product for HSPA+ will be used for trials by multiple network operators around the world, and 
+we made the world’s first HSPA+ data call using that chipset this past summer 
+Smart Phone Market 
+
+• 
+The smart phone market segment continues to grow and we are experiencing strong traction for our dual core 
+solutions across multiple software platforms such as Windows Mobile, Android, and Linux 
+• 
+This past quarter, our close collaboration with the Open Handset Alliance to enable support for Android on 
+our dual core chipsets came to fruition with the launch of the T-Mobile G1 
+• 
+The G1 is the first Android-based handset to become available and is based on our MSM7201 chipset 
+• 
+Likewise, Sony Ericsson recently launched the Experia Windows Mobile smart phone in several European 
+markets 
+• 
+This device represents our first UMTS design with Sony Ericsson in commercial production 
+Handset Manufacturing Partners 
+
+• 
+We continue to work very closely with our handset manufacturing partners to bring additional Android and 
+Windows Mobile handsets to market 
+• 
+We are pleased with the progress we have made in gaining share in WCDMA and our addressable market has 
+recently expanded 
+• 
+While we believe we are well positioned to win new business in the future, winning new business with 
+manufacturers who have an entrenched chip supplier is a lengthy process 
+Laptops and Snapdragon Platform 
+
+
+• 
+Laptops with QCT’s Gobi module delivering embedded 3G connectivity are now commercially available to 
+customers 
+• 
+Five leading laptop manufacturers, Acer, Dell, HP, Lenovo, and Panasonic have announced their plans to use 
+Gobi with several models already available for purchase today 
+• 
+Meanwhile, the number of network operators who have certified Gobi also continues to grow with AT&T 
+announcing this past quarter that they have certified Gobi notebooks for their network 
+• 
+Progress continues for our Snapdragon platform 
+• 
+Our expanding customer base is composed of many non-traditional wireless players who are new to QCT and 
+new to the wireless space 
+• 
+We are looking to enhance our Snapdragon roadmap and we’ll provide further information on our plans for 
+Snapdragon in the coming weeks 
+Closing Remarks 
+
+FY2008 has been a very successful year for QCT and we have reached many product and business milestones 
+
+I believe the fundamental strategies that have brought QCT this far, technology leadership, focus and scale in wireless, 
+and investing in a product portfolio across multiple technologies, will help us continue our success in the future 
+
+• 
+I look forward to meeting many of you next week in New York 
+William E. Keitel 
+
+Financial Highlights 
+
+Performance 
+
+• 
+I’ll begin with a review of our results 
+• 
+GAAP earnings for FY2008 were approximately $3.2B and revenues increased 26% to a record $11.1B. 
+• 
+Pro forma earnings for FY2008 grew 12% to a record $2.25 per share and pro forma net income grew 10% to a 
+record $3.7B. 
+• 
+Pro forma operating income grew approximately 27% y-over-y to a record $4.6B. 
+• 
+Pro forma net investment income was $80mm for FY2008, down significantly y-over-y due to $502mm charge in 
+other than temporary impairments offset by 582mm of other investment income 
+• 
+$327mm of these impairments or approximately 3% of our portfolio’s value occurred in the fourth fiscal quarter 
+• 
+Except for approximately $95mm of impairments related to Fannie and Freddie preferreds, Lehman, and 
+Washington Mutual Bank, all other impaired fixed income securities continue and we expect to continue 
+paying interest and principal 
+• 
+Over the last year, we’ve increased the defensive posture of our investments by reducing equities, moving more 
+than $1B from prime money-market funds to government funds and investing our more recent significant cash 
+flows into government funds 
+• 
+Approximately 85% of our cash and marketable securities are invested in fixed income securities, of which 
+approximately 55% is in money-market securities 
+
+Cash Flows 
+
+• 
+Our business continues to generate strong cash flows 
+• 
+Operating cash flow for FY2008 was $3.56B or approximately 32% of revenue 
+• 
+During FY2008, we returned approximately 2.65B capital to our shareholders 
+• 
+This includes the payment of 982mm in cash dividends and the repurchase of 43mm shares of our stock for 
+$1.67B. 
+• 
+Although we have an existing stock buyback program, which we primarily execute through a 10b5-1 plan, our 
+interest in stock buybacks increases when domestic cash is greater than $4B, which in turn may cause us to 
+reconsider the rate of repurchase as well as the size of the repurchase program 
+• 
+As of last week, our domestic cash was approximately $6.5B. 
+Operating Margin and CDMA Devices 
+
+• 
+QCT shipped a record 336mm MSMs in FY2008 and recorded a 27% operating margin on the volume ramp, 
+particularly in EV-DO and WCDMA 
+• 
+Our licensing business also performed well as QTL’s operating margin was 87% for FY2008 
+• 
+We estimate that approximately 119mm CDMA devices shipped in the June quarter, driven primarily by 
+sequential WCDMA growth 
+• 
+We estimate the average selling price of CDMA devices was $216 for the June quarter and $219 for the FY. 
+• 
+The FY was up approximately 2% y-over-y 
+• 
+The year’s average ASP of 219 was positively impacted by a weaker dollar during the year and this impact we 
+estimate at approximately $13 average ASP 
+• 
+During Q4, we recognized 560mm in licensing and royalty revenue and approximately $0.20 EPS from the Nokia 
+agreement, attributable to both FY2008 and 2007 activity 
+• 
+The agreement includes, among other things, the non-refundable upfront payment of $2.5B received in early 
+October, ongoing royalties, and the assignment of patents valued at $1.8B and recorded in intangible assets 
+FY2008 
+
+• 
+At the end of FY2008, unearned revenue attributable to the upfront consideration of the Nokia agreement was 
+$3.9B, which will be recognized over the approximate remaining 14-year term of the license agreement 
+• 
+The value of the patents assigned to us last month will be amortized on a straight-line basis to licensing cost of 
+sales over their estimated useful life of approximately 15 years 
+• 
+Q4 FY2008 includes six quarters of revenue amortization and the resumption of royalties for H2 FY2008 
+• While the value attributable to the patents is recognized as revenue in the same manner as the upfront cash 
+payment, the amortization of the patent asset will not commence until the first fiscal quarter of FY2009 
+• 
+And due to this differential in the accounting, no cost of revenue was recognized in Q4 related to these patents 
+• 
+The effect of this differential was a positive contribution of approximately $0.06 EPS for Q4 and FY2008 
+
+• 
+However, going forward the recognition of revenue related to the patent value and the cost of revenues from 
+the amortization of the patent assets will largely offset, resulting in only a moderate impact on earnings 
+Guidance 
+
+Turning to our forward guidance, we now anticipate FY2009 pro forma earnings to be approximately $2.00 to $2.10 
+per share 
+
+As Paul indicated in his opening remarks, in August we are targeting a FY2009 budget of approximately $2.60 pro 
+forma EPS. 
+
+In September, based primarily on a reduced outlook for the 2009 CDMA market, our forecast had reduced to 
+approximately $2.42 pro forma EPS. 
+
+Economy 
+
+• 
+In recent weeks, it has become apparent we are in the midst of a rapidly changing macroeconomic environment 
+that is driving conservative market behavior and resulting in a significant channel inventory contraction 
+• 
+We believe carriers and OEMs are reducing and we expect to see them further reduce their inventory of CDMA 
+devices and chipsets as a defensive measure in response to the current economic slowdown 
+• 
+We expect an approximate five-week contraction from September 2008 through March 2009, from 
+approximately 19 weeks of channel inventory down to approximately 14 weeks of channel inventory 
+• 
+This latest forecast and inventory contraction and further weakening economic outlook have meaningfully 
+reduced our earnings expectations for FY2009 to our current guidance 
+• 
+Incorporating the uncertain economic environment as well as the inventory channel contraction, for calendar 
+2008 CDMA market we now expect approximately 475 to 485mm CDMA-based devices to be shipped, 
+including approximately 267mm WCDMA devices 
+• 
+We estimate the replacement rate for 2008 will be approximately 42%, down modestly from our prior estimate of 
+43% 
+• 
+Based on the 480mm midpoint of our estimate, worldwide CDMA device shipments for calendar 2008 are 
+anticipated to grow approximately 26% y-over-y 
+Calendar 2009 
+
+• 
+We estimate that the calendar 2009 CDMA device market will increase approximately 25% over 2008 with 
+shipments of approximately 580 to 620mm units 
+• 
+Based on the 600mm midpoint of our 2009 estimate, we anticipate shipments of approximately 230mm 
+CDMA2000 units and approximately 370mm WCDMA units, reflecting a meaningful mix shift of lower cost 
+devices from developing markets as compared to 2008 
+• 
+We estimate the CDMA replacement rate for 2009 will be approximately 40% 
+• 
+Based on the current business outlook, we anticipate FY2009 revenues to be in the range of approximately 10.2 
+to $10.8B, down 3 to 8% over FY2008 and we anticipate pro forma EPS to be in the range of $2.00 to $2.10 
+• 
+We estimate FY2009 pro forma operating income will be between 3.7 and $3.9B, a decrease of approximately 15 
+to 20% y-over-y 
+
+FY2009 
+
+• 
+For our FY2009 guidance we have excluded possible and additional impairments from securities with unrealized 
+losses, consistent with our prior practice, and due to the inherent uncertainty and volatility in the global financial 
+markets which makes forecasting potential future impairments very challenging 
+• 
+As of last week, we had approximately 1.3B in unrealized losses, which could result in additional other than 
+temporary impairments if market conditions do not improve 
+• 
+Nevertheless, we have the intent and ability to hold the vast majority of these securities and we expect their 
+value to recover 
+• 
+We estimate average selling prices for CDMA2000 and WCDMA devices combined will decrease approximately 
+11% in FY2009 to approximately $195, driven by a greater mix of lower cost devices as well as a strengthened 
+dollar and we see the strengthened dollar driving approximately four points of the 11% decline, and that four 
+points would be about $9 of ASP 
+Expenses, Costs and Tax Rate 
+
+• 
+We anticipate pro forma R&D and SG&A expenses in total to increase approximately 10% during FY2009, 
+reflecting subdued hiring levels, optimization of existing resources, as well as a reduction in legal expenses 
+• 
+The great majority of the estimated 10% increase represents the annualized expense rate of our employee base as 
+of the end of FY2008 
+• 
+I would also note that the 10% increase is heavily weighted toward R&D. 
+• 
+The anticipated channel inventory reduction will distort our operating expenses as a percent of revenue for the 
+first two quarters of FY2009 
+• 
+We expect this to improve in H2 the FY to a more normalized level, although we’ll continue to closely 
+monitor this and press for further business efficiencies 
+• 
+We have budgeted for business defense costs of approximately $200mm in FY2009 as compared to well in 
+excess of 300mm for FY2008 
+• 
+We anticipate our pro forma tax rate in FY2009 to be at approximately 20% 
+• 
+We estimate our GAAP EPS will be approximately $1.61 to $1.71 for FY2009 
+• 
+This includes an estimated loss of approximately $0.14 per share attributable to QSI, as well as approximately 
+$0.25 per share attributable to estimated share based compensation 
+Q1 2009 Outlook 
+
+Turning now to Q1 2009, we estimate shipments of approximately 60 to 65mm MSM phone chips during the 
+December quarter, down sequentially reflecting significant reduction in channel inventories 
+
+• 
+We estimate that 121 to 126mm CDMA-based devices shipped in the September quarter at an average selling 
+price of approximately $205 
+• 
+We estimate revenues will be in the range of approximately 2.3 to 2.5B. 
+• 
+We estimate first quarter pro forma EPS to be in the range of approximately $0.46 to $0.50 
+I would note that our estimate of the channel inventory contraction has an estimated earnings impact of approximately 
+$0.14 per share in Q1 
+
+
+We estimate that first quarter pro forma operating income will be between 800 and $900mm 
+
+We expect total company pro forma R&D and SG&A expenses combined to increase sequentially approximately 1% in 
+the first fiscal quarter 
+
+• 
+We look forward to seeing many of you next week at our annual Analyst meeting, at which time we’ll share more 
+details on our forward plans 
+Q&A 
+
+<Q - Maynard Um>: Hi, thanks. Presumably, there isn’t a whole lot of visibility out there one year out. I’m just 
+curious; I guess when you look at the numbers now, how conservative or aggressive do you think your guidance might 
+be because you’re looking for fairly good handset unit growth in 2009, but implied a much weaker chipset. Even taking 
+into account the inventory correction, it seems like there might be a disconnect. Are you overly conservative on the 
+chipset side or how comfortable or how much visibility do you have to the handset side? Thanks. 
+
+<A - William Keitel>: Maynard, these estimates that we’ve given are our best estimates. We’re not attempting to be 
+conservative here. The inventory contraction will have a significant impact on MSM shipments. We expect that will be 
+largely limited to the first two quarters of FY2009. 
+
+In terms of FY2010, I would add that under Paul’s direction and his caps on our head count and resource growth that 
+we first took a careful look at 2010 and updated that outlook in line with the goal of targeting our R&D programs so 
+that we end up where we want to be two and three years from now, and not overly focus on an inventory contraction 
+here for the first two quarters. 
+
+<Q - Peter Karazeris>: Hi, this is Peter Karazeris for Glen Yeung. Your 2009 handset ASP assumption of 195, down 
+10.5, can you give us a sense of the run rate of how that would come through the year? In other words, is it a relatively 
+steep decline in the beginning and then we flatten out or is there a way that -or does that decline somewhat steadily? 
+And I guess really in the same vein, as we began this year, you had guided to 199 and had upside through the year. Can 
+you give us some of the puts and takes around that ASP number, what would be upside and what would be downside? 
+Thanks. 
+
+<A - William Keitel>: Okay, Peter. So we think we’re coming off of fiscal Q4 at about $216 ASP and our estimate for 
+the first fiscal quarter is $205. I’ll share with you that the 216 to the 205, we estimate approximately $9 of that is due to 
+the stronger dollar. And I would add I think we have pretty good visibility on that given that the exchange rates with 
+our licensees was set at the end of September. So we’re coming up, I think we’re starting the FY at a handset ASP of 
+about 205. From there, there will be puts and takes quarter-to-quarter. But in general, what we do see is a greater 
+growth in developing world relative to developed world as compared to what we were expecting just recently. And that 
+developing world obviously, they’re looking for a less expensive handset; and of course, that’s fulfilled largely with 
+our lower end chipsets as well. 
+
+But other than that, I would say yes; we did have a favorable ASP for FY2008 relative to the expectations at the outset 
+of the year. A large element of that was the weaker dollar, which at the outset of the year we hadn’t anticipated. And 
+then number two, a pretty strong trend, much stronger than we expected to smart phones. I think that the run rate we’ve 
+got here and the interest in smart phones, I think we’ve got that pretty well sized. I hope there’s upside but I have to say 
+I think these are our best estimates at this time. 
+
+<Q - Peter Karazeris>: Thank you. 
+
+<Q - Ittai Kidron>: Thank you very much. First a question for you, Bill, just taking the high end of your operating 
+income guidance for Q1 and your EPS range, does that mean you expect a strong rebound in interest income? And the 
+second question is to Steve. On the chipset side, can you give us more color on first of all, how do you expect chipset 
+ASPs to behave through 09? I assume that the operating margin in QCT is going to get significantly contracted just 
+given the inventory correction. But if you can clarify on the inventory correction whether this is a pure chipset 
+
+
+inventory or you also see a strong handset inventory. It wasn’t clear in the commentary whether this is something that 
+your customers need to correct or something that you need to correct within your customers. 
+
+<A - William Keitel>: Okay, I’ll start. This is Bill Keitel. I’ll offer my perspectives on both your questions and let 
+anybody else here chime in. On the investment income for fiscal Q1, the guidance does include I think a rational rate of 
+investment income. As compared to the FY2004 actuals, I’ll try and be – if I wasn’t clear on this, I’ll try and be extra 
+clear. In FY2004 actuals, we had $327mm charge for other than temporary impairments. In the guidance for the first 
+fiscal quarter, I have not included an estimate of impairments as traditionally I never have. I wish I could have better 
+visibility on that to give some kind of indication, but the volatility and the market is such I just don’t feel capable of 
+doing so. So there is a risk of less investment income than what is contained in that EPS guidance, but we’re just going 
+to have to see how the quarter progress. 
+
+I would add that then on your question on the inventory, I’ll take the first stab at that. Our estimate of channel inventory 
+is from the time an MSM ships to the time a handset is in the hands of a subscriber, so it covers the OEM cycle, the 
+carrier cycle, the distributor cycle. So what we believe we’re seeing is everybody in the chain to one degree or another 
+trying to shorten, reduce the amount of inventory they’re holding given the uncertain economic environment. We see 
+them all taking a defensive posture. So that reverberates back into our chipset business because to some degree, carriers 
+and/or distributors are looking to reduce their inventories, which puts pressure on the OEMs. The OEMs as well we 
+think are trying to reduce their inventories, so it gets magnified into our chipset business. 
+
+<Q - Ittai Kidron>: And with regard to ASPs? 
+
+<A - Steve Mollenkopf>: I think with regard to ASP, Q1 I think we expect to see a similar trend to what we saw in Q4 
+last year, which was a continued strong movement toward the higher end mix, as we said in our prepared remarks. I 
+think in H2, consistent with what Bill said, it’s fairly difficult for us I think to predict what the mix is going to be, and I 
+think that’s something that we really don’t have as much visibility into at this point. 
+
+<Q - Tim Long>: Thank you, just a two-parter here on Nokia and the impact. Thanks for breaking out the different 
+splits of the one-time payments. I’m just curious when you look at the impact of Nokia on the fiscal 2009 estimates 
+compared to the range that you gave the day of the announcement, did that change at all? In other words, did that 
+change given better visibility into their units and ASPs? And then the second part, Bill, could you just discuss with us a 
+little bit how we should think about the effective royalty rate on the business if we’re going to exclude out the 
+amortization of the $3.9B? How should we think about the effective royalty rate on ongoing CDMA – WCDMA 
+shipments? Thank you. 
+
+<A - William Keitel>: Okay, Tim. First on Nokia, back in July when we announced our fiscal Q3 as well as 
+announced that early stage we were at on an agreement with Nokia, at that time, we had estimated that FY2008 would 
+improve – EPS improvement would be in a range of $0.07 to $0.13, and then we had estimated fiscal 2009 in a range of 
+$0.20 to $0.28. Fiscal 2008 obviously as I just stated, came in at $0.20. So not only did we hit the high end but we went 
+above, and that was largely due to the accounting of the patents that we received from Nokia. Within our current 
+guidance right now for fiscal 2009, given the results of the Nokia agreement, we’re now at the lower end of that prior 
+guidance. So we exceeded, well exceeded the range for our guidance on fiscal 2008. We’re at the low end of our prior 
+guidance for FY2009. 
+
+<Q - Tim Long>: Okay, and what brings you down there, Bill? 
+
+<A - William Keitel>: It was really sizing the forward royalties and then to this patent cost, the 1.8B, revenue and cost 
+over the full 15-year period will both equal 1.8B. The accounting required the revenue to start earlier than the cost, and 
+so we had that $0.06 pickup in fiscal 2008. That $0.06 pickup will now over the next 15 years be amortized, will revert 
+back. And so part of that is impacted, is bringing down the FY 2009 estimate. 
+
+I would also add, Tim, I think everybody recognizes that it was – we had a very short interval back in July to get 
+through the agreement and our estimates, and it was very preliminary at that time. And then as well of course we’re 
+now looking at a very significantly smaller market than what we were back in that July timeframe. As I said in the 
+August timeframe, we were looking at EPS target for fiscal 2009 in the 2.60 range and here we are looking at $2.00 to 
+
+
+$2.10, so I think the smaller market is probably one of the bigger impacts. 
+
+<Q - Mark McKechnie>: Great, thanks. I appreciate it. I wanted to ask about the chipset recovery. It seems like you’re 
+dropping off. You’re getting hit by inventory, but do you expect chipsets to bounce back up to the 70mm level there in 
+the June quarter or the September quarter or how do you see them bouncing back? Thanks. 
+
+<A - William Keitel>: We’ve looked carefully at the times in the past when we have seen inventory corrections and 
+we’ve reached out to a lot of our contacts within the total chain to get our best handle on what we think is going to 
+happen in this contraction. We think this is going to be a much faster contraction. It’s going to happen a lot quicker 
+than what we’ve seen in the past. And I think we have – I feel like we’ve got pretty good insight on that. We see this 
+happening over the next two quarters. As I said, we think it’s going to drop just a little bit below the historical normal 
+average of 15 to 20 weeks. Then from there, we’re projecting a modest increase in that channel inventory coming out of 
+the FY in the range of about 17 weeks. So a little difficult to say for sure but I feel reasonably good about that estimate 
+at this time. 
+
+So once that inventory channel stops contracting, then I think we see a more normalized MSM shipment level. I don’t 
+think we want at this time to get into unit estimates out in that timeframe. We will be sharing more about our forward 
+plans next week in New York. But I would just point you back to what I said in my prepared comments that operating 
+expenses we think are going to be distorted as a percent of revenue here for the next two quarters. And based on our 
+plans, we see a more normalized level; that is operating expenses as a percent of revenue in fiscal Q3 and fiscal Q4. 
+
+<Q - Mark McKechnie>: And that’s because you’re expecting a pretty big bounce back in fiscal Q3 I’m assuming in 
+revenues, right? It’s not because you’re going to cut expenses. 
+
+<A - William Keitel>: Once the inventory contraction stops, then I think we’ll see our chip shipments getting back to a 
+more normalized level pretty quickly. 
+
+<Q - Mark McKechnie>: Got it. Thanks. 
+
+<A - Steve Mollenkopf>: We will – obviously we’re going to watch this. These are all projections based off of models 
+that we had from previous years. We don’t think the inventory levels are sustainable over the long term. But of course, 
+we’ll watch and we have contingency plans if we don’t see the recovery happen. If it takes an extra quarter or 
+something like that, we will then look at other ways of reducing costs and we’re going to continue to do that throughout 
+the year. 
+
+<Q - Ehud Gelblum>: Thank you very much guys, a clarification on a couple things, Bill, first. The 10% uptick in 
+OpEx you’re actually expecting for 2009, does that include the amortization of the 1.8B Nokia patent, which is – three 
+quarters of that would be about $100mm or is that in COGS and not part of the OpEx uptick? And then was that 1.8B 
+you paid to Nokia, did you actually pay that? Was that a cash payment, so on a net basis you got 700mm, I’m just 
+trying to understand how that works? 
+
+<A - William Keitel>: Okay. Yes, Ehud, in terms of the OpEx, that does not include patent amortization. The patent 
+amortization is in cost of sales, and there was not a cash transfer with the patent transfer. 
+
+<Q - Ehud Gelblum>: Okay. 
+
+<A - William Keitel>: So it was only a 2.5B payment to Qualcomm. 
+
+<Q - Ehud Gelblum>: Okay, that’s actually very helpful, and then a more fundamental question. When you’re talking 
+about going from 19 weeks of inventory in the channel to 14 weeks, was the 19 weeks based on your prior shipment 
+record of about 86mm per quarter, which translates to about 6.5mm chips per week? Or is it based on the new level of 
+60 – 65, which is 4.5 to 5mm a week? Or is the 19 based on the higher number and the 14 based on the lower number? 
+I’m just trying to get a sense of how many chips we’re really sucking out of the channel over the next couple quarters. 
+
+<A - William Keitel>: The 19 is based on – take our current estimate for the CDMA unit market for the latter part of 
+calendar 2008; divide by 52 and that’s what we see as a weeks equivalent. And then for the 14 weeks, again that would 
+
+
+be now our calendar 2009 unit estimate; divide by 52 and that would be a weeks equivalent. Our MSMs are just a piece 
+of that total channel. 
+
+<Q - James Faucette>: Thank you very much. Looking at your unit forecasts for next year, I was wondering if the 
+growth that you have built in there, if that anticipates now the granting of 3G licenses? I didn’t see whether those have 
+been specifically excluded for China, the granting of those licenses. And then a second question that I had was if you 
+could just give a little color as to the last few weeks, how the cuts and indications of inventory reduction have been 
+communicated to you; has it been all at once by all of your customers or has it been in specific geographies? And any 
+color you can give on the nature of those cuts recently would be very helpful. Thank you. 
+
+<A - Paul Jacobs>: We’ve put some units in for China. We’re basing it off of some estimates that operators have 
+made. We are anticipating that 3G licenses will be granted relatively soon. So we did make the decision this year to put 
+some units in for China that we had not in the past. 
+
+<A - Steven Altman>: This is Steve. With regard to your question about the change in customer behavior related to the 
+inventory contraction, it’s really something that started happening I would say in the last several weeks. And consistent 
+with our belief that this is highly dependent on what the OEM is thinking of and how they want to manage the 
+economic environment, it varies a bit across customers. And so we have seen some variation across customers certainly 
+accelerating over the last several weeks. 
+
+Recently and when I say recently, meaning over the last several days, I think we’ve seen a reduction in the rate of 
+change of that forecast. And consistent with our guidance, we’ve actually opened up the number of units to allow for a 
+little bit more uncertainty than normal. But I think this is – we have a lot of confidence actually that what we gave is a 
+reasonable outlook. 
+
+<Q - Tim Luke>: Thanks so much. Bill, Steve, with respect to the guidance on the EBIT, the chip units came down 
+30% and the WCDMA forecast is up like almost 40% for the year. Can you give us some color on regionally where 
+you’re seeing the biggest delta in terms of this substantial change in channel inventory that you outlined? And then can 
+you give us some flavor of to get to that 370, what you’re assuming in terms of the regional change in the WCDMA 
+market? And I guess there’s the question on seasonality as part of that. Is this, Steve, you think the low in the chip 
+number and then March is slightly up from here? Thanks. 
+
+<A - William Keitel>: Tim, this is Bill. I’ll try and take part of those questions here. First, on the – we have provided 
+an update on calendar 2008. I just did a summary in my remarks but on our website, we’ve updated it by region of the 
+world. And as I said, we brought down our estimate of the replacement rate just slightly. Previously we had been 
+looking for a 43% replacement rate for 2008. We’ve updated that now down to 42%. 
+
+But then as we always do, we’ve got a pretty thorough process of trying to check region by region on net adds and as 
+well as new subs. And we brought down Europe modestly. You’ll see that on our website. We brought down also the 
+Americas by just a couple units. China, I think we’ve all seen that on an interim basis here that with the transition 
+coming up here from China Unicom CDMA to China Telecom, there has been a defocus on growing that CDMA base, 
+so we brought down China a bit. India, we brought down slightly as well as the greater Asia-Pacific. Each of those 
+again, are detailed on our website so you’ll be able to get that. 
+
+In terms of the WCDMA market growing and our chipset forecast here for Q1 having a fairly significant decrease, it’s 
+simply that right now the market, be it operators and/or OEMs, they think they’ve got enough chipsets to satisfy a lot of 
+their needs and are looking to reduce those. So our rate of flow into the OEMs we think is going to reduce here relative 
+to the past for the next two quarters. So it’s a little difficult to exactly trace our estimated shipments into the end market 
+when you’ve got – if we’re right here that this inventory contraction is pretty severe, it’s going to curve for the next two 
+quarters. 
+
+<Q - T. Michael Walkley>: Great, thank you; Bill, just another question on the trajectory of the recovery. Should we 
+assume in the back half of 2009 back to normal builds that QCT margins would be within that historical 25% and a 
+little bit higher range that is embedded in your guidance? Can you just help clarify that? 
+
+
+<A - William Keitel>: I think that obviously for the first fiscal quarter here, our forecast is an abnormally low 
+operating margin for QCT. We do see – our best estimate at this time is H2 the FY returns to what I think we would 
+consider a more normalized level. 
+
+<Q - T. Michael Walkley>: Thanks, and then in terms of not losing share, could you guys discuss some areas or 
+OEMs you see as potential share gains over the next year or two? 
+
+<A - Steven Altman>: Sure, this is Steve. I think we’ve had a number of positive moves in the last year, adding Sony 
+Ericsson as a customer for a portion of the portfolio. We’ve started to add some volume out of Motorola. And I think as 
+we’ve discussed on previous calls, we think that the addressable market to the chipset business has actually increased 
+primarily as a result of the settlement of the Nokia licensing deal between the two companies. I think it’s much too 
+early to make a statement with regard to how that’s going to impact our financials, but we definitely see a difference in 
+terms of the way we look at the market after that event. 
+
+<Q - David Wong>: Thank you very much. Can you give us some idea as to how the pattern of chipset shipments will 
+affect your gross margins? Presumably your gross margins are better in H1 the FY because of lower chipset shipments 
+and then they get pulled down in H2 because your chipset shipments rebound or does something else also impact 
+margins? 
+
+<A - William Keitel>: It’s primarily just, David, that in H1, there’s just a sudden reduction here in the run rate on our 
+revenues relative to what we expect in H2 the FY. As we explained, we’ve carefully gone through our resource levels 
+of the programs we’re investing in, and our op expenses are really, we tried to carefully target them to where we want 
+to be two, three years from now, so the operating expenses continue. The revenues have a sudden decrease for the next 
+two quarters and hence the operating margins for the next two quarters will be abnormally low. 
+
+<Q - David Wong>: Yes, but I’m referring to the blended gross margin. Does that get that benefit from a lower mix of 
+chipsets, does it? 
+
+<A - William Keitel>: The mix of licensing revenue to chip revenue will certainly adjust here for the next two 
+quarters. And yes, that would favorably impact the gross margin for the next two quarters. 
+
+<Q - Mike Alexander>: This is Mike Alexander in for Ed Snyder. I wanted to ask if you could give a little more color 
+on the replacement rate for 2009. Do you have any geographic idea where replacements are going to be falling and 
+maybe some idea of the mix of new subscribers into the developing world? Thank you. 
+
+<A - William Keitel>: Mike , at this point we’re planning to give more color on replacement rates next week in New 
+York, so there are regional differences and quite significant. We thought it best to share that when we get to New York. 
+Paul, do you want to add anything? 
+
+<A - Paul Jacobs>: I think I teed this one up on CNBC. Let me just make a comment. One of the things that we see 
+happening for example in Japan is that the operators are moving to installment programs which have proved to be 
+extremely popular with consumers. And that’s causing people to hold the handsets a little bit longer. The interesting 
+offsetting fact though is it looks like people are willing to buy a slightly higher priced handset for that. So there are 
+some puts and takes relative to that but we are seeing some impact there. I’d say it’s less the macroeconomic conditions 
+than it has been just a different business model by the operators. 
+
+<Q - Mike Alexander>: Great, thanks. 
+
+<Q - Brian Modoff>: Hi guys, a couple questions. So just understanding, Bill, on this accounting for the one-time 
+payment and the amortization of the patents, and those canceling each other out, does that necessarily mean that we just 
+really are factoring in the ongoing payment as a net incremental gain to your numbers going forward? And then Paul, 
+on a regional basis, have you seen a material change in demand from some of the emerging markets in the last few 
+weeks that have created more concern for you? And then finally, Steve, what percentage of your units are – give us an 
+idea of what you think you’ll have in terms of designs in 2009 for Snapdragon and the 7000 series platform. Thanks. 
+
+
+<A - William Keitel>: Brian, this is Bill. To your question on the Nokia amortization, you’re correct. The amortization 
+of the 2.5B will positively contribute to earnings. The amortization of the patent intangible will not contribute to 
+earnings going forward. 
+
+<A - Paul Jacobs>: Yes, I think obviously, there’s a question a little bit in India, but we are – and also just the timing 
+of the transition and the sort of re-energization in China of sales of CDMA. But as we look forward into the next year, 
+we’re seeing more trend towards emerging markets as opposed to away from emerging markets. 
+
+<A - Steven Altman>: Brian, this is Steve. On the 7000 platform and Snapdragon platform in terms of customer 
+traction, let me just start with the 8000 first or the Snapdragon first. We’re still on track for first devices in midyear 
+next year, and starting to build throughout the year. It won’t be a significant number in terms of next year but it’s 
+definitely consistent with what we see with the launch of a new chipset family. As I mentioned earlier, we’re starting to 
+see traction in the OEM base or in customer base outside of our traditional customers, which we’re pleased with and 
+we’re going to talk a little bit more about that next week. 
+
+On the 7000 platform, we continue to believe that integration strategy is really the key to driving mass market OpenLS 
+phones into the market, and we’re seeing I think traction consistent with that. It’s really driven primarily by our close 
+association with some of the software houses as well. So we’ve had a significant amount of interest in the Android 
+platform as well as continued interest with our Win Mobile devices. 
+
+<Q - Kulbinder Garcha>: Thanks, just two very quick questions. On the inventory level, the 14 weeks by the end of 
+this depletion, am I understanding correctly that’s the lowest level that it has been the last three or five years? That’s 
+my first question I guess for Bill. And then for Paul, with respect to the lack of visibility, macroeconomic uncertainty, 
+revenue are expected to decline. I understand why because you are annualizing the run rate at the end of 2008, but I’m 
+surprised that more meaningful action is not being taken to actually not have OpEx rise 10% but for it to be flat or be 
+even down. I’m wondering how you think about if things do worsen from here, whether Qualcomm should take a more 
+meaningful approach towards its cost base. Thanks. 
+
+<A - William Keitel>: First, on the inventory weeks, there was a time in just a specific segment of the market, not the 
+worldwide market as we forecast now that we did see a dip below 14 weeks, but the variety of devices that the market 
+was demanding at that time was significantly different than what it is today. So in our analysis, we didn’t – we used it 
+but the comparability wasn’t that direct. Overall, I would say 14 weeks is abnormally low but we’ve seen when people 
+try and correct inventories as we see many trying to do, they often get to a bit of an abnormal level so we thought it was 
+the prudent forecast to use. 
+
+<A - Paul Jacobs>: In terms of expense management, obviously we are very focused on that and definitely are 
+adapting to the current environment and essentially shutting down head count growth. There are a lot of opportunities 
+ahead of us with a number of new technologies coming to market, so we think that we’re making the right investments. 
+We generally would have added head count to go after those, so we are making hard decisions to shut some projects 
+down and reallocate resources. 
+
+Clearly if conditions worsen from here, we have a contingency plan. We have gone through and prioritized projects. 
+We’ll continue that process and so I think that we’ll be able to adapt. I don’t feel like looking at a two quarter impact 
+because of inventory contraction and then potentially damaging our ability to react coming out of the downturn because 
+we feel like as a market leader, we actually are well positioned to have a better competitive position coming out of the 
+downturn. But with that said, we’re very focused on expense management over the past few years. We know that we’ve 
+grown fairly rapidly into the opportunities and we’re looking for much more leverage this year while still addressing 
+these very significant opportunities ahead of us. 
+
+Dr. Paul E. Jacobs, CEO 
+
+Closing Remarks 
+
+
+Just to follow on to that, while these macroeconomic conditions are impacting the business looking forward, I feel like 
+we are adapting and positioning ourselves for future growth 
+
+And we have this very strong balance sheet and very strong operating cash flows, and that is allowing us to address a 
+bunch of opportunities that are in front of us 
+
+The market for 3G CDMA continues to grow, I might add at the expense of 2G, and we’re continuing to expand the 
+functionality of wireless devices and the uses of wireless technology 
+
+• 
+So I really do feel that in challenging times, market leaders can strengthen their position. We intend to do that in 
+these times. 
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

@@ -1,0 +1,871 @@
+Q1 2011 Earnings Call 
+
+
+Company Participants 
+
+• Maria Quillard, Investor Relations 
+• Jon Olson, Senior Vice President and Chief Financial Officer 
+• Moshe Gavrielov, President and Chief Executive Officer 
+Other Participants 
+
+• Uche Orji 
+• Aniel Mahtani 
+• Chris Danely 
+• Mahesh Sanganeria 
+• James Schneider 
+• David Wong 
+• Ruben Roy 
+• Ian Ing 
+• Hans Mosesmann 
+• Shawn Webster 
+• Apurva Patel 
+• Ryan Goodman 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good afternoon. My name is Josh and I will be your conference operator. I would now like to welcome everyone to the 
+Xilinx First Quarter Fiscal Year 2011 Earnings Release Conference Call. All lines have been placed on mute to prevent 
+any background noise. After the speakers' remarks, there will be a question-and-answer session. [Operator Instructions] 
+
+I would now like to turn the call over to Ms. Maria Quillard. Thank you. Ms. Quillard, you may begin your conference. 
+
+Maria Quillard, Investor Relations 
+
+Thank you everyone and good afternoon. With me are Moshe Gavrielov, CEO, and Jon Olson, CFO. We will provide a 
+financial and business review of the June quarter, then we'll open the call up for questions. 
+
+Let me remind everyone that during our conference call today, we may make projections or other forward-looking 
+statements regarding future events or the future financial performance of the company. We wish to caution you that 
+such statements are predictions based on information that is currently available and that actual results may differ 
+materially. 
+
+We refer you to the documents the company files with the SEC, including our 10-Ks, 10-Qs and 8-Ks. These 
+documents contain and identify important factors that could cause the actual results to differ materially from those 
+contained in our projections or forward-looking statements. This conference call is open to all and is being webcast 
+live. It can be accessed from our Investor Relations website. 
+
+
+Now let me turn the call over to Jon Olson. 
+
+Jon Olson, Senior Vice President and Chief Financial Officer 
+
+Thank you, Maria. During today's commentary I will review our June quarter business results. I will conclude my 
+remarks by providing guidance for the September quarter. The June quarter was a strong quarter setting records for 
+both sales and operating income. With sales of $595 million we set a record for the third consecutive quarter and 
+operating income reached an historic high of $208 million. This operating income performance represents a 
+year-over-year increase of 263%, over four times the rate of sales increase during the same period. The operating 
+leverage was a direct result of not only the significant growth in revenue, but was greatly enhanced by the restructuring 
+actions and cost reduction efforts driven at the company over the past two years. 
+
+June quarter sales of $595 million increased 12% sequentially, better than expected sales growth was driven primarily 
+by strong new product growth as well as across the board strength in the industrial and other category. 
+
+Sales for the first two months of the quarter were in align with our expectations while the third month was stronger than 
+expected. Turns business for the quarter was 53%, down from 56% in the prior quarter. Xilinx remains supply 
+constrained throughout the quarter, and we have not experienced measurable lead time improvements. Delinquencies 
+exiting the quarter were in line with our expectations. 
+
+However, demand has been and continues to be stronger than anticipated in both the June and September quarters. As a 
+result, we do not expect supply constraints to be fully resolved for at least a couple more quarters. While we are 
+growing wafer outs quarter by quarter from our foundry network, the supply chain remains at full capacity. 
+
+Based on the increases in wafers, we believe that delinquencies can be kept from growing further. Gross margin of 65% 
+was up from 61.8% in the same quarter a year ago. In the past year gross margin has benefited from the implementation 
+of supply chain efficiencies and greater focus on cost reduction. 
+
+Operating expenses decreased 5% sequentially, more than anticipated due to lower R&D spending which is a result of 
+delayed hiring and a push-out of contract engineering services to future quarters. As a result, operating income 
+increased 33% sequentially to a record $208 million or 35% of sales. This is up from 30% in the prior quarter and up 
+from 15% in the same quarter a year ago. 
+
+New product sales increased 23% sequentially in the June quarter to 39% of sales driven by exceptionally strong 
+growth from Virtex-5 as well as our newest Virtex-6 family. Sales from our Virtex-6 and Spartan-6 families were up 
+substantially. Mainstream products increased 9% sequentially representing 30% of total sales and base products 
+increased 4% sequentially to 27% of total. 
+
+Europe was our strongest geography during the quarter with sales increasing 19% sequentially. Most end markets in 
+Europe posted strong double-digit growth with the sales from wireless communications representing the largest 
+incremental increase. 
+
+North American sales increased 12% sequentially driven by defense, wire communications and industrial scientific and 
+medical applications. Asia-Pacific sales increased 11% sequentially with strength from wired and wireless 
+communications, consumer and industrial applications. Sales from Japan were essentially flat for the quarter. 
+
+From an end market perspective, communications sales increased 12% sequentially. Both wireless and wireline 
+communications increased during the quarter. Industrial and other sales reached a new record increasing 21% 
+sequentially with double-digit sequential increases from defense, industrial scientific and medical, and test and 
+measurement. 
+
+Over the past five years sales from this category have more than doubled, a strong testament to the fact that PLDs are 
+gaining ground verses ASICs and ASSPs in these markets. Consumer and automotive sales increased 8% sequentially 
+driven by strength in audio/video broadcast and consumer applications. 
+
+
+Lastly sales from data processing decreased as anticipated due primarily to the timing of customer programs. Net 
+income during the quarter was $159 million or $0.58 per diluted share. Other income and expense was a net expense of 
+$5 million. This was higher than the $2 million net expense number we estimated at the beginning of the quarter 
+primarily due to the impact of the debt issuance and the, any delay in recognizing the gain on the sale of an investment. 
+
+Operating cash flow for the March quarter was $107 million before $18 million in CapEx. During the quarter Xilinx 
+issued $600 million in convertible senior notes. We used $433 million in proceeds from this issuance to repurchase 
+$16.3 million – excuse me, 16.3 million shares. We also paid $44 million in cash dividends. The tax rate in the June 
+quarter was 22%. 
+
+In total, this quarter's strong financial performance resulted in a return on equity of 32%, up from 8% in the same 
+quarter a year ago. Improved profitability as well as the recent issuance of convertible debt for the primary purpose of 
+share repurchase drove the majority of this improvement. 
+
+Let me now comment on the balance sheet. Cash and investments increased $155 million during the quarter to 
+approximately $2.1 billion. We now have approximately $1.3 billion in convertible debt on our balance sheet, which 
+includes the recent convertible issuance. Our net cash position is approximately $800 million. 
+
+Days sales outstanding increased nine days in the June quarter to 54 days. Combined inventory days in the June quarter 
+were 80, up from 79 in the prior quarter. As I mentioned earlier in my remarks, our overall supply chain remains tight. 
+However, we have been able to meet customers' critical needs despite the delinquency levels we are experiencing. In 
+the September quarter, we expect inventory days to be approximately flat. 
+
+Let me now turn to the discussion to guidance for the September quarter FY '11. Our backlog heading into the quarter 
+is up. We are expecting to see continued strength from Virtex-5 as well as continued strong growth from our new 
+Virtex-6 and Spartan-6 families. From an end market perspective, we are expecting sales from communications to be 
+up, driven primarily by strength in wireless communications. Coming off a very strong quarter, industrial and other 
+sales are expected to decrease slightly primarily due to decreases from defense as well as industrial and scientific and 
+medical and test and measurement. 
+
+Consumer and automotive sales are expected to be up sequentially driven by increased consumer and audio video 
+broadcast sales. Lastly, data process is expected to increase driven by both storage and server applications. As a result, 
+we are expecting total sales to be up 3 to 7% sequentially in the September quarter, with sales in North America 
+declining and sales from all other regions increasing. The midpoint of our sales guidance is predicated on a turns rate of 
+approximately 48%. This is down from the 53% in the June quarter. 
+
+Our belief is that due to the extended lead time situation, we are more fully booked than in previous quarters. Gross 
+margin is expected to be 65% plus or minus a point. Operating expenses in the September quarter are expected to be 
+approximately $185 million. The increase in expenses is related to increased engineering hiring to support next 
+generation programs, expenses associated with contract engineering services and higher variable and selling and 
+compensation expenses associated with our higher revenue and profit levels. 
+
+Other income and expense is expected to be a net expense of approximately $4 million. The share count is expected to 
+be 264 million shares as the impact of our recent accelerated share purchase is fully reflected, but offset somewhat by 
+share issuance associated with our annual focal and review processes. The tax rate for fiscal 2011 is expected to be 
+22%. 
+
+Let me now turn the call over to Moshe. 
+
+Moshe Gavrielov, President and Chief Executive Officer 
+
+Thank you, Jon, and good afternoon to you all. We are delighted to have delivered our third consecutive quarter of 
+record revenues, highlighting that the customer demand side of the business remains very healthy. Six of our end 
+market segments increased by double digits sequentially, wireless, defense, industrial, test, industrial test and 
+
+
+measurement, ABB and consumer. 
+
+This very broad based market strength resulted in us easily beating the high end of our revenue guidance range for the 
+June ending quarter. In addition, with our 3 to 7% sales growth forecast for the September quarter, we're expecting 
+better than normal summer seasonality. The reason we are feeling positive about the September quarter is that orders 
+are already well booked and our starting backlog is up significantly. 
+
+Turning to the supply side of our business, continue to serve our customer needs we remain constrained primarily by 
+foundry capacity. Our lead times continue to be stretched out like those of many others in the semiconductor industry. 
+
+Driving our record revenue growth during the June quarter were our new 40 and 65-nanometer FPGAs along with a 
+90-nanometer Virtex-4 family resurgence. Sales of our latest 40-nanometer Virtex-6 products increased substantially 
+[inaudible] primary driver of our wireless communications sequential increase. 
+
+As we predicted, several of our 3G wireless customers took significant delivery of our Virtex-6 parts; their designs 
+began shipping in volume production. Our flagship 65-nanometer Virtex-5 family reached more than 25% of overall 
+revenues this quarter, establishing another new record of the highest generating revenue family in PLD history. In the 
+September quarter, we expect Virtex-5 revenues to increase once again. 
+
+Lastly, our 90-nanometer Virtex-4 revenues increased 50% sequentially, driven in part by strength from our defense 
+customers. Current trends continue. Our growth rate is on pace to exceed the overall semiconductor industry in 2010, a 
+testament to the validity of the programmable imperative, the insatiable need for more wired and wireless bandwidth 
+driving a surge in PLD demand. 
+
+Increasingly, newer programmable logic platforms are replacing ASIC and selective ASSP solutions, and we expect 
+this trend will only accelerate with the introduction of our new 28-nanometer families. Late last month, we announced 
+our 7 series FPGA families, which we believe will further change the game in our industry and open a bold new chapter 
+in the history of our company. 
+
+This portfolio of 28-nanometer products is built on the industry's lowest power, the only unified architecture, which 
+scales from low cost to the ultra high end. When we collaborated with customers to define the 7 series SPGA families, 
+it became abundantly clear that consumption was the key limiting factor to opening programmable logic to new 
+applications and markets now serviced by ASICs, ASSPs. 
+
+By choosing the high performance, low power process from TSMC, we're significantly lowering overall total power 
+consumption. It also became very clear when talking with customers about their next generation product needs, they're 
+experiencing a convergence of system level requirements across both high end and high volume SPGAs. 
+
+To address this convergence, all of our 28-nanometer SPGAs are being built from a common set of system blocks 
+allowing customers to design their systems independent of SPGA family selection. 
+
+Consequently, our unified architecture greatly improves customer productivity because once they design their IP they 
+can use and reuse it across all families. This all important focus on power, performance and productivity with our 7 
+series SPGAs will strengthen our core business as well as propel us into new adjacencies. 
+
+Our announcement last quarter of our ARM based extensible processing architecture 28-nanometer demonstrates that 
+we are positioned to service a new class of designers outside of our traditional user base and spearheads our drive into a 
+wide variety of embedded systems. 
+
+By employing the familiar ARM-based software environment and fast ecosystem we can leverage open standards, 
+extend the reach of embedded systems providing significant incremental growth opportunities for Xilinx. I am very 
+excited about this broad portfolio of new products, look forward to updating you on the progress of our aggressive 
+28-nanometer deployment quarters to come. I'm convinced that the programmable imperative is an inexorable trend 
+and will accelerate with the introduction of these new 28-nanometer families from Xilinx, the leading provider of 
+programmable platforms. 
+
+
+Now turn the call over to Jon. 
+
+Jon Olson, Senior Vice President and Chief Financial Officer 
+
+Thank you, Moshe. Before we move on to the question-and-answer period I'd like to make a brief announcement that 
+likely will be of interest to the analysts who cover Xilinx and our shareholders. After 18 years of service in the investor 
+relations organization at Xilinx, Maria Quillard has decided to retire. As we're all aware, Maria has been responsible for 
+building a quality team at Xilinx that has served the needs of our stakeholders with strong leadership and 
+uncompromising professionalism. She truly will be missed. Moshe and I would like to thank Maria for all that she has 
+done. Maria will be with us for the next couple of months and will be announcing a replacement shortly. 
+
+Now, I'll turn the call back to the operator to begin the question-and-answer period. Operator? 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions] And your first question comes from the line of Glen Yeung with Citi. 
+
+<Q>: Hi. This is [inaudible] for Glen Yeung. Your inventories were up 16% in the quarter but the BS DOI was 
+approximately flat. How comfortable are you with the inventory levels that you have currently? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: So you know, the fact that our revenue is up 
+significantly and the days are flatter just merely is the calculation, but what's really happening there is that, as we've 
+increased the number of wafers out of the foundries and moved it into the back end, the areas in the inventory where 
+the increase really was from a quarterly basis wasn't in our dye bank or wasn't in the front end. It was really all in the 
+back end. So inventory that's built up in assembly and tests, you know, just after it's been assembled into finished goods 
+ready for shipment early in this particular quarter. So, you know, we're pretty comfortable with that. I don't again, you 
+know, we think days are already very lean at the 80 level and as revenue goes up, inventory dollars will tend to drift up 
+a little bit as well, but I wouldn't expect any significant spikes in inventory dollars in the short run. 
+
+<Q>: Thank you. And we've heard chatter about [inaudible] for Phase IV starting up again. What do you think there? I 
+know that you're expecting wireless infrastructure to continue to be a driver next quarter? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Yes. So the build-out, it's clear the build-out is 
+starting and we did ship Virtex-6 parts into the initial builds beyond prototyping and that's really what the primary 
+impact of the China business was for us this quarter. And we do expect the ramp to begin in the September quarter, and 
+it should, you know, if history repeats itself, it should continue for another couple of quarters beyond that. 
+
+<Q>: Great. Thank you. 
+
+Operator 
+
+Your next question comes from Uche Orji with UBS. 
+
+<Q - Uche Orji>: Can you hear me? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Yes, Uche, we can hear you. 
+
+<Q - Uche Orji>: Yes, thank you very much. Let me just start off by asking about the gross margins. So in terms of 
+what will drive it now going forward, should we expect that to be more mix driven and as Virtex-6 ramps, what kind of 
+impact would that also have on gross margins? So I'm just trying to understand whether we are done at leveraging it 
+now at 65% and subsequently it's going to be about mix or are there any other factors that will drive gross margins 
+
+
+going forward? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Well, clearly mix has a lot to do with it 
+typically in our business because of all the different end markets that we sell to, but I think the biggest dynamic that's 
+going on is as yields improve on Virtex-6 and the costs get better for Virtex-6 and Spartan-6, that's obviously a plus 
+helping us along the way, but the fact that the foundries – the supply chain is really, really tight is actually a drag for us, 
+because as is typical in semiconductor industry, your prices are always going down in terms of the price curve and your 
+cost curves are also going down, and the fact that the wafer foundries are not giving us the same level of price 
+decreases that we have historically experienced, that ends up being a drag. 
+
+So we've been able to – we do believe we'll be able to offset that, the fact that wafer costs aren't going down nearly as 
+fast as they have in the past with other cost reduction efforts across the company and then obviously improved yields 
+on Virtex-6. So I characterized last quarter that the end of this year, we should see some – there's a potential of seeing 
+some uptick in gross margin. I'm less confident of that now just because of the state of the supply chain overall. 
+
+<Q - Uche Orji>: Sure. That's helpful. Now in terms of thinking about the impact of the supply chain, I know you've 
+given a guidance for September. How should we and without asking you to necessarily give a full guidance for 
+December, but how should we think about what the impact of the supply chain could have farther down the line say 
+into the December quarter and also as V-6 ramps, will that also have an impact as to how we should think about 
+December? 
+
+So apart from military which I know tends to have an impact in the Q4 period, I'm just trying to understand whether the 
+impact of supply chain could lead us to ending up with a better than seasonal December quarter and while explaining, 
+that also, can you just give us more insight as to what your foundry partners are telling you about how they can 
+improve the tightness they're seeing, right now? Thanks. 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Yeah. So I mean you're right. The seasonality 
+aspect of aerospace and defense has tended to be a positive force in the December quarter, but boy, there's just way too 
+much going on right now for us to give you a great forecast. I really don't think the supply chain, at least the way we 
+see it today, is going to impede us from continuing growth if there's that brisk demand from our customers and this 
+ramp would continue into December. 
+
+We do have capacity reservations for increasing wafers, you know, not just in September, but also the December 
+quarter. So we have the ability to get absolutely more wafers out in December than we did in September and obviously 
+I just talked about having getting more out in September than we had in June. 
+
+So we have that capacity reservation and that capability at the foundries, but I'm not going to kid you. It's tough. It's 
+really hard negotiations to get what we want and, you know, there's just a lot of semiconductor companies knocking at 
+the door trying to get that, and we've been treated very well by our partners. And, you know, it's working out, and I do 
+want to point even though we, point out that we do have delinquencies and they increased this quarter. We really have 
+been able to help meet customers' really critical needs. I don't think we've really created a really a lines down situation 
+and those kinds of things that you might hear about in other situations. We've done a good job in the communications 
+with our customers and in that particular situation. There's a lot of companies that are shorting them. So you know, 
+we've got a pretty good reputation there. 
+
+<Q - Uche Orji>: All right. And just one last question for Moshe. Moshe, when you were describing the dynamics 
+between ASIC, ASSPs and FPGA, you mentioned power as the most important factor now or the limiting factor in 
+terms of adoption of FPGA. You know, I probably was under the impression it was more economics as opposed to 
+power. Can you just shed a little bit more light as to how the economics has changed say as we go to 28-nanometers 
+with the ASIC. I know there is no one size fits all example, but I'm literally surprised to hear power as opposed to 
+economics as well it always used to be economics over power so any sense as to how we can think about impacting the 
+economics would be helpful. Thank you. 
+
+<A - Moshe Gavrielov, President and Chief Executive Officer>: Well, you know, you need to address all three. You 
+need to hit the right price point. You need to have the right set of features, and you need to achieve a certain power 
+
+
+envelope. More and more the biggest challenge is in the power envelope because as you move forward as we have 
+aggressively to new process nodes, then you can address the cost through higher density, but if the power is more 
+difficult to achieve and that has become the biggest issue. Now if you think back at what happened in the processor 
+space 10 years ago around the turn of the millennium there was a huge transition that happened where the processor, 
+the leading processor companies moved to multi core solutions as opposed to just increasing the frequency. That was 
+all driven by power and that was a precursor that then permeated the ASIC design flow starting for about five years 
+ago, and we believe we are driving the leadership in the SPGA space because that has become the number one issue, 
+not only in terms of the CapEx requirements that our customers have, but they're now looking more and more at OpEx. 
+Products tend to have very long life cycle and huge portion of running their business is how much power they require. 
+
+So it's becoming more and more front and central – front and center to the customers' requirements in more and more 
+applications. That doesn't mean that the other two, the features and the cost of the product itself are not important, but 
+the power has moved to the No. 1 element in our mind. 
+
+<Q - Uche Orji>: All right. Thank you very much. 
+
+Operator 
+
+Your next question comes from Tim Luke with Barclays Capital. 
+
+<Q - Aniel Mahtani>: Guys, this is Aniel Mahtani for Tim Luke. Could you please provide some color on how you 
+view R&D trending over the course of the year as you ramp up new programs? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Yes. So R&D spending has a little bit of a, 
+you know, upward bias to the second half of our year primarily due to the beginning of 28-nanometer tape-outs and 
+those kinds of things. We're really experiencing one of the lower tape-out extending years overall and it starts to 
+increase a little bit in the second half. 
+
+If I can kind of step it up one level higher, just talk about OpEx in total in terms of our expectations. We've guided to 
+185 million for next quarter, and I think even though there will be a little bit of up and down in the second half of our 
+fiscal year I think somewhere in the mid-180s is the right level to plan on a quarterly basis for OpEx. 
+
+Now if revenue significantly increases further, there will be additional variable expenses for selling expenses and 
+compensation-related expenses associated with our incentive programs for employees since that's driven by operating 
+margin, percentage and expansion of the top line will yield expansion of the bottom line and therefore, that will cost us 
+more expenses there. 
+
+<Q - Aniel Mahtani>: Great. And for my follow-up, as you ramp up 40, 45-nanometer products, do they open up any 
+particular new segments or new product areas for you that you're selling into? 
+
+<A - Moshe Gavrielov, President and Chief Executive Officer>: Well, 40 and 45 definitely deepen and broaden the 
+markets which we service and in particular, if you look at 40, it enables us to put yet another nail in the coffin of ASICs 
+for everything except high volume applications, but it's really the low – the higher volume markets which are the 
+expansion markets for us and that's the Spartan-6 product offering and that's really seeing broad acceptance in all of our 
+traditional markets including ones that you would assume are more Virtex oriented. So for example communications 
+and the higher volume military ones is a tremendous opportunity for Spartan-6 and the higher volume more cost 
+sensitive applications and then everything else just continues to open up at that market. And so even though as a 
+percentage of the overall SPGA space today, it's still a smaller percentage. It's the fastest growing part of the market 
+and that's why we're delighted to have the only leadership product in that market [inaudible] with the broad offering. 
+And that will facilitate growth, and we're already benefiting from that and the numbers in last quarter already had a 
+significant portion of Spartan-6 revenue in addition to the Virtex-6 revenue. 
+
+<Q - Aniel Mahtani>: Great. Thank you. 
+
+
+Operator 
+
+Your next question comes from Chris Danely with J.P. Morgan. 
+
+<Q - Chris Danely>: Yeah. Thanks, guys. Can you just maybe go over the sort of the outsourcing strategy going 
+forward since there are some changes and also, Jon, you remarked that I guess the wafer pricing is changing or, you 
+know, that sort of the price concessions you've had in the past are not happening in the second half of the year. Is that a 
+new thing? Has that never happened before? Is that unique to this cycle? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Yeah, Chris. So I mean I'm not exactly sure 
+what you mean by the additional outsourcing. You know, we're certainly existing foundries, you know, we're working 
+with all of them to try to get more capacity. The back end is pretty much set with the same guys who haven't changed 
+anything there and obviously, it's the next generation 28-nanometer, you know, we've talked about going to Samsung as 
+the lead – excuse me, TSMC as the lead foundry, you know, for that. 
+
+So there really isn't anything changing relative to what products we're building where. You know, we're primarily 
+getting – we are getting Virtex-5 parts from Samsung – excuse me, from Toshiba and UMC as the two foundries. So 
+there really isn't anything changing in the outsourcing strategy per se other than everybody's [inaudible] and we're 
+really negotiating with everybody as best as we can. 
+
+On the wafer pricing issue it has happened in the past I would say for short periods of time because the cycles of the 
+past have been have tended to been, to be relatively short meaning a couple of quarters in my experience where things 
+have gotten tight and the foundries have said, oh, I don't think I can – I need some help here, I've got to invest capital. I 
+can't lower the wafer pricing etcetera. In this particular situation I think we've gone through an extended period now of 
+what we can see is at least three quarters of that kind of a situation going on. And it is starting to impact our cost 
+roadmap estimates along the way. So it's not something that's going cause us to have a huge downward impact, as best 
+as I can tell on our gross margin, but it is preventing us from expansion there. Now my expectations are when the 
+capacity isn't quite as tight, you know, then life changes again. 
+
+<Q - Chris Danely>: Got it. And then just as a follow-up, did your lead times or delinquencies multiply or extend 
+further during the June quarter, and do you expect them to stabilize this quarter or could we see the lead times extend 
+again? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: So lead times have gotten a little bit longer. 
+We talked about the average for us is 10 to 12 weeks last quarter, and they're about the same – excuse me, in the March 
+quarter and they're about the same, just a little bit longer in the June quarter. From a delinquency perspective we left 
+last quarter the March quarter, we had about 2% of revenue. That level of delinquency that we said we could have 
+shipped if we would have had all the product in it essentially doubled from 2% to 4% in this last quarter. 
+
+So we could have shipped an additional, you know, 20, mid-$20 million kind of a additional revenue, if we would have 
+had the supply. We think we can hold at that level through the September quarter and not expand that number, you 
+know, and I think that will be a good thing and I want to point out just one more time. We don't have a situation where 
+customers are so angry with us they're shopping around for other alternatives, et cetera. We've actually done a very nice 
+job of hitting critical needs of those customers. 
+
+<Q - Chris Danely>: Great. Thanks and congratulations to Maria. I'm jealous. I wish I could retire too. 
+
+Operator 
+
+Your next question comes from Mahesh Sanganeria with RBC Capital Markets. 
+
+<Q - Mahesh Sanganeria>: Thanks, just following up on that delinquencies, the total [inaudible] the September 
+quarter it will be 10% so close to 60 million. Do you expect that you'll get that back for when the capacity becomes 
+abandoned? 
+
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: So Mahesh let me correct your statement 
+there. No, it's not cumulative. The delinquency, the 2% that we had at the end of March we essentially shipped all those 
+delinquencies in the next month, but then throughout the quarter we were still delinquent to what customers needed and 
+the number is approximately 4% of our revenue that we could have shipped. So that amount of money again is in the 
+mid-$20 million. As capacity increases and as long as demand is running – increasing at the same rate as the capacity is 
+increasing, we won't be able to improve that. If those dynamics change, then yes, we'll be able to ship all that revenue. 
+
+<Q - Mahesh Sanganeria>: And in terms of the foundries, you said you have increasing wafer start, does that continue 
+through Q4? I'm assuming that you are able to grow revenues 5% in the September quarter because that's the capacity 
+available. Can you give us an idea is the level of wafer start increase you're getting from TSMC or from UMC for 
+December quarter is in the similar increase? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: So for Virtex-5 and Virtex-4 Toshiba and 
+UMC are our foundries together, and I think it's a reasonable conclusion to say the level of that total network of those 
+two are going up when they go up at the same rate as our revenue is going up, it's reasonable to say that's the 
+approximate wafer out increase. 
+
+<Q - Mahesh Sanganeria>: Okay. Thank you very much. 
+
+Operator 
+
+Your next question comes from James Schneider with Goldman Sachs 
+
+<Q - James Schneider>: Good afternoon. Congratulations on strong results and congratulations to Maria as well. I 
+guess to start off with, on the communications side you talked about wireline and wireless strength, I guess wireless in 
+particular. That's been strong for a while now and I guess one of the questions in everybody's mind is how sustainable 
+is that even with some of the secular factors you mentioned to going in your favor? What are customers telling you 
+about and whether that's likely to continue into the December quarter or the March quarter after that? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Yeah, Jim. We clearly have had quite a run 
+here in the wireless segment and we do – we are bullish on that over the long haul because of all the various, you know, 
+dynamics that we've talked about in the past, you know, China, the 4G LTE and other expansions in the U.S. and in 
+India following that. So you know, this quarter, the September quarter, the China business was actually relatively flat 
+on a dollar basis, dollar basis for us, and the big uptick was in our LTE and shipping into the Verizon business and then 
+the expansion of both backhaul and base stations for the AT&T expansion as well. 
+
+So we've got a significant upsides from both of those while China was relatively flat. In the September quarter wireless 
+is strong because of both China increasing and the Verizon and AT&T contracts being shipped into – as backhaul. So 
+that's a very, very strong sign for us. Beyond that it's less clear what's going to happen. We do think China is probably 
+going to continue based on historic preferences but – historic trends, but the rest of the world, India will start, you 
+know, having something going on, but that's probably still a few more quarters out, and we don't have very good 
+visibility in December on the Verizon and AT&T activity. 
+
+So again I think the numbers will stay, you know, pretty strong on wireless for us, but there could be some volatility 
+coming forward. Hard to tell right now. 
+
+<Q - James Schneider>: Okay. Thanks. That's helpful. And then I think one area you didn't mention and maybe I 
+missed it in this quarter or for the guidance was networking, and I was wondering if you could give some color on what 
+that did and you expect going forward? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Yeah. We didn't say anything about – we said 
+the strongest growth in communications was going to be wireless, but wireline, specifically networking, we did expect 
+
+– do expect that to increase quarter-on-quarter. The other side of wireline, that's a little less clear to us right now and 
+that's the part that we're, you know, that we're not sure of. So we didn't really – didn't mention it. So we do think 
+
+wireline is going to tick up some for us and it will not be on the basis of networking. 
+
+<Q - James Schneider>: Great. Thanks very much. 
+
+Operator 
+
+Your next question comes from David Wong with Wells Fargo. 
+
+<Q - David Wong>: Hi. Do you have any thoughts about efforts to create product like Altera's HardCopy that allows 
+you to provide your customers with cost reduction efforts through a hard wired product? 
+
+<A - Moshe Gavrielov, President and Chief Executive Officer>: We have a very successful product that addresses 
+those markets. The approach is different than the one selected by the competition, but it provides the customers with a 
+very applicable solution which can be deployed very easily and minimizes their engineering investment. So we're 
+pleased with that solution. It's part and parcel of our strategy going forward and it's available for all of our high end 
+product offerings as a cost reduction part for the higher volume applications. 
+
+<Q - David Wong>: Right. What's the name of this product? 
+
+<A - Moshe Gavrielov, President and Chief Executive Officer>: It's the EasyPath product line. 
+
+<Q - David Wong>: Great. Yeah. Thank you. 
+
+Operator 
+
+Your next question comes from Ruben Roy, Pacific Crest Securities. 
+
+<Q - Ruben Roy>: Thanks. Jon, I might have missed your explanation of some of the operating margin dynamics as 
+you look forward, but I think if I remember correctly that the operating margin target longer-term has been 31 to 34 and 
+with hitting 35 here, obviously, you have some spending coming up around 28-nanometer, et cetera, but how are you 
+thinking about your longer-term operating margins now that you've kind of eclipsed that high end of your previous 
+target range? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Yeah, it's hard to keep up with how good our 
+business is, isn't it? So, yeah. Well, we're admiring the 35% and liking it and know that it's above our target and as you 
+did point out, we are in a lull between, you know, math can wait for tape-out kinds of spending to some degree and that 
+starts to ramp up and that will drive some differences there, but we're clearly looking at controlling spending. In fact, 
+we just had our kind of an update to our annual budget process and the – what I call the – the direct spending, the 
+non-variable things that we're obviously focused on, R&D sales, marketing, et cetera. 
+
+We're pretty much dead on our plan. We're not expanding our spending levels beyond that and with the spending 
+increases you are seeing are just because of the variable issues because of revenue and profits increasing. So we're very, 
+very determined to stay on that plan and that path and because we are enjoying such a strong revenue uptick right now, 
+it is allowing us to operate higher than our model. 
+
+I'm really not ready to commit to expanding our model, but we're not trying to hold ourselves back either from letting it 
+go higher. So we are thinking about tough spending controls, continue to look for cost reduction efforts across the 
+company and keep that discipline and if we get even more good news out of the revenue line then it's going to fall 
+through. 
+
+<Q - Ruben Roy>: Okay. And then, around the communications business, when you think about your China sales into 
+domestic China carriers, do you think that business for this fiscal year, June through March, is going to be higher than 
+fiscal '10? 
+
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Our current belief is because our penetration is 
+higher that this – our fiscal year '11 will be higher than our fiscal year '10 in terms of spending in China. Now, I know 
+we've all heard about pressures on CapEx and things like that there. So there is maybe a little less confidence in the – if 
+you go back, go out and talk to the Chinese manufacturers, but relative to their forecast to us in terms of the number of 
+base stations they're talking about, that would work out to a larger number for 3G in fiscal year '11 than fiscal year '10. 
+
+<Q - Ruben Roy>: Great, thanks. And finally, Jon, can you give us a rough idea of Spartan-6 plus Virtex-6 as a 
+percentage of your revenues exiting June? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: We're not providing that number. We said it's 
+up substantially. We're into double digit revenues for those two and we're still believe that we'll ship well in excess of 
+$100 million in this fiscal year. 
+
+<Q - Ruben Roy>: Great. Thanks very much. 
+
+Operator 
+
+Your next question comes from Ian Ing with Gleacher & Company. 
+
+<Q - Ian Ing>: Yes, thank you. I'm trying to reconcile the supply complaints with why industrial is still strong and then 
+expected to decline. You would think the industrial customers served by [inaudible] would be the first to be 
+undersupplied, so are there other end markets that are getting undersupplied? I mean, what are your thoughts on where 
+the under-shipment's occurring? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: I'd say most of the under-shipments are in the 
+communications side of our business with some in aerospace and defense but mostly in the communications side and 
+the reason there is that the upside kind of numbers that are being driven for us are more challenged out of the large 
+customers, which tend to be communications customers for us and then some aerospace and defense customers. 
+
+Many of the aerospace and defense customers are on, I would say, a slightly older technology and they've been doing a 
+better job of forecasting and therefore, we've been able to prepare better for that. The downward tick that we have 
+going on in industrial and other's really more because of defense. 
+
+There were a number of I'd say last time buys of older parts for older contracts that kind of hit us, the timing hit us this 
+past quarter versus the September quarter. And so we don't – those aren't going to repeat themselves and that's really 
+what's driving that segment down. We do think industrial, scientific and medical will continue to be a growth sector for 
+us. 
+
+There's lots of new medical applications going on. Surveillance was strong this last quarter and that's going to continue, 
+and then test and measurement, the semiconductor industry is buying more test equipment these days. So that's driving 
+a need for SPGAs and we expect that to continue as a long-term trend here for the next few quarters. 
+
+<Q - Ian Ing>: Okay. As a follow-up, for your interest expense, how much of that is accounting for convertible debt, 
+the non-cash interest portion and how much of an impact is that to GAAP EPS and aren't you unfairly penalizing 
+GAAP EPS in creating an unfair comp versus competitors? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Well, there is an impact for that and you're 
+right, the recent – because of the accounting treatment, the shorter the duration of your note, the more of that that goes 
+on in terms of the bigger dollar amount that this is related that ends up in your equity area, et cetera. But from an 
+interest expense area, it's approximately in the neighborhood of 3 to $4 million a quarter of interest expense that's part 
+of this non-cash number. 
+
+<Q - Ian Ing>: I see. 
+
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: And yes, that does, that is a comparison drag. 
+ROE is a comparison drag as well because of the accounting rules and the converts that say you have to classify some 
+of this as equity and then you amortize it back to debt over the life of the note and that makes our equity number go up 
+artificially for a while, artificially meaning from the accounting rules. I mean obviously, it's GAAP. So those are some 
+of the dynamics that make the comparatives a little more difficult there. 
+
+<Q - Ian Ing>: Okay. Yet we should continue with GAAP estimates, then? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Yes. 
+
+<Q - Ian Ing>: Okay. And congrats, Maria on your retirement, enjoy your golf game. 
+
+Operator 
+
+Your next question comes from Hans Mosesmann with Raymond James. 
+
+<Q - Hans Mosesmann>: Yes, thank you. The constraints that you're having, is it by process node? Can you define a 
+little bit better or was it broad based? Your competitor said yesterday they were not seeing a process-node related 
+dynamic there, so I'm just wondering what you guys are seeing? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Yeah. It's clearly, the biggest one is 
+65-nanometer and then the second largest one is 90, but I would characterize it as well over 50%, probably more like 
+75% is in the 65 area and then maybe 20% or so in the 90-nanometer. And there is some fudgeability that goes on here. 
+So I'm characterizing it that way and we can kind of move some things around between nodes a little bit. But – so you 
+can also look at it and say everything's kind of short, but quite frankly, it is the more advanced nodes, meaning that 
+volume is being shipped on, which is namely 65 and 90. 
+
+<Q - Hans Mosesmann>: A couple of follow-ups. Last quarter, you indicated some customers were adding buffer 
+inventory. Is that still happening? Is it happening at the same rate, a lesser rate? Commentary there would be helpful. 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Yeah. So we're not seeing anybody add 
+increasing amounts of buffer at this time. It's pretty stable to the handful of customers that have been doing it in the 
+past. We have some amount of our inventory that's in a – in hubs that people draw things out, and they're not drawing 
+them out just to have them sit in their warehouse. They're drawing them out in order to build products. So now whether 
+the end product is sitting in warehouses and not sold through, I guess I, we don't have perfect visibility on that, but we 
+really aren't seeing an increase by large customers or the sub-cons that are building for them that are just pulling parts 
+out and holding onto them. They are building. 
+
+<Q - Hans Mosesmann>: Okay. Thank you, and the last one. The issue here with the Street regarding you and your 
+competition is that you seem to be outgrowing your customers handily over the past several quarters. How much of this 
+is because of market share gains or at the expense of ASSPs or ASICs? Just a little definition there, that would be 
+helpful. And that's it, thanks. 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: It is also very difficult to be precise about this 
+because we do have lots and lots of customers buying in at all kinds of different levels, but particularly in 
+communications, I will draw you to the fact that these large customers that we're selling to, if you look inside the 
+segments that they're doing well on, that's where we're shipping the most. 
+
+So base stations, backhaul, that part of their business I believe they've been telling you is growing faster than their 
+average and our penetration is also increasing in those specific areas. So we're getting an impact of sub-segments of 
+their business doing very, very well and our penetration going up. In addition to that, we are seeing more and more 
+improvement in terms of design wins against ASICs and ASSPs we haven't been able to bid on in the past. 
+
+At the Analyst Day, we showed you this list of one quarter's worth of design wins. It was somewhere under 100 like at 
+87 or 90 or something in that range. That was through the December quarter. In the March quarter, that number – the 
+
+
+number of new design wins that we penetrated ASSPs and ASICs that the PLDs hadn't been in the past went up 50% 
+from that number and then again in this last quarter that we just announced, it went up well over 50% again. 
+
+So we are seeing up and to the right penetration here. Now all those haven't turned into revenue yet. Probably very few 
+of them have turned into revenue. So – but we are – these are definitely demonstrative signs of what Moshe has been 
+talking about relative to the 65-nanometer and 40, 45 nanometer product families are at the right cost, power, density 
+points that are proving our point that we are making headway. 
+
+<Q - Hans Mosesmann>: Great. Thank you. We'll miss you, Maria. 
+
+Operator 
+
+Your next question comes from John Pitzer with Credit Suisse. 
+
+<Q>: This is [inaudible] for John. Just wondered if you could update us on when you expect customer sampling and 
+also the revenue ramp of 28-nanometer parts. 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Yeah. Go ahead. Want me to? Yeah, we're 
+going to be shipping customer samples in the first quarter of calendar 2011 and production will follow approximately a 
+year later plus or minus. 
+
+<Q>: Okay. Cool. And you talked a lot about the power advantages of moving to 28 nanometers from 40, 45 
+nanometers, how it was significantly better and would help you address a lot many more markets than you address 
+currently. Just wondering, do you think this could also result in better pricing and support, kind of like a gross margin 
+expansion? 
+
+<A - Moshe Gavrielov, President and Chief Executive Officer>: No. It enables us to address more applications and 
+to – more markets and to broaden our penetration. I don't think you can correlate that into more profitable business. It 
+just grows the envelope of business we can address significantly, and it's becoming more and more important in more 
+and more applications. Clearly in consumer battery-operated ones it's self-evident, but this goes well beyond that into 
+tethered applications and even into infrastructure, where it is becoming a big deal. And so, I think the major benefit is 
+growing the market we can address significantly rather than making us more profitable. 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Yeah. Let me just add to that. The lower 
+power doesn't mean it's lower than ASICs or ASSPs. It means it's lower and therefore we get much closer to where they 
+are and [inaudible] which means that we get the right to bid on the sockets and potentially win them. 
+
+<Q>: Got it, but do you think you could, sorry. 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: No. I was just going to say, it's not necessarily 
+a value driven thing that a customer will say oh, I'll pay more for it because they're just saying oh, gosh I can use your 
+solution and get the customization, and they may pay us more because of the programmability, but that would be in our 
+normal margin framework that we have. 
+
+<Q>: Okay, got it. And lastly, if I may, any color on what percent of revenues like 40, 45-nanometers and 
+65-nanometers represents right now? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: So we're not providing any very point 
+numbers on 40, 45-nanometer. It did grow substantially this quarter, and it was in the double-digit range. It was clearly 
+in double-digits this quarter, and we still expect to ship well over $100 million of 40, 45-nanometer throughout the 
+fiscal – by the end of the fiscal year cumulative. 
+
+<Q>: Cool. Thank you. 
+
+
+Operator 
+
+Your next question comes from Shawn Webster with Macquarie. 
+
+<Q - Shawn Webster>: Yeah, thank you. In terms of the delinquencies you said it was 2% in March and then it grew 
+to 4% in the June quarter. Looking back in your history, can you guys recall when it was last at that level? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Well, when we were coming out of the hard 
+shutdown of the foundries, we had I would say somewhere in the probably 2 or 3% for a quarter or whatever, but, you 
+know, if I think back at least in my time here I don't recall it ever being quite as high as 4% of revenue. 
+
+<Q - Shawn Webster>: Is it trending higher as we go into July or is it mostly stable at this point? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: We think it's going to be pretty stable because 
+again, you know, we've got growth coming out of our foundries in terms of wafers out, and I don't think it's going to 
+necessarily spike in any month. And I think we can keep it stable throughout the quarter. And again, someone – we're 
+late shipping to somebody. We ship to them three or four weeks late or two weeks late, you know, but then other 
+companies increase their orders that we can't fulfill. So then that delinquencies kind of mount a little bit, but it's 
+typically different customers and different devices that are delinquent at the end of one quarter versus the end of the 
+next quarter. 
+
+<Q - Shawn Webster>: Okay. And then on the ASIC displacement theme, for those of us who are trying to kind of 
+scope it and figure out what's happening versus end market growth versus supply chain, replenishment, et cetera, you 
+talked about it was in the high 80s, whatever, at your analyst day, grew 50% in March and then it was up over 50% in 
+Q2. So let's say that the number, the incremental increase in the June quarter was let's say 75 to 100 new design wins 
+that were ASIC displacements, how many design wins does that represent as a percentage of the total design wins you 
+got during the June quarter? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: I don't have that number. 
+
+<A - Moshe Gavrielov, President and Chief Executive Officer>: It's tough to answer that number because, you 
+know, so many of the design wins are smaller ones which happen through the channel. These are all the ones that 
+attract by our direct sales force and are significant. So it's very difficult to quantify where they are. I think the value is 
+in the relative number. You know, it is now twice what it was six months ago when you compare apples to apples, and 
+it will absolutely generate tremendous growth in the future as, you know, ASICs & ASSPs shrink into very high 
+volume applications and more and more applications are serviced by SPGAs. 
+
+That is why we're so intent on driving the technology forward because we can afford to do that and give our customers 
+very competitive products leading edge nodes and now the gap between the FPGA nodes to the mainstream of the 
+ASIC market where most of the revenue is, is over three generations of technology. I mean they're sort of still at the 90 
+to 130 and we're going to be providing them 28-nanometer solutions a year from now. Right, that's going to be – that 
+will enable us to address a lot of markets. Hence you see the number of design wins grow. But it's difficult to sort of 
+compare it, plus these tend to be higher revenue design wins, hence they have a bigger weight. 
+
+<Q - Shawn Webster>: Got you. And then maybe one more quick one. Jon, do you have an update on what you expect 
+your CapEx to be this year? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: I still think we're going to be in the 50 million 
+range, plus or minus. We had quite a bit of CapEx in the front end of this year because of some new tests, test 
+equipment relative to new generations coming at us, that actually cost reduced tests over time for us as we moved to 
+cheaper testers as well. So there was quite a bit of capital built up. Also there was some pop in our IT spending because 
+we've been really tight in terms of infrastructure in the IT area. So we spent a little more in the front end of this year. So 
+even though it was 18 million this quarter, we still think we'll be in the 50-ish – 50 to 60 range – 50 to $60 million 
+range for the year cumulative. 
+
+<Q - Shawn Webster>: Great. Thank you very much. 
+
+
+Operator 
+
+Your next question comes from Apurva Patel with Ticonderoga. 
+
+<Q - Apurva Patel>: Thanks. Given the supply constraints, I would love to see you comment, are you seeing any 
+customer that maybe going to – moving toward your competitor? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: No. We're not and that's why I was 
+emphasizing that we think we've been able to meet all the customers' critical needs. In fact, we continued to get, you 
+know, quality which with quality includes delivery scores, very high scores from our customers because even though 
+we were kind of early with the delinquencies relative to the other semiconductor companies and their other suppliers. 
+We've turned out to be the bright spot in that we are – in most cases we may not even be on the list that they're worried 
+about, quite frankly. So we are very confident that we're not losing business because of the supply situation. 
+
+<Q - Apurva Patel>: Thank you. One more. Maybe for Moshe. Moshe, you talked about 28 nanometers and you give 
+a lot of details about what are the characteristics that's going to differentiate this platform versus other platforms. But 
+talking to your large customers when you're finalizing the architecture, is there something that characteristic or 
+architecture or function that you're seeing from a customer that needs to be added or does the architecture seem to be 
+intact? 
+
+<A - Moshe Gavrielov, President and Chief Executive Officer>: Well, you know, we cover, the 28-nanometer 
+solution is a very, very broad solution and it's incredibly scalable. So it stresses a lot of markets. If you look at each of 
+those markets and with broad brush strokes, then at the high end they're looking for capacity and that's where having by 
+far the largest SPGA solution enables us to address markets that in the past could only be addressed by the more 
+complex ASICs of this, you know, really enables us to address that market with the two million logic sales that you can 
+hit nearly all of the ASIC market and there's very little in terms of capacity that we can't hit there. 
+
+Then, you know, the next issue becomes now you have the capacity to do that. Can you do this without the device 
+becoming a frying pan? And that's why the power is so important. So, you know, those are – that's at the high end, this 
+sort of the thought that power is only important at the low end. That's categorically not true. It's actually essential at the 
+high end. That's an example of markets that we can address that we have not been able to address before. Now as you 
+move across the product offering, then you can see other markets where it becomes a lot more attractive and when you 
+move to the high volume side of the market just achieving or enabling the level of performance at the cost point, which 
+is very critical at the low end. That sort of expands and will enable us to address a whole new host of applications. 
+
+And one market we've seen this is in the communications space as we can now enable our infrastructure customers to 
+address the whole breadth of their product line with the solution and hence, the scalability is very important. So you 
+know, we're incredibly excited about this new product and we see tremendous benefits there and, you know, this will 
+enable us to expand the market and, you know, hence, we're very confident in the growing the market to at least XX 
+what it has been and we've put a stake in the ground. We expect this to be at it least a $6 billion market by 2015, if 
+anything. It looks like it's happening faster than it has before, and it could be that that's the conservative estimate. 
+
+<Q - Apurva Patel>: Thank you, Moshe. 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Last question, please. 
+
+Operator 
+
+Your final question comes from Ryan Goodman with CLSA. 
+
+<Q - Ryan Goodman>: Hi, thanks. This is Ryan Goodman. I'm calling for Srini Pajjuri. Could you talk really quick 
+about what happens to POD content when India and U.S. start growing a bit more on the comm side and China slows 
+down? 
+
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Well, because the selection in India – the 
+selection of the providers, the OEMs, you know, going to the providers haven't been selected, it's hard to talk about 
+what content change is going to be. I would assume that when India goes to 3G, it will be at the same relative level of 
+content that we have today and depending on which manufacturer wins, what percentage of the business. It could have 
+some impact on it, but I wouldn't expect it to be substantially different for us as India grows and other technology – 
+other countries decline either in 3G or 4G generation. 
+
+<Q - Ryan Goodman>: Okay. And then maybe just in the same scenario can you talk – just how you expect the 
+market share to play out. Do you think you're positioned any differently as we go into those markets? 
+
+<A - Jon Olson, Senior Vice President and Chief Financial Officer>: Again it would depend on which 
+manufacturers win. I mean, so we have our customers where we have, you know, stronger market share than our 
+competitor and vice versa. So it depends and since we don't know who the winners are, I can't really comment on 
+whether it's plus or minus for us. 
+
+<Q - Ryan Goodman>: Okay, fair enough. Thank you. 
+
+Maria Quillard, Investor Relations 
+
+Okay. Well, thank you all for joining us today. We have a play back of this call beginning at 5 PM Pacific, 8 PM 
+Eastern. For a copy of our earnings release, please visit our IR website. Our next earnings release date for the second 
+quarter of fiscal 2011 will be Wednesday, October 20, after the market close. This quarter, we'll be presenting at the 
+Citi Technology Conference in New York. And thank you very much for your participation. This completes our call. 
+
+Operator 
+
+And this does conclude today's conference call. You may now disconnect. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2010, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

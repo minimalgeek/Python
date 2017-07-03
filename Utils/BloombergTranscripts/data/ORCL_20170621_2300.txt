@@ -1,0 +1,672 @@
+Q4 2017 Earnings Call 
+
+
+Company Participants 
+
+• Kenneth Bond 
+• Safra Ada Catz 
+• Lawrence J. Ellison 
+• Mark V. Hurd 
+Other Participants 
+
+• Raimo Lenschow 
+• Kirk Materne 
+• Sarah Hindlian 
+• John DiFucci 
+• Heather Bellini 
+• Philip Winslow 
+• Kash Rangan 
+• Keith Eric Weiss 
+• Mark L. Moerdler 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Welcome to Oracle's fourth quarter 2017 earnings conference call. 
+
+Now I'd like to turn today's call over to Ken Bond, Senior Vice President. 
+
+Kenneth Bond 
+
+Thank you, Kimberly. Good afternoon, everyone, and welcome to Oracle's fourth quarter and fiscal year 2017 earnings 
+conference call. A copy of the press release and financial tables which includes a GAAP to non-GAAP reconciliation 
+and other supplemental financial information can be viewed and downloaded from our Investor Relations website. On 
+the call today are Chairman and Chief Technology Officer, Larry Ellison; and CEOs, Safra Catz and Mark Hurd. 
+
+As a reminder, today's discussion will include forward-looking statements including predictions, expectations, 
+estimates or other information that might be considered forward-looking. Throughout today's discussion, we'll present 
+some important factors relating to our business which may potentially affect these forward-looking statements. These 
+forward-looking statements are also subject to risks and uncertainties that may cause actual results to differ materially 
+from statements made today. 
+
+As a result, we caution you from placing undue reliance on those forward-looking statements and we encourage you to 
+review our most recent reports including our 10-K and 10-Q and any applicable amendments for a complete discussion 
+of these factors and other risks that affect our future results or the market price of our stock. 
+
+And finally, we're not obligating ourselves to revise our results or public release any revisions of these forward-looking 
+statements in light of new information or future events. Before we take questions, we will begin with a few prepared 
+
+
+remarks. 
+
+And with that, I'll turn it over to Safra. 
+
+Safra Ada Catz 
+
+Hey, thanks, Ken. Good afternoon, everyone. 
+
+As you can see, we've had a tremendous quarter in just about every way as cloud revenue, new software license and 
+earnings were all much better than expected. The adoption by our customers of our products and services is at an 
+all-time high. But before going into more detail about Q4, you can also see that we have made significant 
+improvements in our financial reporting. To align with how we are running the business now, the cloud has become our 
+predominant growth vehicle. 
+
+As you can see in our press release supplemental pages, we have given you tons of detail. We've given you the detail in 
+our new presentation format, and we've also provided the reporting in our old format, going back through fiscal 2016 
+and 2017, so you can see the numbers, the new way, the old way, all including history to help your transition this 
+quarter. 
+
+I'll first walk you through the reporting changes, then go over to Q4 results using the new format, and recap Q4 using 
+the old format for comparability to my previous guidance. Then, I'll sum up fiscal year 2017 results using the new 
+additional detail before moving onto my guidance for Q1. So please be patient as I'm going to be giving you a lot of 
+numbers today, but as I said, it's all in the press release tables that are on file, so you don't have to catch every number. 
+After all that, I'll turn the call over to Larry and then Mark for their comments. 
+
+In making these reporting changes, we are now recording SaaS revenue separately as our tremendous growth resulted 
+in SaaS revenue crossing the $1 billion a quarter threshold in Q4, having grown 76% in constant currency. We've also 
+combined Platform and Infrastructure as a Service as the synergies and cross-selling between these two businesses is 
+very high, and this is also how we are measuring our internal organization. 
+
+On page 10, you can see GAAP applications revenue, which is SaaS and on-premise application software revenues, and 
+further down the page, GAAP platform and infrastructure revenues, which is PaaS and IaaS, and on-premise revenues. 
+For Hardware, we've gone ahead and consolidated hardware products and hardware support into a single line item of 
+hardware, and we've also aligned the expense lines where appropriate. 
+
+I'm now going to go over our non-GAAP Q4 results with our new format and use constant dollar growth rates unless I 
+state otherwise. This quarter, by the way, the effects of currency movements resulted in a 1% headwind on both total 
+software revenue, including cloud, as well as total revenue. Currency movements had a $0.01 negative impact on 
+non-GAAP EPS and $0.02 negative impact on GAAP EPS. 
+
+All right. Clearly, we're absolutely thrilled with our Q4 results as software and cloud revenues were 4 points above the 
+high end of my guidance, and earnings per share was $0.08 above the high end of my guidance. As I mentioned earlier, 
+Cloud SaaS revenues for the quarter were more than $1 billion for the first time and up 76% from last year. 
+
+Cloud PaaS and IaaS revenue for the quarter were $403 million, up 45% from last year. You can see the continuing 
+revenue momentum of our cloud business in cloud billings and deferred revenue. The gross deferred revenue balance is 
+now over $2.4 billion, up 63% in U.S. dollars. Cloud billings grew 42% in U.S. dollars this quarter, and once again, 
+we've put the cloud billings number up on our website for you to see the detail this quarter, and frankly, you probably 
+don't need to keep doing it since many of the numbers you can derive. 
+
+As our SaaS business continues to scale and grow dramatically, the gross margin has expanded. The gross margin for 
+SaaS in the quarter was 65%; up from 54% last Q4. We expect to see further improvement in FY 2018 and remain 
+committed to our goal of 80% SaaS gross margins over time. 
+
+
+Now, the gross margin for PaaS and IaaS was 47%, down from 54% last Q4, as we invested in our geographic 
+build-out ahead of the bulk of the revenue recognition. When we approach scale, I expect to see improvements in gross 
+margins there, too. 
+
+Total cloud revenues in the quarter were $1.4 billion, up 66% from last year. Total on-premise software revenues were 
+$7.5 billion, essentially unchanged from last year. And while new software license revenues were $2.6 billion, down 
+4%, reflecting the increasing preference of customers for cloud. Software updates and product support revenues were 
+$4.9 billion, up 3%, reflecting the continued high attach- and renewal rates that show the stability of our installed base 
+of on-premise customers. 
+
+Total software and cloud revenues were $8.9 billion, up 7% and 4 points above the high end of guidance. In addition, 
+the total on-premise software and cloud revenues for both our applications and platform and infrastructure businesses 
+are growing very well now. Applications total revenue were $2.9 billion, up 10% non-GAAP, 8% GAAP. And platform 
+and infrastructure total revenues were $6 billion, up 6% both GAAP and non-GAAP. In particular, our database 
+business grew – in aggregate, grew 8%. Hardware revenues were $1.1 billion, down 12%, and services revenue were 
+$894 million, up 4%. 
+
+Total revenues for the quarter were $10.9 billion, up 4% from last year. Non-GAAP operating income was $5 billion, 
+up 7% from last year. And the operating margin was 46%, which was up from 45% last year. 
+
+The non-GAAP tax rate for the quarter was 20% as we saw some one-time benefits, and EPS was $0.89 in U.S. dollars. 
+The GAAP tax rate was 14.1%, and GAAP EPS was $0.76 in U.S. dollars. Because of currency movements, 
+non-GAAP EPS was lowered $0.01, and GAAP EPS was lowered by $0.02. 
+
+Q4, using our old format against my guidance, you can see that SaaS, PaaS revenues were $1.2 billion, up 75% and 
+above the high end of the guidance I gave last quarter. IaaS revenues were $214 million, up 29% and at the high end of 
+my guidance. 
+
+Now moving on to the full fiscal year, software and cloud revenues totaled $30.4 billion, growing 6% in constant 
+currency, with $24 billion or 79% of it being recurring revenue, up from 75% last year. Cloud SaaS was $3.4 billion, 
+growing 70%. Cloud PaaS and IaaS was $1.4 billion, growing 63%. Total cloud revenues totaled $4.7 billion, growing 
+68%. 
+
+On-premise software declined 1% to $25.6 billion, as the 3% growth rate in software support was offset by 
+cloud-related declines in new software license, which were down 11%. Hardware revenues were $4.2 billion, declining 
+10%, and Services revenue were $3.4 billion, up 1%. 
+
+Total company revenues for the year grew 3% to $37.9 billion, and operating income was $16.2 billion, up 3%. Our 
+non-GAAP operating margin for the full year was 43%, up slightly from last year. Non-GAAP earnings per share were 
+$2.74 in U.S. dollars, up 6%. Because of currency movements, non-GAAP EPS was $0.03 lower. 
+
+Operating cash flow over the last four quarters was $14.1 billion, up 3%. Capital expenditures for the quarter were 
+$525 million. Free cash flow over the last four quarters was $12.1 billion. I expect our cloud CapEx spending to be 
+about $1 billion next year, roughly equivalent to this year's level. 
+
+We now have approximately $66.1 billion in cash and marketable securities. Net of debt, our cash position is 
+approximately $8.2 billion. The short-term deferred revenue balance is $8.2 billion, up 8% year over year and up 11% 
+sequentially. 
+
+As we've said before, we're committed to returning value to our shareholders through technical innovation, strategic 
+acquisitions, stock repurchases, prudent use of debt, and the dividend. In terms of acquisitions, we always have a 
+disciplined approach to finding the right companies at the right time at the right valuations and that make both strategic 
+and financial sense. This quarter, we repurchased 11 million shares for a total of nearly $500 million. Over the last 12 
+months, we have repurchased 86 million shares for a total of $3.5 billion and paid out dividends of $2.6 billion. The 
+Board of Directors again declared a quarterly dividend of $0.19 per share. 
+
+
+Now to the guidance, I'm going to give you guidance for Q1 and then some preliminary comments for FY 2018. My 
+guidance today is on a non-GAAP basis and in constant currency. But assuming current exchange rates remain the 
+same as they are now, currency should not have an effect on total revenues or EPS. 
+
+So for Q1, cloud revenues including, SaaS, PaaS, and IaaS, are expected to grow between 48% and 52%. Total revenue 
+growth is expected to range from 4% to 6%. Non-GAAP EPS in constant currency is expected to be somewhere 
+between $0.59 and $0.61, up from $0.55 last Q1. This assumes a non-GAAP tax rate of 23.5%. Of course, the tax rate 
+could end up being different. Over the full year of FY 2018, I expect continued high growth in cloud revenues, with 
+cloud revenues materially surpassing new software license revenues. 
+
+Operating income growth will accelerate and the continued expansion of cloud gross margins and the return of 
+operating margin expansion. Over the last two quarters, we've exceeded the high end of my EPS guidance by $0.14. 
+And as we begin FY 2018, our compare is now that much higher. But even with this higher compare, I expect EPS 
+growth will be double digit next year. 
+
+As I mentioned earlier, we will continue to invest in capital in our cloud data centers expansions, but I do expect our 
+overall CapEx will be lower as the CapEx for real estate should be somewhat lower. 
+
+With that, I'll turn it over to Larry for his comments. 
+
+Lawrence J. Ellison 
+
+Thank you, Safra. 
+
+Last fiscal year we sold more than $2 billion in cloud annually recurring revenue. This is the second year in a row that 
+we sold more cloud ARR than salesforce.com. We are now well on our way to passing them and becoming number one 
+in the enterprise SaaS market. Our rapid SaaS growth is the driving force behind Oracle's revenue and earnings growth 
+in Q4. 
+
+The reason we're confident that we'll pass Salesforce is because we have three full SaaS application suites, for ERP, for 
+HCM, and for CRM, including financials, procurement, supply chain, manufacturing, human resources, payroll, 
+marketing, sales and service. salesforce in contrast, only competes in three of these nine market areas. Furthermore, 
+Oracle is now the clear leader in cloud ERP. And ERP is by far the largest application market, not CRM. 
+
+In addition to our demonstrated strength in SaaS, Oracle also competes in Infrastructure-as-a-Service and 
+Platform-as-a-Service. Here our primary competitor is Amazon AWS. During this new fiscal year, we expect both our 
+PaaS and IaaS businesses to accelerate into hyper-growth the same kind of growth we're seeing with SaaS. As our 
+customers begin to migrate their millions of Oracle databases to Generation 2 of the Oracle public cloud. The AT&T 
+deal is just the beginning. We expect that our Oracle PaaS and IaaS businesses will grow so fast that they will be even 
+bigger than our SaaS business. 
+
+Over to you, Mark. 
+
+Mark V. Hurd 
+
+Hey, thanks, Larry. First, I'd like to congratulate Safra for getting through all that material. That was a [indiscernible] 
+
+(17:20) thing to go through. Listen, thanks, Larry. Good quarter for us. Obviously, we tracked ahead of virtually every 
+metric that I track. Whether it was cloud bookings, cloud revenue, EPS. Really everything on my KPI list was at a 
+record level. 
+Starting with cloud bookings, $855 million, it's the best quarter we have ever had; it's up 43% over what was a very 
+strong Q4 last year. We had a goal of $2 billion in ARR. We finished with nearly $2.1 billion. Next year, we will sell 
+more. 
+
+
+By the way, booking revenue growth rates I give are in CD unless otherwise said. 
+
+SaaS bookings were $486 million. PaaS and infrastructure bookings $369 million. As Safra said, cloud revenue growth 
+at 66%. We're now at a $6 billion annualized run rate. For total software and cloud, to Safra's point, roughly 80% of our 
+trailing 12 months' revenue is now recurring in nature. SaaS revenue, all up 76%, was an acceleration from 40% growth 
+last year. 
+
+ERP was up 156%, organically. That did not include NetSuite. Overall, ERP is now over a $1.2 billion annualized run 
+rate. Fusion HCM was up 96%, more than twice the growth rate of Workday. And our Front Office Solutions, sales, 
+market and service were all up double digits organically. 
+
+Our verticals were up 111% and over $140 million in quarterly revenue. Our PaaS infrastructure revenue was up 45%. 
+Database-as-a-service was up 62%. Our Database business including Database-as-a-Service and our on-premise 
+licenses and support were up 8%. Cloud billings grew 42%, as Safra said, and deferred revenue up 63%, both of those 
+are in USD. 
+
+I am going to just name a few customers so you get an idea of some of the customer wins we had in the quarter. I'm not 
+going to hit everything. I'm just going to hit a few representative customers. I'll start with ERP, Allianz, Ball 
+Corporation, BNP Paribas, GE, the Kraft Heinz Corporation, Juniper, MetLife, Minerals Technology (sic) 
+[Technologies], Motorola, Mouser Electronics, NCR, Netflix, Newell Rubbermaid, Orange, Pearson, Sinclair 
+Broadcast Group, Textron, University of Maryland, Vanderbilt University, Volkswagen; and HCM: ABM Industries, 
+AutoZone, Fannie Mae, Fujitsu, Garden Fresh Restaurants, Landmark, Mary Kay, The National Football League, NTT, 
+Raymond James Associates, Sinclair Broadcast Group, Staples, University of Pittsburgh, University of Texas System, 
+Vanderbilt, and a very large investment bank in New York City who switch vendors to our HCM. Those are just a few 
+representative customers across just a couple of pillars in the quarter. 
+
+Lastly, as I mentioned it was an overall very strong quarter. Bookings, billings, and revenue all at record levels. We 
+announced an exciting deal with AT&T and while it provided no revenue at all in Q4, it's a very strategic win as a 
+reference to all of our customers about the modernization of databases and the movement of them to the cloud. 
+
+Looking forward, just a couple of predictions, FY 2017 bookings were $2.1 billion. Our pipeline is very large and ARR 
+will be higher in FY 2018. I do expect our application ecosystem of on premises that would include licenses and 
+support and SaaS, will grow roughly 10% next year. With revenue now at annualized run rate of $6 billion and a 
+growth rate of 66%, we're clearly the fastest growing cloud company at scale. 
+
+With that rollup, we'll take your questions. 
+
+Kenneth Bond 
+
+Thank you. Kimberly, please start the Q&A. 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions] Our first question comes from Raimo Lenschow with Barclays Capital. 
+
+<Q - Raimo Lenschow>: Hey. Congrats on a great quarter. Quick question on the Database side. Safra, thanks for the 
+extra disclosure that's really helpful. I can see the database license numbers are starting to accelerate or – did accelerate 
+in Q4. Is that already 12c, or how do I have to think about them? Thank you. 
+
+<A - Mark V. Hurd>: Larry, maybe Larry might want to talk about 12c a bit. 
+
+
+<A - Lawrence J. Ellison>: Yeah, the new version, the new versions of our database are experiencing a very, very 
+rapid uptick. We have a number of key features. One is in memory. The other is multitenant. And people are moving to 
+the latest version of our database more rapidly than they traditionally do. And we're seeing – and you saw the evidence 
+of that in Q4. 
+
+Operator 
+
+Our next question... 
+
+<Q - Raimo Lenschow>: Thank you. 
+
+Operator 
+
+...comes from Kirk Materne with Evercore. 
+
+<Q - Kirk Materne>: Thanks, and my congrats on a great end to the fiscal year. Mark, I was wondering if you could 
+provide a bit more detail on the strength in ERP business in the cloud, and why that seems to be accelerating? And just 
+as a quick follow up, I noticed you didn't provide any customer accounts this quarter by pillar, so I was wondering if 
+you might have those numbers for us as well. Thanks. 
+
+<A - Mark V. Hurd>: I was trying to save time. But sure, I'm glad to cover it. We had a little less than 1,600 new 
+SaaS customers; 1,575 in the quarter. We had 1,138 expansions in the quarter. Roughly 400 of those customers who 
+bought SaaS also bought Platform-as-a-Service. So again, the attach rate between apps and PaaS continues to 
+strengthen. 
+
+ERP, we had 868 new customers. Now by the way, Kirk, that doesn't include NetSuite, so that's just inside the 
+traditional Oracle ERP business. We had almost 200 expansions. That's a big deal because as we start to sell in many 
+cases financials, we're now being able to sell supply chain, procurement and manufacturing into that base as well. 
+
+Another good thing for us in the quarter is roughly two-thirds of the new ERP customers never had Oracle ERP before. 
+So again, this is, again, 66%, 65% brand-new logos to Oracle. So HCM, we had about 325, 326 new customers and 300 
+expansions; a little over 600 in marketing, sales and service, and about 670 expansions. So sort of all-in, we have now 
+about 13,550 customers in our SaaS active base. If you do include NetSuite, that number gets to 25,000. About 75% of 
+everything we did in the quarter was Fusion. Again, that would not include NetSuite. So that's roughly speaking how 
+the metrics worked out in the quarter. I hope that helps. 
+
+<A - Kenneth Bond>: Next question, please? 
+
+Operator 
+
+Our next question comes from Sarah Hindlian with Macquarie. 
+
+<Q - Sarah Hindlian>: All right. Thank you. I'd like to add congratulations, too. That's a really phenomenal quarter 
+around this aggressive cloud transition. And I just had a couple questions I wanted to address for the team. Safra, I want 
+to start with you. You just reiterated the fiscal 2018 double-digit earnings growth. And I guess I think what's becoming 
+more relevant is, do we think about this as a one-year phenom bouncing off of this difficult transition? Or how can we 
+really be thinking about earnings growth beyond fiscal 2018 into 2019 in 2020? 
+
+And then, Mark, my second question is for you. Really interested in hearing some of these larger logo wins you cited in 
+SaaS and ERP and HCM in particular, and yet you're still seeing and we're still continuing to hear about a lot of traction 
+for you in the mid-market reflected in some of your other comments. So I'm trying to wrap my head around some of 
+these larger logos, because we're hearing pick-up especially on the ERP vertical given its sheer size. And I'm hoping 
+you can guide us as to where we are with some of those large logos in terms of go-live, pipeline, et cetera. That would 
+
+
+be really tremendously helpful. 
+
+<A - Safra Ada Catz>: Okay. So this is absolutely not a one-year phenomena. In fact, what you should see as this goes 
+on is we will have less drag from the transition and the base will continue to grow. And so this should really accelerate. 
+And understand that in our PaaS IaaS business, we're not even at scale. So as we really scale that up, profitability is 
+going to increase more quickly. And revenues would be built on the base of another recurring revenue – off the 
+recurring revenue business. So we've been basically turning and we've had the drag of the move away from our historic 
+business to some extent. And revenue recognition that's not upfront but ratable. 
+
+Then all of a sudden you're going to see less of a drag as that side of the business is smaller compared to our cloud 
+business. So we're obviously very optimistically indicated to you all during last year – this past year, that this thing was 
+coming, and it has clearly come in Q4. And this next year and years after that are now going be building on that base. 
+
+<A - Mark V. Hurd>: To your other question, yes, we've got some very large active HCM customers. Today we've got 
+Airtel, I don't know, they're probably 30,000 users, American Eagle, 40,000 users; Fairmont Raffles Hotels, 42,000 
+users; Siemens, 60,000 users; Wells, 275,000 users; Xerox, 38,000; Schneider Electric, over 100,000. These are big, 
+big customers. And, Sarah, those are just HCM, so those are obviously very big scale customers. 
+
+Now that said, in ERP, Europe, you're right in what you said. we have a lot of mid-market upper mid-market wins and 
+a lot of new logos to Oracle who were not doing business with Oracle before they made this acquisition. And that's 
+certainly been a fantastic strength. Our cloud is made up of a lot of new logos in addition to some existing customers. 
+
+Now in terms of scaled ERP customers though, Orange is – they're using financials, procurement, projects, supply 
+chain management; GE Digital, Qualcomm, Hearst, Tesco, Caesars. These are just off the top of my head. So these are 
+big-scaled ERP customers. 
+
+Now to Larry's point, and I'll make it a little bit about HCM and ERP. The TAM in ERP is materially bigger than the 
+TAM in HCM. So the TAM in ERP is three to four times bigger in ERP. And additionally, ERP drags HCM or can 
+drag HCM in the transaction. So these big ERP references that we have and obviously with the number we closed in Q4 
+and are going live now every quarter, more to come. We've seen increasing pull of HCM in these big ERP transactions. 
+And they are true in the mid-market and in the up market. I hope that helps. 
+
+Operator 
+
+Our next question comes from John DiFucci with Jefferies. 
+
+<Q - John DiFucci>: Thank you. These are impressive results, and I'll let others focus on those details. 
+
+Mark, I'd like, if you could, talk a little more about the AT&T deal. AT&T as you've pointed out in the press release 
+when that came out has been a customer of Oracle, and we all know that. So I guess the question is how incremental is 
+this deal to Oracle? Is it a price uplift because you're providing the entire infrastructure with cloud versus just the 
+software, or does it also include new workloads? I guess can you give us any idea about how much incremental 
+business, assuming there is some which I think there obviously is, this means for you versus your previous relationship 
+with AT&T? 
+
+<A - Mark V. Hurd>: Okay. So first, I'm not going to give you really all that many details from a financial 
+perspective. 
+
+So to your point, was AT&T a good customer before this happened? Yes. Is AT&T going to be an even better customer 
+going forward? Yes. Is AT&T giving us more revenue than before? Yes. Did AT&T give us any incremental revenue 
+in Q4? No. So is this deal ratable over time? Yes. Is it a long-term agreement? Yes, it's a very long-term agreement. 
+
+Let me try give you a little bit more color. First, it is a long-term deal. AT&T has over 10,000 Oracle databases. They 
+have several hundred – and you might say, John, that's a small percent of their overall databases, but they have several 
+hundred large databases that have 70% – 75% of all of their company's data. They badly wanted to get the benefits of 
+
+
+cloud, provisioning and auto-provisioning and all the new features that come with product. I can go – modernization, 
+consolidation of that infrastructure. 
+
+Yet in many cases, they've got regulatory pressures on what they can put in the public cloud and what they can't. This is 
+an example where we've talked about this before. We take our Oracle Cloud Machine, and we are able now to do all of 
+that with them on their premise and give them all the benefits of the cloud. We manage, we patch, we basically run the 
+cloud for them, and we help them get all of that done. 
+
+And so as great a deal as this is, this is even a bigger deal, John, in what it represents for our entire customer base. This 
+is a bigger deal to us than the transaction. It is the opportunity for us to now do this for hundreds and thousands and 
+tens of thousands of customers. The opportunity for us in the quarter, and the reason I assume we put the press release 
+out was AT&T being so effusive about their opportunity now and what it meant for them internal to AT&T. But it's 
+just, if not more important for us and what we can do for all of our customers. 
+
+Just to give you a little bit more data, not in any of our hardware numbers is we did in excess of 100 Oracle Cloud 
+Machines in the quarter, which are, again, us bringing all of the capabilities of our public cloud to our customers in 
+their data center. So that's some details, although not the financial details of the deal. But frankly, John, I think it's just 
+as important what it means to our customers going forward on the bigger-picture level. 
+
+<A - Safra Ada Catz>: If I could just say one other thing to John, so the issue is really for the folks who have a large 
+installed basis of Oracle database, and they've done the research of where those workloads should be, they pick Oracle. 
+That's really what this shows. The folks who could go anywhere and do anything come to us, and that's really the 
+important message, and we're seeing that throughout the customer base, and you're going to start to see it in revenues. 
+
+<A - Mark V. Hurd>: Next question, please. 
+
+Operator 
+
+Our next question comes from Heather Bellini with Goldman Sachs. 
+
+<Q - Heather Bellini>: Great. Thank you very much. This question could be for Mark or Safra. I mean, obviously, the 
+cloud bookings number was very strong, and I was wondering if you could just share with us any color on the impact 
+that NetSuite might have had on the growth rate for cloud bookings? 
+
+And also, while I know you're not guiding to fiscal 2018, Cloud SaaS PaaS growth, I'm just wondering if you could 
+share with us – Mark, you commented about doing better – an expectation to do better than $2 billion in new cloud 
+ARR. I'm just wondering if you could talk a little bit about your confidence level there? 
+
+And then, just for the sake of clarity since we do get this question from time to time, this $2 billion-plus number that 
+you mentioned is all new cloud business, and does not include renewal, so if you could just clarify that for people. 
+Thank you. 
+
+<A - Mark V. Hurd>: Well, it's great. You gave me one question with five parts, so I'm going to try my best to 
+remember all your questions and answer. First, our bookings, our new and expansion bookings, they do not include 
+renewals. There are no renewals in the ARR that we report, okay, point one. 
+
+Point two, how did NetSuite do? I think they did terrific, I think they just did terrific. I think they're very stable. We've 
+seen some acceleration in their growth rates from when they were a public company. I think they've just done terrific. 
+So we're thrilled with the acquisition. We're thrilled with how they're performing. We're thrilled with the synergy inside 
+Oracle. And I want to make sure I'm clear, that's not rhetoric. I mean, we're really thrilled, but I have no facial 
+expression I can give you so you can see it. 
+
+Our pipeline is big. How confident am I in more cloud bookings than this year? Extremely, put quotes around 
+extremely, underline it. But, that said, I think we're going to have a terrific year in the context of a terrific pipeline. So I 
+think I covered all your points. 
+
+
+Operator 
+
+Our next question is from Philip Winslow with Wells Fargo. 
+
+<Q - Philip Winslow>: Hey. Thanks, guys. And congrats on really a fabulous fiscal Q4, and thank you for the 
+increased disclosure in terms of on-premise breakdown of IaaS versus Platform. When I look at your Q4 results in the 
+context of full year, it's basically almost impossible to argue that Oracle's not at the re-accelerating revenue growth 
+inflection point in its transition to cloud. Mark, when you talk about apps, obviously, it's been growing mid- to high 
+single-digits, which is an acceleration from last year, you talked about accelerating 10% this coming fiscal year. 
+
+So my question about – to either you or Safra is, when you think about the platform side of the business here at Oracle, 
+that's been growing in the low single digits. Where does that business sit in terms of its lifecycle transition of the cloud 
+in terms of just the trajectory of net revenue growth? And I just have one follow-up to that. 
+
+<A - Mark V. Hurd>: Give us the follow-up first, then we can pace ourselves through the answers. 
+
+<Q - Philip Winslow>: The idea would be is if the PaaS side continues to take off and I want to put it through then to 
+context of Safra's comments about CapEx being lower this year, because the question I get is is that hey, if this 
+transition to the cloud is working, why is Oracle's, call it operating model, different than cloud? Why is Oracle so 
+efficient in terms of its – call it infrastructure spend in the cloud? Maybe that's a good question for Larry, actually. 
+
+<A - Mark V. Hurd>: Yeah. Great. Okay. Do you want this one? 
+
+<A - Safra Ada Catz>: All right. Well, let me just talk a little bit about PaaS and IaaS together. The old IaaS was, as 
+you know, a slower growing business. Our Gen 2 IaaS, much faster; PaaS, much faster. As it completely overwhelms 
+the base of our old IaaS, you're going to see acceleration. You must see acceleration because it is inevitable as we do 
+more and more transactions and bookings which turn into revenues as people bring their Oracle licenses, their Oracle 
+workloads to us, so you're going to see that's a very big area. 
+
+Now, as far as margins, remember, in our PaaS business or our IaaS business, the system itself is the same. However, 
+what you see though is there's enormous value in both our automation and in our technology, whether it's different 
+pieces of software that are in there. And depending on the mix, the margin can be extremely high. We have always – 
+it's still the Oracle you know in that we watch every nickel around here and we all sign off on every data center 
+expansion and all the hardware that goes in it. 
+
+So we really are very, very careful on getting not too far ahead of our revenues but also benefiting from massive 
+economies of scale. This past year, we did a lot of build-out for which the revenue has not been showing up yet in the 
+financial statements, but it will be. So depending on how the different pieces roll in, we expect margins, by the time it's 
+the end of the year, we expect even PaaS IaaS margins to be better. And but we do feel we can do it within our CapEx 
+envelope. 
+
+<A - Lawrence J. Ellison>: Okay. So let me comment. What is different? Why do we not have these huge build-outs 
+and then wait for the revenue? We have a just-in – we have a system, we build our own hardware. We build virtually 
+all of our own hardware. I mean not some of the network switches, we buy those from Arista. 
+
+We don't ship computers to any of our data centers until we have pretty firm orders for capacity. We're constantly 
+measuring how much our data centers are used. As our data centers reach, let's say I'll pick a number, 75% – 80% 
+utilization, we get to some threshold then we start to replenish and add compute and storage capacity to the data 
+centers. It's a just-in-time system. Those components that grow and go to Frankfurt or go to London or go to Singapore 
+or go to any of our data centers around the world. But we do it in such a way that once we ship, we know that we're 
+going to have a very, very high utilization rate at our data centers. So it's just-in-time shipment and we only ship when 
+they cause something like a 75% or 80% utilization at that data center. 
+
+
+So we don't have a lot of unused capacity. So if, let's just say, if our CapEx was double what Safra's forecast next year, 
+that's great news because then our PaaS revenues or – and infrastructure revenues would be much higher and make up 
+for it with much higher profits. I don't know if that's clear. We don't make it until – in a sense we've already sold it. 
+
+<A - Safra Ada Catz>: Right. 
+
+<A - Mark V. Hurd>: Yeah. Last point, first of all, just to add to everything Larry said, virtually most of the COGS 
+other than what Larry identified that sits in the data centers is ours. And then all of our R&D is aligned to all of our 
+COGS and so we have both the advantage of being the major supplier to ourselves in addition to all of the R&D that we 
+have into our technology. So we get multiple benefits in addition to what Larry described. And Phil, just to be clear, I 
+just want to make sure I'm clear on my quote. I said roughly double digits on the application ecosystem growth next 
+year. 
+
+<A - Lawrence J. Ellison>: All right. Let me add one more thing. How can we do it for less? So we build the kind of 
+storage systems that Amazon doesn't have and Microsoft doesn't have. And those storage systems are really a 
+combination of flash and disk-stored. And we have these huge flash caches in front of the disk. So from the customers' 
+standpoint, they think almost all the data is coming from flash and it has flash response times and flash performance. 
+
+But we can do that, we can deliver that with hard disk costs. So we can deliver that at about, I don't know, 20% the cost 
+of our competition. So storage is a huge component of what the cloud providers are selling. And we just have the better 
+mouse trap. We have a better storage hierarchy system than they do. Therefore, we can provide very, very high 
+performance at a dramatically lower cost to us than our competitors. 
+
+<A - Kenneth Bond>: Next question, please. 
+
+Operator 
+
+Our next question comes from Kash Rangan with Bank of America. 
+
+<Q - Kash Rangan>: Hi. Thank you very much, congratulations. Curious if you could talk about what drove the 
+strength in license revenue this quarter. It's certainly much better than most people's expectations. Did you have any 
+products were phased out or were comped out that you had any sort of pull-in, potentially? 
+
+And secondarily, Safra, you talked about long-term SaaS gross margins approaching potentially 80%. And if this 
+AT&T deal is a harbinger of more databases transitioning to a PaaS model, what does the longer term outlook for gross 
+margins for the entirety of the cloud business look like? And finally, I have to sneak in one for Mark. Any thoughts on 
+the sales force as you approach fiscal 2018? Any changes, re-org, et cetera? That's it for me. Thank you. 
+
+<A - Mark V. Hurd>: That has to break every rule in the question etiquette, Kash. I think first off, let me go to license 
+to quarter. There is no standout event. There is no product that that discontinued. There was no single transaction. 
+There was no geography. I would say North America, I will say first of all, I'm overall very proud of our sales org in 
+general, but North America was very strong again. I think they did a great job across both of our teams in North 
+America. But we were solid really across every geography. There was just no real – Asia was strong for us, Japan. I 
+could go on. So there was no deal, there was no product, there was no geography. It was just really a broad-based 
+performance overall. Anyone want to talk about the gross margins? 
+
+<A - Safra Ada Catz>: Yeah, okay. So SaaS gross margins will continue to increase all of this coming year. We will 
+get closer and closer to my 80% goal by the end of the year. We probably won't hit 80%, but we'll be pretty close by Q4 
+in SaaS margins. So I think that's good news. As a result, margins for the entire cloud business will be up quite a bit by 
+the end. So I'm very, very upbeat and expect margins to improve a lot. 
+
+<A - Mark V. Hurd>: I forgot your sales re-org question. That's, again, I saw a couple of notes on that. I t's just like 
+sort of we're laying off salespeople. This is all just not true. So is our sales force shrinking? No. Do we change things in 
+our sales force? Sure. Is there any major re-org going on? No, but remember, our competitors change. We have some 
+very simple principles how we run the sales force. We line up our sales force by product. We line them up by buyer and 
+
+
+by competitor. That market tends – those dynamics can change. Our competitors change, as we've noted, over the past 
+several years. So you'll see some shift in our specialization. That's one point. 
+
+Second, we are building out, as we told you over the past couple years, big hubs that are doing a lot of our selling. So 
+we have the byproduct of that is that our sales force is actually increasing in numbers. But our cost per salesperson is 
+actually declining. So our overall productivity is actually inclining. Those phenomena occur simultaneously. So 
+anything that you hear about we're reducing our sales force, again, fake news, nothing that's going on here. 
+
+Second, we are increasing our sales force. We continually realign our specializations based on competitor, based on 
+product, based on buyer, and we continue to build out and are very happy with the continued progress of our hubbing 
+strategy. So hopefully, that answers your question about the sales force. 
+
+Operator 
+
+Our next question comes from Keith Weiss with Morgan Stanley. 
+
+<Q - Keith Eric Weiss>: Excellent. Thank you, guys, for taking the question. And also, a very, very nice end to FY 
+2017. Safra, as we're thinking about FY 2018, I think a big question investors are going to have is on the license 
+revenue side, the declines that we're expecting, should we be expecting something more in line with what we saw in 
+Q4, like that 5 percentage range in terms of decline? Or more so, should we be looking at like FY 2017, the full year – 
+like 10% to 15% decline as our benchmark in terms of how that license revenue decline is going to progress throughout 
+FY 2018? 
+
+<A - Safra Ada Catz>: Hey, Keith. I think this is quite cute. You know I didn't give guidance on new software license 
+growth because it's become less and less relevant. So I don't actually intend to give it now. But I'll give you a chance to 
+ask another question, if you've got one. 
+
+<Q - Keith Eric Weiss>: Sure. Shifting gears to repurchases. 
+
+<A - Safra Ada Catz>: Yes. 
+
+<Q - Keith Eric Weiss>: Perhaps the levels of repurchases that were done in Q4 have dropped down in terms of what 
+we've seen in like FY 2016 in the first half of the year, probably having do with where U.S. cash is versus overseas 
+cash. Can you give us an idea of how you guys are thinking about those repurchases... 
+
+<A - Safra Ada Catz>: Sure. 
+
+<Q - Keith Eric Weiss>: ...into FY 2018? 
+
+<A - Safra Ada Catz>: Sure, absolutely, love to. So as you guys know, as I told you, we spent quite a bit of money on 
+NetSuite, and so I needed to pay that back. And I've got a couple quarters of still paying that back. And as a general 
+matter, we like to buy back quite a lot of our stock, significantly more than at the $500 million a quarter that we've been 
+on since we bought NetSuite. So once I've paid all that back, assuming that I don't buy anything else big, I expect that 
+we will do what we always do, which is send the money back to you all because it's your money. And so we will buy 
+out your partners, and so share repurchases should go up. 
+
+However, our stock price is going up also, so we may be spending more. But lucky us, lucky all of us, the stock price is 
+going up, which means sometimes I will get less shares. So once I've paid back NetSuite, I do expect to spend more 
+than $500 million a quarter, assuming I don't buy anything else and anything else really significant. But I don't know 
+how many shares I'll get back because of course I don't know what the stock price will be at that time. 
+
+<A - Kenneth Bond>: Next question? 
+
+Operator 
+
+
+Our final question comes from Mark Moerdler with Sanford Bernstein. 
+
+<Q - Mark L. Moerdler>: Thank you. Congratulations on the strong quarter. 
+
+<A - Lawrence J. Ellison>: Thank you. 
+
+<Q - Mark L. Moerdler>: So given software support is continuing to grow, which suggests that the cloud is 
+predominantly net new workloads from either new or existing customers, we would expect that at some point soon your 
+customers are going to start moving existing workloads to the cloud. So couple of parts to the question, when do you 
+expect Oracle apps and Oracle database support revenue to start moving to the cloud? Which moves first? What do you 
+expect the impact will be? And lastly, what of the migration is baked into your confidence for FY 2018 cloud ARR? 
+
+<A - Mark V. Hurd>: Okay, all of it's baked into our view, so there's no new news here. So let me flip the metric on 
+you. If 65%, which is not an uncommon number we've given you over the past several quarters, it is coming from net 
+new logos, then the flip of that is 35% is coming from our existing base. So we have seen our existing base move, they 
+just, to your point, move slower than what the new logos have. I actually think this is a good thing because I believe 
+that we will get all of our existing customers on-prem, roughly speaking, moving to our cloud infrastructure over time. 
+
+Now, in addition, when we do move, and I want to make sure I'm clear and say it again, as we now have a lot more data 
+than I would have had two years ago. When a customer who's on-prem paying us support moves to the cloud, they pay 
+us more money. They don't pay us 1:1. They don't pay us 2:1. They pay us more like 3:1. In some cases, more than 3:1. 
+In some cases, we also get the attach of Platform to the SaaS that we get as well, and that is not included in the 3:1 that 
+I'm giving you. So we are actually very positive about the fact that if people move from our application support to our 
+SaaS revenue, we get more money. 
+
+And to Safra's point about what's going on with our gross margins, we now produce better performance at the bottom 
+line, because we get more revenue at a very high margin rate. So I expect that to continue as we get more references, 
+Mark, in ERP, et cetera. You're going to see that accelerate. We want that to accelerate, and that acceleration is a good 
+thing for our customers, and it's a good thing for Oracle's shareholders. 
+
+Now, the reason we made the deal that we made, a big deal we made, over AT&T is because of the implication that has 
+on our database business, that is a – and Safra couldn't have said it better, but this is now a customer who is now a 
+reference in the public domain explaining why, and now I think you will see that same migration as time goes on. 
+
+We have more customers like them, who are in the middle of the process of moving now. And I gave you an example 
+of how much infrastructure was bought in Q4 of Oracle Cloud Machines just as a – that is one surrogate for what's 
+happening. And if that occurs, we will get more revenue as well, and I predict that we'll be able to deliver higher levels 
+of service, more functionality, more capability, more modernization as we do it. So I think you've begun to see it in the 
+application business. We love what we see in the applications business so far, and I think you're at the beginning of 
+seeing it in the Database business as well. 
+
+Kenneth Bond 
+
+Thank you, Mark. A telephonic replay of this conference call will be available for 24 hours. Dial-in information can be 
+found in the press release issued earlier today. Please call the Investor Relations department with any follow-up 
+questions from this call. We look forward to speaking with you. Thank you for joining us today, and with that, I'll turn 
+the call back to the operator for closing. 
+
+Operator 
+
+Thank you for joining today's Oracle fourth quarter 2017 earnings conference call. We appreciate your participation. 
+You may now disconnect. 
+
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2017, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+

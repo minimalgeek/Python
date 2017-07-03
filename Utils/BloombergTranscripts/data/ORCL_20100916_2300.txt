@@ -1,0 +1,659 @@
+Q1 2011 Earnings Call 
+
+
+Company Participants 
+
+• Ken Bond, Vice President, Investor Relations 
+• Jeff Epstein, Executive Vice President and Chief Financial Officer 
+• Safra A. Catz, President 
+• Lawrence J. Ellison, Chief Executive Officer 
+• Mark Hurd, President 
+Other Participants 
+
+• Adam Holt 
+• Heather Bellini 
+• Sarah Friar 
+• Jason Maynard 
+• John DiFucci 
+• Kash Rangan 
+• Philip Winslow 
+MANAGEMENT DISCUSSION SECTION 
+
+Operator 
+
+Good day, everyone, and welcome to today's Oracle Corporation quarterly conference call. Today's conference is being 
+recorded. 
+
+At this time I would like to introduce Ken Bond, Vice President of Investor Relations for Oracle. Please go ahead, sir. 
+
+Ken Bond, Vice President, Investor Relations 
+
+Thank you, Ruthie. Good afternoon, everyone, and welcome to Oracle's first quarter fiscal year 2011 earnings 
+conference call. With us on the call today are Chief Executive Officer, Larry Ellison; President, Safra Catz; President, 
+Mark Hurd; and Chief Financial Officer, Jeff Epstein. 
+
+As a reminder, today's discussion will include forward-looking statements including predictions, expectations, 
+estimates or other information that might be considered forward-looking. While these forward-looking statements 
+represent our current judgment on what the future holds, these statements are also subject to the risks and uncertainties 
+that may cause actual results to differ materially from statements being made today. 
+
+Throughout today's discussion, we will attempt to present some important factors relating to our business which 
+potentially affect these forward-looking statements. We encourage you to review our most recent reports on Form 
+10-K, and 10-Q and any applicable amendments for a complete discussion of these factors and other risks that may 
+affect our future results or the market price of our stock. As a result we caution you against placing undue reliance on 
+these forward-looking statements, which reflect our opinion only as of today. 
+
+As a reminder, we are not obligating ourselves to revise or publicly release any revisions to these forward-looking 
+statements in light of new information or future events. A copy of the press release, and financial tables, which includes 
+
+
+a GAAP to non-GAAP reconciliation, and other supplemental financial information can be viewed and downloaded 
+from our investor relations website. 
+
+We'll begin the call with a few prepared remarks before taking questions from the audience. With that I would like to 
+turn the call over to Jeff for his opening remarks. 
+
+Jeff Epstein, Executive Vice President and Chief Financial Officer 
+
+Thank you, Ken, and welcome, Mark. Good afternoon, everyone, and thank you for joining us. I will review our 
+non-GAAP financial results, focusing on U.S. dollar growth rates unless otherwise stated. 
+
+This quarter, foreign exchange rates weren't much of a factor in our overall results, compared to our guidance of a 
+negative 2% currency effect to new license revenue, and a negative 3% currency effect to total revenue. We beat the 
+high end of our guidance range for new license revenue, total revenue, and earnings per share with a record earnings 
+per share for the first quarter. On a constant-dollar basis, we also beat our guidance ranges for new license revenue, 
+total revenue, and earnings per share. In short, Q1 was an excellent quarter for Oracle. 
+
+In the first quarter, new license revenues were $1.3 billion, up 25%. The Americas grew 33%, EMEA was up 12%, and 
+Asia was up 26%. With each region up double digits on a constant-dollar basis as well, our results continue to 
+underscore the strength and diversity of our business, and the quarter was not dependent on any unusually large deals. 
+
+Technology devices revenues were $937 million, up 32%, as the Americas grew 44%, EMEA was up 25%, and Asia 
+was up 19%. 
+
+Applications new license revenues were $349 million, up 10% from last year. The Americas grew 14%, EMEA was 
+down 19%, and Asia was up 54%. 
+
+Our software license updates and product-support revenues were $3.5 billion, up 11% from last year. Customer support 
+attach and renewal rates continue at the usual high levels. 
+
+Revenues from our hardware systems products were $1.1 billion, while revenues from hardware systems support were 
+$680 million. Our services revenues were $1.1 billion, up 18%, as we continue to manage this business to profitable 
+margins. 
+
+Our total revenues were $7.6 billion, up 50% from last year. Non-GAAP operating income was $2.9 billion, up 27%. 
+The non-GAAP operating margin was 39% for the quarter. 
+
+Our tax rate for the first quarter was 24.7%, as we saw some one-time benefits to our tax rate. Our Q1 non-GAAP 
+earnings per share were $0.42, $0.05 above the high end of our EPS guidance range of $0.35 to $0.37. Earnings per 
+share were up 38% from last year. In Q1, we repurchased 10.8 million shares at an average price of $23.13 per share 
+for a total of $250 million. As we have previously discussed the rate of our stock buyback will fluctuate each quarter, 
+taking into account alternative uses for our cash and our stock price. 
+
+Turning to the balance sheet, we have $23.6 billion in cash and investments. Our days sales outstanding improved 
+again to 45 days, compared to 46 days last year, and is a testament to the quality of our receivables, the quality of our 
+customers, and the effectiveness of our collection efforts. Finally, we generated $8.5 billion in free cash flow during the 
+last four quarters. 
+
+Now I'll turn the call over to Safra. 
+
+Safra A. Catz, President 
+
+Thanks, Jeff. I'm going to just make a few brief comments on Q1, and then I'll review the guidance for Q2 and turn the 
+call over to Larry and Mark. Obviously we are extremely pleased with our Q1 results, which follows a really great FY 
+
+
+2010. Our software license growth was, frankly, outstanding. I was more than double the high end of our guidance, 
+actually. And as I said in the past what is really going on is we have a lot of company-specific momentum in each line 
+of business, both software and hardware systems. 
+
+Our customers are realizing that it's far better to buy open and integrated solutions from us rather than discrete 
+components from half a dozen separate vendors, clearly the benefits of engineered systems are obvious to them. We are 
+just seeing more opportunities involving more of our products, and deals seem to be getting a little bigger. Customers 
+are buying our applications, including industry specific applications and of course, they are deploying those 
+applications on our middleware suite, database, and operating systems, both Solaris and Linux and now they are seeing 
+real benefit to deploying those applications and technologies on our optimized hardware systems, so discrete product 
+competitors are just becoming less and less relevant. 
+
+Our hardware system revenue also came in, as you can see, better than we had expected, particularly, since this is the 
+first time the Sun guys have had an August close. Because I actually do read what you guys write, I want to repeat 
+something I said on previous calls regarding Sun's hardware business, and how we changed it. First, we have ended 
+numerous reselling agreements, accounting for hundreds of millions of dollars of hardware revenue that usually came 
+to Sun at little or no profit at all. Secondly, Sun lost a lot of money chasing commodity server share, but never really 
+had the volume to actually compete effectively on price. We are not going to chase highly unprofitable revenue, and 
+thirdly, we have redirected the hardware business to the part of the market where we have a competitive advantage. 
+Think Exadata. There is a reason we talk about it all the time. We're focused on the sweet spot of the market for us 
+where we can deliver unique value for our customers. 
+
+So comparing hardware revenue to Sun's historical revenue is just not terribly meaningful. Now you can see all of this 
+show up in our gross margins for systems, which was over 48%, higher than last quarter, which was 46, when – even 
+though our volumes are much lower in Q1. So, in addition to our strong top-line performance in both hardware and 
+software, we delivered very strong operating margins as usual. With Sun included for the full quarter, our operating 
+margin was 39%, substantially higher than our peers, including IBM and SAP, actually our 39% operating margin is 
+10% higher than SAP even though we're also selling hardware. 
+
+So let me get to the guidance, and we do believe that the guidance I'm giving is realistic, though conservative. 
+
+I want to emphasize that our pipelines are very strong in both software and hardware. For the coming quarter, assuming 
+exchange rates remain at current levels, which right now is a negative 3% currency effect on license growth, and a 
+negative 4% on total revenue growth, that – with that, our guidance for Q2 is as follows: New software license revenue 
+growth is expected to range from 9 to 19% in constant currency, and 6 to 16% at current exchange rates; hardware 
+product revenues are expected to be between 1 billion and 1.1 billion in constant currency or 1.1 billion to 1.2 billion at 
+current exchange rates. And that does not include the hardware support revenue. Total revenue growth on a non-GAAP 
+basis is expected to range from 43 to 47% in constant currency, and 39 to 43 at current exchange rates. On a GAAP 
+basis, we expect total revenue at somewhere between 42 to 47% growth in constant currency, and 38 to 43 at current 
+exchange rates. 
+
+Non-GAAP EPS is expected to be 45 to 47 cents in constant currency and 44 to 46 up from 39 last year, assuming 
+current exchange rates. GAAP EPS for the second quarter is expected to be 28 to 30, assuming constant currency, 27 to 
+29 cents at current exchange rates. Now my guidance assumes a GAAP tax rate of 30.5, and a non-GAAP tax rate of 
+
+28.5. 
+Of course, it may end up being different, and of course, our Board again, declared a dividend of $0.05. With that, I'll 
+turn it over to Larry for his comments. 
+
+Lawrence J. Ellison, Chief Executive Officer 
+
+Thank you, Safra. I know there has been a lot of concern about Oracle going into the hardware business, so I'm going to 
+focus my comments about the Sun hardware business how we found it, and what we have done to try to make it better. 
+
+
+Let's see, we have two fundamental goals in the Sun hardware business, first to make it profitable, and quoting one of 
+our great Presidents, "Mission accomplished." 
+
+We now have a very, very profitable hardware business, that made a substantial contribution to our overall profitability 
+in Q1. We have a profitable business, and we think it's going to become more profitable throughout the fiscal year, but, 
+again, I want to emphasize, the Sun software business is clearly profitable. I am going to focus on the Sun hardware 
+business. And I'm saying it is already making a substantial contribution to our profitability. 
+
+Since – since we took over Sun, we have improved the gross margins to 48.4%. That's up from a nadir of around 38% 
+when Sun was running things. And we think there's more to go. I don't know if we can get to 50, but 50 is kind of a 
+target, it depends on our product mix, and it's not going to happen overnight, but, again, I think we can very 
+substantially improve those gross margins. 
+
+So, again, we're profitable. We want to make it more profitable. It's going to get better throughout the year. 
+
+Once profitable, and we are profitable, we have got to grow the size of that business, and we think we can double it. It 
+is going to take some time, but, again, we think we can double the size of that hardware business, and we think we have 
+to. We have to go out and aggressively take share from IBM and our other hardware competitors. 
+
+To make the Sun business more profitable, what have we done, and what are we going to do? The first thing and the 
+easiest thing to do was stop pursuing business that was not profitable. As Safra pointed out, let's stop chasing revenue 
+and start chasing profit. We're not selling Hitachi disks anymore. It is a terrific product, but we don't make any money 
+reselling it. 
+
+We're not selling Veritas NetBackup anymore. We're not pursuing these high-performance computing deals which are 
+big deals and very prestigious, but I don't know anyone who makes any money on these things. 
+
+So we're out of those businesses, and that – you know, I think a lot of people are looking at our top line and saying that 
+we're not growing. Our top line is growing, but that growth has been offset by kind of dumping these unprofitable lines 
+of business. We filled in – we filled in with other businesses which are more profitable. The other thing we are – so 
+that's done. We don't resell things, and we don't pursue business that's unprofitable. 
+
+The other thing we're doing is trying to optimize operations over there. We will be to a single integrated computer 
+system for order management, for network support, for dispatch, for field service, we'll have all of that done around 
+January. So that's a pretty good – a pretty good record. Oracle and Sun will be on a single unified global system in 
+January, everything: HR, payroll, accounting, service, order management, inventory, everything is going to be in place 
+in January. And that's going to be a big help. That will make our operations more efficient and more profitable, and 
+we're reducing the number of contract manufacturers, and reducing the number of contract manufacturer locations, so 
+we're simplifying that, and by doing that, we're able to negotiate better deals with the contract manufacturers. 
+
+We're directly shipping from those manufacturers to our customers, which we hadn't been doing before, which will 
+lower our costs and get our customers their products sooner. We had, I think, seven – seven or eleven – I can't 
+remember which – parts depot locations in the Bay area alone, and we are reducing that to a couple. So we're 
+simplifying and optimizing the operations. Again, we think this is going to have impact throughout this fiscal year. But 
+we'll be in pretty good shape by the end of this fiscal year, and that's going to help the profitability of our business and 
+the responsiveness of our business to our customers. 
+
+All right, that – the other thing in terms of growing the top line of the Sun business is we have got to innovate in the 
+area of interesting new products, and we inherited some new products from Sun which were terrific, like the ZFS 
+storage appliance and again, the unique thing about the ZFS storage appliance, it's a Solaris disk system that integrates 
+hardware and software where the hardware and software is engineered to fit together, so we love that product that was 
+done at Sun. 
+
+We are working -- of course, we had been working with Sun to do other engineered hardware/software combinations, 
+Exadata being the best known. My quote in the release was the Exadata pipeline for the full fiscal year is now up to 
+$1.5 billion and growing rapidly. We think this is going to be a huge business for us, and we're going to be introducing 
+
+
+more hardware/software combinations at OpenWorld next week. That's a big focus for us which is to leverage our 
+advantage, which is being both a software company and hardware company, engineering all of the pieces so they fit 
+together and work together well. We think that is going to make customers' lives a lot easier. We're looking at systems 
+that are easier to operate, more reliable, and faster. That's certainly true of Exadata and it will be true of the other 
+products we announce in this area. We're upgrading our SPARC processors. We think we can build processors as fast 
+as anybody else. IBM has got a terrific processor, Intel has got a terrific processor, and we will have a terrific 
+processor. We've got a way to go yet, but I think we're making really good progress building the team and building the 
+next generation of SPARC processors. Okay. That's kind of on the technology side of the Sun hardware business, 
+where I think we're making good progress and we will continue to invest in that area. 
+
+The other thing is in distribution. Sun had been going from direct sales from the old Ed Zander days, if you remember 
+that name, where sun had one of the great sales forces in the industry, to virtually laying off the bulk of their sales force 
+and going through partners, and that's not the kind of company we are. We sell directly to very large customers, where 
+we offer them technology and the service – and the services to exploit that technology effectively, and we have those – 
+we already have those direct relationships with those big customers in software, and we need those same relationships 
+both on the sales side and on the service side in the hardware part of the business, because we see that as a unified 
+business. 
+
+There really is no such thing as the hardware business or the software business. The business that we're in is the 
+systems business, and we have to provide support in the systems business. We have to sell systems. Those – it's really 
+one business. And since we're direct in software, we need to be direct in hardware. That's going to improve our 
+margins. That's going to improve our penetration. That's going to increase our top line. 
+
+We're adding about 2,000 salespeople, and – but which include not just salesmen, but also includes sales engineers and 
+service engineers, and by the way, we're doing that with basically no net increase in our overall Sun division head 
+count – I mean, we're eliminating or have eliminated about 2,000 positions of non-revenue producing, non-technical 
+people, replacing them with revenue-producing people and technical people. So we expect we can grow that business, 
+we can double that business, we can deliver better products, a higher quality of services to our largest customers, we're 
+very excited about this, and we fully expect to exceed that target of 1.5 billion in operating profit in the full fiscal year, 
+and 2 billion the following year. 
+
+With that, I'm turn it over to Mark Hurd, and Mark, welcome aboard. 
+
+Mark Hurd, President 
+
+Well, thanks, Larry. It's great to be here with Larry and Safra. Over the last 25 years, I have competed against and 
+partnered with Oracle, and I can tell you that Oracle has amassed the most enviable portfolio of technology in the 
+industry. What led me to come to join Oracle is not what Oracle has accomplished in the past, but the clear growth 
+opportunities I see going forward. The company is well positioned for where the industry and where customers are 
+headed. I don't believe there is any other company in the industry better positioned than Oracle. 
+
+Oracle is obviously the leading database and middleware company at a time when data and digitization are increasing 
+exponentially, so we essentially get to monetize the growth in data occurring around the globe. Oracle is way ahead of 
+the competition in engineered systems. And Exadata is really just the beginning, and Oracle is defining that market. 
+The growth opportunities with highly optimized engineered systems are just starting, and there's really no one else in 
+the market with the software and hardware assets that can match Oracle. 
+
+In addition, I think there is a large, unappreciated opportunity in the industry verticals: telecom, banking, utilities, 
+insurance, life sciences and others. These industries can no longer afford to do their own software development. Many 
+of these vertical markets individually are larger than ERP in its entirety. We have a huge lead in industry-specific 
+applications, with our global business units, and the fact is, no other large software company has even started 
+addressing these markets. 
+
+
+Last, Oracle is a large global platform at a time when much of the growth is going to occur outside the United States, 
+and we are well positioned to take advantage of that growth. What really gives me confidence in Oracle's growth is the 
+sheer size of our R&D investments, and our financial capacity to execute. 
+
+We generated 8.5 billion in free cash flow over the past 12 months, and we expect that we will spend over 4 billion this 
+year on R&D, and we are going to spend all next week at OpenWorld explaining just how we are spending that money. 
+Without giving anything away, let me assure you, it's well spent. So I'm coming up to speed quickly. I'm really excited 
+about the opportunities, of which I've just touched a few. 
+
+Let me turn to our Q1 results. Listen, I've been doing this a long time. 25% license growth in a company this size is a 
+big number, especially for a company that closes in August. And again, I have been doing this for a long time, I've been 
+selling for over 30 years, but I personally never had to close the books in August, so the credit for this really has to go 
+to the sales organization. This is a fantastic performance. 
+
+This quarter, we had several end-to-end Oracle wins, which were sold products from applications to technology and 
+systems. An example is Vivo, the largest mobile telephone operator in the Southern Hemisphere. We replaced their 
+in-house legacy customer system with a Siebel system running on top of our middleware, database, operating system 
+and Sun M9000 servers, top to bottom Oracle technology. 
+
+We had a particularly strong quarter in technology, both database and middleware with growth of 32%, and 
+double-digit growth in every single region. 
+
+In Database, we continue to see a strong migration of customers to 11 GR2, which also benefits our database options 
+such as Advanced Compression and Database Vault. We had a key database win along with Active Data Guard option 
+at the New York Police Department to help with their counterterrorism efforts. 
+
+In middleware, our base of customers is now approaching 100,000. Fusion Middleware 11G, which we released last 
+year, continues to do very well with the fastest adoption curve we've seen over any of our previous releases. 
+
+This quarter, we released a major new release of Oracle Business Intelligence 11G. While the product is very new, we 
+have seen strong interest, and had competitive wins, for example, at the Parliament of Victoria in Australia and at the 
+state of Nevada. 
+
+On the applications side, we had key wins against SAP at Mayan Resorts in Mexico, and Molina Healthcare of 
+California. 
+
+Shifting to systems, we saw growth again this quarter for the Sun products. On the high end, we saw great wins with 
+the M9000 at Banco Itaú in Brazil against IBM, and also at Center Link in Asia-Pac where we beat IBM again with the 
+M9000 systems. In the mid-range, we beat IBM in winning a big deal at Telefónica in Spain and both an M-series and 
+T-series product. And we had a significant win at NTT in Japan. 
+
+In storage, we had a key win at Center Link to modernize their tape infrastructure. We also saw storage wins at Banco 
+do Brasil, the state of New York, and Branch Banking and Trust. 
+
+Overall, a very strong quarter for Oracle, and with that, I'll turn it back to Ken. 
+
+Ken Bond, Vice President, Investor Relations 
+
+Thank you, Mark. Ruthie, we are now ready for the Q&A portion of the call. 
+
+Q&A 
+
+Operator 
+
+[Operator Instructions]. And we'll take our first question today from Adam Holt with Morgan Stanley. 
+
+
+<Q - Adam Holt>: Great, thank you, and congratulations on obviously a very good quarter. I wanted to drill down a 
+little bit on the database technology business, up over 30%, one of the best numbers we've seen in a long time. Mark 
+talked a little bit about the impact of Fusion Middleware, but was there anything else that stood out in the quarter that 
+was particularly strong, and what is the outlook in that line item in particular for next quarter? 
+
+<A - Lawrence J. Ellison, Chief Executive Officer>: I think Exadata. People think of Exadata as a hardware sale, and 
+of course, it's a combined hardware, software sale. And whenever we sell Exadata, we sell database licenses, unless the 
+customer already has database licenses, and we sell storage-server licenses. So for example, let me name my favorite 
+Exadata sale, which was we put three Exadata racks into Softbank and replaced 60, 6-0, Teradata racks, and about half 
+of that sale was hardware and half of that sale was software. But that was a – imagine the 60, 19-inch racks, kind of a 
+room full of gear, take Teradata's machine, out it goes – by the way, Softbank is Teradata's biggest customer in Japan, 
+and in goes three Exadata machines. 
+
+By the way, the three Exadata machines way outperform those 60 Teradata racks. And that – a sale like that is reflected 
+in both our hardware line and our software line and that really – I think Exadata really is helping our technology 
+software growth substantially. 
+
+Operator 
+
+[Operator instructions]. So now we'll go on to Heather Bellini of ISI Group. 
+
+<Q - Heather Bellini>: Hi, thank you. Just looking at how you've retooled the hardware business, I was wondering if 
+you could help us think down the road, is this something, given the margin improvement that you've had, that we could 
+see get even better and think about it in the likes of Cisco and EMC who have gross margins in the 55 to 60% range? 
+
+<A - Lawrence J. Ellison, Chief Executive Officer>: Yeah, Heather, again, I – when we first took over the business, 
+we set an internal target of around 50%. We just want to at least get to that point, which is reasonable, and we're just 
+about there. In Q1, we were 48.4 and I think in Q2 we'll crest the 50 mark. But I think 60 is absolutely reasonable in 
+gross margin, and can we do better? It depends on the product mix. How many Exadata and other engineered systems, 
+ZFS storage appliances versus some of the other systems that are – T-series which is a little bit lower margin. But I 
+think depending on the mix, we can get to 60 or better. And I think we can just as importantly double the top line. So 
+we can dramatically improve margins and double the top line. 
+
+Operator 
+
+And our next question is from Sarah Friar with Goldman Sachs. 
+
+<Q - Sarah Friar>: Great, thanks so much. A more strategic question, just given those comments on the opportunity in 
+vertical industries and just given some of Mark's actions at HP, is a natural next step to have a bigger IT services 
+component, or Larry, are you still of the belief that you're cannibalizing services and that that's the right shift for 
+customers? 
+
+<A - Lawrence J. Ellison, Chief Executive Officer>: Well, I think – again – I don't think we're going to end up – 
+again, IBM is a great company, and I appreciate the kind words from Sam Palmisano about us as being their number 
+one competitor now. And actually, I mean that sincerely. I think Oracle is flattered. We've worked very hard. We look 
+at IBM as our number one competitor, and we're thrilled that they look at us as their number one competitor now, and 
+we're going to work, we know we have to work very hard to be successful in that competition. 
+
+IBM's services business seems to be the dominant part of their business, and their product business is – you know, is 
+important, but secondary to the services business, if you will. We look at it just the reverse. We look at our products 
+being the dominant part of our business, and one of the things we're trying to do with our products is obviate the need 
+for services. So if we do a very good job of integrating our applications together, and making them easier to install, and 
+
+
+easier to upgrade, you don't need as much service. 
+
+So our goal, again – if we engineer these hardware/software systems together like Exadata, where the storage and 
+network and servers and the operating system and the database and all of the stuff is in one box, you don't need as 
+much integration services. So we're trying to attack the -- you know, to reduce the amount of services required to take 
+advantage of these systems. 
+
+Having said that, our customers, especially in the big verticals, which Mark mentioned, you know, in banking, we go to 
+big banks going through transformations, and we can't eliminate all of the services. That's just fantasy. We can 
+eliminate some of the stuff, but we're going to – I think you'll see us engaging with our customers, and providing 
+services because they want us to, but we also have to be prepared to partner with other service-oriented companies, and 
+in fact, one of which is IBM. 
+
+We've actually got a very good relationship with IBM in services, which we're trying to expand, let's say in banking. 
+IBM has got a terrific presence in banking, we've got some great banking products. IBM doesn't sell banking software, 
+and we'd love for IBM to become expert in using our software to transform banks. And – so, again, our partnership 
+with these service companies is absolutely critical. The American companies: the Accentures, the IBMs, the Indian 
+companies: the Wipros, the Tatas. I know that Mark knows a lot more about this than I do, so I'm going to let him 
+comment. 
+
+<A - Mark Hurd, President>: I think Larry is exactly right. Listen, when you're running a big services company, the 
+biggest issue is labor, and you've got a lot of incidents that occur, and you've got a lot of labor trying to deal with those 
+incidents with customers. And the secret to services in the future is a way to automate those incidents, and you 
+automate them through software. So the future of services is software. 
+
+When you automate a process, you not only reduce the labor, you actually eliminate the labor, and you actually raise 
+the service level simultaneously. So the R&D that we have, in fact, isn't really – it's a supplement, if you will, to the 
+services capability. And as we get to more of these engineered systems, where we can build something once and sell it 
+many, many times, and do that work remote, and do it in an automated way, it is, frankly, a replacement for what you 
+today think of as very labor-based services. 
+
+I think as a product company, we want to be supporting those labor-based service companies, though, and partner with 
+them when it makes sense. So I think our strategy is to do both, to automate those processes, to be able to sell those 
+automated capabilities, and then to partner with the services companies as it makes sense. 
+
+<Q - Sarah Friar>: All right. Thank you. Very thoughtful response, I appreciate it. 
+
+Operator 
+
+And we'll take our next question from Jason Maynard with Wells Fargo. 
+
+<Q - Jason Maynard>: Hi, good afternoon, guys. I've got a question for Larry and then a follow-up for Safra. First, 
+Larry, these Exadata results and the pipeline that you're talking about, it's pretty clear that this is becoming a 
+big-winning product for you. 
+
+Can you maybe layout the vision for how this can expand to other workloads like custom-developed and packaged 
+applications, and what does that mean for your opportunity to get more data center share of spend? 
+
+<A - Lawrence J. Ellison, Chief Executive Officer>: Please come to Oracle OpenWorld on Sunday. That's a very 
+good idea. Yeah, it's something we certainly have thought about, and makes complete sense, and I think we'll be 
+announcing some very interesting things on Sunday in that area. 
+
+<Q - Jason Maynard>: Okay, so I have to wait, I guess? 
+
+<A - Lawrence J. Ellison, Chief Executive Officer>: Just a couple of days. 
+
+
+<Q - Jason Maynard>: All right, that's fair. I was going to follow-up with Safra, real quick. These results for August 
+were clearly better than we expected, but the environment actually hasn't been that great for IT spending. When you 
+sort of look at what is going on out there, do you need the IT spending market to pick up much or can you continue to 
+put up these type of results with sort of a status quo environment? 
+
+<A - Safra A. Catz, President>: You know, the truth is, we've actually been putting up these kind of results through, 
+really, much of this environment. The reality is that what we've got going is really very company-specific. We are 
+taking share from others. 
+
+As Larry described in the Softbank case, that type of thing is really happening everywhere. Customers are looking at us 
+as their – really, frankly, their most important vendor. And since they are buying so many things from us, they just – 
+many of them more and more are just doing what you know as "Oracle first." 
+
+If we have it, they'll buy it from us. They can't afford to be putting all of these little pieces together from dozens and 
+dozens of vendors. We do it better. We spend more on R&D than anybody else does, and we make it our business and 
+our job to make sure these things work together so that customers don't have to figure out how to do it themselves. 
+
+This is both sort of intuitively appealing and obvious to our customers, who, otherwise, have to run very, very complex 
+systems, and that's why our deals – so we had no mega deals in the quarter or anything like that, but just deals are 
+getting a little bit bigger, a little bit more products in every case, and as they buy from us, we're obviously taking share 
+from everybody else. So in this environment, as you can see, we're doing just magnificently, and that's because 
+customers are just buying it from us, and buying more. 
+
+<Q - Jason Maynard>: Okay. Cool. See you Sunday. 
+
+Operator 
+
+And our next question comes from John DiFucci with JPMorgan. 
+
+<Q - John DiFucci>: Thank you. Just first of all, welcome aboard, Mark. Glad to see you here. But I have a question 
+for Safra. 
+
+Safra, as Jason said, this was a really strong quarter and very clean across all of the geographies. But I actually have a 
+question on Europe, and not so much regarding Oracle, your comments about company-specific momentum seems to 
+ring true at least historically and leading up into this quarter. But especially things that are happening in Europe, and in 
+Europe, it seems to me, anyway, that there is a much greater percentage of IT spending that comes from government 
+spending, whether it's direct or indirect through healthcare or however it is done. And I'm just curious what you are 
+seeing in this region and I'm not just – the apps license number was down year-over-year, but that is not different from 
+what we are seeing from other companies, so I'm not ticking on that at all. But I'm just trying to – we cover a lot of 
+companies, right? Jason was trying to get to that. But what are you seeing in that region? And how – how does – how 
+did that effect your guidance this quarter? 
+
+<A - Safra A. Catz, President>: Well, you know, the truth is, a number of the governments have been struggling for a 
+number of quarters, and as you know, we sell to governments, but for us, you know, Europe, Middle East, and Africa is 
+a lot of countries. There's a lot of potential there for us, and our overall license in constant currency was 18% growth, 
+which, you know, I think most folks would have thought was impossible, and yet, you know, what is really happening 
+is the same momentum we have in other geographies. 
+
+We have -- it is true some of these governments are struggling, and that if they weren't, we would sell even more? 
+Absolutely, of course. But as it is, we have so many products, and so much, still, opportunity, and I'll tell you in 
+addition, I think our competitors are absolutely falling out of bed. 
+
+So as a result, we are – we are both the safe choice, and we are the obvious choice, and to the extent that they have got 
+
+– you know that they have budget, they use it with us, and secondly – the truth of the matter is, these companies cannot 
+just stop, and these governments cannot just stop buying our software. They need it. They use it, and they ultimately 
+
+have to go ahead and buy it, and they are doing that. 
+
+So it's true, you know, 18% growth in this kind of a quarter in the summer in Europe, you know, I would say that's 
+pretty darn good, and, you know, we expect – and, you know, actually Europe, even the apps number you mentioned, 
+they actually had a very tough compare compared to everybody else. And all around, I expect some very reasonable 
+numbers, very good numbers out of Europe. 
+
+<A - Lawrence J. Ellison, Chief Executive Officer>: If I can comment about the European apps number. We have 
+been tracking – we track our apps business especially in Europe as a percentage of SAP, because SAP is stronger in 
+Europe than they are anyplace else in the world. And clearly certain countries, like Germany, Switzerland, Austria, they 
+have a virtual monopoly, closing in on 100% share in those countries which makes it very difficult. We're up to about 
+50% of the size of SAP in Europe now in applications. And that's the toughest market, and we're -- you know, and we 
+are bigger than they are in North America, for example, which is our – kind of our home territory. So we think things 
+are going, you know, pretty well in applications in Europe. 
+
+Albeit, you know, it can be a bit lumpy, you know, Q1 is our smallest license quarter, and, you know, you point out that 
+this is, you know, the one deal – you know, we have gotten this one deal closed the first day of this quarter, or, you 
+know, Q1 apps would have looked a lot better in Europe. But we think overall, over the last four quarters, we have 
+done very well in Europe against SAP, taking share from SAP in their home markets. We have a number of deals, 
+especially in the verticals, which I think, you know, Mark rightly emphasizes. 
+
+We are a large software company, and we have a lot of software that's industry specific for retail, for 
+telecommunications. You know, we're winning all of the retail deals in Germany, against SAP, all of them. I'm going to 
+repeat that, 100% of them. So, you know, we're – we're very happy on – on how things are going overall looking back 
+over the last four quarters with our most important software competitor in Europe which is SAP. 
+
+<Q - John DiFucci>: Thank you. 
+
+Operator 
+
+And we'll take our next question from Kash Rangan with Merrill Lynch. 
+
+<Q - Kash Rangan>: Thank you very much, Larry it was good to see you talk about the goals of doubling for the 
+hardware business. I'm wondering if you could just give us a little bit more color how should we think about this? To 
+keep the – to double the revenue and get the margins up to 55, 60% almost seems like you are going to be out of the 
+low-end business. Looks like it is almost as big as the IBM mainframe business that you're looking to create or maybe 
+potentially larger than that. How do you create that position given where Sun has been operating, and if we have time 
+for Mark, what would be your key priorities as you step into Oracle? That's it from me, thanks. 
+
+<A - Lawrence J. Ellison, Chief Executive Officer>: I'll make some opening comments and then I'll turn it over to 
+Mark, but I think the big thing is these engineered systems, Exadata being one example. Another – we'll be announcing 
+some more systems at Oracle OpenWorld, the ZFS storage appliance. We have to – we have to have product – you 
+know, products that offer unique value in the marketplace, like IBM mainframes. I mean, IBM offers unique value with 
+those products. Those mainframes run software that doesn't run on other computers so it's kind of a unique value 
+proposition. 
+
+With Exadata we have got to run the Oracle database 10 times faster than on any other kind of machine, and we do that. 
+And with other things, we have to have very substantial performance advantages, reliability advantages, security 
+advantages and cost advantages to go out and compete, but if we have those advantages, we have highly differentiated 
+engineered products that combine hardware and software, we think we can improve our margins, and grow our share 
+dramatically, rather than mucking around, kind of – you know, trying to tell a low-end server on price against Dell. 
+We're partnering with Dell. We think Dell is a great company and we love partnering with them, but we don't want to 
+compete in that space. They are very good at that. Mark? 
+
+
+<A - Mark Hurd, President>: Sure. I'll just add that from a priority perspective, first, this is a very well-run company. 
+We want to grow and we want to grow profitably. We want to take share, want to be in a position where we can delight 
+our customers and earn more of their spending, and that's my priority. You know, when you look at the R&D and the 
+things that we will be announcing next week, we want to have the best sales force on the planet, win customers' respect 
+every day and we want to deliver the best service on the planet. And those are the things I'm working on. 
+
+Operator 
+
+And ladies and gentlemen we have time for one more question, we'll take that question from Phil Winslow with Credit 
+Suisse. 
+
+<Q - Philip Winslow>: Thank you. Really impressive quarter, guys. I've just got two questions, first one is for Safra. 
+Obviously we talked a little bit about the applications rebound and while database is driving away and overall license 
+growth, when you look at the apps business, what is really driving it there? Are we talking about core ERP seeing a 
+rebound, or is it still these edge applications where you are getting attraction? 
+
+And also, Larry, just as a follow-up here on database, obviously doing phenomenally well, but we have seen some 
+competitive announcements in the database market with SAP buying Sybase talk about in-memory, EMC buying 
+Greenplum, just curious your take on those? Thanks. 
+
+<A - Safra A. Catz, President>: Well, listen, for us even – you know, even ERP – with – remember, with us, our 
+numbers are so big that we've still got to sell ERP every quarter to do well, but the edge applications are doing very, 
+very, very well also, and it's going very well all around, as far as big ERP wins, you know, a lot of people are not 
+necessarily changing their ERP system, but they are buying more for their current systems. They are buying additional 
+modules into their systems, and for us, it's really all around going – you know, going really quite well. Performance 
+management is doing quite well, things like that. So it's really – it's the edge applications, and, you know, the basic 
+business remains solid. 
+
+<A - Lawrence J. Ellison, Chief Executive Officer>: In terms of database technology announcements Greenplum, 
+SAP, in-memory, and those things, you know, we're pretty good at this database side, and I – I was – I guess the word 
+might – was used was dismissive of SAP's in-memory database, and SAP took that and Hasso Plattner did a movie 
+where he interviewed himself. If you haven't seen it, it's on SAP's website, it's really worth watching. And he 
+interviews himself. He plays two characters, and he talks about the SAP in-memory database. Now, I never said we 
+didn't believe in in-memory databases. I said I thought it was peculiar that SAP would choose to compete with us in the 
+arena of database technology. 
+
+I mean, they compete with us in ERP, and they got there first. They were ahead of us and they have done quite well, 
+and they are the leaders there, but to compete with us in database just seemed like a peculiar choice, especially if you 
+can remember NetWeaver, their attempt to compete in middleware. So they tried to compete with us in middleware, 
+were not very successful and they hardly ever talk about NetWeaver, so after a failure in middleware, for them to 
+immediately move on to, well, let's go tackle them in database, with a two-prong strategy, let's buy Sybase, which does 
+not run SAP, and then let's build an in-memory database technology, kind of trumping Oracle in R&D and getting to 
+market before them. 
+
+Let me announce today – I'll make the announcement now, that Oracle has had under development for some time, an 
+in-memory that is a part of the Oracle database, and we will deliver that to the market before SAP delivers theirs. So 
+we'll be out in the market with our technology – you know, this is not radically new technology. There are a number of 
+university projects, there are tons of research papers. We have been following this for a very, very long time. We don't 
+live under a rock. We have been working on this for a very, very long time and we'll deliver our product well in 
+advance of their product. 
+
+Now I believe that Oracle will do a better job of delivering in-memory database technology, which is primarily the 
+query optimization, and it's based on a variety of different kinds of compression -- it's basically hybrid columnar 
+
+
+compression. I'm not going to go into what the technology is, but we have been working on it for a long time. We'll be 
+in the market before SAP, and I believe, just like we beat them badly in middleware, where Fusion Middleware beat 
+NetWeaver, they had even less of a chance to beat us in database technology than they had to beat us in middleware 
+technology. I just think that was a colossal mistake to take us on in middleware. It's a bigger mistake to take us on in 
+database, and in the meantime, they have got this all-new product called Business By Design, which is aimed at 
+companies of 4 people – between 4 and 100 people or something like that, which is floundering horribly, and they have 
+done nothing new in their core ERP business for 25 years. They still built in Ada. 
+
+This, I guess, will come as a surprise to nobody. After five years of development, next week at Oracle OpenWorld, we 
+will be announcing our Fusion Application Suite, all of the ERP products, all of the CRM products, all the HRMS 
+products have been redone 100% in Java, all with integrated, you know, social networking, web 2.0 interface, 
+integrated brand new stuff from the ground up, and SAP is going to go and compete with us using their 25-year old 
+technology. And so rather than focusing on their applications and upgrading their applications like we did with Fusion, 
+they said, Oh no, I have a better idea, you have got to watch the video where Hasso interviews Hasso, it's called "Hasso 
+on Hasso," or something like that. You have got to watch it. 
+
+Instead of competing with us in applications and modernizing their applications, they say, oh, no, let's go kill Oracle in 
+database technology. Good luck. 
+
+<A - Ken Bond, Vice President, Investor Relations>: Operator? 
+
+Operator 
+
+Ladies and gentlemen, that does conclude our question-and-answer session. I'll turn the conference back to our 
+speakers for any closing remarks they may have. 
+
+Ken Bond, Vice President, Investor Relations 
+
+Thank you, Ruthie. A telephonic replay of this conference call will be available for 24 hours. The replay number is 
+888-203-1112, or 719-457-0820, and the pass code for both numbers is 4210287. 
+
+Also a webcast replay will be available through the close of market on September 23rd, and can be found on the 
+investor relations website. Please call the investor relations department with any follow-up questions from this call, and 
+we look forward to speaking with you. Thank you all for joining us on today's conference call and with that, I will now 
+turn the call back to the operator for closing. 
+
+Operator 
+
+And once again, ladies and gentlemen, this does conclude our conference. We appreciate your participation. 
+
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript 
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript 
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall 
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential, 
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the 
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities 
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP. 
+
+© COPYRIGHT 2010, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is 
+expressly prohibited. 
+
+
