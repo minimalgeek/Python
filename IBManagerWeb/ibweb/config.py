@@ -18,6 +18,10 @@ mongo = {
     'tickers_collection': 'tickers'
 }
 
+options = {
+    'ticker_filter_group': 'NASDAQ'
+}
+
 client = None
 db = None
 transcript_collection: Collection = None

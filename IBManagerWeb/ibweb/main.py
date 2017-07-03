@@ -65,7 +65,8 @@ def strategy():
         # strat.signals.put(Sell('ATK', 40))
         signals = list(get_strategy().signals.queue)
         tickers_to_filter_by = [row['ticker']
-                                for row in list(cfg.tickers_collection.find({'group': 'NASDAQ'}))]
+                                for row in
+                                list(cfg.tickers_collection.find({'group': cfg.options['ticker_filter_group']}))]
         dates_and_transcripts = dataloader.load_transcripts_and_zacks_list(filter_list=tickers_to_filter_by)
     else:
         data = request.form.to_dict()
