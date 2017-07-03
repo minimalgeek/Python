@@ -4,8 +4,8 @@ from datetime import datetime
 from .AdvancedSpider import AdvancedSpider
 from datetime import timedelta, datetime
 
-class EarningsTranscriptSpiderTop(AdvancedSpider):
 
+class EarningsTranscriptSpiderTop(AdvancedSpider):
     name = "EarningsTranscriptTop"
     allowed_domains = ["seekingalpha.com"]
     article_url_base = 'https://seekingalpha.com'
@@ -13,13 +13,15 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
         'ITEM_PIPELINES': {
             'Scrapy.pipelines.MongoPipeline': 100,
         },
-        'MODE': 'ZACKS', # ZACKS, SINGLE, FILE
+        'MODE': 'ZACKS',  # ZACKS, SINGLE, FILE
         'MONGO_COLLECTION': 'earnings_transcript',
         'DOWNLOAD_DELAY': 3,
         'CONCURRENT_REQUESTS': 5,
         'ZACKS_MONGO_COLLECTION': 'zacks_earnings_call_dates',
         'ZACKS_DAY_LOOKBACK': 10,
-        'TICKER': 'ADI'
+        'TICKER': 'ADI',
+        'TICKERS_COLLECTION': 'tickers',
+        'TICKERS_GROUP': 'NASDAQ'
     }
     top_elements = 2
 
@@ -28,7 +30,7 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
 
         for ticker in tickers:
             urlroot = 'http://seekingalpha.com/symbol/' + \
-                ticker['Symbol'] + '/earnings/more_transcripts?page=1'
+                      ticker['Symbol'] + '/earnings/more_transcripts?page=1'
             yield scrapy.Request(urlroot, self.parse,
                                  meta={'urlroot': urlroot, 'ticker': ticker['Symbol']})
 
@@ -42,7 +44,14 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
             today_minus_x = today - timedelta(days=self.settings.getint('ZACKS_DAY_LOOKBACK'))
             dates = zacks_collection.find({'nextReportDate': {'$lte': today, '$gte': today_minus_x}})
             dates = list(dates)
-            tickers = [{'Symbol':data['ticker']} for data in dates]
+
+            tickers_collection = self.db.get_collection(self.settings.get('TICKERS_COLLECTION'))
+            filtered_tickers = [row['ticker'] for row in
+                                tickers_collection.find({'group': self.settings.get('TICKERS_GROUP')})]
+            self.log('Tickers in {} group: {}'.format(self.settings.get('TICKERS_GROUP'), str(filtered_tickers)))
+
+            tickers = [{'Symbol': data['ticker']} for data in dates if data['ticker'] in filtered_tickers]
+            self.log('Final tickers: ' + str(tickers))
         elif mode == 'FILE':
             self.log('Open tickers from JSON file')
             tickers = json.loads(open('tickers_lists/NAS_ALL.json', encoding='utf-8').read())
@@ -77,4 +86,4 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
             'rawText': ' '.join(map(str, response.css('div.sa-art p *::text').extract())),
             'qAndAText': ' '.join(
                 map(str, response.css('div.sa-art #question-answer-session~ p *::text').extract()))
-            }
+        }
