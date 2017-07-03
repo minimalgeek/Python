@@ -11,11 +11,11 @@ logging.basicConfig(level=logging.INFO,
 logger = logging.getLogger(__name__)
 
 mongo = {
-    'host': 'localhost',
-    # 'host': '192.168.137.62',
+    #'host': 'localhost',
+    'host': '192.168.137.62',
     'port': 27017,
-    'db': 'python_import',
-    #'db': 'insider',
+    #'db': 'python_import',
+    'db': 'insider',
     'tickers_collection': 'tickers'
 }
 
@@ -47,7 +47,7 @@ def save_tickers(group_name: str, file_name: str):
 def main():
     logger.info('>>> MAIN <<<')
     init_database()
-    save_tickers('NASDAQ', 'NAS_ALL.json')
+    save_tickers('NASDAQ', 'NAS100.json')
 
 
 if __name__ == '__main__':

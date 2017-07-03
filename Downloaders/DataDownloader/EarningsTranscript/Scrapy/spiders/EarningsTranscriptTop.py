@@ -18,7 +18,7 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
         'DOWNLOAD_DELAY': 3,
         'CONCURRENT_REQUESTS': 5,
         'ZACKS_MONGO_COLLECTION': 'zacks_earnings_call_dates',
-        'ZACKS_DAY_LOOKBACK': 5,
+        'ZACKS_DAY_LOOKBACK': 10,
         'TICKER': 'ADI'
     }
     top_elements = 2
