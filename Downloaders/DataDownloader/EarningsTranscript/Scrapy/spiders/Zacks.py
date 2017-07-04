@@ -27,7 +27,7 @@ class ZacksSpider(scrapy.Spider):
             tickers = [{'Symbol': row['ticker']}
                        for row in
                        list(tickers_collection.find({'group': self.settings.get('TICKERS_GROUP')}))]
-            self.log('Download latest earnings call dates for {}'.format(tickers))
+            
         elif mode == 'FILE':
             tickers = json.loads(open('tickers_lists/US.json', encoding='utf-8').read())
 
