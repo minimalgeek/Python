@@ -13,22 +13,29 @@ class ZacksSpider(scrapy.Spider):
         },
         'MONGO_COLLECTION': 'zacks_earnings_call_dates',
         'DOWNLOAD_DELAY': 1,
+        'MODE': 'ZACKS',  # ZACKS, FILE
         'TICKERS_COLLECTION': 'tickers',
         'TICKERS_GROUP': 'NASDAQ'
     }
 
     def start_requests(self):
-        # tickers = json.loads(open('tickers_lists/US.json', encoding='utf-8').read())
+        mode = self.settings.get('MODE')
+        tickers = None
+        if mode == 'ZACKS':
+            self.connect_to_db()
+            tickers_collection = self.db.get_collection(self.settings.get('TICKERS_COLLECTION'))
+            tickers = [{'Symbol': row['ticker']}
+                       for row in
+                       list(tickers_collection.find({'group': self.settings.get('TICKERS_GROUP')}))]
+            self.log('Download latest earnings call dates for {}'.format(tickers))
+        elif mode == 'FILE':
+            tickers = json.loads(open('tickers_lists/US.json', encoding='utf-8').read())
 
-        self.connect_to_db()
-        tickers_collection = self.db.get_collection(self.settings.get('TICKERS_COLLECTION'))
-        tickers = [{'Symbol': row['ticker']}
-                   for row in
-                   list(tickers_collection.find({'group': self.settings.get('TICKERS_GROUP')}))]
-        self.log('Download latest earnings call dates for {}'.format(tickers))
-        for ticker in tickers:
-            yield scrapy.Request('https://www.zacks.com/stock/quote/' + ticker['Symbol'],
-                                 meta={'ticker': ticker['Symbol']})
+        if tickers:
+            self.log('Download latest earnings call dates for {}'.format(tickers))
+            for ticker in tickers:
+                yield scrapy.Request('https://www.zacks.com/stock/quote/' + ticker['Symbol'],
+                                     meta={'ticker': ticker['Symbol']})
 
     def parse(self, response):
         anchor = response.css('.spl_sup_text+ a::text').extract_first()
@@ -50,6 +57,5 @@ class ZacksSpider(scrapy.Spider):
     def connect_to_db(self):
         mongo_uri = self.settings.get('MONGO_URI')
         mongo_db = self.settings.get('MONGO_DATABASE')
-        collection = self.settings.get('MONGO_COLLECTION')
         self.client = pymongo.MongoClient(mongo_uri)
         self.db = self.client.get_database(mongo_db)

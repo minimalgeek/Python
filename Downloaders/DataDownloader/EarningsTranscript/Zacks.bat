@@ -1,1 +1,1 @@
-scrapy crawl Zacks
+scrapy crawl Zacks -s MODE=FILE
