@@ -13,7 +13,7 @@ class ZacksSpider(scrapy.Spider):
         },
         'MONGO_COLLECTION': 'zacks_earnings_call_dates',
         'DOWNLOAD_DELAY': 1,
-        'MODE': 'ZACKS',  # ZACKS, FILE
+        'MODE': 'DB',  # DB, FILE
         'TICKERS_COLLECTION': 'tickers',
         'TICKERS_GROUP': 'NASDAQ'
     }
@@ -21,7 +21,7 @@ class ZacksSpider(scrapy.Spider):
     def start_requests(self):
         mode = self.settings.get('MODE')
         tickers = None
-        if mode == 'ZACKS':
+        if mode == 'DB':
             self.connect_to_db()
             tickers_collection = self.db.get_collection(self.settings.get('TICKERS_COLLECTION'))
             tickers = [{'Symbol': row['ticker']}
