@@ -9,22 +9,8 @@ from pymongo.collection import Collection
 PROJECT_ROOT = os.path.dirname(__file__)
 OTP_ROOT = os.path.abspath(os.path.join(PROJECT_ROOT, '..', '..'))
 
-mongo = {
-    'host': 'localhost',
-    #'host': '192.168.137.62',
-    'port': 27017,
-    'db': 'python_import',
-    #'db': 'insider',
-    'transcript_collection': 'earnings_transcript',
-    # 'transcript_collection': 'earnings_call_Nas100_Broad_Manual_Update',
-    'zacks_collection': 'zacks_earnings_call_dates',
-    'tickers_collection': 'tickers'
-}
-
-options = {
-    'ticker_filter_group': 'NASDAQ'
-}
-
+options = None
+mongo = None
 client = None
 db = None
 transcript_collection: Collection = None
@@ -39,7 +25,7 @@ def init_database():
     transcript_collection = db.get_collection(mongo['transcript_collection'])
     zacks_collection = db.get_collection(mongo['zacks_collection'])
     tickers_collection = db.get_collection(mongo['tickers_collection'])
-    logging.getLogger().info('Database initialized')
+    logging.getLogger(__name__).info('Database initialized')
 
 
 def init_logging(default_path='../logging.json', default_level=logging.INFO):
@@ -56,5 +42,36 @@ def init_logging(default_path='../logging.json', default_level=logging.INFO):
     logging.getLogger(__name__).info('Logging initialized')
 
 
+def init_options():
+    global mongo, options
+    if 'MONGO_CONF' not in os.environ:
+        logging.getLogger(__name__).error("Please provide the 'MONGO_CONF' environment variable ('local' or 'remote')")
+    else:
+        MONGO = os.environ['MONGO_CONF']
+    if MONGO == 'local':
+        mongo = {
+            'host': 'localhost',
+            'port': 27017,
+            'db': 'python_import',
+            'transcript_collection': 'earnings_transcript',
+            'zacks_collection': 'zacks_earnings_call_dates',
+            'tickers_collection': 'tickers'
+        }
+    elif MONGO == 'remote':
+        mongo = {
+            'host': '192.168.137.62',
+            'port': 27017,
+            'db': 'insider',
+            'transcript_collection': 'earnings_call_Nas100_Broad_Manual_Update',
+            'zacks_collection': 'zacks_earnings_call_dates',
+            'tickers_collection': 'tickers'
+        }
+
+    options = {
+        'ticker_filter_group': 'NASDAQ'
+    }
+
+
 init_logging()
+init_options()
 init_database()
