@@ -12,9 +12,19 @@
         <button type="submit">Run selected</button>
     </form>
 </div>
+<script>
+function focusOnElement(element_id) {
+    location.href = "#";
+    location.href = "#" + element_id;
+}
 
+
+</script>
 <div class="panel">
-    <h1>Previous and current transcripts</h1>
+    <div class="header-with-buttons">
+        <h1>Previous and current transcripts</h1>
+        <button onclick="focusOnElement('recent');">Scroll to recent tickers</button>
+    </div>
     <table id="trs_table">
         <thead>
         <tr class="separated">
@@ -34,11 +44,17 @@
         </thead>
         <tbody>
         {% for tr in dates %}
+        {% if tr['recent'] %}
+        <tr id="recent">
+            {% else %}
         <tr>
+            {% endif %}
             <td>{{ tr['ticker'] }}</td>
             {% if tr['previous_transcript'] %}
             <td>{{ tr['previous_transcript']['publishDate'] }}</td>
-            <td>{{ tr['previous_transcript']['h_tone']['positiveCount'] }}/{{ tr['previous_transcript']['h_tone']['negativeCount'] }} = <b>{{ tr['previous_transcript']['ratio'] }}</b></td>
+            <td>{{ tr['previous_transcript']['h_tone']['positiveCount'] }}/{{
+                tr['previous_transcript']['h_tone']['negativeCount'] }} = <b>{{ tr['previous_transcript']['ratio']
+                    }}</b></td>
             {% else %}
             <td/>
             <td/>
@@ -46,7 +62,9 @@
             <td>{{ tr['nextReportDate'] }}</td>
             {% if tr['current_transcript'] %}
             <td>{{ tr['current_transcript']['publishDate'] }}</td>
-            <td>{{ tr['current_transcript']['h_tone']['positiveCount'] }}/{{ tr['current_transcript']['h_tone']['negativeCount'] }} = <b>{{ tr['current_transcript']['ratio'] }}</b></td>
+            <td>{{ tr['current_transcript']['h_tone']['positiveCount'] }}/{{
+                tr['current_transcript']['h_tone']['negativeCount'] }} = <b>{{ tr['current_transcript']['ratio'] }}</b>
+            </td>
             {% else %}
             <td/>
             <td/>

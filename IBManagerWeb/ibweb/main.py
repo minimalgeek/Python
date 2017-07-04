@@ -12,6 +12,7 @@ logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
 manager = None
+strategy = None
 
 
 def get_manager() -> IBManager:
@@ -23,12 +24,6 @@ def get_manager() -> IBManager:
                     manager.serverVersion(),
                     manager.twsConnectionTime())
     return manager
-
-
-def get_strategy() -> Strategy:
-    if hasattr(g, 'strategy'):
-        return g.strategy
-    return None
 
 
 @app.route('/', methods=['GET', 'POST'])
@@ -55,28 +50,29 @@ def index():
 
 @app.route('/strategy', methods=['GET', 'POST'])
 def strategy():
+    global strategy
     logger.info('Strategy route entry')
-    signals = Queue()
-    dates_and_transcripts = []
+    signals = []
+    tickers_to_filter_by = [row['ticker']
+                            for row in
+                            list(cfg.tickers_collection.find({'group': cfg.options['ticker_filter_group']}))]
+    dates_and_transcripts = dataloader.load_transcripts_and_zacks_list(filter_list=tickers_to_filter_by)
     if request.method == 'GET':
-        g.strategy = strategy_runner.run_strategy(get_manager())
+        strategy = strategy_runner.run_strategy(get_manager())
         # strat = Strategy01()
         # strat.signals.put(Buy('NVDA', 20))
         # strat.signals.put(Sell('ATK', 40))
-        signals = list(get_strategy().signals.queue)
-        tickers_to_filter_by = [row['ticker']
-                                for row in
-                                list(cfg.tickers_collection.find({'group': cfg.options['ticker_filter_group']}))]
-        dates_and_transcripts = dataloader.load_transcripts_and_zacks_list(filter_list=tickers_to_filter_by)
+        signals = list(strategy.signals.queue)
     else:
         data = request.form.to_dict()
+        accepted_signals = Queue()
         for key, value in data.items():
             if value == 'on':
-                for old_signal in list(get_strategy().signals.queue):
+                for old_signal in list(strategy.signals.queue):
                     if old_signal.id == int(key):
-                        signals.put(old_signal)
+                        accepted_signals.put(old_signal)
 
-        get_manager().process_signals(signals)
+        get_manager().process_signals(accepted_signals)
     return render_template('strategy.html',
                            signals=signals,
                            dates=dates_and_transcripts,

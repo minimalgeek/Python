@@ -10,13 +10,13 @@ PROJECT_ROOT = os.path.dirname(__file__)
 OTP_ROOT = os.path.abspath(os.path.join(PROJECT_ROOT, '..', '..'))
 
 mongo = {
-    # 'host': 'localhost',
-    'host': '192.168.137.62',
+    'host': 'localhost',
+    #'host': '192.168.137.62',
     'port': 27017,
-    # 'db': 'python_import',
-    'db': 'insider',
-    # 'transcript_collection': 'earnings_transcript',
-    'transcript_collection': 'earnings_call_Nas100_Broad_Manual_Update',
+    'db': 'python_import',
+    #'db': 'insider',
+    'transcript_collection': 'earnings_transcript',
+    # 'transcript_collection': 'earnings_call_Nas100_Broad_Manual_Update',
     'zacks_collection': 'zacks_earnings_call_dates',
     'tickers_collection': 'tickers'
 }

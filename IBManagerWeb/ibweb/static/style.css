@@ -8,8 +8,39 @@ body {
 }
 
 button {
-    font-size: 1.5em;
-    color: #555;
+    position: relative;
+    background-color: #4CAF50;
+    border: none;
+    font-size: 1.2em;
+    color: #FFFFFF;
+    padding: 5px;
+    width: 150px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+button:after {
+    content: "";
+    background: #f1f1f1;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
 }
 
 h1,h2,h3,h4 {
@@ -106,4 +137,17 @@ tbody tr:hover {
 .separated th {
     border-right: 1px solid #C8C8C8;
     text-align: center;
+}
+
+.header-with-buttons {
+    width: 100%;
+}
+
+.header-with-buttons > *{
+    display: inline-block;
+}
+
+.header-with-buttons button {
+    float: right;
+    margin: 20px;
 }

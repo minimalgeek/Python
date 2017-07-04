@@ -81,7 +81,7 @@ def load_all_next_zacks_date_filtered(filter_list=None):
 
 def load_transcripts_and_zacks_list(day_limit=10, filter_list=None):
     zacks_list = load_all_next_zacks_date_filtered(filter_list)
-
+    recent_found = False
     for zacks_date in zacks_list:
         ticker = zacks_date['ticker']
         current_transcript = cfg.transcript_collection.find_one({
@@ -95,6 +95,9 @@ def load_transcripts_and_zacks_list(day_limit=10, filter_list=None):
 
         zacks_date['current_transcript'] = current_transcript
         zacks_date['previous_transcript'] = previous_transcript
+        if not recent_found and zacks_date['nextReportDate'] < datetime.now():
+            zacks_date['recent'] = True
+            recent_found = True
 
     return zacks_list
 
