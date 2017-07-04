@@ -38,13 +38,15 @@ def load_all_next_zacks_date():
     :return: List of tickers with a date
     """
     pipeline = [
-        {
-            '$match': {
-                'nextReportDate': {
-                    '$lt': datetime.now() + timedelta(days=3)
-                }
-            }
-        },
+#==============================================================================
+#         {
+#             '$match': {
+#                 'nextReportDate': {
+#                     '$lt': datetime.now() + timedelta(days=3)
+#                 }
+#             }
+#         },
+#==============================================================================
         {
             '$group': {
                 '_id': "$ticker",
