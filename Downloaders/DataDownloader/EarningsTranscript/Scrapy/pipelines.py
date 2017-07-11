@@ -69,7 +69,7 @@ class ZacksMongoPipeline(MongoPipeline):
         super().__init__(mongo_uri, mongo_db, collection)
 
     def process_item(self, item, spider):
-        if item['nextReportDate'] < datetime.now() - timedelta(days=1):
+        if item['nextReportDate'] < datetime.now():
             spider.log(">>>>> Invalid item, or next report date is today: {}".format(item['ticker']), level=logging.ERROR)
             return {'msg': 'Invalid',
                     'data': item}
