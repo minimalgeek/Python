@@ -1,11 +1,13 @@
+import logging
 import pymongo
 import scrapy
 import json
 import re
+from .AdvancedSpider import AdvancedSpider
 from datetime import datetime
 
 
-class ZacksSpider(scrapy.Spider):
+class ZacksSpider(AdvancedSpider):
     name = "Zacks"
     allowed_domains = ["zacks.com"]
     custom_settings = {
@@ -23,7 +25,7 @@ class ZacksSpider(scrapy.Spider):
         mode = self.settings.get('MODE')
         tickers = None
         if mode == 'DB':
-            self.connect_to_db()
+            self.connect_to_db(init_collection=False)
             tickers_collection = self.db.get_collection(self.settings.get('TICKERS_COLLECTION'))
             tickers = [{'Symbol': row['ticker']}
                        for row in
@@ -40,9 +42,9 @@ class ZacksSpider(scrapy.Spider):
 
     def parse(self, response):
         anchor = response.css('#stock_key_earnings tr:nth-child(5) .alpha+ td::text').extract_first()
+        ticker = response.meta['ticker']
         if anchor is not None:
             date_str_array = re.findall("[-+]?\d+[\.]?\d*[eE]?[-+]?\d*", anchor)
-            ticker = response.meta['ticker']
             next_report_date = datetime(int('20' + date_str_array[2]),
                                         int(date_str_array[0]),
                                         int(date_str_array[1]))
@@ -54,9 +56,5 @@ class ZacksSpider(scrapy.Spider):
                 'nextReportDate': next_report_date,
                 'amiNextReportDate': ami_report_date
             }
-
-    def connect_to_db(self):
-        mongo_uri = self.settings.get('MONGO_URI')
-        mongo_db = self.settings.get('MONGO_DATABASE')
-        self.client = pymongo.MongoClient(mongo_uri)
-        self.db = self.client.get_database(mongo_db)
+        else:
+            self.log('Next report date was not found on the page: {}'.format(ticker), logging.ERROR)
