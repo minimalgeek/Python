@@ -4,7 +4,7 @@
 #
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
-
+import logging
 import scrapy
 from datetime import datetime, timedelta
 import pymongo
@@ -69,7 +69,10 @@ class ZacksMongoPipeline(MongoPipeline):
         super().__init__(mongo_uri, mongo_db, collection)
 
     def process_item(self, item, spider):
-
+        if item['nextReportDate'] < datetime.now() - timedelta(days=1):
+            spider.log(">>>>> Invalid item, or next report date is today: {}".format(item['ticker']), level=logging.ERROR)
+            return {'msg': 'Invalid',
+                    'data': item}
         # change handling by latest inserted fields for the ticker
         all_for_ticker = self.db[self.collection].find(
             {'ticker': item['ticker']})
