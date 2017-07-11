@@ -1,6 +1,7 @@
 import pymongo
 import scrapy
 import json
+import re
 from datetime import datetime
 
 
@@ -38,9 +39,9 @@ class ZacksSpider(scrapy.Spider):
                                      meta={'ticker': ticker['Symbol']})
 
     def parse(self, response):
-        anchor = response.css('.spl_sup_text+ a::text').extract_first()
+        anchor = response.css('#stock_key_earnings tr:nth-child(5) .alpha+ td::text').extract_first()
         if anchor is not None:
-            date_str_array = anchor.split('/')
+            date_str_array = re.findall("[-+]?\d+[\.]?\d*[eE]?[-+]?\d*", anchor)
             ticker = response.meta['ticker']
             next_report_date = datetime(int('20' + date_str_array[2]),
                                         int(date_str_array[0]),
