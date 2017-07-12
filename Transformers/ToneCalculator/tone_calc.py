@@ -33,7 +33,7 @@ class ToneCalc(object):
         self.afinn = afinn
 
     def tokenize_simple(self, doc):
-        return [str(tok).lower() for tok in doc]
+        return [tok.orth_.lower() for tok in doc]
 
     def tokenize_lemma(self, doc):
         return [tok.lemma_ for tok in doc if
