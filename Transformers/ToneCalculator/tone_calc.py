@@ -1,8 +1,8 @@
-from datetime import datetime, timedelta
+from datetime import datetime
+from spacy.en import English
 import pymongo
 import pandas as pd
 import os.path
-from nltk import word_tokenize
 import logging
 import sys
 
@@ -11,55 +11,84 @@ class ToneCalc(object):
     def __init__(self,
                  url='mongodb://localhost:27017',
                  db='python_import',
-                 collection='earnings_transcript_bloomberg'):
+                 collection='earnings_transcript'):
         self.client = pymongo.MongoClient(url)
         self.db = self.client[db]
         self.collection = self.db[collection]
-        self.initialize_positive_negative_words()
+        self.nlp = English()
+        self.initialize_dictionaries()
 
-    def initialize_positive_negative_words(self):
+    def initialize_dictionaries(self):
         scriptpath = os.path.dirname(__file__)
-        filename = os.path.join(scriptpath, 'henry_wordlist.xlsx')
-        henry_words = pd.read_excel(open(filename, 'rb'), sheetname=0)
-        self.positive = henry_words[henry_words['Positive tone'] == 1]['Word'].str.lower()
-        self.negative = henry_words[henry_words['Negative tone'] == 1]['Word'].str.lower()
 
-    def get_words(self, transcript, prop):
-        if prop in transcript and transcript[prop] is not None:
-            return word_tokenize(transcript[prop])
+        filename = os.path.join(scriptpath, 'words/henry_wordlist.xlsx')
+        henry = pd.read_excel(filename)
+        henry['Word'] = henry['Word'].str.lower()
+        henry.reset_index()
+        self.henry = henry
+
+        filename = os.path.join(scriptpath, 'words/AFINN-111.txt')
+        afinn = pd.read_csv(filepath_or_buffer=filename, sep='\t', header=None)
+        afinn.rename(index=str, columns={0: "Word", 1: "Score"}, inplace=True)
+        self.afinn = afinn
+
+    def tokenize_simple(self, doc):
+        return [str(tok).lower() for tok in doc]
+
+    def tokenize_lemma(self, doc):
+        return [tok.lemma_ for tok in doc if
+                tok.pos_ in ["NOUN", "PROPN", "ADJ", "VERB"] and not tok.lemma_ == '-PRON-']
+
+    def get_words(self, text):
+        if text:
+            doc = self.nlp(text)
+            return self.tokenize_simple(doc), self.tokenize_lemma(doc)
         else:
-            return []
+            return [], []
 
-    def process_words(self, words):
-        pos_count, neg_count = 0, 0
+    def get_first_value(self, dictionary, word):
+        ser = dictionary[dictionary['Word'] == word]['Score']
+        if len(ser) > 0:
+            return ser.iloc[0]
+        return 0
+
+    def build_score_for_tokens(self, words, dictionary):
+        score_pos, score_neg = 0, 0
         for word in words:
-            if (self.negative == word.lower()).any():
-                neg_count += 1
-            elif (self.positive == word.lower()).any():
-                pos_count += 1
-        return {'positiveCount': pos_count, 'negativeCount': neg_count}
+            temp_score = self.get_first_value(dictionary, word)
+            if temp_score > 0:
+                score_pos += temp_score
+            elif temp_score < 0:
+                score_neg += temp_score
+        return score_pos, score_neg
 
-    def process_tone(self, transcript):
-        words = self.get_words(transcript, 'rawText')
-        q_and_a_words = self.get_words(transcript, 'qAndAText')
+    def process_words_with_dictionary(self, words, dictionary):
+        score_pos, score_neg = self.build_score_for_tokens(words, dictionary)
+        return {'positiveCount': int(score_pos), 'negativeCount': int(-score_neg)}
 
-        h_tone = self.process_words(words)
-        q_and_a_h_tone = self.process_words(q_and_a_words)
-        return (h_tone, q_and_a_h_tone, len(words), len(q_and_a_words))
+    def process(self, transcript):
+        tokens, lemmas = self.get_words(transcript['rawText'])
+        logging.info('{} tokens, {} lemmas'.format(len(tokens), len(lemmas)))
+        henry_tokens = self.process_words_with_dictionary(tokens, self.henry)
+        henry_lemmas = self.process_words_with_dictionary(lemmas, self.henry)
 
-    def process_all_and_save(self):
+        afinn_tokens = self.process_words_with_dictionary(tokens, self.afinn)
+        afinn_lemmas = self.process_words_with_dictionary(lemmas, self.afinn)
+
+        return len(tokens), len(lemmas), henry_tokens, henry_lemmas, afinn_tokens, afinn_lemmas
+
+    def process_transcripts_and_save(self):
 
         # transcripts = self.collection.find({'publishDate':{'$gte':datetime(2017,3,31)}})
         # transcripts = self.collection.find({'tradingSymbol':'GOOGL'}, no_cursor_timeout=True).batch_size(30)
-        transcripts = self.collection.find({'h_tone': {'$exists': False}}, no_cursor_timeout=True).batch_size(30)
+        transcripts = self.collection.find({"henry_tokens": {'$exists': False}},
+                                           no_cursor_timeout=True).batch_size(30)
 
         for transcript in transcripts:
             try:
-                if 'h_tone' in transcript:
-                    logging.info(transcript['url'] + ' already calculated')
-                    continue
-                logging.info('Processing %s', transcript['url'])
-                h_tone, q_and_a_h_tone, wordSize, qAndAWordSize = self.process_tone(transcript)
+                logging.info('>>> Processing %s', transcript['url'])
+                tokenSize, lemmaSize, henry_tokens, henry_lemmas, afinn_tokens, afinn_lemmas = \
+                    self.process(transcript)
                 if isinstance(transcript['publishDate'], str):
                     dt = datetime.strptime(transcript['publishDate'], '%Y-%m-%dT%H:%M:%SZ')
                 else:
@@ -68,15 +97,18 @@ class ToneCalc(object):
                 time_number = (dt.hour) * 10000 + (dt.minute) * 100 + (dt.second)
                 self.collection.update_one(
                     {'_id': transcript['_id']},
-                    {'$set': {'h_tone': h_tone,
-                              'q_and_a_h_tone': q_and_a_h_tone,
-                              'wordSize': wordSize,
-                              'q_and_a_wordSize': qAndAWordSize,
+                    {'$set': {'henry_tokens': henry_tokens,
+                              'henry_lemmas': henry_lemmas,
+                              'afinn_tokens': afinn_tokens,
+                              'afinn_lemmas': afinn_lemmas,
+                              'tokenSize': tokenSize,
+                              'lemmaSize': lemmaSize,
                               'date_number': date_number,
                               'time_number': time_number}})
                 logging.info(transcript['url'] + ' updated')
             except Exception as e:
                 logging.error('Unexpected exception: %s', str(e))
+
 
 if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO,
@@ -86,4 +118,4 @@ if __name__ == '__main__':
         tone_calc = ToneCalc(sys.argv[1], sys.argv[2], sys.argv[3])
     else:
         tone_calc = ToneCalc()
-    tone_calc.process_all_and_save()
+    tone_calc.process_transcripts_and_save()
