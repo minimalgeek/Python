@@ -5,18 +5,29 @@ import pandas as pd
 import os.path
 import logging
 import sys
+import ibweb.log.dblogger as log
 
 
 class ToneCalc(object):
     def __init__(self,
-                 url='mongodb://localhost:27017',
+                 host='localhost',
+                 port=27017,
                  db='python_import',
                  collection='earnings_transcript'):
-        self.client = pymongo.MongoClient(url)
+        self.client = pymongo.MongoClient(host=host, port=port)
         self.db = self.client[db]
         self.collection = self.db[collection]
         self.nlp = English()
+
+        self.initialize_logging(db, host, port)
         self.initialize_dictionaries()
+
+    def initialize_logging(self, db, host, port):
+        mongo_handler = log.MongoHandler(host=host, port=port, db=db)
+        mongo_handler.setLevel(level=logging.ERROR)
+        logging.basicConfig(level=logging.INFO, format=mongo_handler.default_formatter_str)
+        logging.getLogger().addHandler(mongo_handler)
+        self.logger = logging.getLogger(__name__)
 
     def initialize_dictionaries(self):
         scriptpath = os.path.dirname(__file__)
@@ -68,7 +79,7 @@ class ToneCalc(object):
 
     def process(self, transcript):
         tokens, lemmas = self.get_words(transcript['rawText'])
-        logging.info('{} tokens, {} lemmas'.format(len(tokens), len(lemmas)))
+        self.logger.info('{} tokens, {} lemmas'.format(len(tokens), len(lemmas)))
         henry_tokens = self.process_words_with_dictionary(tokens, self.henry)
         henry_lemmas = self.process_words_with_dictionary(lemmas, self.henry)
 
@@ -78,7 +89,6 @@ class ToneCalc(object):
         return len(tokens), len(lemmas), henry_tokens, henry_lemmas, afinn_tokens, afinn_lemmas
 
     def process_transcripts_and_save(self):
-
         # transcripts = self.collection.find({'publishDate':{'$gte':datetime(2017,3,31)}})
         # transcripts = self.collection.find({'tradingSymbol':'GOOGL'}, no_cursor_timeout=True).batch_size(30)
         transcripts = self.collection.find({"henry_tokens": {'$exists': False}},
@@ -86,7 +96,7 @@ class ToneCalc(object):
 
         for transcript in transcripts:
             try:
-                logging.info('>>> Processing %s', transcript['url'])
+                self.logger.info('>>> Processing %s', transcript['url'])
                 tokenSize, lemmaSize, henry_tokens, henry_lemmas, afinn_tokens, afinn_lemmas = \
                     self.process(transcript)
                 if isinstance(transcript['publishDate'], str):
@@ -105,17 +115,14 @@ class ToneCalc(object):
                               'lemmaSize': lemmaSize,
                               'date_number': date_number,
                               'time_number': time_number}})
-                logging.info(transcript['url'] + ' updated')
+                self.logger.info(transcript['url'] + ' updated')
             except Exception as e:
-                logging.error('Unexpected exception: %s', str(e))
+                self.logger.error('Unexpected exception: %s', str(e))
 
 
 if __name__ == '__main__':
-    logging.basicConfig(level=logging.INFO,
-                        format="[(%(threadName)s) - %(asctime)s - %(name)s - %(levelname)s] %(message)s")
     if len(sys.argv) > 1:
-        logging.info('Start tone calculation with arguments: %s', str(sys.argv[1:]))
-        tone_calc = ToneCalc(sys.argv[1], sys.argv[2], sys.argv[3])
+        tone_calc = ToneCalc(sys.argv[1], int(sys.argv[2]), sys.argv[3], sys.argv[4])
     else:
         tone_calc = ToneCalc()
     tone_calc.process_transcripts_and_save()

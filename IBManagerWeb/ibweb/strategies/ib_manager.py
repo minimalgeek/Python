@@ -46,7 +46,8 @@ class TestWrapper(EWrapper):
         return not self._my_errors.empty()
 
     def error(self, reqId: TickerId, errorCode: int, errorString: str):
-        error_msg = "IB error [id %d, code %d, message %s]" % (reqId, errorCode, errorString)
+        error_msg = {'msg': "IB error [id %d, code %d, message %s]" % (reqId, errorCode, errorString),
+                     'code': errorCode}
         self._my_errors.put(error_msg)
 
 
@@ -76,7 +77,11 @@ def print_enter_exit_error(fn):
         self.logger.info("Enter %s", fn.__name__)
         result = fn(*args, **kwargs)
         while self.is_error():
-            self.logger.error(self.get_error(timeout=5))
+            error_to_log = self.get_error(timeout=5)
+            if error_to_log['code'] in [2104, 2106]:
+                logging.getLogger('no_db').error(error_to_log['msg'])
+            else:
+                self.logger.error(error_to_log['msg'])
         self.logger.info("Exit %s", fn.__name__)
         return result
 

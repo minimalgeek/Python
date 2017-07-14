@@ -1,8 +1,8 @@
 import logging
 from queue import Queue
 
-from flask import Flask, request, render_template, redirect, url_for, g
 from ibweb import config as cfg, bat_executor, mongo_queries
+from flask import Flask, request, render_template, redirect, url_for, g
 from ibweb.strategies import strategy_runner, dataloader
 from ibweb.strategies.ib_manager import IBManager, Buy, Sell, SignalFactory
 from ibweb.strategies.strategy import Strategy

@@ -14,9 +14,9 @@ config = {
     'author_email': 'farago.balazs87@gmail.com',
     'version': '0.1',
     'install_requires': required,
-    'packages': ['NAME'],
+    'packages': ['ibweb'],
     'scripts': [],
-    'name': 'projectname',
+    'name': 'ibweb',
     'setup_requires': ['pytest-runner'],
     'tests_require': ['pytest']
 }

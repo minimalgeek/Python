@@ -52,8 +52,8 @@ function focusOnElement(element_id) {
             <td>{{ tr['ticker'] }}</td>
             {% if tr['previous_transcript'] %}
             <td>{{ tr['previous_transcript']['publishDate'] }}</td>
-            <td>{{ tr['previous_transcript']['h_tone']['positiveCount'] }}/{{
-                tr['previous_transcript']['h_tone']['negativeCount'] }} = <b>{{ tr['previous_transcript']['ratio']
+            <td>{{ tr['previous_transcript']['henry_tokens']['positiveCount'] }}/{{
+                tr['previous_transcript']['henry_tokens']['negativeCount'] }} = <b>{{ tr['previous_transcript']['ratio']
                     }}</b></td>
             {% else %}
             <td/>
@@ -62,8 +62,8 @@ function focusOnElement(element_id) {
             <td>{{ tr['nextReportDate'] }}</td>
             {% if tr['current_transcript'] %}
             <td>{{ tr['current_transcript']['publishDate'] }}</td>
-            <td>{{ tr['current_transcript']['h_tone']['positiveCount'] }}/{{
-                tr['current_transcript']['h_tone']['negativeCount'] }} = <b>{{ tr['current_transcript']['ratio'] }}</b>
+            <td>{{ tr['current_transcript']['henry_tokens']['positiveCount'] }}/{{
+                tr['current_transcript']['henry_tokens']['negativeCount'] }} = <b>{{ tr['current_transcript']['ratio'] }}</b>
             </td>
             {% else %}
             <td/>

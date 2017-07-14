@@ -7,7 +7,7 @@ class Strategy01(Strategy):
 
     def run(self):
         """
-        Check h_tone of current and previous transcript
+        Check henry_tone of current and previous transcript
             increase: long
             decrease: short
         Check portfolio
@@ -50,9 +50,9 @@ class Strategy01(Strategy):
                 self.add_and_log(signal)
 
     def calc_ratios(self, prev_transcript, transcript):
-        tone = transcript['h_tone']
+        tone = transcript['henry_tokens']
         ratio = tone['positiveCount'] / tone['negativeCount']
-        prev_tone = prev_transcript['h_tone']
+        prev_tone = prev_transcript['henry_tokens']
         prev_ratio = prev_tone['positiveCount'] / prev_tone['negativeCount']
         return prev_ratio, ratio
 

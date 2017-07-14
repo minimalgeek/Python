@@ -63,7 +63,7 @@ def add_test_data():
         "publishDate": datetime(2016, 1, 1),
         "rawText": "hello bello",
         "qAndAText": "thank you",
-        "h_tone": {
+        "henry_tokens": {
             "positiveCount": 105,
             "negativeCount": 65
         }
@@ -75,7 +75,7 @@ def add_test_data():
         "publishDate": datetime(2016, 4, 1),
         "rawText": "yoyo",
         "qAndAText": "thanks",
-        "h_tone": {
+        "henry_tokens": {
             "positiveCount": 70,
             "negativeCount": 85
         }
@@ -87,7 +87,7 @@ def add_test_data():
         "publishDate": datetime(2015, 10, 3),
         "rawText": "old",
         "qAndAText": "really",
-        "h_tone": {
+        "henry_tokens": {
             "positiveCount": 50,
             "negativeCount": 32
         }
@@ -99,7 +99,7 @@ def add_test_data():
         "publishDate": datetime(2016, 1, 5),
         "rawText": "hello bello",
         "qAndAText": "thank you",
-        "h_tone": {
+        "henry_tokens": {
             "positiveCount": 60,
             "negativeCount": 70
         }
@@ -111,7 +111,7 @@ def add_test_data():
         "publishDate": datetime(2016, 4, 8),
         "rawText": "yoyo",
         "qAndAText": "thanks",
-        "h_tone": {
+        "henry_tokens": {
             "positiveCount": 130,
             "negativeCount": 22
         }
@@ -123,7 +123,7 @@ def add_test_data():
         "publishDate": datetime(2015, 3, 12),
         "rawText": "a",
         "qAndAText": "b",
-        "h_tone": {
+        "henry_tokens": {
             "positiveCount": 20,
             "negativeCount": 46
         }

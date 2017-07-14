@@ -35,6 +35,7 @@ def init_logging(default_path='../logging.json', default_level=logging.INFO):
     if os.path.exists(path):
         with open(path, 'rt') as f:
             config = json.load(f)
+            overwrite_mongo_logger(config)
         logging.config.dictConfig(config)
     else:
         logging.basicConfig(level=default_level)
@@ -42,12 +43,16 @@ def init_logging(default_path='../logging.json', default_level=logging.INFO):
     logging.getLogger(__name__).info('Logging initialized')
 
 
+def overwrite_mongo_logger(config):
+    mongo_handler = config['handlers']['mongo_handler']
+    mongo_handler['host'] = mongo['host']
+    mongo_handler['port'] = mongo['port']
+    mongo_handler['db'] = mongo['db']
+
+
 def init_options():
     global mongo, options
-    if 'MONGO_CONF' not in os.environ:
-        logging.getLogger(__name__).error("Please provide the 'MONGO_CONF' environment variable ('local' or 'remote')")
-    else:
-        MONGO = os.environ['MONGO_CONF']
+    MONGO = os.environ.get('MONGO_CONF', 'local')
     if MONGO == 'local':
         mongo = {
             'host': 'localhost',
@@ -72,6 +77,6 @@ def init_options():
     }
 
 
-init_logging()
 init_options()
+init_logging()
 init_database()

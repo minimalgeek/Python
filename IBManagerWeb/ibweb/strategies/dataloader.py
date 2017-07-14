@@ -108,17 +108,17 @@ def _load_previous_transcript(current_transcript, ticker):
             'tradingSymbol': ticker,
             'publishDate': {'$lt': current_transcript['publishDate']}
         }, sort=[('publishDate', pymongo.DESCENDING)])
-        if 'h_tone' in current_transcript:
+        if 'henry_tokens' in current_transcript:
             current_transcript['ratio'] = round(
-                current_transcript['h_tone']['positiveCount'] / current_transcript['h_tone']['negativeCount'], 2)
+                current_transcript['henry_tokens']['positiveCount'] / current_transcript['henry_tokens']['negativeCount'], 2)
     else:
         previous_transcript = cfg.transcript_collection.find_one({
             'tradingSymbol': ticker
         }, sort=[('publishDate', pymongo.DESCENDING)])
 
-    if previous_transcript and 'h_tone' in previous_transcript:
+    if previous_transcript and 'henry_tokens' in previous_transcript:
         previous_transcript['ratio'] = round(
-            previous_transcript['h_tone']['positiveCount'] / previous_transcript['h_tone']['negativeCount'], 2)
+            previous_transcript['henry_tokens']['positiveCount'] / previous_transcript['henry_tokens']['negativeCount'], 2)
     return previous_transcript
 
 
