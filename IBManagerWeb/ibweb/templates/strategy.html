@@ -29,11 +29,14 @@ function focusOnElement(element_id) {
         <thead>
         <tr class="separated">
             <th rowspan="2">Ticker</th>
-            <th colspan="2">Previous transcript</th>
+            <th colspan="2">2nd prev. transcript</th>
+            <th colspan="2">1st prev. transcript</th>
             <th rowspan="2">Next zacks date</th>
             <th colspan="2">Current transcript</th>
         </tr>
         <tr class="separated">
+            <th>Date</th>
+            <th>Henry tone</th>
 
             <th>Date</th>
             <th>Henry tone</th>
@@ -44,12 +47,21 @@ function focusOnElement(element_id) {
         </thead>
         <tbody>
         {% for tr in dates %}
-        {% if tr['recent'] %}
-        <tr id="recent">
+            {% if tr['recent'] %}
+            <tr id="recent">
             {% else %}
-        <tr>
+            <tr>
             {% endif %}
             <td>{{ tr['ticker'] }}</td>
+            {% if tr['prev_prev_transcript'] %}
+            <td>{{ tr['prev_prev_transcript']['publishDate'] }}</td>
+            <td>{{ tr['prev_prev_transcript']['henry_tokens']['positiveCount'] }}/{{
+                tr['prev_prev_transcript']['henry_tokens']['negativeCount'] }} = <b>{{ tr['prev_prev_transcript']['ratio']
+                    }}</b></td>
+            {% else %}
+            <td/>
+            <td/>
+            {% endif %}
             {% if tr['previous_transcript'] %}
             <td>{{ tr['previous_transcript']['publishDate'] }}</td>
             <td>{{ tr['previous_transcript']['henry_tokens']['positiveCount'] }}/{{

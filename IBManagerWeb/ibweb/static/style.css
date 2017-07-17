@@ -71,7 +71,7 @@ table, th, td {
 
 th, td {
     max-width: 10em;
-    min-width: 7em;
+    min-width: 5em;
 }
 
 thead tr {

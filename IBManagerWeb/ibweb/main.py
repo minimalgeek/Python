@@ -57,9 +57,7 @@ def strategy():
     global strategy
     logger.info('Strategy route entry')
     signals = []
-    tickers_to_filter_by = [row['ticker']
-                            for row in
-                            list(cfg.tickers_collection.find({'group': cfg.options['ticker_filter_group']}))]
+    tickers_to_filter_by = cfg.options['used_tickers']
     dates_and_transcripts = dataloader.load_transcripts_and_zacks_list(filter_list=tickers_to_filter_by)
     if request.method == 'GET':
         strategy = strategy_runner.run_strategy(get_manager())

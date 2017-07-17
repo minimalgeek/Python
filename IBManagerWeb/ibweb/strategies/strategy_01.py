@@ -1,6 +1,7 @@
 from .strategy import Strategy
 from .trade_signal import *
 
+
 class Strategy01(Strategy):
     def __init__(self, *args, **kwargs):
         super(Strategy01, self).__init__(*args, **kwargs)
@@ -23,8 +24,11 @@ class Strategy01(Strategy):
             if prev_transcript is None:
                 self.warning('Previous transcript does not exist for %s', symbol)
                 continue
-
+            if not ('henry_tokens' in transcript and 'henry_tokens' in prev_transcript):
+                self.warning('Tone is not calculated for %s', symbol)
+                continue
             prev_ratio, ratio = self.calc_ratios(prev_transcript, transcript)
+
             self.info('%s[Ratio (%f), previous ratio(%f)]', symbol, ratio, prev_ratio)
 
             if ratio > prev_ratio:

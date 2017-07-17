@@ -92,9 +92,11 @@ def load_transcripts_and_zacks_list(day_limit=10, filter_list=None):
         })
 
         previous_transcript = _load_previous_transcript(current_transcript, ticker)
+        prev_prev_transcript = _load_previous_transcript(previous_transcript, ticker)
 
         zacks_date['current_transcript'] = current_transcript
         zacks_date['previous_transcript'] = previous_transcript
+        zacks_date['prev_prev_transcript'] = prev_prev_transcript
         if not recent_found and zacks_date['nextReportDate'] < datetime.now():
             zacks_date['recent'] = True
             recent_found = True
