@@ -2,7 +2,6 @@ import logging
 from datetime import datetime, timedelta
 
 from . import dataloader
-from .ib_manager import IBManager
 from .strategy_01 import Strategy01
 from .trade_signal import *
 
