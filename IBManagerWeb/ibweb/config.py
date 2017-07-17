@@ -25,6 +25,10 @@ def init_database():
     transcript_collection = db.get_collection(mongo['transcript_collection'])
     zacks_collection = db.get_collection(mongo['zacks_collection'])
     tickers_collection = db.get_collection(mongo['tickers_collection'])
+
+    options['used_tickers'] = [row['ticker'] for row in
+                               tickers_collection.find({'group': options['ticker_filter_group']})]
+
     logging.getLogger(__name__).info('Database initialized')
 
 

@@ -13,7 +13,11 @@ def latest_zacks_report_dates(days=10) -> Dict:
 
     result = cfg.zacks_collection.find(
         {'nextReportDate':
-             {'$gte': from_date, '$lte': to_date}
+             {'$gte': from_date, '$lte': to_date},
+         'ticker':
+             {
+                 '$in': cfg.options['used_tickers']
+             }
          }
     ).sort('nextReportDate', direction=-1)
     return list(result)
