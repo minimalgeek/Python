@@ -8,6 +8,7 @@ from ibapi.common import *
 from ibapi.order_state import *
 from ibapi.wrapper import EWrapper
 
+from ibweb.log.dblogger import error_logging_decorator
 from .trade_signal import *
 
 
@@ -130,16 +131,14 @@ class IBManager(TestWrapper, TestClient):
 
         return portfolio_list
 
+    @error_logging_decorator
     def fill_return_list_from_queue(self, terminating_string: str, portfolio_list):
-        try:
-            while True:
-                item = self.universal_queue.get(timeout=IBManager.MAX_WAIT_SECONDS)
-                if item == terminating_string:
-                    break
-                else:
-                    portfolio_list.append(item)
-        except queue.Empty:
-            self.logger.error("Exceeded maximum wait to respond")
+        while True:
+            item = self.universal_queue.get(timeout=IBManager.MAX_WAIT_SECONDS)
+            if item == terminating_string:
+                break
+            else:
+                portfolio_list.append(item)
 
     @print_enter_exit_error
     def place_test_order(self, ticker):

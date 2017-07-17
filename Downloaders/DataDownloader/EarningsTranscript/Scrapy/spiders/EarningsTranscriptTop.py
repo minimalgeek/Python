@@ -3,6 +3,8 @@ import json
 import logging
 import scrapy
 from datetime import datetime
+
+from ibweb.log.dblogger import error_logging_decorator
 from .AdvancedSpider import AdvancedSpider
 from datetime import timedelta, datetime
 
@@ -27,18 +29,15 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
     }
     top_elements = 2
 
+    @error_logging_decorator
     def start_requests(self):
-        try:
-            tickers = self.load_tickers()
+        tickers = self.load_tickers()
 
-            for ticker in tickers:
-                urlroot = 'http://seekingalpha.com/symbol/' + \
-                          ticker['Symbol'] + '/earnings/more_transcripts?page=1'
-                yield scrapy.Request(urlroot, self.parse,
-                                     meta={'urlroot': urlroot, 'ticker': ticker['Symbol']})
-        except Exception as e:
-            self.log(str(e), logging.ERROR)
-            raise e
+        for ticker in tickers:
+            urlroot = 'http://seekingalpha.com/symbol/' + \
+                      ticker['Symbol'] + '/earnings/more_transcripts?page=1'
+            yield scrapy.Request(urlroot, self.parse,
+                                 meta={'urlroot': urlroot, 'ticker': ticker['Symbol']})
 
     def load_tickers(self):
         self.connect_to_db()
@@ -69,35 +68,29 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
         self.log('Tickers to crawl:\n' + str(tickers))
         return tickers
 
+    @error_logging_decorator
     def parse(self, response):
-        try:
-            count = 0
-            for resp in response.xpath("//a[@sasource]"):
-                if count >= EarningsTranscriptSpiderTop.top_elements:
-                    break
-                url_to_load = resp.xpath("@href").extract()[0][2:-2]
-                transcript_title = resp.xpath("text()").extract()[0]
-                transcript_url = self.article_url_base + url_to_load
-                if 'call transcript' in transcript_title.lower():
-                    yield scrapy.Request(transcript_url, self.parse_article,
-                                         meta=response.meta)
-                    count += 1
-        except Exception as e:
-            self.log(str(e), logging.ERROR)
-            raise e
+        count = 0
+        for resp in response.xpath("//a[@sasource]"):
+            if count >= EarningsTranscriptSpiderTop.top_elements:
+                break
+            url_to_load = resp.xpath("@href").extract()[0][2:-2]
+            transcript_title = resp.xpath("text()").extract()[0]
+            transcript_url = self.article_url_base + url_to_load
+            if 'call transcript' in transcript_title.lower():
+                yield scrapy.Request(transcript_url, self.parse_article,
+                                     meta=response.meta)
+                count += 1
 
+    @error_logging_decorator
     def parse_article(self, response):
-        try:
-            yield {
-                'url': response.url,
-                'tradingSymbol': response.meta['ticker'],
-                'publishDate': datetime.strptime(
-                    response.xpath('//time[@content]/@content').extract_first(),
-                    '%Y-%m-%dT%H:%M:%SZ'),
-                'rawText': ' '.join(map(str, response.css('div.sa-art p *::text').extract())),
-                'qAndAText': ' '.join(
-                    map(str, response.css('div.sa-art #question-answer-session~ p *::text').extract()))
-            }
-        except Exception as e:
-            self.log(str(e), logging.ERROR)
-            raise e
+        yield {
+            'url': response.url,
+            'tradingSymbol': response.meta['ticker'],
+            'publishDate': datetime.strptime(
+                response.xpath('//time[@content]/@content').extract_first(),
+                '%Y-%m-%dT%H:%M:%SZ'),
+            'rawText': ' '.join(map(str, response.css('div.sa-art p *::text').extract())),
+            'qAndAText': ' '.join(
+                map(str, response.css('div.sa-art #question-answer-session~ p *::text').extract()))
+        }

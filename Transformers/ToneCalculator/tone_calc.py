@@ -88,6 +88,7 @@ class ToneCalc(object):
 
         return len(tokens), len(lemmas), henry_tokens, henry_lemmas, afinn_tokens, afinn_lemmas
 
+    @log.error_logging_decorator
     def process_transcripts_and_save(self):
         # transcripts = self.collection.find({'publishDate':{'$gte':datetime(2017,3,31)}})
         # transcripts = self.collection.find({'tradingSymbol':'GOOGL'}, no_cursor_timeout=True).batch_size(30)
@@ -95,29 +96,26 @@ class ToneCalc(object):
                                            no_cursor_timeout=True).batch_size(30)
 
         for transcript in transcripts:
-            try:
-                self.logger.info('>>> Processing %s', transcript['url'])
-                tokenSize, lemmaSize, henry_tokens, henry_lemmas, afinn_tokens, afinn_lemmas = \
-                    self.process(transcript)
-                if isinstance(transcript['publishDate'], str):
-                    dt = datetime.strptime(transcript['publishDate'], '%Y-%m-%dT%H:%M:%SZ')
-                else:
-                    dt = transcript['publishDate']
-                date_number = (dt.year - 1900) * 10000 + (dt.month) * 100 + (dt.day)
-                time_number = (dt.hour) * 10000 + (dt.minute) * 100 + (dt.second)
-                self.collection.update_one(
-                    {'_id': transcript['_id']},
-                    {'$set': {'henry_tokens': henry_tokens,
-                              'henry_lemmas': henry_lemmas,
-                              'afinn_tokens': afinn_tokens,
-                              'afinn_lemmas': afinn_lemmas,
-                              'tokenSize': tokenSize,
-                              'lemmaSize': lemmaSize,
-                              'date_number': date_number,
-                              'time_number': time_number}})
-                self.logger.info(transcript['url'] + ' updated')
-            except Exception as e:
-                self.logger.error('Unexpected exception: %s', str(e))
+            self.logger.info('>>> Processing %s', transcript['url'])
+            tokenSize, lemmaSize, henry_tokens, henry_lemmas, afinn_tokens, afinn_lemmas = \
+                self.process(transcript)
+            if isinstance(transcript['publishDate'], str):
+                dt = datetime.strptime(transcript['publishDate'], '%Y-%m-%dT%H:%M:%SZ')
+            else:
+                dt = transcript['publishDate']
+            date_number = (dt.year - 1900) * 10000 + (dt.month) * 100 + (dt.day)
+            time_number = (dt.hour) * 10000 + (dt.minute) * 100 + (dt.second)
+            self.collection.update_one(
+                {'_id': transcript['_id']},
+                {'$set': {'henry_tokens': henry_tokens,
+                          'henry_lemmas': henry_lemmas,
+                          'afinn_tokens': afinn_tokens,
+                          'afinn_lemmas': afinn_lemmas,
+                          'tokenSize': tokenSize,
+                          'lemmaSize': lemmaSize,
+                          'date_number': date_number,
+                          'time_number': time_number}})
+            self.logger.info(transcript['url'] + ' updated')
 
 
 if __name__ == '__main__':

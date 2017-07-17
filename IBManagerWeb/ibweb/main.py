@@ -3,6 +3,8 @@ from queue import Queue
 
 from ibweb import config as cfg, bat_executor, mongo_queries
 from flask import Flask, request, render_template, redirect, url_for, g
+
+from ibweb.log.dblogger import error_logging_decorator
 from ibweb.strategies import strategy_runner, dataloader
 from ibweb.strategies.ib_manager import IBManager, Buy, Sell, SignalFactory
 from ibweb.strategies.strategy import Strategy
@@ -26,6 +28,7 @@ def get_manager() -> IBManager:
     return manager
 
 
+@error_logging_decorator
 @app.route('/', methods=['GET', 'POST'])
 def index():
     logger.info('Index route entry')
@@ -48,6 +51,7 @@ def index():
                            nav='home')
 
 
+@error_logging_decorator
 @app.route('/strategy', methods=['GET', 'POST'])
 def strategy():
     global strategy
