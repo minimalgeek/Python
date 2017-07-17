@@ -12,11 +12,14 @@ TONE_CALC = 3
 class Runner(object):
     LATEST = None
 
-    def __init__(self, path: str, name: str):
-        self.path = config.OTP_ROOT + path
+    def __init__(self, path: str, path_local: str, name: str):
+        MONGO = os.environ.get('MONGO_CONF', 'local')
+        if MONGO == 'local':
+            self.path = config.OTP_ROOT + path_local
+        else:
+            self.path = config.OTP_ROOT + path
         self.name = name
         self.logger = logging.getLogger(__name__)
-
         self.next = Runner.LATEST
         Runner.LATEST = self
 
@@ -37,10 +40,15 @@ class Runner(object):
             return -1
 
 
-runner1 = Runner(path='\\Downloaders\\DataDownloader\\EarningsTranscript\\Zacks_remote.bat', name=ZACKS)
+runner1 = Runner(path='\\Downloaders\\DataDownloader\\EarningsTranscript\\Zacks_remote.bat',
+                 path_local='\\Downloaders\\DataDownloader\\EarningsTranscript\\Zacks.bat',
+                 name=ZACKS)
 runner2 = Runner(path='\\Downloaders\\DataDownloader\\EarningsTranscript\\EarningsTranscriptTop_remote.bat',
+                 path_local='\\Downloaders\\DataDownloader\\EarningsTranscript\\EarningsTranscriptTop.bat',
                  name=EARNINGS_TRANSCRIPT)
-runner3 = Runner(path='\\Transformers\\ToneCalculator\\tone_calc.bat', name=TONE_CALC)
+runner3 = Runner(path='\\Transformers\\ToneCalculator\\tone_calc.bat',
+                 path_local='\\Transformers\\ToneCalculator\\tone_calc_local.bat',
+                 name=TONE_CALC)
 
 
 def run_bat(selector):
