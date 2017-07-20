@@ -8,18 +8,20 @@ logging.basicConfig(level=logging.INFO,
 logger = logging.getLogger(__name__)
 
 mongo = {
-    #'host': 'localhost',
-    'host': '192.168.137.62',
+    'host': 'localhost',
+    #'host': '192.168.137.62',
     'port': 27017,
-    'db': 'insider',
-    'transcript_collection': 'earnings_call_Nas100_Broad_Manual_Update'
+    'db': 'python_import',
+    #'db': 'insider',
+    'transcript_collection': 'earnings_transcript_full_save'
+    #'transcript_collection': 'earnings_call_Nas100_Broad_Manual_Update'
 }
 
-client, db, tickers_collection = None, None, None
+client, db, transcript_collection = None, None, None
 
 
 def init_database():
-    global client, db, tickers_collection
+    global client, db, transcript_collection
     client = MongoClient(host=mongo['host'], port=mongo['port'])
     db = client.get_database(mongo['db'])
     transcript_collection = db.get_collection(mongo['transcript_collection'])
@@ -42,9 +44,9 @@ def save_transcripts_to_database(transcripts):
     for ts in transcripts:
         if len(ts['rawText']) > 5000:
             if 'url' in ts:
-                old = tickers_collection.find_one({'url': ts['url']})
+                old = transcript_collection.find_one({'url': ts['url']})
                 if old is None:
-                    tickers_collection.insert_one(dict(ts))
+                    transcript_collection.insert_one(dict(ts))
                     logger.info('%s transcript inserted', ts['url'])
                 else:
                     logger.info('%s transcript is already in the collection', ts['url'])
