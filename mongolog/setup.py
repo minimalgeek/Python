@@ -8,7 +8,7 @@ config = {
     'author': 'Faragó Balázs',
     'author_email': 'farago.balazs87@gmail.com',
     'version': '1.0',
-    'packages': ['.'],
+    'packages': ['mongolog'],
     'name': 'mongolog'
 }
 

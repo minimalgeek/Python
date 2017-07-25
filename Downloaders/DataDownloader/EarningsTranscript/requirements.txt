@@ -1,3 +1,2 @@
 flask
 scrapy
-pymongo

@@ -1,9 +1,10 @@
 import json
+from datetime import timedelta, datetime
+
 import scrapy
 
 from mongolog.dblogger import error_logging_decorator
 from .AdvancedSpider import AdvancedSpider
-from datetime import timedelta, datetime
 
 
 class EarningsTranscriptSpiderTop(AdvancedSpider):

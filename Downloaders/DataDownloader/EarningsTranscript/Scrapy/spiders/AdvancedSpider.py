@@ -1,10 +1,11 @@
-from scrapy.utils.log import configure_logging
 import logging
 from logging.handlers import RotatingFileHandler
-import scrapy
-import pymongo
 
-import mongolog.dblogger as log
+import pymongo
+import scrapy
+from scrapy.utils.log import configure_logging
+
+import mongolog as log
 
 
 def find_between(s: str, first: int, last: int) -> str:

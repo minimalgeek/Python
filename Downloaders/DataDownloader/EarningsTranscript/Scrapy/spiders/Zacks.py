@@ -1,11 +1,12 @@
-import logging
-import scrapy
 import json
+import logging
 import re
+from datetime import datetime
+
+import scrapy
 
 from mongolog.dblogger import error_logging_decorator
 from .AdvancedSpider import AdvancedSpider
-from datetime import datetime
 
 
 class ZacksSpider(AdvancedSpider):

@@ -1,4 +1,4 @@
-FROM python:3
+FROM mongolog:latest
 ADD . /downloader
 WORKDIR /downloader
 RUN pip install -r requirements.txt

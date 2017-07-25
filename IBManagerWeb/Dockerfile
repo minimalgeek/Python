@@ -1,4 +1,4 @@
-FROM python:3
+FROM mongolog:latest
 
 ADD ./pythonclient /client
 WORKDIR /client

@@ -1,5 +1,5 @@
 FROM python:3
-ADD . /mongolog
-WORKDIR /mongolog
 RUN pip install pymongo
-RUN pip install --editable .
+ADD . /log
+WORKDIR /log
+RUN pip install -e .

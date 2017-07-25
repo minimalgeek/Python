@@ -12,15 +12,9 @@ services:
     links:
       - db
     depends_on:
+      - downloader
       - db
       - mongolog
-      - downloader
-  db:
-    image: mongo
-    ports:
-      - 27017:27017
-  mongolog:
-    build: ./mongolog
   downloader:
     build: ./Downloaders/DataDownloader/EarningsTranscript
     image: downloader:latest
@@ -28,3 +22,10 @@ services:
       - 5001:80
     depends_on:
       - mongolog
+  db:
+    image: mongo
+    ports:
+      - 27017:27017
+  mongolog:
+    build: ./mongolog
+    image: mongolog:latest
