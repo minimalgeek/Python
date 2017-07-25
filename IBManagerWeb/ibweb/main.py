@@ -1,4 +1,4 @@
-import logging
+import logging, os
 from queue import Queue
 
 from ibweb import config as cfg, bat_executor, mongo_queries
@@ -21,7 +21,7 @@ def get_manager() -> IBManager:
     global manager
     if manager is None:
         logger.info("Connecting to IB...")
-        manager = IBManager("127.0.0.1", 7497, 1)
+        manager = IBManager('localhost', 7462, 1)
         logger.info("Server version: %s, connection time: %s",
                     manager.serverVersion(),
                     manager.twsConnectionTime())
@@ -102,7 +102,7 @@ def merge_transcripts_and_positions(list_of_positions, list_of_transcripts):
 
 def main() -> Flask:
     logger.debug('Enter main')
-    app.run()
+    app.run(host='0.0.0.0')
     return app
 
 

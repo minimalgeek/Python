@@ -56,26 +56,14 @@ def overwrite_mongo_logger(config):
 
 def init_options():
     global mongo, options
-    MONGO = os.environ.get('MONGO_CONF', 'local')
-    if MONGO == 'local':
-        mongo = {
-            'host': 'localhost',
-            'port': 27017,
-            'db': 'python_import',
-            'transcript_collection': 'earnings_transcript',
-            'zacks_collection': 'zacks_earnings_call_dates',
-            'tickers_collection': 'tickers'
-        }
-    elif MONGO == 'remote':
-        mongo = {
-            'host': '192.168.137.62',
-            'port': 27017,
-            'db': 'insider',
-            'transcript_collection': 'earnings_call_Nas100_Broad_Manual_Update',
-            'zacks_collection': 'zacks_earnings_call_dates',
-            'tickers_collection': 'tickers'
-        }
-
+    mongo = {
+        'host': os.environ['DB_1_PORT_27017_TCP_ADDR'],
+        'port': 27017,
+        'db': 'python_import',
+        'transcript_collection': 'earnings_transcript',
+        'zacks_collection': 'zacks_earnings_call_dates',
+        'tickers_collection': 'tickers'
+    }
     options = {
         'ticker_filter_group': 'NASDAQ'
     }
