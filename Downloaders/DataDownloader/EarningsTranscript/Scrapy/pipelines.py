@@ -5,10 +5,8 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 import logging
-import scrapy
 from datetime import datetime, timedelta
 import pymongo
-from pprint import pprint
 
 
 class ScrapyPipeline(object):

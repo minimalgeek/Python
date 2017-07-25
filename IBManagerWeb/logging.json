@@ -36,7 +36,7 @@
         },
 
         "mongo_handler": {
-            "class": "ibweb.log.dblogger.MongoHandler",
+            "class": "mongolog.dblogger.MongoHandler",
             "level": "ERROR",
             "formatter": "simple"
         }

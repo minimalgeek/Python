@@ -1,10 +1,9 @@
 import logging
-import pymongo
 import scrapy
 import json
 import re
 
-from ibweb.log.dblogger import error_logging_decorator
+from mongolog.dblogger import error_logging_decorator
 from .AdvancedSpider import AdvancedSpider
 from datetime import datetime
 

@@ -4,7 +4,7 @@ from logging.handlers import RotatingFileHandler
 import scrapy
 import pymongo
 
-import ibweb.log.dblogger as log
+import mongolog.dblogger as log
 
 
 def find_between(s: str, first: int, last: int) -> str:

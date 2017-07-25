@@ -1,10 +1,7 @@
 import json
-
-import logging
 import scrapy
-from datetime import datetime
 
-from ibweb.log.dblogger import error_logging_decorator
+from mongolog.dblogger import error_logging_decorator
 from .AdvancedSpider import AdvancedSpider
 from datetime import timedelta, datetime
 

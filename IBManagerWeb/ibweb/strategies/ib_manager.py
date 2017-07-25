@@ -8,7 +8,7 @@ from ibapi.common import *
 from ibapi.order_state import *
 from ibapi.wrapper import EWrapper
 
-from ibweb.log.dblogger import error_logging_decorator
+from mongolog.dblogger import error_logging_decorator
 from .trade_signal import *
 
 
