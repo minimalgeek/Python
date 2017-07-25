@@ -5,7 +5,7 @@ import pymongo
 import scrapy
 from scrapy.utils.log import configure_logging
 
-import mongolog as log
+from mongolog.dblogger import MongoHandler
 
 
 def find_between(s: str, first: int, last: int) -> str:
@@ -36,7 +36,7 @@ class AdvancedSpider(scrapy.Spider):
         # TODO: this is terrible, find a good solution
         host = find_between(self.settings.get('MONGO_URI'), '//', ':')
 
-        mongo_handler = log.MongoHandler(host=host, db=self.settings.get('MONGO_DATABASE'))
+        mongo_handler = MongoHandler(host=host, db=self.settings.get('MONGO_DATABASE'))
         mongo_handler.setFormatter(used_format)
         mongo_handler.setLevel(level=logging.ERROR)
 
