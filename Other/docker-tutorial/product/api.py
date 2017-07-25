@@ -12,9 +12,7 @@ class Product(Resource):
             'product': [
                 'Ice Cream',
                 'Chocolate',
-                'Fruit',
-                'Darkness',
-                'Rutyoka'
+                'Fruit'
             ]
         }
 
