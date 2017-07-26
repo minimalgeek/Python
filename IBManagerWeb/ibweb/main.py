@@ -3,10 +3,10 @@ from queue import Queue
 
 from flask import Flask, request, render_template
 
-from ibweb import config as cfg, bat_executor, mongo_queries
+from ibweb import config as cfg, service_caller, mongo_queries
 from ibweb.strategies import strategy_runner, dataloader
 from ibweb.strategies.ib_manager import IBManager
-from mongolog import error_logging_decorator
+from mongolog.dblogger import error_logging_decorator
 
 logger = logging.getLogger(__name__)
 
@@ -19,7 +19,7 @@ def get_manager() -> IBManager:
     global manager
     if manager is None:
         logger.info("Connecting to IB...")
-        manager = IBManager('localhost', 7462, 1)
+        manager = IBManager('ibgw', 4003, 1)  # Docker
         logger.info("Server version: %s, connection time: %s",
                     manager.serverVersion(),
                     manager.twsConnectionTime())
@@ -35,7 +35,7 @@ def index():
     if request.method == 'POST':
         logger.info('Request to execute [%s]', request.form['func'])
         bat_code = int(request.form['func'])
-        ret_code = bat_executor.run_bat(bat_code)
+        ret_code = service_caller.run(bat_code)
 
     list_of_transcripts = mongo_queries.latest_zacks_report_dates_and_transcripts()
     list_of_positions = get_manager().load_portfolio()
@@ -43,7 +43,7 @@ def index():
 
     return render_template('home.html',
                            ret_code=ret_code,
-                           executor=bat_executor,
+                           executor=service_caller,
                            trs=list_of_transcripts,
                            positions=list_of_positions,
                            nav='home')
@@ -100,7 +100,7 @@ def merge_transcripts_and_positions(list_of_positions, list_of_transcripts):
 
 def main() -> Flask:
     logger.debug('Enter main')
-    app.run(host='0.0.0.0')
+    app.run(host='0.0.0.0', port=80)
     return app
 
 

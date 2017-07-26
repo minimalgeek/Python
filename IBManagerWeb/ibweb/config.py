@@ -56,8 +56,12 @@ def overwrite_mongo_logger(config):
 
 def init_options():
     global mongo, options
+    if 'HOST' in os.environ:
+        host = os.environ.get('HOST', None)
+    else:
+        host = 'db' # Docker
     mongo = {
-        'host': os.environ['DB_1_PORT_27017_TCP_ADDR'],
+        'host': host,
         'port': 27017,
         'db': 'python_import',
         'transcript_collection': 'earnings_transcript',

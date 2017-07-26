@@ -6,26 +6,55 @@ services:
     image: ibweb:latest
     command: python -m ibweb.main
     ports:
-      - 5000:5000
+      - 5000:80
     volumes:
       - ./IBManagerWeb:/IBManagerWeb
     links:
       - db
+      - downloader
+      - tone-calc
+      - ibgw
     depends_on:
       - downloader
+      - tone-calc
       - db
       - mongolog
+      - ibgw
   downloader:
     build: ./Downloaders/DataDownloader/EarningsTranscript
     image: downloader:latest
     ports:
       - 5001:80
+    links:
+      - db
+    depends_on:
+      - mongolog
+  tone-calc:
+    build: ./Transformers/ToneCalculator
+    image: tone-calc:latest
+    ports:
+      - 5002:80
+    links:
+      - db
     depends_on:
       - mongolog
   db:
     image: mongo
     ports:
       - 27017:27017
+  ibgw:
+    build: ./ibgateway/ib-gateway-docker
+    image: ibgw:latest
+    ports:
+      - 5900:5900
+      - 4003:4003
+      - 4001:4001
+      - 7462:7462
+    environment:
+      - VNC_PASSWORD=password
+      - TWSUSERID=ahafb502
+      - TWSPASSWORD=proba12
   mongolog:
     build: ./mongolog
     image: mongolog:latest
+    command: 'true'

@@ -1,3 +1,3 @@
 cd..
-SET MONGO_CONF=local
+SET HOST=localhost
 python -m ibweb.main

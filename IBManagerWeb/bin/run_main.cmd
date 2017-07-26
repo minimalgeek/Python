@@ -1,3 +1,3 @@
 cd..
-SET MONGO_CONF=remote
+SET HOST=192.168.137.62
 python -m ibweb.main

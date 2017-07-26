@@ -5,3 +5,4 @@ splinter
 setuptools
 ibapi
 flask
+requests

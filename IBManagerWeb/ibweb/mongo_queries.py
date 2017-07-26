@@ -1,6 +1,6 @@
 import logging
 from datetime import datetime, timedelta
-from typing import List, Dict
+from typing import Dict
 from ibweb import config as cfg
 
 logger = logging.getLogger(__name__)
