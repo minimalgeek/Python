@@ -5,7 +5,7 @@ import pandas as pd
 import os.path
 import logging
 import sys
-import ibweb.log.dblogger as log
+import mongolog.dblogger as log
 
 
 class ToneCalc(object):
