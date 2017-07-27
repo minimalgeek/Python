@@ -32,6 +32,8 @@ services:
   tone-calc:
     build: ./Transformers/ToneCalculator
     image: tone-calc:latest
+    volumes:
+      - ./Transformers/ToneCalculator:/tone
     ports:
       - 5002:80
     links:
@@ -43,17 +45,30 @@ services:
     ports:
       - 27017:27017
   ibgw:
-    build: ./ibgateway/ib-gateway-docker
+    build: ./ibgateway/ib-docker
     image: ibgw:latest
     ports:
-      - 5900:5900
-      - 4003:4003
-      - 4001:4001
-      - 7462:7462
+    - "4003:4003"
+    - "5900:5900"
+    volumes:
+      - ./ibgateway/ib-docker/IBController.ini:/root/IBController/IBController.ini
+      - ./ibgateway/ib-docker/jts.ini:/root/Jts/jts.ini
     environment:
+      # - TZ=Australia/Adelaide
       - VNC_PASSWORD=password
+      - TWS_MAJOR_VRSN=960
+      - IBC_INI=/root/IBController/IBController.ini
+      - TRADING_MODE=
+      - IBC_PATH=/opt/IBController
+      - TWS_PATH=/root/Jts
+      - TWS_CONFIG_PATH=/root/Jts
+      - LOG_PATH=/opt/IBController/Logs
       - TWSUSERID=ahafb502
       - TWSPASSWORD=proba12
+      - FIXUSERID=
+      - FIXPASSWORD=
+      - JAVA_PATH=
+      - APP=GATEWAY
   mongolog:
     build: ./mongolog
     image: mongolog:latest

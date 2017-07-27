@@ -1,8 +1,6 @@
-#!/bin/bash
 XVFB=/usr/bin/Xvfb
-XVFBARGS="$DISPLAY -ac -screen 0 1980x1020x24 +extension RANDR"
+XVFBARGS="$DISPLAY -ac -screen 0 1024x768x16 +extension RANDR"
 PIDFILE=/var/xvfb_${DISPLAY:1}.pid
-
 case "$1" in
   start)
     echo -n "Starting virtual X frame buffer: Xvfb"
