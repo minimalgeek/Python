@@ -23,6 +23,8 @@ services:
   downloader:
     build: ./Downloaders/DataDownloader/EarningsTranscript
     image: downloader:latest
+    volumes:
+      - ./Downloaders/DataDownloader/EarningsTranscript:/downloader
     ports:
       - 5001:80
     links:

@@ -4,14 +4,14 @@ from flask import Flask
 from scrapy.crawler import CrawlerRunner, CrawlerProcess
 from scrapy.utils.project import get_project_settings
 
-process = CrawlerProcess(get_project_settings())
 app = Flask(__name__)
 
 
 @app.route('/zacks')
 def zacks():
+    process = CrawlerProcess(get_project_settings())
     process.settings.set('MODE', 'FILE', 1000)
-    process.settings.set('MONGO_URI', 'mongodb://db:27017', 1000)
+    process.settings.set('MONGO_URI', 'mongodb://db:27017', 1000)  # Docker
     process.crawl('Zacks')
     process.start()
     return 'success'
@@ -19,7 +19,8 @@ def zacks():
 
 @app.route('/earnings')
 def earnings():
-    process.settings.set('MONGO_URI', 'mongodb://db:27017', 1000)
+    process = CrawlerProcess(get_project_settings())
+    process.settings.set('MONGO_URI', 'mongodb://db:27017', 1000)  # Docker
     process.crawl('EarningsTranscriptTop')
     process.start()
     return 'success'
