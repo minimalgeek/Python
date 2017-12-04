@@ -95,7 +95,7 @@ def compute_cost(a3, Y):
     
     logprobs = np.multiply(-np.log(a3),Y) + np.multiply(-np.log(1 - a3), 1 - Y)
     cost = 1./m * np.sum(logprobs)
-    
+ 
     return cost
 
 def forward_propagation(X, parameters):
