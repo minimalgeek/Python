@@ -35,8 +35,8 @@ class ZacksSpider(AdvancedSpider):
                        list(tickers_collection.find({'group': self.settings.get('TICKERS_GROUP')}))]
 
         elif mode == 'FILE':
-            tickers = json.loads(open('tickers_lists/US.json', encoding='utf-8').read())
-
+            #tickers = json.loads(open('tickers_lists/US.json', encoding='utf-8').read())
+            tickers = json.loads(open('tickers_lists/US_20180108.json', encoding='utf-8').read())
         if tickers:
             self.log('Download latest earnings call dates for {}'.format(tickers), level=logging.INFO)
             for ticker in tickers:
