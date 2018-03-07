@@ -1,1 +1,1 @@
-python tone_calc.py localhost 27017 python_import earnings_transcript
+python tone_calc.py localhost 27017 python_import earnings_call_Nas100_Broad_Manual_Update

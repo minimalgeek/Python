@@ -15,8 +15,8 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
         'ITEM_PIPELINES': {
             'Scrapy.pipelines.MongoPipeline': 100,
         },
-        'MODE': 'ZACKS',  # ZACKS, SINGLE, FILE
-        'MONGO_COLLECTION': 'earnings_transcript',
+        'MODE': 'FILE',  # ZACKS, SINGLE, FILE
+        'MONGO_COLLECTION': 'earnings_call_Nas100_Broad_Manual_Update',
         'DOWNLOAD_DELAY': 3,
         'CONCURRENT_REQUESTS': 5,
         'ZACKS_MONGO_COLLECTION': 'zacks_earnings_call_dates',
@@ -25,7 +25,7 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
         'TICKERS_COLLECTION': 'tickers',
         'TICKERS_GROUP': 'NASDAQ'
     }
-    top_elements = 2
+    top_elements = 1
 
     @error_logging_decorator
     def start_requests(self):
