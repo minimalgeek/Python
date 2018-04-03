@@ -1,0 +1,1511 @@
+[
+  {
+    "Symbol": "A"
+  },
+  {
+    "Symbol": "AAL"
+  },
+  {
+    "Symbol": "AAP"
+  },
+  {
+    "Symbol": "AAPL"
+  },
+  {
+    "Symbol": "ABBV"
+  },
+  {
+    "Symbol": "ABC"
+  },
+  {
+    "Symbol": "ABT"
+  },
+  {
+    "Symbol": "ACN"
+  },
+  {
+    "Symbol": "ADBE"
+  },
+  {
+    "Symbol": "ADI"
+  },
+  {
+    "Symbol": "ADM"
+  },
+  {
+    "Symbol": "ADP"
+  },
+  {
+    "Symbol": "ADS"
+  },
+  {
+    "Symbol": "ADSK"
+  },
+  {
+    "Symbol": "AEE"
+  },
+  {
+    "Symbol": "AEP"
+  },
+  {
+    "Symbol": "AES"
+  },
+  {
+    "Symbol": "AET"
+  },
+  {
+    "Symbol": "AFL"
+  },
+  {
+    "Symbol": "AGN"
+  },
+  {
+    "Symbol": "AIG"
+  },
+  {
+    "Symbol": "AIV"
+  },
+  {
+    "Symbol": "AIZ"
+  },
+  {
+    "Symbol": "AJG"
+  },
+  {
+    "Symbol": "AKAM"
+  },
+  {
+    "Symbol": "ALB"
+  },
+  {
+    "Symbol": "ALGN"
+  },
+  {
+    "Symbol": "ALK"
+  },
+  {
+    "Symbol": "ALL"
+  },
+  {
+    "Symbol": "ALLE"
+  },
+  {
+    "Symbol": "ALXN"
+  },
+  {
+    "Symbol": "AMAT"
+  },
+  {
+    "Symbol": "AMD"
+  },
+  {
+    "Symbol": "AME"
+  },
+  {
+    "Symbol": "AMG"
+  },
+  {
+    "Symbol": "AMGN"
+  },
+  {
+    "Symbol": "AMP"
+  },
+  {
+    "Symbol": "AMT"
+  },
+  {
+    "Symbol": "AMZN"
+  },
+  {
+    "Symbol": "ANDV"
+  },
+  {
+    "Symbol": "ANSS"
+  },
+  {
+    "Symbol": "ANTM"
+  },
+  {
+    "Symbol": "AON"
+  },
+  {
+    "Symbol": "AOS"
+  },
+  {
+    "Symbol": "APA"
+  },
+  {
+    "Symbol": "APC"
+  },
+  {
+    "Symbol": "APD"
+  },
+  {
+    "Symbol": "APH"
+  },
+  {
+    "Symbol": "APTV"
+  },
+  {
+    "Symbol": "ARE"
+  },
+  {
+    "Symbol": "ARNC"
+  },
+  {
+    "Symbol": "ATVI"
+  },
+  {
+    "Symbol": "AVB"
+  },
+  {
+    "Symbol": "AVGO"
+  },
+  {
+    "Symbol": "AVY"
+  },
+  {
+    "Symbol": "AWK"
+  },
+  {
+    "Symbol": "AXP"
+  },
+  {
+    "Symbol": "AYI"
+  },
+  {
+    "Symbol": "AZO"
+  },
+  {
+    "Symbol": "BA"
+  },
+  {
+    "Symbol": "BAC"
+  },
+  {
+    "Symbol": "BAX"
+  },
+  {
+    "Symbol": "BBT"
+  },
+  {
+    "Symbol": "BBY"
+  },
+  {
+    "Symbol": "BDX"
+  },
+  {
+    "Symbol": "BEN"
+  },
+  {
+    "Symbol": "BHF"
+  },
+  {
+    "Symbol": "BHGE"
+  },
+  {
+    "Symbol": "BIIB"
+  },
+  {
+    "Symbol": "BK"
+  },
+  {
+    "Symbol": "BKNG"
+  },
+  {
+    "Symbol": "BLK"
+  },
+  {
+    "Symbol": "BLL"
+  },
+  {
+    "Symbol": "BMY"
+  },
+  {
+    "Symbol": "BSX"
+  },
+  {
+    "Symbol": "BWA"
+  },
+  {
+    "Symbol": "BXP"
+  },
+  {
+    "Symbol": "C"
+  },
+  {
+    "Symbol": "CA"
+  },
+  {
+    "Symbol": "CAG"
+  },
+  {
+    "Symbol": "CAH"
+  },
+  {
+    "Symbol": "CAT"
+  },
+  {
+    "Symbol": "CB"
+  },
+  {
+    "Symbol": "CBOE"
+  },
+  {
+    "Symbol": "CBRE"
+  },
+  {
+    "Symbol": "CBS"
+  },
+  {
+    "Symbol": "CCI"
+  },
+  {
+    "Symbol": "CCL"
+  },
+  {
+    "Symbol": "CDNS"
+  },
+  {
+    "Symbol": "CELG"
+  },
+  {
+    "Symbol": "CERN"
+  },
+  {
+    "Symbol": "CF"
+  },
+  {
+    "Symbol": "CFG"
+  },
+  {
+    "Symbol": "CHD"
+  },
+  {
+    "Symbol": "CHRW"
+  },
+  {
+    "Symbol": "CHTR"
+  },
+  {
+    "Symbol": "CI"
+  },
+  {
+    "Symbol": "CINF"
+  },
+  {
+    "Symbol": "CL"
+  },
+  {
+    "Symbol": "CLX"
+  },
+  {
+    "Symbol": "CMA"
+  },
+  {
+    "Symbol": "CMCSA"
+  },
+  {
+    "Symbol": "CME"
+  },
+  {
+    "Symbol": "CMG"
+  },
+  {
+    "Symbol": "CMI"
+  },
+  {
+    "Symbol": "CMS"
+  },
+  {
+    "Symbol": "CNC"
+  },
+  {
+    "Symbol": "CNP"
+  },
+  {
+    "Symbol": "COF"
+  },
+  {
+    "Symbol": "COG"
+  },
+  {
+    "Symbol": "COL"
+  },
+  {
+    "Symbol": "COO"
+  },
+  {
+    "Symbol": "COP"
+  },
+  {
+    "Symbol": "COST"
+  },
+  {
+    "Symbol": "COTY"
+  },
+  {
+    "Symbol": "CPB"
+  },
+  {
+    "Symbol": "CRM"
+  },
+  {
+    "Symbol": "CSCO"
+  },
+  {
+    "Symbol": "CSRA"
+  },
+  {
+    "Symbol": "CSX"
+  },
+  {
+    "Symbol": "CTAS"
+  },
+  {
+    "Symbol": "CTL"
+  },
+  {
+    "Symbol": "CTSH"
+  },
+  {
+    "Symbol": "CTXS"
+  },
+  {
+    "Symbol": "CVS"
+  },
+  {
+    "Symbol": "CVX"
+  },
+  {
+    "Symbol": "CXO"
+  },
+  {
+    "Symbol": "D"
+  },
+  {
+    "Symbol": "DAL"
+  },
+  {
+    "Symbol": "DE"
+  },
+  {
+    "Symbol": "DFS"
+  },
+  {
+    "Symbol": "DG"
+  },
+  {
+    "Symbol": "DGX"
+  },
+  {
+    "Symbol": "DHI"
+  },
+  {
+    "Symbol": "DHR"
+  },
+  {
+    "Symbol": "DIS"
+  },
+  {
+    "Symbol": "DISCA"
+  },
+  {
+    "Symbol": "DISCK"
+  },
+  {
+    "Symbol": "DISH"
+  },
+  {
+    "Symbol": "DLR"
+  },
+  {
+    "Symbol": "DLTR"
+  },
+  {
+    "Symbol": "DOV"
+  },
+  {
+    "Symbol": "DPS"
+  },
+  {
+    "Symbol": "DRE"
+  },
+  {
+    "Symbol": "DRI"
+  },
+  {
+    "Symbol": "DTE"
+  },
+  {
+    "Symbol": "DUK"
+  },
+  {
+    "Symbol": "DVA"
+  },
+  {
+    "Symbol": "DVN"
+  },
+  {
+    "Symbol": "DWDP"
+  },
+  {
+    "Symbol": "DXC"
+  },
+  {
+    "Symbol": "EA"
+  },
+  {
+    "Symbol": "EBAY"
+  },
+  {
+    "Symbol": "ECL"
+  },
+  {
+    "Symbol": "ED"
+  },
+  {
+    "Symbol": "EFX"
+  },
+  {
+    "Symbol": "EIX"
+  },
+  {
+    "Symbol": "EL"
+  },
+  {
+    "Symbol": "EMN"
+  },
+  {
+    "Symbol": "EMR"
+  },
+  {
+    "Symbol": "EOG"
+  },
+  {
+    "Symbol": "EQIX"
+  },
+  {
+    "Symbol": "EQR"
+  },
+  {
+    "Symbol": "EQT"
+  },
+  {
+    "Symbol": "ES"
+  },
+  {
+    "Symbol": "ESRX"
+  },
+  {
+    "Symbol": "ESS"
+  },
+  {
+    "Symbol": "ETFC"
+  },
+  {
+    "Symbol": "ETN"
+  },
+  {
+    "Symbol": "ETR"
+  },
+  {
+    "Symbol": "EVHC"
+  },
+  {
+    "Symbol": "EW"
+  },
+  {
+    "Symbol": "EXC"
+  },
+  {
+    "Symbol": "EXPD"
+  },
+  {
+    "Symbol": "EXPE"
+  },
+  {
+    "Symbol": "EXR"
+  },
+  {
+    "Symbol": "F"
+  },
+  {
+    "Symbol": "FAST"
+  },
+  {
+    "Symbol": "FB"
+  },
+  {
+    "Symbol": "FBHS"
+  },
+  {
+    "Symbol": "FCX"
+  },
+  {
+    "Symbol": "FDX"
+  },
+  {
+    "Symbol": "FE"
+  },
+  {
+    "Symbol": "FFIV"
+  },
+  {
+    "Symbol": "FIS"
+  },
+  {
+    "Symbol": "FISV"
+  },
+  {
+    "Symbol": "FITB"
+  },
+  {
+    "Symbol": "FL"
+  },
+  {
+    "Symbol": "FLIR"
+  },
+  {
+    "Symbol": "FLR"
+  },
+  {
+    "Symbol": "FLS"
+  },
+  {
+    "Symbol": "FMC"
+  },
+  {
+    "Symbol": "FOX"
+  },
+  {
+    "Symbol": "FOXA"
+  },
+  {
+    "Symbol": "FRT"
+  },
+  {
+    "Symbol": "FTI"
+  },
+  {
+    "Symbol": "FTV"
+  },
+  {
+    "Symbol": "GD"
+  },
+  {
+    "Symbol": "GE"
+  },
+  {
+    "Symbol": "GGP"
+  },
+  {
+    "Symbol": "GILD"
+  },
+  {
+    "Symbol": "GIS"
+  },
+  {
+    "Symbol": "GLW"
+  },
+  {
+    "Symbol": "GM"
+  },
+  {
+    "Symbol": "GOOG"
+  },
+  {
+    "Symbol": "GOOGL"
+  },
+  {
+    "Symbol": "GPC"
+  },
+  {
+    "Symbol": "GPN"
+  },
+  {
+    "Symbol": "GPS"
+  },
+  {
+    "Symbol": "GRMN"
+  },
+  {
+    "Symbol": "GS"
+  },
+  {
+    "Symbol": "GT"
+  },
+  {
+    "Symbol": "GWW"
+  },
+  {
+    "Symbol": "HAL"
+  },
+  {
+    "Symbol": "HAS"
+  },
+  {
+    "Symbol": "HBAN"
+  },
+  {
+    "Symbol": "HBI"
+  },
+  {
+    "Symbol": "HCA"
+  },
+  {
+    "Symbol": "HCP"
+  },
+  {
+    "Symbol": "HD"
+  },
+  {
+    "Symbol": "HES"
+  },
+  {
+    "Symbol": "HIG"
+  },
+  {
+    "Symbol": "HII"
+  },
+  {
+    "Symbol": "HLT"
+  },
+  {
+    "Symbol": "HOG"
+  },
+  {
+    "Symbol": "HOLX"
+  },
+  {
+    "Symbol": "HON"
+  },
+  {
+    "Symbol": "HP"
+  },
+  {
+    "Symbol": "HPE"
+  },
+  {
+    "Symbol": "HPQ"
+  },
+  {
+    "Symbol": "HRB"
+  },
+  {
+    "Symbol": "HRL"
+  },
+  {
+    "Symbol": "HRS"
+  },
+  {
+    "Symbol": "HSIC"
+  },
+  {
+    "Symbol": "HST"
+  },
+  {
+    "Symbol": "HSY"
+  },
+  {
+    "Symbol": "HUM"
+  },
+  {
+    "Symbol": "IBM"
+  },
+  {
+    "Symbol": "ICE"
+  },
+  {
+    "Symbol": "IDXX"
+  },
+  {
+    "Symbol": "IFF"
+  },
+  {
+    "Symbol": "ILMN"
+  },
+  {
+    "Symbol": "INCY"
+  },
+  {
+    "Symbol": "INFO"
+  },
+  {
+    "Symbol": "INTC"
+  },
+  {
+    "Symbol": "INTU"
+  },
+  {
+    "Symbol": "IP"
+  },
+  {
+    "Symbol": "IPG"
+  },
+  {
+    "Symbol": "IPGP"
+  },
+  {
+    "Symbol": "IQV"
+  },
+  {
+    "Symbol": "IR"
+  },
+  {
+    "Symbol": "IRM"
+  },
+  {
+    "Symbol": "ISRG"
+  },
+  {
+    "Symbol": "IT"
+  },
+  {
+    "Symbol": "ITW"
+  },
+  {
+    "Symbol": "IVZ"
+  },
+  {
+    "Symbol": "JBHT"
+  },
+  {
+    "Symbol": "JCI"
+  },
+  {
+    "Symbol": "JEC"
+  },
+  {
+    "Symbol": "JNJ"
+  },
+  {
+    "Symbol": "JNPR"
+  },
+  {
+    "Symbol": "JPM"
+  },
+  {
+    "Symbol": "JWN"
+  },
+  {
+    "Symbol": "K"
+  },
+  {
+    "Symbol": "KEY"
+  },
+  {
+    "Symbol": "KHC"
+  },
+  {
+    "Symbol": "KIM"
+  },
+  {
+    "Symbol": "KLAC"
+  },
+  {
+    "Symbol": "KMB"
+  },
+  {
+    "Symbol": "KMI"
+  },
+  {
+    "Symbol": "KMX"
+  },
+  {
+    "Symbol": "KO"
+  },
+  {
+    "Symbol": "KORS"
+  },
+  {
+    "Symbol": "KR"
+  },
+  {
+    "Symbol": "KSS"
+  },
+  {
+    "Symbol": "KSU"
+  },
+  {
+    "Symbol": "L"
+  },
+  {
+    "Symbol": "LB"
+  },
+  {
+    "Symbol": "LEG"
+  },
+  {
+    "Symbol": "LEN"
+  },
+  {
+    "Symbol": "LH"
+  },
+  {
+    "Symbol": "LKQ"
+  },
+  {
+    "Symbol": "LLL"
+  },
+  {
+    "Symbol": "LLY"
+  },
+  {
+    "Symbol": "LMT"
+  },
+  {
+    "Symbol": "LNC"
+  },
+  {
+    "Symbol": "LNT"
+  },
+  {
+    "Symbol": "LOW"
+  },
+  {
+    "Symbol": "LRCX"
+  },
+  {
+    "Symbol": "LUK"
+  },
+  {
+    "Symbol": "LUV"
+  },
+  {
+    "Symbol": "LYB"
+  },
+  {
+    "Symbol": "M"
+  },
+  {
+    "Symbol": "MA"
+  },
+  {
+    "Symbol": "MAA"
+  },
+  {
+    "Symbol": "MAC"
+  },
+  {
+    "Symbol": "MAR"
+  },
+  {
+    "Symbol": "MAS"
+  },
+  {
+    "Symbol": "MAT"
+  },
+  {
+    "Symbol": "MCD"
+  },
+  {
+    "Symbol": "MCHP"
+  },
+  {
+    "Symbol": "MCK"
+  },
+  {
+    "Symbol": "MCO"
+  },
+  {
+    "Symbol": "MDLZ"
+  },
+  {
+    "Symbol": "MDT"
+  },
+  {
+    "Symbol": "MET"
+  },
+  {
+    "Symbol": "MGM"
+  },
+  {
+    "Symbol": "MHK"
+  },
+  {
+    "Symbol": "MKC"
+  },
+  {
+    "Symbol": "MLM"
+  },
+  {
+    "Symbol": "MMC"
+  },
+  {
+    "Symbol": "MMM"
+  },
+  {
+    "Symbol": "MNST"
+  },
+  {
+    "Symbol": "MO"
+  },
+  {
+    "Symbol": "MON"
+  },
+  {
+    "Symbol": "MOS"
+  },
+  {
+    "Symbol": "MPC"
+  },
+  {
+    "Symbol": "MRK"
+  },
+  {
+    "Symbol": "MRO"
+  },
+  {
+    "Symbol": "MS"
+  },
+  {
+    "Symbol": "MSFT"
+  },
+  {
+    "Symbol": "MSI"
+  },
+  {
+    "Symbol": "MTB"
+  },
+  {
+    "Symbol": "MTD"
+  },
+  {
+    "Symbol": "MU"
+  },
+  {
+    "Symbol": "MYL"
+  },
+  {
+    "Symbol": "NAVI"
+  },
+  {
+    "Symbol": "NBL"
+  },
+  {
+    "Symbol": "NCLH"
+  },
+  {
+    "Symbol": "NDAQ"
+  },
+  {
+    "Symbol": "NEE"
+  },
+  {
+    "Symbol": "NEM"
+  },
+  {
+    "Symbol": "NFLX"
+  },
+  {
+    "Symbol": "NFX"
+  },
+  {
+    "Symbol": "NI"
+  },
+  {
+    "Symbol": "NKE"
+  },
+  {
+    "Symbol": "NKTR"
+  },
+  {
+    "Symbol": "NLSN"
+  },
+  {
+    "Symbol": "NOC"
+  },
+  {
+    "Symbol": "NOV"
+  },
+  {
+    "Symbol": "NRG"
+  },
+  {
+    "Symbol": "NSC"
+  },
+  {
+    "Symbol": "NTAP"
+  },
+  {
+    "Symbol": "NTRS"
+  },
+  {
+    "Symbol": "NUE"
+  },
+  {
+    "Symbol": "NVDA"
+  },
+  {
+    "Symbol": "NWL"
+  },
+  {
+    "Symbol": "NWS"
+  },
+  {
+    "Symbol": "NWSA"
+  },
+  {
+    "Symbol": "O"
+  },
+  {
+    "Symbol": "OKE"
+  },
+  {
+    "Symbol": "OMC"
+  },
+  {
+    "Symbol": "ORCL"
+  },
+  {
+    "Symbol": "ORLY"
+  },
+  {
+    "Symbol": "OXY"
+  },
+  {
+    "Symbol": "PAYX"
+  },
+  {
+    "Symbol": "PBCT"
+  },
+  {
+    "Symbol": "PCAR"
+  },
+  {
+    "Symbol": "PCG"
+  },
+  {
+    "Symbol": "PEG"
+  },
+  {
+    "Symbol": "PEP"
+  },
+  {
+    "Symbol": "PFE"
+  },
+  {
+    "Symbol": "PFG"
+  },
+  {
+    "Symbol": "PG"
+  },
+  {
+    "Symbol": "PGR"
+  },
+  {
+    "Symbol": "PH"
+  },
+  {
+    "Symbol": "PHM"
+  },
+  {
+    "Symbol": "PKG"
+  },
+  {
+    "Symbol": "PKI"
+  },
+  {
+    "Symbol": "PLD"
+  },
+  {
+    "Symbol": "PM"
+  },
+  {
+    "Symbol": "PNC"
+  },
+  {
+    "Symbol": "PNR"
+  },
+  {
+    "Symbol": "PNW"
+  },
+  {
+    "Symbol": "PPG"
+  },
+  {
+    "Symbol": "PPL"
+  },
+  {
+    "Symbol": "PRGO"
+  },
+  {
+    "Symbol": "PRU"
+  },
+  {
+    "Symbol": "PSA"
+  },
+  {
+    "Symbol": "PSX"
+  },
+  {
+    "Symbol": "PVH"
+  },
+  {
+    "Symbol": "PWR"
+  },
+  {
+    "Symbol": "PX"
+  },
+  {
+    "Symbol": "PXD"
+  },
+  {
+    "Symbol": "PYPL"
+  },
+  {
+    "Symbol": "QCOM"
+  },
+  {
+    "Symbol": "QRVO"
+  },
+  {
+    "Symbol": "RCL"
+  },
+  {
+    "Symbol": "RE"
+  },
+  {
+    "Symbol": "REG"
+  },
+  {
+    "Symbol": "REGN"
+  },
+  {
+    "Symbol": "RF"
+  },
+  {
+    "Symbol": "RHI"
+  },
+  {
+    "Symbol": "RHT"
+  },
+  {
+    "Symbol": "RJF"
+  },
+  {
+    "Symbol": "RL"
+  },
+  {
+    "Symbol": "RMD"
+  },
+  {
+    "Symbol": "ROK"
+  },
+  {
+    "Symbol": "ROP"
+  },
+  {
+    "Symbol": "ROST"
+  },
+  {
+    "Symbol": "RRC"
+  },
+  {
+    "Symbol": "RSG"
+  },
+  {
+    "Symbol": "RTN"
+  },
+  {
+    "Symbol": "SBAC"
+  },
+  {
+    "Symbol": "SBUX"
+  },
+  {
+    "Symbol": "SCG"
+  },
+  {
+    "Symbol": "SCHW"
+  },
+  {
+    "Symbol": "SEE"
+  },
+  {
+    "Symbol": "SHW"
+  },
+  {
+    "Symbol": "SIVB"
+  },
+  {
+    "Symbol": "SJM"
+  },
+  {
+    "Symbol": "SLB"
+  },
+  {
+    "Symbol": "SLG"
+  },
+  {
+    "Symbol": "SNA"
+  },
+  {
+    "Symbol": "SNPS"
+  },
+  {
+    "Symbol": "SO"
+  },
+  {
+    "Symbol": "SPG"
+  },
+  {
+    "Symbol": "SPGI"
+  },
+  {
+    "Symbol": "SRCL"
+  },
+  {
+    "Symbol": "SRE"
+  },
+  {
+    "Symbol": "STI"
+  },
+  {
+    "Symbol": "STT"
+  },
+  {
+    "Symbol": "STX"
+  },
+  {
+    "Symbol": "STZ"
+  },
+  {
+    "Symbol": "SWK"
+  },
+  {
+    "Symbol": "SWKS"
+  },
+  {
+    "Symbol": "SYF"
+  },
+  {
+    "Symbol": "SYK"
+  },
+  {
+    "Symbol": "SYMC"
+  },
+  {
+    "Symbol": "SYY"
+  },
+  {
+    "Symbol": "T"
+  },
+  {
+    "Symbol": "TAP"
+  },
+  {
+    "Symbol": "TDG"
+  },
+  {
+    "Symbol": "TEL"
+  },
+  {
+    "Symbol": "TGT"
+  },
+  {
+    "Symbol": "TIF"
+  },
+  {
+    "Symbol": "TJX"
+  },
+  {
+    "Symbol": "TMK"
+  },
+  {
+    "Symbol": "TMO"
+  },
+  {
+    "Symbol": "TPR"
+  },
+  {
+    "Symbol": "TRIP"
+  },
+  {
+    "Symbol": "TROW"
+  },
+  {
+    "Symbol": "TRV"
+  },
+  {
+    "Symbol": "TSCO"
+  },
+  {
+    "Symbol": "TSN"
+  },
+  {
+    "Symbol": "TSS"
+  },
+  {
+    "Symbol": "TTWO"
+  },
+  {
+    "Symbol": "TWX"
+  },
+  {
+    "Symbol": "TXN"
+  },
+  {
+    "Symbol": "TXT"
+  },
+  {
+    "Symbol": "UA"
+  },
+  {
+    "Symbol": "UAA"
+  },
+  {
+    "Symbol": "UAL"
+  },
+  {
+    "Symbol": "UDR"
+  },
+  {
+    "Symbol": "UHS"
+  },
+  {
+    "Symbol": "ULTA"
+  },
+  {
+    "Symbol": "UNH"
+  },
+  {
+    "Symbol": "UNM"
+  },
+  {
+    "Symbol": "UNP"
+  },
+  {
+    "Symbol": "UPS"
+  },
+  {
+    "Symbol": "URI"
+  },
+  {
+    "Symbol": "USB"
+  },
+  {
+    "Symbol": "UTX"
+  },
+  {
+    "Symbol": "V"
+  },
+  {
+    "Symbol": "VAR"
+  },
+  {
+    "Symbol": "VFC"
+  },
+  {
+    "Symbol": "VIAB"
+  },
+  {
+    "Symbol": "VLO"
+  },
+  {
+    "Symbol": "VMC"
+  },
+  {
+    "Symbol": "VNO"
+  },
+  {
+    "Symbol": "VRSK"
+  },
+  {
+    "Symbol": "VRSN"
+  },
+  {
+    "Symbol": "VRTX"
+  },
+  {
+    "Symbol": "VTR"
+  },
+  {
+    "Symbol": "VZ"
+  },
+  {
+    "Symbol": "WAT"
+  },
+  {
+    "Symbol": "WBA"
+  },
+  {
+    "Symbol": "WDC"
+  },
+  {
+    "Symbol": "WEC"
+  },
+  {
+    "Symbol": "WELL"
+  },
+  {
+    "Symbol": "WFC"
+  },
+  {
+    "Symbol": "WHR"
+  },
+  {
+    "Symbol": "WLTW"
+  },
+  {
+    "Symbol": "WM"
+  },
+  {
+    "Symbol": "WMB"
+  },
+  {
+    "Symbol": "WMT"
+  },
+  {
+    "Symbol": "WRK"
+  },
+  {
+    "Symbol": "WU"
+  },
+  {
+    "Symbol": "WY"
+  },
+  {
+    "Symbol": "WYN"
+  },
+  {
+    "Symbol": "WYNN"
+  },
+  {
+    "Symbol": "XEC"
+  },
+  {
+    "Symbol": "XEL"
+  },
+  {
+    "Symbol": "XL"
+  },
+  {
+    "Symbol": "XLNX"
+  },
+  {
+    "Symbol": "XOM"
+  },
+  {
+    "Symbol": "XRAY"
+  },
+  {
+    "Symbol": "XRX"
+  },
+  {
+    "Symbol": "XYL"
+  },
+  {
+    "Symbol": "YUM"
+  },
+  {
+    "Symbol": "ZBH"
+  },
+  {
+    "Symbol": "ZION"
+  },
+  {
+    "Symbol": "ZTS"
+  }
+]

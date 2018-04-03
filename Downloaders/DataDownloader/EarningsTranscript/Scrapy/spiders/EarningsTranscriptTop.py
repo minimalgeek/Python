@@ -16,7 +16,7 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
             'Scrapy.pipelines.MongoPipeline': 100,
         },
         'MODE': 'FILE',  # ZACKS, SINGLE, FILE
-        'MONGO_COLLECTION': 'earnings_call_Nas100_Broad_Manual_Update', # 'earnings_call_Nas100_Broad_Manual_Update','earnings_call_Dow30_Broad'
+        'MONGO_COLLECTION': 'earnings_call_S&P500', # 'earnings_call_Nas100_Broad_Manual_Update','earnings_call_Dow30_Broad', 'earnings_call_S&P500'
         'DOWNLOAD_DELAY': 3,
         'CONCURRENT_REQUESTS': 5,
         'ZACKS_MONGO_COLLECTION': 'zacks_earnings_call_dates',
@@ -57,7 +57,7 @@ class EarningsTranscriptSpiderTop(AdvancedSpider):
             self.log('Final tickers: ' + str(tickers))
         elif mode == 'FILE':
             self.log('Open tickers from JSON file')
-            tickers = json.loads(open('tickers_lists/NAS_ALL.json', encoding='utf-8').read())   # NAS_ALL.json, DOW30
+            tickers = json.loads(open('tickers_lists/SPX_20180331.json', encoding='utf-8').read())   # NAS_ALL.json, DOW30.json, SPX_20180331.json
         elif mode == 'SINGLE':
             tickers = [{'Symbol': self.settings.get('TICKER')}]
         else:
