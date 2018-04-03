@@ -13,7 +13,7 @@ class ToneCalc(object):
                  host='localhost',
                  port=27017,
                  db='python_import',
-                 collection='earnings_transcript'):
+                 collection='earnings_call_Nas100_Broad_Manual_Update'):                         # earnings_transcript, earnings_call_Dow30_Broad, 
         self.client = pymongo.MongoClient(host=host, port=port)
         self.db = self.client[db]
         self.collection = self.db[collection]
